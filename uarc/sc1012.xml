@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[Stanford University, Libraries, HighWire Press, records])//EN"
+             identifier="ark:/13030/kt200032zs">sc1012.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Stanford University, Libraries, HighWire Press, Records
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Stanford University Libraries, HighWire Press, Records</titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2011-01">January 2011</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <descrules>Describing Archives: A Content Standard</descrules>
+         <langusage>Finding aid written in <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date normal="2014-04">April 2014</date>
+            <item/>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC1012</unitid>
+         <origination label="Creator:">
+            <corpname rules="dacs" source="local" role=" ">HighWire Press.</corpname>
+         </origination>
+         <unittitle label="Title:">Stanford University, Libraries, HighWire Press, records</unittitle>
+         <unitdate normal="1993/2000"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1993-2000</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>3.25 Linear feet  and 7.62 megabytes</extent>
+         </physdesc>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <descgrp type="provenance" id="prov">
+            <head>Provenance</head>
+            <acqinfo id="ref3">
+               <p>Materials were transferred from HighWire Press, 2010.</p>
+            </acqinfo>
+         </descgrp>
+         <accessrestrict id="ref4">
+            <head>Information about Access</head>
+            <p>Access: Materials are open to research use.</p>
+         </accessrestrict>
+         <prefercite id="ref5">
+            <head>Cite As</head>
+            <p>Stanford University, Libraries, HighWire Press, Records (SC1012). Department of Special Collections, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <bioghist id="ref1">
+         <head>Biographical/Historical note</head>
+         <p>HighWire Press is a division of the Stanford University Libraries producing online versions of peer-reviewed journals and scholarly content.</p>
+      </bioghist>
+      <scopecontent id="ref2">
+         <head>Scope and Contents note</head>
+         <p>The records primarily contain overhead slides for presentations on HighWire Press by Vicky Reich, 2000 and undated; titles include Electronic Publishing between Two Poles, The HighWire Perspective Electronic Journal License Agreements, What *Do* Librarians Want? and E-Materials: Barriers to Revolutionizing Scientific Information. Other materials include webpage printouts, 1999-2000, and conference materials from Preservation 2000.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <persname rules="aacr" source="ingest" role=" ">Reich, Vicky.</persname>
+         <subject source="lcsh">Libraries and electronic publishing.</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.6">
+         <head>Collection Contents</head>
+         <c01 id="ref6" level="series">
+            <did>
+               <unitid>Accession 2010-139</unitid>
+               <unittitle>Records</unittitle>
+               <unitdate>1999-2000</unitdate>
+               <physdesc>
+                  <extent>1 Linear feet</extent>
+               </physdesc>
+            </did>
+            <c02 id="ref7" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Expanding the Print Journal to Fit the Online World. Vicky Reich [overhead slides]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref8" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">2</container>
+                  <unittitle>HighWire Press webpage printouts in overhead slides</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref9" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Electronic Publishing between Two Poles. Vicky Reich [overhead slides]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref10" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">2</container>
+                  <unittitle>The HighWire Perspective Electronic Journal License Agreements. Vicky Reich [overhead slides]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref11" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">3</container>
+                  <unittitle>HighWire Press webpages</unittitle>
+                  <unitdate>1999</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref12" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Overhead slides (current)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref13" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Preservation 2000, conference materials</unittitle>
+                  <unitdate>2000</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref14" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">6</container>
+                  <unittitle>STKE Virtual Journal, webpages</unittitle>
+                  <unitdate>2000</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref15" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Two presentations by Vicky Reich: “What *Do* Librarians Want?” and “E-Materials: Barriers to Revolutionizing Scientific Information” [photocopies of slides]</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref16" level="series">
+            <did>
+               <unitid>Accession 2011-053</unitid>
+               <unittitle>Records</unittitle>
+               <unitdate>1993-1998</unitdate>
+               <physdesc>
+                  <extent>2.25 Linear feet</extent>
+               </physdesc>
+            </did>
+            <c02 id="ref17" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">1</container>
+                  <unittitle>AAAS Annual Meeting</unittitle>
+                  <unitdate>1997</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref18" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Access control, outlines, email, forms</unittitle>
+                  <unitdate>1996</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref19" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">3</container>
+                  <unittitle>ACM [Association for Computing Machinery] proposal/project</unittitle>
+                  <unitdate>1993</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref20" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Advisory Council, HighWire Press presentation</unittitle>
+                  <unitdate>1996</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref21" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">5</container>
+                  <unittitle>AJR, New Orleans, presentation materials</unittitle>
+                  <unitdate>1998 Feb</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref22" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Allerton Institute</unittitle>
+                  <unitdate>1995</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref23" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">7</container>
+                  <unittitle>ALPSP [Association of Learned and Professional Society Publishers] seminar materials, Parallel Publishing</unittitle>
+                  <unitdate>1997</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref24" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Annual Reviews, online project proposal</unittitle>
+                  <unitdate>1995</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref25" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Business Models for E-Publishing, presentation materials, notes</unittitle>
+                  <unitdate>1996-1997</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref26" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Conway, Morna, "Publishing on the Web Ahead of Print," text and notes</unittitle>
+                  <unitdate>1998</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref27" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Cooper, Noreen, "Public Interest Intrapreneurship," text and letter</unittitle>
+                  <unitdate>1997</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref28" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">12</container>
+                  <unittitle>CSTR emails</unittitle>
+                  <unitdate>1994</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref29" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">13</container>
+                  <unittitle>CSTR meeting, email, drafts, notes, etc.</unittitle>
+                  <unitdate>1994</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref30" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Demo at Moscone Center, email, notes, and other materials</unittitle>
+                  <unitdate>1995</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref31" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">15</container>
+                  <unittitle>Demoing HighWire, outlines, memos, email</unittitle>
+                  <unitdate>1996</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref32" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">16</container>
+                  <unittitle>Dolphin, Kimberley A. "Hip or Hype? Electronic Journals: A Descriptive Study in Three Parts"</unittitle>
+                  <unitdate>1994</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref33" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">17</container>
+                  <unittitle>E-Journal Task Group, emails, memoranda, etc.</unittitle>
+                  <unitdate>1993-1994</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref34" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Economic Problems of Copyright, presentation by Mike Lesk</unittitle>
+                  <unitdate>1996</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref35" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Gorden &amp; Breach, transparencies</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref36" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">3</container>
+                  <unittitle>The High Wire Partnership, Vicky Reich, transparencies</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref37" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">4</container>
+                  <unittitle>HighWire talk, Vicky Reich, transparencies</unittitle>
+                  <unitdate>1996</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref38" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">5</container>
+                  <unittitle>IuK Workshop, paper abstracts</unittitle>
+                  <unitdate>1998</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref39" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Journal of Biological Chemistry (Electronic publication of the), proposal, notes, memos, etc.</unittitle>
+                  <unitdate>1994-1996</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref40" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">7</container>
+                  <unittitle>JBC, emails about website/data issues</unittitle>
+                  <unitdate>1995</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref41" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">8</container>
+                  <unittitle>JBC materials</unittitle>
+                  <unitdate>1995-1996</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref42" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Journal of Biological Chemistry project, notes</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref43" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">1</container>
+                  <unittitle>NASIG, HighWire Workshop, "Technology and the Effects of Electronic Journals on Libraries," by Vicky Reich</unittitle>
+                  <unitdate>1998</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref44" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">2</container>
+                  <unittitle>NDLF/Digital Library project meeting, notes</unittitle>
+                  <unitdate>1996 Dec. 15</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref45" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">3</container>
+                  <unittitle>NSF-2: “The Computer Science Technical Report (CS-TR) Project: Considerations from the Library Perspective,” Greg Anderson, Rebecca Lasher, and Vicky ReichNSF-2: “The Computer Science Technical Report (CS-TR) Project: Considerations from the Library Perspective,” Greg Anderson, Rebecca Lasher, and Vicky Reich</unittitle>
+                  <unitdate>circa 1995</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref46" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Reich, Vicky, transparencies, correspondence and other materials</unittitle>
+                  <unitdate>1995-1998</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref47" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Science [Magazine] notes, proposal</unittitle>
+                  <unitdate>1995</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref48" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Science On-Line Feedback, email responses</unittitle>
+                  <unitdate>1995-1996</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref49" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Scientific publishing, assorted presentations and other materials</unittitle>
+                  <unitdate>1996-1997</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref50" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Scientific publishing, marketing, assorted materials</unittitle>
+                  <unitdate>1996-1997</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref51" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Social Impacts of Digital Libraries, workshop materials</unittitle>
+                  <unitdate>1996</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref52" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Stanford Digital Library Project, Andreas Paepcke - original transparencies</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref53" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Stanford Digital Library Project, Andreas Paepcke and Vicky Reich - copies of online slides</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref54" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Stanford Digital Library Project, Shanghai conference, Vicky Reich's presentation</unittitle>
+                  <unitdate>1997 Nov</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref55" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Stanford Digital Library Project, Vicky Reich - copies of transparencies</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref56" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">14</container>
+                  <unittitle>SUL Electronic Media Copyright Policy, drafts</unittitle>
+                  <unitdate>1994</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref57" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Stanford University Digital Library Research Initiative, Vicky Reich, transparencies</unittitle>
+                  <unitdate>1995</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref58" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Taking a Journal On-Line: Practical Experiences by John Sack, photocopies of transparencies</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref59" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Terms and Conditions Workshop, Break-out Group Report, Vicky Reich, transparencies and notes</unittitle>
+                  <unitdate>1996</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref60" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Transparencies (general HighWire Press information)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref61" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Transparencies, HighWire Press web pages</unittitle>
+                  <unitdate>1998</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref62" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">6-9</container>
+                  <unittitle>Unsorted memos, correspondence, copies of transparencies, etc.</unittitle>
+                  <unitdate>1995-1996 and undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref64" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Web Training for Faculty, email, outlines, etc.</unittitle>
+                  <unitdate>1995</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref65" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Science Magazine Focus Group; recorded at Technology forecasters, Inc.</unittitle>
+                  <unitdate>1996 Oct</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref66" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Science Magazine Focus Group; recorded at Technology forecasters, Inc.</unittitle>
+                  <unitdate>1996 Oct</unitdate>
+                  <physdesc>
+                     <extent>1 audiocassette(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref67" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Focus Group, Hyatt, Palo Alto.</unittitle>
+                  <unitdate>1996 Oct</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref68" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Focus Group, Hyatt, Palo Alto.</unittitle>
+                  <unitdate>1996 Oct</unitdate>
+                  <physdesc>
+                     <extent>2 audiocassette(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

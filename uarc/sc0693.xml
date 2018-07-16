@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[Historical Seminary of Leland Stanford Junior University records])//EN"
+             identifier="ark:/13030/kt2h4nf2gk">sc0693.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Historical Seminary of Leland Stanford Junior University Records
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Historical Seminary of Leland Stanford Junior University Records</titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2011-02">February 2011</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <descrules>Describing Archives: A Content Standard</descrules>
+         <langusage>Finding aid written in <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC0693</unitid>
+         <origination label="Creator:">
+            <corpname rules="dacs" source="naf" role="Other (oth)">Stanford University</corpname>
+         </origination>
+         <unittitle label="Title:">Historical Seminary of Leland Stanford Junior University records</unittitle>
+         <unitdate normal="1891/1901"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1891-1901</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>1.75 Linear feet</extent>
+         </physdesc>
+         <abstract label="Summary:">The records consist of minutes from weekly meetings with outlines of reports presented. The topics included issues in political and legal history, international relations, historical figures, slavery, abolition, American Indian policies, railroad history, American expansion, and historical methods. Although the United States and Europe were the primary focus, some meetings focused on Africa, India, Russia, and Latin America.</abstract>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <accessrestrict id="ref3">
+            <head>Information about Access</head>
+            <p>The materials are open for research use.</p>
+         </accessrestrict>
+         <prefercite id="ref4">
+            <head>Cite As</head>
+            <p>Historical Seminary of Leland Stanford Junior University Records (SC0693). Department of Special Collections, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <bioghist id="ref5">
+         <head>Biographical/Historical note</head>
+         <p>The Historical Seminary was an upper level class offered by the Department of History to "afford a practical training in methods of historical research through the use of original materials" [from the Annual Register]. Weekly sessions included the presentation and discussion of papers, reports, book reviews and other independent research.</p>
+      </bioghist>
+      <scopecontent id="ref6">
+         <head>Scope and Contents note</head>
+         <p>The records consist of minutes from weekly meetings with outlines of reports presented. The topics included issues in political and legal history, international relations, historical figures, slavery, abolition, American Indian policies, railroad history, American expansion, and historical methods. Although the United States and Europe were the primary focus, some meetings focused on Africa, India, Russia, and Latin America. Professors associated with the Seminary included George Elliott Howard, Mary Sheldon Barnes, Clyde Augustus Duniway, Arley Barthlow Show, and David Ellsworth Spencer. Of particular note to Stanford's history is an 1898 report on Mary Sheldon Barnes and the rise of the "source-method" in secondary schools.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <persname rules="aacr" source="naf">Barnes, Mary Sheldon, 1850-1898</persname>
+         <persname rules="aacr" source="ingest">Duniway, C. A.,  (Clyde Augustus), 1866-1944.</persname>
+         <persname rules="aacr" source="ingest">Howard, George Elliott, 1849-1928.</persname>
+         <persname rules="aacr" source="ingest">Show, Arley Barthlow, 1856-1920.</persname>
+         <persname rules="aacr" source="ingest">Spencer, David Ellsworth.</persname>
+         <corpname rules="dacs" source="ingest">Stanford University. Department of History.</corpname>
+         <subject source="lcsh">History--Study and teaching.</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.6">
+         <head>Collection Contents</head>
+         <c01 id="ref7" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">1</container>
+               <unittitle>Meetings</unittitle>
+               <unitdate>1891 Nov-Dec</unitdate>
+            </did>
+            <scopecontent>
+               <p>Founding minutes; outlines of reports on Arthur Young's travels in France, Bacon's Rebellion, the "Spoils System," feudal court in France, Seeley's expansion in England, and the manor in America.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref9" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">2</container>
+               <unittitle>Meetings</unittitle>
+               <unitdate>1892 Jan-Feb</unitdate>
+            </did>
+            <scopecontent>
+               <p>Minutes; outlines of reports on The Village Community in New England, Mirabeau in the Constituent Assembly, Fidermann's Unwritten Constitution of the US, the Puritan Commonwealth, Township Organization in Canada, Quaker Invasion of Massachusetts, and the Royal Family in the [French] Revolution.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref11" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">3</container>
+               <unittitle>Meetings</unittitle>
+               <unitdate>1892 Mar-Apr</unitdate>
+            </did>
+            <scopecontent>
+               <p>Minutes; outlines of reports on the New England Indian Policy, Rousseau's Educational Ideas, the Elections of 1789 in France, Phases of the French Revolution, the Women of the French Revolution, and the Character and Policy of Robespierre.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref13" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">4</container>
+               <unittitle>Meetings</unittitle>
+               <unitdate>1892 May-June</unitdate>
+            </did>
+            <scopecontent>
+               <p>Minutes; outlines of reports on the Character and Policy of Robespierre (cont.), the Place of Danton in the French Revolution, the French Constitution (several presenters), Jacobin Conquest, Relations between France and America and France and England during the French Revolution, Development of the Legislative Department of Massachusetts, Crime and Criminal Law in Massachusetts, and the Influence of France on the American Revolution.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref15" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">5</container>
+               <unittitle>Meetings</unittitle>
+               <unitdate>1892 Sept-Nov</unitdate>
+            </did>
+            <scopecontent>
+               <p>Minutes; outlines of reports on Anglo-Saxon Family Law, the Anglo-Saxon Woman, Anglo-Saxon Land Law, and the Merchant Guild in England.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref17" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">6</container>
+               <unittitle>Meetings</unittitle>
+               <unitdate>1893 Jan-Feb</unitdate>
+            </did>
+            <scopecontent>
+               <p>Minutes; outlines of reports on Trial by Combat in England, the Conquest of California and the Struggle for its Admission into the Union, the Old English Manor, Trial by Compurgation and Ordeal, Evolution of English Municipal Institutions, and Charter to the Citizens of London Granted by Henry I.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref19" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">7</container>
+               <unittitle>Meetings</unittitle>
+               <unitdate>1893 Mar-May</unitdate>
+            </did>
+            <scopecontent>
+               <p>Minutes; outlines of reports on English Trade and Commerce Regulations of the Middle Ages, History of Taxation to 1485, Evolution of English Municipal Institutions, the Struggle between President Johnson and Congress over Reconstruction, and Origin and Development of Political Parties in the United States.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref21" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">8</container>
+               <unittitle>Meetings</unittitle>
+               <unitdate>1894 Sep-Oct</unitdate>
+            </did>
+            <scopecontent>
+               <p>Minutes; outlines of reports on Seminary Method and Organization, Nature and Method of Historical Study: Select References, Historical Serials, Historical Societies in the United States, An Outline of the Indian Policy of Government of the U.S., and Current Events in America.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref23" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">9</container>
+               <unittitle>Meetings</unittitle>
+               <unitdate>1894 Nov-Dec</unitdate>
+            </did>
+            <scopecontent>
+               <p>Minutes; outlines of reports on Review of Recent Oriental Affairs, The Russian American Extradition Treaty, Recent European History, An Investigation of the Principles of Method, Tariff Act of 1894, A Study in Local History (Sources of Information), Notes on Land Holding in Russia, Agitation for Proportional Representation, and Direct Legislation by the Vote of the People: The Initiative and Referendum.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref25" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">10</container>
+               <unittitle>Meetings</unittitle>
+               <unitdate>1895 Jan-Feb</unitdate>
+            </did>
+            <scopecontent>
+               <p>Minutes; outlines of reports on The Gerrymander, Slavery in the District of Columbia, Recent Decisions of the Federal Courts on Strikes, Spanish Archives in San Francisco, The Nicaragua Canal, Stevens' Sources of the Constitution, Oman's European History, and Municipal Government and its Reform.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref27" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">11</container>
+               <unittitle>Meetings</unittitle>
+               <unitdate>1895 Mar-May</unitdate>
+            </did>
+            <scopecontent>
+               <p>Minutes; outlines of reports on Social Experiments on the Pacific Slope, The English Social Revolt in 1381, Machiavelli as a Political Thinker, The Dartmouth College Case in the Light of Earlier and Later Decisions.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref29" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">12</container>
+               <unittitle>Meetings</unittitle>
+               <unitdate>1895 Sept-Oct</unitdate>
+            </did>
+            <scopecontent>
+               <p>Minutes; outlines of reports on historical method, expansion of Europe, sources of history with special reference to the Pacific Slope, John C. Calhoun, the philosophy of history, work of Edward A. Freeman, and the relation of institutional history to kulturgeschighte.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref31" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">13</container>
+               <unittitle>Meetings</unittitle>
+               <unitdate>1895 Nov-Dec</unitdate>
+            </did>
+            <scopecontent>
+               <p>Minutes; outlines of reports on the uses of history, the archives of England, annual output of historical literature, historical serials, and the expansion of Europe in America.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref33" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">14</container>
+               <unittitle>Meetings</unittitle>
+               <unitdate>1896 Jan-Feb</unitdate>
+            </did>
+            <scopecontent>
+               <p>Minutes; outlines of reports on development of international law as to newly discovered territory, territorial divisions of Africa, Mr. Cecil Rhodes, the British in East Africa, German claims in Africa, the colony of Sierra Leone, history of Liberia, the Armenian question, and the self-government of India.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref35" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">15</container>
+               <unittitle>Meetings</unittitle>
+               <unitdate>1896 March-May</unitdate>
+            </did>
+            <scopecontent>
+               <p>Minutes; outlines of reports on opium traffic, Indian competition in wheat production, railways of India, the great Siberian railway, the land systems of India, education in India, education in Japan, imperial federation [Great Britain], present indications of American imperialism, the Cuban revolution, Australian government and politics, Sir Henry Parkes, the social problem of Constantinople, Spanish expansion in America, and Massachusetts colonial legislature.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref37" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">16</container>
+               <unittitle>Meetings</unittitle>
+               <unitdate>1896 September</unitdate>
+            </did>
+            <scopecontent>
+               <p>Minutes with list of topics for Sep-Dec 1896 and list of major theses; outlines of reports on Herodotus and his method and early mediaeval chroniclers.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref39" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">17</container>
+               <unittitle>Meetings</unittitle>
+               <unitdate>1896 Oct-Dec</unitdate>
+            </did>
+            <scopecontent>
+               <p>Minutes; outlines of reports on Francis Parkman, Niebuhr, Leopold von Ranke as a historian, Henrich von Sybel as a historian, Edward Augustus Freeman, George Bancroft, William Hickling Prescott, and Californian historians.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref41" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">1</container>
+               <unittitle>Meetings</unittitle>
+               <unitdate>1897 Jan-Feb</unitdate>
+            </did>
+            <scopecontent>
+               <p>Minutes with list of topics for Jan-May, 1897; outlines of reports on Latin America (government, trade, transportation).</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref43" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">2</container>
+               <unittitle>Meetings</unittitle>
+               <unitdate>1897 Mar-May</unitdate>
+            </did>
+            <scopecontent>
+               <p>Minutes; outlines of reports on Latin America (transportation, education, Pan-American Conference, Cuba).</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref45" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">3</container>
+               <unittitle>Meetings</unittitle>
+               <unitdate>1897 Sep-Oct</unitdate>
+            </did>
+            <scopecontent>
+               <p>Minutes with list of programs on the topic of historical method as illustrated in the great historians for Sept-Dec., 1897; outlines of reports on Leopold Van Ranke, John Froissart, Gregory of Tours, Jared Sparks, and S. R. Gardiner.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref47" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">4</container>
+               <unittitle>Meetings</unittitle>
+               <unitdate>1897 Nov-Dec</unitdate>
+            </did>
+            <scopecontent>
+               <p>Minutes; outlines of reports on William H. Prescott, Juan de Mariana, Thomas B. Macauley, some writers of Virginia history, and criticism of medieval authorities.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref49" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">5</container>
+               <unittitle>Meetings</unittitle>
+               <unitdate>1898 Jan-Feb</unitdate>
+            </did>
+            <scopecontent>
+               <p>Minutes with list of topics for Jan-May 1898; outlines of reports on General Assembly of colonial Rhode Island, courtship and marriage customs in colonial New England, Bacon's Rebellion, early development of the treasury department, and toleration under James II.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref51" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">6</container>
+               <unittitle>Meetings</unittitle>
+               <unitdate>1898 Mar-May</unitdate>
+            </did>
+            <scopecontent>
+               <p>Minutes; outlines of reports on municipal reform, Charles Sumner, George William Curtis, Atlantic fisheries, Australian Federation, history of the Pacific railroads, and Wharton's Franklin.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref53" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">7</container>
+               <unittitle>Meetings</unittitle>
+               <unitdate>1898 Sep-Oct</unitdate>
+            </did>
+            <scopecontent>
+               <p>Minutes with list of topics for Sept-Dec. 1898; outlines of reports on Herodotus, Gregory of Tours, Jared Sparks, Lamprecht's theory of history, and Mary Sheldon Barnes and the rise of the "source-method" in secondary schools.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref55" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">8</container>
+               <unittitle>Meetings</unittitle>
+               <unitdate>1898 Nov-Dec</unitdate>
+            </did>
+            <scopecontent>
+               <p>Minutes; outlines of reports on Justin Winsor, freedom of the press in Massachusetts, John Richard Green, and the history of ancient libraries.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref57" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">9</container>
+               <unittitle>Meetings</unittitle>
+               <unitdate>1899 Jan-Feb</unitdate>
+            </did>
+            <scopecontent>
+               <p>Minutes with list of topics for Jan-May; outlines of reports on public services of Thomas Paine, Hawaii's relations with U. S., history work in California high schools, vigilance committees of Santa Clara County, conquest of California, expansion policy, and international postal facilities in the U.S.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref59" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">10</container>
+               <unittitle>Meetings</unittitle>
+               <unitdate>1899 Mar-May</unitdate>
+            </did>
+            <scopecontent>
+               <p>Minutes; outlines of reports on More's Utopia, Hudson Bay Company, comparison of Puritan and Quaker treatment of Indians, French connection with American affairs 1763-1778, municipal reform in the U.S., influence of the U.S. on international law, fur seal industries, and San Francisco's municipal history.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref61" level="file">
+            <did>
+               <container type="Box">3</container>
+               <container type="Folder">1</container>
+               <unittitle>Meetings</unittitle>
+               <unitdate>1899 Sep-Oct</unitdate>
+            </did>
+            <scopecontent>
+               <p>Minutes with list of topics for Sept-Dec.; outlines of reports on seminary organization and aims, Thucydides and his method, history teaching in secondary schools and universities, and the inter-relations of history, economics and law.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref63" level="file">
+            <did>
+               <container type="Box">3</container>
+               <container type="Folder">2</container>
+               <unittitle>Meetings</unittitle>
+               <unitdate>1899 Nov-Dec</unitdate>
+            </did>
+            <scopecontent>
+               <p>Minutes; outlines of reports on Carlyle and his method, James Ford Rhodes, John Bach McMaster, James Schouler, Richard Hildreth, Thomas Babington McCaulay, magazines of history and allied sciences, European historical magazines, Gibbon and his method, and Lingard and his work.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref65" level="file">
+            <did>
+               <container type="Box">3</container>
+               <container type="Folder">3</container>
+               <unittitle>Meetings</unittitle>
+               <unitdate>1900 Jan-Feb</unitdate>
+            </did>
+            <scopecontent>
+               <p>Minutes with list of topics for Jan-May; outlines of reports on Henry VIII and the monasteries, income tax in American history, assimilation, grievances leading to secession, journalism in California, and historical method in the social sciences.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref67" level="file">
+            <did>
+               <container type="Box">3</container>
+               <container type="Folder">4</container>
+               <unittitle>Meetings</unittitle>
+               <unitdate>1900 Mar-Apr</unitdate>
+            </did>
+            <scopecontent>
+               <p>Minutes; outlines of reports on the Monroe Doctrine, civil rights under the 14th Amendment, influence of the U.S. on international law, immigration and the feasibility of restrictions, the U.S. as seen by English travelers, and Jefferson's political theories. There is also a humorous outline for "Repast in the Historical Seminary."</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref69" level="file">
+            <did>
+               <container type="Box">3</container>
+               <container type="Folder">5</container>
+               <unittitle>Meetings</unittitle>
+               <unitdate>1900 May-Oct</unitdate>
+            </did>
+            <scopecontent>
+               <p>Minutes with list of topics for Sept-Dec; outlines of reports on Catholic education in California, presidential administration of John Tyler, English Parliamentary reform before 1832, study of history at the University of Leipzig, use of U.S. government publications in historical research, inter-relations of law, economics and history, Lamprecht's theory of history, and the value of historical methodology based on works of Bernheim and Lorenz.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref71" level="file">
+            <did>
+               <container type="Box">4</container>
+               <container type="Folder">1</container>
+               <unittitle>Meetings [bound volume]</unittitle>
+               <unitdate>1900 Oct 24-1901 May</unitdate>
+            </did>
+            <scopecontent>
+               <p>Minutes with list of topics for Jan-May 1901; outlines of reports in 1900 on Thucydides and his method, Roosevelt as historian, Hume as historian, American historical societies, Froude as historian, American historical periodicals, Fur Seal conferences and diplomacy, Richard Hildreth, Catholic education in California, the Abolition Movement, constitutional questions in the history of American expansion, and political history of the U. S. courts. Records for the 1901 meetings are indentified as "reports on theses" and include both students and faculty.</p>
+            </scopecontent>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

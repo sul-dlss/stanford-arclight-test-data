@@ -1,0 +1,1395 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  
+  
+  
+  
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" repositoryencoding="iso15511" findaidstatus="unverified-full-draft" langencoding="iso639-2b"><eadid countrycode="us" identifier="ark:/13030/kt387019c6" mainagencycode="CSt-H" publicid="PUBLIC &quot;-//Stanford University::Hoover Institution Archives//TEXT(US::CSt-H::::Wallace E. Adams Papers)//EN&quot; &quot;adamswal.xml&quot;">adamswal.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Register of the Wallace E. Adams Papers</titleproper>
+	<titleproper type="filing">Adams (Wallace E.) Papers</titleproper>
+        <author>Prepared by David Jacobs</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Hoover Institution Archives</publisher>
+        <address>
+          <addressline>Stanford University</addressline>
+          <addressline>Stanford, California 94305-6010</addressline>
+          <addressline>Phone: (650) 723-3563</addressline>
+          <addressline>Fax: (650) 725-3445</addressline>
+          <addressline>Email: hooverarchives@stanford.edu</addressline>
+        </address>
+        <date calendar="gregorian" era="ce">&#xA9; 2004</date>
+        <p>Hoover Institution Archives. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc><profiledesc>
+      <creation>Machine-readable finding aid created by OAC finding aid conversion service.
+Date of source: <date calendar="gregorian" era="ce">2004</date></creation>
+      <langusage encodinganalog="546">Description is in <language langcode="eng" scriptcode="latn">English</language></langusage>
+    </profiledesc><revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20110223">February 23, 2011</date>
+        <item>revised to update encoding and add unitid </item>
+      </change>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//Stanford University::Hoover Institution Archives//TEXT(US::CSt-H::::Wallace E. Adams Papers)//EN" "adamswal.xml" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Register of the Wallace E. Adams Papers</titleproper>
+      <publisher>Hoover Institution Archives
+<lb/>Stanford University
+<lb/>Stanford, California</publisher>
+      <list type="simple">
+        <head>Contact Information</head>
+        <item>Hoover Institution Archives</item>
+        <item>Stanford University</item>
+        <item>Stanford, California 94305-6010</item>
+        <item>Phone: (650) 723-3563</item>
+        <item>Fax: (650) 725-3445</item>
+        <item>Email: hooverarchives@stanford.edu</item>
+      </list>
+      <list type="deflist">
+        <defitem>
+          <label>Prepared by:</label>
+          <item>David Jacobs</item>
+        </defitem>
+        <defitem>
+          <label>Date Completed:</label>
+          <item>2004</item>
+        </defitem>
+        <defitem>
+          <label>Encoded by:</label>
+          <item>ByteManagers using OAC finding aid conversion service specifications</item>
+        </defitem>
+      </list>
+      <p>&#xA9; 2004 Hoover Institution Archives. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection">
+    <did id="did-1.7.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">Wallace E. Adams papers, </unittitle>
+	<unitdate calendar="gregorian" era="ce" type="inclusive" normal="1900/1978">1900-1978</unitdate>
+      <unitid label="Collection number" repositorycode="CSt-H" countrycode="US">79013</unitid>
+      <origination encodinganalog="100" label="Creator">
+        <persname source="aacr2">Adams, Wallace E. (Wallace Earl), 1926-</persname>
+      </origination>
+      <physdesc encodinganalog="300" label="Extent">
+        <extent>20 manuscript boxes, 2 card file boxes, 1 oversize box</extent>
+	<extent>(9 linear feet)</extent>
+      </physdesc>
+      <repository label="Repository">
+        <corpname source="lcnaf">Hoover Institution on War, Revolution, and Peace</corpname>
+        <address>
+          <addressline>Stanford, California 94305-6010</addressline>
+        </address>
+      </repository>
+      <abstract label="Abstract" encodinganalog="520">Notes, drafts, photocopies of French governmental documents, computer data cards, press summaries, and printed matter, relating to French politics and foreign policy during the Third and Fourth Republics, and especially to the career of the French politician Andr&#xE9; Tardieu. Mostly research material for the doctoral dissertation by W. E. Adams, "Andr&#xE9; Tardieu and French Foreign Policy, 1902-1919" (Stanford University, 1959). Includes some original notes by Tardieu.</abstract>
+<physloc label="Physical Location">Hoover Institution Archives</physloc>
+      <langmaterial label="Languages">
+        <language langcode="eng">English, </language>
+        <language langcode="fre">and French.</language>
+      </langmaterial>
+    </did>
+    <descgrp id="descgrp-1.7.2" type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict>
+        <head>Access</head>
+        <p>Collection is open for research.</p>
+      </accessrestrict>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>For copyright status, please contact the Hoover Institution Archives.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Wallace E. Adams papers, [Box no.], Hoover Institution Archives.</p>
+      </prefercite>
+      <acqinfo>
+        <head>Acquisition Information</head>
+        <p>Acquired.</p>
+      </acqinfo>
+      <accruals>
+        <head>Accruals</head>
+        <p>Increments may have been received since this finding aid was prepared. Please check Stanford University's online catalog Socrates at <extref linktype="simple" href="http://library.stanford.edu/webcat" actuate="onrequest" show="new">http://library.stanford.edu/webcat</extref> to find the full extent of the collection.</p>
+      </accruals>
+    </descgrp>
+    <bioghist id="bioghist-1.7.3" encodinganalog="545">
+      <head>Biographical Note</head>
+      <chronlist>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1926</date>
+          <event>Born, Silverton, Oregon</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1949</date>
+          <event>Bachelor of Science degree, University of Oregon</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1951-1954</date>
+          <event>Special assistant to the Executive Officer, United States of America Operations Mission to France</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1958-1962</date>
+          <event>Assistant professor of European history, Arizona State University</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1959</date>
+          <event>PhD, Stanford University</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1962</date>
+          <event>Visiting professor, University of California, Santa Barbara</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1963-1970s</date>
+          <event>Professor, Arizona State University</event>
+        </chronitem>
+      </chronlist>
+    </bioghist>
+    <scopecontent id="scopecontent-1.7.4">
+      <head>Scope and Content Note</head>
+      <p>The Wallace E. Adams papers in the Hoover Institution Archives consist primarily of Adams's writings and the research materials he accumulated over an academic career devoted to 20th century French history and, in particular, the career of the French politician Andr&#xE9; Tardieu. There is also a considerable amount of materials relating to Adams's service in France as an aid official with the United States of America Operations Mission to France, a successor to activities of the Marshall Plan.</p>
+      <p>Adams completed his doctoral dissertation on Tardieu at Stanford University, and continued to conduct research on Tardieu's role in French politics, especially in relation to French colonial policies in Africa, thereafter. He collected a number of primary sources, including some of Tardieu's notebooks and unpublished writings, which form a separate series within the collection (see ANDR&#xC9; TARDIEU FILE). There is a good deal of material in the collection relating to the so-called N'Goko Sangha affair in French West Africa and its possible impact on the origins of World War I, including copies of company records and official correspondence (see RESEARCH MATERIALS).</p>
+      <p>As a graduate student, Adams had become interested in the possibilities afforded by computers to quantify trends in modern French politics. RESEARCH MATERIALS contains Adams's work in this regard, including statistical analyses of parliamentary voting records and government instability during the French Third Republic.</p>
+      <p>The series concerning Adams's service in France during the 1950s contains press summaries and other materials that provide information on American perceptions of French politics and economic life during a period of Cold War tensions (see UNITED STATES OF AMERICA OPERATIONS MISSION TO FRANCE FILE).</p>
+    </scopecontent>
+    <controlaccess id="controlaccess-1.7.5">
+      <head>Indexing Terms</head>
+      <p>The following terms have been used to index the description of this collection in the repository's online public access catalog.</p>
+      <controlaccess>
+        <head>Subjects</head>
+        <persname source="lcnaf" encodinganalog="600">Tardieu, Andr&#xE9;, 1876-1945.</persname>
+        <subject source="lcsh" encodinganalog="650">World War, 1914-1918--France.</subject>
+        <geogname source="lcsh" encodinganalog="651">France--Politics and government--20th century.</geogname>
+        <geogname source="lcsh" encodinganalog="651">France--Foreign relations--20th century.</geogname>
+      </controlaccess>
+    </controlaccess>
+    <dsc id="dsc-1.7.6" type="combined">
+      <head>Collection Contents</head>
+      <c01 level="series" id="c01-1.3.6.2">
+        <did>
+          <container type="Box" label="box">1</container>
+          <unittitle>Biographical File, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1965/1966">1965-1966</unitdate>.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Curricula vitae and grant proposal</p>
+        </scopecontent>
+        <c02 id="c02-1.3.6.2.3" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 1</container>
+            <unittitle>Curricula vitae and grant proposal</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series" id="c01-1.3.6.3">
+        <did>
+          <container type="Box" label="box">1</container>
+          <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1954/1978">1954-1978</unitdate></unittitle>
+        </did>
+	  <scopecontent><p>Arranged alphabetically by name of correspondent</p></scopecontent>
+        <c02 id="c02-1.3.6.3.2" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 2</container>
+            <unittitle>Unidentified, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1978">1978</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.3" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 3</container>
+            <unittitle>Grazia, Alfred de, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1957">1957</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.4" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 4</container>
+            <unittitle>Harrold, James E., Jr., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1954">1954</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.5" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 5</container>
+            <unittitle>Jabr, Barbara J., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1954">1954</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.6" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 6</container>
+            <unittitle>Rassekh, N., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1954">1954</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.7" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 7</container>
+            <unittitle>Washington, P. W., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1954">1954</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series" id="c01-1.3.6.4">
+        <did>
+          <container type="Box" label="box">1-3</container>
+          <unittitle>Writings, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1955/1968">1955-1968</unitdate>.</unittitle>
+          <note>
+            <p>See also Research Materials below</p>
+          </note>
+        </did>
+        <scopecontent>
+          <p>Article, chronology, dissertation, notes, outlines, and paper, arranged chronologically.</p>
+        </scopecontent>
+        <c02 id="c02-1.3.6.4.3" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 8</container>
+            <unittitle>"The Government of France in 1929," <unitdate calendar="gregorian" era="ce" normal="1900/1978">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.3.6.4.4" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 9</container>
+            <unittitle>Paper on the Croix de Feu, <unitdate calendar="gregorian" era="ce" normal="1900/1978">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Notes, bibliography, and typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.3.6.4.5" level="file">
+          <did>
+            <unittitle>"The Political and Social Structure of the French Chamber of Deputies, 1924-1928," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1955">1955</unitdate></unittitle>
+          </did>
+          <c03 id="c03-1.3.6.4.5.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">1 : 10</container>
+              <unittitle>Chronology.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.3.6.4.5.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">1 : 11</container>
+              <unittitle>Draft.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript with holograph notes</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.3.6.4.5.4" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">1 : 12-13</container>
+              <unittitle>Final paper.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescripts</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 level="file" id="c02-1.3.6.4.6">
+          <did>
+            <unittitle>"Andr&#xE9; Tardieu and French Foreign Policy, 1902-1919," doctoral dissertation, Stanford University, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1955">1955</unitdate></unittitle>
+          </did>
+          <c03 id="c03-1.3.6.4.6.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">1 : 14</container>
+              <unittitle>Abstract.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.3.6.4.6.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">1 : 15</container>
+              <unittitle>Outline.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.3.6.4.6.4" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">1 : 16</container>
+              <unittitle>Chronology.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.3.6.4.6.5" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">1 : 17-19</container>
+              <unittitle>Preliminary bibliography.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.3.6.4.6.6" level="file">
+            <did>
+              <container type="Box-folder" label="Box/Folder">2 : 1-5</container>
+              <unittitle>Drafts.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescripts with holograph notes</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.3.6.4.6.7" level="file">
+            <did>
+              <container type="Box-folder" label="Box/Folder">3 : 1-2</container>
+              <unittitle>Drafts.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescripts with holograph notes</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.3.6.4.6.8" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">3 : 3</container>
+              <unittitle>Thesis (incomplete).</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.3.6.4.6.9" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">3 : 4</container>
+              <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce" normal="1900/1978">n.d.</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file" id="c02-1.3.6.4.7">
+          <did>
+            <unittitle>"The N'Goko Sangha Affair," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1962">c. 1962</unitdate></unittitle>
+          </did>
+          <c03 id="c03-1.3.6.4.7.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">3 : 5</container>
+              <unittitle>Chronology and outline.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescripts</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.3.6.4.7.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">3 : 6</container>
+              <unittitle>Comments.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Holograph</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="c02-1.3.6.4.8" level="file">
+          <did>
+            <unittitle>"Cabinet Instability in the French Third Republic," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1963">1963</unitdate></unittitle>
+          </did>
+          <c03 id="c03-1.3.6.4.8.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">3 : 7</container>
+              <unittitle>Notes.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Holograph and typescript</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.3.6.4.8.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">3 : 8</container>
+              <unittitle>Draft proposal.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.3.6.4.8.4" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">3 : 9</container>
+              <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1963">1963</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.3.6.4.9" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 10</container>
+            <unittitle>"Europe since World War II," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1968">c. 1968</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Outline of proposed anthology. Typescript</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 id="c01-1.3.6.5" level="series">
+        <did>
+          <container type="Box" label="box">3-4</container>
+          <unittitle>Andr&#xE9; Tardieu File, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1916/1957">1916-1957</unitdate>.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Biographical file, correspondence, voting record, and writings, arranged alphabetically by physical form</p>
+        </scopecontent>
+        <c02 id="c02-1.3.6.5.3" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 11</container>
+            <unittitle>Biographical file, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1945/1957">1945-1957</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copies of memorial pamphlets, and typescript of speech by Michel Missoffe at dedication of plaque commemorating Tardieu, Paris, France, 1953 July 6</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.3.6.5.4" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 12</container>
+            <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927">1927</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Copies of letters sent by Tardieu to Michel Missoffe</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.3.6.5.5" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 13</container>
+            <unittitle>Voting record, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1928">1928</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Booklet recording Tardieu's votes in the French Chamber of Deputies</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.3.6.5.6">
+          <did>
+            <unittitle>Writings, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1916/1940">1916-1940</unitdate></unittitle>
+          </did>
+          <c03 id="c03-1.3.6.5.6.2" level="file">
+            <did>
+              <unittitle>Notebooks</unittitle>
+            </did>
+            <c04 id="c04-1.3.6.5.6.2.2" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">3 : 14-15</container>
+                <unittitle>General, <unitdate calendar="gregorian" era="ce" normal="1900/1978">n.d.</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.3.6.5.6.2.3" level="file">
+              <did>
+                <unittitle>"Comit&#xE9; secret," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1916">1916</unitdate>.</unittitle>
+              </did>
+              <scopecontent>
+                <p>Tardieu's transcription of secret sessions of the French parliament</p>
+              </scopecontent>
+              <c05 id="c05-1.3.6.5.6.2.3.3" level="file">
+                <did>
+                  <container type="Folder" label="Box/Folder">3 : 16</container>
+                  <unittitle>Original.</unittitle>
+                </did>
+                <scopecontent>
+                  <p>Holograph</p>
+                </scopecontent>
+              </c05>
+              <c05 id="c05-1.3.6.5.6.2.3.4" level="file">
+                <did>
+                  <container type="Folder" label="Box/Folder">3 : 17</container>
+                  <unittitle>Translation by Wallace E. Adams.</unittitle>
+                </did>
+                <scopecontent>
+                  <p>Typescript</p>
+                </scopecontent>
+              </c05>
+            </c04>
+            <c04 level="file" id="c04-1.3.6.5.6.2.4">
+              <did>
+                <unittitle>Outline for book on history of Western Europe, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1930">c. 1930s</unitdate></unittitle>
+              </did>
+              <c05 id="c05-1.3.6.5.6.2.4.2" level="file">
+                <did>
+                  <container type="Folder" label="Box/Folder">4 : 1</container>
+                  <unittitle>"L'essor de l'Europe"</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.3.6.5.6.2.4.3" level="file">
+                <did>
+                  <container type="Folder" label="Box/Folder">4 : 2</container>
+                  <unittitle>"La fin du Moyen-Age"</unittitle>
+                </did>
+              </c05>
+            </c04>
+          </c03>
+          <c03 id="c03-1.3.6.5.6.3" level="file">
+            <did>
+              <unittitle>"La r&#xE9;volution &#xE0; refaire," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1940">c. 1940</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Unpublished manuscript transcribed by Wallace E. Adams</p>
+            </scopecontent>
+            <c04 id="c04-1.3.6.5.6.3.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">4 : 3</container>
+                <unittitle>Volume one (fragment).</unittitle>
+              </did>
+              <scopecontent>
+                <p>Typescript, with English translation by Adams</p>
+              </scopecontent>
+            </c04>
+            <c04 id="c04-1.3.6.5.6.3.4" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">4 : 4</container>
+                <unittitle>Volume three.</unittitle>
+              </did>
+              <scopecontent>
+                <p>Typescript, in French only</p>
+              </scopecontent>
+            </c04>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series" id="c01-1.3.6.6">
+        <did>
+          <container type="Box" label="box">4-6</container>
+          <unittitle>United States of America Operations Mission to France File, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1948/1954">1948-1954</unitdate>.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Articles and clippings, briefing book, briefing papers, correspondence, filing manual, personnel list, press summaries, printed matter, reports, and speeches, arranged alphabetically by physical form</p>
+        </scopecontent>
+        <c02 id="c02-1.3.6.6.3" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 5</container>
+            <unittitle>Articles and clippings, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1950/1953">1950-1953</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.6.4" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 6</container>
+            <unittitle>Briefing book, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1952">1952</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.6.5" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 7</container>
+            <unittitle>Briefing papers, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1949/1953">1949-1953</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.3.6.6.6">
+          <did>
+            <unittitle>Correspondence</unittitle>
+          </did>
+          <c03 id="c03-1.3.6.6.6.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">5 : 1</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1949/1952">1949-1952</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.3.6.6.6.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">5 : 2</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1953/1954">1953-1954</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.3.6.6.7" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 3</container>
+            <unittitle>Filing manual, <unitdate calendar="gregorian" era="ce" normal="1900/1978">n.d.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.6.8" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 4</container>
+            <unittitle>Personnel list, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1953">1953</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.3.6.6.9">
+          <did>
+            <unittitle>Press summaries</unittitle>
+          </did>
+          <c03 id="c03-1.3.6.6.9.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">5 : 5</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1951/1953">1951-1953</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.3.6.6.9.3" level="file">
+            <did>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1954">1954</unitdate>
+              </unittitle>
+            </did>
+            <c04 id="c04-1.3.6.6.9.3.2" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">5 : 6</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1954-01/1954-02">January-February</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.3.6.6.9.3.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">5 : 7</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1954-03/1954-04">March-April</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.3.6.6.9.3.4" level="file">
+              <did>
+                <container type="Box-folder" label="Box/Folder">6 : 1</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1954-05/1954-06">May-June</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 level="file" id="c02-1.3.6.6.10">
+          <did>
+            <unittitle>Printed matter</unittitle>
+          </did>
+          <c03 id="c03-1.3.6.6.10.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">6 : 2</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1951">1951</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.3.6.6.10.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">6 : 3</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1952/1953">1952-1953</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.3.6.6.11" level="file">
+          <did>
+            <unittitle>Reports</unittitle>
+          </did>
+          <c03 id="c03-1.3.6.6.11.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">6 : 4</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1948/1951">1948-1951</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.3.6.6.11.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">6 : 5-6</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1952">1952</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.3.6.6.11.4" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">6 : 7</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1953/1954">1953-1954</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.3.6.6.12" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">6 : 8</container>
+            <unittitle>Speeches, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1950/1952">1950-1952</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.3.6.7" level="series">
+        <did>
+          <container type="Box" label="box">7-18</container>
+          <unittitle>Research Materials, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1900/1977">1900-1977</unitdate>.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Album, articles, bibliographies, biographical data sheets, clippings, code sheets, company records, computer codes, correspondence, indexes, interviews, maps, monograph excerpts, monographs, official correspondence, notebooks, notes, parliamentary records, serial issues, voting statistics, and work sheets, arranged chronologically by date research undertaken or published, and by physical form therein</p>
+        </scopecontent>
+        <c02 level="file" id="c02-1.3.6.7.3">
+          <did>
+            <unittitle>"The Political and Social Structure of the French Chamber of Deputies, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1924/1928">1924-1928</unitdate>," published 1955</unittitle>
+          </did>
+          <c03 id="c03-1.3.6.7.3.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">7 : 1</container>
+              <unittitle>Computer codes, <unitdate calendar="gregorian" era="ce" normal="1900/1978">n.d.</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.3.6.7.3.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">7 : 2</container>
+              <unittitle>Maps, <unitdate calendar="gregorian" era="ce" normal="1900/1978">n.d.</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.3.6.7.3.4" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">7 : 3-4</container>
+              <unittitle>Notes, <unitdate calendar="gregorian" era="ce" normal="1900/1978">n.d.</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.3.6.7.3.5" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">7 : 5</container>
+              <unittitle>Parliamentary records, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927">1927</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.3.6.7.3.6">
+            <did>
+              <unittitle>Voting statistics</unittitle>
+            </did>
+            <c04 id="c04-1.3.6.7.3.6.2" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">7 : 6</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1919">1919</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.3.6.7.3.6.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">7 : 7</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1928">1928</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.3.6.7.3.7" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">7 : 8-9</container>
+              <unittitle>Work sheets, <unitdate calendar="gregorian" era="ce" normal="1900/1978">n.d.</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.3.6.7.3.8" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">8 : 1-5</container>
+              <unittitle>Work sheets, <unitdate calendar="gregorian" era="ce" normal="1900/1978">n.d.</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.3.6.7.3.9" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">9 : 1-5</container>
+              <unittitle>Work sheets, <unitdate calendar="gregorian" era="ce" normal="1900/1978">n.d.</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file" id="c02-1.3.6.7.4">
+          <did>
+            <container type="Box" label="Box/Folder">10</container>
+            <unittitle>"Andr&#xE9; Tardieu and French Foreign Policy, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1902/1919">1902-1919</unitdate>," submitted 1959</unittitle>
+          </did>
+          <c03 level="file" id="c03-1.3.6.7.4.2">
+            <did>
+              <unittitle>Album</unittitle>
+            </did>
+            <c04 id="c04-1.3.6.7.4.2.2" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">10 : 1</container>
+                <unittitle>Clippings, correspondence, and notes relating to Andr&#xE9; Tardieu, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1917/1956">1917-1956</unitdate>.</unittitle>
+              </did>
+              <scopecontent>
+                <p>Includes copies of letters written by Tardieu to Michel Missoffe, and Wallace E. Adams's correspondence with Jacques Debu-Bridel, Pierre Mille, Michel Missoffe, Ren&#xE9; Picard, Fran&#xE7;ois Pi&#xE9;tri, and Pierre Poujet</p>
+              </scopecontent>
+            </c04>
+            <c04 id="c04-1.3.6.7.4.2.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">10 : 2</container>
+                <unittitle>Clippings, correspondence, interviews, and notes relating to Andr&#xE9; Tardieu, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1945/1954">1945-1954</unitdate>.</unittitle>
+              </did>
+              <scopecontent>
+                <p>Includes correspondence between Wallace E. Adams and Henri Cangardel, Maurice Gamelin, H. Stuart Hughes, Gabriel Puaux, Jacques Rey, Max Terrier, and Gordon Wright. Also includes some correspondence neither to nor from Wallace E. Adams</p>
+              </scopecontent>
+            </c04>
+          </c03>
+          <c03 id="c03-1.3.6.7.4.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">10 : 3</container>
+              <unittitle>Article, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1912">1912</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.3.6.7.4.4" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">10 : 4</container>
+              <unittitle>Clippings, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1910/1954">1910-1954</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.3.6.7.4.5" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">10 : 5</container>
+              <unittitle>Monograph, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1910">c. 1910</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.3.6.7.4.6" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">10 : 6</container>
+              <unittitle>Monograph excerpts, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1912">1912</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.3.6.7.4.7" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">10 : 7</container>
+              <unittitle>Notes, <unitdate calendar="gregorian" era="ce" normal="1900/1978">n.d.</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.3.6.7.4.8" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">10 : 8</container>
+              <unittitle>Work sheets, <unitdate calendar="gregorian" era="ce" normal="1900/1978">n.d.</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file" id="c02-1.3.6.7.5">
+          <did>
+            <unittitle>The N'Goko Sangha affair and French colonialism, undertaken <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1962/1970">1962-1970s</unitdate></unittitle>
+          </did>
+          <c03 id="c03-1.3.6.7.5.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">11 : 1</container>
+              <unittitle>Articles, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1963/1969">1963-1969</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.3.6.7.5.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">11 : 2-5</container>
+              <unittitle>Bibliographies, <unitdate calendar="gregorian" era="ce" normal="1900/1978">n.d.</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.3.6.7.5.4" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">11 : 6</container>
+              <unittitle>Clippings, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1907">1907</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.3.6.7.5.5">
+            <did>
+              <unittitle>Compagnie N'Goko-Sangha records</unittitle>
+            </did>
+            <c04 id="c04-1.3.6.7.5.5.2" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">11 : 7</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1905/1910">1905-1910</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.3.6.7.5.5.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">11 : 8</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1922">1922</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.3.6.7.5.6" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">11 : 9-10</container>
+              <unittitle>Indexes of names, <unitdate calendar="gregorian" era="ce" normal="1900/1978">n.d.</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.3.6.7.5.7" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">11 : 11</container>
+              <unittitle>Maps, <unitdate calendar="gregorian" era="ce" normal="1900/1978">n.d.</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.3.6.7.5.8">
+            <did>
+              <unittitle>Monograph excerpts</unittitle>
+            </did>
+            <c04 id="c04-1.3.6.7.5.8.2" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">12 : 1</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1900/1910">1900-1910</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.3.6.7.5.8.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">12 : 2</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1912/1928">1912-1928</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.3.6.7.5.8.4" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">12 : 3</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1955/1960">1955-1960</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.3.6.7.5.8.5" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">12 : 4</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1969/1977">1969-1977</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.3.6.7.5.8.6" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">12 : 5-6</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1912">1912</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.3.6.7.5.8.7" level="file">
+              <did>
+                <container type="Box-folder" label="Box/Folder">13 : 1</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1934">1934</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.3.6.7.5.8.8" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">13 : 2</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1972">1972</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.3.6.7.5.9" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">13 : 3-4</container>
+              <unittitle>Notebooks, <unitdate calendar="gregorian" era="ce" normal="1900/1978">n.d.</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.3.6.7.5.10" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">13 : 5</container>
+              <unittitle>Notes, <unitdate calendar="gregorian" era="ce" normal="1900/1978">n.d.</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.3.6.7.5.11" level="file">
+            <did>
+              <unittitle>Official correspondence, largely between the French Foreign Ministry and the Compagnie N'Boko Sangha</unittitle>
+            </did>
+            <c04 id="c04-1.3.6.7.5.11.2" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">13 : 6</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1905/1906">1905-1906</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.3.6.7.5.11.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">13 : 7</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1907">1907</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.3.6.7.5.11.4" level="file">
+              <did>
+                <container type="Box-folder" label="Box/Folder">14 : 1</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1908">1908</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.3.6.7.5.11.5" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">14 : 2-4</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1909">1909</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.3.6.7.5.11.6" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">14 : 5</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1910/1918">1910-1918</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.3.6.7.5.12" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">14 : 6</container>
+              <unittitle>Parliamentary records, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1910">1910</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file" id="c02-1.3.6.7.6">
+          <did>
+            <unittitle>"Cabinet Instability in the French Third Republic," undertaken <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1963/1970">1963-1970s</unitdate></unittitle>
+          </did>
+          <c03 id="c03-1.3.6.7.6.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">15 : 1</container>
+              <unittitle>Article, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1960">1960</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.3.6.7.6.3" level="file">
+            <did>
+              <unittitle>Biographical data sheets, <unitdate calendar="gregorian" era="ce" normal="1900/1978">n.d.</unitdate></unittitle>
+            </did>
+            <c04 id="c04-1.3.6.7.6.3.2" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">15 : 2-3</container>
+                <unittitle>A-C</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.3.6.7.6.3.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">15 : 4</container>
+                <unittitle>D-K</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.3.6.7.6.3.4" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">15 : 5</container>
+                <unittitle>M-Z</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.3.6.7.6.4" level="file">
+            <did>
+              <container type="Box-folder" label="Box/Folder">16 : 1</container>
+              <unittitle>Clipping, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1937">1937</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.3.6.7.6.5" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">16 : 2-5</container>
+              <unittitle>Code sheets, <unitdate calendar="gregorian" era="ce" normal="1900/1978">n.d.</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.3.6.7.6.6" level="file">
+            <did>
+              <container type="Box-folder" label="Box/Folder">17 : 1</container>
+              <unittitle>Monograph excerpts, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1951/1958">1951-1958</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.3.6.7.6.7" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">17 : 2-4</container>
+              <unittitle>Monographs, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1924/1939">1924-1939</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.3.6.7.6.8" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">17 : 5</container>
+              <unittitle>Notes, <unitdate calendar="gregorian" era="ce" normal="1900/1978">n.d.</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.3.6.7.6.9" level="file">
+            <did>
+              <unittitle>Parliamentary records</unittitle>
+            </did>
+            <c04 id="c04-1.3.6.7.6.9.2" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">17 : 6</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1910/1911">1910-1911</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.3.6.7.6.9.3" level="file">
+              <did>
+                <container type="Box-folder" label="Box/Folder">18 : 1</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1919/1922">1919-1922</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.3.6.7.6.9.4" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">18 : 2</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1924/1927">1924-1927</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="file" id="c03-1.3.6.7.6.10">
+            <did>
+              <unittitle>Serial issues</unittitle>
+            </did>
+            <c04 id="c04-1.3.6.7.6.10.2" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">18 : 3</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927/1928">1927-1928</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.3.6.7.6.10.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">18 : 4</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1928">1928</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.3.6.7.6.11" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">18 : 5</container>
+              <unittitle>Work sheets, <unitdate calendar="gregorian" era="ce" normal="1900/1978">n.d.</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="c01-1.3.6.8" level="series">
+        <did>
+          <container type="Box" label="box">19-20</container>
+          <unittitle>Card File, <unitdate calendar="gregorian" era="ce" normal="1900/1978">n.d.</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Note cards relating to Wallace E. Adams's research on French historical subjects, especially concerning Andr&#xE9; Tardieu</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.3.6.9" level="series">
+        <did>
+          <container type="Folder" label="Box/Folder">21 : 1</container>
+          <unittitle>Microfilm, <unitdate calendar="gregorian" era="ce" normal="1900/1978">n.d.</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Ninety-three short strips of microfilmed documents relating to the Versailles Peace Conference of 1919</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.3.6.10" level="series">
+        <did>
+          <container type="Folder" label="Box/Folder">21 : 2</container>
+          <unittitle>Photographs, <unitdate calendar="gregorian" era="ce" normal="1900/1978">n.d.</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>One negative and five prints depicting Andr&#xE9; Tardieu; four prints depicting the residence of Andr&#xE9; Tardieu; three prints depicting Michel Missoffe(?)</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.3.6.11" level="series">
+        <did>
+          <container type="Box" label="box">21-22</container>
+          <unittitle>Printed Matter, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1930/1978">1930-1978</unitdate>.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Monographs and serial issues, arranged alphabetically by physical form</p>
+        </scopecontent>
+        <c02 level="file" id="c02-1.3.6.11.3">
+          <did>
+            <unittitle>Monographs</unittitle>
+          </did>
+          <c03 id="c03-1.3.6.11.3.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">21 : 3</container>
+              <unittitle>Michel Missoffe, <title render="italic">La vie volontaire d'Andr&#xE9; Tardieu</title>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1930">1930</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.3.6.11.3.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">21 : 4</container>
+              <unittitle>Fortran: General Information Manual, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1961">1961</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file" id="c02-1.3.6.11.4">
+          <did>
+            <unittitle>Serial issues</unittitle>
+          </did>
+          <c03 id="c03-1.3.6.11.4.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">21 : 5</container>
+              <unittitle><title render="italic">French Colonial Studies</title>, no. 2, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1978">1978</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.3.6.11.4.3">
+            <did>
+              <unittitle>
+                <title render="italic">Journal officiel de la R&#xE9;publique fran&#xE7;aise</title>
+              </unittitle>
+            </did>
+            <c04 id="c04-1.3.6.11.4.3.2" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">22 : 1</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1953-12-11/1953-12-13">1953 December 11-13</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 level="file" id="c04-1.3.6.11.4.3.3">
+              <did>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1954">1954</unitdate>
+                </unittitle>
+              </did>
+              <c05 id="c05-1.3.6.11.4.3.3.2" level="file">
+                <did>
+                  <unittitle>
+                    <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1954-03">March</unitdate>
+                  </unittitle>
+                </did>
+                <c06 id="c06-1.3.6.11.4.3.3.2.2" level="file">
+                  <did>
+                    <container type="Folder" label="Box/Folder">22 : 2</container>
+                    <unittitle>
+                      <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1954-03-10/1954-03-19">10-19</unitdate>
+                    </unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.3.6.11.4.3.3.2.3" level="file">
+                  <did>
+                    <container type="Folder" label="Box/Folder">22 : 3</container>
+                    <unittitle>
+                      <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1954-03-20/1954-03-26">20-26</unitdate>
+                    </unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.3.6.11.4.3.3.2.4" level="file">
+                  <did>
+                    <container type="Folder" label="Box/Folder">22 : 4</container>
+                    <unittitle>
+                      <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1954-03-27/1954-03-31">27-31</unitdate>
+                    </unittitle>
+                  </did>
+                </c06>
+              </c05>
+              <c05 id="c05-1.3.6.11.4.3.3.3" level="file">
+                <did>
+                  <container type="Folder" label="Box/Folder">22 : 5</container>
+                  <unittitle>
+                    <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1954-04-01/1954-04-09">April 1-9</unitdate>
+                  </unittitle>
+                </did>
+              </c05>
+            </c04>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series" id="c01-1.3.6.12">
+        <did>
+          <container type="Box" label="box">23</container>
+          <unittitle>Oversize Materials, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927/1935">1927-1935</unitdate>.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Serial publication, arranged chronologically</p>
+        </scopecontent>
+        <c02 level="file" id="c02-1.3.6.12.3">
+          <did>
+            <unittitle>
+              <title render="italic">Le r&#xE9;publicain de Belfort</title>
+            </unittitle>
+          </did>
+          <c03 id="c03-1.3.6.12.3.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">23 : 1</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927-07-06">1927 July 6</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.3.6.12.3.3">
+            <did>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1928">1928</unitdate>
+              </unittitle>
+            </did>
+            <c04 id="c04-1.3.6.12.3.3.2" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">23 : 2</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1928-03-21">March 21</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 level="file" id="c04-1.3.6.12.3.3.3">
+              <did>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1928-04">April</unitdate>
+                </unittitle>
+              </did>
+              <c05 id="c05-1.3.6.12.3.3.3.2" level="file">
+                <did>
+                  <container type="Folder" label="Box/Folder">23 : 3</container>
+                  <unittitle>
+                    <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1928-04-12">12</unitdate>
+                  </unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.3.6.12.3.3.3.3" level="file">
+                <did>
+                  <container type="Folder" label="Box/Folder">23 : 4</container>
+                  <unittitle>
+                    <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1928-04-15">15</unitdate>
+                  </unittitle>
+                </did>
+              </c05>
+            </c04>
+            <c04 id="c04-1.3.6.12.3.3.4" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">23 : 5</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1928-11-14">November 14</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.3.6.12.3.3.5" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">23 : 6</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1928-12-05">December 5</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.3.6.12.3.4" level="file">
+            <did>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1929">1929</unitdate>
+              </unittitle>
+            </did>
+            <c04 level="file" id="c04-1.3.6.12.3.4.2">
+              <did>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1929-12">December</unitdate>
+                </unittitle>
+              </did>
+              <c05 id="c05-1.3.6.12.3.4.2.2" level="file">
+                <did>
+                  <container type="Folder" label="Box/Folder">23 : 7</container>
+                  <unittitle>
+                    <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1929-12-21">21</unitdate>
+                  </unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.3.6.12.3.4.2.3" level="file">
+                <did>
+                  <container type="Folder" label="Box/Folder">23 : 8</container>
+                  <unittitle>
+                    <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1929-12-28">28</unitdate>
+                  </unittitle>
+                </did>
+              </c05>
+            </c04>
+          </c03>
+          <c03 id="c03-1.3.6.12.3.5" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">23 : 9</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1935-06-26">1935 June 26</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

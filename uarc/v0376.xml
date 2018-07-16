@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[The ecology of nuclear war [videorecording]])//EN"
+             identifier="ark:/13030/kt7r29s1pr">v0376.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to The Ecology of Nuclear War [videorecording]
+                    </titleproper>
+            <titleproper type="filing" audience="internal">The Ecology of Nuclear War [videorecording]</titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2012-02">February 2012</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <descrules>Describing Archives: A Content Standard</descrules>
+         <langusage>Finding aid written in <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">V0376</unitid>
+         <origination label="Creator:">
+            <persname rules="aacr" source="naf" role=" ">Ehrlich, Paul R.</persname>
+         </origination>
+         <origination label="Creator:">
+            <corpname rules="dacs" role=" ">Stanford Instructional Television Network</corpname>
+         </origination>
+         <origination label="Creator:">
+            <corpname rules="dacs" source="naf" role=" ">Stanford University</corpname>
+         </origination>
+         <unittitle label="Title:">The ecology of nuclear war [videorecording]</unittitle>
+         <unitdate normal="1983/1983"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1983</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>0.06 Linear feet 1 videotape (U-matic)</extent>
+         </physdesc>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <accessrestrict id="ref5">
+            <head>Information about Access</head>
+            <p>The materials are open for research use. Audio-visual materials are not available in original format, and must be reformatted to a digital use copy.</p>
+         </accessrestrict>
+         <userestrict id="ref6">
+            <head>Ownership &amp; Copyright</head>
+            <p>All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Special Collections and University Archives, Stanford University Libraries, Stanford, California 94304-6064. Consent is given on behalf of Special Collections as the owner of the physical items and is not intended to include or imply permission from the copyright owner. Such permission must be obtained from the copyright owner, heir(s) or assigns. See: http://library.stanford.edu/depts/spc/pubserv/permissions.html.</p>
+            <p>Restrictions also apply to digital representations of the original materials. Use of digital files is restricted to research and educational purposes.</p>
+         </userestrict>
+         <prefercite id="ref7">
+            <head>Cite As</head>
+            <p>[identification of item], The Ecology of Nuclear War [videorecording] (V0376). Dept. of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <scopecontent id="ref4">
+         <head>Scope and Contents note</head>
+         <p>Paul Ehrlich, Professor of Biological Sciences and Bing Professor of Population Studies, Stanford University, discusses the present state of U.S. and Soviet nuclear forces and presents the consensus of leading scientists on the long term ecological impact of nuclear war. Includes slides of artists' impressions of nuclear war.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <subject source="lcsh">Nuclear warfare--Environmental aspects.</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.5">
+         <head>Collection Contents</head>
+         <c01 id="ref8" level="file">
+            <did>
+               <container type="Box">1</container>
+               <unittitle>The Ecology of Nuclear War</unittitle>
+               <unitdate>1983</unitdate>
+            </did>
+         </c01>
+      </dsc>
+      <odd id="ref2" type="appendix">
+         <head>General Note</head>
+         <p>Delivered before an academic audience at Stanford University on November 10, 1983; televised and taped by Stanford ITV Network.</p>
+      </odd>
+   </archdesc>
+</ead>

@@ -1,0 +1,653 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  
+  
+  
+  
+  
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" repositoryencoding="iso15511" findaidstatus="unverified-full-draft" langencoding="iso639-2b"><eadid countrycode="us" identifier="ark:/13030/kt538nb0v8" mainagencycode="CSt" publicid="PUBLIC &quot;-//Stanford University::Libraries::Dept. of Special Collections::Manuscripts Division//TEXT (US::CSt::M1335::British Cotton Growing Association Records)//EN&quot; &quot;m1335.sgm&quot;">m1335.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Guide to the British Cotton Growing Association Records, <date calendar="gregorian" era="ce">1906 - 1968</date></titleproper><titleproper type="filing">British Cotton Growing Assn. Records</titleproper>
+        <author>Processed by Steven Mandeville-Gamble.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Department of Special Collections</publisher>
+        <address>
+          <addressline>Green Library</addressline>
+          <addressline>Stanford University Libraries</addressline>
+          <addressline>Stanford, CA 94305-6004 </addressline>
+          <addressline>Phone: (650) 725-1022</addressline>
+          <addressline>Email: specialcollections@stanford.edu</addressline>
+          <addressline>URL: http://library.stanford.edu/spc/</addressline>
+        </address>
+        <date calendar="gregorian" era="ce">&#xA9; 2002</date>
+        <p>The Board of Trustees of Stanford University. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc><profiledesc>
+      <creation>Machine-readable finding aid derived from FileMaker Pro database.;
+machine-readable finding aid created by
+Steven Mandeville-Gamble.
+Date of source: <date calendar="gregorian" era="ce">2002 Oct. 8.</date></creation>
+      <langusage>Finding aid is written in <language>English.</language></langusage>
+    </profiledesc><revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//Stanford University::Libraries::Dept. of Special Collections::Manuscripts Division//TEXT (US::CSt::M1335::British Cotton Growing Association Records)//EN" "m1335.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Guide to the British Cotton Growing Association Records, <date calendar="gregorian" era="ce">1906 - 1968</date></titleproper>
+      <num>Collection number: M1335</num>
+      <publisher>Department of Special Collections and University Archives
+<lb/>Stanford University Libraries
+<lb/>Stanford, California</publisher>
+      <list type="simple">
+        <head>Contact Information</head>
+        <item>Department of Special Collections</item>
+        <item>Green Library</item>
+        <item>Stanford University Libraries</item>
+        <item>Stanford, CA 94305-6004 </item>
+        <item>Phone: (650) 725-1022</item>
+        <item>Email: specialcollections@stanford.edu</item>
+        <item>URL: http://library.stanford.edu/spc/</item>
+      </list>
+      <list type="deflist">
+        <defitem>
+          <label>Processed by: </label>
+          <item>Steven Mandeville-Gamble</item>
+        </defitem>
+        <defitem>
+          <label>Date Completed: </label>
+          <item>2002 Oct. 8</item>
+        </defitem>
+        <defitem>
+          <label>Encoded by: </label>
+          <item>Steven Mandeville-Gamble</item>
+        </defitem>
+      </list>
+      <p>&#xA9; 2002 The Board of Trustees of Stanford University. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection">
+    <did id="did-1.8.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">British Cotton Growing Association Records, </unittitle><unitdate calendar="gregorian" era="ce" type="inclusive">1906 - 1968</unitdate>
+      <unitid label="Collection number" countrycode="US" repositorycode="CSt">M1335</unitid>
+      <origination label="Creator">
+        <persname source="lcnaf">British Cotton Growing Association</persname>
+      </origination>
+      <physdesc label="Extent">
+        <extent>1.25 linear ft. (2 manuscript boxes, 1 half manuscript box)</extent>
+        <extent>ca. 300 maps</extent>
+      </physdesc>
+      <repository label="Repository">
+        <corpname source="lcnaf">Stanford University. Libraries. Dept. of Special Collections and University Archives.</corpname>
+      </repository>
+      <abstract label="Abstract">The collection contains annual reports, publications, and ca. 300 maps documenting the activities of the British Cotton Growing Association's activities, primarily in Africa, but also in India and Mesopotamia.</abstract>
+      <langmaterial label="Language">
+        <language langcode="en">English.</language>
+      </langmaterial>
+    </did>
+    <descgrp id="descgrp-1.8.2" type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict>
+        <head>Access</head>
+        <p>There are no restrictions on access.</p>
+      </accessrestrict>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>Property rights reside with the repository. Literary rights
+reside with the creators of the documents or their heirs. To
+obtain permission to publish or reproduce, please contact the
+Public Services Librarian of the Dept. of Special Collections.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>British Cotton Growing Association Records. M1335. Dept. of Special Collections, Stanford University Libraries, Stanford, Calif.</p>
+      </prefercite>
+      <acqinfo>
+        <head>Acquisition Information</head>
+        <p>Purchased, 2002 Aug.</p>
+      </acqinfo>
+    </descgrp>
+    <scopecontent id="scopecontent-1.8.3">
+      <head>Collection Scope and Content Summary</head>
+      <p>The collection contains annual reports, publications, and ca. 300 maps documenting the activities of the British Cotton Growing Association's activities, primarily in Africa, but also in India and Mesopotamia.</p>
+      <p>The plans and drawings primarily document the cotton gins operated by the BCGA in Nigeria, Nyasaland, and Uganda.</p>
+    </scopecontent>
+    <controlaccess id="controlaccess-1.8.4">
+      <head>Access Terms</head>
+      <p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+      <corpname source="lcnaf" encodinganalog="610" role="subject">British Cotton Growing Association.</corpname>
+      <subject source="lcsh" encodinganalog="650">Cotton growing--Africa, Sub-Saharan.</subject>
+      <geogname source="lcsh" encodinganalog="651">Africa, Sub-Saharan--History--1884-1960.</geogname>
+      <geogname source="lcsh" encodinganalog="651">Africa, Sub-Saharan--Colonization.</geogname>
+      <geogname source="lcsh" encodinganalog="651">Africa, Sub-Saharan--Economic conditions.</geogname>
+      <geogname source="lcsh" encodinganalog="651">Africa, Sub-Saharan--Social conditions.</geogname>
+    </controlaccess>
+    <dsc id="dsc-1.8.5" type="combined">
+      <head>Collection Contents</head>
+      <c01 id="c01-1.8.5.2" level="series">
+        <did>
+          <unittitle>Series 1. Annual reports</unittitle>
+        </did>
+        <c02 id="c02-1.8.5.2.2" level="file">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle>Annual reports, <unitdate calendar="gregorian" era="ce">1906 - 1907</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.2.3" level="file">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle>Annual reports, <unitdate calendar="gregorian" era="ce">1919 ; 1921 - 1922</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.2.4" level="file">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle>Annual reports, <unitdate calendar="gregorian" era="ce">1924 - 1926</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.2.5" level="file">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle>Annual reports, <unitdate calendar="gregorian" era="ce">1928 - 1930</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.2.6" level="file">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">5</container>
+            <unittitle>Annual reports, <unitdate calendar="gregorian" era="ce">1931 - 1934</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.2.7" level="file">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">6</container>
+            <unittitle>Annual reports, <unitdate calendar="gregorian" era="ce">1936, 1938</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.2.8" level="file">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">7</container>
+            <unittitle>Annual reports, <unitdate calendar="gregorian" era="ce">1941 - 1945</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.2.9" level="file">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">8</container>
+            <unittitle>Annual reports, <unitdate calendar="gregorian" era="ce">1946 - 1948</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.2.10" level="file">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">9</container>
+            <unittitle>Annual reports, <unitdate calendar="gregorian" era="ce">1949 - 1952</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.2.11" level="file">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">10</container>
+            <unittitle>Annual reports, <unitdate calendar="gregorian" era="ce">1953 - 1956</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.2.12" level="file">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">11</container>
+            <unittitle>Annual reports, <unitdate calendar="gregorian" era="ce">1957 - 1960</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.2.13" level="file">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">12</container>
+            <unittitle>Annual reports, <unitdate calendar="gregorian" era="ce">1961 - 1964</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.2.14" level="file">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">13</container>
+            <unittitle>Annual reports, <unitdate calendar="gregorian" era="ce">1965 - 1968</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.8.5.3" level="series">
+        <did>
+          <unittitle>Series 2. Publications</unittitle>
+        </did>
+        <c02 id="c02-1.8.5.3.2" level="file">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">14</container>
+            <unittitle>Cotton growing in the British Empire and exotic countries / by Capt. G.S. Burnham. -- Manchester, England : Sherratt and Hughes, <unitdate calendar="gregorian" era="ce">1925</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.3" level="file">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">15</container>
+            <unittitle>Correspondence re: cotton growing in India. -- (BCGA no. 50), <unitdate calendar="gregorian" era="ce">1912 May</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.4" level="file">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">16</container>
+            <unittitle>Cotton baling in West Africa and America. -- (BCGA no. 21), <unitdate calendar="gregorian" era="ce">1907 Sept.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.5" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle>Cotton growing in Anglo-Egyptian Sudan. -- (BCGA no. 49), <unitdate calendar="gregorian" era="ce">1912 May</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.6" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle>Higson, Henry. The work of the British Cotton Growing Association : report / prepared by Henry Higson, <unitdate calendar="gregorian" era="ce">1908 June</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.7" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle>Himbury, William H.  Cotton : a Lancashire contribution to the Empire / by William H. Himbury. -- (BCGA no. 149), <unitdate calendar="gregorian" era="ce">1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.8" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle>Himbury, William H. The exploration and development of new cotton fields within the British Empire / by William H. Himbury. -- Machester : BCGA, <unitdate calendar="gregorian" era="ce">1921 Sept.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.9" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">5</container>
+            <unittitle>Himbury, William H.  India and the Sudan as sources for increasing our raw cotton supplies / by William H. Himbury. -- Machester : BCGA, <unitdate calendar="gregorian" era="ce">1923 July</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.10" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">6</container>
+            <unittitle>Himbury, William H.  Iraq to the Sudan, 1932 / by William H. Himbury. -- Manchester, England : BCGA, <unitdate calendar="gregorian" era="ce">1932</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.11" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">7</container>
+            <unittitle>Himbury, William H.  Northern Rhodesia, Southern Rhodesia, and Nyasaland as sources for increasing our raw cotton supplies / by William H. Himbury. -- Manchester, England : BCGA, <unitdate calendar="gregorian" era="ce">1927</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.12" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">8</container>
+            <unittitle>Himbury, William H.  The part played by our empire in the production of raw cotton / by William H. Himbury. -- Reprinted from The Journal of the Textile Institute, <unitdate calendar="gregorian" era="ce">1924</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.13" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">9</container>
+            <unittitle>Himbury, William H.  Some promising empire cotton fields : with special reference to a recent trip through India, Uganda, and the Sudan / by William HImbury. -- London : McCorquodale &amp; Co., <unitdate calendar="gregorian" era="ce">[ca. 1926]</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.14" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">10</container>
+            <unittitle>Himbury, William H.  The Sudan, 1935 / by William H. Himbury. -- (BCGA no. 149). -- Manchester : BCGA, <unitdate calendar="gregorian" era="ce">1935</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.15" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">11</container>
+            <unittitle>Himbury, William H.  The Union of South Africa as a source for increasing our raw cotton supplies / by William H. Himbury. -- (BCGA no. 99). -- Manchester : BCGA, <unitdate calendar="gregorian" era="ce">1927 Sept.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.16" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">12</container>
+            <unittitle>Hutton, J. Arthur.  Cotton growing in British Colonies / by J. Arthur Hutton. -- (BCGA no. 6). -- Manchester : BCGA, <unitdate calendar="gregorian" era="ce">1906 Mar.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.17" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">13</container>
+            <unittitle>Memorandum on cotton growing submitted to the Committee on Industry and Trade, <unitdate calendar="gregorian" era="ce">1925 Apr. 29</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.18" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">14</container>
+            <unittitle>Percival, John.  Notes on the cultivation and harvesting of cotton in Nigeria / by by John Percival. -- (BCGA no. 11). -- Manchester : Henry Blacklock &amp; Co., <unitdate calendar="gregorian" era="ce">1906</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.19" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">15</container>
+            <unittitle>Reed, J. Howard.  Cotton growing within the British Empire / by J. Howard Reed, <unitdate calendar="gregorian" era="ce">1911</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.20" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">16</container>
+            <unittitle>Report to the Council on the possibilities of cotton-growing in the Anglo-Egyptian Sudan. -- Manchester : BCGA, <unitdate calendar="gregorian" era="ce">1912 Dec.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.21" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">17</container>
+            <unittitle>Report to the Council on the possibilities of cotton-growing in the West Indies : I. John W. McConnel, II. William Marsland, III. Report from the Port of Spain Gazette, Jan. 28th, 1912. -- Manchester : BCGA, <unitdate calendar="gregorian" era="ce">1912 Feb.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.22" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">18</container>
+            <unittitle>Speeches at banquet given to Major the Hon. W.G. Ormsby-Gore, M.P. -- (BCGA, no. 96), <unitdate calendar="gregorian" era="ce">1926 Nov. 19</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.23" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">19</container>
+            <unittitle>Speeches at banquet given to the Rt. Hon. the Earl of Derby. -- (BCGA, no. 80), <unitdate calendar="gregorian" era="ce">1923 June 1</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.24" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">20</container>
+            <unittitle>Speeches at lunches given to His Excellency Sir Harold B. Kittermaster. -- (BCGA, no. 134), <unitdate calendar="gregorian" era="ce">1937 July 12</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.25" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">21</container>
+            <unittitle>Speeches at luncheon given to His Excellency Sir Bernard H. Bourdillon. -- (BCGA, no. 128), <unitdate calendar="gregorian" era="ce">1935 Oct. 1</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.26" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">22</container>
+            <unittitle>Speeches at luncheon given to Lt.-Col. Sir John R. Chancellor. -- (BCGA, no. 105), <unitdate calendar="gregorian" era="ce">1928 Nov. 6</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.27" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">23</container>
+            <unittitle>Speeches at luncheon given to the Right Hon. Stanley Baldwin. -- (BCGA, no. 102), <unitdate calendar="gregorian" era="ce">1928 May 16</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.28" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">24</container>
+            <unittitle>Speeches at luncheons given to His Excellency Lt.-Col. Sir Stewart Symes, Aug. 2, 1935 and His Excellency Sir Bernard H. Bourdillon, Oct. 11, 1935. -- (BCGA, no. 129), <unitdate calendar="gregorian" era="ce">1935</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.29" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">25</container>
+            <unittitle>Speeches at luncheon given to His Excellency Sir John L. Maffey, Oct. 2, 1928, and Lt.-Col. Sir John R. Chancellor, Nov. 6, 1928. -- (BCGA, no. 103), <unitdate calendar="gregorian" era="ce">1928</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.30" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">26</container>
+            <unittitle>Stanley, Capt. Lord.   Report by Captain Lord Stanley on his visit to the Punjab and Sind. -- (BCGA, no. 111), <unitdate calendar="gregorian" era="ce">1930 Feb.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.31" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">27</container>
+            <unittitle>The Sudan Plantations Syndicate, Ltd. and the Kassala Cotton Company, Ltd. and their work in the Anglo-Egyptian Sudan, <unitdate calendar="gregorian" era="ce">1950 Apr.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.32" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">28</container>
+            <unittitle>Transport in Africa : East Africa Commission's recommendations. -- (BCGA, no. 90), <unitdate calendar="gregorian" era="ce">1925 Nov.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.33" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">29</container>
+            <unittitle>Uganda Protectorate.  The Cotton ordinance, 1952 and the Cotton rules, 1960. -- Entebbe : Government Printer, <unitdate calendar="gregorian" era="ce">1960</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.34" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle>The British Cotton Growing Association grant in aid from Imperial funds, <unitdate calendar="gregorian" era="ce">1912 Oct. 29</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.35" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle>Summary of the report to the Board of Trade of the Empire Cotton Growing Committee, <unitdate calendar="gregorian" era="ce">[ca. 1920]</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.36" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle>West Indies.  Report of the Tropical Agricultural College Committee. -- London : His Majesty's Stationery Office, <unitdate calendar="gregorian" era="ce">1920</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.8.5.4" level="series">
+        <did>
+          <unittitle>Series 3. Plans and drawings</unittitle>
+        </did>
+        <c02 id="c02-1.8.5.4.2" level="file">
+          <did>
+            <container label="Flat Box" type="Othertype">4</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle>Romily Golf Club, Ltd.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.4.3" level="file">
+          <did>
+            <container label="Map Case" type="Map-case"/>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle>Marlboro Gin, Ibadan, Lagos [1 of 4]</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.4.4" level="file">
+          <did>
+            <container label="Map Case" type="Map-case"/>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle>Marlboro Gin, Ibadan, Lagos [2 of 4]</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.4.5" level="file">
+          <did>
+            <container label="Map Case" type="Map-case"/>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle>Marlboro Gin, Ibadan, Lagos [3 of 4]</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.4.6" level="file">
+          <did>
+            <container label="Map Case" type="Map-case"/>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle>Marlboro Gin, Ibadan, Lagos [4 of 4]</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.4.7" level="file">
+          <did>
+            <container label="Map Case" type="Map-case"/>
+            <container label="Folder" type="Folder">5</container>
+            <unittitle>Nigeria, no.1</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.4.8" level="file">
+          <did>
+            <container label="Map Case" type="Map-case"/>
+            <container label="Folder" type="Folder">6</container>
+            <unittitle>Nigeria, no. 2</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.4.9" level="file">
+          <did>
+            <container label="Map Case" type="Map-case"/>
+            <container label="Folder" type="Folder">7</container>
+            <unittitle>Nigeria, no. 3</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.4.10" level="file">
+          <did>
+            <container label="Map Case" type="Map-case"/>
+            <container label="Folder" type="Folder">8</container>
+            <unittitle>Nigeria, no. 4. Challowa Ginnery</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.4.11" level="file">
+          <did>
+            <container label="Map Case" type="Map-case"/>
+            <container label="Folder" type="Folder">9</container>
+            <unittitle>Nigeria, O/P no. 1, Oshogbo</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.4.12" level="file">
+          <did>
+            <container label="Map Case" type="Map-case"/>
+            <container label="Folder" type="Folder">10</container>
+            <unittitle>Nigeria, O/P no. 2, Lokoja</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.4.13" level="file">
+          <did>
+            <container label="Map Case" type="Map-case"/>
+            <container label="Folder" type="Folder">11</container>
+            <unittitle>Nigeria, O/P no. 3, Zaria</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.4.14" level="file">
+          <did>
+            <container label="Map Case" type="Map-case"/>
+            <container label="Folder" type="Folder">12</container>
+            <unittitle>Nigeria, O/P no. 4, Gusau</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.4.15" level="file">
+          <did>
+            <container label="Map Case" type="Map-case"/>
+            <container label="Folder" type="Folder">13</container>
+            <unittitle>Nigeria, O/P no. 5, Funtua</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.4.16" level="file">
+          <did>
+            <container label="Map Case" type="Map-case"/>
+            <container label="Folder" type="Folder">14</container>
+            <unittitle>Nigeria, O/P no. 6, Malumfashi</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.4.17" level="file">
+          <did>
+            <container label="Map Case" type="Map-case"/>
+            <container label="Folder" type="Folder">15</container>
+            <unittitle>Nigeria, O/P no. 7, Mai-Nichi</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.4.18" level="file">
+          <did>
+            <container label="Map Case" type="Map-case"/>
+            <container label="Folder" type="Folder">16</container>
+            <unittitle>Nigeria - miscellaneous</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.4.19" level="file">
+          <did>
+            <container label="Map Case" type="Map-case"/>
+            <container label="Folder" type="Folder">17</container>
+            <unittitle>Nyasaland - obsolete plans</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.4.20" level="file">
+          <did>
+            <container label="Map Case" type="Map-case"/>
+            <container label="Folder" type="Folder">18</container>
+            <unittitle>Uganda - obsolete plans</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.4.21" level="file">
+          <did>
+            <container label="Map Case" type="Map-case"/>
+            <container label="Folder" type="Folder">19</container>
+            <unittitle>Mesopotamia &amp; Rhodesia</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.4.22" level="file">
+          <did>
+            <container label="Map Case" type="Map-case"/>
+            <container label="Folder" type="Folder">20</container>
+            <unittitle>Misellaneous no. 1</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.4.23" level="file">
+          <did>
+            <container label="Map Case" type="Map-case"/>
+            <container label="Folder" type="Folder">21</container>
+            <unittitle>Misellaneous no. 2</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.4.24" level="file">
+          <did>
+            <container label="Map Case" type="Map-case"/>
+            <container label="Folder" type="Folder">22</container>
+            <unittitle>Misellaneous no. 3</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.4.25" level="file">
+          <did>
+            <container label="Map Case" type="Map-case"/>
+            <container label="Folder" type="Folder">23</container>
+            <unittitle>Misellaneous no. 4</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

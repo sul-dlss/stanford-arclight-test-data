@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+<eadheader id="a0" langencoding="iso639-2b" countryencoding="iso3166-1" repositoryencoding="iso15511" dateencoding="iso8601" scriptencoding="iso15924">
+<eadid countrycode="us" mainagencycode="CSt-H" publicid="PUBLIC &quot;-//Stanford University::Hoover Institution Archives//TEXT(US::CSt-H::81140::John P. McKnight papers//EN&quot; &quot;81140.xml&quot;">81140.xml</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Inventory of the John P. McKnight papers</titleproper>
+<titleproper type="filing">McKnight (John P.) papers</titleproper>
+<author>Processed by Aparna Mukherjee, revised by Supriya Wronkiewicz. </author>
+</titlestmt>
+<publicationstmt>
+<publisher id="Cst-H">Hoover Institution Archives</publisher> 
+<address> 
+<addressline>Stanford University</addressline> 
+<addressline>Stanford, California 94305-6010</addressline>
+ <addressline>Phone: (650) 723-3563</addressline>
+ <addressline>Fax: (650) 725-3445</addressline>
+ <addressline>Email: hooverarchives@stanford.edu</addressline>
+ </address>
+<date type="Publication" normal="2010">&#x00A9; 2010</date>
+<p>Hoover Institution Archives. All rights reserved.</p>
+</publicationstmt>
+</filedesc> 
+<profiledesc>
+<creation>Machine-readable finding aid derived from MARC record by David Sun, additions by Elizabeth Konzak and Supriya Wronkiewicz. <date normal="2010">Date of source: 2010</date></creation>
+<langusage>Finding aid is written in <language langcode="eng" scriptcode="latn">English</language></langusage>
+</profiledesc>
+<revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20100205">February 5, 2010</date>
+        <item>Addition of updated finding aid text and container list by Elizabeth Konzak</item>
+      </change>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20100730">July 30, 2010</date>
+        <item>Changed made to original finding aid text and container list added by Supriya Wronkiewicz</item>
+      </change>
+    </revisiondesc>
+</eadheader>
+<frontmatter>
+<titlepage>
+<titleproper>Inventory of the John P. McKnight papers</titleproper>
+<publisher>Hoover Institution Archives<lb/>Stanford University<lb/>Stanford, California</publisher>
+<list type="deflist">
+<defitem>
+<label>Processed by: </label>
+<item>Aparna Mukherjee</item>
+</defitem>
+<defitem>
+<label>Date Completed: </label>
+<item>2008</item>
+</defitem>
+<defitem>
+<label>Revised by: </label>
+<item>Supriya Wronkiewicz</item>
+</defitem>
+<defitem>
+<label>Date Revised: </label>
+<item>2010</item>
+</defitem>
+<defitem>
+<label>Encoded by: </label>
+<item>Machine-readable finding aid derived from MARC record by David Sun, additions by Elizabeth Konzak and Supriya Wronkiewicz.</item>
+</defitem>
+</list>
+<p>&#x00A9; 2008, 2010 Hoover Institution Archives. All rights reserved.</p>
+</titlepage>
+</frontmatter>
+<archdesc level="collection" id="a19" type="inventory">
+<did id="P2">
+<head>Collection Summary</head>
+<unittitle label="Title" encodinganalog="245$a">John P. McKnight papers </unittitle>
+<unitdate label="Dates"  type="inclusive" normal="1924/1945" encodinganalog="245$f">1924-1945</unitdate>
+<unitid label="Collection Number" countrycode="us" repositorycode="CSt-H" encodinganalog="099">81140</unitid>
+<origination label="Creator"><persname source="lcnaf" rules="aacr2">McKnight, John P.</persname></origination>
+<physdesc label="Collection Size" encodinganalog="300$a">
+<extent>2 manuscript boxes and 1 oversize file </extent>
+<extent>(0.9 linear feet)</extent>
+</physdesc>
+<repository label="Repository">
+<corpname>Hoover Institution Archives </corpname> <address> <addressline>Stanford, California 94305-6010</addressline> </address></repository>
+<abstract label="Abstract" encodinganalog="520$a">Contains reports, notes, orders, proclamations, and photographs, relating to American military operations in Italy and France during World War II, and especially to activities of the Fifth Corps (V Corps) in Normandy following the D-Day landings.</abstract>
+<physloc label="Physical Location">Hoover Institution Archives</physloc>
+<langmaterial label="Languages" encodinganalog="546$a">
+<language langcode="eng">English </language>
+</langmaterial>
+<langmaterial>There are proclamations in <language langcode="fre">French </language></langmaterial>
+</did>
+<descgrp type="admininfo">
+<head>Administrative Information</head>
+<accessrestrict encodinganalog="506">
+<head>Access</head>
+<p>Collection is open for research. </p>
+<p>The Hoover Institution Archives only allows access to <emph render="italic">copies</emph> of audiovisual items. To listen to sound recordings or to view videos or films during your visit, please contact the Archives at least two working days before your arrival. We will then advise you of the accessibility of the material you wish to see or hear. Please note that not all audiovisual material is immediately accessible.</p></accessrestrict>
+<userestrict encodinganalog="540">
+<head>Publication Rights</head>
+<p>For copyright status, please contact the Hoover Institution Archives. </p>
+</userestrict>
+<prefercite encodinganalog="524">
+<head>Preferred Citation</head>
+<p>[Identification of item], John P. McKnight papers, [Box number], Hoover Institution Archives.</p>
+</prefercite>
+<acqinfo encodinganalog="541">
+ <head>Acquisition Information</head>
+ <p>Acquired by the Hoover Institution Archives in 1981.</p>
+</acqinfo>
+<accruals encodinganalog="525"><head>Accruals</head>
+<p>Materials may have been added to the collection since this finding aid was prepared. To determine if this has occurred, find the collection in Stanford University's online catalog at <extref linktype="simple" href="http://searchworks.stanford.edu/" actuate="onrequest" show="new"> http://searchworks.stanford.edu/</extref>. Materials have been added to the collection if the number of boxes listed in the online catalog is larger than the number of boxes listed in this finding aid.</p>
+</accruals>
+</descgrp>
+<bioghist id="a2" encodinganalog="545">
+<head>Biographical/Historical Note</head> 
+<chronlist>
+   <chronitem>
+<date>1929</date>
+<event>AB degree</event>
+   </chronitem>
+   <chronitem>
+<date>1931</date>
+<event>Earned LL.B degree, University of Nebraska</event>
+   </chronitem>
+   <chronitem>
+<date>1931-1941</date>
+<event>Engaged in general practice of law and owning and running a business</event>
+   </chronitem>
+   <chronitem>
+<date>1941</date>
+<event>Entered U.S. Army as reserve officer</event>
+   </chronitem>
+   <chronitem>
+<date>1943</date>
+<event>Engaged in combat as War Department representative with Fifth Army for invasion landing at Salerno, Italy</event>
+   </chronitem>
+   <chronitem>
+<date>1944</date>
+<event>Engaged in combat as War Department representative with First Army for invasion of France and Normandy campaign</event>
+   </chronitem>
+</chronlist>
+</bioghist>
+<scopecontent id="a3" encodinganalog="520">
+<head>Scope and Content of Collection</head>
+<p>The John P. McKnight papers consist of reports, notes, orders, proclamations, and photographs, relating to American military operations in Italy and France during World War II, and especially to activities of the Fifth Corps (V Corps) in Normandy following the D-Day landings. The collection presents documents relating to organization and performance of the United States Army Fifth (V) Corps as well as some information about McKnight's personal life.</p>
+</scopecontent>
+<controlaccess><head>Indexing Terms</head> <p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p> 
+<corpname encodinganalog="610" source="lcnaf">United States. Army. Corps, V.</corpname>
+<subject encodinganalog="650" source="lcsh">World War, 1939-1945--Campaigns--France.</subject>
+<subject encodinganalog="650" source="lcsh">World War, 1939-1945--Campaigns--Italy.</subject>
+</controlaccess>
+<dsc type="combined" id="dsc-1">
+<head>Collection Contents</head>
+
+<c01 level="series" id="c01-1">
+<did>
+ <container type="Box" label="Box: ">1</container>
+   <unittitle>Personal file and collected documents,</unittitle>
+    <unitdate normal="1924/1944">1924-1944, undated</unitdate>
+</did>
+<c02><did><container type="Folder" label="Box/Folder: ">1 : 1</container>
+<unittitle>Biographical data, </unittitle>
+<unitdate>undated</unitdate></did></c02>
+<c02><did><container type="Folder" label="Box/Folder: ">1 : 2</container>
+<unittitle>Diary, </unittitle>
+<unitdate>undated</unitdate></did></c02>
+<c02><did><container type="Folder" label="Box/Folder: ">1 : 3</container>
+<unittitle>Notes, </unittitle>
+<unitdate>undated</unitdate></did></c02>
+
+<c02><did><container type="Folder" label="Box/Folder: ">1 : 4</container>
+<unittitle>Printed matter, </unittitle>
+<unitdate>1924-1944</unitdate></did><scopecontent><p>Booklets in French and German</p></scopecontent></c02>
+<c02><did><container type="Folder" label="Box/Folder: ">1 : 5</container>
+<unittitle>Miscellany, </unittitle>
+<unitdate>undated</unitdate></did><scopecontent><p> Includes decontamination data card, label, notes, registration card, and travel schedule</p></scopecontent></c02>
+</c01>
+<c01 level="series" id="c01-2">
+<did>
+ <container type="Box" label="Box: ">1</container>
+   <unittitle>U.S. Army records and related materials,</unittitle>
+    <unitdate>1924, 1942-1945, undated</unitdate>
+</did>
+<c02><did><container type="Folder" label="Box/Folder: ">1 : 6</container>
+<unittitle>Citation for Legion of Merit for "exceptionally meritorious conduct in the performance of outstanding services in the Operations Division, War Department General Staff, from November 1942" April 1945,? </unittitle>
+<unitdate>undated</unitdate></did></c02>
+<c02><did><container type="Folder" label="Box/Folder: ">1 : 7</container>
+<unittitle>Participation in Unit Gas Officers Course about map exercise tactics, </unittitle>
+<unitdate>1942 January-February</unitdate></did></c02>
+<c02><did><container type="Folder" label="Box: ">1</container>
+<unittitle>U.S. Army V Corps</unittitle>
+<unitdate>1924, 1944-1945, undated</unitdate></did>
+<c03><did><container type="Folder" label="Box: ">1</container>
+<unittitle>General, </unittitle>
+<unitdate>1924, 1942-1945, undated</unitdate></did>
+<c04><did><container type="Folder" label="Box/Folder: ">1 : 8</container>
+<unittitle>General, </unittitle>
+<unitdate>1944 and undated</unitdate></did></c04>
+<c04><did><container type="Folder" label="Box/Folder: ">1 : 9</container>
+<unittitle>Clippings, </unittitle>
+<unitdate>1924</unitdate></did></c04>
+<c04><did><container type="Folder" label="Box/Folder: ">1 : 10</container>
+<unittitle>List, </unittitle>
+<unitdate>undated</unitdate></did></c04>
+<c04><did><container type="Folder" label="Box/Folder: ">1 : 11</container>
+<unittitle>Max Katzowitz interview, </unittitle>
+<unitdate>1944</unitdate></did></c04>
+<c04><did><container type="Folder" label="Box/Folder: ">1 : 12</container>
+<unittitle>Memoranda, </unittitle>
+<unitdate>1944-1945</unitdate></did></c04>
+<c04><did><container type="Folder" label="Box/Folder: ">1 : 13</container>
+<unittitle>Reports, </unittitle>
+<unitdate>1944 and undated</unitdate></did></c04>
+</c03>
+<c03><did><container type="Folder" label="Box: ">1</container>
+<unittitle>Army Post Office (APO) 230, </unittitle>
+<unitdate>1944</unitdate></did>
+<c04><did><container type="Folder" label="Box/Folder: ">1 : 14</container>
+<unittitle>General, </unittitle>
+<unitdate>1944</unitdate></did></c04>
+<c04><did><container type="Folder" label="Box/Folder: ">1 : 15</container>
+<unittitle>Circulars and memoranda, </unittitle>
+<unitdate>1944</unitdate></did></c04>
+</c03>
+<c03><did><container type="Folder" label="Box: ">1</container>
+<unittitle>APO 305</unittitle>
+<unitdate>1944, undated</unitdate>
+</did>
+<c04><did><container type="Folder" label="Box/Folder: ">1 : 16</container>
+<unittitle>General, </unittitle>
+<unitdate>1944,  undated </unitdate></did></c04>
+<c04><did><container type="Folder" label="Box: ">1</container>
+<unittitle>Civil Affairs Section</unittitle>
+<unitdate>1944,  undated </unitdate></did>
+<c05><did><container type="Folder" label="Box/Folder: ">1 : 17</container>
+<unittitle>General documents, </unittitle>
+<unitdate>1944,  undated </unitdate></did></c05>
+<c05><did><container type="Folder" label="Box/Folder: ">1 : 18</container>
+<unittitle>Memoranda, 1944</unittitle>
+<unitdate>1944</unitdate></did></c05>
+</c04>
+<c04><did><container type="Folder" label="Box: ">1</container>
+<unittitle>War Department, </unittitle>
+<unitdate>undated</unitdate></did>
+<c05><did><container type="Folder" label="Box/Folder: ">1 : 19</container>
+<unittitle>Clippings, extracts from War Department manual, informational material on the Glider Program, list of shipping ticket, memoranda, plan for action, and schedule, </unittitle>
+<unitdate>undated</unitdate></did></c05>
+</c04>
+</c03>
+<c03><did><container type="Folder" label="Box/Folder: ">1 : 20</container>
+<unittitle>APO 306 Memoranda, </unittitle>
+<unitdate>1943</unitdate></did></c03>
+<c03><did><container type="Folder" label="Box/Folder: ">1 : 21</container>
+<unittitle>APO 307 Field order and memoranda, </unittitle>
+<unitdate>1942</unitdate></did></c03>
+</c02>
+<c02><did><container type="Folder" label="Box: ">1</container>
+<unittitle>U.S. Army VI Corps</unittitle>
+<unitdate>1943, undated</unitdate></did>
+<c03><did><container type="Folder" label="Box/Folder: ">1 : 22</container>
+<unittitle>"General information and of information to be secured by staff officers visiting front," </unittitle>
+<unitdate>1943</unitdate></did></c03>
+<c03><did><container type="Folder" label="Box/Folder: ">1 : 23</container>
+<unittitle>Report, </unittitle>
+<unitdate>undated</unitdate></did></c03>
+<c03><did><container type="Folder" label="Box/Folder: ">1 : 24</container>
+<unittitle>Telephone message from G3 45th Division to G3 6th Corps regarding bombing resulting in burning three trucks and death of one person, </unittitle>
+<unitdate>1943</unitdate></did></c03>
+</c02>
+</c01>
+<c01 level="series" id="c01-3">
+<did>
+ <container type="Box" label="Box: ">2  </container>
+   <unittitle>Photographs,</unittitle>
+    <unitdate normal="1944/1944">1944, undated</unitdate>
+</did>
+   <scopecontent><p>Arranged by format</p></scopecontent>
+<c02><did><container type="Folder" label="Box: ">2</container>
+<unittitle>Negatives</unittitle>
+<unitdate>undated</unitdate></did>
+<c03><did><container type="Folder" label="Box/Folder: ">2 : 1</container>
+<unittitle>Unidentified,  </unittitle>
+<unitdate>undated</unitdate></did><scopecontent><p>Includes negatives of election posters and unidentified individuals in home environment and war scenes</p></scopecontent></c03>
+<c03><did><container type="Folder" label="Box/Folder: ">2 : 2</container>
+<unittitle>Unidentified individuals in home environment, </unittitle>
+<unitdate>undated</unitdate></did></c03>
+<c03><did><container type="Folder" label="Box/Folder: ">2 : 3</container>
+<unittitle>War scenes, </unittitle>
+<unitdate>undated</unitdate></did></c03>
+<c03><did><container type="Folder" label="Box/Folder: ">2 : 4</container>
+<unittitle>Election posters, </unittitle>
+<unitdate>undated</unitdate></did></c03>
+<c03><did><container type="Folder" label="Box/Folder: ">2 : 5</container>
+<unittitle>Unidentified individuals, animals, and sea in the background, </unittitle>
+<unitdate>undated</unitdate></did></c03>
+<c03><did><container type="Folder" label="Box/Folder: ">2 : 6</container>
+<unittitle>Churches and buildings, </unittitle>
+<unitdate>undated</unitdate></did></c03>
+<c03><did><container type="Folder" label="Box/Folder: ">2 : 7</container>
+<unittitle>Cars, </unittitle>
+<unitdate>undated</unitdate></did></c03>
+</c02>
+<c02><did><container type="Folder" label="Box: ">2</container>
+<unittitle>Prints</unittitle>
+<unitdate>1944, undated</unitdate></did>
+<c03><did><container type="Folder" label="Box/Folder: ">2 : 8</container>
+<unittitle>Unidentified groups of soldiers with a jeep next to them and President Roosevelt?s message on the roadside board which reads, "There are many roads to Tokyo; we will neglect none of them," </unittitle>
+<unitdate>undated</unitdate></did></c03>
+<c03><did><container type="Folder" label="Box/Folder: ">2 : 9</container>
+<unittitle>Thomas Dewey and an unidentified individual,  </unittitle>
+<unitdate>undated</unitdate></did></c03>
+<c03><did><container type="Folder" label="Box/Folder: ">2 : 10-12</container>
+<unittitle>Soldiers in war ravaged areas, burial of dead soldiers on Omaha Beach and other Normandy beaches, tanks and planes, and Cherbourg after the surrender of Germany, </unittitle>
+<unitdate>1944-1945 and undated</unitdate></did></c03>
+</c02>
+</c01>
+<c01 level="series" id="c01-4">
+<did>
+ <container type="Box" label=" ">Map File</container>
+   <unittitle>Oversize File,</unittitle>
+    <unitdate normal="1940/1940">circa 1940s, undated</unitdate>
+</did>
+   <scopecontent><p>Includes military maps of various parts of France, printed maps of France, Europe, and world maps, proclamations and other print memorabilia. In English and in French</p></scopecontent>
+</c01>
+</dsc>
+</archdesc>
+</ead>

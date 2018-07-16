@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="urn:isbn:1-931666-22-9" xmlns:ns1="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ns2:eadheader findaidstatus="Export-guide" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <ns2:eadid countrycode="US" mainagencycode="US-CSt">m1410.xml</ns2:eadid>
+        <ns2:filedesc>
+            <ns2:titlestmt>
+                <ns2:titleproper>Guide to Papers of Richard A. Bartle, ca. 1979-1997
+                    <ns2:num>M1410</ns2:num>
+                </ns2:titleproper>
+                <ns2:titleproper type="filing">Bartle (Richard A.)</ns2:titleproper>
+                <ns2:author>Finding aid prepared by Charlotte Thai</ns2:author>
+            </ns2:titlestmt>
+            <ns2:publicationstmt>
+                <ns2:publisher>Dept. of Special Collections &amp; University Archives</ns2:publisher>
+                <ns2:address>
+                    <ns2:addressline>Stanford University Libraries.</ns2:addressline>
+                    <ns2:addressline>557 Escondido Mall</ns2:addressline>
+                    <ns2:addressline>Stanford, California, 94305</ns2:addressline>
+                    <ns2:addressline>Repository Email: specialcollections@stanford.edu</ns2:addressline>
+                </ns2:address>
+                <ns2:date>May 2014</ns2:date>
+            </ns2:publicationstmt>
+        </ns2:filedesc>
+        <ns2:profiledesc>
+            <ns2:creation>This finding aid was produced using the Archivists' Toolkit
+                <ns2:date>2014-05-13T10:11-0700</ns2:date>
+            </ns2:creation>
+            <ns2:descrules>Describing Archives: A Content Standard</ns2:descrules>
+        </ns2:profiledesc>
+    </ns2:eadheader>
+    <ns2:archdesc level="collection">
+        <ns2:did>
+            <ns2:unittitle>Richard A. Bartle papers</ns2:unittitle>
+            <ns2:unitid>M1410</ns2:unitid>
+            <ns2:repository>
+                <ns2:corpname>Dept. of Special Collections &amp; University Archives</ns2:corpname>
+            </ns2:repository>
+            <ns2:langmaterial>
+                <ns2:language langcode="eng"/>
+            </ns2:langmaterial>
+            <ns2:physdesc>
+                <ns2:extent>2.0 Linear feet</ns2:extent>
+                <ns2:extent>1 manuscript box, 1 flat box</ns2:extent>
+            </ns2:physdesc>
+            <ns2:unitdate normal="1979/1997" type="inclusive">1979-1997</ns2:unitdate>
+            <ns2:physloc id="ref2" label="Physical Location">Special Collections and University Archives materials are stored offsite and must be paged 36-48 hours in advance. For more information on paging collections, see the department's website: http://library.stanford.edu/spc.</ns2:physloc>
+            <ns2:abstract id="ref5" label="Abstract">There are two main parts to this collection: 1) MUD1 archival materials and 2) MUD1 source code. The MUD1 archival materials include files for “Dungen,” MUDDLE reference manual, maps, design notes, etc. Notes written by Richard A. Bartle are inserted in the first (unnumbered) folder in the manuscript box. These notes provide information about the contents contained in folders that he numbered 1-32, and arranged in chronological order. Folders 1-32 are dispersed between a manuscript box and flat storage box due to variations in document size. The MUD1 source code is available online through the Stanford University Libraries at this location: 
+                <ns2:extref ns1:actuate="onRequest" ns1:href="http://purl.stanford.edu/wh632tj5702">http://purl.stanford.edu/wh632tj5702</ns2:extref></ns2:abstract>
+            <ns2:origination label="Creator">
+                <ns2:persname rules="aacr" role="Author (aut)">Bartle, Richard A.</ns2:persname>
+            </ns2:origination>
+        </ns2:did>
+        <ns2:acqinfo id="ref1">
+            <ns2:head>Acquisition Information</ns2:head>
+            <ns2:p>This collection was given by Richard Bartle to Stanford University, Special Collections in 2003 and 2014.</ns2:p>
+        </ns2:acqinfo>
+        <ns2:userestrict id="ref3">
+            <ns2:head>Publication Rights</ns2:head>
+            <ns2:p>Open for research. Physical boxes can be paged for use through Searchworks. Born-digital files can be downloaded from:</ns2:p>
+            <ns2:p>
+                <ns2:extref ns1:actuate="onRequest" ns1:href="http://purl.stanford.edu/wh632tj5702">http://purl.stanford.edu/wh632tj5702</ns2:extref></ns2:p>
+        </ns2:userestrict>
+        <ns2:prefercite id="ref4">
+            <ns2:head>Preferred Citation</ns2:head>
+            <ns2:p>[identification of item], Richard A. Bartle papers (M1410). Dept. of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</ns2:p>
+        </ns2:prefercite>
+        <ns2:bioghist id="ref7">
+            <ns2:head>Biography</ns2:head>
+            <ns2:p>Dr. Richard A. Bartle was born in Ripon, North Yorkshire, England on January 10, 1960. He entered Essex University in 1978, where he acquired a BSc degree in Computer Science (1st Class) and a PhD in Artificial Intelligence. In 1984 he lectured at Essex on the latter subject, becoming the youngest member of the University’s academic staff.</ns2:p>
+            <ns2:p>While an undergraduate at Essex, he met Roy Trubshaw, who was a year above him in school. Roy was interested in designing a multiplayer text adventure game. The game he created was called MUD (Multi-User Dungeon), and Roy devoted his undergraduate academic career to writing it. Roy did not have time to complete the game before he finished his studies, so he gave it to Richard when the programming was about 75% done. Richard added his own enhancements and completed the rest of the game. Programming the first MUD took from 1978-1981.</ns2:p>
+            <ns2:p>In order to market MUD, Richard and Roy formed a game company with Simon Dally called MUSE. Simon was a book publisher who commissioned Richard's book, 
+                <ns2:emph render="italic">Artificial Intelligence and Computer Games</ns2:emph>. Meanwhile, Richard continued to experiment with the MUD program, and developed a brand-new system, leading to an updated version of MUD that was called MUD2. MUD2 benefited from having a dedicated programming language, called MUDDLE, which was designed specifically for writing MUD-like games, but was flexible enough to be used for other types of programming. Richard left Essex University in 1987 to work full-time on MUD2. Unfortunately, Simon suffered from manic depression and committed suicide in 1989. MUSE never fully recovered from the impact of this tragedy.</ns2:p>
+            <ns2:p>Richard left full-time work at MUSE in 2000, and after a short stint at a start-up company called Gameplay, he became a consultant. During this time he also published 
+                <ns2:emph render="italic">Designing Virtual Worlds</ns2:emph>, the first book about the design of MUDs. 
+                <ns2:emph render="italic">Designing Virtual Worlds</ns2:emph> is widely used as standard text for anyone interested in programming multiplayer online games. Richard returned to Essex University in 2002, to assist with teaching curriculum designed for a newly introduced computer games degree. In 2004 he became a Visiting Professor. He continues to teach, conduct research, and provide consultation related to computer programming and virtual world games.</ns2:p>
+            <ns2:p>Source(s): Bartle, Richard A. Artificial Intelligence and Computer Games. London: Century Communications, 1985. Bartle, Richard A. Designing Virtual Worlds. Indianapolis: New Riders, 2003. 
+                <ns2:extref ns1:actuate="onRequest" ns1:href="http://mud.co.uk/richard/biog.htm">http://mud.co.uk/richard/biog.htm</ns2:extref>
+                <ns2:extref ns1:actuate="onRequest" ns1:href="http://mud.co.uk/richard/cv.htm">http://mud.co.uk/richard/cv.htm</ns2:extref></ns2:p>
+        </ns2:bioghist>
+        <ns2:scopecontent id="ref8">
+            <ns2:head>Scope and Contents</ns2:head>
+            <ns2:p>The collection is comprised of two series.</ns2:p>
+            <ns2:p>Series 1: This series contains MUD1 archival material. Notes written by Richard A. Bartle are inserted in the first (unnumbered) folder in the manuscript box. These notes provide information about the contents contained in folders that he numbered 1-32, and arranged in chronological order. Folders 1-32 are dispersed between a manuscript box and flat storage box due to variations in document size. The manuscript box contains original handwritten design notes, maps, and photocopies of files. The flat box contains lineprinter papers, which consists of a MACRO-10 assembler list output for the final version of MUD version 2, maps, an extent log of a MUD session, along with other oversize documents.</ns2:p>
+            <ns2:p>Series 2: The 2014 accession contained a zip file which contained the compressed library of source code files for the online virtual world, MUD1. This digital files are available online through the Stanford University Libraries at this location:</ns2:p>
+            <ns2:p>
+                <ns2:extref ns1:actuate="onRequest" ns1:href="http://purl.stanford.edu/wh632tj5702">http://purl.stanford.edu/wh632tj5702</ns2:extref></ns2:p>
+        </ns2:scopecontent>
+        <ns2:accessrestrict id="ref45">
+            <ns2:head>Access to Collection</ns2:head>
+            <ns2:p>Open for research. Physical boxes can be paged for use through Searchworks. Born-digital files can be downloaded from:</ns2:p>
+            <ns2:p>
+                <ns2:extref ns1:actuate="onRequest" ns1:href="http://purl.stanford.edu/wh632tj5702">http://purl.stanford.edu/wh632tj5702</ns2:extref></ns2:p>
+        </ns2:accessrestrict>
+        <ns2:controlaccess>
+            <ns2:persname source="local" role="Author (aut)">Trubshaw, Roy</ns2:persname>
+            <ns2:subject source="LCSH">Computer games--Design.</ns2:subject>
+            <ns2:subject source="LCSH">Computer games--History.</ns2:subject>
+            <ns2:subject source="LCSH">Computer games--Programming.</ns2:subject>
+            <ns2:subject source="lcsh">Science--History.</ns2:subject>
+        </ns2:controlaccess>
+        <ns2:dsc>
+            <ns2:c01 id="ref9" level="series">
+                <ns2:did>
+                    <ns2:unittitle>Series 1: MUD1 (Multi-User Dungeon) Archival Materials</ns2:unittitle>
+                    <ns2:physdesc>
+                        <ns2:extent>2.0 Linear feet</ns2:extent>
+                        <ns2:extent>1 manuscript box, 1 flat box</ns2:extent>
+                    </ns2:physdesc>
+                </ns2:did>
+                <ns2:scopecontent id="ref43">
+                    <ns2:head>Scope and Contents</ns2:head>
+                    <ns2:p>This series contains MUD1 archival material. Notes written by Richard A. Bartle are inserted in the first (unnumbered) folder in the manuscript box. These notes provide information about the contents contained in folders that he numbered 1-32, and arranged in chronological order. Folders 1-32 are dispersed between a manuscript box and flat storage box due to variations in document size. The manuscript box contains original handwritten design notes, maps, and photocopies of files. The flat box contains lineprinter papers, which consists of a MACRO-10 assembler list output for the final version of MUD version 2, maps, an extent log of a MUD session, along with other oversize documents.This consists of the digital file for the MUD1 source code, which is available online through the Stanford University Libraries at this location: http://purl.stanford.edu/wh632tj5702</ns2:p>
+                </ns2:scopecontent>
+                <ns2:c02 id="ref11" level="file">
+                    <ns2:did>
+                        <ns2:unittitle>MUD1 Collection Notes</ns2:unittitle>
+                        <ns2:container id="cid62788003" type="Box" label="Mixed materials">1</ns2:container>
+                    </ns2:did>
+                    <ns2:scopecontent id="ref47">
+                        <ns2:head>Scope and Contents</ns2:head>
+                        <ns2:p>These are notes written by Richard A. Bartle that are inserted in the first (unnumbered) folder in the manuscript box. They provide information about the contents contained in folders that he numbered 1-32, and arranged in chronological order. Folders 1-32 are dispersed between a manuscript box and flat storage box due to variations in document size.</ns2:p>
+                    </ns2:scopecontent>
+                </ns2:c02>
+                <ns2:c02 id="ref12" level="file">
+                    <ns2:did>
+                        <ns2:unittitle>Photocopied Sheets "Database Format for Dungen"</ns2:unittitle>
+                        <ns2:container id="cid62788001" type="Box" label="Mixed materials">1</ns2:container>
+                        <ns2:container parent="cid62788001" type="Folder">2</ns2:container>
+                    </ns2:did>
+                </ns2:c02>
+                <ns2:c02 id="ref13" level="file">
+                    <ns2:did>
+                        <ns2:unittitle>Photocopied Sheets "Dungen"</ns2:unittitle>
+                        <ns2:container id="cid62788002" type="Box" label="Mixed materials">1</ns2:container>
+                        <ns2:container parent="cid62788002" type="Folder">3</ns2:container>
+                    </ns2:did>
+                </ns2:c02>
+                <ns2:c02 id="ref14" level="file">
+                    <ns2:did>
+                        <ns2:unittitle>Photocopied Sheets "Directory"</ns2:unittitle>
+                        <ns2:container id="cid62788004" type="Box" label="Mixed materials">1</ns2:container>
+                        <ns2:container parent="cid62788004" type="Folder">4</ns2:container>
+                    </ns2:did>
+                </ns2:c02>
+                <ns2:c02 id="ref15" level="file">
+                    <ns2:did>
+                        <ns2:unittitle>Photocopied Sheets "MUDDLE reference manual"</ns2:unittitle>
+                        <ns2:container id="cid62788005" type="Box" label="Mixed materials">1</ns2:container>
+                        <ns2:container parent="cid62788005" type="Folder">7</ns2:container>
+                    </ns2:did>
+                </ns2:c02>
+                <ns2:c02 id="ref16" level="file">
+                    <ns2:did>
+                        <ns2:unittitle>Map area north of the road</ns2:unittitle>
+                        <ns2:container id="cid62788006" type="Box" label="Mixed materials">1</ns2:container>
+                        <ns2:container parent="cid62788006" type="Folder">8</ns2:container>
+                    </ns2:did>
+                </ns2:c02>
+                <ns2:c02 id="ref17" level="file">
+                    <ns2:did>
+                        <ns2:unittitle>Original map to the goblin lair</ns2:unittitle>
+                        <ns2:container id="cid62788007" type="Box" label="Mixed materials">1</ns2:container>
+                        <ns2:container parent="cid62788007" type="Folder">9</ns2:container>
+                    </ns2:did>
+                </ns2:c02>
+                <ns2:c02 id="ref18" level="file">
+                    <ns2:did>
+                        <ns2:unittitle>Original map to the mine</ns2:unittitle>
+                        <ns2:container id="cid62788008" type="Box" label="Mixed materials">1</ns2:container>
+                        <ns2:container parent="cid62788008" type="Folder">10</ns2:container>
+                    </ns2:did>
+                </ns2:c02>
+                <ns2:c02 id="ref19" level="file">
+                    <ns2:did>
+                        <ns2:unittitle>Map used in design for dwarf realm</ns2:unittitle>
+                        <ns2:container id="cid62788009" type="Box" label="Mixed materials">1</ns2:container>
+                        <ns2:container parent="cid62788009" type="Folder">11</ns2:container>
+                    </ns2:did>
+                </ns2:c02>
+                <ns2:c02 id="ref20" level="file">
+                    <ns2:did>
+                        <ns2:unittitle>Travel table</ns2:unittitle>
+                        <ns2:container id="cid62788010" type="Box" label="Mixed materials">1</ns2:container>
+                        <ns2:container parent="cid62788010" type="Folder">12</ns2:container>
+                    </ns2:did>
+                </ns2:c02>
+                <ns2:c02 id="ref21" level="file">
+                    <ns2:did>
+                        <ns2:unittitle>Map of glade area</ns2:unittitle>
+                        <ns2:container id="cid62788011" type="Box" label="Mixed materials">1</ns2:container>
+                        <ns2:container parent="cid62788011" type="Folder">13</ns2:container>
+                    </ns2:did>
+                </ns2:c02>
+                <ns2:c02 id="ref22" level="file">
+                    <ns2:did>
+                        <ns2:unittitle>Sheet of ideas for inclusion in MUD</ns2:unittitle>
+                        <ns2:container id="cid62788012" type="Box" label="Mixed materials">1</ns2:container>
+                        <ns2:container parent="cid62788012" type="Folder">14</ns2:container>
+                    </ns2:did>
+                </ns2:c02>
+                <ns2:c02 id="ref23" level="file">
+                    <ns2:did>
+                        <ns2:unittitle>Map of the dragon isle</ns2:unittitle>
+                        <ns2:container id="cid62788013" type="Box" label="Mixed materials">1</ns2:container>
+                        <ns2:container parent="cid62788013" type="Folder">15</ns2:container>
+                    </ns2:did>
+                </ns2:c02>
+                <ns2:c02 id="ref24" level="file">
+                    <ns2:did>
+                        <ns2:unittitle>Photocopied Sheets, "A Muse"</ns2:unittitle>
+                        <ns2:container id="cid62788014" type="Box" label="Mixed materials">1</ns2:container>
+                        <ns2:container parent="cid62788014" type="Folder">17</ns2:container>
+                    </ns2:did>
+                </ns2:c02>
+                <ns2:c02 id="ref25" level="file">
+                    <ns2:did>
+                        <ns2:unittitle>Original sketch map of "Valley"</ns2:unittitle>
+                        <ns2:container id="cid62788015" type="Box" label="Mixed materials">1</ns2:container>
+                        <ns2:container parent="cid62788015" type="Folder">19</ns2:container>
+                    </ns2:did>
+                </ns2:c02>
+                <ns2:c02 id="ref26" level="file">
+                    <ns2:did>
+                        <ns2:unittitle>Nodal map of "Valley"</ns2:unittitle>
+                        <ns2:container id="cid62788016" type="Box" label="Mixed materials">1</ns2:container>
+                        <ns2:container parent="cid62788016" type="Folder">21</ns2:container>
+                    </ns2:did>
+                </ns2:c02>
+                <ns2:c02 id="ref27" level="file">
+                    <ns2:did>
+                        <ns2:unittitle>Design notes for the MUDDLE programming language</ns2:unittitle>
+                        <ns2:container id="cid62788017" type="Box" label="Mixed materials">1</ns2:container>
+                        <ns2:container parent="cid62788017" type="Folder">22</ns2:container>
+                    </ns2:did>
+                </ns2:c02>
+                <ns2:c02 id="ref28" level="file">
+                    <ns2:did>
+                        <ns2:unittitle>MUD-2 Preliminary documentation</ns2:unittitle>
+                        <ns2:container id="cid62788018" type="Box" label="Mixed materials">1</ns2:container>
+                        <ns2:container parent="cid62788018" type="Folder">23</ns2:container>
+                    </ns2:did>
+                </ns2:c02>
+                <ns2:c02 id="ref29" level="file">
+                    <ns2:did>
+                        <ns2:unittitle>Implementation notes for the MUDDLE parser</ns2:unittitle>
+                        <ns2:container id="cid62788019" type="Box" label="Mixed materials">1</ns2:container>
+                        <ns2:container parent="cid62788019" type="Folder">24</ns2:container>
+                    </ns2:did>
+                </ns2:c02>
+                <ns2:c02 id="ref30" level="file">
+                    <ns2:did>
+                        <ns2:unittitle>Maps for the inn and beneath the inn</ns2:unittitle>
+                        <ns2:container id="cid62788020" type="Box" label="Mixed materials">1</ns2:container>
+                        <ns2:container parent="cid62788020" type="Folder">25</ns2:container>
+                    </ns2:did>
+                </ns2:c02>
+                <ns2:c02 id="ref31" level="file">
+                    <ns2:did>
+                        <ns2:unittitle>Maps that accompany the North Mountain area</ns2:unittitle>
+                        <ns2:container id="cid62788021" type="Box" label="Mixed materials">1</ns2:container>
+                        <ns2:container parent="cid62788021" type="Folder">26</ns2:container>
+                    </ns2:did>
+                </ns2:c02>
+                <ns2:c02 id="ref32" level="file">
+                    <ns2:did>
+                        <ns2:unittitle>Map to sew Valley onto MUD1</ns2:unittitle>
+                        <ns2:container id="cid62788022" type="Box" label="Mixed materials">1</ns2:container>
+                        <ns2:container parent="cid62788022" type="Folder">30</ns2:container>
+                    </ns2:did>
+                </ns2:c02>
+                <ns2:c02 id="ref33" level="file">
+                    <ns2:did>
+                        <ns2:unittitle>White dot matrix sheet "mmosolm.pas"</ns2:unittitle>
+                        <ns2:container id="cid62788023" type="Box" label="Mixed materials">1</ns2:container>
+                        <ns2:container parent="cid62788023" type="Folder">31</ns2:container>
+                    </ns2:did>
+                </ns2:c02>
+                <ns2:c02 id="ref34" level="file">
+                    <ns2:did>
+                        <ns2:unittitle>Research materials for maps accompanying pagoda area</ns2:unittitle>
+                        <ns2:container id="cid62788024" type="Box" label="Mixed materials">1</ns2:container>
+                        <ns2:container parent="cid62788024" type="Folder">32</ns2:container>
+                    </ns2:did>
+                </ns2:c02>
+                <ns2:c02 id="ref35" level="file">
+                    <ns2:did>
+                        <ns2:unittitle>Green lineprinter paper, Sequence #4221</ns2:unittitle>
+                        <ns2:container id="cid62788025" type="Flat-box" label="Mixed materials">1</ns2:container>
+                        <ns2:container parent="cid62788025" type="Folder">1</ns2:container>
+                    </ns2:did>
+                </ns2:c02>
+                <ns2:c02 id="ref36" level="file">
+                    <ns2:did>
+                        <ns2:unittitle>Green lineprinter paper, Sequence #3010</ns2:unittitle>
+                        <ns2:container id="cid62788026" type="Flat-box" label="Mixed materials">1</ns2:container>
+                        <ns2:container parent="cid62788026" type="Folder">5</ns2:container>
+                    </ns2:did>
+                </ns2:c02>
+                <ns2:c02 id="ref37" level="file">
+                    <ns2:did>
+                        <ns2:unittitle>Photocopied lineprinter paper</ns2:unittitle>
+                        <ns2:container id="cid62788027" type="Flat-box" label="Mixed materials">1</ns2:container>
+                        <ns2:container parent="cid62788027" type="Folder">6</ns2:container>
+                    </ns2:did>
+                </ns2:c02>
+                <ns2:c02 id="ref38" level="file">
+                    <ns2:did>
+                        <ns2:unittitle>Green lineprinter paper, Sequence #1046</ns2:unittitle>
+                        <ns2:container id="cid62788028" type="Flat-box" label="Mixed materials">1</ns2:container>
+                        <ns2:container parent="cid62788028" type="Folder">16</ns2:container>
+                    </ns2:did>
+                </ns2:c02>
+                <ns2:c02 id="ref39" level="file">
+                    <ns2:did>
+                        <ns2:unittitle>Green lineprinter paper, Sequence #1201</ns2:unittitle>
+                        <ns2:container id="cid62788029" type="Flat-box" label="Mixed materials">1</ns2:container>
+                        <ns2:container parent="cid62788029" type="Folder">18</ns2:container>
+                    </ns2:did>
+                </ns2:c02>
+                <ns2:c02 id="ref40" level="file">
+                    <ns2:did>
+                        <ns2:unittitle>First full map of MUD version 3</ns2:unittitle>
+                        <ns2:container id="cid62788030" type="Flat-box" label="Mixed materials">1</ns2:container>
+                        <ns2:container parent="cid62788030" type="Folder">20</ns2:container>
+                    </ns2:did>
+                </ns2:c02>
+                <ns2:c02 id="ref41" level="file">
+                    <ns2:did>
+                        <ns2:unittitle>White lineprinter paper, Sequence #1100 and #1101</ns2:unittitle>
+                        <ns2:container id="cid62788031" type="Flat-box" label="Mixed materials">1</ns2:container>
+                        <ns2:container parent="cid62788031" type="Folder">28</ns2:container>
+                    </ns2:did>
+                </ns2:c02>
+                <ns2:c02 id="ref42" level="file">
+                    <ns2:did>
+                        <ns2:unittitle>Descriptions of MUD module extension "Valley"</ns2:unittitle>
+                        <ns2:container id="cid62788032" type="Flat-box" label="Mixed materials">1</ns2:container>
+                        <ns2:container parent="cid62788032" type="Folder">29</ns2:container>
+                    </ns2:did>
+                </ns2:c02>
+            </ns2:c01>
+            <ns2:c01 id="ref10" level="series">
+                <ns2:did>
+                    <ns2:unittitle>Series 2: MUD1 Source Code</ns2:unittitle>
+                    <ns2:physdesc>
+                        <ns2:extent>35.0 computer file(s)</ns2:extent>
+                        <ns2:extent>777 KB</ns2:extent>
+                    </ns2:physdesc>
+                </ns2:did>
+                <ns2:scopecontent id="ref44">
+                    <ns2:head>Scope and Contents</ns2:head>
+                    <ns2:p>Series 2: The 2014 accession contained a zip file which contained the compressed library of source code files for the online virtual world, MUD1. This digital files are available online through the Stanford University Libraries at this location:</ns2:p>
+                    <ns2:p>
+                        <ns2:extref ns1:actuate="onRequest" ns1:href="http://purl.stanford.edu/wh632tj5702">http://purl.stanford.edu/wh632tj5702</ns2:extref></ns2:p>
+                </ns2:scopecontent>
+            </ns2:c01>
+        </ns2:dsc>
+    </ns2:archdesc>
+</ns2:ead>

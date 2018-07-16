@@ -1,0 +1,947 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+    <eadheader findaidstatus="edited-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-CSt-H">jacobsje.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Inventory of the Joseph Earle Jacobs papers
+                </titleproper>
+                <titleproper type="filing">Jacobs (Joseph E.) papers</titleproper>
+                <author>Finding aid prepared by Hoover Institution Archives Staff</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Hoover Institution Archives</publisher>
+                <address>
+                    <addressline>434 Galvez Mall</addressline>
+                    <addressline>Stanford University</addressline>
+                    <addressline>Stanford, CA, 94305-6003</addressline>
+                    <addressline>(650) 723-3563</addressline>
+                    <addressline>hooverarchives@stanford.edu</addressline>
+                </address>
+                <date>© 1999, 2016</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2017-12-14T09:51-0800</date>
+            </creation>
+            <langusage>Finding aid is in 
+                <language>English.</language></langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>2017</date>
+                <item>July 18, 2017: Revised to add description of materials in box 3 and return declassified materials to original locations in box 1 by Frances Heldt.
+September 30, 2016: Revised to add increment, box 3.
+September 12, 2011: Declassified records series added.
+March 23, 2004: PUBLIC "-//Stanford University::Hoover Institution Archives//TEXT (US::CSt-H::::Joseph Earle Jacobs Papers)//EN" "jacobsje.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Joseph Earle Jacobs papers</unittitle>
+            <unitdate normal="1909/1971" type="inclusive">1909-1971</unitdate>
+            <unitid label="Collection Number" countrycode="US" repositorycode="CSt-H">69071</unitid>
+            <repository>
+                <corpname>Hoover Institution Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+
+            <physdesc>
+
+                <extent>3 manuscript boxes</extent>
+                <extent>(1.2 linear feet)</extent>
+            </physdesc>
+
+            <abstract id="ref2" label="Abstract">Writings, correspondence, reports, and printed matter relating to various aspects of American diplomacy, especially reconstruction in Korea, mutual security programs in Europe after World War II, the Italian communist movement, the Philippine independence movement, and the Shanghai riot of May 30, 1925.</abstract>
+            <physloc id="ref209" label="Physical Location">Hoover Institution Archives</physloc>
+            <origination label="Creator">
+                <persname source="ingest">Jacobs, Joseph E., 1893-1971</persname>
+            </origination>
+        </did>
+        <accessrestrict id="ref3">
+            <head>Access</head>
+            <p>Collection is open for research.</p>
+        </accessrestrict>
+        <userestrict id="ref4">
+            <head>Publication Rights</head>
+            <p>For copyright status, please contact the Hoover Institution Archives.</p>
+        </userestrict>
+        <prefercite id="ref5">
+            <head>Preferred Citation</head>
+            <p>[Identification of item], Joseph Earle Jacobs papers, [Box no.], Hoover Institution Archives.</p>
+        </prefercite>
+        <acqinfo id="ref210">
+            <head>Acquisition Information</head>
+            <p>Materials were acquired by the Hoover Institution Archives in 1969.</p>
+        </acqinfo>
+        <accruals id="ref212">
+            <head>Accruals</head>
+            <p>Materials may have been added to the collection since this finding aid was prepared. To determine if this has occurred, find the collection in Stanford University's online catalog at 
+                <extref actuate="onrequest" show="new" href="http://searchworks.stanford.edu/">http://searchworks.stanford.edu/</extref>. Materials have been added to the collection if the number of boxes listed in the catalog is larger than the number of boxes listed in this finding aid.</p>
+        </accruals>
+        <bioghist id="ref208">
+            <head>Biographical Note</head>
+            <chronlist>
+                <chronitem>
+                    <date>1893 October 31</date>
+                    <event>Born, Johnston, South Carolina</event>
+                </chronitem>
+                <chronitem>
+                    <date>1913</date>
+                    <event>A.B., College of Charleston</event>
+                </chronitem>
+                <chronitem>
+                    <date>1915 November 5</date>
+                    <event>Student interpreter in China and detailed to Peking</event>
+                </chronitem>
+                <chronitem>
+                    <date>1917-1918</date>
+                    <event>Vice Consul, Foochow</event>
+                </chronitem>
+                <chronitem>
+                    <date>1918</date>
+                    <event>Vice Consul and interpreter, Shanghai</event>
+                </chronitem>
+                <chronitem>
+                    <date>1918-1925</date>
+                    <event>American Assessor, International Mixed Court, Shanghai</event>
+                </chronitem>
+                <chronitem>
+                    <date>1919-1920</date>
+                    <event>Judge, Consular Court, District of Shanghai</event>
+                </chronitem>
+                <chronitem>
+                    <date>1921</date>
+                    <event>Appointed Consul</event>
+                </chronitem>
+                <chronitem>
+                    <date>1924</date>
+                    <event>Reclassified as foreign service officer</event>
+                </chronitem>
+                <chronitem>
+                    <date>1925 May-December</date>
+                    <event>Administrative Consul, Shanghai</event>
+                </chronitem>
+                <chronitem>
+                    <date>1926</date>
+                    <event>Technical Adviser to American Commissioner on Extraterritorial Jurisdiction in China</event>
+                </chronitem>
+                <chronitem>
+                    <date>1926-1928</date>
+                    <event>Consul, Yumanfu, China</event>
+                </chronitem>
+                <chronitem>
+                    <date>1928-1930</date>
+                    <event>Consul, Shanghai</event>
+                </chronitem>
+                <chronitem>
+                    <date>1929 December-1930 February</date>
+                    <event>Representative of American Minister to China in negotiations with regard to the Provisional Court, Shanghai</event>
+                </chronitem>
+                <chronitem>
+                    <date>1930 August 23</date>
+                    <event>Married Elizabeth McNutt</event>
+                </chronitem>
+                <chronitem>
+                    <date>1930-1934</date>
+                    <event>Duty, Far Eastern Division, Department of State</event>
+                </chronitem>
+                <chronitem>
+                    <date>1935-1936</date>
+                    <event>Foreign Service Inspector</event>
+                </chronitem>
+                <chronitem>
+                    <date>1936-1940</date>
+                    <event>Chief, Office of Philippine Affairs, Department of State</event>
+                </chronitem>
+                <chronitem>
+                    <date>1937</date>
+                    <event>Member, Joint Committee of Experts on Philippine Affairs</event>
+                </chronitem>
+                <chronitem>
+                    <date>1940-1945</date>
+                    <event>Counselor of Legation, Cairo, Egypt</event>
+                </chronitem>
+                <chronitem>
+                    <date>1945 January</date>
+                    <event>Attached to Political Adviser, Allied Headquarters, Mediterranean Command, Caserta, Italy</event>
+                </chronitem>
+                <chronitem>
+                    <date>1945 May-1946 November</date>
+                    <event>American Representative to Albania</event>
+                </chronitem>
+                <chronitem>
+                    <date>1947-1948</date>
+                    <event>Political Adviser to the Commanding General in Korea</event>
+                </chronitem>
+                <chronitem>
+                    <date>1947 November</date>
+                    <event>Career Minister, U.S. Foreign Service</event>
+                </chronitem>
+                <chronitem>
+                    <date>1948</date>
+                    <event>Adviser, Far Eastern Affairs, 3rd session of the General Assembly of the United Nations, Paris</event>
+                </chronitem>
+                <chronitem>
+                    <date>1948-1949</date>
+                    <event>U.S. Ambassador to Czechoslovakia</event>
+                </chronitem>
+                <chronitem>
+                    <date>1949</date>
+                    <event>Awarded Patriotic Civilian Service Medal by Department of the Army</event>
+                </chronitem>
+                <chronitem>
+                    <date>1949-1955</date>
+                    <event>Minister to American Embassy, Rome - special assistant for Mutual Defense Assistant Program</event>
+                </chronitem>
+                <chronitem>
+                    <date>1953</date>
+                    <event>LL.D., College of Charleston</event>
+                </chronitem>
+                <chronitem>
+                    <date>1955-1957</date>
+                    <event>U.S. Ambassador to Poland</event>
+                </chronitem>
+                <chronitem>
+                    <date>1971</date>
+                    <event>Died</event>
+                </chronitem>
+            </chronlist>
+        </bioghist>
+        <scopecontent id="ref154">
+            <head>Scope and Content of Collection</head>
+            <p>Writings, correspondence, reports, and printed matter relating to various aspects of American diplomacy, especially reconstruction in Korea, mutual security programs in Europe after World War II, the Italian communist movement, the Philippine independence movement, and the Shanghai riot of May 30, 1925.</p>
+        </scopecontent>
+        <controlaccess>
+            <corpname source="naf">United States. Department of State.</corpname>
+            <subject source="lcsh">Communism--Italy.</subject>
+            <occupation source="lcsh">Diplomats--United States.</occupation>
+            <subject source="ingest">Nationalism--Philippines.</subject>
+            <subject source="ingest">Reconstruction (1939-1951)--Korea (South)</subject>
+            <subject source="lcsh">Textile Workers' Strike, Shanghai, China, 1925.</subject>
+            <geogname source="lcsh">United States--Foreign relations.</geogname>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref163" level="file">
+                <did>
+                    <unittitle>Political Adviser to the Commanding General in Korea file</unittitle>
+                </did>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>Press release on Korea and the Soviet Union,</unittitle>
+                        <container id="cid6629042" type="Box-folder" label="Box/Folder">1 : 1</container>
+                        <unitdate>1948 April 9</unitdate>
+                    </did>
+                    <scopecontent id="ref155">
+                        <head>Scope and Contents note</head>
+                        <p>Includes two newspaper clippings, one in Korean.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>U.S. Foreign Service reports on Syngman Rhee, the establishment of the Korean government, etc.</unittitle>
+                        <container id="cid6620001" type="Box-folder" label="Box/Folder">1 : 2</container>
+                    </did>
+                    <c03 id="ref24" level="file">
+                        <did>
+                            <unittitle>"Intimate Report on Syngman Rhee" (8 pp.),</unittitle>
+                            <unitdate>1948 February 9</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref26" level="file">
+                        <did>
+                            <unittitle>Syngman Rhee to John R. Hodge (3 pp.),</unittitle>
+                            <unitdate>1948 August 6</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref28" level="file">
+                        <did>
+                            <unittitle>Memorandum (2 pp.),</unittitle>
+                            <unitdate>1948 August 12</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref30" level="file">
+                        <did>
+                            <unittitle>Memorandum, re arrival of Douglas MacArthur (3 pp.),</unittitle>
+                            <unitdate>1948 August</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref32" level="file">
+                        <did>
+                            <unittitle>Press release, Rhee address (4 pp.),</unittitle>
+                            <unitdate>1948 August 15</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref34" level="file">
+                        <did>
+                            <unittitle>Press release, MacArthur address (2 pp.),</unittitle>
+                            <unitdate>1948 August 15</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref36" level="file">
+                        <did>
+                            <unittitle>Press release, Gen. John Hodge's remarks (3 pp.),</unittitle>
+                            <unitdate>1948 August 15</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref38" level="file">
+                        <did>
+                            <unittitle>Speech of H.E. Ambassador Liu Yu-wan (1 p.),</unittitle>
+                            <unitdate>1948 August 15</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref40" level="file">
+                        <did>
+                            <unittitle>Address of Rev. P. J. Byrne (2 pp.),</unittitle>
+                            <unitdate>1948 August 15</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref156" level="file">
+                        <did>
+                            <unittitle>Enclosure #2 to despatch No. 270, "List of Officials of Government of Republic of Korea,"</unittitle>
+                            <unitdate>1948 August 21</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref41" level="file">
+                        <did>
+                            <unittitle>Press release re Jacobs' return to Washington,</unittitle>
+                            <unitdate>1948 August 25</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref42" level="file">
+                        <did>
+                            <unittitle>Memorandum for Jacobs, re establishment of government of South Korea,</unittitle>
+                            <unitdate>1948 November 3</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref43" level="file">
+                        <did>
+                            <unittitle>Booklet, "Korea Reborn"</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref157" level="file">
+                    <did>
+                        <unittitle>South Korean political matters,</unittitle>
+                        <container id="cid6620002" type="Box-folder" label="Box/Folder">1 : 3</container>
+                        <unitdate>1947-1948</unitdate>
+                    </did>
+                    <c03 id="ref44" level="file">
+                        <did>
+                            <unittitle>Material re visit of Lt. General A. C. Wedemeyer, etc. to Korea (30 pp.),</unittitle>
+                            <unitdate>1947 August 26-September 3</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref46" level="file">
+                        <did>
+                            <unittitle>Liaison and Consular Officials attached to the U.S. Army Forces in Korea (2 pp.),</unittitle>
+                            <unitdate>1948 August 1</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref48" level="file">
+                        <did>
+                            <unittitle>American Delegation, U.S.-U.S.S.R. Joint Commission, Political Advisory Group (7 pp.),</unittitle>
+                            <unitdate>1947 August 2</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref50" level="file">
+                        <did>
+                            <unittitle>Official letter of by Jacobs to Secretary of State, regarding Pyongyang Conference (4 pp.),</unittitle>
+                            <unitdate>1948 May 3</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref52" level="file">
+                        <did>
+                            <unittitle>Airgram, Jacobs to Department of State, re disorder on Cheju Island (3 pp.),</unittitle>
+                            <unitdate>1948 May 4</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref54" level="file">
+                        <did>
+                            <unittitle>Memorandum, regarding threats to representative of Korea from North Korean radio broadcasts (17 pp.),</unittitle>
+                            <unitdate>1948 December 1</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref56" level="file">
+                        <did>
+                            <unittitle>"What Is a Korean National Youth?" (5 pp.),</unittitle>
+                            <unitdate>1947 January 28</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref159" level="file">
+                        <did>
+                            <unittitle>"The Spirit of Korean Chivalry,"</unittitle>
+                            <unitdate>1947 January 29</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref58" level="file">
+                        <did>
+                            <unittitle>Despatch enclosure regarding the South Korea Labor Party (6 pp.),</unittitle>
+                            <unitdate>1948 March 28</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref60" level="file">
+                        <did>
+                            <unittitle>Letter, Jacobs to Secretary of State, regarding Kimm Kivsic - Kim Koo Unification Movement (2 pp.),</unittitle>
+                            <unitdate>1948 August 4</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref158" level="file">
+                    <did>
+                        <unittitle>Despatches, memoranda, and printed matter,</unittitle>
+                        <container id="cid6620003" type="Box-folder" label="Box/Folder">1 : 4</container>
+                        <unitdate>1947-1948</unitdate>
+                    </did>
+                    <c03 id="ref179" level="file">
+                        <did>
+                            <unittitle>Memorandum for General Wedemeyer, subject: "Comments on Memorandum dated July 15, 1947,"</unittitle>
+                            <unitdate>1947 August 22</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref180" level="file">
+                        <did>
+                            <unittitle>Memorandum for General Wedemeyer, subject: "Political Observations on Korea,"</unittitle>
+                            <unitdate>1947 August 23</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref181" level="file">
+                        <did>
+                            <unittitle>Memorandum for General Wedemeyer, subject: "Recommendations With Regard to Korea,"</unittitle>
+                            <unitdate>1947 August 29</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref182" level="file">
+                        <did>
+                            <unittitle>Memorandum for General Wedemeyer, subject: "Some Highlights of United States Policy Toward Korea,"</unittitle>
+                            <unitdate>1947 September 2</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref62" level="file">
+                        <did>
+                            <unittitle>Memorandum, South Korean Interim Government, subject: "Cost of Occupation - Military government" (4 pp.),</unittitle>
+                            <unitdate>1948 April 29</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref66" level="file">
+                        <did>
+                            <unittitle>Memorandum, subject: "Concert for the American Delegation,"</unittitle>
+                            <unitdate>1947 July 2</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref80" level="file">
+                        <did>
+                            <unittitle>Memorandum, "People killed in South Korea from 01 January 1948 to 26 April 1948" (1 p.)</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref67" level="file">
+                        <did>
+                            <unittitle>Despatches No. 1028, 1029, to the State Department, (4 pp. each),</unittitle>
+                            <unitdate>1948 July 8</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref68" level="file">
+                        <did>
+                            <unittitle>Despatches No. 961, 962, to the State Department (9 pp., 8 pp.),</unittitle>
+                            <unitdate>1948 June 26</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref70" level="file">
+                        <did>
+                            <unittitle>Despatches No. 923, No. 924, to the State Department (4 pp. each),</unittitle>
+                            <unitdate>1948 June 21</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref72" level="file">
+                        <did>
+                            <unittitle>Despatches No. 917, 918, to the State Department (8 pp., 4 pp.),</unittitle>
+                            <unitdate>1948 June 19</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref74" level="file">
+                        <did>
+                            <unittitle>Despatch No. 829 (1 p.),</unittitle>
+                            <unitdate>1948 June 8</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref76" level="file">
+                        <did>
+                            <unittitle>Despatch No. 736 (7 pp.),</unittitle>
+                            <unitdate>1948 May 26</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref78" level="file">
+                        <did>
+                            <unittitle>Despatch (carbon), to State Department (8 pp.),</unittitle>
+                            <unitdate>1948 February 12</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref64" level="file">
+                        <did>
+                            <unittitle>Note on American expenditures (1 p.)</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref82" level="file">
+                        <did>
+                            <unittitle>Copy of State Department telegram (No. 142) (3 pp.),</unittitle>
+                            <unitdate>1947 July 14</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref84" level="file">
+                        <did>
+                            <unittitle>Press conference of General Hodge (off the record),</unittitle>
+                            <unitdate>1948 May 7</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref161" level="file">
+                        <did>
+                            <unittitle>TiP (Troop information Program) newsletter, "The Progress and Problems of the Joint Commission,"</unittitle>
+                            <unitdate>1947 August 15</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref162" level="file">
+                        <did>
+                            <unittitle>"The Occupation of Korea," 
+                                <title render="italic">Foreign Policy Reports</title>, by George M. McCune,</unittitle>
+                            <unitdate>1947 October 15</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref85" level="file">
+                    <did>
+                        <unittitle>Printed material on Korea, booklets, newspapers, periodical clippings</unittitle>
+                        <container id="cid6620006" type="Box-folder" label="Box/Folder">1 : 5</container>
+                    </did>
+                </c02>
+                <c02 id="ref86" level="file">
+                    <did>
+                        <unittitle>U.N. Temporary Commission on Korea,</unittitle>
+                        <container id="cid6620005" type="Box-folder" label="Box/Folder">1 : 6</container>
+                        <unitdate>1947-1948</unitdate>
+                    </did>
+                    <c03 id="ref165" level="file">
+                        <did>
+                            <unittitle>Telegram #361 to Dept.,</unittitle>
+                            <unitdate>1947 September 19</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref87" level="file">
+                        <did>
+                            <unittitle>Letter to Lt. Gen. John Hodge from Maj. Gen. C. A. Willoughby (3 pp.),</unittitle>
+                            <unitdate>1948 July 15</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref89" level="file">
+                        <did>
+                            <unittitle>Memorandum, State Department Office of Intelligence Research, "Moscow Radio Criticism of the United Nations and the United Nations Temporary Commission on Korea" (23 pp.),</unittitle>
+                            <unitdate>1948 November 1</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref92" level="file">
+                        <did>
+                            <unittitle>Memorandum, "Description of the Interim Committee Proceedings on Korea, Feb. 19-26, 1948" (19 pp.),</unittitle>
+                            <unitdate>1948 April 14</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref94" level="file">
+                        <did>
+                            <unittitle>Despatch No. 184, to Secretary of State regarding "Draft documents... (of) Australian delegate...at 65th and 66th Plenary Sessions of the U.N. Commission on Korea," plus enclosures (6 pp.),</unittitle>
+                            <unitdate>1948 June 24</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref96" level="file">
+                        <did>
+                            <unittitle>U.S. Mission to the United Nations, Soviet statements in Comm. I, General Assembly, 2nd Session V, "The Problem of the Independence of Korea" (38 pp.),</unittitle>
+                            <unitdate>1948 August 31</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref98" level="file">
+                    <did>
+                        <unittitle>Joint U.S.-U.S.S.R. Commission on Korea, reports and positions,</unittitle>
+                        <container id="cid6620004" type="Box-folder" label="Box/Folder">1 : 7</container>
+                        <unitdate>1947-1948</unitdate>
+                    </did>
+                    <c03 id="ref99" level="file">
+                        <did>
+                            <unittitle>Ministry of Foreign Affairs of the U.S.S.R., "The Soviet Union and the Korean Question - Documents," Moscow,</unittitle>
+                            <unitdate>1948</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref100" level="file">
+                        <did>
+                            <unittitle>Joint communiqué (12 pp.),</unittitle>
+                            <unitdate>1947 June 12-11</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref104" level="file">
+                        <did>
+                            <unittitle>U.S. Foreign Service, No. 24, subject: "Methods of Dealing with Soviet Officials" (6 pp.),</unittitle>
+                            <unitdate>1948 February 6</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref138" level="file">
+                        <did>
+                            <unittitle>U.S. Foreign Service, No. 97, subject: "Visit to Seoul of Underseer of Army, Wm. H. Draper," plus attachment (7 pp.),</unittitle>
+                            <unitdate>1947 September 26</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref137" level="file">
+                        <did>
+                            <unittitle>U.S. Foreign Service, No. 102, subject: "Visit to Seoul of Underseer of Army, Wm. H. Draper,"</unittitle>
+                            <unitdate>1947 September 30</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref135" level="file">
+                        <did>
+                            <unittitle>U.S. Foreign Service, No. 126, subject: "Visit to Seoul of members of intrastate and foreign commerce congressional committee" (2 lv.),</unittitle>
+                            <unitdate>1947 October 21</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref107" level="file">
+                        <did>
+                            <unittitle>Drafts on thoughts re Korea, in letter form to Hugh Borton, State Department (12 pp.),</unittitle>
+                            <unitdate>1947 July 25</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref109" level="file">
+                        <did>
+                            <unittitle>List of dates of Joint Commission meetings - meetings 38-62 (1 leaf),</unittitle>
+                            <unitdate>1947</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref111" level="file">
+                        <did>
+                            <unittitle>Soviet proposal re plan of work in Pyongyang during 30 June - 3 July 1947 (2 lv.),</unittitle>
+                            <unitdate>1947 July 23</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref125" level="file">
+                        <did>
+                            <unittitle>"Position of the Soviet Delegation," 48th meeting (5 lv.),</unittitle>
+                            <unitdate>1947 July 29</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref127" level="file">
+                        <did>
+                            <unittitle>"Position of the Soviet Delegation," 49th meeting (3 lv.),</unittitle>
+                            <unitdate>1947 July 31</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref113" level="file">
+                        <did>
+                            <unittitle>"Position of the Soviet Delegation," 50th meeting (3 lv.),</unittitle>
+                            <unitdate>1947 August 1</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref115" level="file">
+                        <did>
+                            <unittitle>"Position of the Soviet Delegation," 51st meeting (3 lv.),</unittitle>
+                            <unitdate>1947 August 5</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref117" level="file">
+                        <did>
+                            <unittitle>"Position of the Soviet Delegation," 52nd meeting (4 lv.),</unittitle>
+                            <unitdate>1947 August 7</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref102" level="file">
+                        <did>
+                            <unittitle>"Position of the Soviet Delegation," 53rd meeting (carbons, 6 pp.),</unittitle>
+                            <unitdate>1947 August 12</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref119" level="file">
+                        <did>
+                            <unittitle>"Position of the Soviet Delegation," 54th meeting,</unittitle>
+                            <unitdate>1947 August 20</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref120" level="file">
+                        <did>
+                            <unittitle>"Position of the Soviet Delegation," 55th meeting,</unittitle>
+                            <unitdate>1947 August 20</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref121" level="file">
+                        <did>
+                            <unittitle>"Position of the Soviet Delegation," 56th meeting (7 lv.),</unittitle>
+                            <unitdate>1947 August 26</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref123" level="file">
+                        <did>
+                            <unittitle>"Position of the Soviet Delegation," 57th meeting (8 lv.),</unittitle>
+                            <unitdate>1947 September 3</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref129" level="file">
+                        <did>
+                            <unittitle>Draft, U.S. position on freedom of expression and eligibility for consultation (re Korean government statements) (4 lv.),</unittitle>
+                            <unitdate>1947 June 28</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref131" level="file">
+                        <did>
+                            <unittitle>List of Soviet objections to parties and Social organizations (1 leaf),</unittitle>
+                            <unitdate>1947 July</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref133" level="file">
+                        <did>
+                            <unittitle>Observations of Interpreter of Joint Commission trip to Pyongyang (10 pp.),</unittitle>
+                            <unitdate>1947 June 29-July 3</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref140" level="file">
+                        <did>
+                            <unittitle>Korean organizations in the U.S., as of 16 October 1947 (3 lv.)</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref106" level="file">
+                        <did>
+                            <unittitle>Notes on Korean politics compiled by the Political Advisory Group, American delegation, U.S.-U.S.S.R. Joint Committee in cooperation of G-2, Hg. XXIV Corps,</unittitle>
+                            <unitdate>1947 September 1</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref166" level="file">
+                    <did>
+                        <unittitle>"Notes on Korean Politics,"</unittitle>
+                        <container id="cid6620007" type="Box-folder" label="Box/Folder">1 : 8-9</container>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref169" level="file">
+                    <did>
+                        <unittitle>Joint U.S.-U.S.S.R. Commission on Korea, invitations and programs,</unittitle>
+                        <container id="cid6620012" type="Box-folder" label="Box/Folder">1 : 10</container>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref167" level="file">
+                    <did>
+                        <unittitle>Telephone directory, Greater Seoul Area,</unittitle>
+                        <container id="cid6620011" type="Box-folder" label="Box/Folder">1 : 11</container>
+                        <unitdate>1948 March 1</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref143" level="file">
+                <did>
+                    <unittitle>Communism in Italy, embassy reports and printed matter,</unittitle>
+                    <container id="cid6620009" type="Box-folder" label="Box/Folder">1 : 12</container>
+                    <unitdate>1950-1953</unitdate>
+                </did>
+                <scopecontent id="ref170">
+                    <head>Scope and Contents note</head>
+                    <p>Includes a preliminary report on the VII Congress of the Italian Communist Party and a map of Italy showing communist areas.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref144" level="file">
+                <did>
+                    <unittitle>Joint Committee in the Philippines, report and press release (5 pp.),</unittitle>
+                    <container id="cid6620008" type="Box-folder" label="Box/Folder">1 : 13</container>
+                    <unitdate>1937-1939</unitdate>
+                </did>
+                <scopecontent id="ref171">
+                    <head>Scope and Contents note</head>
+                    <p>Includes a press release of 1939 August 7 regarding the bill to amend the Philippine Independence Act.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref206" level="file">
+                <did>
+                    <unittitle>Netherland India</unittitle>
+                </did>
+                <c02 id="ref142" level="file">
+                    <did>
+                        <unittitle>Tourist booklets and guides,</unittitle>
+                        <container id="cid6620010" type="Box-folder" label="Box/Folder">1 : 14</container>
+                        <unitdate>circa 1935</unitdate>
+                    </did>
+                    <scopecontent id="ref172">
+                        <head>Scope and Contents note</head>
+                        <p>Titles include "A Short Guide to the Boro-Budur," "Dutch East Indies, Indo-China, Malaya, Siam," "Tourist Map: Bali and the Idjen-Highland," "The Best of Java," "Sumatra," "Bali," and "Handbook of Information and Intended Time Table: K.P.M. Line."</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref183" level="file">
+                    <did>
+                        <unittitle>Tourist booklets and guides,</unittitle>
+                        <container id="cid6624006" type="Box-folder" label="Box/Folder">2 : 1</container>
+                        <unitdate>circa 1935</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref147" level="file">
+                <did>
+                    <unittitle>International Mixed Court, Shanghai, trial,</unittitle>
+                    <container id="cid702611" type="Box-folder" label="Box/Folder">2 : 2-5</container>
+                    <unitdate>1925</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref184" level="file">
+                <did>
+                    <unittitle>Correspondence</unittitle>
+                </did>
+                <scopecontent id="ref207">
+                    <head>Scope and Contents note</head>
+                    <p>Mainly personal correspondence documenting Jacobs' various appointments with in the Department of State. Includes a series of letters relating to his forced resignation as Ambassador to Czechoslovakia by President Truman and correspondence with friend Alger Hiss.</p>
+                </scopecontent>
+                <c02 id="ref185" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid6624007" type="Box-folder" label="Box/Folder">3 : 1</container>
+                        <unitdate>1922-1924</unitdate>
+                    </did>
+                    <scopecontent id="ref201">
+                        <head>Scope and Contents note</head>
+                        <p>Includes one photograph, undated.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref187" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid6624008" type="Box-folder" label="Box/Folder">3 : 2</container>
+                        <unitdate>1925-1927</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref188" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid6624009" type="Box-folder" label="Box/Folder">3 : 3</container>
+                        <unitdate>1928-1930</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref189" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid6624010" type="Box-folder" label="Box/Folder">3 : 4</container>
+                        <unitdate>1933-1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref190" level="file">
+                    <did>
+                        <unittitle>1937-1939</unittitle>
+                        <container id="cid6624011" type="Box-folder" label="Box/Folder">3 : 5</container>
+                    </did>
+                </c02>
+                <c02 id="ref191" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid6624012" type="Box-folder" label="Box/Folder">3 : 6</container>
+                        <unitdate>1940-1942</unitdate>
+                    </did>
+                    <scopecontent id="ref202">
+                        <head>Scope and Contents note</head>
+                        <p>Includes newspaper clipping from the 
+                            <title render="italic">Manila Daily Bulletin</title>, 1940 September 10.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref192" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid6624013" type="Box-folder" label="Box/Folder">3 : 7</container>
+                        <unitdate>1945-1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref193" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid6624014" type="Box-folder" label="Box/Folder">3 : 8</container>
+                        <unitdate>1947-1948</unitdate>
+                    </did>
+                    <scopecontent id="ref203">
+                        <head>Scope and Contents note</head>
+                        <p>Includes newspaper clipping in Czech, 1948 December 19.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref194" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid6624015" type="Box-folder" label="Box/Folder">3 : 9</container>
+                        <unitdate>1949</unitdate>
+                    </did>
+                    <scopecontent id="ref204">
+                        <head>Scope and Contents note</head>
+                        <p>Includes newspaper clipping from the 
+                            <title render="italic">New York Times</title>, 1949 June 16.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref195" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid6624016" type="Box-folder" label="Box/Folder">3 : 10</container>
+                        <unitdate>1950-1954</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref196" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid6624017" type="Box-folder" label="Box/Folder">3 : 11</container>
+                        <unitdate>1955-1956</unitdate>
+                    </did>
+                    <scopecontent id="ref200">
+                        <head>Scope and Contents note</head>
+                        <p>Includes two photographs, 1955.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref197" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid6624018" type="Box-folder" label="Box/Folder">3 : 12</container>
+                        <unitdate>1957</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref198" level="file">
+                <did>
+                    <unittitle>Official orders,</unittitle>
+                    <container id="cid6624019" type="Box-folder" label="Box/Folder">3 : 13</container>
+                    <unitdate>1946-1955</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref174" level="file">
+                <did>
+                    <unittitle>Material related to U.S. involvement in China,</unittitle>
+                    <container id="cid6624020" type="Box-folder" label="Box/Folder">3 : 14</container>
+                    <unitdate>1915-1926</unitdate>
+                </did>
+                <scopecontent id="ref175">
+                    <head>Scope and Contents note</head>
+                    <p>Includes correspondence, memoranda on judicial procedure, 1922 congressional resolution and presidential proclamation, 1921 executive order, 1915 booklet titled "Outlines of the System of Civil Government in China," and newspaper clippings.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref176" level="file">
+                <did>
+                    <unittitle>Congressional report and act,</unittitle>
+                    <container id="cid6624021" type="Box-folder" label="Box/Folder">3 : 15</container>
+                    <unitdate>1909, 1922</unitdate>
+                </did>
+                <scopecontent id="ref177">
+                    <head>Scope and Contents note</head>
+                    <p>Report of the Sixtieth Congress, Session II, and "An Act Relative to the Naturalization and Citizenship of Married Women."</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref178" level="file">
+                <did>
+                    <unittitle>"Reports on the Peculiarities of Consular Service Work in China Under Extraterritoriality," report and correspondence,</unittitle>
+                    <container id="cid6624023" type="Box-folder" label="Box/Folder">3 : 16</container>
+                    <unitdate>1920</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref199" level="file">
+                <did>
+                    <unittitle>Obituaries,</unittitle>
+                    <container id="cid6624022" type="Box-folder" label="Box/Folder">3 : 17</container>
+                    <unitdate>1967-1971</unitdate>
+                </did>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

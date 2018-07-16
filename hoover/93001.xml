@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-CSt-H">93001.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Inventory of the Fred L. Walker papers
+                </titleproper>
+                <titleproper type="filing">Walker (Fred L.) papers</titleproper>
+                <author>Finding aid prepared by Beaudry R. Allen</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Hoover Institution Archives</publisher>
+                <address>
+                    <addressline>434 Galvez Mall</addressline>
+                    <addressline>Stanford University</addressline>
+                    <addressline>Stanford, CA, 94305-6003</addressline>
+                    <addressline>(650) 723-3563</addressline>
+                    <addressline>hooverarchives@stanford.edu</addressline>
+                </address>
+                <date>© 2009, 2015</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-02-12T15:48-0800</date>
+            </creation>
+            <langusage>Finding aid is written in 
+                <language langcode="eng" scriptcode="latn">English</language></langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>2015</date>
+                <item>Classified item given to Dale Reed (included in Finding aid as of 05/2015)</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Fred L. Walker papers</unittitle>
+            <unitdate normal="1889/1969" type="inclusive">1889-1969 </unitdate>
+            <unitdate normal="1915/1947" type="bulk">1915-1947</unitdate>
+            <unitid label="Collection Number" countrycode="US" repositorycode="CSt-H">93001</unitid>
+            <repository>
+                <corpname>Hoover Institution Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>9 manuscript boxes, 4 oversize boxes, 1 oversize folder</extent>
+                <extent>(11.75 linear feet)</extent>
+            </physdesc>
+            <abstract id="ref2" label="Abstract">Memoirs, diaries, speeches, correspondence, news clippings, printed matter, photographs, and memorabilia relating primarily to the American military campaign in Italy during World War II, especially to the Battle of the Rapido River. Also includes material on the Second Battle of the Marne in World War I, American troops in the Philippines, the Punitive Expedition into Mexico in 1916, and the Texas National Guard.</abstract>
+            <physloc id="ref3" label="Physical Location">Hoover Institution Archives</physloc>
+            <origination label="Creator">
+                <persname source="ingest">Walker, Fred L. (Fred Livingood), 1887-1969.</persname>
+            </origination>
+        </did>
+        <accessrestrict id="ref4">
+            <head>Access</head>
+            <p>Collection is open for research.</p>
+            <p>The Hoover Institution Archives only allows access to 
+                <emph render="italic">copies</emph> of audiovisual items. To listen to sound recordings or to view videos or films during your visit, please contact the Archives at least two working days before your arrival. We will then advise you of the accessibility of the material you wish to see or hear. Please note that not all audiovisual material is immediately accessible.</p>
+        </accessrestrict>
+        <userestrict id="ref5">
+            <head>Publication Rights</head>
+            <p>For copyright status, please contact the Hoover Institution Archives.</p>
+        </userestrict>
+        <prefercite id="ref6">
+            <head>Preferred Citation</head>
+            <p>[Identification of item], Fred L. Walker papers, [Box number], Hoover Institution Archives.</p>
+        </prefercite>
+        <acqinfo id="ref7">
+            <head>Acquisition Information</head>
+            <p>Acquired by the Hoover Institution Archives in 1993.</p>
+        </acqinfo>
+        <accruals id="ref8">
+            <head>Accruals</head>
+            <p>Materials may have been added to the collection since this finding aid was prepared. To determine if this has occurred, find the collection in Stanford University's online catalog at 
+                <extref actuate="onrequest" show="new" href="http://searchworks.stanford.edu/">http://searchworks.stanford.edu/</extref>. Materials have been added to the collection if the number of boxes listed in the online catalog is larger than the number of boxes listed in this finding aid.</p>
+        </accruals>
+        <bioghist id="ref9">
+            <head>Biographical Note</head>
+            <chronlist>
+                <chronitem>
+                    <date>1887</date>
+                    <event>Born in Fairfield County, Ohio</event>
+                </chronitem>
+                <chronitem>
+                    <date>1911</date>
+                    <event>Graduated from Ohio State University with a degree in engineering and joined the Army as second lieutenant</event>
+                </chronitem>
+                <chronitem>
+                    <date>1911-1914</date>
+                    <event>Served in the Philippines with 13th U.S. Infantry</event>
+                </chronitem>
+                <chronitem>
+                    <date>1914-1916</date>
+                    <event>Served with 17th Infantry in the Punitive Expedition into Mexico</event>
+                </chronitem>
+                <chronitem>
+                    <date>1917-1918</date>
+                    <event>Served with the 30th Infantry Regiment in France</event>
+                </chronitem>
+                <chronitem>
+                    <date>1918</date>
+                    <event>Battalion Commander during the Second Battle of the Marne and awarded the Distinguished Service Cross</event>
+                </chronitem>
+                <chronitem>
+                    <date>1927-1932</date>
+                    <event>Infantry School instructor</event>
+                </chronitem>
+                <chronitem>
+                    <date>1941-1944</date>
+                    <event>Appointed commanding general of the 36th Infantry Division in Texas and fought at the Battle of Salerno at Paestum, Rapido River, Cassino, and Mt. Artemisio</event>
+                </chronitem>
+                <chronitem>
+                    <date>1944</date>
+                    <event>Awarded Second Distinguished Service Cross</event>
+                </chronitem>
+                <chronitem>
+                    <date>1946-1947</date>
+                    <event>Retired from the army as a major general and appointed lieutenant general and commander of the Texas National Guard</event>
+                </chronitem>
+                <chronitem>
+                    <date>1969</date>
+                    <event>Died in Washington, D.C.</event>
+                </chronitem>
+            </chronlist>
+        </bioghist>
+        <scopecontent id="ref11">
+            <head>Scope and Content of Collection</head>
+            <p>The collection consists of diaries, memoirs, speeches, correspondence, news clippings, printed matter, photographs, and memorabilia of Fred Livingood Walker, Commander of the 36th Infantry Division in World War II. Walker's papers detail his military career and relate to American troops in the Philippines in 1912, the Punitive Expedition into Mexico in 1916, and the Second Battle of the Marne in World War I. The bulk of the collection focuses on the 36th Division's campaign in Italy during World War II, especially to the Battle of the Rapido River, and Walker's later commandment of the Texas National Guard. The collection is arranged into five groups: Correspondence, Speeches and Writings, Military Career file, Photographs, and Scrapbooks and Printed material.</p>
+        </scopecontent>
+        <relatedmaterial id="ref12">
+            <head>Related Collection</head>
+            <p>Fred L. (Fred Livingood) Walker typescript: Mission impossible at Cassino: the first assault across the Rapido River near Cassino in World War II, January 1944, Hoover Institution Archives</p>
+        </relatedmaterial>
+        <controlaccess>
+            <corpname source="ingest">Texas. National Guard.</corpname>
+            <corpname source="ingest">United States. Army--History--Punitive Expedition into Mexico, 1916.</corpname>
+            <corpname source="ingest">United States. Army--Officers.</corpname>
+            <corpname source="ingest">United States. Army. American Expeditionary Forces.</corpname>
+            <corpname source="ingest">United States. Army. Infantry Division, 36th.</corpname>
+            <subject source="lcsh">Marne, 2nd Battle of the, France, 1918.</subject>
+            <subject source="lcsh">Rapido River, Battle of the, 1944.</subject>
+            <geogname source="lcsh">United States--Armed Forces--Philippines.</geogname>
+            <geogname source="lcsh">United States--National Guard.</geogname>
+            <subject source="lcsh">World War, 1914-1918--Campaigns--France.</subject>
+            <subject source="lcsh">World War, 1939-1945--Campaigns--Italy.</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref13" level="series">
+                <did>
+                    <unittitle>Correspondence,</unittitle>
+                    <unitdate>1944-1947</unitdate>
+                </did>
+                <scopecontent id="ref47">
+                    <head>Scope and Contents note</head>
+                    <p>Contains letters and telegrams to and from Walker after his return from deployment in Italy in 1944 and mostly consists of correspondence from his tenure as commander of the Texas National Guard and Director of Military Training with Army Service Forces. The correspondence maintains the original order of the creator and is arranged into personal and professional correspondence.</p>
+                </scopecontent>
+                <c02 id="ref14" level="subseries">
+                    <did>
+                        <unittitle>Personal correspondence,</unittitle>
+                        <unitdate>1944-1947</unitdate>
+                    </did>
+                    <c03 id="ref15" level="file">
+                        <did>
+                            <unittitle>1944 July - September</unittitle>
+                            <container id="cid3865090" type="Box-folder" label="Box/Folder">1 : 1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref16" level="file">
+                        <did>
+                            <unittitle>1944 October - December</unittitle>
+                            <container id="cid3865089" type="Box-folder" label="Box/Folder">1 : 2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref17" level="file">
+                        <did>
+                            <unittitle>1945 January - June 30</unittitle>
+                            <container id="cid3865088" type="Box-folder" label="Box/Folder">1 : 3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref18" level="file">
+                        <did>
+                            <unittitle>A-J,</unittitle>
+                            <container id="cid3865087" type="Box-folder" label="Box/Folder">1 : 4</container>
+                            <unitdate>1945-1947</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref19" level="file">
+                        <did>
+                            <unittitle>K-S,</unittitle>
+                            <container id="cid3865086" type="Box-folder" label="Box/Folder">1 : 5</container>
+                            <unitdate>1945-1947</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref119" level="file">
+                        <did>
+                            <unittitle>Keystone Wood Preserving Company,</unittitle>
+                            <container id="cid7388001" type="Box-folder" label="Box/Folder">9 : 5</container>
+                            <unitdate>1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref20" level="file">
+                        <did>
+                            <unittitle>1946-1947</unittitle>
+                            <container id="cid3865085" type="Box-folder" label="Box/Folder">1 : 6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref21" level="file">
+                        <did>
+                            <unittitle>Invitations, RSVP response letters,</unittitle>
+                            <container id="cid3865084" type="Box-folder" label="Box/Folder">1 : 7</container>
+                            <unitdate>1946-1947</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>Professional correspondence,</unittitle>
+                        <unitdate>1945-1947</unitdate>
+                    </did>
+                    <c03 id="ref23" level="file">
+                        <did>
+                            <unittitle>Adjutant General's Office, War Department,</unittitle>
+                            <container id="cid3865083" type="Box-folder" label="Box/Folder">2 : 1</container>
+                            <unitdate>1945-1947</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref24" level="file">
+                        <did>
+                            <unittitle>Ainsworth, H. Miller, Colonel,</unittitle>
+                            <container id="cid3865082" type="Box-folder" label="Box/Folder">2 : 2</container>
+                            <unitdate>1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref25" level="file">
+                        <did>
+                            <unittitle>Albert, John E., Colonel, Air Corps,</unittitle>
+                            <container id="cid3865081" type="Box-folder" label="Box/Folder">2 : 3</container>
+                            <unitdate>1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref26" level="file">
+                        <did>
+                            <unittitle>Army Service Forces,</unittitle>
+                            <container id="cid3865080" type="Box-folder" label="Box/Folder">2 : 4</container>
+                            <unitdate>1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref27" level="file">
+                        <did>
+                            <unittitle>Barron, Gaines, Colonel,</unittitle>
+                            <container id="cid3865079" type="Box-folder" label="Box/Folder">2 : 5</container>
+                            <unitdate>1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref28" level="file">
+                        <did>
+                            <unittitle>Biographical sketches and requests,</unittitle>
+                            <container id="cid3865078" type="Box-folder" label="Box/Folder">2 : 6</container>
+                            <unitdate>1944-1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref29" level="file">
+                        <did>
+                            <unittitle>Bradley, Omar, General,</unittitle>
+                            <container id="cid3865077" type="Box-folder" label="Box/Folder">2 : 7</container>
+                            <unitdate>1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref30" level="file">
+                        <did>
+                            <unittitle>Chase, Thorton, Colonel,</unittitle>
+                            <container id="cid3865076" type="Box-folder" label="Box/Folder">2 : 8</container>
+                            <unitdate>1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref31" level="file">
+                        <did>
+                            <unittitle>Clark, Mark, General,</unittitle>
+                            <container id="cid3865075" type="Box-folder" label="Box/Folder">2 : 9</container>
+                            <unitdate>1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref32" level="file">
+                        <did>
+                            <unittitle>Dahlquist, John, Major General,</unittitle>
+                            <container id="cid3865074" type="Box-folder" label="Box/Folder">2 : 10</container>
+                            <unitdate>1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref33" level="file">
+                        <did>
+                            <unittitle>Dawes, B. G.,</unittitle>
+                            <container id="cid3865073" type="Box-folder" label="Box/Folder">2 : 11</container>
+                            <unitdate>1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref34" level="file">
+                        <did>
+                            <unittitle>Delcher, Bill,</unittitle>
+                            <container id="cid3865072" type="Box-folder" label="Box/Folder">2 : 12</container>
+                            <unitdate>1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref35" level="file">
+                        <did>
+                            <unittitle>Films, battlefield reels,</unittitle>
+                            <container id="cid3865071" type="Box-folder" label="Box/Folder">2 : 13</container>
+                            <unitdate>1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref36" level="file">
+                        <did>
+                            <unittitle>Heraty, Francis (Mike), Colonel,</unittitle>
+                            <container id="cid3865070" type="Box-folder" label="Box/Folder">2 : 14</container>
+                            <unitdate>1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref37" level="file">
+                        <did>
+                            <unittitle>Hobson, W.H. (Bunny),</unittitle>
+                            <container id="cid3865069" type="Box-folder" label="Box/Folder">2 : 15</container>
+                            <unitdate>1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref38" level="file">
+                        <did>
+                            <unittitle>Hume, Edgan, Brigadier General,</unittitle>
+                            <container id="cid3865068" type="Box-folder" label="Box/Folder">2 : 16</container>
+                            <unitdate>1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref39" level="file">
+                        <did>
+                            <unittitle>Humphery, Walter,</unittitle>
+                            <container id="cid3865067" type="Box-folder" label="Box/Folder">2 : 17</container>
+                            <unitdate>1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref40" level="file">
+                        <did>
+                            <unittitle>Kelley, William, Captain,</unittitle>
+                            <container id="cid3865066" type="Box-folder" label="Box/Folder">2 : 18</container>
+                            <unitdate>1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref41" level="file">
+                        <did>
+                            <unittitle>Kerr, Clayton, Colonel,</unittitle>
+                            <container id="cid3865065" type="Box-folder" label="Box/Folder">2 : 19</container>
+                            <unitdate>1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref42" level="file">
+                        <did>
+                            <unittitle>O'Connell, Arthur,</unittitle>
+                            <container id="cid3865064" type="Box-folder" label="Box/Folder">2 : 20</container>
+                            <unitdate>1947</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref43" level="file">
+                        <did>
+                            <unittitle>Order of Saints Maurice and Lazarus,</unittitle>
+                            <container id="cid3865063" type="Box-folder" label="Box/Folder">2 : 21</container>
+                            <unitdate>1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref44" level="file">
+                        <did>
+                            <unittitle>Publicity,</unittitle>
+                            <container id="cid3865062" type="Box-folder" label="Box/Folder">2 : 22</container>
+                            <unitdate>1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref45" level="file">
+                        <did>
+                            <unittitle>Salerno Memorial,</unittitle>
+                            <container id="cid3865061" type="Box-folder" label="Box/Folder">2 : 23</container>
+                            <unitdate>1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref46" level="file">
+                        <did>
+                            <unittitle>Sevaried, Eric,</unittitle>
+                            <container id="cid3865060" type="Box-folder" label="Box/Folder">2 : 24</container>
+                            <unitdate>1946</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref48" level="series">
+                <did>
+                    <unittitle>Speeches and Writings,</unittitle>
+                    <unitdate>1912-1947</unitdate>
+                </did>
+                <scopecontent id="ref73">
+                    <head>Scope and Contents note</head>
+                    <p>Consists of diaries and drafts of memoirs that relate to Walker's experiences in the military, which would later serve as material for his published memoir, 
+                        <emph render="italic">From Texas to Rome</emph>, and speeches given upon his return from active duty and during his tenure as General of the Texas National Guard. Arranged by format.</p>
+                </scopecontent>
+                <c02 id="ref49" level="subseries">
+                    <did>
+                        <unittitle>Writings,</unittitle>
+                        <unitdate>1912-1947</unitdate>
+                    </did>
+                    <c03 id="ref50" level="file">
+                        <did>
+                            <unittitle>Diary and notebook,</unittitle>
+                            <container id="cid3865059" type="Box-folder" label="Box/Folder">2 : 25</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref51" level="file">
+                        <did>
+                            <unittitle>Diaries,</unittitle>
+                            <container id="cid3865058" type="Box" label="Box">3</container>
+                            <unitdate>1912-1941</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref52" level="file">
+                        <did>
+                            <unittitle>Memoirs, typescript drafts,</unittitle>
+                            <container id="cid3865057" type="Box-folder" label="Box/Folder">4 : 1-5; 5 : 1</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref53" level="subseries">
+                    <did>
+                        <unittitle>Speeches,</unittitle>
+                        <unitdate>1944-1947</unitdate>
+                    </did>
+                    <c03 id="ref54" level="file">
+                        <did>
+                            <unittitle>Untitled. speech, American Red Cross, undated</unittitle>
+                            <container id="cid3865056" type="Box-folder" label="Box/Folder">5 : 2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref55" level="file">
+                        <did>
+                            <unittitle>"Some of my experiences and conclusions arrived at as the result of my service in the Italian Theatre of Operations with the 36th Division," undated</unittitle>
+                            <container id="cid3865055" type="Box-folder" label="Box/Folder">5 : 3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref56" level="file">
+                        <did>
+                            <unittitle>Untitled. peech, State Board Conference, undated</unittitle>
+                            <container id="cid3865054" type="Box-folder" label="Box/Folder">5 : 4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref57" level="file">
+                        <did>
+                            <unittitle>1944 July 7. speech, "Farewell Review by the Troops of the 36th Division at Paestum, Italy," 1944</unittitle>
+                            <container id="cid3865053" type="Box-folder" label="Box/Folder">5 : 5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref58" level="file">
+                        <did>
+                            <unittitle>1944 November 11. speech, talk before the American Legion in Columbus, Ohio, 1944</unittitle>
+                            <container id="cid3865052" type="Box-folder" label="Box/Folder">5 : 6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref59" level="file">
+                        <did>
+                            <unittitle>1944 November 28. speech, British Officers Dinner, 1944</unittitle>
+                            <container id="cid3865051" type="Box-folder" label="Box/Folder">5 : 7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref60" level="file">
+                        <did>
+                            <unittitle>1944 December 7. speech, New York- War Bond trip, 1944</unittitle>
+                            <container id="cid3865050" type="Box-folder" label="Box/Folder">5 : 8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref61" level="file">
+                        <did>
+                            <unittitle>1945 January 4. speech, dinner for Modern Small Arms and Ammunition Industry, 1945</unittitle>
+                            <container id="cid3865049" type="Box-folder" label="Box/Folder">5 : 9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref62" level="file">
+                        <did>
+                            <unittitle>1945 January 26. speech, The Civitan Club in Birmingham, Alabama, 1945</unittitle>
+                            <container id="cid3865048" type="Box-folder" label="Box/Folder">5 : 10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref63" level="file">
+                        <did>
+                            <unittitle>1945 January 29. speech, The Columbus Kiwanis Club, 1945</unittitle>
+                            <container id="cid3865047" type="Box-folder" label="Box/Folder">5 : 11</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref64" level="file">
+                        <did>
+                            <unittitle>1945 March 14. speech, for radio broadcast Dallas Morning News, 1945</unittitle>
+                            <container id="cid3865046" type="Box-folder" label="Box/Folder">5 : 12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref65" level="file">
+                        <did>
+                            <unittitle>1945 March 17. speech notes, untitled, 1945</unittitle>
+                            <container id="cid3865045" type="Box-folder" label="Box/Folder">5 : 13</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref66" level="file">
+                        <did>
+                            <unittitle>1945 May 8. announcement, "Victory in Europe," 1945</unittitle>
+                            <container id="cid3865044" type="Box-folder" label="Box/Folder">5 : 14</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref67" level="file">
+                        <did>
+                            <unittitle>1945 May 15. speech, Detroit, Michigan, dedication of Hero's Square, 1945</unittitle>
+                            <container id="cid3865043" type="Box-folder" label="Box/Folder">5 : 15</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref68" level="file">
+                        <did>
+                            <unittitle>1946 May 26. speech, reorganization of the Texas National Guard, 1946</unittitle>
+                            <container id="cid3865042" type="Box-folder" label="Box/Folder">5 : 16</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref69" level="file">
+                        <did>
+                            <unittitle>1946 July 6. speech, Duty to Continued Peace in Austin, Texas, 1946</unittitle>
+                            <container id="cid3865041" type="Box-folder" label="Box/Folder">5 : 17</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref70" level="file">
+                        <did>
+                            <unittitle>1946 September 5. speech, American Legion of Galveston, Texas, 1946</unittitle>
+                            <container id="cid3865040" type="Box-folder" label="Box/Folder">5 : 18</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref71" level="file">
+                        <did>
+                            <unittitle>1946 November 11. speech, "Address of Governor-Elect Jester on the Occasion of the Return of the Colors to the State of Texas," 1946</unittitle>
+                            <container id="cid3865039" type="Box-folder" label="Box/Folder">5 : 19</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref72" level="file">
+                        <did>
+                            <unittitle>1947 April 13. address, American Legion in Childress, Texas, 1947</unittitle>
+                            <container id="cid3865038" type="Box-folder" label="Box/Folder">5 : 20</container>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref74" level="series">
+                <did>
+                    <unittitle>Military Career File,</unittitle>
+                    <unitdate>1918-1967</unitdate>
+                </did>
+                <scopecontent id="ref92">
+                    <head>Scope and Contents note</head>
+                    <p>Contains reports, bulletins, news clippings, memorandums, maps, and printed matter detailing United States military operations and Walker's military career. Arranged by subject, then chronologically.</p>
+                </scopecontent>
+                <c02 id="ref75" level="file">
+                    <did>
+                        <unittitle>World War I,</unittitle>
+                        <unitdate>1918-1922, 1967</unitdate>
+                    </did>
+                    <c03 id="ref76" level="file">
+                        <did>
+                            <unittitle>Marne Division bulletins and other printed matter,</unittitle>
+                            <container id="cid3865037" type="Box-folder" label="Box/Folder">5 : 21</container>
+                            <unitdate>1918-1919</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref77" level="file">
+                        <did>
+                            <unittitle>Barrage sheet of German tactics on Marne,</unittitle>
+                            <container id="cid3865036" type="Box-folder" label="Box/Folder">5 : 22</container>
+                            <unitdate>1918, 1967 July 15</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref78" level="file">
+                        <did>
+                            <unittitle>Campaign of 1918, Americans at the Second Battle of Marne,</unittitle>
+                            <container id="cid3865035" type="Box-folder" label="Box/Folder">5 : 23</container>
+                            <unitdate>circa 1921-1922</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref79" level="file">
+                        <did>
+                            <unittitle>
+                                <emph render="italic">Battle of Verdun Illustrated Guide</emph>,</unittitle>
+                            <container id="cid3865034" type="Box-folder" label="Box/Folder">5 : 24</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref80" level="file">
+                    <did>
+                        <unittitle>World War II,</unittitle>
+                        <unitdate>1941-1946</unitdate>
+                    </did>
+                    <c03 id="ref81" level="file">
+                        <did>
+                            <unittitle>Special orders, re: appointment lists,</unittitle>
+                            <container id="cid3865033" type="Box-folder" label="Box/Folder">5 : 25</container>
+                            <unitdate>1941-1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref82" level="file">
+                        <did>
+                            <unittitle>Publicity clippings,</unittitle>
+                            <container id="cid3865032" type="Box-folder" label="Box/Folder">5 : 26</container>
+                            <unitdate>1941-1942</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref83" level="file">
+                        <did>
+                            <unittitle>Italian campaign maps,</unittitle>
+                            <container id="cid3865031" type="Box" label="Box">9</container>
+                            <unitdate>1940s</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref84" level="file">
+                        <did>
+                            <unittitle>Fort Benning memorandums,</unittitle>
+                            <container id="cid3865030" type="Box-folder" label="Box/Folder">6 : 1</container>
+                            <unitdate>1945 January-February</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref85" level="file">
+                        <did>
+                            <unittitle>Po Valley campaign printed matter,</unittitle>
+                            <container id="cid3865029" type="Box-folder" label="Box/Folder">6 : 2</container>
+                            <unitdate>1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref86" level="file">
+                        <did>
+                            <unittitle>Portrait presentation of Walker at the Texas Senate,</unittitle>
+                            <container id="cid3865028" type="Box-folder" label="Box/Folder">6 : 3</container>
+                            <unitdate>1945 April 30</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref87" level="file">
+                        <did>
+                            <unittitle>Retirement file with the Adjutant General Office,</unittitle>
+                            <container id="cid3865027" type="Box-folder" label="Box/Folder">6 : 4</container>
+                            <unitdate>1945-1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref88" level="file">
+                        <did>
+                            <unittitle>The Rapido River Crossing, Hearings before the Committee on Military Affairs from House of Representatives, 1946 February 20-1946 March 18</unittitle>
+                            <container id="cid3865026" type="Box-folder" label="Box/Folder">6 : 5</container>
+                            <unitdate>1946 February 20 - March 18</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref89" level="file">
+                        <did>
+                            <unittitle>"Intermission at Cassino,"</unittitle>
+                            <container id="cid3865025" type="Box-folder" label="Box/Folder">6 : 6</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref90" level="file">
+                    <did>
+                        <unittitle>Texas National Guard lists, reports, plans, and constitution,</unittitle>
+                        <container id="cid3865024" type="Box-folder" label="Box/Folder">6 : 7</container>
+                        <unitdate>1946-1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref91" level="file">
+                    <did>
+                        <unittitle>Charles Walker, awards and commendations,</unittitle>
+                        <container id="cid3865023" type="Box-folder" label="Box/Folder">6 : 8</container>
+                        <unitdate>1959</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref93" level="series">
+                <did>
+                    <unittitle>Photographs,</unittitle>
+                    <unitdate>1889-1969</unitdate>
+                </did>
+                <scopecontent id="ref110">
+                    <head>Scope and Contents note</head>
+                    <p>Photographs include Walker's early years in the miltary from deployment to the Philippines and the Punitive Expedition, to World Wars I and II. The majority of the photographs are of the 36th Infantry Division activities during and after World War II. Also included are personal family photographs. Arranged chronologically by subject.</p>
+                </scopecontent>
+                <c02 id="ref94" level="file">
+                    <did>
+                        <unittitle>Family photographs,</unittitle>
+                        <container id="cid3865022" type="Box-folder" label="Box/Folder">6 : 10</container>
+                        <unitdate>1889-1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref95" level="file">
+                    <did>
+                        <unittitle>Troop B drills, Columbus, Ohio, photo album,</unittitle>
+                        <container id="cid3865021" type="Box-folder" label="Box/Folder">6 : 11</container>
+                        <unitdate>1908</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref96" level="file">
+                    <did>
+                        <unittitle>Family photographs while stationed in the Philippines,</unittitle>
+                        <container id="cid3865020" type="Box-folder" label="Box/Folder">6 : 12</container>
+                        <unitdate>1912-1915</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref97" level="file">
+                    <did>
+                        <unittitle>Portraits of Fred Walker,</unittitle>
+                        <container id="cid3865019" type="Box-folder" label="Box/Folder">6 : 13; 7 : 1</container>
+                        <unitdate>1911-1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref98" level="file">
+                    <did>
+                        <unittitle>Punitive Expedition into Mexico,</unittitle>
+                        <container id="cid3865018" type="Box-folder" label="Box/Folder">7 : 2</container>
+                        <unitdate>1915-1917</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref99" level="file">
+                    <did>
+                        <unittitle>World War I, on the Banks of the Rhine and German soldiers prison camp,</unittitle>
+                        <container id="cid3865017" type="Box-folder" label="Box/Folder">7 : 3</container>
+                        <unitdate>1917-1919</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref100" level="file">
+                    <did>
+                        <unittitle>Fred Walker, Jr.,</unittitle>
+                        <container id="cid3865016" type="Box-folder" label="Box/Folder">7 : 4</container>
+                        <unitdate>1928-1935, 1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref101" level="file">
+                    <did>
+                        <unittitle>15th Infantry, Fort Lewis, Washington, photo album,</unittitle>
+                        <container id="cid3865015" type="Box-folder" label="Box/Folder">6 : 9</container>
+                        <unitdate>1938-1939</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref102" level="file">
+                    <did>
+                        <unittitle>The 36th Infantry Division,</unittitle>
+                        <container id="cid3865014" type="Box-folder" label="Box/Folder">7 : 5; 8 : 1-3</container>
+                        <unitdate>1941-1969</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref103" level="file">
+                    <did>
+                        <unittitle>Campaign into Italy,</unittitle>
+                        <container id="cid3865013" type="Box-folder" label="Box/Folder">8 : 4-6</container>
+                        <unitdate>1943-1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref104" level="file">
+                    <did>
+                        <unittitle>Aerial shot of Area "E" terrain to Cassino,</unittitle>
+                        <container id="cid3865012" type="Box" label="Box">10</container>
+                        <unitdate>circa 1940s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref105" level="file">
+                    <did>
+                        <unittitle>Perasano, Italy, photo album,</unittitle>
+                        <container id="cid3865011" type="Box-folder" label="Box/Folder">8 : 7</container>
+                        <unitdate>circa 1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref106" level="file">
+                    <did>
+                        <unittitle>Fort Benning, Infantry School and miscellaneous receptions and dinners,</unittitle>
+                        <container id="cid3865010" type="Box-folder" label="Box/Folder">9 : 1</container>
+                        <unitdate>post 1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref107" level="file">
+                    <did>
+                        <unittitle>P.R.O. photographs from Bunny (W. H.) Hobson,</unittitle>
+                        <container id="cid3865009" type="Box-folder" label="Box/Folder">9 : 2</container>
+                        <unitdate>1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref108" level="file">
+                    <did>
+                        <unittitle>Colonel Ainsworth Ranch,</unittitle>
+                        <container id="cid3865008" type="Box-folder" label="Box/Folder">9 : 3</container>
+                        <unitdate>1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref109" level="file">
+                    <did>
+                        <unittitle>Texas,</unittitle>
+                        <container id="cid3865007" type="Box-folder" label="Box/Folder">9 : 4</container>
+                        <unitdate>1946-1947</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref111" level="series">
+                <did>
+                    <unittitle>Scrapbooks and Printed Material,</unittitle>
+                    <unitdate>1898-1968</unitdate>
+                </did>
+                <scopecontent id="ref118">
+                    <head>Scope and Contents note</head>
+                    <p>The scrapbooks contain photographs of the 36th Infantry Division's campaign from Africa into Italy, news clippings, and career and personal ephemera. Arranged by format.</p>
+                </scopecontent>
+                <c02 id="ref112" level="file">
+                    <did>
+                        <unittitle>Art prints,</unittitle>
+                        <container id="cid3865006" type="Box" label="Box">10</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref120" level="item">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Infantry in Battle</title></unittitle>
+                        <container id="cid7388002" type="Box-folder" label="Box/Folder">9 : 6</container>
+                    </did>
+                </c02>
+                <c02 id="ref113" level="file">
+                    <did>
+                        <unittitle>Reprint of "Instrument of Surrender" by Japanese government,</unittitle>
+                        <container id="cid3865005" type="Box" label="Box">10</container>
+                        <unitdate>circa 1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref114" level="file">
+                    <did>
+                        <unittitle>Certificate of appreciation from Chaplains Corps, Rome, Italy,</unittitle>
+                        <container id="cid3865004" type="Box" label="Box">10</container>
+                        <unitdate>1944 July</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref115" level="item">
+                    <did>
+                        <unittitle>Scrapbook,</unittitle>
+                        <container id="cid3865003" type="Box" label="Box">11</container>
+                        <unitdate>1898-1940s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref116" level="item">
+                    <did>
+                        <unittitle>News clippings scrapbook,</unittitle>
+                        <container id="cid3865002" type="Box" label="Box">12</container>
+                        <unitdate>1911-1968</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref117" level="item">
+                    <did>
+                        <unittitle>Photograph scrapbook,</unittitle>
+                        <container id="cid3865001" type="Box" label="Box">13</container>
+                        <unitdate>1942-1944</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

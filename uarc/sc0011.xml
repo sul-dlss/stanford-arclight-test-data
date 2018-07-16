@@ -1,0 +1,2248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[Clelia D. Mosher Papers])//EN"
+             identifier="ark:/13030/tf000000x0">sc0011.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Clelia D. Mosher Papers
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Mosher (Clelia D.) Papers</titleproper>
+            <author>Processed by Special Collections staff; machine-readable finding aid created by Patricia White</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="1997">1997</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date normal="2013-12">December 2013</date>
+            <item/>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC0011</unitid>
+         <origination label="Creator:">
+            <persname rules="aacr" source="naf">Mosher, Clelia Duel, 1863-1940</persname>
+         </origination>
+         <unittitle label="Title:">Clelia D. Mosher Papers</unittitle>
+         <unitdate normal="1886/1938"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1886-1938</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>4.75 Linear feet  (6 boxes)</extent>
+         </physdesc>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <descgrp type="provenance" id="prov">
+            <head>Provenance</head>
+            <acqinfo id="ref2">
+               <p>The Clelia Mosher Papers were given to the Stanford University Libraries by the Mosher estate following Dr. Mosher's death in 1940. The papers were stored but not arranged until the creation of the University Archives in 1965.</p>
+            </acqinfo>
+         </descgrp>
+         <accessrestrict id="ref3">
+            <head>Information about Access</head>
+            <p>The materials are open for research use.</p>
+         </accessrestrict>
+         <userestrict id="ref4">
+            <head>Ownership &amp; Copyright</head>
+            <p>Property rights reside with the repository. Literary rights reside with the creators of the documents or their heirs. To obtain permission to publish or reproduce, please contact the Public Services Librarian of the Dept. of Special Collections and University Archives.</p>
+         </userestrict>
+         <prefercite id="ref5">
+            <head>Cite As</head>
+            <p>[Identification of item], Clelia D. Mosher Papers (SC0011). Department of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+         <altformavail id="ref6">
+            <head>Alternative Formats</head>
+            <p>Volume X, 
+                <title render="italic" linktype="simple">The Mosher Sex Survey </title>is available on microfilm.</p>
+         </altformavail>
+         <separatedmaterial id="ref7">
+            <head>Separated Materials</head>
+            <p>Some photographs of Clelia Mosher, both formal and informal, and of women students in exercise studies by Mosher were transferred to the Stanford Historical Photograph Collection (SC1071).</p>
+            <p>Christmas cards from Herbert Hoover were transferred to the Hoover Institution Archives.</p>
+         </separatedmaterial>
+         <bibliography id="ref8">
+            <head>Bibliography</head>
+            <p>Publications based on use of this collection include:</p>
+            <bibref>Degler, Carl. 
+                <title render="italic" linktype="simple">"What ought to be and what was: women's sexuality in the 19th century,"</title>
+               <title render="italic" linktype="simple">American Historical Review</title> 79:5 (1974) 1474-1490.</bibref>
+            <bibref>Degler, Carl. 
+                <title render="italic" linktype="simple">"A 'dream' discovery: the Mosher survey,"</title>
+               <title render="italic" linktype="simple"> Imprint</title> 3:2 (Oct. 1977).</bibref>
+            <bibref>Jacobs, Kathryn Allamong. 
+                <title render="italic" linktype="simple">"Clelia Duel Mosher,"</title>
+               <title render="italic" linktype="simple">Johns Hopkins Magazine</title> (June 1979).</bibref>
+            <bibref>
+               <title render="italic" linktype="simple">The Mosher Survey: sexual attitudes of 45 Victorian women.</title> Edited by James Mahoon and Christine Wenberg, with an introduction by Carl Degler. New York: Arno Press, 1980.</bibref>
+         </bibliography>
+      </descgrp>
+      <bioghist id="ref9">
+         <head>Biographical Note:</head>
+         <p>Clelia Duel Mosher, the daughter of Cornelius Duel Mosher, M.D. and Sarah Burritt Mosher, was born on December 16, 1863 in Albany, New York. She graduated from Wellesley College in 1891, and spent the next year studying at both Cornell University and the University of Wisconsin. She then attended Stanford University, receiving an A.B. in zoology in 1893 and a masters in physiology in 1894. She received her M.D. from Johns Hopkins University in 1900.</p>
+         <p>Dr. Mosher returned to Palo Alto to set up practice as a physician. She joined the Stanford faculty as a professor of personal hygiene in 1910, retiring as Professor emeritus in 1929. Interested particularly in women's health, she carried out her research and writing interests both as a physician and faculty member in the Department of Physical Hygiene, the linear ancestor of Stanford's Department of Athletics, Physical Education and Recreation.</p>
+         <p>Mosher was a fellow in the American Medical Association (1906-1936) and in the American Association for Advancement of Science. She was also a member of Phi Beta Kappa, Sigma Xi, and Kappa Alpha Theta. An avid genealogist, she was a member of the Daughters of the American Revolution.</p>
+         <p>Between 1901 and 1929, Mosher published twenty-one books, including four "War Sketches" which appeared in the Medical Woman's Journal, 1921. She died in Palo Alto in 1940.</p>
+      </bioghist>
+      <scopecontent id="ref10">
+         <head>Scope and Contents Note:</head>
+         <p>The collection contains primarily correspondence, writings (published and unpublished), diaries, and biographical and genealogical material spanning the years 1886 to 1938. Correspondents include Ray Lyman Wilbur, William H. Welch (President of Johns Hopkins), David Starr Jordan, and Havelock Ellis.</p>
+         <p>Six bound volumes of her notes, reports, and charts, 
+                <title render="italic" linktype="simple">Hygiene and Physiology of Women, </title>can be found in box 3. Volume "X" of this series, known as the Mosher Sex Survey, has been republished as 
+                <bibref>
+               <title render="italic" linktype="simple">The Mosher Survey: Sexual Attitudes of 45 Victorian Women</title> (edited by James Mahood and Christine Wenberg. 
+                    <imprint>New York: Arno Press, 1980, 469 pp.).</imprint>
+            </bibref>
+         </p>
+         <p>Boxes 3 and 4 also include extensive biographical and genealogical material, including photographs.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <persname rules="aacr" source="ingest" role=" ">Coolidge, Mary Roberts,, 1860-1945.</persname>
+         <persname rules="aacr" source="ingest" role=" ">Ellis, Havelock,, 1859-1939.</persname>
+         <persname rules="aacr" source="ingest" role=" ">Jordan, David Starr,, 1851-1931.</persname>
+         <persname rules="aacr" source="naf" role=" ">Mosher, Clelia Duel, 1863-1940</persname>
+         <corpname rules="dacs" source="ingest" role=" ">Stanford University. Department of Physical Hygiene. -- General subdivision--Faculty.; </corpname>
+         <persname rules="aacr" source="ingest" role=" ">Welch, William H.</persname>
+         <persname rules="aacr" source="naf" role=" ">Wilbur, Ray L.,  (Ray Lyman), 1875-1949</persname>
+         <subject source="lcsh">Sex customs--History.--United States</subject>
+         <subject source="lcsh">Women--Health and hygiene--United States.</subject>
+         <subject source="lcsh">Women--Sexual behavior--History.</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.6">
+         <head>Collection Contents</head>
+         <c01 id="ref11" level="series">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">1</container>
+               <unittitle>Publications and letters</unittitle>
+            </did>
+            <c02 id="ref12" level="file">
+               <did>
+                  <unittitle>
+                     <bibref linktype="simple">
+                        <title render="italic" linktype="simple">Health and the Woman Movement, </title>
+                        <imprint>(New York National Board, YWCA)</imprint>
+                     </bibref>
+                  </unittitle>
+                  <unitdate>1916 Jan</unitdate>
+                  <physdesc>
+                     <extent>47 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref14" level="file">
+               <did>
+                  <unittitle>Conference pamphlet, (
+                            <persname>Mosher, Clelia Duel</persname> spoke)</unittitle>
+                  <unitdate>1915 May</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref15" level="file">
+               <did>
+                  <unittitle>The Relation of Health to the Woman Movement, final copy.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref16" level="file">
+               <did>
+                  <unittitle>Letter: To Dr. Mosher from Margaret Johnson, University of Wisconsin</unittitle>
+                  <unitdate>1915 Jul 15</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref17" level="file">
+               <did>
+                  <unittitle>Dr. Mosher to Dr. Johnson</unittitle>
+                  <unitdate>1915 Jul 20</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref18" level="file">
+               <did>
+                  <unittitle>Telegram: To Dr. Mosher from Elva L. Sly</unittitle>
+                  <unitdate>1915 Jul 21</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref19" level="file">
+               <did>
+                  <unittitle>Dr. Mosher to Elva L. Sly</unittitle>
+                  <unitdate>1915 Jul 21</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref20" level="file">
+               <did>
+                  <unittitle>Dr. Mosher to Elva L. Sly</unittitle>
+                  <unitdate>1915 Aug 6</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref21" level="file">
+               <did>
+                  <unittitle>Letter: To Dr. Mosher from Dr. Anna L. Brown</unittitle>
+                  <unitdate>1915 Aug 9</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref22" level="file">
+               <did>
+                  <unittitle>Dr. Mosher to Helen Thoburn</unittitle>
+                  <unitdate>1915 Aug 10</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref23" level="file">
+               <did>
+                  <unittitle>To Dr. Mosher from Thorvald Solberg</unittitle>
+                  <unitdate>1915 Aug 10</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref24" level="file">
+               <did>
+                  <unittitle>To Dr. Mosher from Elva L. Sly</unittitle>
+                  <unitdate>1915 Aug 11</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref25" level="file">
+               <did>
+                  <unittitle>To Dr. Mosher from Anna L. Brown</unittitle>
+                  <unitdate>1915 Sep 15</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref26" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">1a</container>
+               <unittitle>Xerox copy of "the Relation of Health to the Woman Movement"</unittitle>
+            </did>
+         </c01>
+         <c01 id="ref27" level="series">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">2</container>
+               <unittitle>Letters and manuscripts</unittitle>
+            </did>
+            <c02 id="ref28" level="file">
+               <did>
+                  <unittitle>"The Typhoid Fly Problem and Civic Fly Campaigns"</unittitle>
+                  <physdesc>
+                     <extent>20 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref30" level="file">
+               <did>
+                  <unittitle>Oxford. Concerning Scarlet Fever Epidemic and Carmel-Postcard-Dr Mosher</unittitle>
+                  <unitdate>1906 Feb 17</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref31" level="file">
+               <did>
+                  <unittitle>Letter: To Dr. Mosher from Ermina R. Stillman</unittitle>
+                  <unitdate>1906 May 9</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref32" level="file">
+               <did>
+                  <unittitle>To Dr. Mosher from ?</unittitle>
+                  <unitdate>1906 May 5</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref33" level="file">
+               <did>
+                  <unittitle>To Dr. Mosher from Barbara H. Alden</unittitle>
+                  <unitdate>1906 May 22</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref34" level="file">
+               <did>
+                  <unittitle>To Dr. Mosher from ? Pierce</unittitle>
+                  <unitdate>1906 May 17, 24, 29</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref35" level="file">
+               <did>
+                  <unittitle>To Dr. Mosher from Charles C. Hill</unittitle>
+                  <unitdate>1906 Jun 5</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref36" level="file">
+               <did>
+                  <unittitle>Copy of letter from Mosher to Mr. Hill</unittitle>
+                  <unitdate>1906 Jun 8</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref37" level="file">
+               <did>
+                  <unittitle>To Dr. Mosher from Dr. Hill</unittitle>
+                  <unitdate>1906 Jun 12</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref38" level="file">
+               <did>
+                  <unittitle>To Dr. Mosher from Bessie M. Ashlaw</unittitle>
+                  <unitdate>1906 Jun 18</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref39" level="file">
+               <did>
+                  <unittitle>Dr. Mosher to Mr. Devendorff</unittitle>
+                  <unitdate>1906 Jun 21</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref40" level="file">
+               <did>
+                  <unittitle>To Dr. Mosher from Ruth Beveridge</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref41" level="file">
+               <did>
+                  <unittitle>Dr. Mosher to Ruth Beveridge, on back.</unittitle>
+                  <unitdate>1906 Jul 31</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref42" level="file">
+               <did>
+                  <unittitle>Notes: concerning Virginia Newhall, Frances Beveridge, Donald Clampett, Lillian Devendorff, Bessie Ashton, Leanna Davis</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref43" level="file">
+               <did>
+                  <unittitle>List of children taken ill.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref44" level="file">
+               <did>
+                  <unittitle>Letter: To Dr. Mosher from Mrs. E.W. Newhall</unittitle>
+                  <unitdate>1906 Jun 7</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref45" level="file">
+               <did>
+                  <unittitle>"Another Method of Avoiding the Public Drinking Cup", 2 pages with example.</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref46" level="series">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">3</container>
+               <unittitle>Drafts</unittitle>
+            </did>
+            <c02 id="ref47" level="file">
+               <did>
+                  <unittitle>"A Study of the Respiratory Movements in Women,"</unittitle>
+                  <unitdate>1901</unitdate>
+               </did>
+               <scopecontent>
+                  <p>First draft, 12 pages. Second draft, missing page 1, 10 pages</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref49" level="file">
+               <did>
+                  <unittitle>"Age Groups of College Women."</unittitle>
+               </did>
+               <scopecontent>
+                  <p>12 pages notes and drafts, and calculations.</p>
+               </scopecontent>
+            </c02>
+         </c01>
+         <c01 id="ref51" level="series">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">4</container>
+               <unittitle>Articles and notes on height, feet and gait in women</unittitle>
+            </did>
+            <c02 id="ref52" level="file">
+               <did>
+                  <unittitle>Chart - Relation of Change in Fashion to Height and Periodic Disability of Women.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref53" level="file">
+               <did>
+                  <unittitle>
+                     <bibref linktype="simple">
+                        <title render="italic" linktype="simple">"Some of the Causal Factors in the Increased Height of College Women," (1891-1921). Second and Third Note, </title>(Reprint from 
+                                <title render="italic" linktype="simple">The Medical Women's Journal, </title>November, 1921.) </bibref>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref54" level="file">
+               <did>
+                  <unittitle>"A Perfect Shoe for a Perfect Foot," Harriet Wilde.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref55" level="file">
+               <did>
+                  <unittitle>
+                     <bibref linktype="simple">
+                        <title render="italic" linktype="simple">"The Angle of Gait in Women,"</title>
+                        <name> Sadie D. Patek, </name>
+                        <title render="italic" linktype="simple">American Journal of Physical Anthropology, </title>July- September, 1926. </bibref>
+                  </unittitle>
+                  <physdesc>
+                     <extent>17 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref57" level="file">
+               <did>
+                  <unittitle>Newsclipping - "Who Invented Shoes?", Hester Bronson Copper.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref58" level="file">
+               <did>
+                  <unittitle>
+                     <bibref linktype="simple">
+                        <title render="italic" linktype="simple">"A Case of Onychrogryposis," </title>Clelia D. Mosher, A.M., M.D., Reprint from 
+                                <title render="italic" linktype="simple">The Woman's Medical Journal, </title>November 1910,</bibref> 7 pages.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref59" level="file">
+               <did>
+                  <unittitle>
+                     <bibref linktype="simple">
+                        <title render="italic" linktype="simple">"Functional Periodicity in Women and Some of the Modifying Factors,"</title> Reprint from 
+                                <title render="italic" linktype="simple">The California State Journal of Medicine,</title> Jan-February, 1911, 1923 </bibref>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref60" level="file">
+               <did>
+                  <unittitle>"A Physiologic Treatment of Congestive Dysmenorrhea and Kindred Disorders Associated with the Menstrual Function." 15 pages.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref61" level="file">
+               <did>
+                  <unittitle>Note to self: concerning feet, gait, etc. 3 pages.</unittitle>
+                  <unitdate>1927 Nov 18</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref62" level="series">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">5</container>
+               <unittitle>Articles and letters on posture</unittitle>
+            </did>
+            <c02 id="ref63" level="file">
+               <did>
+                  <unittitle>Public Health Reports</unittitle>
+                  <unitdate>1927 May 6</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref64" level="file">
+               <did>
+                  <unittitle>A Study of Literature Relating to Posture.</unittitle>
+                  <physdesc>
+                     <extent>29 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref66" level="file">
+               <did>
+                  <unittitle>"A Resume, with Comments, of the Available Literature Relating to Posture," Louis Schwartz.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref67" level="file">
+               <did>
+                  <unittitle>"Habits of Posture: A Cause of Deformity and Displacement of the Uterus," Eliza Mosher, M.D.</unittitle>
+                  <unitdate>1893 Nov</unitdate>
+                  <physdesc>
+                     <extent>16 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref69" level="file">
+               <did>
+                  <unittitle>"Faulty Habits of Posture, A Cause of Enteroptosis," Eliza Mosher, M.D.</unittitle>
+                  <unitdate>1914 May</unitdate>
+                  <physdesc>
+                     <extent>15 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref71" level="file">
+               <did>
+                  <unittitle>"The Care of the Abdomen in Infancy and Childhood," Eliza Mosher, M.D.</unittitle>
+                  <unitdate>1914 Dec</unitdate>
+                  <physdesc>
+                     <extent>13 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref73" level="file">
+               <did>
+                  <unittitle>"The Etiology and Diagnosis of Chronic Intestinal Stasis," Eliza Mosher, M.D.</unittitle>
+                  <unitdate>1914 Jan</unitdate>
+                  <physdesc>
+                     <extent>8 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref75" level="file">
+               <did>
+                  <unittitle>"Results of Research on Conditions Affecting Posture," Henry Ling Taylor</unittitle>
+                  <unitdate>1916 Jun</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref76" level="file">
+               <did>
+                  <unittitle>"A Combined Medical and Postural Examination of 746 Young Adults," Lloyd T. Brown, M.D.</unittitle>
+                  <unitdate>1917 Nov</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref77" level="file">
+               <did>
+                  <unittitle>The Schematograph - 2 pamphlets describing the Mosher-Lesley Schematograph.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref78" level="file">
+               <did>
+                  <unittitle>"The Schematogram - A New Method of Graphically Recording Posture and Changes in the Contour of the Body," Clelia D. Mosher</unittitle>
+                  <unitdate>1915 Feb</unitdate>
+                  <physdesc>
+                     <extent>8 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref80" level="file">
+               <did>
+                  <unittitle>Letter: To the Surgeon General from Louis Schwartz, concerning Schematograph.</unittitle>
+                  <unitdate>1928 Jun 4</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref81" level="file">
+               <did>
+                  <unittitle>To Dr. Mosher from Louis Schwartz</unittitle>
+                  <unitdate>1928 Jun 4</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref82" level="file">
+               <did>
+                  <unittitle>To Dr. Mosher from R.C. Williams, Assistant Surgeon General</unittitle>
+                  <unitdate>1928 Jun 7</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref83" level="file">
+               <did>
+                  <unittitle>Imitations of the Schematograph - newspaper clippings</unittitle>
+                  <unitdate>1919 Jul 13</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref84" level="series">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">6</container>
+               <unittitle>Correspondence and miscellaneous papers</unittitle>
+            </did>
+            <c02 id="ref85" level="file">
+               <did>
+                  <unittitle>Library of Congress Copyright Office - steps to insure copyright.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref86" level="file">
+               <did>
+                  <unittitle>Receipt.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref87" level="file">
+               <did>
+                  <unittitle>Application - Daughters of the American Revolution.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref88" level="file">
+               <did>
+                  <unittitle>Memorandum of Florist business, carried on by 
+                            <persname>Mosher, Clelia Duel</persname> in New York</unittitle>
+                  <unitdate>1888-1889</unitdate>
+                  <physdesc>
+                     <extent>1 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref90" level="file">
+               <did>
+                  <unittitle>"The Tale of Psi's Kite" - publication including article on Dr. Mosher</unittitle>
+                  <unitdate>1936 Mar</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref91" level="file">
+               <did>
+                  <unittitle>Letter and application from 
+                            <title render="italic" linktype="simple">Who's Who of American Physicians</title>.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref92" level="file">
+               <did>
+                  <unittitle>
+                     <persname>Bert,Paul</persname> to 
+                            <persname>Mosher, Clelia Duel</persname>
+                  </unittitle>
+                  <unitdate>1919 Jan 12</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref93" level="file">
+               <did>
+                  <unittitle>Postcard E. Homer Bois ? to 
+                            <persname>Mosher, Clelia Duel</persname>
+                  </unittitle>
+                  <unitdate>1922 Dec 30</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref94" level="file">
+               <did>
+                  <unittitle>
+                     <persname>Ellis, Havelock</persname> to 
+                            <persname>Mosher, Clelia Duel</persname>
+                  </unittitle>
+                  <unitdate>1901 Sep 28, 1921 May 6</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref95" level="file">
+               <did>
+                  <unittitle>A. Marion Gammon to 
+                            <persname>Mosher, Clelia Duel</persname>
+                  </unittitle>
+                  <unitdate>1914 Jun 8</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref96" level="file">
+               <did>
+                  <unittitle>Grace Margaret Gneld to 
+                            <persname>Mosher, Clelia Duel</persname>
+                  </unittitle>
+                  <unitdate>1920 Aug 6</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref97" level="file">
+               <did>
+                  <unittitle>Olivia James (Mrs. Henry James) to 
+                            <persname>Mosher, Clelia Duel</persname>
+                  </unittitle>
+                  <unitdate>1919 Feb 17</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref98" level="file">
+               <did>
+                  <unittitle>Vernon Kellogg to 
+                            <persname>Mosher, Clelia Duel</persname>
+                  </unittitle>
+                  <unitdate>1921 Mar 16</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref99" level="file">
+               <did>
+                  <unittitle>Ira S. Lillick to 
+                            <persname>Mosher, Clelia Duel</persname>
+                  </unittitle>
+                  <unitdate>1935 Sep 23</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref100" level="file">
+               <did>
+                  <unittitle>Mary Riggs Noble, M.D. to 
+                            <persname>Mosher, Clelia Duel</persname>
+                  </unittitle>
+                  <unitdate>1932 Sep 30</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref101" level="file">
+               <did>
+                  <unittitle>
+                     <persname>Mosher, Clelia Duel</persname> to Mary Riggs Noble</unittitle>
+                  <unitdate>1932 Oct 10</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref102" level="file">
+               <did>
+                  <unittitle>Helen W. Peckleane? to 
+                            <persname>Mosher, Clelia Duel</persname>
+                  </unittitle>
+                  <unitdate>1924 Mar 3</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref103" level="file">
+               <did>
+                  <unittitle>Ruth to 
+                            <persname>Mosher, Clelia Duel</persname>
+                  </unittitle>
+                  <unitdate>1924 Mar 28</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref104" level="file">
+               <did>
+                  <unittitle>Lucy M. Salmon to 
+                            <persname>Mosher, Clelia Duel</persname>
+                  </unittitle>
+                  <unitdate>1911 Apr 26</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref105" level="file">
+               <did>
+                  <unittitle>Milicent W. Shinn to 
+                            <persname>Mosher, Clelia Duel</persname>
+                  </unittitle>
+                  <unitdate>1896 Mar 24</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref106" level="file">
+               <did>
+                  <unittitle>Jane Snyder to 
+                            <persname>Mosher, Clelia Duel</persname>
+                  </unittitle>
+                  <unitdate>1929 Jun 16</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref107" level="file">
+               <did>
+                  <unittitle>Ray Lyman Wilbur to 
+                            <persname>Mosher, Clelia Duel</persname>
+                  </unittitle>
+                  <unitdate>1938 Dec 16</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref108" level="file">
+               <did>
+                  <unittitle>Edith Williams to 
+                            <persname>Mosher, Clelia Duel</persname>
+                  </unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref109" level="file">
+               <did>
+                  <unittitle>Letter J unsigned.</unittitle>
+                  <unitdate>1920 Jan</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref110" level="file">
+               <did>
+                  <unittitle>Letter of Introduction: A.W. Edwards to Mrs. Thompson</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref111" level="file">
+               <did>
+                  <unittitle>Letter of Introduction: Gertrude E. Knox to Dr. Patrick</unittitle>
+                  <unitdate>1924 Mar 21</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref112" level="file">
+               <did>
+                  <unittitle>Letter of Introduction: Gertrude E. Knox to John Randolphe</unittitle>
+                  <unitdate>1924 Mar 21</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref113" level="file">
+               <did>
+                  <unittitle>William H. Welch (Johns Hopkins University) to Mr. Ball</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref114" level="file">
+               <did>
+                  <unittitle>
+                     <persname>Mosher, Clelia Duel</persname> to Dr. Kate Campbell Mead</unittitle>
+                  <unitdate>1932 Oct 10</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref115" level="file">
+               <did>
+                  <unittitle>Memo: 
+                            <persname>Mosher, Clelia Duel</persname> to 
+                            <persname>Wilbur, Ray Lyman</persname>
+                  </unittitle>
+                  <unitdate>1919 May 12</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref116" level="file">
+               <did>
+                  <unittitle>Memo: 
+                            <persname>Mosher, Clelia Duel</persname> to 
+                            <persname>Wilbur, Ray Lyman</persname>
+                  </unittitle>
+                  <unitdate>1923 Apr 19</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref117" level="file">
+               <did>
+                  <unittitle>Memo: 
+                            <persname>Mosher, Clelia Duel</persname> to 
+                            <persname>Wilbur, Ray Lyman</persname>
+                  </unittitle>
+                  <unitdate>1923 Apr 29</unitdate>
+                  <physdesc>
+                     <extent>2 pages, 2 copies of first page.</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref119" level="file">
+               <did>
+                  <unittitle>Memo: 
+                            <persname>Mosher, Clelia Duel</persname> to 
+                            <persname>Wilbur, Ray Lyman</persname>
+                  </unittitle>
+                  <unitdate>1927 Jan 3</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref120" level="file">
+               <did>
+                  <unittitle>Woman's Club - talk on 
+                            <persname>Mosher, Clelia Duel</persname>'s war experiences.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref121" level="file">
+               <did>
+                  <unittitle>Information sheet re: David Starr Jordan Fund.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref122" level="file">
+               <did>
+                  <unittitle>Expense Sheet</unittitle>
+                  <unitdate>1892 Jun 4</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref123" level="series">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">7</container>
+               <unittitle>Article and letters on drinking water</unittitle>
+            </did>
+            <c02 id="ref124" level="file">
+               <did>
+                  <unittitle>"Drink More Water and Keep Well", Clelia Duel Mosher, A.M., M.D.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref125" level="file">
+               <did>
+                  <unittitle>Letter to Edward Bok, 
+                            <title render="italic" linktype="simple">Ladies Home Journal, </title>submitting article.</unittitle>
+                  <unitdate>1911 Apr 21</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref126" level="file">
+               <did>
+                  <unittitle>Examples of folding paper cups.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref127" level="file">
+               <did>
+                  <unittitle>Rejection from 
+                            <title render="italic" linktype="simple">Ladies Home Journal. </title>
+                  </unittitle>
+                  <unitdate>1911 May 5</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref128" level="file">
+               <did>
+                  <unittitle>List of Companies - Sanitary Drinking Fountains.</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref129" level="series">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">8</container>
+               <unittitle>Articles</unittitle>
+            </did>
+            <c02 id="ref130" level="file">
+               <did>
+                  <unittitle>A Mess of Pottage</unittitle>
+                  <physdesc>
+                     <extent>2 pages handwritten and 2 pages typed.</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref132" level="file">
+               <did>
+                  <unittitle>A War Produce - Who Pays?</unittitle>
+                  <physdesc>
+                     <extent>16 pages (oddly numbered)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref134" level="file">
+               <did>
+                  <unittitle>Earthly Immortality</unittitle>
+                  <physdesc>
+                     <extent>12 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref136" level="file">
+               <did>
+                  <unittitle>The Making of a Misfit</unittitle>
+                  <physdesc>
+                     <extent>13 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref138" level="file">
+               <did>
+                  <unittitle>Gilding the Lily</unittitle>
+                  <physdesc>
+                     <extent>5 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref140" level="file">
+               <did>
+                  <unittitle>24 Hours in a Day</unittitle>
+                  <physdesc>
+                     <extent>9 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref142" level="file">
+               <did>
+                  <unittitle>It Might Be True, It Might Have Happened</unittitle>
+                  <physdesc>
+                     <extent>7 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref144" level="file">
+               <did>
+                  <unittitle>Sketches and Notes</unittitle>
+                  <physdesc>
+                     <extent>29 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref146" level="file">
+               <did>
+                  <unittitle>Newspaper clipping.</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref147" level="series">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">9</container>
+               <unittitle>Articles and correspondence</unittitle>
+            </did>
+            <c02 id="ref148" level="file">
+               <did>
+                  <unittitle>The Spring Song, by M.C. Deville (Clelia Mosher)</unittitle>
+                  <physdesc>
+                     <extent>7 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref150" level="file">
+               <did>
+                  <unittitle>Notes</unittitle>
+                  <physdesc>
+                     <extent>1 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref152" level="file">
+               <did>
+                  <unittitle>All in a Day's Work</unittitle>
+                  <physdesc>
+                     <extent>printed pamphlet, 4 pages; second copy, 5 pages typed.</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref154" level="file">
+               <did>
+                  <unittitle>Again in the Running</unittitle>
+                  <physdesc>
+                     <extent>7 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref156" level="file">
+               <did>
+                  <unittitle>When Lillie Was Taken</unittitle>
+                  <physdesc>
+                     <extent>8 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref158" level="file">
+               <did>
+                  <unittitle>Madame</unittitle>
+                  <physdesc>
+                     <extent>5 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref160" level="file">
+               <did>
+                  <unittitle>Presque Tours Les Enfants du Pays</unittitle>
+                  <physdesc>
+                     <extent>13 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref162" level="file">
+               <did>
+                  <unittitle>As Seen By a Doctor, 3 pages as introduction to collection of stories above.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref163" level="file">
+               <did>
+                  <unittitle>Correspondence: Cousin Eliza to 
+                            <persname>Mosher, Clelia Duel</persname>
+                  </unittitle>
+                  <unitdate>1921 May 26</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref164" level="file">
+               <did>
+                  <unittitle>Correspondence: 
+                            <persname>Jordan, David Starr</persname> to 
+                            <persname>Mosher, Clelia Duel</persname>
+                  </unittitle>
+                  <unitdate>1921 Sep 17</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref165" level="file">
+               <did>
+                  <unittitle>Correspondence: 
+                            <persname>Wilbur, Ray Lyman</persname> to 
+                            <persname>Mosher, Clelia Duel</persname>
+                  </unittitle>
+                  <unitdate>31-May-21</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref166" level="series">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">10</container>
+               <unittitle>Diaries and other papers</unittitle>
+            </did>
+            <c02 id="ref167" level="file">
+               <did>
+                  <unittitle/>
+                  <unitdate>1926 Apr 16</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref169" level="file">
+               <did>
+                  <unittitle>Notes on medical problems and issues, personal thoughts</unittitle>
+               </did>
+               <scopecontent>
+                  <p>54 pages</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref171" level="file">
+               <did>
+                  <unittitle/>
+                  <unitdate>1919 Mar 15</unitdate>
+                  <physdesc>
+                     <extent>1 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref173" level="file">
+               <did>
+                  <unittitle/>
+                  <unitdate>1921 Jan 30</unitdate>
+               </did>
+               <scopecontent>
+                  <p>4 pages</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref175" level="file">
+               <did>
+                  <unittitle/>
+                  <unitdate>1926 Jun 6</unitdate>
+                  <physdesc>
+                     <extent>2 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref177" level="file">
+               <did>
+                  <unittitle/>
+                  <unitdate>1928 May 16</unitdate>
+                  <physdesc>
+                     <extent>1 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref179" level="file">
+               <did>
+                  <unittitle/>
+                  <unitdate>1926 May 26, Oct 27</unitdate>
+                  <physdesc>
+                     <extent>6 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref181" level="file">
+               <did>
+                  <unittitle/>
+                  <unitdate>1906 Jul 19</unitdate>
+                  <physdesc>
+                     <extent>1 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref183" level="file">
+               <did>
+                  <unittitle/>
+                  <unitdate>1930 May 13</unitdate>
+                  <physdesc>
+                     <extent>1 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref185" level="file">
+               <did>
+                  <unittitle/>
+                  <unitdate>1932 Feb 14</unitdate>
+                  <physdesc>
+                     <extent>1 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref187" level="file">
+               <did>
+                  <unittitle/>
+                  <unitdate>1931 Aug 5</unitdate>
+                  <physdesc>
+                     <extent>1 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref189" level="file">
+               <did>
+                  <unittitle/>
+                  <unitdate>Jan</unitdate>
+                  <physdesc>
+                     <extent>1 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref191" level="file">
+               <did>
+                  <unittitle/>
+                  <unitdate>1926 Dec 20</unitdate>
+                  <physdesc>
+                     <extent>1 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref193" level="file">
+               <did>
+                  <unittitle/>
+                  <unitdate>1933 Dec 24-1934 Jan 21</unitdate>
+                  <physdesc>
+                     <extent>2 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref195" level="file">
+               <did>
+                  <unittitle/>
+                  <unitdate>undated</unitdate>
+                  <physdesc>
+                     <extent>17 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref197" level="file">
+               <did>
+                  <unittitle>Diary</unittitle>
+               </did>
+               <scopecontent>
+                  <p>15 pages</p>
+               </scopecontent>
+            </c02>
+         </c01>
+         <c01 id="ref199" level="series">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">11</container>
+               <unittitle>Biographical materials</unittitle>
+            </did>
+            <c02 id="ref200" level="file">
+               <did>
+                  <unittitle>
+                     <persname>Mosher, Clelia Duel</persname>- The Questioner (biographical sketch)</unittitle>
+                  <physdesc>
+                     <extent>23 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref202" level="file">
+               <did>
+                  <unittitle>
+                     <persname>Mosher, Clelia Duel</persname> M.D. - Publications</unittitle>
+                  <unitdate>1901-1920</unitdate>
+                  <physdesc>
+                     <extent>2pp.</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref204" level="file">
+               <did>
+                  <unittitle>
+                     <persname>Coolidge, Mary Roberts</persname> to 
+                            <persname>Mosher, Clelia Duel</persname>
+                  </unittitle>
+                  <unitdate>1933 Jul 15</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref205" level="file">
+               <did>
+                  <unittitle>Biographical Information, brief</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref206" level="file">
+               <did>
+                  <unittitle>Newsclippings on Clelia Mosher's death - 
+                            <title render="italic" linktype="simple">Palo Alto Times</title>
+                  </unittitle>
+                  <unitdate>1940 Dec 23</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref207" level="file">
+               <did>
+                  <unittitle>Biographical Information</unittitle>
+                  <physdesc>
+                     <extent>1 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref209" level="file">
+               <did>
+                  <unittitle>Revisions on biography</unittitle>
+                  <physdesc>
+                     <extent>2 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref211" level="file">
+               <did>
+                  <unittitle>Comments on biography by Mary R. Coolidge</unittitle>
+                  <physdesc>
+                     <extent>2 pages handwritten, 1 page typed.</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref213" level="file">
+               <did>
+                  <unittitle>Theme written by 
+                            <persname>Mosher, Clelia Duel</persname> while at Wellesley College</unittitle>
+                  <physdesc>
+                     <extent>5 pages handwritten, 2 pages typed.</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref215" level="file">
+               <did>
+                  <unittitle>Comments on Theme and C.D. Mosher's composition training</unittitle>
+                  <physdesc>
+                     <extent>6 pages handwritten, 4 pages typed.</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref217" level="file">
+               <did>
+                  <unittitle>Information on 
+                            <persname>Mosher, Clelia Duel</persname>'s education</unittitle>
+                  <physdesc>
+                     <extent>2 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref219" level="file">
+               <did>
+                  <unittitle>Memorial to 
+                            <persname>Mosher, Clelia Duel</persname>
+                  </unittitle>
+                  <physdesc>
+                     <extent>3 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref221" level="series">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">12</container>
+               <unittitle>Materials on Mosher's medical studies</unittitle>
+            </did>
+            <c02 id="ref222" level="file">
+               <did>
+                  <unittitle>"Contribution to the Study of the Inquiry of Gall Stones in the United States," 
+                            <persname>Mosher, Clelia Duel</persname>. Report of the Johns Hopkins Medical Society Meeting, March 4, 1901. From 
+                            <title render="italic" linktype="simple">Maryland Medical Journal,</title>
+                  </unittitle>
+                  <unitdate>1901 May</unitdate>
+                  <physdesc>
+                     <extent>5 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref224" level="file">
+               <did>
+                  <unittitle>Journal article - "The Health of Women Wage Earners," 1 page, 
+                            <persname>Mosher, Clelia Duel</persname> cited in article.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref225" level="file">
+               <did>
+                  <unittitle>Newsclippings and notes on 
+                            <persname>Mosher, Clelia Duel</persname>'s work.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref226" level="file">
+               <did>
+                  <unittitle>Letter: S.M. Croonquist to 
+                            <persname>Mosher, Clelia Duel</persname> and attached newsclipping.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref227" level="file">
+               <did>
+                  <unittitle>Notes</unittitle>
+                  <physdesc>
+                     <extent>3 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref229" level="file">
+               <did>
+                  <unittitle>Newsclippings on 
+                            <persname>Mosher, Clelia Duel</persname>
+                  </unittitle>
+                  <unitdate>1920 Dec 15, 1933 Oct 18</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref230" level="file">
+               <did>
+                  <unittitle>Journal article re: 
+                            <persname>Mosher, Clelia Duel</persname>'s work - 
+                            <title render="italic" linktype="simple">The Literary Digest, </title>
+                  </unittitle>
+                  <unitdate>1923 Sep 29</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref231" level="file">
+               <did>
+                  <unittitle>Article including 
+                            <persname>Mosher, Clelia Duel</persname>
+                  </unittitle>
+                  <unitdate>1929 Jul</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref232" level="series">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">1</container>
+               <unittitle>Correspondence and miscellaneous papers</unittitle>
+            </did>
+            <c02 id="ref233" level="file">
+               <did>
+                  <unittitle>Letter: Havelock Ellis to 
+                            <persname>Mosher, Clelia Duel</persname>
+                  </unittitle>
+                  <unitdate>1901 Sep 28</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref234" level="file">
+               <did>
+                  <unittitle>Registered Mail slip and Return Receipt.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref235" level="file">
+               <did>
+                  <unittitle>Receipt for payment of typing work</unittitle>
+                  <unitdate>1902 Dec 13</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref236" level="file">
+               <did>
+                  <unittitle>
+                     <persname>Mosher, Clelia Duel</persname> to Mrs. E.H. Richards, (note at bottom).</unittitle>
+                  <unitdate>1902 Dec 13</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref237" level="file">
+               <did>
+                  <unittitle>Notes - Blood Pressure Studies</unittitle>
+                  <physdesc>
+                     <extent>1 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref239" level="file">
+               <did>
+                  <unittitle>Office of the Dean, Johns Hopkins University, Medical Department to 
+                            <persname>Mosher, Clelia Duel</persname>
+                  </unittitle>
+                  <unitdate>1903 Feb 24</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref240" level="file">
+               <did>
+                  <unittitle>Pertaining to Carnegie Grant:</unittitle>
+               </did>
+               <c03 id="ref241" level="file">
+                  <did>
+                     <unittitle>David Starr Jordan to Secretary of Carnegie Institute</unittitle>
+                     <unitdate>1905 May 22</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref242" level="file">
+                  <did>
+                     <unittitle>N.M. Gilbert? to 
+                                <persname>Mosher, Clelia Duel</persname>
+                     </unittitle>
+                     <unitdate>1905 Jun 10</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref243" level="file">
+                  <did>
+                     <unittitle>Mary Roberts Smith to Trustees of Carnegie Institute</unittitle>
+                     <unitdate>1905 Sep 20</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref244" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Mosher, Clelia Duel</persname> to Honorable W.W. Morrow.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref245" level="file">
+                  <did>
+                     <unittitle>William W. Morrow to Dr. Robert J. Woodward</unittitle>
+                     <unitdate>1905 Sep 25</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref246" level="file">
+                  <did>
+                     <unittitle>Willaim W. Morrow to 
+                                <persname>Mosher, Clelia Duel</persname>
+                     </unittitle>
+                     <unitdate>1905 Sep 26</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref247" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Mosher, Clelia Duel</persname> to William W. Morrow</unittitle>
+                     <unitdate>1905 Sep 29</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref248" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Mosher, Clelia Duel</persname> to Charles D. Walcott</unittitle>
+                     <unitdate>1905 Sep 29</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref249" level="file">
+                  <did>
+                     <unittitle>Receipt from Wells Fargo &amp; Co. Express</unittitle>
+                     <unitdate>1905 Sep 28</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref250" level="file">
+                  <did>
+                     <unittitle>G. Stanley Hall to 
+                                <persname>Mosher, Clelia Duel</persname>, and 2 copies.</unittitle>
+                     <unitdate>1905 Oct 2</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref251" level="file">
+                  <did>
+                     <unittitle>N.M. Gilbert to 
+                                <persname>Mosher, Clelia Duel</persname>
+                     </unittitle>
+                     <unitdate>1905 Oct 3</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref252" level="file">
+                  <did>
+                     <unittitle>Howard A. Kelly to 
+                                <persname>Mosher, Clelia Duel</persname>
+                     </unittitle>
+                     <unitdate>1905 Oct 5</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref253" level="file">
+                  <did>
+                     <unittitle>N.M. Gilbert to Howard A. Kelly</unittitle>
+                     <unitdate>1905 Oct 6</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref254" level="file">
+                  <did>
+                     <unittitle>W.H. Howell to 
+                                <persname>Mosher, Clelia Duel</persname>, and copy.</unittitle>
+                     <unitdate>1905 Oct 7</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref255" level="file">
+                  <did>
+                     <unittitle>N.M. Gilbert to 
+                                <persname>Mosher, Clelia Duel</persname>
+                     </unittitle>
+                     <unitdate>1905 Oct 7</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref256" level="file">
+                  <did>
+                     <unittitle>John Henry Comstock to 
+                                <persname>Mosher, Clelia Duel</persname>
+                     </unittitle>
+                     <unitdate>10-Oct-05</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref257" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Mosher, Clelia Duel</persname> to Dr. Charles D. Walcott</unittitle>
+                     <unitdate>11-Oct-05</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref258" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Mosher, Clelia Duel</persname> to Dr. William H. Howell</unittitle>
+                     <unitdate>12-Oct-05</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref259" level="file">
+                  <did>
+                     <unittitle>N.M. Gilbert to 
+                                <persname>Mosher, Clelia Duel</persname>
+                     </unittitle>
+                     <unitdate>13-Oct-05</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref260" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Mosher, Clelia Duel</persname> to Professor Comstock</unittitle>
+                     <unitdate>16-Oct-05</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref261" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Mosher, Clelia Duel</persname> to Dr. Howard A. Kelly</unittitle>
+                     <unitdate>1905 Oct 16</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref262" level="file">
+                  <did>
+                     <unittitle>N.M. Gilbert to 
+                                <persname>Mosher, Clelia Duel</persname>
+                     </unittitle>
+                     <unitdate>1905 Oct 17</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref263" level="file">
+                  <did>
+                     <unittitle>N.M. Gilbert to C.H. Gilbert</unittitle>
+                     <unitdate>1905 Oct 25</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref264" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Mosher, Clelia Duel</persname> to Dr. William H. Welch</unittitle>
+                     <unitdate>1906 Jan 9</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref265" level="file">
+                  <did>
+                     <unittitle>R.S. Woodward to 
+                                <persname>Mosher, Clelia Duel</persname>
+                     </unittitle>
+                     <unitdate>1906 Jan 15</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref266" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Mosher, Clelia Duel</persname> to Hon. Charles W. Walcott</unittitle>
+                     <unitdate>1906 Jan 9</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref267" level="file">
+                  <did>
+                     <unittitle>Postal Receipt</unittitle>
+                     <unitdate>1906 Jan 9</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref268" level="file">
+                  <did>
+                     <unittitle>R.S. Woodward to 
+                                <persname>Mosher, Clelia Duel</persname>
+                     </unittitle>
+                     <unitdate>25-Jan-06</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref269" level="file">
+                  <did>
+                     <unittitle>David Starr Jordan to Florence M. Cushing</unittitle>
+                     <unitdate>1909 Jan 9</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref270" level="file">
+                  <did>
+                     <unittitle>D. Charles Gardner to Florence M. Cushing</unittitle>
+                     <unitdate>1909 Jan 12</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref271" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Mosher, Clelia Duel</persname> to Mrs. N.P. Hallowell</unittitle>
+                     <unitdate>1909 Jan 23</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref272" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Mosher, Clelia Duel</persname> to Florence M. Cushing, January 23, 1909</unittitle>
+                     <unitdate>1909 Jan 24</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref273" level="file">
+                  <did>
+                     <unittitle>Sarah Hallowell to 
+                                <persname>Mosher, Clelia Duel</persname>, reverse side: 
+                                <persname>Mosher, Clelia Duel</persname> to Mrs. N.P. Hallowell</unittitle>
+                     <unitdate>1909 Jan 28, Feb 3</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref274" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Mosher, Clelia Duel</persname> to Dr. Emily Lewi</unittitle>
+                     <unitdate>1910 Jan 17</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref275" level="file">
+                  <did>
+                     <unittitle>Mrs. Dane Coolidge to Dr. Emily Lewi</unittitle>
+                     <unitdate>1910 Jan 19</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref276" level="file">
+                  <did>
+                     <unittitle>Sarah Hallowell to 
+                                <persname>Mosher, Clelia Duel</persname>
+                     </unittitle>
+                     <unitdate>1909 Mar 3</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref277" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Mosher, Clelia Duel</persname> to Mrs. N.P. Hallowell</unittitle>
+                     <unitdate>1909 Mar 9</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref278" level="file">
+                  <did>
+                     <unittitle>Sarah Hallowell to 
+                                <persname>Mosher, Clelia Duel</persname>
+                     </unittitle>
+                     <unitdate>1909 Mar 20</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref279" level="file">
+               <did>
+                  <unittitle>Sheet headed Enclosures</unittitle>
+                  <physdesc>
+                     <extent>1 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref281" level="file">
+               <did>
+                  <unittitle>Sheet headed Previous Record (Academic)</unittitle>
+                  <physdesc>
+                     <extent>1 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref283" level="file">
+               <did>
+                  <unittitle>Outline of A Study of Menstruation</unittitle>
+                  <physdesc>
+                     <extent>4 pages, second copy, 3 pages.</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref285" level="file">
+               <did>
+                  <unittitle>
+                     <persname>Mosher, Clelia Duel</persname> to Dr. Emily Lewi</unittitle>
+                  <unitdate>1910 Jan 18</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref286" level="file">
+               <did>
+                  <unittitle>Normal Menstruation and the Factors Which May Modify It</unittitle>
+                  <physdesc>
+                     <extent>1 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref288" level="file">
+               <did>
+                  <unittitle>Notes</unittitle>
+                  <physdesc>
+                     <extent>3 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref290" level="file">
+               <did>
+                  <unittitle>Information on Fellowship of the Woman's Education Association</unittitle>
+                  <physdesc>
+                     <extent>1 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref292" level="file">
+               <did>
+                  <unittitle>Information on Alice Freeman Palmer Memorial Fellowship</unittitle>
+                  <physdesc>
+                     <extent>1 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref294" level="file">
+               <did>
+                  <unittitle>Typed pages re: normal menstruation</unittitle>
+                  <physdesc>
+                     <extent>2 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref296" level="file">
+               <did>
+                  <unittitle>Mary Roberts Coolidge to 
+                            <persname>Mosher, Clelia Duel</persname>
+                  </unittitle>
+                  <unitdate>1910 Jan 20</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref297" level="file">
+               <did>
+                  <unittitle>List of persons written to for recommendations.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref298" level="file">
+               <did>
+                  <unittitle>
+                     <persname>Mosher, Clelia Duel</persname> to C.D. Gilbert</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref299" level="file">
+               <did>
+                  <unittitle>Information sheet on Mary Putnam Jacobi Fellowship</unittitle>
+                  <physdesc>
+                     <extent>1 page(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref301" level="file">
+               <did>
+                  <unittitle>Personal Hygiene for Women, book cover.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref303" level="file">
+               <did>
+                  <unittitle>J.H. Comstock re: 
+                            <persname>Mosher, Clelia Duel</persname>
+                  </unittitle>
+                  <unitdate>1891 Aug 29</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref305" level="file">
+               <did>
+                  <unittitle>Sarah Woodman Paul re: 
+                            <persname>Mosher, Clelia Duel</persname>
+                  </unittitle>
+                  <unitdate>1891 Sep 7</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref306" level="file">
+               <did>
+                  <unittitle>Sarah Woodman Paul to Secretary of Wisconsin University</unittitle>
+                  <unitdate>1891 Sep 7</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref307" level="file">
+               <did>
+                  <unittitle>Certification of 
+                            <persname>Mosher, Clelia Duel</persname>'s dismission from Wellesley</unittitle>
+                  <unitdate>1891 Sep 7</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref308" level="file">
+               <did>
+                  <unittitle>Sheet on 
+                            <persname>Mosher, Clelia Duel</persname>'s German education</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref309" level="file">
+               <did>
+                  <unittitle>Certification of 
+                            <persname>Mosher, Clelia Duel</persname>'s studies</unittitle>
+                  <unitdate>1892 Jun 15</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref310" level="file">
+               <did>
+                  <unittitle>Certification of honorable dismissal from University of Wisconsin</unittitle>
+                  <unitdate>1892 Jun 17</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref311" level="file">
+               <did>
+                  <unittitle>Certification of Admission to Stanford</unittitle>
+                  <unitdate>1892 Jul 7</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref312" level="file">
+               <did>
+                  <unittitle>Ellen Hayes to 
+                            <persname>Mosher, Clelia Duel</persname>
+                  </unittitle>
+                  <unitdate>1894 Oct 30</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref313" level="file">
+               <did>
+                  <unittitle>C.F. Hodges re: 
+                            <persname>Mosher, Clelia Duel</persname>
+                  </unittitle>
+                  <unitdate>1896 Jan 10</unitdate>
+                  <physdesc>
+                     <extent>2 copies.</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref315" level="file">
+               <did>
+                  <unittitle>C.H. Gilbert re: 
+                            <persname>Mosher, Clelia Duel</persname>, and copy.</unittitle>
+                  <unitdate>1896 Apr 16</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref316" level="file">
+               <did>
+                  <unittitle>
+                     <persname>Mosher, Clelia Duel</persname> to registrar of Johns Hopkins University</unittitle>
+                  <unitdate>1896 Apr 11</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref317" level="file">
+               <did>
+                  <unittitle>O.P. Jenkins re: 
+                            <persname>Mosher, Clelia Duel</persname>
+                  </unittitle>
+                  <unitdate>1896 Apr 22</unitdate>
+                  <physdesc>
+                     <extent>3 copies.</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref319" level="file">
+               <did>
+                  <unittitle>
+                     <persname>Mosher, Clelia Duel</persname> to Dr. William H. Welch</unittitle>
+                  <unitdate>1896 Jun 30</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref320" level="file">
+               <did>
+                  <unittitle>Photograph Johns Hopkins University.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref321" level="file">
+               <did>
+                  <unittitle>Photograph Dr. William H. Welch and President Herbert Hoover.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref322" level="file">
+               <did>
+                  <unittitle>Note Jim Flexus (?) to Dr. Herdin</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref323" level="file">
+               <did>
+                  <unittitle>William Welch to 
+                            <persname>Mosher, Clelia Duel</persname>
+                  </unittitle>
+                  <unitdate>1896 May 5, Jul 13, Aug 12</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref324" level="file">
+               <did>
+                  <unittitle>Steward W. Young re: 
+                            <persname>Mosher, Clelia Duel</persname>
+                  </unittitle>
+                  <unitdate>1896 Jul 23</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref325" level="file">
+               <did>
+                  <unittitle>D.W. Murphy re: 
+                            <persname>Mosher, Clelia Duel</persname>
+                  </unittitle>
+                  <unitdate>1896 Jul 27</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref326" level="file">
+               <did>
+                  <unittitle>Note signed H.A. Kelly regarding employment of 
+                            <persname>Mosher, Clelia Duel</persname>.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref327" level="file">
+               <did>
+                  <unittitle>W.H. Howell to 
+                            <persname>Mosher, Clelia Duel</persname>
+                  </unittitle>
+                  <unitdate>1900 Jun 11</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref328" level="file">
+               <did>
+                  <unittitle>Henry M. Hurd to 
+                            <persname>Mosher, Clelia Duel</persname>
+                  </unittitle>
+                  <unitdate>1900 Jun 27</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref329" level="file">
+               <did>
+                  <unittitle>Frederick Burk to 
+                            <persname>Mosher, Clelia Duel</persname>
+                  </unittitle>
+                  <unitdate>1901 Feb 19</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref330" level="file">
+               <did>
+                  <unittitle>
+                     <persname>Mosher, Clelia Duel</persname> to Frederick Burk</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref331" level="file">
+               <did>
+                  <unittitle>Frederick Burk to 
+                            <persname>Mosher, Clelia Duel</persname>
+                  </unittitle>
+                  <unitdate>1901 Mar 11, Apr 4</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref332" level="file">
+               <did>
+                  <unittitle>Certification of Credentials - Stanford</unittitle>
+                  <unitdate>1937 Feb 27</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref333" level="series">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">3</container>
+               <unittitle>Wellesley College items</unittitle>
+            </did>
+            <c02 id="ref334" level="file">
+               <did>
+                  <unittitle>Envelope containing small bound book from Wellesley pertaining to college requirements.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref335" level="file">
+               <did>
+                  <unittitle>Book of College Courses.</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref336" level="series">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">4</container>
+               <unittitle>Diplomas and miscellaneous items</unittitle>
+            </did>
+            <c02 id="ref337" level="file">
+               <did>
+                  <unittitle>Honorary Degree Mills</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref338" level="file">
+               <did>
+                  <unittitle>Sigma XI Award</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref339" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic" linktype="simple">Comrades in Zeal,</title> by David Starr Jordan.</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref340" level="series">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">5</container>
+               <unittitle>Bound Diaries</unittitle>
+               <unitdate>1917, 1922, 1924</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref341" level="series">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">6</container>
+               <unittitle>Studies and publications</unittitle>
+            </did>
+            <c02 id="ref342" level="file">
+               <did>
+                  <unittitle>"Possistoreme Stouti (Hag Fish) From Monterey Bay"</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref343" level="file">
+               <did>
+                  <unittitle>"A Study of the Circulatory System, in the Zoological Laboratory of the Leland Stanford Junior University"</unittitle>
+                  <unitdate>1892-1893</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref344" level="file">
+               <did>
+                  <unittitle>Bound volume, publications by 
+                            <persname>Mosher, Clelia Duel</persname>
+                  </unittitle>
+                  <unitdate>1901-1929</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref345" level="series">
+            <did>
+               <container type="Box">3</container>
+               <unittitle>
+                  <title render="italic" linktype="simple">Hygiene and Physiology of Women</title>
+               </unittitle>
+               <dao linktype="simple"
+                    actuate="onrequest"
+                    title="Volume X: Sex Survey"
+                    role="Mixed Material"
+                    href="http://purl.stanford.edu/sr010vc5273"
+                    show="new">
+                  <daodesc>
+                     <p>Volume X: Sex Survey</p>
+                  </daodesc>
+               </dao>
+            </did>
+            <scopecontent>
+               <p>Bound volumes I, III, IV, V, VI, and X. Includes reports, charts, papers, and correspondence of Dr. Mosher. Volume X is Mosher's "sex survey."</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref347" level="series">
+            <did>
+               <container type="Box">3</container>
+               <unittitle>
+                  <title render="italic" linktype="simple">The Moshers, 1794-1937, and Related Families, Vol. II: Christopher Mosher, His Descendants and Related Families</title>
+               </unittitle>
+            </did>
+            <scopecontent>
+               <p>This bound genealogy includes history of related persons, photographs, certificates and some correspondence, clips and sketches.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref349" level="series">
+            <did>
+               <container type="Box">4</container>
+               <unittitle>Biography, by Clelia Duel Mosher; bound volumes</unittitle>
+            </did>
+            <c02 id="ref350" level="file">
+               <did>
+                  <unittitle>I. Women - includes articles on prominent women, women soldiers, women candidates for president, etc.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref351" level="file">
+               <did>
+                  <unittitle>II. The Woman Movement - studies and notes.</unittitle>
+               </did>
+               <scopecontent>
+                  <p>contains Susan B. Anthony, Cady Stanton, and other suffragettes.</p>
+               </scopecontent>
+               <controlaccess>
+                  <persname rules="aacr" source="ingest">Anthony, Susan B.,  (Susan Brownell), 1820-1906.</persname>
+                  <persname rules="aacr" source="lcnaf">Astell, Mary, 1668-1731.</persname>
+                  <persname rules="aacr" source="lcnaf">Stanton, Elizabeth Cady, 1815-1902.</persname>
+                  <persname rules="aacr" source="lcnaf">Wollstonecraft, Mary, 1759-1797.</persname>
+                  <persname rules="aacr" source="lcnaf">Woodhull, Victoria C.,  (Victoria Claflin), 1838-1927.</persname>
+                  <subject source="lcsh">Feminism--United States.</subject>
+                  <subject source="lcsh">Women--Suffrage.</subject>
+               </controlaccess>
+            </c02>
+            <c02 id="ref353" level="file">
+               <did>
+                  <unittitle>III. Mary Astell, Part 1: Biographical material. Part 2: Works.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref354" level="file">
+               <did>
+                  <unittitle>IV. Paul Bert - His Family - His Friends - includes clippings, photographs, correspondence.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref355" level="file">
+               <did>
+                  <unittitle>V. Eliza M. Mosher, M.D. - Pioneer Woman Physician, 1896-1928. Includes portrait, characteristics, occupations, letters, memorial, publications.</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref356" level="series">
+            <did>
+               <container type="Box">5</container>
+               <unittitle>Photograph album, Mosher Family</unittitle>
+            </did>
+         </c01>
+         <c01 id="ref357" level="series">
+            <did>
+               <container type="Box">6</container>
+               <unittitle>Publications by Mosher</unittitle>
+            </did>
+            <c02 id="ref358" level="file">
+               <did>
+                  <unittitle>
+                     <bibref linktype="simple">
+                        <title render="italic" linktype="simple">Woman's Physical Freedom, </title>
+                        <imprint>New York: The Woman's Press</imprint>
+                     </bibref>
+                  </unittitle>
+                  <unitdate>1923</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref359" level="file">
+               <did>
+                  <unittitle>
+                     <bibref linktype="simple">
+                        <title render="italic" linktype="simple">"Strength of Women," </title>reprinted from the 
+                                <title render="italic" linktype="simple">Proceedings of the International Conference of Women Physicians, </title>
+                     </bibref>
+                  </unittitle>
+                  <unitdate>1920</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref360" level="file">
+               <did>
+                  <unittitle>
+                     <bibref linktype="simple">
+                        <title render="italic" linktype="simple">"The Height of College Women (Second Note),"</title> reprinted from the 
+                                <title render="italic" linktype="simple">Medical Woman's Journal, </title>
+                     </bibref>
+                  </unittitle>
+                  <unitdate>1921 Nov</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref361" level="file">
+               <did>
+                  <unittitle>
+                     <bibref linktype="simple">
+                        <title render="italic" linktype="simple">"Concerning the Size of Women: Preliminary Note with Special Reference to Height," </title>reprinted from the 
+                                <title render="italic" linktype="simple">California State Journal of Medicine, </title>
+                     </bibref>
+                  </unittitle>
+                  <unitdate>1921 Feb</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref362" level="file">
+               <did>
+                  <unittitle>
+                     <bibref linktype="simple">
+                        <title render="italic" linktype="simple"> "The Means to the End," </title>reprinted from the 
+                                <title render="italic" linktype="simple">American Physical Education Review, </title>
+                     </bibref>
+                  </unittitle>
+                  <unitdate>1925 Dec</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref363" level="file">
+               <did>
+                  <unittitle>
+                     <bibref linktype="simple">
+                        <title render="italic" linktype="simple">"The Physical Training of Women in Relation to Functional Periodicity,"</title> reprinted from 
+                                <title render="italic" linktype="simple">The Woman's Medical Journal, </title>
+                     </bibref>
+                  </unittitle>
+                  <unitdate>1915 Apr</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref364" level="file">
+               <did>
+                  <unittitle>
+                     <bibref linktype="simple">
+                        <title render="italic" linktype="simple">"A Physiologic Treatment of Congestive Dysmenorrhea and Kindred Disorders Associated with the Menstrual Function," </title>reprinted from the 
+                                <title render="italic" linktype="simple">Journal of the American Medical Association, </title>
+                     </bibref>
+                  </unittitle>
+                  <unitdate>1914 Apr</unitdate>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

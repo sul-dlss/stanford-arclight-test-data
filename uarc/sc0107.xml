@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[Harry C. Peterson papers])//EN"
+             identifier="ark:/13030/kt267nf1wb">sc0107.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Harry C. Peterson Papers
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Peterson (Harry C.) Papers</titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2010-10">October 2010</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC0107</unitid>
+         <origination label="Creator:">
+            <persname rules="aacr" source="ingest">Peterson, Harry C.</persname>
+         </origination>
+         <unittitle label="Title:">Harry C. Peterson papers</unittitle>
+         <unitdate normal="1879/1936"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1879-1936</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>1.75 Linear feet</extent>
+         </physdesc>
+         <abstract label="Summary:">Includes administrative and personal correspondence, 1888-1936; reports, statistics, acquisition records, exhibit captions, and publications of the Stanford Museum, 1894-1917; and research materials compiled by Peterson on the Gold Spike (ceremonial spike used to connect the Union Pacific and Central Pacific Railroads), Stanford history, and Peter Coutts, including an original letter by Coutts, 1879. Peterson's major correspondent was David Hewes and there is some printed material on Hewes in the collection. Also includes copies of his newspaper column "The Story of Stanford University," 1919.</abstract>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <accessrestrict id="ref3">
+            <head>Information about Access</head>
+            <p>This collection is open for research.</p>
+         </accessrestrict>
+         <userestrict id="ref4">
+            <head>Ownership &amp; Copyright</head>
+            <p>All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Special Collections and University Archives, Stanford University Libraries, Stanford, California 94304-6064. Consent is given on behalf of Special Collections as the owner of the physical items and is not intended to include or imply permission from the copyright owner. Such permission must be obtained from the copyright owner, heir(s) or assigns. See: http://library.stanford.edu/depts/spc/pubserv/permissions.html.</p>
+            <p>Restrictions also apply to digital representations of the original materials. Use of digital files is restricted to research and educational purposes.</p>
+         </userestrict>
+         <prefercite id="ref5">
+            <head>Cite As</head>
+            <p>Harry C. Peterson Papers (SC0107). Department of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <bioghist id="ref6">
+         <head>Biographical/Historical Sketch</head>
+         <p>Peterson, born in Iowa in 1876, was curator of the Stanford Museum from 1900-1917; after leaving Stanford, he directed the Sutter's Fort Museum in Sacramento.</p>
+      </bioghist>
+      <scopecontent id="ref7">
+         <head>Description of the Collection</head>
+         <p>Collection includes administrative and personal correspondence, 1888-1936; reports, statistics, acquisition records, exhibit captions, and publications of the Stanford Museum, 1894-1917; glass slides of Stanford images probably used to illustrate talks; and research materials compiled by Peterson on the Gold Spike (ceremonial spike used to connect the Union Pacific and Central Pacific Railroads), Stanford history, and Peter Coutts, including an original letter by Coutts, 1879. Peterson's major correspondent was David Hewes and there is some printed material on Hewes in the collection. Also includes copies of his newspaper column "The Story of Stanford University," 1919.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <persname rules="aacr" source="naf">Coutts, P. J. F. (Peter J. F.)</persname>
+         <persname rules="aacr" source="ingest">Hewes, David.</persname>
+         <persname rules="aacr" source="ingest">Peterson, Harry C.</persname>
+         <corpname rules="dacs" source="naf">Stanford University. Museum of Art</corpname>
+         <subject source="local">Gold Spike.</subject>
+         <subject source="lcsh">Museums.</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.6">
+         <head>Collection Contents</head>
+         <c01 id="ref8" level="series">
+            <did>
+               <unittitle>Papers</unittitle>
+            </did>
+            <c02 id="ref9" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Correspondence (incoming and outgoing), 1888-1901</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref10" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Correspondence (incoming and outgoing), 1902-1904</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref11" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Correspondence (incoming and outgoing), 1905-1906</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref12" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Correspondence (incoming and outgoing), 1907-909</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref13" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Correspondence (incoming and outgoing), 1910-1912</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref14" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Correspondence (incoming and outgoing), 1913-1914</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref15" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Correspondence (incoming and outgoing), 1915-1917</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref16" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Correspondence (incoming and outgoing), 1918-1931</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref17" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Correspondence (incoming and outgoing), 1932-1936</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref18" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Stanford Museum: annual reports, 1902, 1910-17</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref19" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Stanford Museum: attendance statistics (1894-1917); other business papers</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref20" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Stanford Museum: daily account of acquisitions, May 1900-Feb. 1901</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref21" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Stanford Museum: guidebooks, rules for visitors, donor cards, and other publications</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref22" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Stanford Museum: articles and clippings about the Museum</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref23" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">15</container>
+                  <unittitle>Stanford Museum: miscellaneous (notes for arrangement of exhibits, loan forms, notes on acquisitions)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref24" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">16</container>
+                  <unittitle>Stanford Museum: gifts of David Hewes</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref25" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">17</container>
+                  <unittitle>Stanford Museum: lace collection</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref26" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">18</container>
+                  <unittitle>Stanford Museum: requisition forms, 1909-13</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref27" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Stanford Museum: early California history collection (captions)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref28" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Stanford Museum: Japanese collection (captions, etc.)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref29" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Stanford Museum: painting and fine arts collections (captions)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref30" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Stanford Museum: Egyptian collection (captions)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref31" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Stanford Museum: Stanford family collection (captions)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref32" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Stanford Museum: collections, miscellaneous (captions)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref33" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Stanford Museum: notes on arrangement of exhibits</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref34" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">8</container>
+                  <unittitle>David Hewes and the Gold Spike (notes taken by Peterson from Mr. Hewes’ account</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref35" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">9</container>
+                  <unittitle>David Hewes: printed material about (obituary, booklet on the David Hewes building, magazine articles)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref36" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">10</container>
+                  <unittitle>List of photographs, CPPR stereos and views of Stanford University [possibly photos taken or owned by H.C.P.]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref37" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Mosaics, material about (collected by H.C.P.)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref38" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Peter Coutts: research notes and original material about (includes April 4, 1879 Coutts original letter, signed)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref39" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Stanford Historical Association</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref40" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Museum: catalog lists</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref41" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>“The Story of Stanford University,” copies from microfilm of Peterson’s newspaper column, bound volume (2 copies)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref42" level="file">
+               <did>
+                  <container type="Box">OS</container>
+                  <unittitle>“The Story of Stanford University,” bound [original clippings?]</unittitle>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,1130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[San Francisco earthquake and fire collection])//EN"
+             identifier="ark:/13030/kt196nd8hx">sc0206.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the San Francisco Earthquake and Fire Collection
+                    </titleproper>
+            <titleproper type="filing" audience="internal">San Francisco Earthquake and Fire Collection</titleproper>
+            <author>compiled by Stanford University Archives staff</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University Libraries.</publisher>
+            <publisher>Dept. of Special Collections &amp; University Archives.</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2010">2010</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date normal="2015-03">March 2015</date>
+            <item/>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC0206</unitid>
+         <origination label="Creator:">
+            <persname rules="aacr" source="local">Smith, Willet.</persname>
+         </origination>
+         <origination label="Creator:">
+            <persname rules="dacs" source="local">Wallace, W.B.</persname>
+         </origination>
+         <unittitle label="Title:">San Francisco earthquake and fire collection</unittitle>
+         <unitdate normal="1906/1979"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1906-1979</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>5.5 Linear feet (7 boxes)</extent>
+         </physdesc>
+         <abstract label="Summary:">Eyewitness accounts of the 1906 earthquake at Stanford; eyewitness account of earthquake damage to the Stanford and Hopkins houses in San Francisco; and magazine and newspaper accounts of the earthquake and its aftermath.</abstract>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Dept. of Special Collections &amp; University Archives.</corpname>
+            <address>
+               <addressline>Stanford University Libraries.</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: speccollref@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <accessrestrict id="ref3">
+            <head>Information about Access</head>
+            <p>Collection is open for research; materials must be requested at least 24 hours in advance of intended use.</p>
+         </accessrestrict>
+         <userestrict id="ref4">
+            <head>Ownership &amp; Copyright</head>
+            <p>Property rights reside with the repository. Literary rights reside with the creators of the documents or their heirs. To obtain permission to publish or reproduce, please contact the Public Services Librarian of the Dept. of Special Collections.</p>
+         </userestrict>
+         <prefercite id="ref5">
+            <head>Cite As</head>
+            <p>[identification of item], San Francisco Earthquake and Fire Collection (SC0216), Department of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <scopecontent id="ref6">
+         <head>Scope and Content of Collection</head>
+         <p>The collection includes eyewitness accounts of the 1906 earthquake at Stanford; and eyewitness account of earthquake damage to the Stanford and Hopkins houses in San Francisco by Ah Wing, employee of the Stanford family (in Chinese with an English translation). Also included are magazine and newspaper accounts of the earthquake and its aftermath; and a 1908 map of San Francisco showing reconstruction of the city.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <persname rules="aacr" source="local">Beymer, Jeannette Hayward</persname>
+         <persname rules="aacr" source="local">Bishop, Beryl Boewell</persname>
+         <persname rules="aacr" source="local">Burr, Myron Carlos, 1884-1977</persname>
+         <persname rules="aacr" source="ingest">Clark, George A. (George Archibald), 1865-1918.</persname>
+         <persname rules="aacr" source="naf">Evans-Wentz, W. Y. (Walter Yeeling), 1878-1965</persname>
+         <persname rules="aacr" source="local">Franklin, E. C.</persname>
+         <persname rules="aacr" source="local">James, William, Mrs.</persname>
+         <persname rules="aacr" source="naf">Jordan, David Starr, 1851-1931</persname>
+         <persname rules="aacr" source="naf">Klauber, Laurence Monroe, 1883-1968 </persname>
+         <persname rules="aacr" source="local">Marx, Charles David, 1858-1940</persname>
+         <persname rules="aacr" source="naf">Mosher, Clelia Duel, 1863-1940</persname>
+         <corpname rules="dacs" source="local">Otto Gerdes Fund.</corpname>
+         <persname rules="aacr" source="local">Smith, Edgar C.</persname>
+         <persname rules="aacr" source="local">Smith, Ernst Nathaniel</persname>
+         <persname rules="aacr" source="local">Stansky, Leo</persname>
+         <persname rules="aacr" source="naf">Treat, Payson J. (Payson Jackson), 1879-1972</persname>
+         <persname rules="aacr" source="local">Wing, Ah</persname>
+         <subject source="lcsh">San Francisco Earthquake and Fire, Calif., 1906</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.5">
+         <head>Collection Contents</head>
+         <c01 id="ref7" level="series">
+            <did>
+               <unitid>Series 1</unitid>
+               <unittitle>Eyewitness Accounts</unittitle>
+            </did>
+            <c02 id="ref33" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">24</container>
+                  <unittitle>Bertheau, Rudolf Jordan: reminiscences from his scrapbook [copy]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref8" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Beymer, Jeannette Hayward: "When Our University Shook," reprinted from 
+                            <title render="italic" linktype="simple">Stanford Review</title> [typescript]</unittitle>
+                  <unitdate>1931 Apr</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref9" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Bishop, Beryl Boewell: typescript (carbon), signed and annotated by author</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref10" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Burr, Myron</unittitle>
+               </did>
+               <c03 id="ref72" level="item">
+                  <did>
+                     <unittitle>"Quake Notes: aftermath of the great shake up; Monrovians all safe." 
+                                <title render="italic" linktype="simple">Monrovia Newspaper</title>
+                     </unittitle>
+                     <unitdate>1906 Apr 18</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref73" level="item">
+                  <did>
+                     <unittitle>Telegram: Myron C. Burr to F. W. Burr [copy]</unittitle>
+                     <unitdate>1906 Apr 20</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref11" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Clark, George A.</unittitle>
+               </did>
+               <c03 id="ref74" level="item">
+                  <did>
+                     <unittitle>Letter to family</unittitle>
+                     <unitdate>1906 Apr 27</unitdate>
+                     <physdesc>
+                        <extent>4 page(s)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref75" level="item">
+                  <did>
+                     <unittitle>Letter to classmates</unittitle>
+                     <unitdate>1906 Jun 2</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref12" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">4.1</container>
+                  <unittitle>Elwell, C. F. "I Was There; The San Francisco Earthquake, 1906," typescript of British Broadcasting Corporation talk.</unittitle>
+                  <unitdate>1937 Feb 19</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref13" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Franklin, E. C. (professor): Letter to "Billy" [William C. Stevens]</unittitle>
+                  <unitdate>1906 Apr 26</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref14" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">6</container>
+                  <unittitle>James, Mrs. William: Letter to family, typescript [copy]</unittitle>
+                  <unitdate>1906 Apr 18</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref29" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">20</container>
+                  <unittitle>Jossel, Talbert: "Reminiscences," newsclipping, Monterey, CA</unittitle>
+                  <unitdate>1956 Apr 16-18</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref15" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Klauber, Laurence M. ('08)</unittitle>
+               </did>
+               <c03 id="ref76" level="file">
+                  <did>
+                     <unittitle>"Two Days in San Francisco: Year - 1906," privately printed</unittitle>
+                     <unitdate>1958?</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref77" level="item">
+                  <did>
+                     <unittitle>Reprinting of a letter to Alice Klauber with footnotes and supplement [2 copies]</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref78" level="item">
+                  <did>
+                     <unittitle>"Two Days in San Francisco – 1906" with preface by Molly McClain, from Winter/Spring 2005 
+                                <title render="italic" linktype="simple">Journal of San Diego History</title> [reprint]</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref35" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">26</container>
+                  <unittitle>Lyman, Georgina (A.B. 1907): newspaper edition of her letters to family following earthquake plus one photograph</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref16" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Mosher, Clelia Duel: "What the earthquake did at Palo Alto: an illustrated letter," copy 1 (incomplete)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref17" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Mosher, Clelia Duel: "What the earthquake did at Palo Alto, and afterward: an illustrated letter," copy ,2 bound, illustrated (photographs, cyanotypes, postcards, maps, ephemera) in three parts</unittitle>
+               </did>
+               <scopecontent>
+                  <p>With "Notes and Comments" by Guy Miller, February 6, 1946.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref32" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">23</container>
+                  <unittitle>Pierce, Garetta Hatch: Letter to family [photocopy]</unittitle>
+                  <unitdate>[1906 Apr]</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref105" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">19</container>
+                  <unittitle>Show, Arley B., letters to E.V. Henler</unittitle>
+                  <unitdate>1907 Mar 15 and Apr 29</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref18" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Smith, Edgar C.: Excerpts from Genealogy and Personal Memoirs, "The Earthquake," [copy, newsclipping included]</unittitle>
+                  <unitdate>1965 Apr 14</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref19" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Smith, Ernest Nathanial: Letter to "Aunt Jessie," copy</unittitle>
+                  <unitdate>1906 May 10</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref143" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Smith, Willett: letters to family</unittitle>
+                  <unitdate>1906 Apr 20-May 20</unitdate>
+               </did>
+               <scopecontent>
+                  <p>Autograph postcard and 5 autograph letters, singed in pencil, to his mother and sisters in long Island, NY. 41 pages in all.</p>
+                  <p>On the night before the quake, a young resident of Long Island, Everett Smith, arrived in the city with a friend and checked into a rooming house. At 5: 13 am the earthquake struck, and two days later, Smith manages to scribble the following note to his mother back home: "Got Out of the earth quake &amp; fire all OK Am stopping in the sand hills on the beach. The town is completely gone. Good Bye. Willett"</p>
+                  <p>In a series on six letters, Smith describes his experiences. On April 22, he writes: "I got here at six oclock with my friend and we went around town and took in the Sights and my friend and I looked for a rooming house for the night and we was going up to one of the big places but I dont know what told me it seems it was nature not to go and I didnt so I went down to the water front and got a room at a place I knew. We went to bed about 11 o'clock and must have been sleeping on the edge of the bed because I was thrown on the floor by the shock. I and my friend tried to get Out of the room and the door was jammed. We bursted it to splinters. The stairs and halls was full of flying transomes and plaster. We rushed downstairs and across to the docks and we was dodging live wires and bricks and everything. There we were in our underclothes. The house went in a heap. We got a pair a pants and a jumper out of a broken clothing store window ." "[W]hen we came to our senses from the fright the whole town was blazing in twenty different places." "The fire burned so fierce it drove us up town and we had to run. It seemed the fire just roared."</p>
+                  <p>Smith writes vividly of the horrors he witnessed, describing conditions everywhere as such that "it can never be put in prim it was so terrible.' "Thousand of families have not got a blanket to put over them. The suffering is terrible with the women and children. I guess a thousand or more was killed by falling houses and pneumonia has set in and the dead wagons are overcrowded ... We was two days without a mouth full to eat ... i have stood it awful good but I don't know what I have been doing half of the time."</p>
+                  <p>In a letter of April 24, self-addressed from "The Ruins of San Francisco", Smith writes: "The thieving and pillaging is something terrible &amp; the troops have shot and killed lots of crooks ... the women are going plumb loco ... They won't go back in their houses and a good many have went out of their head ... the rich and poor are about alike here now ... I could not buy a loaf of bread if I had a million dollars. There isn't a baker shop in San Francisco that has an oven left. They have all got caved in by the quake ... "</p>
+                  <p>" ... Surely, I never expected to be alive and writing to you today ... I have been out of doors ever since Wednesday morning 5 1/ 2 o'clock - We were all packed to leave, the hotel is burned down it rocked so we could not stand to get Our clothes on and got our trunks in the street - we paid $7.00 to get our two trunks to the park - There are thousands of people here, rich &amp; poor - no one has anything, but a few bed clothes and clothes, the whole town is burned up, you can't tell the streets - We sat in the first park we got to until the fire reached us and sawall the main part of the town burn - such pitiful sights you never heard of - people men &amp; women carrying their goods all day and night. I did not see any of the dead but there are hundreds dead and wounded - There was a baby born in the Park Wednesday night - we sleep under the trees - the Government is feeding us - they dole out rations you stand in a line guarded by the soldiers and are given whatever they have to give ... yesterday evening one line was 10 thousand people long - we build fires to cook by, but have to out them out at night ... the millionaires are sending food to us - and will send tents to us as soon as they can be gotten. I am so shakey I can't hardly hold the pencil- But I am so thankful I am alive and not hurt ... "</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref20" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Stansky, Leo: Letter to Ralph Hansen</unittitle>
+                  <unitdate>1976 Jun 5</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref21" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">12.1</container>
+                  <unittitle>Talbot, Earle</unittitle>
+               </did>
+               <c03 id="ref80" level="item">
+                  <did>
+                     <unittitle>Letter [photocopy]</unittitle>
+                     <unitdate>1906 Apr 25</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref81" level="item">
+                  <did>
+                     <unittitle>Transcript of interview on the earthquake [photocopy]</unittitle>
+                     <unitdate>1972</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref145" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Tiwena, Jennie</unittitle>
+                  <unitdate>1906 Apr 20</unitdate>
+               </did>
+               <scopecontent>
+                  <p>Golden Gate Park San Francisco April 20 1906</p>
+                  <p>Dear Gussie,</p>
+                  <p>We are alive and not hurt thank Almighty God for it. I don't know whether I can write an intelligent or legible letter but I thought you all would like to know how we fared.Truly I never expected to be alive and writing to you today.This is a book leaf-if I can get an envelope I will send this, there are no stamps to be had. I wrote to you all on Monday night before the earth quake. I have been out of doors since Wednesday morning 3 o'clock. We were all packed to leave.The hotel is burned down,it rocked so we could not stand to get our clothes on,it was only 8 stories but we were on the 2nd floor.We got our clothes on and got our trunks in the street.We paid 7$ to get our trunks to the park.There are thousands of people here rich &amp; poor-no one has anything but a few bedclothes,the whole town is burned up,you can't tell the streets.We sat in the first park we got to until the fire reached us and saw all the main part of the town burn-such pitiful sights you never heard of-people,men and women carrying their goods all day and night. I did not see any of the dead but there are hundreds of dead and wounded.There was a baby born in the park Wednesday nite. We slept under the trees-the Government is feeding.^us-they ^out rations-you stand in a line guarded by soldiers and are given whatever they have to give-we have a place to eat and drink. Yesterday,one line was 10 thousand people long.We build fires to cook by but have to put them out at night.We will leave for Los Gatos as soon as possible.They will issue free tickets to all jggts of the U.S.The millionaires are sending food to us and will send tents as soon as they can be gotten.I am so shaky I can hardly hold the pencil.But I am so thankful I am alive and not hurt.O Lord,how thankful I am to be alive.We have not lost any thing yet out of here.One gentleman lent us a matress,two pillows, a blanket and a quilt.One night we had nothing but two pillows and a bench.I ache terribly but hate to'complain.I sent you a piece of cardboard yesterday but donlt know whether'you will get it. Do write to us when we get to Los Gatos-we have made some friends out here and are getting along very well if I can only keep well. We have nowhere so I guess we will survive,</p>
+                  <p>Jennie Tiwena</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref22" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Treat, Payson</unittitle>
+               </did>
+               <c03 id="ref82" level="item">
+                  <did>
+                     <unittitle>Letter to "Father"</unittitle>
+                     <unitdate>1906 Apr 18</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref83" level="item">
+                  <did>
+                     <unittitle>Letter to "Flora"</unittitle>
+                     <unitdate>1906 Apr 23</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref23" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Evans-Wentz, Walter Y.: Letters relating to incident during 1906 earthquake</unittitle>
+               </did>
+               <c03 id="ref84" level="item">
+                  <did>
+                     <unittitle>Wendell Ward, '07</unittitle>
+                     <unitdate>1967 Oct 15</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref85" level="item">
+                  <did>
+                     <unittitle>Sam Bryan, '10</unittitle>
+                     <unitdate>1967 Oct 17</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref86" level="item">
+                  <did>
+                     <unittitle>E. N. Squire, '42</unittitle>
+                     <unitdate>1967 Nov 17</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref87" level="item">
+                  <did>
+                     <unittitle>Samuel Bryan</unittitle>
+                     <unitdate> 1967 Nov 17</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref88" level="item">
+                  <did>
+                     <unittitle>Barbara Baker, '51</unittitle>
+                     <unitdate>1967 Dec 27</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref89" level="item">
+                  <did>
+                     <unittitle>Philip S. Brooke, '16</unittitle>
+                     <unitdate>1968 Jan 3</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref90" level="item">
+                  <did>
+                     <unittitle>Wendall Ward, '07</unittitle>
+                     <unitdate>1968 Jan</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref91" level="item">
+                  <did>
+                     <unittitle>Ralph C. Pollock, '06</unittitle>
+                     <unitdate>1968 Jan</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref92" level="item">
+                  <did>
+                     <unittitle>Leo C. Stanley</unittitle>
+                     <unitdate>1968 Jan 12</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref93" level="item">
+                  <did>
+                     <unittitle>Mifflin War</unittitle>
+                     <unitdate>1968 Jan 26</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref94" level="item">
+                  <did>
+                     <unittitle>C. L. Severy, '08,</unittitle>
+                     <unitdate>1968 Feb 8</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref24" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">15</container>
+                  <unittitle>Otto Gerdes Fund: Letter, photograph, and notebook re. fund</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref25" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">16</container>
+                  <unittitle>Official Statements of the University</unittitle>
+               </did>
+               <c03 id="ref95" level="item">
+                  <did>
+                     <unittitle>David Starr Jordan (President of the University)</unittitle>
+                     <unitdate>1906 Apr 19</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref96" level="item">
+                  <did>
+                     <unittitle>S. F. Leib (President of the Board of Trustees) and David Starr Jordan</unittitle>
+                     <unitdate>1906 Jul 12</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref26" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">17</container>
+                  <unittitle>Brilstol's Recording Voltmeter: record of Earthquake, with accompanying note, C.F. Elwell</unittitle>
+                  <unitdate>1906, 1950 Nov</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref27" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">18</container>
+                  <unittitle>Correspondence and broadsides re: relief efforts</unittitle>
+               </did>
+               <c03 id="ref97" level="item">
+                  <did>
+                     <unittitle>Harry C. Green to David Starr Jordan</unittitle>
+                     <unitdate>1910 Feb 26</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref98" level="item">
+                  <did>
+                     <unittitle>Notices to People of Palo Alto</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref99" level="item">
+                  <did>
+                     <unittitle>Relief Pass Cards</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref100" level="item">
+                  <did>
+                     <unittitle>
+                        <title render="italic" linktype="simple">Stanford Alumnus</title>, "No Backward Step For University," by David Starr Jordan</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref28" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">19</container>
+                  <unittitle>Letters to C. D. Marx re: Relief Work</unittitle>
+               </did>
+               <c03 id="ref101" level="item">
+                  <did>
+                     <unittitle>Mansfield Merriman</unittitle>
+                     <unitdate>1906 Apr 19</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref102" level="item">
+                  <did>
+                     <unittitle>Ernest ?</unittitle>
+                     <unitdate>1906 Apr 19</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref103" level="item">
+                  <did>
+                     <unittitle>Charles E. Buell</unittitle>
+                     <unitdate>1906 Apr 20</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref104" level="item">
+                  <did>
+                     <unittitle>Dugald C. Jackson</unittitle>
+                     <unitdate>1906 May 3</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref147" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unitid>Accession ARCH-2015-073</unitid>
+                  <unittitle>Wallace, W.B.</unittitle>
+                  <unitdate>1906 June 7</unitdate>
+               </did>
+               <scopecontent>
+                  <p>An autograph letter signed "W.B. Wallace " on "Superior Court Chambers" letterhead.</p>
+                  <p>He wrote to Mrs. Wallace M. Bartlett of Louisville, Kentucky:</p>
+                  <p>"You must pardon me for the long delay in answering your letter reminding me of my promise to visit my Kentucky kinsmen this year. Since April 18th a day of disaster in this state all plans for the present year had to be re-formed and in many cases abandoned. We have all been living in a state of uncertainty. Every day since April 18th up to last Monday has been a legal holiday. It became necessary for the Governor to declare successive holidays in order that the banks throughout the state could arrange to safely resume business and that the Legislature might be convened in extra session and enact some new laws necessary to protect property rights suddenly imperiled by the great calamity that befell San Francisco and other near by places on that date. A cessation of judicial business for forty-five days has left the trial courts with congested dockets rendering it necessary for most of the judges to continue holding court during the usual summer period for vacation. Unhappily I find myself in this situation and I will be unable to leave the state during his year ... Fortunately none of us were injured by the great earthquake. The shock here was slight and no property was injured. My daughter Ethel was at Stanford University when it occurred. The University is about sixty miles from San Francisco. It suffered a loss of about $4,000,000 in the destruction and injury of many fine buildings. Two lives were lost one being that of a student and six other students were quite badly injured. Communication with the outside world was immediately interrupted and it was several days before we could get direct news from Ethel. She was not injured though when the shock occurred near 5 o'clock in the morning she and her companions thought the world was coming to an end when the furniture was being tossed about the room and she could see the fine structures of the university falling into shapeless masses of stone. It will be some time for our State to fully recover from the effects of so great a calamity but San Francisco will be rebuilt because of its almost matchless harbor and because it was proven that modern steel structures can stand uninjured after such an earthquake. To many of us who have known that city almost all of our lives it will not probably be the San Francisco of which we were so proud. The loss resulting from the earthquake there has been estimated at not more than $70,000,000 but the great fire with no water to stay its progress, increased the loss to thirty times that ... "</p>
+                  <p>An autograph letter signed "W.B. Wallace " on "Superior Court Chambers" letterhead. He wrote to Mrs. Wallace M. Bartlett of Louisville, Kentucky: "You must pardon me for the long delay in answering your letter reminding me of my promise to visit my Kentucky kinsmen this year. Since April 18th a day of disaster in this state all plans for the present year had to be re-formed and in many cases abandoned. We have all been living in a state of uncertainty. Every day since April 18th up to last Monday has been a legal holiday. It became necessary for the Governor to declare successive holidays in order that the banks throughout the state could arrange to safely resume business and that the Legislature might be convened in extra session and enact some new laws necessary to protect property rights suddenly imperiled by the great calamity that befell San Francisco and other near by places on that date. A cessation of judicial business for forty-five days has left the trial courts with congested dockets rendering it necessary for most of the judges to continue holding court during the usual summer period for vacation. Unhappily I find myself in this situation and I will be unable to leave the state during his year ... Fortunately none of us were injured by the great earthquake. The shock here was slight and no property was injured. My daughter Ethel was at Stanford University when it occurred. The University is about sixty miles from San Francisco. It suffered a loss of about $4,000,000 in the destruction and injury of many fine buildings. Two lives were lost one being that of a student and six other students were quite badly injured. Communication with the outside world was immediately interrupted and it was several days before we could get direct news from Ethel. She was not injured though when the shock occurred near 5 o'clock in the morning she and her companions thought the world was coming to an end when the furniture was being tossed about the room and she could see the fine structures of the university falling into shapeless masses of stone. It will be some time for our State to fully recover from the effects of so great a calamity but San Francisco will be rebuilt because of its almost matchless harbor and because it was proven that modern steel structures can stand uninjured after such an earthquake. To many of us who have known that city almost all of our lives it will not probably be the San Francisco of which we were so proud. The loss resulting from the earthquake there has been estimated at not more than $70,000,000 but the great fire with no water to stay its progress, increased the loss to thirty times that ... "</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref30" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">21</container>
+                  <unittitle>Wing, Ah: eyewitness account</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref31" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">22</container>
+                  <unittitle>Wing, Ah: eyewitness account [photocopies]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref34" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">25</container>
+                  <unittitle>Telegrams</unittitle>
+                  <unitdate>1906</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref36" level="series">
+            <did>
+               <unitid>Series 2</unitid>
+               <unittitle>Publications</unittitle>
+            </did>
+            <c02 id="ref37" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">1</container>
+                  <unittitle>
+                     <title render="italic" linktype="simple">Sandstone and Tile</title>, Vol. 3, No. 2, Winter 1979: "The Days That Followed the Quake."</unittitle>
+                  <unitdate>1979</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref38" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">2</container>
+                  <unittitle>
+                     <title render="italic" linktype="simple">Collier's</title>, Vol. XXXVII, No. 6, "Memorial Arch, Before and After"</unittitle>
+                  <unitdate>1906 May 5</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref39" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">3</container>
+                  <unittitle>
+                     <title render="italic" linktype="simple">Engineering News</title>, Journal of Civil, Mechanical, Mining, and Electrical Engineering, Vol. LV, No. 19</unittitle>
+                  <unitdate>1906 May 10</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref40" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">4</container>
+                  <unittitle>
+                     <title render="italic" linktype="simple">Mines and Industrie</title> (Foreign Publication - in French), San Francisco, pp. 12.</unittitle>
+                  <unitdate>1906 Apr</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref108" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">5</container>
+                  <unittitle>
+                     <title render="italic" linktype="simple">Everybody's</title>, "Our San Francisco," James Hopper (2 copies)</unittitle>
+                  <unitdate>1906 Jun</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref41" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">5</container>
+                  <unittitle>
+                     <title render="italic" linktype="simple">National Magazine</title>, "The Ruins of Stanford," Myrtle Garrison</unittitle>
+                  <unitdate>1906 Jun</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref111" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">5</container>
+                  <unittitle>
+                     <title render="italic" linktype="simple">Overland</title>, "In the Realm of Bookland," Eleanore F. Lewys</unittitle>
+                  <unitdate>1906 Jun</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref112" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">5</container>
+                  <unittitle>
+                     <title render="italic" linktype="simple">Pacific Monthly</title>, "The Destruction of San Francisco," Marshall Douglas</unittitle>
+                  <unitdate>1906 Jun</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref110" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">5</container>
+                  <unittitle>
+                     <title render="italic" linktype="simple">Pacific Monthly</title>, "The San Francisco Disaster, A Personal Narrative," F.O. Popenoe.</unittitle>
+                  <unitdate>1906 Jun</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref109" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">5</container>
+                  <unittitle>
+                     <title render="italic" linktype="simple">Century</title>, "Studying Earthquakes," T.A Jagger, Jr.</unittitle>
+                  <unitdate>1910 Aug</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref42" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">6</container>
+                  <unittitle>
+                     <title render="italic" linktype="simple">The New San Francisco Magazine</title>, Vol. 1, No. 1, Article by David Starr Jordan, San Francisco, California.</unittitle>
+                  <unitdate>1906 May</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref43" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">7</container>
+                  <unittitle>
+                     <title render="italic" linktype="simple">Santa Rosa Republican</title> [photocopies]</unittitle>
+                  <unitdate>1906 Apr 18</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref44" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">8</container>
+                  <unittitle>
+                     <title render="italic" linktype="simple">Signs of the Times</title>
+                  </unittitle>
+               </did>
+               <c03 id="ref114" level="item">
+                  <did>
+                     <unittitle>Earthquake Special</unittitle>
+                     <unitdate>1906 May 2</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref113" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Souvenir Edition</unittitle>
+                     <unitdate>1906 Jun 27</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref45" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">9</container>
+                  <unittitle>
+                     <title render="italic" linktype="simple">The Daily Palo Alto</title>
+                  </unittitle>
+               </did>
+               <c03 id="ref115" level="item">
+                  <did>
+                     <unittitle>Special Edition</unittitle>
+                     <unitdate>1906 Apr 18</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref116" level="item">
+                  <did>
+                     <unittitle>Second Special Edition [4 copies]</unittitle>
+                     <unitdate>1906 Apr 18</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref117" level="item">
+                  <did>
+                     <unittitle>Special Edition [4 copies]</unittitle>
+                     <unitdate>1906 Apr 19</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref118" level="item">
+                  <did>
+                     <unittitle>Second Special Edition [2 copies]</unittitle>
+                     <unitdate>1906 Apr 19</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref119" level="item">
+                  <did>
+                     <unittitle>Regular Edition [4 copies]</unittitle>
+                     <unitdate>1906 Apr 20</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref120" level="item">
+                  <did>
+                     <unittitle>Special Edition [3 copies]</unittitle>
+                     <unitdate>1906 Apr 20</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref121" level="item">
+                  <did>
+                     <unittitle>Regular Edition</unittitle>
+                     <unitdate>1906 Apr 21</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref46" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">10</container>
+                  <unittitle>
+                     <title render="italic" linktype="simple">Daily Palo Alto Times</title>
+                  </unittitle>
+               </did>
+               <c03 id="ref123" level="item">
+                  <did>
+                     <unittitle>1906 Apr 18</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref124" level="item">
+                  <did>
+                     <unittitle>1906 Apr 19</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref122" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">10</container>
+                  <unittitle>
+                     <title render="italic" linktype="simple">Palo Alto Tribune</title>
+                  </unittitle>
+               </did>
+               <c03 id="ref125" level="item">
+                  <did>
+                     <unittitle>Extra</unittitle>
+                     <unitdate>1906 Apr 18</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref126" level="item">
+                  <did>
+                     <unittitle>Second Extra [2 copies]</unittitle>
+                     <unitdate>1906 Apr 18</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref127" level="item">
+                  <did>
+                     <unittitle>1906 Apr 27</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref47" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">11</container>
+                  <unittitle>
+                     <title render="italic" linktype="simple">Oakland Enquirer</title>
+                  </unittitle>
+                  <unitdate>1906 Apr 20</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref48" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">12</container>
+                  <unittitle>
+                     <title render="italic" linktype="simple">San Francisco Examiner</title>
+                  </unittitle>
+                  <unitdate>1906 May 13</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref49" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">13</container>
+                  <unittitle>
+                     <title render="italic" linktype="simple">Mercury-Herald</title>, Extra: San Jose, Ca.</unittitle>
+                  <unitdate>1906 Apr 18</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref128" level="item">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">13</container>
+                  <unittitle>
+                     <title render="italic" linktype="simple">The Evening News</title>, Extra: San Jose, Ca.</unittitle>
+                  <unitdate>1906 Apr 18</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref129" level="item">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">13</container>
+                  <unittitle>
+                     <title render="italic" linktype="simple">San Jose Mercury</title>
+                  </unittitle>
+                  <unitdate>1906 Apr 26</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref130" level="item">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">13</container>
+                  <unittitle>
+                     <title render="italic" linktype="simple">San Jose Mercury and Herald</title> (front page)</unittitle>
+                  <unitdate>1906 Apr 29</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref50" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Clippings from newspapers across the country</unittitle>
+               </did>
+               <c03 id="ref131" level="item">
+                  <did>
+                     <unittitle>
+                        <title render="italic" linktype="simple">The Oregonian</title>, Portland, Oregon</unittitle>
+                     <unitdate>1906 May 7</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref132" level="item">
+                  <did>
+                     <unittitle>
+                        <title render="italic" linktype="simple">Vicksburg American</title>, Vicksburg, Mississippi</unittitle>
+                     <unitdate>1906 May 26</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref133" level="item">
+                  <did>
+                     <unittitle>Unidentified Clippings: articles and pictures</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref51" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">15</container>
+                  <unittitle>
+                     <title render="italic" linktype="simple">Los Angeles Times</title>
+                  </unittitle>
+                  <unitdate>1907 Apr 21</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref52" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">16</container>
+                  <unittitle>
+                     <title render="italic" linktype="simple">Daily Palo Alto Times</title>
+                  </unittitle>
+               </did>
+               <c03 id="ref136" level="item">
+                  <did>
+                     <unittitle>1956 Apr 17</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref137" level="item">
+                  <did>
+                     <unittitle>1956 Apr 18</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref135" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">16</container>
+                  <unittitle>
+                     <title render="italic" linktype="simple">San Francisco Chronicle</title>
+                  </unittitle>
+                  <unitdate>1956 Apr 18</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref53" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">17</container>
+                  <unittitle>
+                     <title render="italic" linktype="simple">San Francisco Chronicle</title>, Earthquake Edition (2 copies)</unittitle>
+                  <unitdate>1906-1956, Apr 19</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref54" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">18</container>
+                  <unittitle>
+                     <title render="italic" linktype="simple">San Jose Mercury</title>
+                  </unittitle>
+                  <unitdate>1956 Apr 18</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref55" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">19</container>
+                  <unittitle>
+                     <title render="italic" linktype="simple">The Stanford Daily</title>
+                  </unittitle>
+               </did>
+               <c03 id="ref138" level="item">
+                  <did>
+                     <unittitle>1946 Apr 18</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref139" level="item">
+                  <did>
+                     <unittitle>1956 Apr 18</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref140" level="item">
+                  <did>
+                     <unittitle>1957 Apr 1</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref56" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">20</container>
+                  <unittitle>Miscellaneous newspaper clippings on earthquakes (President Branner, Professor Bailey Willis)</unittitle>
+                  <unitdate>1913-1946</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref57" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">1</container>
+                  <unittitle>
+                     <title render="italic" linktype="simple">American Society of Civil Engineers Transactions</title>, Vol. LIX, "The Effects of the San Francisco Earthquake of April 18, 1906, on Engineering Construction."</unittitle>
+                  <unitdate>1907</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref58" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">2</container>
+                  <unittitle>
+                     <title render="italic" linktype="simple">Cosmopolitan Magazine</title>, Vol. XLI, No. 4, "Cause of the Great Earthquake," Daivd Starr Jordan</unittitle>
+                  <unitdate>1906 Aug</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref59" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">3</container>
+                  <unittitle>"The Great Earthquake, April 18, 1906: views of its calamitous results in San Francisco and vicinity," Pacific Press Company</unittitle>
+                  <unitdate>1906</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref60" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">4</container>
+                  <unittitle>
+                     <title render="italic" linktype="simple">Palo Alto 1906</title>, Linda Dick, California History Center, DeAnza College</unittitle>
+                  <unitdate>1979</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref61" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">5</container>
+                  <unittitle>San Francisco--the imperishable San Francisco. Passenger Department, Southern Pacific Co. Broadside, map, photos</unittitle>
+                  <unitdate>[1906]</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref62" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">6</container>
+                  <unittitle>San Francisco: Official Memorial Souvenir, April 18, 1906 (Los Angeles, Radial Co.)</unittitle>
+                  <unitdate>1906</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref63" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">7</container>
+                  <unittitle>San Jose, Stanford University and vicinity, after the disaster, April 18, 1906. Los Angeles: Rieder-Cardinelli Co.</unittitle>
+                  <unitdate>1906</unitdate>
+                  <physdesc>10 photographs</physdesc>
+               </did>
+            </c02>
+            <c02 id="ref64" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Scenes of the San Francisco fire and Earthquake, April 18, 1906. Series No. 2 San Francisco: Phoenix Photo Co.</unittitle>
+                  <unitdate>1906</unitdate>
+                  <physdesc>16 photographs</physdesc>
+               </did>
+            </c02>
+            <c02 id="ref65" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">9</container>
+                  <unittitle>
+                     <title render="italic" linktype="simple">Stanford Alumnus</title>, Vol. 7, No. 8, "The Truth about Stanford and the Earthquake"</unittitle>
+                  <unitdate>1906 May</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref66" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">10</container>
+                  <unittitle>
+                     <title render="italic" linktype="simple">Sunset Magazine</title>, Vol. XVII, No. 1, "New San Francisco emergency edition"</unittitle>
+                  <unitdate>1906 May</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref67" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Taber, Stephen: "Some Local Effects of the San Francisco Earthquake." Reprint from 
+                            <title render="italic" linktype="simple">The Journal of Geology</title>, Vol. XIV, No. 4</unittitle>
+                  <unitdate>1906 May-Jun</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref68" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">12</container>
+                  <unittitle>
+                     <title render="italic" linktype="simple"> Earthquake Information Bulletin</title>, "The 1906 Earthquake at Palo Alto, California: An Interview with Birge M. Clark," Henry Spall</unittitle>
+                  <unitdate>1901 Mar-Apr</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref69" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Map of part of San Francisco, California, April 18, 1908 showing buildings constructed and buildings under construction during two years after fire of April 18, 1906. Surveyed and drawn by Punnett Brothers.</unittitle>
+                  <unitdate>1908</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref70" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">14</container>
+                  <unittitle>"Preliminary Report of the State Earthquake Investigation Commission"</unittitle>
+                  <unitdate>1906 May 31</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref71" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">1</container>
+                  <unittitle>
+                     <title render="italic" linktype="simple">Harper's Weekly</title>. Cover features image of damage to interior of Memorial Church.</unittitle>
+                  <unitdate>1906 May 19</unitdate>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

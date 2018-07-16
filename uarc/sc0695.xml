@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[Stanford University technical reports])//EN"
+             identifier="ark:/13030/kt4779s08v">sc0695.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Stanford University Technical Reports
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Stanford University Technical Reports</titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2010-10">October 2010</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC0695</unitid>
+         <origination label="Creator:">
+            <corpname rules="dacs" source="naf">Stanford University</corpname>
+         </origination>
+         <unittitle label="Title:">Stanford University technical reports</unittitle>
+         <unitdate normal="1956/1970"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1956-1970</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>200 Linear feet</extent>
+         </physdesc>
+         <abstract label="Summary:">Archival copies of technical reports resulting from sponsored research at Stanford.</abstract>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <accessrestrict id="ref3">
+            <head>Information about Access</head>
+            <p>The materials are open for research.</p>
+         </accessrestrict>
+         <userestrict id="ref4">
+            <head>Ownership &amp; Copyright</head>
+            <p>All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Special Collections and University Archives, Stanford University Libraries, Stanford, California 94304-6064. Consent is given on behalf of Special Collections as the owner of the physical items and is not intended to include or imply permission from the copyright owner. Such permission must be obtained from the copyright owner, heir(s) or assigns. See: http://library.stanford.edu/depts/spc/pubserv/permissions.html.</p>
+            <p>Restrictions also apply to digital representations of the original materials. Use of digital files is restricted to research and educational purposes.</p>
+         </userestrict>
+         <prefercite id="ref5">
+            <head>Cite As</head>
+            <p>Stanford University Technical Reports (SC0695). Department of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <scopecontent id="ref6">
+         <head>Description of the Collection</head>
+         <p>Archival copies of technical reports resulting from sponsored research at Stanford.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <corpname rules="dacs" source="naf">Stanford University</corpname>
+         <subject source="LCSH">Research--California--Stanford University.</subject>
+         <subject source="LCSH">Technical literature.</subject>
+         <subject source="LCSH">Technical reports.</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.5">
+         <head>Collection Contents</head>
+         <c01 id="ref7" level="series">
+            <did>
+               <unitid>Series 1</unitid>
+               <unittitle>SA Numbers</unittitle>
+            </did>
+            <c02 id="ref8" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>5-SA-0001 through 5-SA-0065</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref9" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>5-SA-0066 through 5-SA-0115</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref10" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>5-SA-0116 through 5-SA-0175</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref11" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>5-SA-0241 through 5-SA-0240</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref12" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>5-SA-0241 through 5-SA-0295</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref13" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>5-SA-0296 through 5-SA-0345</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref14" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>5-SA-0346 through 5-SA-0405</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref15" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>5-SA-0406 through 5-SA-0460 [missing 0457]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref16" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>5-SA-0461 through 5-SA-0500</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref17" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>5-SA-0501 through 5-SA-0535</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref18" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>5-SA-0536 through 5-SA-0585</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref19" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>5-SA-0586 through 5-SA-0630</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref20" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>5-SA-0631 through 5-SA-0685</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref21" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <unittitle>5-SA-0686 through 5-SA-0740</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref22" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <unittitle>5-SA-0741 through 5-SA-0795</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref23" level="file">
+               <did>
+                  <container type="Box">16</container>
+                  <unittitle>5-SA-0796 through 5-SA-0850</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref24" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <unittitle>5-SA-0851 through 5-SA-0905 [missing 0871]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref25" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <unittitle>5-SA-0906 through 5-SA-0940</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref26" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <unittitle>5-SA-0941 through 5-SA-1000</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref27" level="file">
+               <did>
+                  <container type="Box">20</container>
+                  <unittitle>5-SA-1001 through 5-SA-1060 [missing 1007]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref28" level="file">
+               <did>
+                  <container type="Box">21</container>
+                  <unittitle>5-SA-1062 through 5-SA-1105</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref29" level="file">
+               <did>
+                  <container type="Box">22</container>
+                  <unittitle>5-SA-1106 through 5-SA-1150 [missing 1148]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref30" level="file">
+               <did>
+                  <container type="Box">23</container>
+                  <unittitle>5-SA-1151 through 5-SA-1185</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref31" level="file">
+               <did>
+                  <container type="Box">24</container>
+                  <unittitle>5-SA-1186 through 5-SA-1225</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref32" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <unittitle>5-SA-1226 through 5-SA-1280</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref33" level="file">
+               <did>
+                  <container type="Box">26</container>
+                  <unittitle>5-SA-1281 through 5-SA-1335</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref34" level="file">
+               <did>
+                  <container type="Box">27</container>
+                  <unittitle>5-SA-1336 through 5-SA-1395</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref35" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>5-SA-1396 through 5-SA-1401 and 6-SA-001 through 6-SA-0055 [missing 6-SA-0028 through 0044]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref36" level="file">
+               <did>
+                  <container type="Box">29</container>
+                  <unittitle>6-SA-0056 through 6-SA-0100 [missing 0100]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref37" level="file">
+               <did>
+                  <container type="Box">30</container>
+                  <unittitle>6-SA-0101 through 6-SA-0175 [missing 0101 – 0117, 0120; 0132 – 0135; 0154 – 0169; 0174; 0175]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref38" level="file">
+               <did>
+                  <container type="Box">31</container>
+                  <unittitle>6-SA-0176 through 6-SA-0235 [missing 0176-0177]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref39" level="file">
+               <did>
+                  <container type="Box">32</container>
+                  <unittitle>6-SA-0236 through 6-SA-0295 [missing 0251, 0253, 0268, 0271, 0277, 0292]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref40" level="file">
+               <did>
+                  <container type="Box">33</container>
+                  <unittitle>6-SA-0296 through 6-SA-0335</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref41" level="file">
+               <did>
+                  <container type="Box">34</container>
+                  <unittitle>6-SA-336 through 6-SA-0405</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref42" level="file">
+               <did>
+                  <container type="Box">35</container>
+                  <unittitle>6-SA-0406 through 6-SA-0465</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref43" level="file">
+               <did>
+                  <container type="Box">36</container>
+                  <unittitle>6-SA-0466 through 6-SA-0505 [missing 0476, 0503]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref44" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>6-SA-0506 through 6-SA-0563 [missing 0506, 0513, 0529, 0549, 0551]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref45" level="file">
+               <did>
+                  <container type="Box">38</container>
+                  <unittitle>7-SA-0001 through 7-SA-0035 [missing 0034, 0035]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref46" level="file">
+               <did>
+                  <container type="Box">39</container>
+                  <unittitle>7-SA-0036 through 7-SA-0085 [missing 0039, 0046, 0047]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref47" level="file">
+               <did>
+                  <container type="Box">40</container>
+                  <unittitle>7-SA-0086 through 7-SA-0130</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref48" level="file">
+               <did>
+                  <container type="Box">41</container>
+                  <unittitle>7-SA-0131 through 7-SA-0185 [missing 0167]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref49" level="file">
+               <did>
+                  <container type="Box">42</container>
+                  <unittitle>7-SA-0186 through 7-SA-0235 [missing 0199, 0215, 0233]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref50" level="file">
+               <did>
+                  <container type="Box">43</container>
+                  <unittitle>7-SA-0236 through 7-SA-0280 [missing 0254]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref51" level="file">
+               <did>
+                  <container type="Box">44</container>
+                  <unittitle>7-SA-0281 through 7-SA-0335 [missing 0289]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref52" level="file">
+               <did>
+                  <container type="Box">45</container>
+                  <unittitle>7-SA-0336 through 7-SA-0425 [missing 0338, 0343, 0363-0367, 0369, 0370, 0384-0401, 0403-0417]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref53" level="file">
+               <did>
+                  <container type="Box">46</container>
+                  <unittitle>7-SA-0426 through 7-SA-0465</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref54" level="file">
+               <did>
+                  <container type="Box">47</container>
+                  <unittitle>7-SA-0466 through 7-SA-0472; and 8-SA-001 through 8-SA-0030 [missing 0028]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref55" level="file">
+               <did>
+                  <container type="Box">48</container>
+                  <unittitle>8-SA-0031 through 8-SA-0080</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref56" level="file">
+               <did>
+                  <container type="Box">49</container>
+                  <unittitle>8-SA-0081 through 8-SA-0130 [missing 0083, 0118, 0120]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref57" level="file">
+               <did>
+                  <container type="Box">50</container>
+                  <unittitle>8-SA-0131 through 8-SA-0180</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref58" level="file">
+               <did>
+                  <container type="Box">51</container>
+                  <unittitle>8-SA-0181 through 8-SA-0245 [missing 0218, 0221]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref59" level="file">
+               <did>
+                  <container type="Box">52</container>
+                  <unittitle>8-SA-0246 through 8-SA-0285 [missing 0254, 0255]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref60" level="file">
+               <did>
+                  <container type="Box">53</container>
+                  <unittitle>8-SA-0286 through 8-SA-0325</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref61" level="file">
+               <did>
+                  <container type="Box">54</container>
+                  <unittitle>8-SA-0326 through 8-SA-0385 [missing 0348-0351, 0363, 0365]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref62" level="file">
+               <did>
+                  <container type="Box">55</container>
+                  <unittitle>8-SA-0386 through 8-SA-0430 [missing 0412]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref63" level="file">
+               <did>
+                  <container type="Box">56</container>
+                  <unittitle>8-SA-0431 through 8-SA-0490 [missing 0441, 0442, 0445, 0451, 0452, 0468-0471]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref64" level="file">
+               <did>
+                  <container type="Box">57</container>
+                  <unittitle>8-SA-0491 through 8-SA-0535</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref65" level="file">
+               <did>
+                  <container type="Box">58</container>
+                  <unittitle>8-SA-0536 through 8-SA-0600 [missing 0544-0546]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref66" level="file">
+               <did>
+                  <container type="Box">59</container>
+                  <unittitle>8-SA-0601 through 8-SA-0645</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref67" level="file">
+               <did>
+                  <container type="Box">60</container>
+                  <unittitle>8-SA-0646 through 8-SA-0740 [missing 0666]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref68" level="file">
+               <did>
+                  <container type="Box">61</container>
+                  <unittitle>8-SA-0741 through 8-SA-0820 [missing 0782, 0790, 0795, 0815-0819]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref69" level="file">
+               <did>
+                  <container type="Box">62</container>
+                  <unittitle>8-SA-0821 through 8-SA-0865 [missing 0849]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref70" level="file">
+               <did>
+                  <container type="Box">63</container>
+                  <unittitle>8-SA-0866 through 8-SA-0960 [missing 0935]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref71" level="file">
+               <did>
+                  <container type="Box">64</container>
+                  <unittitle>8-SA-0961 through 8-SA-1020 [missing 0986, 1015, 1016, 1019]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref72" level="file">
+               <did>
+                  <container type="Box">65</container>
+                  <unittitle>8-SA-1021 through 8-SA-1075 [missing 1023, 1032, 1057, 1058, 1061]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref73" level="file">
+               <did>
+                  <container type="Box">66</container>
+                  <unittitle>8-SA-1076 through 8-SA-1143 [missing 1098-1100, 1105, 1108-1110, 1118, 1121, 1122, 1124]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref74" level="file">
+               <did>
+                  <container type="Box">67</container>
+                  <unittitle>9-SA-0001 through 9-SA-0060 [missing 0005]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref75" level="file">
+               <did>
+                  <container type="Box">68</container>
+                  <unittitle>9-SA-0061 through 9-SA-0120 [missing 0082, 0084, 0086, 0088, 0092, 0094, 0095]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref76" level="file">
+               <did>
+                  <container type="Box">69</container>
+                  <unittitle>9-SA-0121 through 9-SA-0235 [missing 0124-0128, 0130-0139, 0141-0158, 0163, 0170, 0174, 0189-0198, 0200-0204, 0222, 0228, 0233, 0234]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref77" level="file">
+               <did>
+                  <container type="Box">70</container>
+                  <unittitle>9-SA-0236 through 9-SA-0310 [missing 0237-0239, 0291, 0297, 0298]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref78" level="file">
+               <did>
+                  <container type="Box">71</container>
+                  <unittitle>9-SA-0311 through 9-SA-0380 [missing 0312]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref79" level="file">
+               <did>
+                  <container type="Box">72</container>
+                  <unittitle>9-SA-0381 through 9-SA-0425 [missing 0406]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref80" level="file">
+               <did>
+                  <container type="Box">73</container>
+                  <unittitle>9-SA-0426 through 9-SA-0485 [missing 0430]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref81" level="file">
+               <did>
+                  <container type="Box">74</container>
+                  <unittitle>9-SA-0486 through 9-SA-0580 [missing 0509, 0519, 0520, 0523, 0528, 0529, 0536, 0538-0540, 0543, 0569-0575, 0577-0579]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref82" level="file">
+               <did>
+                  <container type="Box">75</container>
+                  <unittitle>9-SA-0581 through 9-SA-0666 [missing 0581, 0582, 0584, 0585, 0587, 0595, 0603, 0605, 0610, 0611, 0614, 0616, 0622-0626]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref83" level="file">
+               <did>
+                  <container type="Box">76</container>
+                  <unittitle>70-SA-0001 through 70-SA-0075 [missing 0069]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref84" level="file">
+               <did>
+                  <container type="Box">77</container>
+                  <unittitle>70-SA-0076 through 70-SA-0135 [missing 0099, 0101, 0107, 0111, 0118, 0121, 0122, 0124, 0127, 0135]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref85" level="file">
+               <did>
+                  <container type="Box">78</container>
+                  <unittitle>70-SA-0136 through 70-SA-0230 [missing 0144, 0148, 0161, 0163, 1070, 0181-0183, 0185, 0187, 0188, 0190, 0192, 0207, 0213, 0222, 0229]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref86" level="file">
+               <did>
+                  <container type="Box">79</container>
+                  <unittitle>70-SA-0231 through 71-SA-0010 [missing 0240, 0242, 0245, 0266, 0270, 0274, 0276, 0277, 0279, 0284, 0286, 0288-0290, 0295, 0297]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref87" level="file">
+               <did>
+                  <container type="Box">80</container>
+                  <unittitle>71-SA-0011 through 71-SA-0097 [missing 0044 and 0092. NOTE: Box contains two reports with number SA-71-0042]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref88" level="file">
+               <did>
+                  <container type="Box">81</container>
+                  <unittitle>72-SA-0001 through 72-SA-0065</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref89" level="file">
+               <did>
+                  <container type="Box">82</container>
+                  <unittitle>72-SA-0066 through 72-SA-0110</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref90" level="file">
+               <did>
+                  <container type="Box">83</container>
+                  <unittitle>72-SA-0111 through 72-SA-0180 [missing 0125]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref91" level="file">
+               <did>
+                  <container type="Box">84</container>
+                  <unittitle>72-SA-0181 through 72-SA-0235 [missing 0208]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref92" level="file">
+               <did>
+                  <container type="Box">85</container>
+                  <unittitle>72-SA-0246 through 72-SA-0315</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref93" level="file">
+               <did>
+                  <container type="Box">86</container>
+                  <unittitle>72-SA-0316 through 72-SA-0375</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref94" level="file">
+               <did>
+                  <container type="Box">87</container>
+                  <unittitle>72-SA-0376 through 72-SA-0430 [missing 0405-0407]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref95" level="file">
+               <did>
+                  <container type="Box">88</container>
+                  <unittitle>72-SA-0431 through 72-SA-0500 [missing 0462-0467, 0469-0471]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref96" level="file">
+               <did>
+                  <container type="Box">89</container>
+                  <unittitle>72-SA-0501 through 72-SA-0560 [missing 0543]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref97" level="file">
+               <did>
+                  <container type="Box">90</container>
+                  <unittitle>72-SA-0561 through 72-SA-0615 [missing 0564]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref98" level="file">
+               <did>
+                  <container type="Box">91</container>
+                  <unittitle>73-SA-0001 through 73-SA-0085 [missing 0020, 0046, 0049, 0051, 0063, 0067, 0071, 0074]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref99" level="file">
+               <did>
+                  <container type="Box">92</container>
+                  <unittitle>73-SA-0086 through 73-SA-0140 [missing 0132]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref100" level="file">
+               <did>
+                  <container type="Box">93</container>
+                  <unittitle>73-SA-0141 through 73-SA-0215</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref101" level="file">
+               <did>
+                  <container type="Box">94</container>
+                  <unittitle>73-SA-0216 through 73-SA-0290 [missing 0217, 0220, 0258]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref102" level="file">
+               <did>
+                  <container type="Box">95</container>
+                  <unittitle>73-SA-0291 through 73-SA-0345 [missing 0323]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref103" level="file">
+               <did>
+                  <container type="Box">96</container>
+                  <unittitle>73-SA-0346 through 73-SA-0390</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref104" level="file">
+               <did>
+                  <container type="Box">97</container>
+                  <unittitle>73-SA-0391 through 73-SA-0440</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref105" level="file">
+               <did>
+                  <container type="Box">98</container>
+                  <unittitle>74-SA-0001 through 74-SA-0055</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref106" level="file">
+               <did>
+                  <container type="Box">99</container>
+                  <unittitle>74-SA-0056 through 74-SA-0130 [missing 0105, 0127]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref107" level="file">
+               <did>
+                  <container type="Box">100</container>
+                  <unittitle>74-SA-0131 through 74-SA-0180 [missing 0148, 0149]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref108" level="file">
+               <did>
+                  <container type="Box">101</container>
+                  <unittitle>74-SA-0181 through 74-SA-0245 [missing 0185, 0189, 0198, 0240]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref109" level="file">
+               <did>
+                  <container type="Box">102</container>
+                  <unittitle>74-SA-0246 through 74-SA-0315</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref110" level="file">
+               <did>
+                  <container type="Box">103</container>
+                  <unittitle>74-SA-0316 through 74-SA-0375 [missing 0328, 0335, 0340]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref111" level="file">
+               <did>
+                  <container type="Box">104</container>
+                  <unittitle>74-SA-0376 through 74-SA-0450 [missing 0398, 0420, 0421, 0428]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref112" level="file">
+               <did>
+                  <container type="Box">105</container>
+                  <unittitle>74-SA-0451 through 74-SA-0510 [missing 0471]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref113" level="file">
+               <did>
+                  <container type="Box">106</container>
+                  <unittitle>74-SA-0511 through 74-SA-0573 [contained in 7 bound volumes]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref114" level="file">
+               <did>
+                  <container type="Box">107</container>
+                  <unittitle>74-SA-0574 through 74-SA-0634 [contained in 8 bound volumes]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref115" level="file">
+               <did>
+                  <container type="Box">108</container>
+                  <unittitle>74-SA-0635 through 74-SA-0681 [contained in 6 bound volumes]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref116" level="file">
+               <did>
+                  <container type="Box">109</container>
+                  <unittitle>74-SA-0682 through 74-SA-0738 [contained in 6 bound volumes]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref117" level="file">
+               <did>
+                  <container type="Box">110</container>
+                  <unittitle>74-SA-0739 through 74-SA-0814 [contained in 7 bound volumes]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref118" level="file">
+               <did>
+                  <container type="Box">111</container>
+                  <unittitle>74-SA- through 74-SA-</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref119" level="file">
+               <did>
+                  <container type="Box">112</container>
+                  <unittitle>74-SA- through 74-SA-</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref120" level="series">
+            <did>
+               <unitid>Series 2</unitid>
+               <unittitle>Reports sorted by year of publication</unittitle>
+            </did>
+            <c02 id="ref121" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>1947, 1948, 1949</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref122" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>1950, 1951</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref123" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>1952 Ayer – Worcester plus quarterly and final reports</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref124" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>1953 Ayer – Waterman plus quarterly and final reports</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref125" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>1954 Amo – Worcester plus quarterly and final reports</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref126" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>1955 Boxhall - Mandoli</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref127" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>1955 Manning – Watkins plus quarterly and final reports</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref128" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>1956 Arfin - Maclean</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref129" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>1956 Matthews – Wada plus quarterly and final reports</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref130" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>1957 Arnold – Yabroff plus quarterly and final reports</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref131" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>1958 Abramson - Yhap</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref132" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>1958 Quarterly Status Reports, Abstracts of Unclassified Technical Reports 1949-59, Bibliography of Technical Reports 1949-58</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref133" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>1959 Anderson - Wightman</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref134" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>1959 Quarterly Status Reports, Bibliography of Technical Reports 1959, Abstracts of Unclassified Technical Reports 1959</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref135" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>1960 Abramson - May</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref136" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>1960 Merritt – Wilkens plus Data Summaries, Abstracts of Unclassified Technical Reports 1960, Quarterly and Final Status Reports</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref137" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>1961 Achenbach - Patel</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref138" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>1961 Pearson – Yoh plus Quarterly Status Reports, Data Summaries, Final Status Reports</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref139" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <unittitle>1962 Abramson – Ma</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref140" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <unittitle>1962 McMurtry -</unittitle>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[Tom Killefer, 1917-1996 biography])//EN"
+             identifier="ark:/13030/kt609nf6cx">scm0205.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Tom Killefer, 1917-1996 Biography
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Tom Killefer, 1917-1996 Biography</titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2011-05">May 2011</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SCM0205</unitid>
+         <origination label="Creator:">
+            <persname rules="aacr" source="ingest">Burton, Amy</persname>
+         </origination>
+         <unittitle label="Title:">Tom Killefer, 1917-1996 biography</unittitle>
+         <unitdate normal="2000/2000"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">circa 2000</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>0.125 Linear feet (1 volume)</extent>
+         </physdesc>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <bioghist id="ref3">
+         <head>Biographical/Historical note</head>
+         <p>Killefer earned his A.B. at Stanford in 1938, his J.D. at Harvard in 1946, and his Bachelor of Civil Law from Oxford University in 1947. He was on the legal staff of the U.S. High Commission for Germany 1951-52, First Vice President of the Export-Import Bank of Washington, D.C., 1960-62, and held executive positions at the Chrysler Corporation, 1972-76, and the U.S. Trust Company, 1976-1981. From 1971-1981 he was on the Board of Trustees of Stanford University.</p>
+      </bioghist>
+      <scopecontent id="ref2">
+         <head>Scope and Contents note</head>
+         <p>Privately printed biography based on interviews with Killefer by Wade Killefer, Gail Killefer, and Jessica Holland and other research by the author. Subjects include his student experiences at Stanford, Harvard (where he became friends with Joe Kennedy), and Oxford; his experiences as a Navy pilot in the Pacific theater during World War II; and his professional life.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <persname rules="aacr" source="ingest">Killifer, Tom, Mrs.</persname>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.5">
+         <head>Collection Contents</head>
+         <c01 id="ref4" level="series">
+            <did>
+               <container type="Box">1</container>
+               <unittitle>Biography</unittitle>
+            </did>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

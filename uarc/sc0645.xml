@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[Harry S. Mosher papers])//EN"
+             identifier="ark:/13030/kt5p3036dd">sc0645.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Harry S. Mosher Papers
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Mosher (Harry S.) Papers</titleproper>
+            <author>Daniel Hartwig &amp; Jenny Johnson</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University Libraries.</publisher>
+            <publisher>Dept. of Special Collections &amp; University Archives.</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2010-10">October 2010</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date normal="2015-06">June 2015</date>
+            <item/>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC0645</unitid>
+         <origination label="Creator:">
+            <persname rules="aacr" source="naf">Mosher, Harry S.</persname>
+         </origination>
+         <unittitle label="Title:">Harry S. Mosher papers</unittitle>
+         <unitdate normal="1944/2000"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1944-2000</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>37.5 Linear feet</extent>
+         </physdesc>
+         <abstract label="Summary:">Papers include correspondence, manuscripts and reprints, research files, lab notebooks, grant files, and class materials.</abstract>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Dept. of Special Collections &amp; University Archives.</corpname>
+            <address>
+               <addressline>Stanford University Libraries.</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: speccollref@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <descgrp type="provenance" id="prov">
+            <head>Provenance</head>
+            <acqinfo id="ref3">
+               <p>Gift of the estate of Harry Mosher, 2002.</p>
+            </acqinfo>
+         </descgrp>
+         <accessrestrict id="ref4">
+            <head>Information about Access</head>
+            <p>This collection is open for research.</p>
+         </accessrestrict>
+         <userestrict id="ref5">
+            <head>Ownership &amp; Copyright</head>
+            <p>All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Special Collections and University Archives, Stanford University Libraries, Stanford, California 94304-6064. Consent is given on behalf of Special Collections as the owner of the physical items and is not intended to include or imply permission from the copyright owner. Such permission must be obtained from the copyright owner, heir(s) or assigns. See: http://library.stanford.edu/depts/spc/pubserv/permissions.html.</p>
+            <p>Restrictions also apply to digital representations of the original materials. Use of digital files is restricted to research and educational purposes.</p>
+         </userestrict>
+         <prefercite id="ref6">
+            <head>Cite As</head>
+            <p>Harry S. Mosher Papers (SC0645). Department of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <bioghist id="ref7">
+         <head>Biographical/Historical Sketch</head>
+         <p>Harry S. Mosher earned his bachelor's degree in 1937 from Willamette University and his master's degree from Oregon State University in 1939. He taught briefly at Willamette before earning his doctorate in organic chemistry from Pennsylvania State University in 1942; he remained at Penn during World War II as an assistant professor supervising research on synthetic anti-malarial drugs for the National Research Council. He joined the Stanford faculty in 1947 and taught until his retirement in 1981. During his career at Stanford, Mosher taught organic chemistry and conducted research in a wide range of areas, including natural products chemistry and stereochemistry. He co-authored more than 140 research papers and a reference book titled ASYMMETRIC ORGANIC REACTIONS, published in 1971. Mosher also elucidated the chemical structure of tetrodotoxin - an extremely toxic molecule found in wild newts inhabiting Stanford's Lake Lagunita. Mosher died in March of 2001.</p>
+      </bioghist>
+      <scopecontent id="ref8">
+         <head>Description of the Collection</head>
+         <p>Papers include correspondence, manuscripts and reprints, research files, lab notebooks, grant files, and class materials.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <persname rules="aacr" source="naf">Mosher, Harry S.</persname>
+         <subject source="lcsh">Chemistry, Organic.</subject>
+         <subject source="LCSH">Chemistry--Study and teaching (Higher).</subject>
+         <subject source="LCSH">Organic compounds --Synthesis.</subject>
+         <subject source="LCSH">Stereochemistry.</subject>
+         <subject source="lcsh">Tetrodotoxin.</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.6">
+         <head>Collection Contents</head>
+         <c01 id="ref9" level="series">
+            <did>
+               <unitid>Accession ARCH-2002-161</unitid>
+               <unittitle>Papers</unittitle>
+            </did>
+            <c02 id="ref10" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Research Students – correspondence, A – We</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref11" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Research Students – correspondence, Wi – Wu</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref12" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Publications &amp; Bibliography</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref13" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Correspondence 1975 to present</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref14" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Referee Reports</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref15" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Manuscripts in preparation</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref16" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Manuscripts in preparation</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref17" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Manuscripts published</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref18" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Post-Doc Correspondence</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref19" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Post-Doc Correspondence</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref20" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Post-Doc Correspondence (Ma – Z)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref21" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Miro's files re grants</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref22" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Miro's files re grants</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref23" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Files re: Analyses</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref24" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Files re: Asymmetric Organic Reactions</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref25" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Files re: Chemicals</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref26" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Files re: Committees – Departmental University Regulations</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref27" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Files re: Consulting</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref28" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Files re: Equipment &amp; Instruments</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref29" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Files re: Enzymes</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref30" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Files re: Examinations [one file = ACS CPT John Howard]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref31" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Files re: Isotopes</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref32" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Files re: Lectures</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref33" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Files re: Meetings &amp; Travel</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref34" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Files re: Meetings &amp; Travel</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref35" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Files re: Peroxides</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref36" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Files re: Research Problems</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref37" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Files re: Research Problems</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref38" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Files re: Research Problems</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref39" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Files re: Grignard Whitmore lect.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref40" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Files re: Grignard Whitmore lect.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref41" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Files re: Research techniques</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref42" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Files re: Reviews</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref43" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Files re: Sabbatical</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref44" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Files re: Spectra</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref45" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Files re: Synthetic Drugs</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref46" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Files re: Synthetic Drugs</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref47" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <unittitle>Files re: Toxins</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref48" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <unittitle>Files re: Toxins</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref49" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <unittitle>Files re: Tetrodotoxin</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref50" level="file">
+               <did>
+                  <container type="Box">16</container>
+                  <unittitle>Files re: Tetrodotoxin</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref51" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <unittitle>Files re: Tetrodotoxin</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref52" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <unittitle>Research Files, spectra analysis</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref53" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <unittitle>Research Files, spectra analysis</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref54" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <unittitle>Reprints in chronological order, 1997-1987</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref55" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <unittitle>Reprints in chronological order, 1987-1950</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref56" level="file">
+               <did>
+                  <container type="Box">20</container>
+                  <unittitle>Reprints in chronological order, 1950-1944</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref57" level="file">
+               <did>
+                  <container type="Box">21-23</container>
+                  <unittitle>Lab notebooks</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref58" level="file">
+               <did>
+                  <container type="Box">24</container>
+                  <unittitle>Student correspondence (alphabetical)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref59" level="file">
+               <did>
+                  <container type="Box">24</container>
+                  <unittitle>Post Doc correspondence 1976-1985</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref60" level="file">
+               <did>
+                  <container type="Box">24</container>
+                  <unittitle>Alpha files: Baxter - , 1950s-80s</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref61" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <unittitle>Curriculum committee 1970s</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref62" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <unittitle>Curricula 1975-2000</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref63" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <unittitle>Chemistry Department history – interview</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref64" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <unittitle>ACS-CPT Directory stats</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref65" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <unittitle>List of Post doc and Grad Students of Harry Mosher</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref66" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <unittitle>Publications &amp; Research plans</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref67" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <unittitle>Research Problems &amp; Plans selected</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref68" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <unittitle>Research Problems General 1960-69</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref69" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <unittitle>Stanford Chemistry Alumni Newsletter 1988-91 (SCAN)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref70" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <unittitle>Potential Copy</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref71" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <unittitle>Stereochemical (course)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref72" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <unittitle>Dynamic Stereo Chem</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref73" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <unittitle>Asymmetric reductions</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref74" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <unittitle>Asymm Syn 1978, 1976</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref75" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <unittitle>Stereochemistry Problems</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref76" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <unittitle>Absolute Configurations</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref77" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <unittitle>Asymm Syn Lit 1977-83</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref78" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <unittitle>Asymm Reactions Lit 1973</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref79" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <unittitle>Asym Syn 1970-72 (References)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref80" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <unittitle>Sulphur Stereochem</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref81" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <unittitle>Asym Syn 1974-75, 1977</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref82" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <unittitle>Asym Chiral Hyro-</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref83" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <unittitle>Miscellaneous material</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref84" level="file">
+               <did>
+                  <container type="Box">26</container>
+                  <unittitle>Research notebooks (Mosher and students)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref85" level="file">
+               <did>
+                  <container type="Box">26</container>
+                  <unittitle>Several dissertations by students</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref86" level="file">
+               <did>
+                  <container type="Box">27</container>
+                  <unittitle>Research notebooks (Mosher and students)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref87" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>Research notebooks (Mosher and students)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref88" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>Harry S. Mosher, Master's thesis, 1939</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref89" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>Harry S. Mosher, "Research Reports, Aug. – Dec. 1940"</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref90" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>Harry S. Mosher, "Research Reports, 1941"</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref91" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>Harry S. Mosher, Ph.D. dissertation 1942</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref92" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>Harry S. Moser, Confidential Report: Antimalarials: Natural and Synthetic, 1942</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref93" level="file">
+               <did>
+                  <container type="Box">29</container>
+                  <unittitle>Assorted glass slides for lectures (formulas, charts, models)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref94" level="file">
+               <did>
+                  <container type="Box">29</container>
+                  <unittitle>Two color 35mm slides of a molecular model, and 1 b/w negative</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref95" level="series">
+            <did>
+               <unitid>Accession ARCH-2003-225</unitid>
+               <unittitle>Additional Papers</unittitle>
+            </did>
+            <c02 id="ref96" level="file">
+               <did>
+                  <unittitle>Students' lab notebooks:</unittitle>
+               </did>
+               <c03 id="ref97" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Janet S. Plummer, 2 v., 1988-90</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref98" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Yan Wang, 2 v., 1989-90</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref99" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Keekyung Kim, 1 v., 1986-87</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref100" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>You Tian-pa, 3 v., 1983-85</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref101" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Unidentified author, 1 page filled, 5/26/82</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref102" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Harry S. Mosher notebooks, 3 v., 1954-78</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref103" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Carol W. Mosher notebook, 1 v., 1952-83</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref104" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Brown, Melancthon Starr, "Chemical Studies on Taricha Embryonic Toxin," Ph.D. thesis, Stanford, 1962 (carbon copy)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref105" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Nachman, Ronald James, "Synthetic Approaches to Tetrodotoxin and Analogs," Ph.D. thesis, Stanford, 1981</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref106" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Assorted student progress reports on research on Tetrodotoxin, 1980s</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref107" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Miscellaneous reports, proposals, reprints, bibliographic notes by Mosher</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref108" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Upestacis, J., "A Carbohydrate Approach to Tetrodotoxin," Harvard Ph.D. 1975 – printed from UMI microfilm</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref109" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Sitrin, R., "Studies on the Synthesis of Tetrodotoxin," Harvard Ph.D. 1972 – printed from UMI microfilm</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref110" level="series">
+            <did>
+               <unitid>Accession ARCH-2004-176</unitid>
+               <unittitle>Additional Papers</unittitle>
+            </did>
+            <c02 id="ref111" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">1</container>
+                  <unittitle>SCAN (Stanford Chemistry Alumni Newsletter), 1985-1990</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref112" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Old Chemistry Wake (lecture and tour prior to closure of building), 1988</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref113" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Eric Hutchinson "From Stillman to Parks, the early History of Chemistry at Stanford," text of talk for Old Chemistry Wake, 1988</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref114" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Slides used at Hutchinson's talk</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref115" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Photographs from Old Chemistry Wake, 1988</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref116" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Old Chemistry – clippings, 1988</unittitle>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+      <odd id="ref117" type="appendix">
+         <head>General note</head>
+         <p>Collection is unprocessed and in remote storage. For access, please contact the University Archivist.</p>
+      </odd>
+   </archdesc>
+</ead>

@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[Stanford University, Department of Physics, records])//EN"
+             identifier="ark:/13030/kt2j49r8pt">sc0433.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Stanford University, Department of Physics, Records
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Stanford University, Department of Physics, Records</titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2010-10">October 2010</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC0433</unitid>
+         <origination label="Creator:">
+            <corpname rules="dacs" source="naf">Stanford University. Department of Physics.</corpname>
+         </origination>
+         <unittitle label="Title:">Stanford University, Department of Physics, records</unittitle>
+         <unitdate normal="1958/1985"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1958-1985</unitdate>
+         <unitdate normal="1971/1985"
+                   type="bulk"
+                   label="Bulk Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation"> 1971-1985</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>3.25 Linear feet</extent>
+         </physdesc>
+         <abstract label="Summary:">Research grant files containing abstracts, proposals, correspondence, and budget memoranda; faculty members represented include William Fairbank, Melvin Schwartz, John Dirk Walecka, Robert Hofstadter, and Felix Bloch.</abstract>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <descgrp type="provenance" id="prov">
+            <head>Provenance</head>
+            <acqinfo id="ref3">
+               <p>Administrative transfer, 1988.</p>
+            </acqinfo>
+         </descgrp>
+         <accessrestrict id="ref4">
+            <head>Information about Access</head>
+            <p>This collection is open for research.</p>
+         </accessrestrict>
+         <userestrict id="ref5">
+            <head>Ownership &amp; Copyright</head>
+            <p>All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Special Collections and University Archives, Stanford University Libraries, Stanford, California 94304-6064. Consent is given on behalf of Special Collections as the owner of the physical items and is not intended to include or imply permission from the copyright owner. Such permission must be obtained from the copyright owner, heir(s) or assigns. See: http://library.stanford.edu/depts/spc/pubserv/permissions.html.</p>
+            <p>Restrictions also apply to digital representations of the original materials. Use of digital files is restricted to research and educational purposes.</p>
+         </userestrict>
+         <prefercite id="ref6">
+            <head>Cite As</head>
+            <p>Stanford University, Department of Physics, Records (SC0433). Dept. of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <scopecontent id="ref7">
+         <head>Description of the Collection</head>
+         <p>Research grant files containing abstracts, proposals, correspondence, and budget memoranda; faculty members represented include William Fairbank, Melvin Schwartz, John Dirk Walecka, Robert Hofstadter, and Felix Bloch.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <persname rules="aacr" source="naf">Bloch, Felix, 1905-</persname>
+         <persname rules="aacr" source="ingest">Fairbank, William M., 1917-1989.</persname>
+         <persname rules="aacr" source="naf">Hofstadter, Robert, 1915-1990</persname>
+         <persname rules="aacr" source="ingest">Schwartz, Melvin, 1932-2006</persname>
+         <corpname rules="dacs" source="naf">Stanford University. Department of Physics.</corpname>
+         <persname rules="aacr" source="naf">Walecka, John Dirk, 1932-</persname>
+         <subject source="lcsh">Physics--Research.</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.5">
+         <head>Collection Contents</head>
+         <c01 id="ref8" level="series">
+            <did>
+               <unittitle>Records</unittitle>
+               <unitdate normal="1958/1985" type="inclusive">1958-1985</unitdate>
+            </did>
+            <c02 id="ref9" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Fairbank/Lipa: JPL (Jet Propulsion Laboratory) Proposal</unittitle>
+                  <unitdate>1982 May 1</unitdate>
+               </did>
+               <scopecontent>
+                  <p>New Proposal, Unfunded, California Institute of Technology, "A Proposal to Develop a Flight Concept of An Experiment To Measure In A Space Shuttle The Specific Heat of Liquid Helium Through the Lambda Point with Very High Temperature Resolution"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref11" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Fairbank/Debra: AFOSR 76-2913</unittitle>
+                  <unitdate>1978 Oct 1-1979 Sep 30</unitdate>
+               </did>
+               <scopecontent>
+                  <p>(GRAU GAD 1977 Oct-1980 Oct 30), Renewal Proposal to the US Air Force, "The Experimental and Analytical Development of a Sensitive Accelerometer and Gravity Gradiometer"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref13" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Gifford: ONR (Closed) Office Naval Research)</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+               <scopecontent>
+                  <p>Final Report, "Investigation of Noise and Small-Signal Parameters of R.F. Squid Magnetometers"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref15" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Litke: DOE, ONR</unittitle>
+                  <unitdate>1983-1985</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"A Study of Photon Electron Production in e+e Annihilation" and "Research in High-Energy Physics"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref17" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Litke</unittitle>
+                  <unitdate>1981-1982</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"A Study of Photon Electron Production in e+e Annihilation" and "Research in High-Energy Physics"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref19" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Litke: DOE</unittitle>
+                  <unitdate>1972-1980</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Research in High-Energy Physics"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref21" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Proposal to NSF</unittitle>
+                  <unitdate>1976 Jun</unitdate>
+               </did>
+               <scopecontent>
+                  <p>Proposal to NSF for Continuation for a Program of Development and Testing of a Superconductor Electron Accelerator With Recirculation of the Beam and Nuclear Physics Experimentation, Yearian and Schwettman, Physics Dept</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref23" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Little</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+               <scopecontent>
+                  <p>US/Japan Co-operative "Development of the Design of Molecular Structures"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref25" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Little</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+               <scopecontent>
+                  <p>ONR Unfunded, "Feasibility Study of the Use of Photodiode Arrays in a Fluorescense Immunoassay Technique"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref27" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Little: ONR 77-C-0631 Closed</unittitle>
+                  <unitdate>1977 Jun 1-1979 May 31</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Structural Considerations in the Design and Synthesis of Polymeric Conductors"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref29" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Schwartz: NSF 800 - 1640</unittitle>
+                  <unitdate>1979 Dec 1</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"High Energy Physics"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref31" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Susskind/Dimopoulos: DOE Reserch in Theoretical Elementary Particle Physics</unittitle>
+                  <unitdate>1983 Aug 1-1984 Jul 31</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref32" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Fetter: NSF and DMR 8118386 (Div. of Materials Research)</unittitle>
+                  <unitdate>1983-1985</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Studies in Quantum Fluids"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref34" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Fetter: NSF and DMR 8118386 (Div. of Materials Research)</unittitle>
+                  <unitdate>1981-1983</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Studies in Quantum Fluids"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref36" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Fetter: NSF and DMR 8118386 (Div. of Materials Research)</unittitle>
+                  <unitdate>1978-1980</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Studies in Quantum Fluids"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref38" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Wagoner: NASA NSG-7204, Closed</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Theoretical Study of the Hard X-Ray Emissions ...."</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref40" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Walecka: NSF, 2FEW404, 79-18046, Closed</unittitle>
+                  <unitdate>1977-1982</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Theoretical Physics"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref42" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Walecka: Summary of Research Performed</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref43" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Walecka/Serot: NSF 81-07395</unittitle>
+                  <unitdate>1983-1984</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Studies in Theoretical Physics"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref45" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Walecka</unittitle>
+                  <unitdate>1981</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"A Relative Quantum Field Theory of Nuclear Structure"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref47" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Walecka: DOE</unittitle>
+                  <unitdate>circa 1980</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Proposal to Study Accelerations Processes Produced by Excited Atoms"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref49" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Clifford Will: NASA, NSG 7204, Closed</unittitle>
+                  <unitdate>1979-1983</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Theoretical Analysis of Relativistic Gravitational Experiments"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref51" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Clifford Will: NASA, NSG 7204, Closed</unittitle>
+                  <unitdate>1976-1978</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Theoretical Analysis of Relativistic Gravitational Experiments"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref53" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Wojcicki/Schwartz: NSF Supp1. Proposal, 7726029 Closed</unittitle>
+                  <unitdate>1976-1979</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Program in Energy Physics Research"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref55" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Wojcicki</unittitle>
+                  <unitdate>1975</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Budget for a Supplemental Proposal to the NSF for a Program in High Energy Physics"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref57" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Fairbank/Holm: NSF Research Proposal</unittitle>
+                  <unitdate>1978 Jan 1</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Static and Time-Resolved Magnetic Susceptibilities of Metalloproteins"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref59" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Fairbank/Madey: AFOSR Renewal Proposal Contract No. F44620--0022</unittitle>
+                  <unitdate>1975 Oct 1-1976 Sep 30</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Fundamental Experiments at Liquid Helium Temperatures," 2 copies</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref61" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Fairbank/Harrison: Renewal Proposal for NSF GI 34778</unittitle>
+                  <unitdate>1975 May 1-1976 Apr 30</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Superconducting Magnetometry for Detection of Heart Disease"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref63" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Fairbank/Debra: Renewal Proposal for AFOSR 76-2913</unittitle>
+                  <unitdate>1977 Oct 1-1978 Sep 30</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"The Experimental and Analytical Development of a Sensitive Superconducting Accelerometer and Gravity Gradiometer"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref65" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Fairbank/Harrison: Technicon Instruments Corporation</unittitle>
+                  <unitdate>1975 Apr 1-1978 Mar 31</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"A Proposal For the Development and Verification of Instrumentation and Computer Processing Techniques for Clinical Magnetocardiology"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref67" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Fairbank/Harrison: NSF</unittitle>
+                  <unitdate>1978 Jan 1</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"The ECG-MCG Relationship: Physiological and Computer Studies"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref69" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Fairbank/Madley: AFOSR Renewal Contract No. F44620-75-C-0022</unittitle>
+                  <unitdate>1974 Oct 1-1977 Sep 30</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Fundamental Experiments at Liquid Helium Temperatures, two proposals"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref71" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Fairbank/Giffard: NSF Proposal</unittitle>
+                  <unitdate>1973 Mar-1974 Feb</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Search for Gravitational Radiation Using Low Temperature Techniques, Renewal Proposal 1976 Apr 1-1977 Mar 31"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref73" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Fairbank: NSF Proposal</unittitle>
+                  <unitdate>1973 Apr 1-1974 Mar 31</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Search for Fractional Charge Using Low Temperature Techniques"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref75" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Fairbank/Debra/Opfer: AFOSR Proposal</unittitle>
+                  <unitdate>1972 May</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Experimental Study of Fundamental Problems Associated with Development of a Free Precession HE Nuclear Gyroscope"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref77" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Fairbank/Everitt/DeBra: NASA Renewal</unittitle>
+                  <unitdate>1975 Jun</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Program to Perform a Gyro Test of General Relativity in a Satellite"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref79" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Fetter: AFOSR Renewal</unittitle>
+                  <unitdate>1975 Jul 1</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Studies in Quantum Fluids and Solids"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref81" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Little: NASA Renewal</unittitle>
+                  <unitdate>1971 Oct</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Effects of Structure Upon the Electronic Behavior of Materials"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref83" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Litke: DOE</unittitle>
+                  <unitdate>1976 Jul 1-1977 Jun 30</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Study of Photon and Anomalous Electron Production in e+e- Annihilation"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref85" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Walecka/Giffard: ONR Renewal Proposal</unittitle>
+                  <unitdate>1978 Jul 1-1979 Jun 30</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Investigation of Noise and Small Signal Parameters of RF Squid Magnetometers"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref87" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">9</container>
+                  <unittitle>A Search for Free Quarks at Pep</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+               <scopecontent>
+                  <p>T. Pun and V. Vuillemin, Lawrence Berkeley Laboratory, B. Gobbi, Northwestern University, A. Litke, Stanford University, and S. Parker and D. Yount, University of Hawaii</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref89" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Hanna/Meyerhof: NSF Proposal Renewal</unittitle>
+                  <unitdate>1974 Dec 2</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Nuclear Structure Investigation with a 15 MeV Tandem Van de Graaff Accelerator"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref91" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Glavish/Hanna/Schwettman: NSF Proposal</unittitle>
+                  <unitdate>1971 Apr</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Program to Develop a Superconducting Heavy Ion Accelerator"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref93" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Wojcicki/Schwartz: NSF Proposal</unittitle>
+                  <unitdate>1978 Oct 27</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Program in High Energy Physics"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref95" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Wojcicki/Schwartz: NSF Proposal</unittitle>
+                  <unitdate>1976-1977</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Program in High Energy Physics"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref97" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Wojcicki/Schwartz</unittitle>
+                  <unitdate>1972</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Investigation into Various Aspects of Weak and Electromagnetic Interactions"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref99" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Walecka: NSF Proposal</unittitle>
+                  <unitdate>1974 Aug</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Theoretical Physics"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref101" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Schwettman/Madley: AFOSR Proposal</unittitle>
+                  <unitdate>1975 Oct 15-1976 Oct 14</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Free Electron Laser"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref103" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Kaplan/Scwettman: NSF Proposal</unittitle>
+                  <unitdate>1973 Nov 1-1974 Oct 31</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Develop a Pion Facility for Cancer Therapy"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref105" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Turneaure/Will: SAO Proposal</unittitle>
+                  <unitdate>1977 Oct 1-1978 Feb 28</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Performing a Null Gravitational Red-Shift Experiment In Cooperation With The Smithsonian Astronomical Observatory"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref107" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Wagoner: NSF Proposal</unittitle>
+                  <unitdate>1974 Sep 10</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Theoretical Studies in Gravitation and Astrophysics"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref109" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Will: NASA Proposal</unittitle>
+                  <unitdate>1975 Oct 1</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Theoretical Analysis of elativistic Gravitational Experiments"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref111" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Everitt/Worden </unittitle>
+                  <unitdate>1976 Jun</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Proposal for a Cryogenic Equivalence Principle Experiment"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref113" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Schwartz/Wojcicki: NSF Proposal</unittitle>
+                  <unitdate>1971 Apr 1</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Investigation into Various Aspects of Weak and Electromagnetic Interactions"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref115" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Schiff/Drell: Air Force Renewal Proposal</unittitle>
+                  <unitdate>1958 Jan 28-1960 Sep</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"High Energy Physics Research" (Budget work, no abstract)</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref117" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Bloch, Proposal for Renewal of Contract</unittitle>
+                  <unitdate>1968 Jan-1970 Oct</unitdate>
+               </did>
+               <scopecontent>
+                  <p>Objectives of Research: Theoretical study of many-body problems will be continued with particular empahasis on their application to low-temperature phenomena.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref119" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Bloch, Renewal Contract NONR 225</unittitle>
+                  <unitdate>1968 Feb-1970 Dec</unitdate>
+               </did>
+               <scopecontent>
+                  <p>Object of Research: Theoretical Study of systems with many particles is to be continued and extended</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref121" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">15</container>
+                  <unittitle>Hofstadter: NSF Proposal</unittitle>
+                  <unitdate>1972 Nov</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"New Approaches to Dynamic Radionuclides Studies of Vital Organs (Helmet Camera)"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref123" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">16</container>
+                  <unittitle>Hofstadter</unittitle>
+                  <unitdate>1973 Feb</unitdate>
+               </did>
+               <scopecontent>
+                  <p>Harshaw Chemical Company, "Study and Preparation of New Scintillator Materials"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref125" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">17</container>
+                  <unittitle>Hofstadter: DOE Proposal</unittitle>
+                  <unitdate>1978 Jan 1</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Study Acceleration Processes Produced by Excited Atoms"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref127" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">18</container>
+                  <unittitle>Hofstadter/Yearian: NSF Proposal</unittitle>
+                  <unitdate>1978 Apr 1-1979 Mar 31</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Continuation of a Program of High Energy Physics"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref129" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">19</container>
+                  <unittitle>Hofstadter: NASA Proposal</unittitle>
+                  <unitdate>1978 Jan 1-Dec 31</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Instrument Development for the Study of High Energy Gamma Rays in Space"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref131" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Hofstadter/Yearian: NSF Proposal</unittitle>
+                  <unitdate>1976 Apr 1-1977 Mar 31</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Continuation of a Program of High Energy Physics"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref133" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Schiff: Air Force Contract Renewal</unittitle>
+                  <unitdate>1968 May 1</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Theoretical Physics of Fields, Elementary Particles and Collective Phenomena"</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref135" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Schiff: Air Force Contract Renewal</unittitle>
+                  <unitdate>1966</unitdate>
+               </did>
+               <scopecontent>
+                  <p>"Supporting the Institute of Theoretical Physics"</p>
+               </scopecontent>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

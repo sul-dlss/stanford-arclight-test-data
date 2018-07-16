@@ -1,0 +1,4725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[Terry Allen Winograd papers])//EN"
+             identifier="ark:/13030/c89k4cp6">sc1165.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Terry Allen Winograd Papers
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Winograd (Terry Allen) Papers</titleproper>
+            <author>Daniel Hartwig, Jenny Johnson</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2013-07">July 2013</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC1165</unitid>
+         <origination label="Creator:">
+            <persname rules="aacr" source="naf">Winograd, Terry.</persname>
+         </origination>
+         <unittitle label="Title:">Terry Allen Winograd papers</unittitle>
+         <unitdate normal="1963/2006"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1963-2006</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>38 Linear feet</extent>
+         </physdesc>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <accessrestrict id="ref2">
+            <head>Information about Access</head>
+            <p>The materials are open for research use. Audio-visual materials are not available in original format, and must be reformatted to a digital use copy.</p>
+         </accessrestrict>
+         <userestrict id="ref3">
+            <head>Ownership &amp; Copyright</head>
+            <p>All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Special Collections and University Archives, Stanford University Libraries, Stanford, California 94305-6064. Consent is given on behalf of Special Collections as the owner of the physical items and is not intended to include or imply permission from the copyright owner. Such permission must be obtained from the copyright owner, heir(s) or assigns. See: http://library.stanford.edu/depts/spc/pubserv/permissions.html.</p>
+            <p>Restrictions also apply to digital representations of the original materials. Use of digital files is restricted to research and educational purposes.</p>
+         </userestrict>
+         <prefercite id="ref4">
+            <head>Cite As</head>
+            <p>[identification of item], Terry Allen Winograd Papers (SC1165). Dept. of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <bioghist id="ref5">
+         <head>Biographical/Historical note</head>
+         <p>Terry Allen Winograd (1946-), an impressive scholar and professor of computer science at Stanford University, is known for his research on artificial intelligence and natural language. As a PhD student at MIT from 1968-1970, Winograd wrote SHRDLU, a computer program for understanding natural language.</p>
+         <p>During Winograd’s successful career at Stanford University he co-directed the Stanford Human-Computer Interaction Group and advised a PhD student in the mid-1990s named Larry Page, who later co-founded Google. In addition to his work in Stanford’s Computer Science Department, Winograd also helped found the Hasso Plattner Institute of Design.</p>
+      </bioghist>
+      <scopecontent id="ref6">
+         <head>Scope and Contents</head>
+         <p>Terry Allen Winograd papers include 33 boxes of print and audiovisual files dating back to the 1960s from Winograd’s own education and his career as a professor at Stanford University. The collection includes professional files, publications, research files, teaching files, audiovisual materials, computer files, and subject files on individual students.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <subject source="lcsh">Computer science--Research</subject>
+         <subject source="lcsh">Computer science--Study and teaching</subject>
+         <subject source="LCSH">Computer science.</subject>
+         <occupation source="lcsh">Computer scientists--California.</occupation>
+         <subject source="ingest">Computer user interface</subject>
+         <subject source="lcsh">Computers--Technological innovations.</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.6">
+         <head>Collection Contents</head>
+         <c01 id="ref7" level="series">
+            <did>
+               <unittitle>Professional files</unittitle>
+               <dao linktype="simple"
+                    actuate="onrequest"
+                    title="Professional files"
+                    role="Mixed Material"
+                    href="http://purl.stanford.edu/dc748rm3278"
+                    show="new">
+                  <daodesc>
+                     <p>Professional files</p>
+                  </daodesc>
+               </dao>
+            </did>
+            <c02 id="ref8" level="file">
+               <did>
+                  <container type="Box">16</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Cuba</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref9" level="file">
+               <did>
+                  <container type="Box">16</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Online Comm</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref10" level="file">
+               <did>
+                  <container type="Box">16</container>
+                  <container type="Folder">3</container>
+                  <unittitle>UNL Permission</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref11" level="file">
+               <did>
+                  <container type="Box">16</container>
+                  <container type="Folder">4</container>
+                  <unittitle>UCC (1 of 2)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref12" level="file">
+               <did>
+                  <container type="Box">16</container>
+                  <container type="Folder">5</container>
+                  <unittitle>UCC (2 of 2)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref13" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">1</container>
+                  <unittitle>World Center (1 of 2)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref14" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">2</container>
+                  <unittitle>World Center (2 of 2)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref15" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">3</container>
+                  <unittitle>World Center (1 of 3)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref16" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">4</container>
+                  <unittitle>World Center (2 of 3)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref17" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">5</container>
+                  <unittitle>World Center (3 of 3)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref18" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">6</container>
+                  <unittitle>LACP Random (1 of 2)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref19" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">7</container>
+                  <unittitle>LACP Random (2 of 2)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref20" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Winograd's Papers</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref21" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Newell, Allen</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref22" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Sespa (1 of 2)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref23" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Sespa (2 of 2)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref24" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Publications</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref25" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">6</container>
+                  <unittitle>NSF 80</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref26" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Software design book</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref27" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Workshop Maps</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref28" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Workshop Book (1 of 2)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref29" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Workshop Book (2 of 2)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref30" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <container type="Folder">5</container>
+                  <unittitle>
+                     <persname>Papert, Seymour</persname> (1 of 2)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref31" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <container type="Folder">6</container>
+                  <unittitle>
+                     <persname>Papert, Seymour</persname> (2 of 2)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref32" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Institute of Design</unittitle>
+                  <unitdate>2005-2006</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref33" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Pygmalion</unittitle>
+                  <unitdate>1975</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref34" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Design95</unittitle>
+                  <unitdate>1995</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref35" level="series">
+            <did>
+               <unittitle>Publications</unittitle>
+               <dao linktype="simple"
+                    actuate="onrequest"
+                    title="Publications"
+                    role="Mixed Material"
+                    href="http://purl.stanford.edu/gp848tv1065"
+                    show="new">
+                  <daodesc>
+                     <p>Publications</p>
+                  </daodesc>
+               </dao>
+            </did>
+            <c02 id="ref36" level="file">
+               <did>
+                  <container type="Box">20</container>
+                  <unittitle>
+                     <title render="doublequote" linktype="simple">Interrupt</title>; 
+                            <title render="doublequote" linktype="simple">Science for the People</title>; 
+                            <title render="doublequote" linktype="simple">Spark</title>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref37" level="file">
+               <did>
+                  <container type="Box">21</container>
+                  <unittitle>
+                     <title render="doublequote" linktype="simple">Science for the People</title>; 
+                            <title render="doublequote" linktype="simple">The CPSR Newsletter</title>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref38" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Winograd College Papers</unittitle>
+                  <unitdate>1963-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref39" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <container type="Folder">2</container>
+                  <unittitle>1965</unittitle>
+                  <unitdate>1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref40" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <container type="Folder">3</container>
+                  <unittitle>1966</unittitle>
+                  <unitdate>1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref41" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <container type="Folder">4</container>
+                  <unittitle>1967</unittitle>
+                  <unitdate>1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref42" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <container type="Folder">5</container>
+                  <unittitle>1968</unittitle>
+                  <unitdate>1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref43" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <container type="Folder">6</container>
+                  <unittitle>1969</unittitle>
+                  <unitdate>1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref44" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <container type="Folder">7</container>
+                  <unittitle>1970</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref45" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <container type="Folder">8</container>
+                  <unittitle>1971</unittitle>
+                  <unitdate>1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref46" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <container type="Folder">9</container>
+                  <unittitle>1972</unittitle>
+                  <unitdate>1972</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref47" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <container type="Folder">10</container>
+                  <unittitle>1973</unittitle>
+                  <unitdate>1973</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref48" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <container type="Folder">11</container>
+                  <unittitle>1974</unittitle>
+                  <unitdate>1974</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref49" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <container type="Folder">12</container>
+                  <unittitle>1975</unittitle>
+                  <unitdate>1975</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref50" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <container type="Folder">13</container>
+                  <unittitle>1976</unittitle>
+                  <unitdate>1976</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref51" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <container type="Folder">14</container>
+                  <unittitle>1977</unittitle>
+                  <unitdate>1977</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref52" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <container type="Folder">15</container>
+                  <unittitle>1978</unittitle>
+                  <unitdate>1978</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref53" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <container type="Folder">16</container>
+                  <unittitle>1979</unittitle>
+                  <unitdate>1979</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref54" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <container type="Folder">17</container>
+                  <unittitle>1980</unittitle>
+                  <unitdate>1980</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref55" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <container type="Folder">18</container>
+                  <unittitle>1983</unittitle>
+                  <unitdate>1983</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref56" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <container type="Folder">19</container>
+                  <unittitle>1984</unittitle>
+                  <unitdate>1984</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref57" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <container type="Folder">20</container>
+                  <unittitle>1985</unittitle>
+                  <unitdate>1985</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref58" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <container type="Folder">21</container>
+                  <unittitle>1986</unittitle>
+                  <unitdate>1986</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref59" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <container type="Folder">1</container>
+                  <unittitle>1987 (1 of 2)</unittitle>
+                  <unitdate>1987</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref60" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <container type="Folder">2</container>
+                  <unittitle>1987 (2 of 2)</unittitle>
+                  <unitdate>1987</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref61" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <container type="Folder">3</container>
+                  <unittitle>1988</unittitle>
+                  <unitdate>1988</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref62" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <container type="Folder">4</container>
+                  <unittitle>1989</unittitle>
+                  <unitdate>1989</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref63" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <container type="Folder">5</container>
+                  <unittitle>1990</unittitle>
+                  <unitdate>1990</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref64" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <container type="Folder">6</container>
+                  <unittitle>1991</unittitle>
+                  <unitdate>1991</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref65" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <container type="Folder">7</container>
+                  <unittitle>1992-1994</unittitle>
+                  <unitdate>1992-1994</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref66" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <container type="Folder">8</container>
+                  <unittitle>1995-1999</unittitle>
+                  <unitdate>1995-1999</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref67" level="series">
+            <did>
+               <unittitle>Research files</unittitle>
+            </did>
+            <c02 id="ref68" level="file">
+               <did>
+                  <container type="Box">22</container>
+                  <container type="Folder">1</container>
+                  <unittitle>CPSR</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref69" level="file">
+               <did>
+                  <container type="Box">22</container>
+                  <container type="Folder">2</container>
+                  <unittitle>??</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref70" level="file">
+               <did>
+                  <container type="Box">22</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Military Funding CS</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref71" level="file">
+               <did>
+                  <container type="Box">22</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Military Funding - MIT</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref72" level="file">
+               <did>
+                  <container type="Box">22</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Military Funding - Stanford</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref73" level="file">
+               <did>
+                  <container type="Box">22</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Military Funding - Various Articles</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref74" level="file">
+               <did>
+                  <container type="Box">22</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Conference: Ethical Issues Associated w/Science Research for the Military</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref75" level="file">
+               <did>
+                  <container type="Box">22</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Computers/CPSR and SDI</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref76" level="file">
+               <did>
+                  <container type="Box">22</container>
+                  <container type="Folder">9</container>
+                  <unittitle>SDI Boycott Updates</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref77" level="file">
+               <did>
+                  <container type="Box">22</container>
+                  <container type="Folder">10</container>
+                  <unittitle>SDI Pledge at Stanford</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref78" level="file">
+               <did>
+                  <container type="Box">22</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Open Letter to Congress</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref79" level="file">
+               <did>
+                  <container type="Box">22</container>
+                  <container type="Folder">12</container>
+                  <unittitle>UCS</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref80" level="file">
+               <did>
+                  <container type="Box">22</container>
+                  <container type="Folder">13</container>
+                  <unittitle>SDIO and various opposition</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref81" level="file">
+               <did>
+                  <container type="Box">22</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Mailings/CPSR</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref82" level="file">
+               <did>
+                  <container type="Box">22</container>
+                  <container type="Folder">15</container>
+                  <unittitle>History/CPSR</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref83" level="file">
+               <did>
+                  <container type="Box">22</container>
+                  <container type="Folder">16</container>
+                  <unittitle>CPSR Email</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref84" level="file">
+               <did>
+                  <container type="Box">22</container>
+                  <container type="Folder">17</container>
+                  <unittitle>The Journal of Community Communications</unittitle>
+                  <unitdate>1979-1982</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref85" level="file">
+               <did>
+                  <container type="Box">22</container>
+                  <container type="Folder">18</container>
+                  <unittitle>The CPSR Newsletter @ Pantry Cabinet</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref86" level="file">
+               <did>
+                  <container type="Box">22</container>
+                  <container type="Folder">19</container>
+                  <unittitle>SDI Articles</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref87" level="file">
+               <did>
+                  <container type="Box">22</container>
+                  <container type="Folder">20</container>
+                  <unittitle>CPSR - Miscellaneous (1 of 2)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref88" level="file">
+               <did>
+                  <container type="Box">22</container>
+                  <container type="Folder">21</container>
+                  <unittitle>CPSR - Miscellaneous (2 of 2)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref89" level="file">
+               <did>
+                  <container type="Box">23</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Military/General (1 of 3)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref90" level="file">
+               <did>
+                  <container type="Box">23</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Military/General (2 of 3)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref91" level="file">
+               <did>
+                  <container type="Box">23</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Military/General (3 of 3)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref92" level="file">
+               <did>
+                  <container type="Box">23</container>
+                  <container type="Folder">4</container>
+                  <unittitle>MIT</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref93" level="file">
+               <did>
+                  <container type="Box">23</container>
+                  <container type="Folder">5</container>
+                  <unittitle>CPP (1 of 2)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref94" level="file">
+               <did>
+                  <container type="Box">23</container>
+                  <container type="Folder">6</container>
+                  <unittitle>CPP (2 of 2)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref95" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <container type="Folder">9</container>
+                  <unittitle>ALEPH</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref96" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <container type="Folder">10</container>
+                  <unittitle>ASD</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref97" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <container type="Folder">11</container>
+                  <unittitle>CPSR</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref98" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <container type="Folder">12</container>
+                  <unittitle>DL Slides</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref99" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <container type="Folder">13</container>
+                  <unittitle>HCI Center</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref100" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <container type="Folder">14</container>
+                  <unittitle>HUB</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref101" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <container type="Folder">15</container>
+                  <unittitle>IDM</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref102" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <container type="Folder">16</container>
+                  <unittitle>Interval</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref103" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <container type="Folder">17</container>
+                  <unittitle>Mobile Media</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref104" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <container type="Folder">18</container>
+                  <unittitle>Proposals (1 of 2)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref105" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <container type="Folder">19</container>
+                  <unittitle>Proposals (2 of 2)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref106" level="file">
+               <did>
+                  <container type="Box">24</container>
+                  <container type="Folder">1</container>
+                  <unittitle>AI</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref107" level="file">
+               <did>
+                  <container type="Box">24</container>
+                  <container type="Folder">2</container>
+                  <unittitle>CS147 (1 of 2)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref108" level="file">
+               <did>
+                  <container type="Box">24</container>
+                  <container type="Folder">3</container>
+                  <unittitle>CS147 (2 of 2)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref109" level="file">
+               <did>
+                  <container type="Box">24</container>
+                  <container type="Folder">4</container>
+                  <unittitle>AI Reprints &amp; Reports (1 of 3)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref110" level="file">
+               <did>
+                  <container type="Box">24</container>
+                  <container type="Folder">5</container>
+                  <unittitle>AI Reprints &amp; Reports (2 of 3)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref111" level="file">
+               <did>
+                  <container type="Box">24</container>
+                  <container type="Folder">6</container>
+                  <unittitle>AI Reprints &amp; Reports (3 of 3)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref112" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <container type="Folder">1</container>
+                  <unittitle>ATI (1 of 3)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref113" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <container type="Folder">2</container>
+                  <unittitle>ATI (2 of 3)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref114" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <container type="Folder">3</container>
+                  <unittitle>ATI (3 of 3)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref115" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Goffman</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref116" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Lighthill</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref117" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Speech</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref118" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <container type="Folder">7</container>
+                  <unittitle>AI Reports</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref119" level="file">
+               <did>
+                  <container type="Box">26</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Interval - Lee</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref120" level="file">
+               <did>
+                  <container type="Box">26</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Infoknitter (1 of 2)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref121" level="file">
+               <did>
+                  <container type="Box">26</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Infoknitter (2 of 2)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref122" level="file">
+               <did>
+                  <container type="Box">26</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Cambridge</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref123" level="file">
+               <did>
+                  <container type="Box">26</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Xerox</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref124" level="file">
+               <did>
+                  <container type="Box">26</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Fifth Generation</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref125" level="file">
+               <did>
+                  <container type="Box">27</container>
+                  <unittitle>Reports</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref126" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Language Reports</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref127" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Harvey A. Cohen</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref128" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Smalltalk 76</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref129" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <container type="Folder">4</container>
+                  <unittitle>IBM: Pictureworld: A Concept for Future Office System</unittitle>
+                  <unitdate>1980</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref130" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Bruce Buchanan</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref131" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Science Against the People</unittitle>
+                  <unitdate>1972</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref132" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Other</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref133" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Bamberger, Jeanne</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref134" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <container type="Folder">9</container>
+                  <unittitle>
+                     <persname>Pask, Gordon</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref135" level="file">
+               <did>
+                  <container type="Box">29</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Reprints</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref136" level="file">
+               <did>
+                  <container type="Box">29</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Reprints - LISP, etc.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref137" level="file">
+               <did>
+                  <container type="Box">29</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Logo</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref138" level="file">
+               <did>
+                  <container type="Box">29</container>
+                  <container type="Folder">4</container>
+                  <unittitle>
+                     <persname>McDermott, Drew V.</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref139" level="file">
+               <did>
+                  <container type="Box">29</container>
+                  <container type="Folder">5</container>
+                  <unittitle>No Business as Usual</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref140" level="file">
+               <did>
+                  <container type="Box">29</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Outer Space</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref141" level="file">
+               <did>
+                  <container type="Box">29</container>
+                  <container type="Folder">7</container>
+                  <unittitle>MIT/AI</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref142" level="file">
+               <did>
+                  <container type="Box">29</container>
+                  <container type="Folder">8</container>
+                  <unittitle>MIT/AI</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref143" level="file">
+               <did>
+                  <container type="Box">30</container>
+                  <unittitle>Miscellaneous Reports</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref144" level="file">
+               <did>
+                  <container type="Box">31</container>
+                  <unittitle>Miscellaneous Reports</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref145" level="file">
+               <did>
+                  <container type="Box">33</container>
+                  <unittitle>Military Funding of Research, Technical Reports on AI, Miscellaneous publications</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref146" level="series">
+            <did>
+               <unittitle>Teaching files</unittitle>
+            </did>
+            <c02 id="ref147" level="subseries">
+               <did>
+                  <unittitle>Courses</unittitle>
+               </did>
+               <c03 id="ref148" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">1</container>
+                     <unittitle>CS 47N</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref149" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">2</container>
+                     <unittitle>CS 201 (1 of )</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref150" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">3</container>
+                     <unittitle>CS 201 (2 of )</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref151" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">4</container>
+                     <unittitle>CS 201 (3 of 3)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref152" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">5</container>
+                     <unittitle>CS 201 Handouts</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref153" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Computers and Society</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref154" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">7</container>
+                     <unittitle>CS 247 (1 of 2)</unittitle>
+                     <unitdate normal="1991/1992" type="inclusive">1991-1992</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref155" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">8</container>
+                     <unittitle>CS 247 (2 of 2)</unittitle>
+                     <unitdate normal="1991/1992" type="inclusive">1991-1992</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref156" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">9</container>
+                     <unittitle>CS 247a (1 of 4)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref157" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">10</container>
+                     <unittitle>CS 247a (2 of 4)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref158" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">11</container>
+                     <unittitle>CS 247a (3 of 4)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref159" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">12</container>
+                     <unittitle>CS 247a (4 of 4)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref160" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">13</container>
+                     <unittitle>CS 247b (1 of 5)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref161" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">14</container>
+                     <unittitle>CS 247b (2 of 5)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref162" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">15</container>
+                     <unittitle>CS 247b (3 of 5)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref163" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">16</container>
+                     <unittitle>CS 247b (4 of 5)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref164" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">17</container>
+                     <unittitle>CS 247b (5 of 5)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref165" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">18</container>
+                     <unittitle>CS/LING 265</unittitle>
+                     <unitdate>1974/1978</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref166" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">19</container>
+                     <unittitle>CS/LING 266</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref167" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">20</container>
+                     <unittitle>CS/LING 276 (1 of 4)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref168" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">21</container>
+                     <unittitle>CS/LING 276 (2 of 4)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref169" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">22</container>
+                     <unittitle>CS/LING 276 (3 of 4)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref170" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">23</container>
+                     <unittitle>CS/LING 276 (4 of 4)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref171" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">24</container>
+                     <unittitle>AI Courses (1 of 2)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref172" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">25</container>
+                     <unittitle>AI Courses (2 of 2)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref173" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">26</container>
+                     <unittitle>CS 276 (1 of 3)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref174" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">27</container>
+                     <unittitle>CS 276 (2 of 3)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref175" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">28</container>
+                     <unittitle>CS 276 (3 of 3)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref176" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">1</container>
+                     <unittitle>CS 277</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref177" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">2</container>
+                     <unittitle>CS 365</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref178" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Misc. Readings (1 of 4)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref179" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Misc. Readings (2 of 4)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref180" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Misc. Readings (3 of 4)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref181" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Misc. Readings (4 of 4)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref182" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">14</container>
+                     <unittitle>Misc. Readings (5 of )</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref183" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">15</container>
+                     <unittitle>Misc. Readings (6 of )</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref184" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">16</container>
+                     <unittitle>Misc. Readings (7 of )</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref185" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">17</container>
+                     <unittitle>Misc. Readings (8 of )</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref186" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">7</container>
+                     <unittitle>CS 377 (1 of 3)</unittitle>
+                     <unitdate>1983</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref187" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">8</container>
+                     <unittitle>CS 377 (2 of 3)</unittitle>
+                     <unitdate>1983</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref188" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">9</container>
+                     <unittitle>CS 377 (3 of 3)</unittitle>
+                     <unitdate>1983</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref189" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">10</container>
+                     <unittitle>CS 378 (1 of 2)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref190" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">11</container>
+                     <unittitle>CS 378 (2 of 2)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref191" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">12</container>
+                     <unittitle>CS 378 Readings</unittitle>
+                     <unitdate>1989</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref192" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">13</container>
+                     <unittitle>CS 378 Readings</unittitle>
+                     <unitdate>1991</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref193" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">18</container>
+                     <unittitle>CS 447b (1 of 2)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref194" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">19</container>
+                     <unittitle>CS 447b (2 of 2)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref195" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">20</container>
+                     <unittitle>CS 378 (1 of 2)</unittitle>
+                     <unitdate>1985</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref196" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">21</container>
+                     <unittitle>CS 378 (2 of 2)</unittitle>
+                     <unitdate>1985</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref197" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">22</container>
+                     <unittitle>CS 378</unittitle>
+                     <unitdate>1988</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref198" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">23</container>
+                     <unittitle>CS 378 Original (1 of 2)</unittitle>
+                     <unitdate>1988</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref199" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">24</container>
+                     <unittitle>CS 378 Original (2 of 2)</unittitle>
+                     <unitdate>1988</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref200" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">25</container>
+                     <unittitle>CS 447 (1 of 2)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref201" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">26</container>
+                     <unittitle>CS 447 (2 of 2)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref202" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <unittitle>CS 247b</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref203" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <unittitle>CS 378 Course Readings</unittitle>
+                     <unitdate>1996</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref204" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <unittitle>CS 201 Reader</unittitle>
+                     <unitdate>1991</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref205" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <unittitle>Computing and Social Responsibility: A Collection of Course Syllabi</unittitle>
+                     <unitdate>1990</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref206" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">1</container>
+                     <unittitle>CS 147 (1 of 3)</unittitle>
+                     <unitdate>1993/1994</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref207" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">2</container>
+                     <unittitle>CS 147 (2 of 3)</unittitle>
+                     <unitdate>1993/1994</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref208" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">3</container>
+                     <unittitle>CS 147 (3 of 3)</unittitle>
+                     <unitdate>1993/1994</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref209" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">4</container>
+                     <unittitle>CS 247 Handouts (1 of 4)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref210" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">5</container>
+                     <unittitle>CS 247 Handouts (2 of 4)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref211" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">6</container>
+                     <unittitle>CS 247 Handouts (3 of 4)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref212" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">7</container>
+                     <unittitle>CS 247 Handouts (4 of 4)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref213" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">8</container>
+                     <unittitle>CS 378 (1 of 3)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref214" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">9</container>
+                     <unittitle>CS 378 (2 of 3)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref215" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">10</container>
+                     <unittitle>CS 378 (3 of 3)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref216" level="file">
+                  <did>
+                     <container type="Box">32</container>
+                     <container type="Folder">1</container>
+                     <unittitle>CS147 (1 of 2)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref217" level="file">
+                  <did>
+                     <container type="Box">32</container>
+                     <container type="Folder">2</container>
+                     <unittitle>CS147 (2 of 2)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref218" level="file">
+                  <did>
+                     <container type="Box">32</container>
+                     <container type="Folder">3</container>
+                     <unittitle>HCI: CS147 Homework Asignments</unittitle>
+                     <unitdate>1999 Autumn</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref219" level="file">
+                  <did>
+                     <container type="Box">32</container>
+                     <container type="Folder">5</container>
+                     <unittitle>CS147</unittitle>
+                     <unitdate>2000 Fall</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref220" level="file">
+                  <did>
+                     <container type="Box">32</container>
+                     <container type="Folder">6</container>
+                     <unittitle>CS147</unittitle>
+                     <unitdate>2002 Fall</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref221" level="file">
+                  <did>
+                     <container type="Box">32</container>
+                     <container type="Folder">7</container>
+                     <unittitle>CS147 Articles</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref222" level="file">
+                  <did>
+                     <container type="Box">32</container>
+                     <container type="Folder">8</container>
+                     <unittitle>CS147</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref223" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Theses</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref224" level="file">
+               <did>
+                  <container type="Box">32</container>
+                  <container type="Folder">4</container>
+                  <unittitle>
+                     <persname>Uzureau, Erik F.</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref225" level="file">
+               <did>
+                  <container type="Box">32</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Transparencies: Xerox Star User Interface</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref226" level="file">
+               <did>
+                  <container type="Box">32</container>
+                  <container type="Folder">10</container>
+                  <unittitle>
+                     <persname>Gips, Jonathan Peter</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref227" level="file">
+               <did>
+                  <container type="Box">32</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Winograd</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref228" level="subseries">
+               <did>
+                  <unittitle>Student idea logs</unittitle>
+               </did>
+               <c03 id="ref229" level="file">
+                  <did>
+                     <container type="Box">34</container>
+                     <container type="Folder"/>
+                     <unittitle>Rob Bence</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref230" level="file">
+                  <did>
+                     <container type="Box">34</container>
+                     <container type="Folder"/>
+                     <unittitle>April Alexander</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref231" level="file">
+                  <did>
+                     <container type="Box">34</container>
+                     <container type="Folder"/>
+                     <unittitle>Jonathan Bailey</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref232" level="file">
+                  <did>
+                     <container type="Box">34</container>
+                     <container type="Folder"/>
+                     <unittitle>Jason C. Bautista</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref233" level="file">
+                  <did>
+                     <container type="Box">34</container>
+                     <container type="Folder"/>
+                     <unittitle>David Black</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref234" level="file">
+                  <did>
+                     <container type="Box">34</container>
+                     <container type="Folder"/>
+                     <unittitle>Hayden Bursk</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref235" level="file">
+                  <did>
+                     <container type="Box">34</container>
+                     <container type="Folder"/>
+                     <unittitle>Timothy Caclems</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref236" level="file">
+                  <did>
+                     <container type="Box">34</container>
+                     <container type="Folder"/>
+                     <unittitle>Anuraag Chigurupati</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref237" level="file">
+                  <did>
+                     <container type="Box">34</container>
+                     <container type="Folder"/>
+                     <unittitle>Jaki Clark</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref238" level="file">
+                  <did>
+                     <container type="Box">34</container>
+                     <container type="Folder"/>
+                     <unittitle>Paul Doersch</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref239" level="file">
+                  <did>
+                     <container type="Box">34</container>
+                     <container type="Folder"/>
+                     <unittitle>Garret Bastham</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref240" level="file">
+                  <did>
+                     <container type="Box">34</container>
+                     <container type="Folder"/>
+                     <unittitle>Evershed, Gervais, Merrill, Schroeder</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref241" level="file">
+                  <did>
+                     <container type="Box">34</container>
+                     <container type="Folder"/>
+                     <unittitle>Julie Finkelstein</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref242" level="file">
+                  <did>
+                     <container type="Box">34</container>
+                     <container type="Folder"/>
+                     <unittitle>Michael Fisher</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref243" level="file">
+                  <did>
+                     <container type="Box">34</container>
+                     <container type="Folder"/>
+                     <unittitle>Michael Fisher</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref244" level="file">
+                  <did>
+                     <container type="Box">34</container>
+                     <container type="Folder"/>
+                     <unittitle>Andrew Gadson</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref245" level="file">
+                  <did>
+                     <container type="Box">34</container>
+                     <container type="Folder"/>
+                     <unittitle>Siddharth Gopalan</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref246" level="file">
+                  <did>
+                     <container type="Box">35</container>
+                     <container type="Folder"/>
+                     <unittitle>Matt Jones</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref247" level="file">
+                  <did>
+                     <container type="Box">35</container>
+                     <container type="Folder"/>
+                     <unittitle>Po Kai</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref248" level="file">
+                  <did>
+                     <container type="Box">35</container>
+                     <container type="Folder"/>
+                     <unittitle>Chetan Kalyan</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref249" level="file">
+                  <did>
+                     <container type="Box">35</container>
+                     <container type="Folder"/>
+                     <unittitle>Isabelle Kim</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref250" level="file">
+                  <did>
+                     <container type="Box">35</container>
+                     <container type="Folder"/>
+                     <unittitle>Zhifeng Koh</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref251" level="file">
+                  <did>
+                     <container type="Box">35</container>
+                     <container type="Folder"/>
+                     <unittitle>Gordon Koo</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref252" level="file">
+                  <did>
+                     <container type="Box">35</container>
+                     <container type="Folder"/>
+                     <unittitle>John Kuera</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref253" level="file">
+                  <did>
+                     <container type="Box">35</container>
+                     <container type="Folder"/>
+                     <unittitle>Henry A. Lee</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref254" level="file">
+                  <did>
+                     <container type="Box">35</container>
+                     <container type="Folder"/>
+                     <unittitle>Christopher Lin</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref255" level="file">
+                  <did>
+                     <container type="Box">35</container>
+                     <container type="Folder"/>
+                     <unittitle>Stephen Lindholm</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref256" level="file">
+                  <did>
+                     <container type="Box">35</container>
+                     <container type="Folder"/>
+                     <unittitle>Ariel Lin</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref257" level="file">
+                  <did>
+                     <container type="Box">35</container>
+                     <container type="Folder"/>
+                     <unittitle>Sarah Louise Martin</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref258" level="file">
+                  <did>
+                     <container type="Box">35</container>
+                     <container type="Folder"/>
+                     <unittitle>Wesley Mateo</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref259" level="file">
+                  <did>
+                     <container type="Box">35</container>
+                     <container type="Folder"/>
+                     <unittitle>Kelly Mayes</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref260" level="file">
+                  <did>
+                     <container type="Box">35</container>
+                     <container type="Folder"/>
+                     <unittitle>Andrew L. Meyer</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref261" level="file">
+                  <did>
+                     <container type="Box">35</container>
+                     <container type="Folder"/>
+                     <unittitle>Michael Morgan</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref262" level="file">
+                  <did>
+                     <container type="Box">35</container>
+                     <container type="Folder"/>
+                     <unittitle>David Murray</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref263" level="file">
+                  <did>
+                     <container type="Box">35</container>
+                     <container type="Folder"/>
+                     <unittitle>Nate</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref264" level="file">
+                  <did>
+                     <container type="Box">35</container>
+                     <container type="Folder"/>
+                     <unittitle>Matt Paden</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref265" level="file">
+                  <did>
+                     <container type="Box">35</container>
+                     <container type="Folder"/>
+                     <unittitle>Joyce Pan</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref266" level="file">
+                  <did>
+                     <container type="Box">35</container>
+                     <container type="Folder"/>
+                     <unittitle>Steven Peng</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref267" level="file">
+                  <did>
+                     <container type="Box">35</container>
+                     <container type="Folder"/>
+                     <unittitle>Luiz Pereira</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref268" level="file">
+                  <did>
+                     <container type="Box">36</container>
+                     <container type="Folder"/>
+                     <unittitle>Jessica Richman</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref269" level="file">
+                  <did>
+                     <container type="Box">36</container>
+                     <container type="Folder"/>
+                     <unittitle>Jason Robinson</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref270" level="file">
+                  <did>
+                     <container type="Box">36</container>
+                     <container type="Folder"/>
+                     <unittitle>Andy Russell</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref271" level="file">
+                  <did>
+                     <container type="Box">36</container>
+                     <container type="Folder"/>
+                     <unittitle>Jeff Seibert</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref272" level="file">
+                  <did>
+                     <container type="Box">36</container>
+                     <container type="Folder"/>
+                     <unittitle>Prowpannarai Mallikamarl Tongliemnak</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref273" level="file">
+                  <did>
+                     <container type="Box">36</container>
+                     <container type="Folder"/>
+                     <unittitle>Thai Tran</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref274" level="file">
+                  <did>
+                     <container type="Box">36</container>
+                     <container type="Folder"/>
+                     <unittitle>Timothy Vy (Idea Log 1)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref275" level="file">
+                  <did>
+                     <container type="Box">36</container>
+                     <container type="Folder"/>
+                     <unittitle>Timothy Vy (Idea Log 2)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref276" level="file">
+                  <did>
+                     <container type="Box">36</container>
+                     <container type="Folder"/>
+                     <unittitle>Yan Yan</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref277" level="file">
+                  <did>
+                     <container type="Box">36</container>
+                     <container type="Folder"/>
+                     <unittitle>Yin Yin Wu</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref278" level="file">
+                  <did>
+                     <container type="Box">36</container>
+                     <container type="Folder"/>
+                     <unittitle>Nesra Yannier</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref279" level="file">
+                  <did>
+                     <container type="Box">36</container>
+                     <container type="Folder"/>
+                     <unittitle>Andrew Yen</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref280" level="file">
+                  <did>
+                     <container type="Box">36</container>
+                     <container type="Folder"/>
+                     <unittitle>Jessica Yuan</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref281" level="file">
+                  <did>
+                     <container type="Box">36</container>
+                     <container type="Folder"/>
+                     <unittitle>2010 Project Critiques</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref282" level="file">
+                  <did>
+                     <container type="Box">36</container>
+                     <container type="Folder"/>
+                     <unittitle>Final Project Fair Grading Sheets</unittitle>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="ref283" level="series">
+            <did>
+               <unittitle>Audiovisual materials</unittitle>
+               <dao linktype="simple"
+                    actuate="onrequest"
+                    title="Audiovisual materials"
+                    role="Video-Service"
+                    href="http://purl.stanford.edu/hx796qt0439"
+                    show="new">
+                  <daodesc>
+                     <p>Audiovisual materials</p>
+                  </daodesc>
+               </dao>
+            </did>
+            <c02 id="ref284" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>CHI 92 Video Program: Striking A Balance</unittitle>
+                  <unitdate>1992</unitdate>
+                  <physdesc>
+                     <extent>0</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref286" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>CHI 97 Video Program: Looking to the Future</unittitle>
+                  <unitdate>1997</unitdate>
+                  <physdesc>
+                     <extent>0</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref288" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>CHI 99 Opening Plenary</unittitle>
+                  <unitdate>1999</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref290" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>CHI 99 Video Program: The CHI is the Limit</unittitle>
+                  <unitdate>1999</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref292" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>CHI 2001 Video Program: Anyone. Anywhere.</unittitle>
+                  <unitdate>2001</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref294" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>CHI 2002 Video Program: Changing the World, Changing Ourselves</unittitle>
+                  <unitdate>2002</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref296" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Computer Professionals and Social Responsibility Part 2</unittitle>
+                  <unitdate>1988</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref298" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>CPSR Camera A Tapes #1-5</unittitle>
+                  <unitdate>1988</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref300" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>CPSR Camera A Tapes #6-11</unittitle>
+                  <unitdate>1988</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref302" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>CPSR Camera B Tapes #1-5</unittitle>
+                  <unitdate>1988</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref304" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>DLITE</unittitle>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref306" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Experiments in the Future of Reading</unittitle>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref308" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Flow Menu: Submission Tape</unittitle>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref310" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Geometer Workbench</unittitle>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref312" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Geometer's Workbench: Submission Tape</unittitle>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref314" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>The Ideology of Information: Social Costs of New Technology</unittitle>
+                  <unitdate>1991</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref316" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>iRoom Demos</unittitle>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref318" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Flow Menu: LIIST 2000</unittitle>
+                  <unitdate>2000</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref320" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Losing Control</unittitle>
+                  <unitdate>1989</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref322" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>PARC ATM Forum: Severe Tire Damage excerpt</unittitle>
+                  <unitdate>1995</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref324" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>PARC: Interviews from "The PARC Story"</unittitle>
+                  <unitdate>1995</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref326" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>PARC: Stories from Startup Land</unittitle>
+                  <unitdate>1996</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref328" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>PARC: XFR: The Design Story</unittitle>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref330" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Roger Boisjoly MIT presentation</unittitle>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref332" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>SDI Debate at Stanford Reel 3 of 3</unittitle>
+                  <unitdate>1986</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref334" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Self: The Video</unittitle>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref336" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Sensemaker</unittitle>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref338" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>SGCHI Terry Winograd</unittitle>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref340" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Smithsonian World: From Information to Wisdom?</unittitle>
+                  <unitdate>1991</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref342" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Some Paskian Artefacts</unittitle>
+                  <unitdate>2001</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref344" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Stick it on the Wall</unittitle>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref346" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>The Truesteel Affair</unittitle>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref348" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>US Senate on Virtual Reality</unittitle>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref350" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>A Windowed Perspective Into the History of Networked Computing and Distributed Work Groups</unittitle>
+                  <unitdate>1991</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref352" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>2000 Reports and Retrospective Part 1 of 2</unittitle>
+                  <unitdate>2000</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref354" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>2000 Reports and Retrospective Part 2 of 2</unittitle>
+                  <unitdate>2000</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref356" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Accelerating Innovation</unittitle>
+                  <unitdate>1990</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref358" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Barehands</unittitle>
+                  <unitdate>2000</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref360" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Beyond Words: New Tools for the Learning Community</unittitle>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref362" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Computers in Context</unittitle>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref364" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Design 94: International Design Project Part 1</unittitle>
+                  <unitdate>1994</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref366" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Design 94: International Design Project Part 2</unittitle>
+                  <unitdate>1994</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref368" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Design 95: Public Presentation Part 1</unittitle>
+                  <unitdate>1995</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref370" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Design 95: Public Presentation Part 2</unittitle>
+                  <unitdate>1995</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref372" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Design 95: Project Overviews</unittitle>
+                  <unitdate>1995</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref374" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Effective Lecturing: Classroom Environment</unittitle>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref376" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Effective Lecturing: Actively Engaging Students and Getting Students to Think</unittitle>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref378" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Ethics and Education</unittitle>
+                  <unitdate>1991</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref380" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Living in the Future with Knowledge Navigator</unittitle>
+                  <unitdate>1989</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref382" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Logonet, Inc.</unittitle>
+                  <unitdate>1987</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref384" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>New Paradigms for Using Computers</unittitle>
+                  <unitdate>1995</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref386" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Highlights from the conference on "New Paradigms for Using Computers"</unittitle>
+                  <unitdate>1994</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref388" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Newton</unittitle>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref390" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>PARC: The Final Demonstration of the Xerox 'Star' Computer Tape 1</unittitle>
+                  <unitdate>1981</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref392" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>PARC: The Final Demonstration of the Xerox 'Star' Computer Tape 2</unittitle>
+                  <unitdate>1981</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref394" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Selker Sampler</unittitle>
+                  <unitdate>1991</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref396" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>UIST '98 Video Proceedings</unittitle>
+                  <unitdate>1998</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref398" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>UIST 2000 Video Proceedings</unittitle>
+                  <unitdate>2000</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref400" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>University Workshop 1995 NYU</unittitle>
+                  <unitdate>1995</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref402" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>University Workshop 1995 Kyoto</unittitle>
+                  <unitdate>1995</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref404" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>University Workshop 1995 Sweden</unittitle>
+                  <unitdate>1995</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref406" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>University Workshop 1995 Toronto</unittitle>
+                  <unitdate>1995</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref408" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>University Workshop 1995 Italy</unittitle>
+                  <unitdate>1995</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref410" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>University Workshop 1995 Stanford</unittitle>
+                  <unitdate>1995</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref412" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>University Workshop 1995 Utrecht</unittitle>
+                  <unitdate>1995</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref414" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>University Workshop 1995 RCA</unittitle>
+                  <unitdate>1995</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref416" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>University Workshop 1996</unittitle>
+                  <unitdate>1996</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref418" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>University Workshop</unittitle>
+                  <unitdate>1996</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref420" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>80s video, SF TV station, Stanford Students and Staff</unittitle>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref422" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Bringing Design to Software</unittitle>
+                  <unitdate>1996</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref424" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>The Business of America… and Update</unittitle>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref426" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>CHI '83: Sketchpad</unittitle>
+                  <unitdate>1983</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref428" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>CHI '88 Technical video Program</unittitle>
+                  <unitdate>1988</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref430" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>CHI '90 Technical Video Program</unittitle>
+                  <unitdate>1990</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref432" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>CHI '94 Video Program</unittitle>
+                  <unitdate>1994</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref434" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>CHI 99 Opening Plenary</unittitle>
+                  <unitdate>1999</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref436" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Computer Professionals and Social Responsibility Part 1</unittitle>
+                  <unitdate>1988</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref438" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>A Conversation on Interaction</unittitle>
+                  <unitdate>1996</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref440" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Creating the Virtualities in Which We Live</unittitle>
+                  <unitdate>1993</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref442" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>CS447 Sportscope</unittitle>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref444" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>CS447 B Final Presentations</unittitle>
+                  <unitdate>1999</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref446" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>CSCW '94 Technical Video Program</unittitle>
+                  <unitdate>1994</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref448" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>David Liddle - 147 Talk</unittitle>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref450" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Dr. Douglas C. Engelbart</unittitle>
+                  <unitdate>2005</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (DVD)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref452" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Expert Systems 88 - Grand Finale</unittitle>
+                  <unitdate>1988</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref454" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Guides 3.0</unittitle>
+                  <unitdate>1990</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref456" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>InterChange: Interview with Terry Winograd</unittitle>
+                  <unitdate>1999</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref458" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>INTERCHI '93 Technical Video Program</unittitle>
+                  <unitdate>1993</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref460" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Machines that Think</unittitle>
+                  <unitdate>1987</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref462" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>PARC: DLITE Video for CHI '97</unittitle>
+                  <unitdate>1996</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref464" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>PARC: Information Visualizer</unittitle>
+                  <unitdate>1997</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref466" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>PARC: Interaction Design for Ubiquitous Computing</unittitle>
+                  <unitdate>2000</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref468" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Personal Roving Presence</unittitle>
+                  <unitdate>2001</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref470" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>RCA Projects 96</unittitle>
+                  <unitdate>1996</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref472" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>SDA Debate at Stanford Reels 1 and 2</unittitle>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref474" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Sensemaker</unittitle>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref476" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>SIGGRAPH 98 Conference Proceedings</unittitle>
+                  <unitdate>1998</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref478" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Starfire</unittitle>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref480" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>"Starfire" Directors' Cut</unittitle>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref482" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Star Wars Research: A University Perspective</unittitle>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref484" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>University Workshop 1997</unittitle>
+                  <unitdate>1997</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref486" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>University Workshop 1997 Summary</unittitle>
+                  <unitdate>1997</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref488" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>10 Jahre</unittitle>
+                  <physdesc>
+                     <extent>1 optical disc(s) (DVD)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref490" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>CLIHC Keynote</unittitle>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref492" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>CS 247a 99</unittitle>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref494" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Fluid Interaction</unittitle>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref496" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>iRoom demos</unittitle>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref498" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Knowledge Navigator</unittitle>
+                  <unitdate>1988</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref500" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>UIST 2001 Presentation</unittitle>
+                  <unitdate>2001</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref502" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>SHRDLU - Terry Winograd</unittitle>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref504" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>SIGGRAPH 99 Conference Proceedings</unittitle>
+                  <unitdate>1999</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref506" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Unlabeled video</unittitle>
+                  <physdesc>
+                     <extent>1 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref508" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Barehands (1 of 2)</unittitle>
+                  <unitdate>2000</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (Mini DV)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref510" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Barehands (2 of 2)</unittitle>
+                  <unitdate>2000</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (Mini DV)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref512" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Raw iRoom Demo Footage</unittitle>
+                  <unitdate>2001</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (Mini DV)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref514" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>iRoom Final Demos</unittitle>
+                  <unitdate>2001</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (Mini DV)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref516" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>PointRight Final Submit</unittitle>
+                  <unitdate>2000</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (Mini DV)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref518" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Stephanie</unittitle>
+                  <physdesc>
+                     <extent>1 videotape(s) (Mini DV)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref520" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Unlabeled video</unittitle>
+                  <physdesc>
+                     <extent>1 videotape(s) (MiniDV)</extent>
+                  </physdesc>
+                  <physdesc>
+                     <extent>1 videotape(s) (Mini DV)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref523" level="series">
+            <did>
+               <unittitle>Subject Files, individual</unittitle>
+            </did>
+            <c02 id="ref524" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">1</container>
+                  <unittitle>"A" Students</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref525" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Agre, Philip E.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref526" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">3-4</container>
+                  <unittitle>"B" Students</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref527" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Bella, David A.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref528" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Benson, Ian</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref529" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Bigelow, Chuck</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref530" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Bikson, Tora K.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref531" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Bobrow, Danny</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref532" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Borenstien, Nathaniel S.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref533" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Brooks, Rodney A.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref534" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Brown, John S.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref535" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">13</container>
+                  <unittitle>"C" Students</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref536" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Carroll, John</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref537" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">15</container>
+                  <unittitle>Cashman, Paul M.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref538" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">16</container>
+                  <unittitle>Chapman, David</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref539" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">17</container>
+                  <unittitle>Ciborra, Claudio U.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref540" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">18</container>
+                  <unittitle>Clark, Herbert</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref541" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">19</container>
+                  <unittitle>Conklin, Jeff</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref542" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">20</container>
+                  <unittitle>Coyne, Richard</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref543" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">1</container>
+                  <unittitle>"D" Students</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref544" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">2</container>
+                  <unittitle>De Michelis, G.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref545" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">3</container>
+                  <unittitle>De Koven, Bernard</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref546" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Dijkstra, Edsger</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref547" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Dreyfus&amp; Hubert</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref548" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">6</container>
+                  <unittitle>"E" Students</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref549" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Ehn, Pelle</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref550" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Engelbart, D.C.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref551" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">9</container>
+                  <unittitle>"F" Students</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref552" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Fikes, Richard E.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref553" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Fischer, Gerhard</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref554" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Floyd, Christiane</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref555" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Follesdal, Dagfinn</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref556" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Friedman, Batya</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref557" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>"G" Students</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref558" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">19</container>
+                  <unittitle>Goguen, Joseph A.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref559" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">20</container>
+                  <unittitle>Gold, Rich</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref560" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">21</container>
+                  <unittitle>Goldhaber, Michael</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref561" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">22</container>
+                  <unittitle>Grudin, Jonathan T.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref562" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>"H" Students</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref563" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Haraway, Donna</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref564" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Hartfield, Bradley</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref565" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Hofstadter, Douglas R.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref566" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Holt, Anatol W.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref567" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">8</container>
+                  <unittitle>"I" Students</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref568" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Ishii, Hiroshi</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref569" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">10</container>
+                  <unittitle>"J" Students</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref570" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>"K" Students</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref571" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Kapor, Mitch</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref572" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">15</container>
+                  <unittitle>Kay, Alan</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref573" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">16</container>
+                  <unittitle>Kling, Rob</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref574" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">17</container>
+                  <unittitle>"L" Students</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref575" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Lakin, Fred</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref576" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Lenat, Douglas B.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref577" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Levy, David</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref578" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Linde, Charlotte</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref579" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>"M" Students</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref580" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Malone, Thomas W.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref581" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">8</container>
+                  <unittitle>March, James G.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref582" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">9</container>
+                  <unittitle>McCall, Raymond</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref583" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">10</container>
+                  <unittitle>McCarthy, John</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref584" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">11</container>
+                  <unittitle>"N" Students</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref585" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Nardi, Bonnie</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref586" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Nass, Clifford</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref587" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">15</container>
+                  <unittitle>Naur, Peter</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref588" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">16</container>
+                  <unittitle>Negroponte, Nicholas</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref589" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">17</container>
+                  <unittitle>Nicodemus, Matt</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref590" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">18</container>
+                  <unittitle>Nissenbaum, Helen</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref591" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Norman, Donald</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref592" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Nygaard, Kristen (1 of 3)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref593" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Nygaard, Kristen (2 of 3)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref594" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Nygaard, Kristen (3 of 3)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref595" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">4</container>
+                  <unittitle>"O" Students</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref596" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Orlikowski, Wanda</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref597" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">6</container>
+                  <unittitle>"P" Students</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref598" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Parnas, David L.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref599" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Polanyi, Michael</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref600" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">9</container>
+                  <unittitle>"R" Students (1 of 2)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref601" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">10</container>
+                  <unittitle>"R" Students (2 of 2)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref602" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Roberts, Eric</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref603" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Rogers, Yvonne</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref604" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Ross, Douglas T.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref605" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Rubin, Andee (1 of 2)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref606" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">15</container>
+                  <unittitle>Rubin, Andee (2 of 2)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref607" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">16</container>
+                  <unittitle>"S" Students</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref608" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">17</container>
+                  <unittitle>Samuelson, Pamela</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref609" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">18</container>
+                  <unittitle>Scacchi, Walt</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref610" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">19</container>
+                  <unittitle>Schon, Donald A.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref611" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">20</container>
+                  <unittitle>Selker, Ted (1 of 2)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref612" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">21</container>
+                  <unittitle>Selker, Ted (2 of 2)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref613" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">22</container>
+                  <unittitle>Shanon, Benny</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref614" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Shaw, David E.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref615" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Shneiderman, Ben</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref616" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Simon, Herb A.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref617" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Smith, Brian</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref618" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Sproull, Lee</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref619" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Suchman, Lucy</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref620" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Supes, Patrick</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref621" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <container type="Folder">8</container>
+                  <unittitle>"T" Students</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref622" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Taylor, Charles</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref623" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Turkle, Sherry</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref624" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Tversky, Amos</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref625" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <container type="Folder">12</container>
+                  <unittitle>"V" Students</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref626" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Varela, Francisco</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref627" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Verplank, Bill</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref628" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <container type="Folder">15</container>
+                  <unittitle>Von Foerster, Heinz</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref629" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <container type="Folder">16</container>
+                  <unittitle>"W" Students</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref630" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <container type="Folder">17</container>
+                  <unittitle>Weizenbaum, Joseph</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref631" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <container type="Folder">18</container>
+                  <unittitle>Whiteside, John</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref632" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <container type="Folder">19</container>
+                  <unittitle>"Y" Students</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref633" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <container type="Folder">20</container>
+                  <unittitle>DL Proposal (1 of 2)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref634" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <container type="Folder">21</container>
+                  <unittitle>DL Proposal (2 of 2)</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref635" level="series">
+            <did>
+               <unittitle>Computer files</unittitle>
+            </did>
+            <c02 id="ref636" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>Teaching (Squirrel Pres)</unittitle>
+                  <unitdate>Undated</unitdate>
+                  <physdesc>
+                     <extent>0</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref638" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>Better Game Characters by Design</unittitle>
+                  <unitdate>2006</unitdate>
+                  <physdesc>
+                     <extent>0</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref640" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>Camille Utterback</unittitle>
+                  <unitdate>Undated</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (DVD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref642" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>CHI</unittitle>
+                  <unitdate>2005-2009</unitdate>
+                  <physdesc>
+                     <extent>5 optical disc(s) (DVD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref644" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>Conference on Computer Supported Cooperative Work</unittitle>
+                  <unitdate>2006 Nov 4-8</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (DVD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref646" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>UbiComp Video Proceedings</unittitle>
+                  <unitdate>2003 Oct. 12-15</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (DVD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref648" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>Using Video to Support Interactive Design</unittitle>
+                  <unitdate>Undated</unitdate>
+                  <physdesc>
+                     <extent>2 optical disc(s) (DVD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref650" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>Conference on Human Factors in Computing Systems</unittitle>
+                  <unitdate>2003 Apr 5-10</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (DVD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref652" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>5th Graders in the iRoom</unittitle>
+                  <unitdate>Undated</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-R)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref654" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>Apple Color Graphics Sampler</unittitle>
+                  <unitdate>1991</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref656" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>Mark Weiser</unittitle>
+                  <unitdate>Undated</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-R)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref658" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>Favorite Greek Myths</unittitle>
+                  <unitdate>1994</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref660" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>CS447B</unittitle>
+                  <unitdate>1999</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-R)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref662" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>The University Workshop Sketchbook</unittitle>
+                  <unitdate>1995</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref664" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>The Tortoise and the Hare</unittitle>
+                  <unitdate>1993</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref666" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>From Alice to Ocean</unittitle>
+                  <unitdate>1992</unitdate>
+                  <physdesc>
+                     <extent>2 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref668" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>The Beatles in a Hard Day's Night</unittitle>
+                  <unitdate>1993</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref670" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>Interface 93 Design Project</unittitle>
+                  <unitdate>1994</unitdate>
+                  <physdesc>
+                     <extent>2 optical disc(s) (CR-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref672" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>Design95 Project Files</unittitle>
+                  <unitdate>1995</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref674" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>Making it Macintosh</unittitle>
+                  <unitdate>1993</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref676" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>Myst User's Manual</unittitle>
+                  <unitdate>1993</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref678" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>Planetary Taxi</unittitle>
+                  <unitdate>1993</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref680" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>Sounds Toys</unittitle>
+                  <unitdate>Undated</unitdate>
+                  <physdesc>
+                     <extent>1 case(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref682" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>CS 147 Dissect-A-Frog</unittitle>
+                  <unitdate>Undated</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-R)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref684" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>Untitled</unittitle>
+                  <unitdate>Undated</unitdate>
+                  <physdesc>
+                     <extent>1 audio cassette (micro-cassette)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref686" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>CHI</unittitle>
+                  <unitdate>2001-2004</unitdate>
+                  <physdesc>
+                     <extent>4 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref688" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>Computer Graphics Conference Proceedings</unittitle>
+                  <unitdate>1999</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref690" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>Design Computing and Cognition</unittitle>
+                  <unitdate>2008</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref692" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>The Face of Design</unittitle>
+                  <unitdate>Undated</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref694" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>DUX Designing for User Experiences</unittitle>
+                  <unitdate>2003</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref696" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>VIS 2000 IEEE Visualization</unittitle>
+                  <unitdate>2000 Oct 8-13</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref698" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>International Symposium on Creative Digital media</unittitle>
+                  <unitdate>Undated</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-R)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref700" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>New Paradigms For Using Computer</unittitle>
+                  <unitdate>1999</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref702" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>PUI 2001</unittitle>
+                  <unitdate>2001</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref704" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>SI99raph Conference Abstracts and Applications</unittitle>
+                  <unitdate>1999</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref706" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>SI99 Electronic Art and Animation Catalog</unittitle>
+                  <unitdate>1999</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref708" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>SIGGRAPH 99 Course Notes</unittitle>
+                  <unitdate>1999</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref710" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>UbiComp Active Campus &amp; Place Lab Demos</unittitle>
+                  <unitdate>2003</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref712" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>5th International World-Wide Web Conference</unittitle>
+                  <unitdate>1996, May 6-10</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref714" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>6th International World-Wide Web Conference</unittitle>
+                  <unitdate>1997 Apr 7-11</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref716" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>7th International World-Wide Eb Conference</unittitle>
+                  <unitdate>1998 Apr 14-18</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref718" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>Inside Magic</unittitle>
+                  <unitdate>1995</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref720" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>Journey to the Edge</unittitle>
+                  <unitdate>1997</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref722" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>The Journeyman Project</unittitle>
+                  <unitdate>1992</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref724" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>Logical Journey of the Zoombinis</unittitle>
+                  <unitdate>1996</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref726" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>Awesome Animated Monster Maker</unittitle>
+                  <unitdate>1995</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref728" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>Monty Python's Complete Waste of Time</unittitle>
+                  <unitdate>1994</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref730" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>Corbis Bettmann</unittitle>
+                  <unitdate>Undated</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref732" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>The Peter B. Lewis Building Catalyst</unittitle>
+                  <unitdate>2000</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref734" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>Designing Business</unittitle>
+                  <unitdate>1996</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref736" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>Digital Design 2000+</unittitle>
+                  <unitdate>Undated</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref738" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>The Disappearing Computer</unittitle>
+                  <unitdate>2003</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref740" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>Paul Cezanne Portrait of My World</unittitle>
+                  <unitdate>1996</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref742" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>Refresh The Art of the Screensaver</unittitle>
+                  <unitdate>Undated</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref744" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>W's Pay Per Rom</unittitle>
+                  <unitdate>1997</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref746" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>Kai's Power Goo</unittitle>
+                  <unitdate>Undated</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref748" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>Microsoft BOB</unittitle>
+                  <unitdate>1994</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref750" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>Greetings Workshop</unittitle>
+                  <unitdate>1996-1997</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref752" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>Stagecast Creator</unittitle>
+                  <unitdate>1998-1999</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref754" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>Vellum 3D</unittitle>
+                  <unitdate>1997</unitdate>
+                  <physdesc>
+                     <extent>1 optical disc(s) (CD-ROM)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref756" level="file">
+               <did>
+                  <unittitle>Agile Aging Workshop</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref757" level="file">
+               <did>
+                  <unittitle>Business_Processes</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref758" level="file">
+               <did>
+                  <unittitle>CS147</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref759" level="file">
+               <did>
+                  <unittitle>Documents</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref760" level="file">
+               <did>
+                  <unittitle>Empathy Activity</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref761" level="file">
+               <did>
+                  <unittitle>HCI_20th</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref762" level="file">
+               <did>
+                  <unittitle>I-Work_2001</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref763" level="file">
+               <did>
+                  <unittitle>MMM</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref764" level="file">
+               <did>
+                  <unittitle>Nygaard, Kristen</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref765" level="file">
+               <did>
+                  <unittitle>IRoom_18min</unittitle>
+                  <unitdate>2000</unitdate>
+                  <physdesc>
+                     <extent>1 computer file(s) (MOV)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref767" level="file">
+               <did>
+                  <unittitle>SDLIPVideoCD-ROM</unittitle>
+                  <physdesc>
+                     <extent>1 computer file(s) (MOV)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

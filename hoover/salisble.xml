@@ -1,0 +1,1090 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  
+  
+  
+  
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" repositoryencoding="iso15511" findaidstatus="unverified-full-draft" langencoding="iso639-2b"><eadid countrycode="us" identifier="ark:/13030/tf5n39n7j5" mainagencycode="CSt-H" publicid="PUBLIC &quot;-//Stanford University::Hoover Institution Archives//TEXT&#10;(US::CSt-H::::Laurence E. Salisbury Papers)//EN&quot; &quot;salisble.sgm&quot;">salisble.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Register of the Laurence E. Salisbury Papers, <date calendar="gregorian" era="ce">1916-1973</date></titleproper><titleproper type="filing">Salisbury (Laurence E.) Papers</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Hoover Institution Archives</publisher>
+        <address>
+          <addressline>Stanford University</addressline>
+          <addressline>Stanford, California 94305-6010</addressline>
+          <addressline>Phone: (650) 723-3563</addressline>
+          <addressline>Fax: (650) 725-3445</addressline>
+          <addressline>Email: hooverarchives@stanford.edu</addressline>
+
+        </address>
+        <date calendar="gregorian" era="ce">&#xA9; 1999</date>
+        <p>Hoover Institution Archives. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc><profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data Services,
+<date calendar="gregorian" era="ce">May, 1999.</date>
+Supplementary encoding and revision supplied by James Ryan.</creation>
+<langusage>Description is in <language langcode="eng" scriptcode="latn">English</language></langusage>
+    </profiledesc><revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//Stanford University::Hoover Institution Archives//TEXT
+(US::CSt-H::::Laurence E. Salisbury Papers)//EN" "salisble.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+<change>
+      <date calendar="gregorian" era="ce" normal="20120730">July 30, 2012</date>
+      <item>Revised to update encoding and add unitid by Jill Golden</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Register of the Laurence E. Salisbury Papers, <date calendar="gregorian" era="ce">1916-1973</date></titleproper>
+      <publisher>Hoover Institution Archives
+<lb/>Stanford University
+<lb/>Stanford, California</publisher>
+      <list type="simple">
+        <head>Contact Information</head>
+        <item>Hoover Institution Archives</item>
+        <item>Stanford University</item>
+        <item>Stanford, California 94305-6010</item>
+        <item>Phone: (650) 723-3563</item>
+        <item>Fax: (650) 725-3445</item>
+        <item>Email: hooverarchives@stanford.edu</item>
+
+      </list>
+      <list type="deflist">
+        <defitem>
+          <label>Processed by: </label>
+          <item>Grace Hawes</item>
+        </defitem>
+        <defitem>
+          <label>Date Completed: </label>
+          <item>May 1977</item>
+        </defitem>
+      </list>
+      <p>&#xA9; 1999 Hoover Institution Archives. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection">
+    <did id="did-1.7.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">Laurence E. Salisbury Papers, </unittitle><unitdate calendar="gregorian" era="ce" type="inclusive" normal="1916/1973">1916-1973</unitdate>
+<unitid label="Collection number" repositorycode="CSt-H" countrycode="US">77032</unitid>
+      <origination label="Creator">
+        <persname>Salisbury, Laurence E., 1891-1976</persname>
+      </origination>
+      <physdesc label="Collection Size" encodinganalog="300$a">
+		<extent>4 manuscript boxes, 2 envelopes</extent>
+		<extent>1.8 linear feet)</extent>
+	</physdesc>
+      <repository label="Repository">
+        <corpname>Hoover Institution Archives</corpname>
+        <address>
+          <addressline>Stanford, California 94305-6010</addressline>
+        </address>
+      </repository>
+      <abstract label="Abstract">Correspondence, writings, reports, and memoranda, relating to American foreign relations with China, Japan, and the Philippines, and to political developments in the United States</abstract>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <descgrp id="descgrp-1.7.2" type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict>
+        <head>Access</head>
+        <p>Collection open for research.</p>
+<p>The Hoover Institution Archives only allows access to <emph render="italic">copies</emph> of audiovisual items. To listen to sound recordings or to view videos or films during your visit, please contact the Archives at least two working days before your arrival. We will then advise you of the accessibility of the material you wish to see or hear. Please note that not all audiovisual material is immediately accessible.</p>
+      </accessrestrict>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>For copyright status, please contact
+the Hoover Institution Archives.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Laurence E. Salisbury Papers, [Box no.], Hoover Institution
+Archives.</p>
+      </prefercite>
+<acqinfo encodinganalog="541">
+ <head>Acquisition Information</head>
+ <p>Acquired by the Hoover Institution Archives in 1977.</p>
+</acqinfo>
+
+<accruals encodinganalog="525"><head>Accruals</head>
+<p>Materials may have been added to the collection since this finding aid was prepared. To determine if this has occurred, find the collection in Stanford University's online catalog Socrates at <extref linktype="simple" href="http://library.stanford.edu/webcat" actuate="onrequest" show="new"> http://library.stanford.edu/webcat</extref>. Materials have been added to the collection if the number of boxes listed in Socrates is larger than the number of boxes listed in this finding aid.</p>
+</accruals>
+    </descgrp>
+    <controlaccess id="controlaccess-1.7.3">
+      <head>Access Points</head>
+      <corpname>Institute of Pacific Relations. American Council</corpname>
+      <corpname>United States. Dept. of State</corpname>
+      <subject>Far Eastern Survey</subject>
+      <subject>World War, 1939-1945</subject>
+      <subject>World War, 1939-1945--United States</subject>
+      <geogname>China</geogname>
+      <geogname>China--Foreign relations--United States</geogname>
+      <geogname>Japan</geogname>
+      <geogname>Japan--Foreign relations--United States</geogname>
+      <geogname>Philippines</geogname>
+      <geogname>Philippines--Foreign relations--United States</geogname>
+      <geogname>United States--Politics and government</geogname>
+      <geogname>United States--Foreign relations</geogname>
+      <geogname>United States--Foreign relations--China</geogname>
+      <persname>United States--Foreign relations--Japan</persname>
+      <persname>United States--Foreign relations--Philippines</persname>
+      <persname>United States--Politics and government--1945-1953</persname>
+      <occupation>Diplomats--United States</occupation>
+    </controlaccess>
+    <bioghist id="bioghist-1.7.4">
+      <head>Biographical Note</head>
+      <chronlist>
+        <head>Laurence E. Salisbury, 1891-1976</head>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1891, March 13</date>
+          <event>born, Chicago, Illinois</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1916</date>
+          <event>graduated, University of Chicago</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1916-17</date>
+          <event>Instructor in English, Japan</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1917-1919</date>
+          <event>Second Lieutenant, Overseas Service, British Army</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1920</date>
+          <event>Student Interpreter, Japan</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1922</date>
+          <event>Vice-Consul and interpreter, Kobe, Japan</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1924-1928</date>
+          <event>Foreign Service Officer, Japan</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1928-1929</date>
+          <event>State Department, Washington</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1930</date>
+          <event>Assigned to Paris</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1931</date>
+          <event>Assigned to Tokyo</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1932</date>
+          <event>Assigned to State Department, Washington</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1933-1938</date>
+          <event>Assigned to Peking</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1938</date>
+          <event>Assigned to State Department, Washington</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1939</date>
+          <event>First Secretary to Office of High Commissioner, Philippines</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1941-1944</date>
+          <event>Deputy Assistant Chief, Division of Far Eastern Affairs, Washington</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1944</date>
+          <event>Acting Chief, Division of Southwest Pacific Affairs, Washington</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1944-1948</date>
+          <event>Editor, <emph render="italic">Far Eastern Survey </emph>(American Institute of Pacific Relations Publication)</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1976</date>
+          <event>died</event>
+        </chronitem>
+      </chronlist>
+    </bioghist>
+    <dsc id="dsc-1.7.5" type="analyticover">
+      <head>Series Description</head>
+      <c01 id="c01-1.3.5.2" level="series">
+        <did>
+          <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce">1916-1973.</unitdate></unittitle>
+          <container type="Box">Box No. 1</container>
+        </did>
+        <scopecontent>
+          <p>Arranged alphabetically by name of correspondent.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.3.5.3" level="series">
+        <did>
+          <unittitle>Subject File, <unitdate calendar="gregorian" era="ce">1931-1973.</unitdate></unittitle>
+          <container type="Box">Box No. 2-3</container>
+        </did>
+        <scopecontent>
+          <p>Reports, memoranda, and printed material, arranged alphabetically by title or subject.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.3.5.4" level="series">
+        <did>
+          <unittitle>Writings, <unitdate calendar="gregorian" era="ce">1919-1967.</unitdate></unittitle>
+          <container type="Box">Box No. 3-4</container>
+        </did>
+        <scopecontent>
+          <p>Lectures, drafts, printed articles, play manuscript, and notes by Laurence Salisbury, arranged alphabetically by title or subject.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.3.5.5" level="series">
+        <did>
+          <unittitle>Diaries, <unitdate calendar="gregorian" era="ce">1931-1943.</unitdate></unittitle>
+          <container type="Box">Box No. 4</container>
+        </did>
+        <scopecontent>
+          <p>Diary entries for the years 1931, 1934, 1935, and 1943.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.3.5.6" level="series">
+        <did>
+          <unittitle>Audio-Visual.</unittitle>
+        </did>
+        <scopecontent>
+          <p>See photo card catalog.</p>
+        </scopecontent>
+      </c01>
+    </dsc>
+    <dsc id="dsc-1.7.6" type="in-depth">
+      <head>Container List</head>
+      <c01 id="c01-1.3.6.3" level="series">
+        <did>
+          <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce">1916-1973</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.3.6.3.3">
+          <did>
+            <container type="Box">1</container>
+            <unittitle>Unidentified, <unitdate calendar="gregorian" era="ce">1945-1973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.4">
+          <did>
+            <unittitle>Abaya, Hernando, <unitdate calendar="gregorian" era="ce">1953-1968</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.5">
+          <did>
+            <unittitle>Alger Hiss Defense Fund, <unitdate calendar="gregorian" era="ce">1952</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.6">
+          <did>
+            <unittitle>Atcheson, George, <unitdate calendar="gregorian" era="ce">1943-1947</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.7">
+          <did>
+            <unittitle>Bales, Col. William L., <unitdate calendar="gregorian" era="ce">1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.8">
+          <did>
+            <unittitle>Blackwood, Wing Commander, <unitdate calendar="gregorian" era="ce">1964</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.9">
+          <did>
+            <unittitle>Buss, Claude A., <unitdate calendar="gregorian" era="ce">1944-1945</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.10">
+          <did>
+            <unittitle>Carter, Edward C., <unitdate calendar="gregorian" era="ce">1947</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.11">
+          <did>
+            <unittitle>Castle, W.R., <unitdate calendar="gregorian" era="ce">1936</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.12">
+          <did>
+            <unittitle>Caulas, Ricardo, <unitdate calendar="gregorian" era="ce">1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.13">
+          <did>
+            <unittitle>Clubb, O. Edmund, <unitdate calendar="gregorian" era="ce">1961-1964</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.14">
+          <did>
+            <unittitle>Cousins, Norman, <unitdate calendar="gregorian" era="ce">1949</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.15">
+          <did>
+            <unittitle>Davies, John <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.16">
+          <did>
+            <unittitle>Davis, J.K., <unitdate calendar="gregorian" era="ce">1940-1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.17">
+          <did>
+            <unittitle>Dennett, Raymond, <unitdate calendar="gregorian" era="ce">1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.18">
+          <did>
+            <unittitle>Drumwright, Everett F. (?), <unitdate calendar="gregorian" era="ce">1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.19">
+          <did>
+            <unittitle>
+              <emph render="italic">Far Eastern Survey,</emph>
+              <unitdate calendar="gregorian" era="ce">1948</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.20">
+          <did>
+            <unittitle>Farley, Miriam S., <unitdate calendar="gregorian" era="ce">1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.21">
+          <did>
+            <unittitle>Field, Frederick V., <unitdate calendar="gregorian" era="ce">1947</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.22">
+          <did>
+            <unittitle>Fujimura, Nobuo, <unitdate calendar="gregorian" era="ce">1953-1963</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.23">
+          <did>
+            <unittitle>Gauss, Clarence E., <unitdate calendar="gregorian" era="ce">1945</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.24">
+          <did>
+            <unittitle>Gonzalez, Gonzalo D., <unitdate calendar="gregorian" era="ce">1948</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.25">
+          <did>
+            <unittitle>Greene, Katrine R.C., <unitdate calendar="gregorian" era="ce">1949</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.26">
+          <did>
+            <unittitle>Hamilton, Max, <unitdate calendar="gregorian" era="ce">1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.27">
+          <did>
+            <unittitle>Hiss, Alger, <unitdate calendar="gregorian" era="ce">1948-1950</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.28">
+          <did>
+            <unittitle>Holland, W.L., <unitdate calendar="gregorian" era="ce">1944-1948</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.29">
+          <did>
+            <unittitle><emph render="italic">Hudson Review, </emph>The, <unitdate calendar="gregorian" era="ce">1962</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.30">
+          <did>
+            <unittitle>Institute of Pacific Relations, <unitdate calendar="gregorian" era="ce">1951</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.31">
+          <did>
+            <unittitle>Jacobs, J.E., <unitdate calendar="gregorian" era="ce">1940</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.32">
+          <did>
+            <unittitle>Kahn, E.J., Jr., <unitdate calendar="gregorian" era="ce">1973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.33">
+          <did>
+            <unittitle>Kao Tsung-wu [Gao, Zongwu] "Into the Tiger's Den" memoir, original English manuscript,<unitdate calendar="gregorian" era="ce">1944-1945</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.34">
+          <did>
+            <unittitle>Kerr, Jack, <unitdate calendar="gregorian" era="ce">1947-1950</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.35">
+          <did>
+            <unittitle>Lake, James B., <unitdate calendar="gregorian" era="ce">1950</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.36">
+          <did>
+            <unittitle>Lane, Clayton, <unitdate calendar="gregorian" era="ce">1949</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.37">
+          <did>
+            <unittitle>Lattimore, Owen, <unitdate calendar="gregorian" era="ce">1945</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.38">
+          <did>
+            <unittitle>Lindsay, Michael, <unitdate calendar="gregorian" era="ce">1948</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.39">
+          <did>
+            <unittitle>Lockwood, William W., <unitdate calendar="gregorian" era="ce">1948</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.40">
+          <did>
+            <unittitle>McCarran, Senator Pat, <unitdate calendar="gregorian" era="ce">1951</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.41">
+          <did>
+            <unittitle>McCoy, Commander Melveyn, <unitdate calendar="gregorian" era="ce">1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.42">
+          <did>
+            <unittitle>Mangahas, Federico, <unitdate calendar="gregorian" era="ce">1945</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.43">
+          <did>
+            <unittitle>Marquardt, Frederic, <unitdate calendar="gregorian" era="ce">1946</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.44">
+          <did>
+            <unittitle>Marron, Mrs. Cyril Q., <unitdate calendar="gregorian" era="ce">1943-1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.45">
+          <did>
+            <unittitle>May, Gary, <unitdate calendar="gregorian" era="ce">1972</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.46">
+          <did>
+            <unittitle>Mayer, Col. William, <unitdate calendar="gregorian" era="ce">1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.47">
+          <did>
+            <unittitle>
+              <emph render="italic">New York Times,</emph>
+              <unitdate calendar="gregorian" era="ce">1948-1973</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.48">
+          <did>
+            <unittitle>
+              <emph render="italic">New Yorker, The,</emph>
+              <unitdate calendar="gregorian" era="ce">1961</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.49">
+          <did>
+            <unittitle>
+              <emph render="italic">Reporter, The,</emph>
+              <unitdate calendar="gregorian" era="ce">1951</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.50">
+          <did>
+            <unittitle>Russell, Diarmuid, <unitdate calendar="gregorian" era="ce">1960</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.51">
+          <did>
+            <unittitle>Sakamishi, Shiro, <unitdate calendar="gregorian" era="ce">1942-1951</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.52">
+          <did>
+            <unittitle>Salisbury, Mr. and Mrs. (Laurence's parents), <unitdate calendar="gregorian" era="ce">1916-1942</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.53">
+          <did>
+            <unittitle>Scoon, Mr., <unitdate calendar="gregorian" era="ce">1945</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.54">
+          <did>
+            <unittitle>Service, Caroline (Mrs. John Stewart?), <unitdate calendar="gregorian" era="ce">1973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.55">
+          <did>
+            <unittitle>Service, John Stewart, <unitdate calendar="gregorian" era="ce">1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.56">
+          <did>
+            <unittitle>Sprouse, Phil, <unitdate calendar="gregorian" era="ce">1946-1947</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.57">
+          <did>
+            <unittitle>Steyne, Alan N., <unitdate calendar="gregorian" era="ce">1945</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.58">
+          <did>
+            <unittitle>Swope, Gerard, <unitdate calendar="gregorian" era="ce">1951</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.59">
+          <did>
+            <unittitle>Turner, Bill, <unitdate calendar="gregorian" era="ce">1945 </unitdate>(?)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.60">
+          <did>
+            <unittitle>Tydings, Senator Millard, <unitdate calendar="gregorian" era="ce">1950</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.61">
+          <did>
+            <unittitle>United States. Department of Justice. Alien Enemy Control Unit, <unitdate calendar="gregorian" era="ce">1942</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.62">
+          <did>
+            <unittitle>Voorhis, Jerry, <unitdate calendar="gregorian" era="ce">1945</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.3.63">
+          <did>
+            <unittitle>White, Jimmy, <unitdate calendar="gregorian" era="ce">1951-1952</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.3.6.4" level="series">
+        <did>
+          <unittitle>Subject File, <unitdate calendar="gregorian" era="ce">1931-1973</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.3.6.4.3">
+          <did>
+            <container type="Box">2</container>
+            <unittitle>Abaya, Hernando J.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.4.4">
+          <did>
+            <unittitle>American Institute of Pacific Relations</unittitle>
+          </did>
+          <c03 id="c03-1.3.6.4.4.2">
+            <did>
+              <unittitle>General</unittitle>
+            </did>
+            <c04 id="c04-1.3.6.4.4.2.2">
+              <did>
+                <unittitle>Correspondence</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.3.6.4.4.2.3">
+              <did>
+                <unittitle>Newspaper clippings</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.3.6.4.4.2.4">
+              <did>
+                <unittitle>Printed material</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.3.6.4.4.2.5">
+              <did>
+                <unittitle>Reports</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.3.6.4.4.3">
+            <did>
+              <unittitle>United States Senate Hearings, <unitdate calendar="gregorian" era="ce">1951</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.3.6.4.5">
+          <did>
+            <unittitle>Asia</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.4.6">
+          <did>
+            <unittitle>Atcheson, George</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.4.7">
+          <did>
+            <unittitle>
+              <emph render="italic">Blackwood's Magazine,</emph>
+              <unitdate calendar="gregorian" era="ce">January, 1962</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.4.8">
+          <did>
+            <unittitle>China</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.4.9">
+          <did>
+            <unittitle>Civil Affairs Training School - Yale University</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.4.10">
+          <did>
+            <unittitle>Dooling, A.B. (?)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.4.11">
+          <did>
+            <unittitle>Gayn, Mark, <title linktype="simple" render="doublequote">China Lobby Myths,</title><emph render="italic">The Nation, </emph><unitdate calendar="gregorian" era="ce">June 5, 1954</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.4.12">
+          <did>
+            <unittitle>Hartendorp, A.V.H.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.4.13">
+          <did>
+            <unittitle>Hornbeck, Stanley K.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.4.14">
+          <did>
+            <unittitle>Hiss, Alger</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.4.15">
+          <did>
+            <unittitle>Japan</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.4.16">
+          <did>
+            <unittitle>Kao Tsung-wu</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.4.17">
+          <did>
+            <unittitle>Kohlberg, Alfred</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.4.18">
+          <did>
+            <unittitle>Kuramoto, Eimei</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.4.19">
+          <did>
+            <unittitle>Kwok Yuk Ming</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.4.20">
+          <did>
+            <unittitle>Lattimore, Owen</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.4.21">
+          <did>
+            <container type="Box">3</container>
+            <unittitle>Long, Breckinridge</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.4.22">
+          <did>
+            <unittitle>McCarthyism - Newspaper clippings</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.4.23">
+          <did>
+            <unittitle>
+              <emph render="italic">Manchuria - Report of the Commission of Enquiry Appointed by the League of Nations,</emph>
+              <unitdate calendar="gregorian" era="ce">1932</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.4.24">
+          <did>
+            <unittitle>Manchurian Incident, <unitdate calendar="gregorian" era="ce">1931</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.4.25">
+          <did>
+            <unittitle>Mormons</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.4.26">
+          <did>
+            <unittitle>Robertson, Walter S.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.4.27">
+          <did>
+            <unittitle>Sayre, Francis B.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.4.28">
+          <did>
+            <unittitle>Tsuneya, Munesuke</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.4.29">
+          <did>
+            <unittitle>United States. Department of State.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.4.30">
+          <did>
+            <unittitle>United States Foreign Service</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.4.31">
+          <did>
+            <unittitle>Ward, Robert S.</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series" id="c01-1.3.6.5">
+        <did>
+          <unittitle>Speeches and Writings, <unitdate calendar="gregorian" era="ce">1919-1967</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.3.6.5.3">
+          <did>
+            <container type="Box">3</container>
+            <unittitle><title linktype="simple" render="doublequote">America and the European Revolution,</title><unitdate calendar="gregorian" era="ce">n.d. </unitdate>(by Laurence Salisbury?),</unittitle>
+            <physdesc>1 typewritten copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.5.4">
+          <did>
+            <unittitle>Autobiography, <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+            <physdesc>Typewritten notes.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.5.5">
+          <did>
+            <unittitle>
+              <title linktype="simple" render="doublequote">Between Madame Butterfly and the A-Bomb,</title>
+              <emph render="italic">Blackwood's Magazine, </emph>
+              <unitdate calendar="gregorian" era="ce">December 1962.</unitdate>
+            </unittitle>
+            <physdesc>1 printed copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.5.6">
+          <did>
+            <unittitle>China policy. Drafted for the Committee on a Democratic Far Eastern policy, <unitdate calendar="gregorian" era="ce">December, 1945.</unitdate></unittitle>
+            <physdesc>1 typewritten copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.5.7">
+          <did>
+            <unittitle>
+              <title linktype="simple" render="doublequote">Chinese Coolies and the War,</title>
+              <emph render="italic">The Saturday Evening Post, </emph>
+              <unitdate calendar="gregorian" era="ce">October 25, 1919.</unitdate>
+            </unittitle>
+            <physdesc>1 photocopy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.5.8">
+          <did>
+            <unittitle>
+              <title linktype="simple" render="doublequote">Conquest: A Manuchurian Memoir,</title>
+              <emph render="italic">Blackwood's Magazine, </emph>
+              <unitdate calendar="gregorian" era="ce">February, 1965.</unitdate>
+            </unittitle>
+            <physdesc>1 printed copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.5.9">
+          <did>
+            <unittitle><title linktype="simple" render="doublequote">Cross-Currents in the Philippines,</title> co-authored with Bernard Seeman, I.P.R. pamphlets, No. 23. American Council, Institute of Pacific Relations, <unitdate calendar="gregorian" era="ce">1946.</unitdate></unittitle>
+            <physdesc>1 printed copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.5.10">
+          <did>
+            <unittitle>
+              <title linktype="simple" render="doublequote">End of the Frock Coat, The,</title>
+              <emph render="italic">Foreign Service Journal, </emph>
+              <unitdate calendar="gregorian" era="ce">June, 1961.</unitdate>
+            </unittitle>
+            <physdesc>1 printed copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.5.11">
+          <did>
+            <unittitle><title linktype="simple" render="doublequote">Foggy Bottom,</title> A play co-authored with Paul Medalie, <unitdate calendar="gregorian" era="ce">1952.</unitdate></unittitle>
+            <physdesc>1 typewritten copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.5.12">
+          <did>
+            <container type="Box">4</container>
+            <unittitle>Japan - Notes by Laurence Salisbury, <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+            <physdesc>1 typewritten copy</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.5.13">
+          <did>
+            <unittitle>Lectures - Civil Affairs Training School, Yale University, <unitdate calendar="gregorian" era="ce">ca. 1945-1946.</unitdate></unittitle>
+          </did>
+          <c03 id="c03-1.3.6.5.13.2">
+            <did>
+              <unittitle>India.</unittitle>
+              <physdesc>1 typewritten copy</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.3.6.5.13.3">
+            <did>
+              <unittitle>Japan</unittitle>
+            </did>
+            <c04 id="c04-1.3.6.5.13.3.2">
+              <did>
+                <unittitle>Titled</unittitle>
+              </did>
+              <c05 id="c05-1.3.6.5.13.3.2.2">
+                <did>
+                  <unittitle>Buddhism.</unittitle>
+                  <physdesc>1 typewritten copy.</physdesc>
+                </did>
+              </c05>
+              <c05 id="c05-1.3.6.5.13.3.2.3">
+                <did>
+                  <unittitle>Cabinets, <unitdate calendar="gregorian" era="ce">1885-1932.</unitdate></unittitle>
+                  <physdesc>1 typewritten copy.</physdesc>
+                </did>
+              </c05>
+              <c05 id="c05-1.3.6.5.13.3.2.4">
+                <did>
+                  <unittitle>Communism.</unittitle>
+                  <physdesc>1 typewritten copy.</physdesc>
+                </did>
+              </c05>
+              <c05 id="c05-1.3.6.5.13.3.2.5">
+                <did>
+                  <unittitle>Education.</unittitle>
+                  <physdesc>1 typewritten copy.</physdesc>
+                </did>
+              </c05>
+              <c05 id="c05-1.3.6.5.13.3.2.6">
+                <did>
+                  <unittitle>Emperor.</unittitle>
+                  <physdesc>1 typewritten copy.</physdesc>
+                </did>
+              </c05>
+              <c05 id="c05-1.3.6.5.13.3.2.7">
+                <did>
+                  <unittitle>Japan: <unitdate calendar="gregorian" era="ce">1931-1941.</unitdate></unittitle>
+                  <physdesc>1 typewritten and handwritten copy.</physdesc>
+                </did>
+              </c05>
+              <c05 id="c05-1.3.6.5.13.3.2.8">
+                <did>
+                  <unittitle>Japanese Army and Navy, The.</unittitle>
+                  <physdesc>1 typewritten copy.</physdesc>
+                </did>
+              </c05>
+              <c05 id="c05-1.3.6.5.13.3.2.9">
+                <did>
+                  <unittitle>Legal System, The.</unittitle>
+                  <physdesc>1 typewritten and handwritten copy.</physdesc>
+                </did>
+              </c05>
+              <c05 id="c05-1.3.6.5.13.3.2.10">
+                <did>
+                  <unittitle>Reactionary Societies.</unittitle>
+                  <physdesc>1 handwritten copy</physdesc>
+                </did>
+              </c05>
+              <c05 id="c05-1.3.6.5.13.3.2.11">
+                <did>
+                  <unittitle>Social Welfare.</unittitle>
+                  <physdesc>1 typewritten and handwritten copy.</physdesc>
+                </did>
+              </c05>
+              <c05 id="c05-1.3.6.5.13.3.2.12">
+                <did>
+                  <unittitle>Tojo and Koiso Cabinets.</unittitle>
+                  <physdesc>1 typewritten copy.</physdesc>
+                </did>
+              </c05>
+              <c05 id="c05-1.3.6.5.13.3.2.13">
+                <did>
+                  <unittitle>Tokugawa Era.</unittitle>
+                  <physdesc>1 typewritten copy</physdesc>
+                </did>
+              </c05>
+              <c05 id="c05-1.3.6.5.13.3.2.14">
+                <did>
+                  <unittitle>Tragedies of Nagasaki, The.</unittitle>
+                  <physdesc>1 typewritten copy</physdesc>
+                </did>
+              </c05>
+            </c04>
+            <c04 id="c04-1.3.6.5.13.3.3">
+              <did>
+                <unittitle>Untitled</unittitle>
+              </did>
+              <c05 id="c05-1.3.6.5.13.3.3.2">
+                <did>
+                  <unittitle>Lecture I.</unittitle>
+                  <physdesc>1 handwritten copy.</physdesc>
+                </did>
+              </c05>
+              <c05 id="c05-1.3.6.5.13.3.3.3">
+                <did>
+                  <unittitle>Lecture II.</unittitle>
+                  <physdesc>2 copies (1 typewritten, 1 carbon)</physdesc>
+                </did>
+              </c05>
+              <c05 id="c05-1.3.6.5.13.3.3.4">
+                <did>
+                  <unittitle>Lecture III.</unittitle>
+                  <physdesc>1 typewritten copy.</physdesc>
+                </did>
+              </c05>
+              <c05 id="c05-1.3.6.5.13.3.3.5">
+                <did>
+                  <unittitle>Lecture IV.</unittitle>
+                  <physdesc>2 typewritten versions</physdesc>
+                </did>
+              </c05>
+              <c05 id="c05-1.3.6.5.13.3.3.6">
+                <did>
+                  <unittitle>Lecture XI.</unittitle>
+                  <physdesc>1 handwritten copy</physdesc>
+                </did>
+              </c05>
+              <c05 id="c05-1.3.6.5.13.3.3.7">
+                <did>
+                  <unittitle>Lecture XII.</unittitle>
+                  <physdesc>1 handwritten copy</physdesc>
+                </did>
+              </c05>
+            </c04>
+            <c04 id="c04-1.3.6.5.13.3.4">
+              <did>
+                <unittitle>Miscellaneous notes, parts of lectures, etc.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.3.6.5.13.3.5">
+              <did>
+                <unittitle>United States - Department of State</unittitle>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 id="c02-1.3.6.5.14">
+          <did>
+            <unittitle>Letter to the Editor: <emph render="italic">New York Times,</emph><unitdate calendar="gregorian" era="ce">February 26, 1967.</unitdate></unittitle>
+            <physdesc>1 printed copy</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.5.15">
+          <did>
+            <unittitle>Manchuria, <unitdate calendar="gregorian" era="ce">n.d. </unitdate>Partial typewritten manuscript, similar to article entitled <title linktype="simple" render="doublequote">Conquest: A Manchurian Memoir,</title> in <emph render="italic">Blackwood's Magazine, </emph><unitdate calendar="gregorian" era="ce">February, 1965</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.5.16">
+          <did>
+            <unittitle>Miscellaneous notes, typewritten and handwritten</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.5.17">
+          <did>
+            <unittitle>Poem. Farewell on leaving editorship of <emph render="italic">Far Eastern Survey, </emph><unitdate calendar="gregorian" era="ce">1948</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.5.18">
+          <did>
+            <unittitle>
+              <title linktype="simple" render="doublequote">Temple Tenant,</title>
+              <emph render="italic">Blackwood's Magazine, </emph>
+              <unitdate calendar="gregorian" era="ce">August, 1958.</unitdate>
+            </unittitle>
+            <physdesc>1 printed copy</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.5.19">
+          <did>
+            <unittitle>
+              <title linktype="simple" render="doublequote">Ten Thousand-Name Umbrella, The.</title>
+              <emph render="italic">Blackwood's Magazine, </emph>
+              <unitdate calendar="gregorian" era="ce">November, 1956.</unitdate>
+            </unittitle>
+            <physdesc>1 printed copy</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.5.20">
+          <did>
+            <unittitle>Untitled notes on trip to Japan, <unitdate calendar="gregorian" era="ce">1958</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.5.21">
+          <did>
+            <unittitle>
+              <title linktype="simple" render="doublequote">Very Secret Weapon, The,</title>
+              <emph render="italic">Blackwood's Magazine, </emph>
+              <unitdate calendar="gregorian" era="ce">July, 1957.</unitdate>
+            </unittitle>
+            <physdesc>1 printed copy</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.3.6.5.22">
+          <did>
+            <unittitle>
+              <title linktype="simple" render="doublequote">Zaibatsu, The,</title>
+              <emph render="italic">The Nation, </emph>
+              <unitdate calendar="gregorian" era="ce">July 14, 1945.</unitdate>
+            </unittitle>
+            <physdesc>1 printed copy.</physdesc>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.3.6.6" level="series">
+        <did>
+          <unittitle>Diaries, <unitdate calendar="gregorian" era="ce">1931-1943</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.3.6.6.3">
+          <did>
+            <container type="Box">4</container>
+            <unittitle>Diary entries for the years 1931, 1934, 1935, 1943.</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

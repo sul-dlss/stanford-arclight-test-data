@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[Stuart G. Cross, &#34;Stanford and Yosemite&#34; typescript])//EN"
+             identifier="ark:/13030/kt8n39s31j">scm0184.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Stuart G. Cross, "Stanford and Yosemite" Typescript
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Cross (Stuart G.), "Stanford and Yosemite" Typescript</titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2010-11">November 2010</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SCM0184</unitid>
+         <origination label="Creator:">
+            <persname rules="aacr" source="ingest">Cross, Stuart G.</persname>
+         </origination>
+         <unittitle label="Title:">Stuart G. Cross, "Stanford and Yosemite" typescript</unittitle>
+         <unitdate normal="1981/1981"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1981</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>0.02 Linear feet (37 leaves)</extent>
+         </physdesc>
+         <abstract label="Summary:">This article formed the basis of Cross's lecture during a Stanford Historical Society tour of Yosemite in May 1981. It relates the history of David Starr Jordan's interest in Yosemite, his friendship with David A. Curry, the history of Camp Curry, and the roles of Donald B. Tresidder (Stanford Univ. President 1943-48) and his wife Mary Curry Tresidder at Yosemite.</abstract>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <descgrp type="provenance" id="prov">
+            <head>Provenance</head>
+            <acqinfo id="ref3">
+               <p>Gift of Don and Corinne Carlson, 1998.</p>
+            </acqinfo>
+         </descgrp>
+         <accessrestrict id="ref4">
+            <head>Information about Access</head>
+            <p>This collection is open for research.</p>
+         </accessrestrict>
+         <prefercite id="ref5">
+            <head>Cite As</head>
+            <p>Stuart G. Cross, "Stanford and Yosemite" Typescript (SCM0184). Department of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <bioghist id="ref6">
+         <head>Biographical/Historical Sketch</head>
+         <p>Cross earned his B.A. (1947) and M.A. (1948) in history at Stanford University; for many years he was the manager of the Curry Company, operator of facilities at Yosemite National Park.</p>
+      </bioghist>
+      <scopecontent id="ref7">
+         <head>Description of the Collection</head>
+         <p>This article formed the basis of Cross's lecture during a Stanford Historical Society tour of Yosemite in May 1981. It relates the history of David Starr Jordan's interest in Yosemite, his friendship with David A. Curry, the history of Camp Curry, and the roles of Donald B. Tresidder (Stanford Univ. President 1943-48) and his wife Mary Curry Tresidder at Yosemite.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <persname rules="aacr" source="ingest">Cross, Stuart G.</persname>
+         <persname rules="aacr" source="ingest">Curry, David A.</persname>
+         <corpname rules="dacs" source="naf">Stanford Historical Society.</corpname>
+         <persname rules="aacr" source="naf">Tresidder, Donald Bertrand, 1894-1948</persname>
+         <persname rules="aacr" source="ingest">Tresidder, Mary Curry, 1893-</persname>
+         <geogname source="lcsh">Yosemite National Park (Calif.)</geogname>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.6">
+         <head>Collection Contents</head>
+         <c01 id="ref8" level="series">
+            <did>
+               <container type="Box">1</container>
+               <unittitle>Typescript</unittitle>
+               <dao linktype="simple"
+                    actuate="onrequest"
+                    title="Typescript"
+                    role="Text-OCR-Unedited"
+                    href="http://purl.stanford.edu/jy538gm6364"
+                    show="new">
+                  <daodesc>
+                     <p>Typescript</p>
+                  </daodesc>
+               </dao>
+            </did>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

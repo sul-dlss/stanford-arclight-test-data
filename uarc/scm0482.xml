@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Dept. of Special Collections &amp; University Archives//TEXT (US::CSt::::[Dennis Puleston, Stanford College in Antarctica])//EN"
+             identifier="ark:/13030/c8tq627f">scm0428.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to Dennis Puleston, Stanford College in Antarctica
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Puleston (Dennis), Stanford College in Antarctica</titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University Libraries.</publisher>
+            <publisher>Dept. of Special Collections &amp; University Archives.</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2013-01">January 2013</date>
+            <p>Copyright © <date type="copyright" normal="2013">2013</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SCM0482</unitid>
+         <origination label="Creator:">
+            <persname rules="aacr" source="local">Puleston, Dennis</persname>
+         </origination>
+         <unittitle label="Title:">Dennis Puleston, Stanford College in Antarctica</unittitle>
+         <unitdate normal="1986/1987"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1986-1987</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>1 computer file(s) (PDF)</extent>
+         </physdesc>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Dept. of Special Collections &amp; University Archives.</corpname>
+            <address>
+               <addressline>Stanford University Libraries.</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305</addressline>
+               <addressline altrender="email">Email: speccollref@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://www-sul.stanford.edu/depts/spc/spc.html</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <accessrestrict id="ref1">
+            <head>Information about Access</head>
+            <p>The materials are open for research use.</p>
+         </accessrestrict>
+         <userestrict id="ref2">
+            <head>Ownership &amp; Copyright</head>
+            <p>All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Special Collections and University Archives, Stanford University Libraries, Stanford, California 94305-6064. Consent is given on behalf of Special Collections as the owner of the physical items and is not intended to include or imply permission from the copyright owner. Such permission must be obtained from the copyright owner, heir(s) or assigns. See: http://library.stanford.edu/depts/spc/pubserv/permissions.html.</p>
+            <p>Restrictions also apply to digital representations of the original materials. Use of digital files is restricted to research and educational purposes.</p>
+         </userestrict>
+         <prefercite id="ref3">
+            <head>Cite As</head>
+            <p>[identification of item], Dennis Puleston, Stanford College in Antarctica (SCM0428). Dept. of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <geogname source="lcsh">Antarctica</geogname>
+         <genreform source="aat">Journals.</genreform>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.4">
+         <head>Collection Contents</head>
+         <c01 id="ref4" level="file">
+            <did>
+               <unittitle>Stanford College in Antarctica</unittitle>
+               <unitdate>1986-1987</unitdate>
+               <physdesc>
+                  <extent>1 computer file(s) (PDF)</extent>
+               </physdesc>
+            </did>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,1668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="In_process"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[3:16 Bible Texts Illuminated])//EN"
+             identifier="ark:/13030/kt2q2nf2bt">sc0399.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the 3:16 Bible Texts Illuminated
+                    </titleproper>
+            <titleproper type="filing" audience="internal">3:16 Bible Texts Illuminated</titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2010-10">October 2010</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC0399</unitid>
+         <origination label="Creator:">
+            <persname rules="aacr" source="naf">Knuth, Donald Ervin, 1938-</persname>
+         </origination>
+         <unittitle label="Title:">3:16 Bible Texts Illuminated</unittitle>
+         <unitdate normal="1978/1996"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1978-1996</unitdate>
+         <unitdate normal="1985/1996"
+                   type="bulk"
+                   label="Bulk Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation"> 1985-1996</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>5.75 Linear feet and 340 megabytes</extent>
+         </physdesc>
+         <abstract label="Summary:">Collection includes Knuth's research notes, drafts of the manuscript and readers' comments, correspondence with Hermann Zapf, artistic co-worker, correspondence with illustrators and publishers, artwork, proofs, and "exabyte" computer tapes of the artwork, text, and fonts used in the book. Also included is correspondence, exhibit texts and records, photographs, ephemera, financial records, and clippings, 1991-1996, pertaining to the traveling exhibit of artwork from the book, designed and organized by Jennifer S. Knuth.</abstract>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <descgrp type="provenance" id="prov">
+            <head>Provenance</head>
+            <acqinfo id="ref3">
+               <p>Gift of Donald E. Knuth, 1991 and 1996.</p>
+            </acqinfo>
+         </descgrp>
+         <accessrestrict id="ref4">
+            <head>Information about Access</head>
+            <p>This collection is open for research.</p>
+         </accessrestrict>
+         <userestrict id="ref5">
+            <head>Ownership &amp; Copyright</head>
+            <p>All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Special Collections and University Archives, Stanford University Libraries, Stanford, California 94304-6064. Consent is given on behalf of Special Collections as the owner of the physical items and is not intended to include or imply permission from the copyright owner. Such permission must be obtained from the copyright owner, heir(s) or assigns. See: http://library.stanford.edu/depts/spc/pubserv/permissions.html.</p>
+            <p>Restrictions also apply to digital representations of the original materials. Use of digital files is restricted to research and educational purposes.</p>
+         </userestrict>
+         <prefercite id="ref6">
+            <head>Cite As</head>
+            <p>3:16 Bible Texts Illuminated (SC0399). Dept. of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <bioghist id="ref7">
+         <head>Biographical/Historical Sketch</head>
+         <p>Professor of computer science at Stanford University.</p>
+      </bioghist>
+      <scopecontent id="ref8">
+         <head>Description of the Collection</head>
+         <p>Collection includes Knuth's research notes, drafts of the manuscript and readers' comments, correspondence with Hermann Zapf, artistic co-worker, correspondence with illustrators and publishers, artwork, proofs, and "exabyte" computer tapes of the artwork, text, and fonts used in the book. Also included is correspondence, exhibit texts and records, photographs, ephemera, financial records, and clippings, 1991-1996, pertaining to the traveling exhibit of artwork from the book, designed and organized by Jennifer S. Knuth.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <persname rules="aacr" source="naf">Knuth, Donald Ervin, 1938-</persname>
+         <persname rules="aacr" source="ingest">Knuth, Jennifer S.</persname>
+         <corpname rules="dacs" source="ingest">Stanford University. Computer Science Department. Faculty.</corpname>
+         <persname rules="aacr" source="naf">Zapf, Hermann</persname>
+         <subject source="LCSH">Bible--Commentaries.</subject>
+         <subject source="LCSH">Bible--Study.</subject>
+         <genreform source="LCSH">Calligraphy.</genreform>
+         <genreform source="aat">Illustrations.</genreform>
+         <subject source="LCSH">Museum exhibits.</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.6">
+         <head>Collection Contents</head>
+         <c01 id="ref9" level="series">
+            <did>
+               <unittitle>Papers</unittitle>
+            </did>
+            <c02 id="ref10" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">1</container>
+                  <unittitle>First computer output of Old Testament portion.</unittitle>
+                  <unitdate>March 1987</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref11" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">2</container>
+                  <unittitle>First computer output of New Testament portion.</unittitle>
+                  <unitdate>March 1989</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref12" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Comments by Rev. Norman Pfotenhauer and Rev. Jon Dechow.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref13" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Comments by Rev. Robert Nicholus.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref14" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Comments by Richard Stout.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref15" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Comments by Joyce Tirbak.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref16" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Comments by David Shewmake, Tom Leep.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref17" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Comments by Guy Steele Jr, Ken Rietz, Dan McCracken.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref18" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Comments by R.F. Gray, R.W. Howell, R. Gundry.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref19" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Comments, miscellaneous.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref20" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Comments by Shannon Moffat.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref21" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Comments by Tim Enos.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref22" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Comments by Jill Knuth.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref23" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Master copy for final editing</unittitle>
+                  <unitdate>February-April 1990</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref24" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Index preparation</unittitle>
+                  <unitdate>May 1990</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref25" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Xeroxes of calligraphy (working index to illustrations)</unittitle>
+                  <unitdate>1987-1989</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref26" level="file">
+               <did>
+                  <unittitle>CORRESPONDENCE WITH CALLIGRAPHERS</unittitle>
+               </did>
+               <c03 id="ref27" level="file">
+                  <did>
+                     <unittitle>Genesis 3:16, Exodus 3:16.</unittitle>
+                  </did>
+                  <c04 id="ref28" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">1</container>
+                        <unittitle>Van Dijk, Evert</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref29" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">1</container>
+                        <unittitle>Williams, Robert</unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref30" level="file">
+                  <did>
+                     <unittitle>Leviticus 3:16, Numbers 3:16.</unittitle>
+                  </did>
+                  <c04 id="ref31" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">2</container>
+                        <unittitle>David, Ismar</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref32" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">2</container>
+                        <unittitle>Ruuhinen, Erkki</unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref33" level="file">
+                  <did>
+                     <unittitle>Deuteronomy 3:16, Joshua 3:16.</unittitle>
+                  </did>
+                  <c04 id="ref34" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">3</container>
+                        <unittitle>Larcher, Jean</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref35" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">3</container>
+                        <unittitle>Shepherd, Margaret</unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref36" level="file">
+                  <did>
+                     <unittitle>Judges 3:16, Ruth 3:16.</unittitle>
+                  </did>
+                  <c04 id="ref37" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">4</container>
+                        <unittitle>Borja, Robert</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref38" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">4</container>
+                        <unittitle>Veljovic, Jovica</unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref39" level="file">
+                  <did>
+                     <unittitle>1 Samuel 3:16, 2 Samuel 3:16.</unittitle>
+                  </did>
+                  <c04 id="ref40" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">5</container>
+                        <unittitle>Wadisherla, S.</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref41" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">5</container>
+                        <unittitle>Waters, Julian</unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref42" level="file">
+                  <did>
+                     <unittitle>1 Kings 3:16, 2 Kings 3:16.</unittitle>
+                  </did>
+                  <c04 id="ref43" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">6</container>
+                        <unittitle>Bongard, Hermann</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref44" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">6</container>
+                        <unittitle>Kot, Andrzej</unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref45" level="file">
+                  <did>
+                     <unittitle>1 Chronicles 3:16, 2 Chronicles 3:16.</unittitle>
+                  </did>
+                  <c04 id="ref46" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">7</container>
+                        <unittitle>Bongard, Hermann</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref47" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">7</container>
+                        <unittitle>Wong, Allen Q.</unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref48" level="file">
+                  <did>
+                     <unittitle>Ezra 4:3, Nehemiah 3:16.</unittitle>
+                  </did>
+                  <c04 id="ref49" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">7</container>
+                        <unittitle>Hechle, Ann</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref50" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">7</container>
+                        <unittitle>Pao, Derick</unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref51" level="file">
+                  <did>
+                     <unittitle>Esther 4:1, Job 3:16.</unittitle>
+                  </did>
+                  <c04 id="ref52" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">9</container>
+                        <unittitle>Eberhardt, Fritz</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref53" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">9</container>
+                        <unittitle>Maletto, Luigi Cesare</unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref54" level="file">
+                  <did>
+                     <unittitle>Psalm 4:8, Proverbs 3:16.</unittitle>
+                  </did>
+                  <c04 id="ref55" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">10</container>
+                        <unittitle>Holmes, Kris</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref56" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">10</container>
+                        <unittitle>Taylor, Susie</unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref57" level="file">
+                  <did>
+                     <unittitle>Ecclesiastes 3:16, Song of Solomon 4:5.</unittitle>
+                  </did>
+                  <c04 id="ref58" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">11</container>
+                        <unittitle>Rohde, Bent</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref59" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">11</container>
+                        <unittitle>Waters, Sheila</unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref60" level="file">
+                  <did>
+                     <unittitle>Isaiah 3:16, Jeremiah 3:16.</unittitle>
+                  </did>
+                  <c04 id="ref61" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">12</container>
+                        <unittitle>Dieterich, Claude</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref62" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">12</container>
+                        <unittitle>Jackson, Donald</unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref63" level="file">
+                  <did>
+                     <unittitle>Lamentations 3:16, Ezekiel 3:16.</unittitle>
+                  </did>
+                  <c04 id="ref64" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">13</container>
+                        <unittitle>Deaver, Georgia</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref65" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">13</container>
+                        <unittitle>Harvey, Michael</unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref66" level="file">
+                  <did>
+                     <unittitle>Daniel 3:16, Hosea 4:11.</unittitle>
+                  </did>
+                  <c04 id="ref67" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">14</container>
+                        <unittitle>Horlbeck-Kappler, Irmgard</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref68" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">14</container>
+                        <unittitle>Skaggs, Steven</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref69" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">14</container>
+                        <unittitle>Stone, Sumner</unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref70" level="file">
+                  <did>
+                     <unittitle>Joel 3:16, Amos 4:1.</unittitle>
+                  </did>
+                  <c04 id="ref71" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">15</container>
+                        <unittitle>Fraterdeus, Peter</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref72" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">15</container>
+                        <unittitle>Peter, Fred</unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref73" level="file">
+                  <did>
+                     <unittitle>Jonah 4:6, Micah 4:4.</unittitle>
+                  </did>
+                  <c04 id="ref74" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">16</container>
+                        <unittitle>Girvin, Timothy S.</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref75" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">16</container>
+                        <unittitle>Wronker, Lili Cassel</unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref76" level="file">
+                  <did>
+                     <unittitle>Nahum 3:16, Habakkuk 3:16.</unittitle>
+                  </did>
+                  <c04 id="ref77" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">17</container>
+                        <unittitle>Briem, Gunnlaugur SE</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref78" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">17</container>
+                        <unittitle>Hoefer, Karlgeorg</unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref79" level="file">
+                  <did>
+                     <unittitle>Zephaniah 3:16, Zechariah 4:6.</unittitle>
+                  </did>
+                  <c04 id="ref80" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">18</container>
+                        <unittitle>Jones, Pam</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref81" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">18</container>
+                        <unittitle>Mediavilla, Claude</unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref82" level="file">
+                  <did>
+                     <unittitle>Malachi 3:16, Matthew 3:16.</unittitle>
+                  </did>
+                  <c04 id="ref83" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">19</container>
+                        <unittitle>Maveety, Darle</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref84" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">19</container>
+                        <unittitle>Neugebauer, Friedrich</unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref85" level="file">
+                  <did>
+                     <unittitle>Mark 3:16, Luke 3:16.</unittitle>
+                  </did>
+                  <c04 id="ref86" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">20</container>
+                        <unittitle>Bernd, Adolf</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref87" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">20</container>
+                        <unittitle>Koeth, Alice</unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref88" level="file">
+                  <did>
+                     <unittitle>John 3:16, Acts 3:16.</unittitle>
+                  </did>
+                  <c04 id="ref89" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">21</container>
+                        <unittitle>Hoffman, Lothar</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref90" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">21</container>
+                        <unittitle>Zapf, Herman</unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref91" level="file">
+                  <did>
+                     <unittitle>Romans 3:16, 1 Corinthians 3:16.</unittitle>
+                  </did>
+                  <c04 id="ref92" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">22</container>
+                        <unittitle>Linz, Alfred</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref93" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">22</container>
+                        <unittitle>Toots, Villu</unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref94" level="file">
+                  <did>
+                     <unittitle>2 Corinthians 3:16, Galatians 3:16.</unittitle>
+                  </did>
+                  <c04 id="ref95" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">23</container>
+                        <unittitle>Kratky, Luboimir</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref96" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">23</container>
+                        <unittitle>Zigany, Edit</unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref97" level="file">
+                  <did>
+                     <unittitle>Ephesians 3:16, Philippians 3:16.</unittitle>
+                  </did>
+                  <c04 id="ref98" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">24</container>
+                        <unittitle>Anckers, Kerstin</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref99" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">24</container>
+                        <unittitle>Rodriguez-Benitez, Guillermo</unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref100" level="file">
+                  <did>
+                     <unittitle>Colossians 3:16, 1 Thessalonians 4:3.</unittitle>
+                  </did>
+                  <c04 id="ref101" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">25</container>
+                        <unittitle>Billawala, Nazneen N.</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref102" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">25</container>
+                        <unittitle>Snape, Margaret</unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref103" level="file">
+                  <did>
+                     <unittitle>2 Thessalonians 3:16, 1 Timothy 3:16.</unittitle>
+                  </did>
+                  <c04 id="ref104" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">26</container>
+                        <unittitle>Pronenko, Leonid</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref105" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">26</container>
+                        <unittitle>Zapf-von Hesse, Gudrun</unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref106" level="file">
+                  <did>
+                     <unittitle>2 Timothy 3:16, Hebrews 3:16.</unittitle>
+                  </did>
+                  <c04 id="ref107" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">27</container>
+                        <unittitle>Kindersley, David</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref108" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">27</container>
+                        <unittitle>Stevens, John</unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref109" level="file">
+                  <did>
+                     <unittitle>James 3:16, 1 Peter 3:16.</unittitle>
+                  </did>
+                  <c04 id="ref110" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">28</container>
+                        <unittitle>Kelly, Jerry</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref111" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">28</container>
+                        <unittitle>Mendoza y Almeida, Jose</unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref112" level="file">
+                  <did>
+                     <unittitle>2 Peter 3:16, 1 John 3:16.</unittitle>
+                  </did>
+                  <c04 id="ref113" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">29</container>
+                        <unittitle>Evans, Jean</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref114" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">29</container>
+                        <unittitle>Wong, Jeanyee</unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref115" level="file">
+                  <did>
+                     <unittitle>Revelation 3:16.</unittitle>
+                  </did>
+                  <c04 id="ref116" level="file">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">30</container>
+                        <unittitle>Cusick, Rick</unittitle>
+                     </did>
+                  </c04>
+               </c03>
+            </c02>
+            <c02 id="ref117" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Letters from Knuth to calligraphers and readers.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref118" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Letters to Knuth received just after publication.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref119" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Correspondence with Hermann Zapf.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref120" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Calligraphers who declined.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref121" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Correspondence with publishers (unsuccessful).</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref122" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Correspondence with A-R Editions.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref123" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Permission forms signed by artists.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref124" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Original MS notes for Bible class given in 1978.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref125" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Miscellaneous working papers, Boston</unittitle>
+                  <unitdate>1985-1986</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref126" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Invitation to calligraphers</unittitle>
+                  <unitdate>1986</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref127" level="file">
+               <did>
+                  <unittitle>ORIGINAL MS NOTES FOR BOOK</unittitle>
+                  <unitdate>1985-1989</unitdate>
+               </did>
+               <c03 id="ref128" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Front matter.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref129" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">12</container>
+                     <unittitle>Genesis 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref130" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">13</container>
+                     <unittitle>Exodus 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref131" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">14</container>
+                     <unittitle>Leviticus 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref132" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">15</container>
+                     <unittitle>Numbers 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref133" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">16</container>
+                     <unittitle>Deuteronomy 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref134" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">17</container>
+                     <unittitle>Joshua 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref135" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">18</container>
+                     <unittitle>Judges 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref136" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">19</container>
+                     <unittitle>Ruth 3:16</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref137" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">20</container>
+                     <unittitle>1 Samuel 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref138" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">21</container>
+                     <unittitle>2 Samuel 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref139" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">22</container>
+                     <unittitle>1 Kings 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref140" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">23</container>
+                     <unittitle>2 Kings 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref141" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">1</container>
+                     <unittitle>1 Chronicles 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref142" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">2</container>
+                     <unittitle>2 Chronicles 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref143" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Ezra 4:3.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref144" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Nehemiah 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref145" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Esther 4:1.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref146" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Job 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref147" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Psalm 4:8.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref148" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Proverbs 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref149" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Ecclesiastes 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref150" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">10</container>
+                     <unittitle>Song of Solomon 4:5.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref151" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Isaiah 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref152" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">12</container>
+                     <unittitle>Jeremiah 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref153" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">13</container>
+                     <unittitle>Lamentations 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref154" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">14</container>
+                     <unittitle>Ezekiel 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref155" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">15</container>
+                     <unittitle>Daniel 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref156" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">16</container>
+                     <unittitle>Hosea 4:11.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref157" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">17</container>
+                     <unittitle>Joel 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref158" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">18</container>
+                     <unittitle>Amos 4:1.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref159" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">19</container>
+                     <unittitle>Jonah 4:6.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref160" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">20</container>
+                     <unittitle>Micah 4:4.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref161" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">21</container>
+                     <unittitle>Nahum 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref162" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">22</container>
+                     <unittitle>Habakkuk 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref163" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">23</container>
+                     <unittitle>Zephaniah 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref164" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">24</container>
+                     <unittitle>Zechariah 4:6.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref165" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">25</container>
+                     <unittitle>Malachi 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref166" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">26</container>
+                     <unittitle>Matthew 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref167" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">27</container>
+                     <unittitle>Mark 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref168" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">28</container>
+                     <unittitle>Luke 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref169" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">29</container>
+                     <unittitle>John 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref170" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">30</container>
+                     <unittitle>Acts 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref171" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">31</container>
+                     <unittitle>Romans 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref172" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">32</container>
+                     <unittitle>1 Corinthians 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref173" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">33</container>
+                     <unittitle>2 Corinthians 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref174" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">34</container>
+                     <unittitle>Galatians 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref175" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">35</container>
+                     <unittitle>Ephesians 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref176" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">36</container>
+                     <unittitle>Philippians 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref177" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">37</container>
+                     <unittitle>Colossians 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref178" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">38</container>
+                     <unittitle>1 Thessalonians 4:3.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref179" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">39</container>
+                     <unittitle>2 Thessalonians 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref180" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">40</container>
+                     <unittitle>1 Timothy 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref181" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">41</container>
+                     <unittitle>2 Timothy 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref182" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">42</container>
+                     <unittitle>Hebrews 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref183" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">43</container>
+                     <unittitle>James 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref184" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">44</container>
+                     <unittitle>1 Peter 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref185" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">45</container>
+                     <unittitle>2 Peter 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref186" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">46</container>
+                     <unittitle>1 John 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref187" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">47</container>
+                     <unittitle>Revelations 3:16.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref188" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">48</container>
+                     <unittitle>Rear matter.</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref189" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Laserprinted reference set of illustration plates.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref190" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Special reprints of illustration pages.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref191" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">3</container>
+                  <unittitle>"Dummy book."</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref192" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Unbound signatures.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref193" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Notebook from experiments at Adobe Systems, Inc.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref194" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Computer files--printouts.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref195" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Photographic plates (spares).</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref196" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>COMPUTER TAPES</unittitle>
+               </did>
+               <note>
+                  <p>These are so-called "exabyte tapes," containing millions of bytes of "precious data" although they are very small. The first two tapes were made at Adobe Systems in 1989; they contain information from artwork as originally scanned into digital form before editing.</p>
+                  <p>The third tape contains files in the PostScript language that will generate all 139 plates of illustrations used in the book. It also contains files in the TeX language that will generate the complete text, and files in the METAFONT language that will produce the special fonts used. It also contains records of correspondence with the artists and the labels used in a traveling exhibit of calligraphy constructed from the artwork for this book.</p>
+               </note>
+            </c02>
+            <c02 id="ref198" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Zapf, Hermann - correspondence with D. Knuth and others</unittitle>
+                  <unitdate>1984-85</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref199" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Zapf, Hermann - correspondence with D. Knuth and others</unittitle>
+                  <unitdate>1986</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref200" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Zapf, Hermann - correspondence with D. Knuth and others</unittitle>
+                  <unitdate>1987</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref201" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Zapf, Hermann - correspondence with D. Knuth and others</unittitle>
+                  <unitdate>1988</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref202" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Zapf, Hermann - correspondence with D. Knuth and others</unittitle>
+                  <unitdate>1989</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref203" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Zapf, Hermann - correspondence with D. Knuth and others</unittitle>
+                  <unitdate>1990-91</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref204" level="file">
+               <did>
+                  <container type="Box">1 os</container>
+                  <unittitle>FLAT ART I (ledger size):</unittitle>
+               </did>
+               <note>
+                  <p>Contains various sketches and layouts by the artists, and also includes original art work by Veljovic', Wadisherla, Kot, Schneider, Jackson, Peter, Hoefer, Bernd, Zapf, Zigany.</p>
+               </note>
+            </c02>
+            <c02 id="ref206" level="file">
+               <did>
+                  <container type="Box">1 mc</container>
+                  <unittitle>FLAT ART II (map size):</unittitle>
+               </did>
+               <note>
+                  <p>Contains the following, from bottom to top:</p>
+               </note>
+               <c03 id="ref208" level="file">
+                  <did>
+                     <container type="Folder">1</container>
+                     <unittitle>Plates from sample chapter printed at Nimrod Press, Boston, 1986.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref209" level="file">
+                  <did>
+                     <container type="Folder">2</container>
+                     <unittitle>Plates from exhibition brochure printed at Slonaker's, Palo Alto, 1989.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref210" level="file">
+                  <did>
+                     <container type="Folder">3</container>
+                     <unittitle>Hermann Zapf's original layout for the poster, January 1990.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref211" level="file">
+                  <did>
+                     <container type="Folder">4</container>
+                     <unittitle>Proofs of the poster, Singapore, October-November 1990.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref212" level="file">
+                  <did>
+                     <container type="Folder">5</container>
+                     <unittitle>Example of the final poster.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref213" level="file">
+                  <did>
+                     <container type="Folder">6</container>
+                     <unittitle>Signatures printed on illustration side only.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref214" level="file">
+                  <did>
+                     <container type="Folder">7</container>
+                     <unittitle>Sample covers at press time, showing significant color variation.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref215" level="file">
+                  <did>
+                     <container type="Folder">8</container>
+                     <unittitle>Sample signatures at press time, showing significant color variation.</unittitle>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="ref216" level="series">
+            <did>
+               <unitid>Accession ARCH-1996-146</unitid>
+               <unittitle>Additional Papers</unittitle>
+            </did>
+            <note>
+               <p>This addition to the collection pertains to the traveling exhibit of artwork from the book, designed and organized by Jennifer S. Knuth. Included are correspondence, exhibit texts and records, photographs, ephemera, financial records, and clippings. There are also some financial records and other materials pertaining to the production of the book.</p>
+            </note>
+            <c02 id="ref218" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>"Exploring 3:16," a study guide by Rev. Robert Nicholus</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref219" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Proofs for the publisher's brochure about the book</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref220" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Changes to be made in the second printing</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref221" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Canceled checks [includes many calligraphers' autographs]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref222" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Correspondence with calligraphers, 1991-1996 [Neugebauer, Briem, Kot, Zapf, Wronker]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref223" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Financial records for 3:16 book and exhibit [includes correspondence with customs officials re international transport]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref224" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Mat board for the exhibit</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref225" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Jennifer's first workbook for exhibit design and organization</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref226" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Printing of stationery and brochures about the exhibit</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref227" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Jennifer's correspondence with artists</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref228" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Jennifer's drafts for exhibit labels, edited by D. Knuth and S. Taylor</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref229" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Exhibit labels as they are taking shape</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref230" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Jennifer's drafts for exhibit panels</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref231" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Complete set of 35mm slides of the 73 frames in the exhibit</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref232" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Booklet containing texts of the exhibit panels and labels; and German translation of that booklet</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref233" level="file">
+               <did>
+                  <unittitle>Photos of the exhibit in Penticton</unittitle>
+                  <physdesc>
+                     <extent>100 computer file(s) (TIFF)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref234" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>National Endowment for the Arts: application, correspondence, final report</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref235" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Jennifer's drafts for brochure and cover litter to potential exhibitors</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref236" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Jennifer's second workbook for exhibit coordination</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref237" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Jennifer's third workbook for exhibit coordination</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref238" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Miscellaneous press clippings, posters, and reviews from exhibit sites [from Stanford to Washington to Bratislava, Slovakia]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref239" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Info packet for potential exhibitors; final list of exhibit sites; addresses</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref240" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Letters from calligraphers donating their work to the San Francisco Library</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref241" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Condition Record Book of the exhibit - detailed notes on each piece from each exhibit site</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref242" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Copy of Tim Girvin's artwork</unittitle>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

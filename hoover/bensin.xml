@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-CSt-H">bensin.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Register of the Basil M. Bensin Papers
+                </titleproper>
+                <titleproper type="filing">Bensin (Basil M.) Papers</titleproper>
+                <author>Finding aid prepared by Prepared by Anatol Shmelev</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Hoover Institution Archives</publisher>
+                <address>
+                    <addressline>434 Galvez Mall</addressline>
+                    <addressline>Stanford University</addressline>
+                    <addressline>Stanford, CA, 94305-6010</addressline>
+                    <addressline>(650) 723-3563</addressline>
+                    <addressline>hooverarchives@stanford.edu</addressline>
+                </address>
+                <date>© 2003, 2014</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2014-04-23T16:10-0700</date>
+            </creation>
+            <langusage>Description is in 
+                <language langcode="eng" scriptcode="latn">English</language></langusage>
+        </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>2014</date>
+                <item>April 18, 2014: Biographical information added from Hoover website.
+&lt;date calendar="gregorian" normal="20110223" era="ce"&gt;February 23, 2011: revised to update encoding and add unitid
+March 23, 2004: PUBLIC "-//Stanford University::Hoover Institution Archives//TEXT (US::CSt-H::::Basil M. Bensin Papers)//EN" "bensin.xml" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Basil M. Bensin papers</unittitle>
+            <unitdate normal="1913/1970" type="inclusive">1913-1970</unitdate>
+            <unitid label="Collection Number" countrycode="US" repositorycode="CSt-H">2001C60</unitid>
+            <repository>
+                <corpname>Hoover Institution Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng">In English</language> and <language langcode="rus">Russian.</language>
+            </langmaterial>
+
+            <physdesc>
+                <extent>1 microfilm reel</extent>
+                <extent>(0.15 linear feet)</extent>
+            </physdesc>
+
+            <abstract id="ref2" label="Abstract">Speeches and writings, biographical data, and photographs, relating to agriculture, especially in northern climates, and to Russian émigré affairs.</abstract>
+            <physloc id="ref3" label="Physical Location">Hoover Institution Archives</physloc>
+
+            <origination label="Creator">
+                <persname source="ingest">Bensin, Basil M.</persname>
+            </origination>
+        </did>
+        <accessrestrict id="ref4">
+            <head>Access</head>
+            <p>Collection is open for research.</p>
+        </accessrestrict>
+        <userestrict id="ref5">
+            <head>Publication Rights</head>
+            <p>For copyright status, please contact the Hoover Institution Archives.</p>
+        </userestrict>
+        <prefercite id="ref6">
+            <head>Preferred Citation</head>
+            <p>[Identification of item], Basil M. Bensin Papers, [Box no.], Hoover Institution Archives.</p>
+        </prefercite>
+        <acqinfo id="ref7">
+            <head>Acquisition Information</head>
+            <p>Acquired.</p>
+        </acqinfo>
+        <altformavail id="ref8">
+            <head>Location of Originals</head>
+            <p>Originals in: Museum of Russian Culture, San Francisco.</p>
+        </altformavail>
+        <bioghist id="ref82">
+            <head>Biography</head>
+            <p>B. M. Bensin was born in Russia on 30 January 1881 (O. S.). He received his education in agricultural sciences at the University of Minnesota, graduating with an M.S. in 1912. Returning to Russia, he authored a pamphlet entitled Izuchenie zasukhoustoichivykh ras sel'sko-khoziaistvennykh rastenii in 1913. After 1920, he emigrated to Czechosovakia, where he published Sel'skoe khoziaistvo i kooperatsiia v S.-Amerikie (Prague, 1923) and Shkola i sel'skoe khoziaistvo (Prague, 1924).</p>
+            <p>Coming to the United States in 1930, he continued his agricultural researches: as an agronomist for the Alaska Agricultural Experiment Station and instructor at the University of Alaska from 1945 to 1948, he identified strains of plants capable of withstanding the extreme cold and harsh climate of the region. Bensin was also active in the Russian émigré Sokol movement, and his collection contains some materials on that topic. He died in North Carolina in February 1973.</p>
+        </bioghist>
+        <bioghist id="ref9">
+            <head>Biographical Note</head>
+            <chronlist>
+                <chronitem>
+                    <date>1881 January 30 (O.S.)</date>
+                    <event>Born, Russia</event>
+                </chronitem>
+                <chronitem>
+                    <date>1912</date>
+                    <eventgrp>
+                        <event>M. S., Agricultural Sciences, University of Minnesota</event>
+                        <event>Returned to Russia</event>
+                    </eventgrp>
+                </chronitem>
+                <chronitem>
+                    <date>1913</date>
+                    <event>Author, 
+                        <emph render="italic">Izuchenie zasukhoustoichivykh ras sel'sko-khoziaistvennykh rastenii</emph></event>
+                </chronitem>
+                <chronitem>
+                    <date>1923</date>
+                    <event>Author, 
+                        <emph render="italic">Sel'skoe khoziaistvo i kooperatsiia v S.-Amerikie</emph></event>
+                </chronitem>
+                <chronitem>
+                    <date>1924</date>
+                    <event>Author, 
+                        <emph render="italic">Shkola i sel'skoe khoziaistvo</emph></event>
+                </chronitem>
+                <chronitem>
+                    <date>1930</date>
+                    <event>Arrived in the United States</event>
+                </chronitem>
+                <chronitem>
+                    <date>1945-1948</date>
+                    <eventgrp>
+                        <event>Agronomist, Alaska Agricultural Experiment Station</event>
+                        <event>Instructor, University of Alaska</event>
+                    </eventgrp>
+                </chronitem>
+            </chronlist>
+        </bioghist>
+        <scopecontent id="ref11">
+            <head>Scope and Content Note</head>
+            <p>Basil M. Benzin (Vasilii Mitrofanovich Benzin) was an agricultural expert active in Russia (to 1920), Czechoslovakia (1921-1930) and the United States (1910-1912 and 1930 to his death). The collection includes his written works on varioua aspects of agronomy and its economic organization, as well as a file of unique materials on the history of Russian Sokol organizations in Europe and the United States (SUBJECT FILE/Athletic clubs). Also interesting are the files on his son's (Igor Bensen) career as an engineer for General Electric and inventor of flying contraptions (BIOGRAPHICAL FILE/Family file/Bensen, Igor, and PHOTOGRAPHS/Bensen, Igor).</p>
+            <p>Detailed processing and preservation microfilming for these materials were made possible by a generous grant from the National Endowment for the Humanities and by matching funds from the Hoover Institution and Museum of Russian Culture. The grant also provides depositing a microfilm copy in the Hoover Institution Archives. The original materials remain in the Museum of Russian Culture, San Francisco as its property. A transfer table indicating corresponding box and reel numbers is available at the Hoover Institution Archives.</p>
+            <p>The Hoover Institution assumes all responsibility for notifying users that they must comply with the copyright law of the United States (Title 17 United States Code) and Hoover Rules for the Use and Reproduction of Archival Materials.</p>
+        </scopecontent>
+        <controlaccess>
+            <subject source="lcsh">Agriculture.</subject>
+            <geogname source="lcsh">Russia.</geogname>
+            <subject source="lcsh">Russians--United States.</subject>
+            <geogname source="lcsh">United States.</geogname>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref12" level="series">
+                <did>
+                    <unittitle>Biographical File, </unittitle>
+                    <container id="cid560695" type="Box" label="Box">1</container>
+                    <unitdate normal="1945/1951" type="inclusive">1945-1951</unitdate>
+                </did>
+                <scopecontent id="ref24">
+                    <head>Scope and Contents note</head>
+                    <p>Articles, award, bibliographies, clippings and family file, arranged alphabetically by physical form</p>
+                </scopecontent>
+                <c02 id="ref13" level="file">
+                    <did>
+                        <unittitle>Articles about B. M. Bensin.</unittitle>
+                        <container id="cid560701" type="Folder" label="Box/Folder">1 : 1</container>
+                    </did>
+                    <scopecontent id="ref14">
+                        <head>Scope and Contents note</head>
+                        <p>Includes entry from 
+                            <emph render="italic">International Who's Who</emph>, 1948 June</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>Award</unittitle>
+                        <container id="cid560700" type="Folder" label="Box/Folder">1 : 2</container>
+                    </did>
+                </c02>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>Bibliographies of works published</unittitle>
+                        <container id="cid560699" type="Folder" label="Box/Folder">1 : 3</container>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Clippings about or mentioning B. M. Bensin</unittitle>
+                        <container id="cid560698" type="Folder" label="Box/Folder">1 : 4</container>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>Family file</unittitle>
+                    </did>
+                    <c03 id="ref19" level="file">
+                        <did>
+                            <unittitle>Bensen, Igor Vasil'evich (son).</unittitle>
+                            <container id="cid560697" type="Folder" label="Box/Folder">1 : 5</container>
+                        </did>
+                        <odd id="ref20">
+                            <head>General note</head>
+                            <p>See also PHOTOGRAPHS</p>
+                        </odd>
+                        <scopecontent id="ref21">
+                            <head>Scope and Contents note</head>
+                            <p>Biographical materials.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref22" level="file">
+                        <did>
+                            <unittitle>Benzin, A. M. (brother?).</unittitle>
+                            <container id="cid560696" type="Folder" label="Box/Folder">1 : 6</container>
+                        </did>
+                        <scopecontent id="ref23">
+                            <head>Scope and Contents note</head>
+                            <p>Clipping and description of his inventions</p>
+                        </scopecontent>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref25" level="series">
+                <did>
+                    <unittitle>Correspondence, </unittitle>
+                    <container id="cid560694" type="Folder" label="Box/Folder">1 : 7</container>
+                    <unitdate normal="1970/1970">1970</unitdate>
+                </did>
+                <scopecontent id="ref26">
+                    <head>Scope and Contents note</head>
+                    <p>One greeting card sent to N. A. Slobodchikov</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref27" level="series">
+                <did>
+                    <unittitle>Speeches and Writings, </unittitle>
+                    <container id="cid560673" type="Box" label="Box">1</container>
+                    <unitdate normal="1913/1952" type="inclusive">1913-1952</unitdate>
+                </did>
+                <scopecontent id="ref68">
+                    <head>Scope and Contents note</head>
+                    <p>Articles and books, arranged chronologically by title</p>
+                </scopecontent>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>"Agricultural Self-Sufficiency Possible in Alaska," 
+                            <emph render="italic">Ketchikan Alaska Chronicle</emph>,</unittitle>
+                        <container id="cid560693" type="Folder" label="Box/Folder">1 : 8</container>
+                        <unitdate normal="1913/1970" type="inclusive">n.d.</unitdate>
+                    </did>
+                    <scopecontent id="ref29">
+                        <head>Scope and Contents note</head>
+                        <p>Printed copy</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>"Agroecology: Basic Science of Agriculture,"</unittitle>
+                        <container id="cid560692" type="Folder" label="Box/Folder">1 : 9</container>
+                        <unitdate normal="1913/1970" type="inclusive">n.d.</unitdate>
+                    </did>
+                    <scopecontent id="ref31">
+                        <head>Scope and Contents note</head>
+                        <p>Typescript</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>"Arctic Coldframes with Miracle Solar Reflectors for Northern Climates,"</unittitle>
+                        <container id="cid560691" type="Folder" label="Box/Folder">1 : 10</container>
+                        <unitdate normal="1913/1970" type="inclusive">n.d.</unitdate>
+                    </did>
+                    <scopecontent id="ref33">
+                        <head>Scope and Contents note</head>
+                        <p>Printed copy</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>"Arctic Solar Reflectors for Northern Climates,"</unittitle>
+                        <container id="cid560690" type="Folder" label="Box/Folder">1 : 11</container>
+                        <unitdate normal="1913/1970" type="inclusive">n.d.</unitdate>
+                    </did>
+                    <scopecontent id="ref35">
+                        <head>Scope and Contents note</head>
+                        <p>Printed copy</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>"K istorii vozniknoveniia i razvitiia nauki agroekologii,"</unittitle>
+                        <container id="cid560689" type="Folder" label="Box/Folder">1 : 12</container>
+                        <unitdate normal="1913/1970" type="inclusive">n.d.</unitdate>
+                    </did>
+                    <scopecontent id="ref37">
+                        <head>Scope and Contents note</head>
+                        <p>Holograph</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>"'Russkii sokol:' Ego zadachi i tsieli v Amerikie,"</unittitle>
+                        <container id="cid560688" type="Folder" label="Box/Folder">1 : 13</container>
+                        <unitdate normal="1913/1970" type="inclusive">n.d.</unitdate>
+                    </did>
+                    <scopecontent id="ref39">
+                        <head>Scope and Contents note</head>
+                        <p>Printed copy</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Izuchenie zasukhoustoichivykh ras sel'sko-khoziaistvennykh rastenii</emph>, </unittitle>
+                        <container id="cid560687" type="Folder" label="Box/Folder">1 : 14</container>
+                        <unitdate normal="1913/1913">1913</unitdate>
+                    </did>
+                    <scopecontent id="ref41">
+                        <head>Scope and Contents note</head>
+                        <p>Printed copy</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Sel'skoe khoziaistvo i kooperatsiia v S.-Amerikie</emph>, </unittitle>
+                        <container id="cid560686" type="Folder" label="Box/Folder">1 : 15</container>
+                        <unitdate normal="1923/1923">1923</unitdate>
+                    </did>
+                    <scopecontent id="ref43">
+                        <head>Scope and Contents note</head>
+                        <p>Printed copy</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Shkola i sel'skoe khoziaistvo</emph>, </unittitle>
+                        <container id="cid560685" type="Folder" label="Box/Folder">1 : 16</container>
+                        <unitdate normal="1924/1924">1924</unitdate>
+                    </did>
+                    <scopecontent id="ref45">
+                        <head>Scope and Contents note</head>
+                        <p>Printed copy</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle>"O siemenakh i o posievie," and "Zasukhi i neurozhai v Rossii," 
+                            <emph render="italic">Kalendar' dlia russkikh zemlediel'tsev na 1925 god</emph>, </unittitle>
+                        <container id="cid560684" type="Folder" label="Box/Folder">1 : 17</container>
+                        <unitdate normal="1925/1925">1925</unitdate>
+                    </did>
+                    <scopecontent id="ref47">
+                        <head>Scope and Contents note</head>
+                        <p>Printed copy</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref48" level="file">
+                    <did>
+                        <unittitle>"Polevyia kul'tury Iuga i Iugo-Vostoka Rossii," 
+                            <emph render="italic">Kalendar' dlia russkikh zemlediel'tsev na 1926 god</emph>, </unittitle>
+                        <container id="cid560683" type="Folder" label="Box/Folder">1 : 18</container>
+                        <unitdate normal="1926/1926">1926</unitdate>
+                    </did>
+                    <scopecontent id="ref49">
+                        <head>Scope and Contents note</head>
+                        <p>Printed copy</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref50" level="file">
+                    <did>
+                        <unittitle>"Agroecological Studies of Maize Plant," Program of a lecture, </unittitle>
+                        <container id="cid560682" type="Folder" label="Box/Folder">1 : 19</container>
+                        <unitdate normal="1930/1930">1930</unitdate>
+                    </did>
+                    <scopecontent id="ref51">
+                        <head>Scope and Contents note</head>
+                        <p>Printed copy</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>"Agroecological Exploration in the Soto La Marina Region, Mexico," 
+                            <emph render="italic">The Geographical Review</emph>, </unittitle>
+                        <container id="cid560681" type="Folder" label="Box/Folder">1 : 20</container>
+                        <unitdate>1935 April</unitdate>
+                    </did>
+                    <scopecontent id="ref53">
+                        <head>Scope and Contents note</head>
+                        <p>Printed copy</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref54" level="file">
+                    <did>
+                        <unittitle>"The Future of Orthodoxy in America," 
+                            <emph render="italic">Russian Orthodox Journal</emph>, </unittitle>
+                        <container id="cid560680" type="Folder" label="Box/Folder">1 : 21</container>
+                        <unitdate normal="1945/1945">1945</unitdate>
+                    </did>
+                    <scopecontent id="ref55">
+                        <head>Scope and Contents note</head>
+                        <p>Printed copy</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref56" level="file">
+                    <did>
+                        <unittitle>"Problems of Agricultural Microclimatology in Alaska," 
+                            <emph render="italic">Farthest North Collegian</emph>, </unittitle>
+                        <container id="cid560679" type="Folder" label="Box/Folder">1 : 22</container>
+                        <unitdate>1950 March</unitdate>
+                    </did>
+                    <scopecontent id="ref57">
+                        <head>Scope and Contents note</head>
+                        <p>Printed copy</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref58" level="file">
+                    <did>
+                        <unittitle>"Agroecological World Geography," 
+                            <emph render="italic">Biologia</emph>, </unittitle>
+                        <container id="cid560678" type="Folder" label="Box/Folder">1 : 23</container>
+                        <unitdate normal="1951/1951">1951</unitdate>
+                    </did>
+                    <scopecontent id="ref59">
+                        <head>Scope and Contents note</head>
+                        <p>Printed copy</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref60" level="file">
+                    <did>
+                        <unittitle>"Growing Warm Season Vegetables in Alaska," .</unittitle>
+                        <container id="cid560677" type="Folder" label="Box/Folder">1 : 24</container>
+                        <unitdate>1951 May</unitdate>
+                    </did>
+                    <scopecontent id="ref61">
+                        <head>Scope and Contents note</head>
+                        <p>Printed copy</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>"Arctic Cold Frames for Northern Climates," .</unittitle>
+                        <container id="cid560676" type="Folder" label="Box/Folder">1 : 25</container>
+                        <unitdate normal="1952/1952">1952</unitdate>
+                    </did>
+                    <scopecontent id="ref63">
+                        <head>Scope and Contents note</head>
+                        <p>Printed copy</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref64" level="file">
+                    <did>
+                        <unittitle>"Coal Dust for Alaskan Gardens," .</unittitle>
+                        <container id="cid560675" type="Folder" label="Box/Folder">1 : 26</container>
+                        <unitdate normal="1952/1952">1952</unitdate>
+                    </did>
+                    <scopecontent id="ref65">
+                        <head>Scope and Contents note</head>
+                        <p>Printed copy</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref66" level="file">
+                    <did>
+                        <unittitle>"Warm Season Vegetables in Alaska," .</unittitle>
+                        <container id="cid560674" type="Folder" label="Box/Folder">1 : 27</container>
+                        <unitdate normal="1952/1952">1952</unitdate>
+                    </did>
+                    <scopecontent id="ref67">
+                        <head>Scope and Contents note</head>
+                        <p>Printed copy</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref69" level="file">
+                <did>
+                    <unittitle>Subject File, </unittitle>
+                    <container id="cid560670" type="Box" label="Box">1</container>
+                    <unitdate normal="1924/1937" type="inclusive">1924-1937</unitdate>
+                </did>
+                <scopecontent id="ref74">
+                    <head>Scope and Contents note</head>
+                    <p>Clippings, receipt and printed matter arranged alphabetically by subject</p>
+                </scopecontent>
+                <c02 id="ref70" level="file">
+                    <did>
+                        <unittitle>Alaska.</unittitle>
+                        <container id="cid560672" type="Folder" label="Box/Folder">1 : 28</container>
+                    </did>
+                    <scopecontent id="ref71">
+                        <head>Scope and Contents note</head>
+                        <p>Travel guides, brochures, railroad timetables, and receipt from Bensin's travels</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref72" level="file">
+                    <did>
+                        <unittitle>Athletic clubs.</unittitle>
+                        <container id="cid560671" type="Folder" label="Box/Folder">1 : 29</container>
+                    </did>
+                    <scopecontent id="ref73">
+                        <head>Scope and Contents note</head>
+                        <p>Materials on Czech and Russian Sokol organizations in Czechoslovakia and the United States</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref75" level="file">
+                <did>
+                    <unittitle>Photographs,</unittitle>
+                    <container id="cid560667" type="Box" label="Box">1</container>
+                    <unitdate normal="1913/1970" type="inclusive">n.d.</unitdate>
+                </did>
+                <scopecontent id="ref80">
+                    <head>Scope and Contents note</head>
+                    <p>Three prints of B. M. Bensin and five of Igor Bensen and his gyrocopters</p>
+                </scopecontent>
+                <c02 id="ref76" level="file">
+                    <did>
+                        <unittitle>Bensin, B. M.</unittitle>
+                        <container id="cid560669" type="Folder" label="Box/Folder">1 : 30</container>
+                    </did>
+                    <scopecontent id="ref77">
+                        <head>Scope and Contents note</head>
+                        <p>Three prints</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref78" level="file">
+                    <did>
+                        <unittitle>Bensen, Igor V.</unittitle>
+                        <container id="cid560668" type="Folder" label="Box/Folder">1 : 31</container>
+                    </did>
+                    <scopecontent id="ref79">
+                        <head>Scope and Contents note</head>
+                        <p>Five prints of him and his gyrocopters</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

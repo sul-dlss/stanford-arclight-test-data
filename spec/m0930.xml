@@ -1,0 +1,822 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  
+  
+  
+  
+  
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" repositoryencoding="iso15511" findaidstatus="unverified-full-draft" langencoding="iso639-2b"><eadid countrycode="us" identifier="ark:/13030/ft5h4nb0pb" mainagencycode="CSt" publicid="PUBLIC &quot;-//Stanford University::Libraries::Dept. of Special Collections::Manuscripts Division//TEXT (US::CSt::M0930::Harry Y. Ueno Papers)//EN&quot; &quot;m0930.sgm&quot;">m0930.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Harry Y. Ueno Papers, <date calendar="gregorian" era="ce" type="inclusive">1912-1997</date></titleproper><titleproper type="filing">Ueno (Harry) Papers</titleproper>
+        <author>Processed by Jane Cho; machine-readable finding aid created by Steven Mandeville-Gamble.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Department of Special Collections</publisher>
+        <address>
+          <addressline>Green Library</addressline>
+          <addressline>Stanford University Libraries</addressline>
+          <addressline>Stanford, CA 94305-6004 </addressline>
+          <addressline>Phone: (650) 725-1022</addressline>
+          <addressline>Email: specialcollections@stanford.edu</addressline>
+          <addressline>URL: http://library.stanford.edu/spc</addressline>
+        </address>
+        <date calendar="gregorian" era="ce">&#xA9; 2002</date>
+        <p>The Board of Trustees of Stanford University. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc><profiledesc>
+      <creation>Machine-readable finding aid derived from FileMaker Pro database.
+Date of source: <date calendar="gregorian" era="ce">1999.</date></creation>
+      <langusage>Finding aid is written in <language>English.</language></langusage>
+    </profiledesc><revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//Stanford University::Libraries::Dept. of Special Collections::Manuscripts Division//TEXT (US::CSt::M0930::Harry Y. Ueno Papers)//EN" "m0930.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Guide to the Harry Y. Ueno Papers, <date calendar="gregorian" era="ce" type="inclusive">1912-1997</date></titleproper>
+      <num>Collection number: M0930</num>
+      <publisher>Department of Special Collections and University Archives
+<lb/>Stanford University Libraries
+<lb/>Stanford, California</publisher>
+      <list type="simple">
+        <head>Contact Information</head>
+        <item>Department of Special Collections</item>
+        <item>Green Library</item>
+        <item>Stanford University Libraries</item>
+        <item>Stanford, CA 94305-6004 </item>
+        <item>Phone: (650) 725-1022</item>
+        <item>Email: specialcollections@stanford.edu</item>
+        <item>URL: http://library.stanford.edu/spc</item>
+      </list>
+      <list type="deflist">
+        <defitem>
+          <label>Processed by: </label>
+          <item>Jane Cho</item>
+        </defitem>
+        <defitem>
+          <label>Date Completed: </label>
+          <item>1999</item>
+        </defitem>
+        <defitem>
+          <label>Encoded by: </label>
+          <item>Steven Mandeville-Gamble</item>
+        </defitem>
+      </list>
+      <p>&#xA9; 2002 The Board of Trustees of Stanford University. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection">
+    <did id="did-1.8.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">Ueno, Harry Y. (Harry Yoshio), 1907- . Papers , </unittitle><unitdate calendar="gregorian" era="ce" type="inclusive">1912-1997</unitdate>
+      <unitid label="Collection number" countrycode="US" repositorycode="CSt">M0930</unitid>
+      <origination label="Creator">
+        <persname source="lcnaf">Ueno, Harry Y. (Harry Yoshio), 1907-</persname>
+      </origination>
+      <physdesc label="Extent">
+        <extent>1.5 linear ft.</extent>
+      </physdesc>
+      <repository label="Repository">
+        <corpname source="lcnaf">Stanford University. Libraries. Dept. of Special Collections and University Archives.</corpname>
+      </repository>
+      <abstract label="Abstract">Papers relating to the Harry Ueno's internment at Camp Manzanar in 1942. Includes correspondence, clippings, and oral history interview.</abstract>
+      <langmaterial label="Language">
+        <language langcode="en">English.</language>
+      </langmaterial>
+    </did>
+    <descgrp id="descgrp-1.8.2" type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict>
+        <head>Access Restrictions</head>
+        <p>None.</p>
+      </accessrestrict>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>Property rights reside with the repository. Literary rights
+reside with the creators of the documents or their heirs. To
+obtain permission to publish or reproduce, please contact the
+Public Services Librarian of the Dept. of Special Collections.</p>
+      </userestrict>
+      <acqinfo>
+        <head>Acquisition Information</head>
+        <p>Gift of Harry Yoshio Ueno, 1997.</p>
+      </acqinfo>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>Harry Y. Ueno Papers. M0930. Dept. of Special Collections, Stanford University Libraries, Stanford, Calif.</p>
+      </prefercite>
+    </descgrp>
+    <bioghist id="bioghist-1.8.3">
+      <head>Biography</head>
+      <p>During World War II, approximately 120,000 Japanese Americans were deemed a national security threat and placed in internment camps. Contrary to common belief, Japanese Americans protested against their involuntary confinement. The Manzanar Riot is among the most renowned examples of internee resistance and Harry Ueno played a central role in it.
+Harry Ueno was born on April 14, 1907 in Hawaii. When he was eight years old, he was taken to Hiroshima, Japan, to be educated. Afler graduating from the Kuba City grammar school and attending a trade school in Tokyo for nearly a year, he returned to the United States in 1923. He held various positions in Washington and northern California before moving to Los Angeles in 1931. In Los Angeles, he and his wife, Yaso, had three children. Harry Ueno was employed as a salesman for retail fruits and vegetables until the evacuation.
+The Ueno family was evacuated to Manzanar. A few months into his internment, he initiated the investigation of the sugar and beef shortage, and organized 1,600 kitchen workers into Mess Hall Workers Union. On December 5, 1942, Tayama, a JACL (Japanese American Citizen's League) leader in Manzanar, was severely beaten by masked internees. Although Ueno was arrested for this incident, he was not charged or given a trial. The internees in Manzanar congregated in front of Ueno's jail cell demanding his release. Ueno was the veritable folk hero, the martyr of Manzanar, around whom the internees marched. The riot ended with eight internees wounded and two killed. Ueno along with other camp leaders were removed to isolation centers where they were cut off from all contact. It was not until nearly a year later, that he would see his family again.
+With the war's end, the Ueno family resettled in northern California and began a cherry and strawberry farm. Harry Ueno is now retired, and is an act!ve member and supporter of the Japanese American community and its related research.</p>
+    </bioghist>
+    <scopecontent id="scopecontent-1.8.4">
+      <head>Collection Scope and Content Summary</head>
+      <p>The Harry Ueno Collection consists of 2 linear feet of original and photocopied manuscript materials, newspaper clippings, and photographs.
+Much of the Japanese-language materials were kept as they were found when the collection first arrived at Stanford University Libraries. However, most of the English-language manuscripts have been rearranged into six series or topics for easier access to materials.
+The war-time diaries of Harry Ueno, Yaso Ueno, and Masunaka are valuable parts of this collection. Harry Ueno's Japanese language diary have been re-arranged by the organizer in a chronological order. Also unique to this collection, is Ueno's handwritten record and member lists of the Manzanar Mess Hall Union lists found in Box 1. Series 2, containing newspaper clippings, will be especially helpful for scholars working with redress and reparation. Lastly, many of the government documents are missing pages and may be hard to follow.</p>
+    </scopecontent>
+    <controlaccess id="controlaccess-1.8.5">
+      <head>Access Terms</head>
+      <p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+      <persname source="lcnaf" encodinganalog="600" role="subject">Bendetsen, Karl R.</persname>
+      <persname source="lcnaf" encodinganalog="600" role="subject">Hayakawa, S.I. (Samuel Ichiy&#xE2;e), 1906-</persname>
+      <persname source="lcnaf" encodinganalog="600" role="subject">Hohri, William Minoru, 1927-</persname>
+      <persname source="lcnaf" encodinganalog="600" role="subject">Kurihara, Joseph Y.</persname>
+      <persname source="lcnaf" encodinganalog="600" role="subject">Myer, Dillon S. (Dillon Seymour), 1891-</persname>
+      <persname source="lcnaf" encodinganalog="600" role="subject">Ueno, Yasoko.</persname>
+      <persname source="lcnaf" encodinganalog="600" role="subject">Welgyn, Michi.</persname>
+      <corpname source="lcnaf" encodinganalog="610" role="subject">Japanese American Citizens' League.</corpname>
+      <corpname source="lcnaf" encodinganalog="610" role="subject">Japanese American Citizens' League. National Committee for.</corpname>
+      <corpname source="lcnaf" encodinganalog="610" role="subject">National Council for Japanese American Redress.</corpname>
+      <corpname source="lcnaf" encodinganalog="610" role="subject">United States. War Relocation Authority.</corpname>
+      <subject source="lcsh" encodinganalog="650">Concentration camps--United States.</subject>
+      <subject source="lcsh" encodinganalog="650">Japanese Americans--Evacuation and relocation, 1942-1945.</subject>
+      <subject source="lcsh" encodinganalog="650">World War, 1939-1945--Evacuation of civilians.</subject>
+      <subject source="lcsh" encodinganalog="650">World War, 1939-1945--Japanese Americans.</subject>
+      <subject source="lcsh" encodinganalog="650">World War, 1939-1945--Prisoners and prisons, American.</subject>
+      <geogname source="lcsh" encodinganalog="651">Manzanar (Calif.)</geogname>
+      <geogname source="lcsh" encodinganalog="651">Manzanar National Historic Site (Calif.)</geogname>
+      <geogname source="lcsh" encodinganalog="651">Manzanar War Relocation Center.</geogname>
+    </controlaccess>
+    <dsc id="dsc-1.8.6" type="combined">
+      <head>Collection Contents</head>
+      <c01 id="c01-1.8.6.2" level="series">
+        <did>
+          <unittitle>Series 1. Writings from the Camp and Published Journal Articles</unittitle>
+        </did>
+        <c02 id="c02-1.8.6.2.2" level="file">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle>Ueno's Diary<unitdate calendar="gregorian" era="ce">n.a.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.3" level="file">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle>Handwritten Japanese-languaged documents<unitdate calendar="gregorian" era="ce">n.a.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.4" level="file">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle>Manzanar Mess Hall Union (member signatures and notes) <unitdate calendar="gregorian" era="ce">n.a.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.5" level="file">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle>JACL Manzanar Report<unitdate calendar="gregorian" era="ce">n.a.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.6" level="file">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">5</container>
+            <unittitle>Published Journal Articles<unitdate calendar="gregorian" era="ce">1977-1993</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.8.6.3" level="series">
+        <did>
+          <unittitle>Series 2. Newspaper Clippings</unittitle>
+        </did>
+        <c02 id="c02-1.8.6.3.2" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle>Harry Ueno and related articles<unitdate calendar="gregorian" era="ce">n.a.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.3.3" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle>"Jap Evacuees Camp Kit Results in Martial Law"<unitdate calendar="gregorian" era="ce">12/7/42</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.3.4" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle>World War Il - military<unitdate calendar="gregorian" era="ce">1942-1989</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.3.5" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle>Japanese American soldiers<unitdate calendar="gregorian" era="ce">n.a.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.3.6" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">5</container>
+            <unittitle>Redress and Reparation</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.3.7" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">6</container>
+            <unittitle>Redress and Reparation</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.3.8" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">7</container>
+            <unittitle>Editorial<unitdate calendar="gregorian" era="ce">n.a.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.3.9" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">8</container>
+            <unittitle>Editorial<unitdate calendar="gregorian" era="ce">1970s</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.3.10" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">9</container>
+            <unittitle>Editorial<unitdate calendar="gregorian" era="ce">1980s</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.3.11" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">10</container>
+            <unittitle>Editorial<unitdate calendar="gregorian" era="ce">1990s</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.3.12" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">11</container>
+            <unittitle>JACL</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.3.13" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">12</container>
+            <unittitle>Internment Experience and Reflections</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.3.14" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">13</container>
+            <unittitle>Legal - debates, hearings, bills</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.3.15" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">14</container>
+            <unittitle>Manzanar</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.3.16" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">15</container>
+            <unittitle>Moab</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.3.17" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">16</container>
+            <unittitle>TuleLake</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.3.18" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">17</container>
+            <unittitle>Day of Remembrance</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.3.19" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">18</container>
+            <unittitle>Tokyo Rose</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.3.20" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">19</container>
+            <unittitle>Articles Honoring Individuals</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.3.21" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">20</container>
+            <unittitle>Internment Related Works and Research</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.3.22" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">21</container>
+            <unittitle>Japanese American Artists and their works</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.3.23" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">22</container>
+            <unittitle>Tozai Times</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.3.24" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">23</container>
+            <unittitle>Various newspaper sections</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.3.25" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">24</container>
+            <unittitle>Japanese-languaged articles</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.3.26" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">25</container>
+            <unittitle>Vincent Chin</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.3.27" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">26</container>
+            <unittitle>Miscellaneous articles</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.8.6.4" level="series">
+        <did>
+          <unittitle>Series 3. Government Documents</unittitle>
+        </did>
+        <c02 id="c02-1.8.6.4.2" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle>Ueno, Harry</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.3" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle>Kurihara, Joe</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.4" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle>Masaoka, Joe and Mike</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.5" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle>Corn to/from Karl R. Bendetsen<unitdate calendar="gregorian" era="ce">1942-1943</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.6" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">5</container>
+            <unittitle>Corn to/from Dillon S. Myer<unitdate calendar="gregorian" era="ce">1943</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.7" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">6</container>
+            <unittitle>Jerome<unitdate calendar="gregorian" era="ce">5/28/43  "Interview with Reverend Kunishichi Iwori and Reverend Hideo Hashimoto"</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.8" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">7</container>
+            <unittitle>Leupp<unitdate calendar="gregorian" era="ce">1943</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.9" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">8</container>
+            <unittitle>Lone Pine Jail<unitdate calendar="gregorian" era="ce">12/12/42</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.10" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">9</container>
+            <unittitle>Manzanar<unitdate calendar="gregorian" era="ce">l942-194A</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.11" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">10</container>
+            <unittitle>Manzanar Riot<unitdate calendar="gregorian" era="ce">1942-1943</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.12" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">11</container>
+            <unittitle>Moab</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.13" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">12</container>
+            <unittitle>Topaz</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.14" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">13</container>
+            <unittitle>Tule Lake</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.15" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">14</container>
+            <unittitle>Dept. of Justice - misc.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.16" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">15</container>
+            <unittitle>FBI-misc.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.17" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">16</container>
+            <unittitle>JACL</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.18" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">17</container>
+            <unittitle>Navy Intelligence</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.19" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">18</container>
+            <unittitle>Renunciats</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.20" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">19</container>
+            <unittitle>"Unknown Person Report the Manzanar Incident"<unitdate calendar="gregorian" era="ce">12/16/42</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.21" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">20</container>
+            <unittitle>WRA - misc.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.22" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">21</container>
+            <unittitle>Miscellaneous</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.8.6.5" level="series">
+        <did>
+          <unittitle>Series 4. Correspondence</unittitle>
+        </did>
+        <c02 id="c02-1.8.6.5.2" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle>Personal Correspondence</unittitle>
+          </did>
+          <controlaccess>
+            <persname>Clements, Len ; Cook, Christopher ; Crouch, Tom ; Embrey, Sue K. ; Eto, Shinkichi ; Fugita, Steve ; Hayakawa, S. I. ; Herzig, Jack and Aiko ; Hobri, William ; Komuri, Yoshihisa ; Lim, Deborah ; Lin, Che-Hwei ; Machak, Frank ; Okihiro, Gary Y. ; Omura, James M. ; Tateishi, John ; Uyeda, Clifford I. ; Weglyn, Michi ; Yamada, George ; Yamasaki, Jennie</persname>
+          </controlaccess>
+        </c02>
+        <c02 id="c02-1.8.6.5.3" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle>Correspondence from Harry Ueno to Yasoko Ueno<unitdate calendar="gregorian" era="ce">1943</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.5.4" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle>Correspondence from Art Hansen to Harry Ueno<unitdate calendar="gregorian" era="ce">1982-1996</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.5.5" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle>Corr. from Art Hansen, not to Harry Ueno<unitdate calendar="gregorian" era="ce">1985-1993</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.5.6" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">5</container>
+            <unittitle>Corn from Nakagawa, Mitsuo<unitdate calendar="gregorian" era="ce">1943-1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.5.7" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">6</container>
+            <unittitle>Corr. to/from Tamura, Eileen H.<unitdate calendar="gregorian" era="ce">1992-1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.5.8" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">7</container>
+            <unittitle>Corn not to/from Ueno<unitdate calendar="gregorian" era="ce">1972-1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.5.9" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">8</container>
+            <unittitle>1940s Corr.<unitdate calendar="gregorian" era="ce">1942-1943</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.8.6.6" level="series">
+        <did>
+          <unittitle>Series 5. Miscellaneous Writings</unittitle>
+        </did>
+        <c02 id="c02-1.8.6.6.2" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">9</container>
+            <unittitle>Writings on/about Harry Ueno</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.3" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">10</container>
+            <unittitle>Manzanar Martyr specific materials</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.4" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">11</container>
+            <unittitle>Yaso(ko) Ueno Diary<unitdate calendar="gregorian" era="ce">1942-1943</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.5" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">12</container>
+            <unittitle>Masunaka Diary<unitdate calendar="gregorian" era="ce">1942-1943</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.6" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">13</container>
+            <unittitle>Ishihara, Shintaro Interview</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.7" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">14</container>
+            <unittitle>Kurihara, Joe Y.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.8" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">15</container>
+            <unittitle>Myer, Dillon</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.9" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">16</container>
+            <unittitle>Weglyn, Michi's commencement speech given at Pomona College</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.10" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">17</container>
+            <unittitle>"A private report on the incident of Dec. 6, 1942" / by Koichi Tsuji</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.11" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">18</container>
+            <unittitle>Draft Resisters</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.12" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">19</container>
+            <unittitle>Fair Practice Committee (Manzanar)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.13" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">20</container>
+            <unittitle>Hayakawa testimony before Subcommittee<unitdate calendar="gregorian" era="ce">1986</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.14" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">21</container>
+            <unittitle>JACL</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.15" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">22</container>
+            <unittitle>Legal representation of Japanese Americans</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.16" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">23</container>
+            <unittitle>List of names at Tule Lake<unitdate calendar="gregorian" era="ce">1943</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.17" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">24</container>
+            <unittitle>Lone Pine County Jail inmate signatures<unitdate calendar="gregorian" era="ce">1943</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.18" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">25</container>
+            <unittitle>Miscellaneous handwritten notes</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.19" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">26</container>
+            <unittitle>California Journal<unitdate calendar="gregorian" era="ce">11/1986</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.20" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">27</container>
+            <unittitle>Epistolarian by William Hohri</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.21" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">28</container>
+            <unittitle>Manzanar Reunion by William Hohri</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.22" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">29</container>
+            <unittitle>Nikkei Heritage<unitdate calendar="gregorian" era="ce">1992</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.23" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">30</container>
+            <unittitle>"Segregator" by Richard Drinnon</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.24" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">31</container>
+            <unittitle>Tule Lake Pilgrimage<unitdate calendar="gregorian" era="ce">1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.25" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">32</container>
+            <unittitle>Leupp</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.26" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">33</container>
+            <unittitle>Manzanar during war time</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.27" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">34</container>
+            <unittitle>Manzanar National Historic Site</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.28" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">35</container>
+            <unittitle>National Council for Japanese American Redress</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.29" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">36</container>
+            <unittitle>Japanese American Historical Encyclopedia headwords<unitdate calendar="gregorian" era="ce">1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.30" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">37</container>
+            <unittitle>Informational Flyers and Letters</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.31" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">38</container>
+            <unittitle>UCLA Archive</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.8.6.7" level="series">
+        <did>
+          <unittitle>Series 6. Photographs</unittitle>
+        </did>
+        <c02 id="c02-1.8.6.7.2" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">39</container>
+            <unittitle>Photographs<unitdate calendar="gregorian" era="ce">1912-1997</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

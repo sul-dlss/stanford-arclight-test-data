@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[M. M. Schiffer Papers])//EN"
+             identifier="ark:/13030/kt367n994b">sc0654.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the M. M. Schiffer Papers
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Schiffer (M.M.) Papers</titleproper>
+            <author>Patricia White &amp; Jenny Johnson</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University Libraries.</publisher>
+            <publisher>Dept. of Special Collections &amp; University Archives.</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2002">2002</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date normal="2015-02">February 2015</date>
+            <item/>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC0654</unitid>
+         <origination label="Creator:">
+            <persname rules="aacr" source="naf">Schiffer, M. M.</persname>
+         </origination>
+         <unittitle label="Title:">M. M. Schiffer Papers</unittitle>
+         <unitdate normal="1953/1979"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1953-1979</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>4 Linear feet</extent>
+         </physdesc>
+         <abstract label="Summary:">Book chapter, articles, lectures, and some correspondence dating from Schiffer's tenure at Stanford University.</abstract>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Dept. of Special Collections &amp; University Archives.</corpname>
+            <address>
+               <addressline>Stanford University Libraries.</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: speccollref@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <descgrp type="provenance" id="prov">
+            <head>Provenance</head>
+            <acqinfo id="ref9">
+               <p>Transfer from Mathematics Library, 2002</p>
+            </acqinfo>
+         </descgrp>
+         <accessrestrict id="ref3">
+            <head>Information about Access</head>
+            <p>There are no restrictions on access.</p>
+         </accessrestrict>
+         <userestrict id="ref5">
+            <head>Ownership &amp; Copyright</head>
+            <p>Property rights reside with the repository. Literary rights reside with the creators of the documents or their heirs. To obtain permission to publish or reproduce, please contact the Public Services Librarian of the Dept. of Special Collections and University Archives.</p>
+         </userestrict>
+         <prefercite id="ref7">
+            <head>Cite As</head>
+            <p>M.M. Schiffer Papers (SC0654). Dept. of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <bioghist id="ref11">
+         <head>Biography</head>
+         <p>M. M. Schiffer was considered an authority on complex variables and conformal mapping; his special province was the application of these fields to mathematical physics, particularly to hydrodynamics. A native of Berlin, Schiffer earned his undergraduate degree at Friedrich-Wilhelm University in 1930 and pursued his graduate work at the Hebrew University in Jerusalem, earning his Ph.D. in 1938. He taught there until 1946, when he moved to the United States and subsequently taught at Harvard and Princeton. He joined the Stanford faculty in 1952, serving as executive head of the Mathematics Department from 1954 to 1959. In 1967 Schiffer was appointed to the Robert Grimmett Professorship of Mathematics, a position he held until his retirement in 1977. While at Stanford he was involved in the School Mathematics Study Group and co-authored many technical reports for the Applied Mathematics and Statistics Laboratory. He died in 1997.</p>
+      </bioghist>
+      <scopecontent id="ref13">
+         <head>Collection Scope and Content Summary</head>
+         <p>These papers date from his tenure at Stanford University and consist largely of manuscripts and typescripts of book chapters, articles, and lectures. Topics include conformal mapping, relativity, differential equations, functions of complex variables, and mathematical physics. Other items include research notes and letters from Robert W. Fuller, Nicolai Minorsky, and J. G. Van der Corput.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <persname rules="aacr" source="ingest">Corput, J. G. van der (Johannes Gualtherus), b. 1890.</persname>
+         <persname rules="aacr" source="ingest">Fuller, Robert W.</persname>
+         <persname rules="aacr" source="ingest">Minorsky, Nicolai, 1885-</persname>
+         <subject source="LCSH">Conformal mapping.</subject>
+         <subject source="LCSH">Functions of complex variables.</subject>
+         <subject source="LCSH">General relativity (Physics)--Mathematics.</subject>
+         <subject source="LCSH">Mathematics--Scientific applications.</subject>
+         <subject source="lcsh">Mathematics.</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.6">
+         <head>Collection Contents</head>
+         <c01 id="ref14" level="series">
+            <did>
+               <unittitle>Book Chapters</unittitle>
+            </did>
+            <c02 id="ref15" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Chapter 3 Tensor analysis</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref16" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Chapter 4 Tensors in physics</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref17" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Chapter 5 The gravitational field equations in free space</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref18" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Chapter 6 The Schwarzschild solution and its consequences: experimental tests of general relativity</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref19" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Chapter 10 [no title]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref20" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Chapter 11 Cosmology and astronomy</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref21" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Chapter [11] Cosmology and astronomy</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref22" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Chapter 12 Cosmological models</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref23" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Chapter [12] Cosmological models</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref24" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Chapter 13 Electromagnetism and general relativity</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref25" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Bibliographies for the chapters</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref26" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Table of contents; part of chapter 13</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref27" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Assorted additions to chapters</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref28" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Chapter 1 Phase plane; singular points</unittitle>
+                  <unitdate>(1956)</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref29" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">15</container>
+                  <unittitle>Chapter 2 Conservative systems</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref30" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">16</container>
+                  <unittitle>Chapter 3 Limit cycles of Poincare</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref31" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">17</container>
+                  <unittitle>Chapter 4 Geometric analysis of periodic solutions</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref32" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">18</container>
+                  <unittitle>Chapter 5 Stability (variational equations; characteristic exponents)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref33" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">19</container>
+                  <unittitle>Chapter 6 Stability (Liapounov)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref34" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">20</container>
+                  <unittitle>Chapter 7 Theory of bifurcations</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref35" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Chapter 8 Cylindrical and toroidal phase spaces</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref36" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Chapter 9 Methods of solutions by series</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref37" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Chapter 10 Periodic solutions</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref38" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Chapter 11 Determination of characteristic exponents</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref39" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Chapter 12 Asymptotic methods</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref40" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Chapter 13 Asymptotic methods of Kryloff - Bogolinboff</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref41" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Chapter 14 Stroboscopic method</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref42" level="series">
+            <did>
+               <unittitle>Other Writings</unittitle>
+            </did>
+            <c02 id="ref43" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Applications of variational methods in the theory of conformal mapping - tss and correspondence</unittitle>
+                  <unitdate>1955-56</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref44" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Applications of variational methods in the theory of conformal mapping - mss</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref45" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Calculus - mss, not in Schiffer's hand</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref46" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Complex analysis I. Stanford - mss</unittitle>
+                  <unitdate>1979</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref47" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Conformal mapping. Stanford (1 of 3) - mss</unittitle>
+                  <unitdate>1960</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref48" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Conformal mapping. Stanford (2 of 3) - mss</unittitle>
+                  <unitdate>1960</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref49" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Conformal mapping. Stanford (3 of 3) - mss</unittitle>
+                  <unitdate>1960</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref50" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Differentiable and sense preserving mappings - mss</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref51" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Differential and integral calculus. Stanford - mss</unittitle>
+                  <unitdate>1955</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref52" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">3</container>
+                  <unittitle>External problems on doubly connected domains - mss</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref53" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">4</container>
+                  <unittitle>
+                     <title render="italic" linktype="simple">Fredholm Eigen Values of Plane Domains, </title>Pacific Journal of Mathematics, Vol. 7, No. 2,</unittitle>
+                  <unitdate>1957</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref54" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Fredholm Eigenvalues and conformal mapping of multiply connected domains (Schiffer and G. Springer) - tss</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref55" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Function of a complex variable I. Stanford - mss</unittitle>
+                  <unitdate>1960</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref56" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Function of a complex variable. Stanford (1 of 2) - mss</unittitle>
+                  <unitdate>1964</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref57" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Function of a complex variable. Stanford (2 of 2) - mss</unittitle>
+                  <unitdate>1964</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref58" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Galois theory. Stanford Spring Quarter [possibly a lecture] - mss</unittitle>
+                  <unitdate>1954</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref59" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Introduction to general relativity. Stanford (1 of 2) - mss</unittitle>
+                  <unitdate>1979</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref60" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Introduction to general relativity. Stanford (2 of 2) - mss</unittitle>
+                  <unitdate>1979</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref61" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Mathematical methods of physics. Stanford - mss</unittitle>
+                  <unitdate>1963</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref62" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Miscellaneous manuscripts: period matrix; section 2 distortion theorems - mss</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref63" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">2</container>
+                  <unittitle>On the fourth coefficient of bounded univalent functions (Schiffer and O. Tammi) - mss, not in Schiffer's hand</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref64" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Ordinary differential equations. Stanford - mss</unittitle>
+                  <unitdate>1953</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref65" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Partial Differential Equations of the elliptic type - tss</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref66" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Partial Differential Equations of the elliptic type - tss</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref67" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Perspectives in mathematics. Stanford - mss</unittitle>
+                  <unitdate>1972</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref68" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">7</container>
+                  <unittitle>QC mappings, chapters on - tss</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref69" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Some consequences of the Riemann-Roch theorem - mss</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref70" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Theory of analytic functions. Stanford - mss</unittitle>
+                  <unitdate>1975</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref71" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Theory of the second (?) variation - mss</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref72" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Variation of domain functionals. Pasadena, - mss</unittitle>
+                  <unitdate>1953</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref73" level="series">
+            <did>
+               <unittitle>Research Notes</unittitle>
+            </did>
+            <c02 id="ref74" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Miscellaneous: formulas</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref75" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Notes: A non-local estimate for A5</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref76" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Notes and reprint, 
+                            <title render="italic" linktype="simple">The Local Maximum Theorem for the Coefficients of Univalent Functions</title> (P. R. Garabedian and Schiffer), Archive for Rational Mechanics and Analysis, Vol. 26, No. 1, 1967</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref77" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Notes and reprints, Pederson, Roger N. 
+                            <title render="italic" linktype="simple">On Unitary Properties of Grunsky's Matrix,</title> Archive for Rational Mechanics and Analysis, Vol. 29, No. 5, 1968; 
+                            <title render="italic" linktype="simple">On the Bieberbach Conjecture for Even n</title> (Garabedian, Ross &amp; Schiffer), Journal of Mathematics and Mechanics, Nov. 14, No. 6, 1965</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref78" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Notes 1</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref79" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Notes 2</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref80" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Notes 3</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref81" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Notes 4</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref82" level="series">
+            <did>
+               <unittitle>Correspondence and Miscellaneous</unittitle>
+            </did>
+            <c02 id="ref83" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Fuller, Robert W. - letter,</unittitle>
+                  <unitdate>1963</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref84" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Minorsky, Nicolai - correspondence and text,</unittitle>
+                  <unitdate>1955</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref85" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Minorsky, Nicolai - correspondence,</unittitle>
+                  <unitdate>1958</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref86" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Van der Corput, J. G. - letter,</unittitle>
+                  <unitdate>1958</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref87" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Schiffer, Dinah - "You" [personal information on Schiffer as a child]</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref88" level="series">
+            <did>
+               <unitid>Accession ARCH.2015-049</unitid>
+               <unittitle>Additional Materials: Book Chapters</unittitle>
+            </did>
+            <c02 id="ref89" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Physical Model for Conformal Mapping I (Handwritten)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref90" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Physical Model for Conformal Mappings I</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref91" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Physical Model for Conformal Mappings I</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref92" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Potential Theory in the Plane II (Handwritten)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref93" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Potential Theory in the Plane II</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref94" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Transfinite Diameter and Lemniscates III (Handwritten)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref95" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Transfinite Diameter and Lemniscates III</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref96" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Normal Families; Riemann's Mapping Theorem IV (Handwritten)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref97" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Normal Families; Riemann's Mapping Theorem IV</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref98" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Normal Families; Riemann's Mapping Theorem IV</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref99" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Techniques and Applications of Conformal Mapping V (Handwritten)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref100" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Techniques and Applications of Conformal Mapping V</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref101" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Conformal Mapping at the Boundary VI</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref102" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Conformal Mapping at the Boundary VI</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref103" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">15</container>
+                  <unittitle>The Elementary Theory of Univalent Functions VII (Handwritten)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref104" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">16</container>
+                  <unittitle>Elementary Theory of Univalent Functions VII</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref105" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">17</container>
+                  <unittitle>Kernel Functions and Their Properties VIII (Handwritten)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref106" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">18</container>
+                  <unittitle>Kernel Function and Their Properties VIII</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref107" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">19</container>
+                  <unittitle>Applications of the Kernel Functions to Conformal Mapping IX (Handwritten)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref108" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">20</container>
+                  <unittitle>Applications of the Kernel Functions to Conformal Mapping IX</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref109" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">21</container>
+                  <unittitle>Variational Methods in Conformal Mapping X (Handwritten)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref110" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">22</container>
+                  <unittitle>Extremum Problems in Conformal Mappings XI (Handwritten)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref111" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">23</container>
+                  <unittitle>The Lowner Differential Equation XIV</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref112" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">24</container>
+                  <unittitle>Variations within Special Families of Univalent Functions XV</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref113" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">25</container>
+                  <unittitle>Plates</unittitle>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

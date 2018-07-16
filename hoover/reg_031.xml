@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+
+<ead relatedencoding="MARC21">
+
+
+  
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" repositoryencoding="iso15511" findaidstatus="edited-full-draft" langencoding="iso639-2b"><eadid countrycode="us" identifier="ark:/13030/tf3f59n5zg" mainagencycode="CSt-H" publicid="PUBLIC &quot;-//Stanford University::Hoover Institution Archives//TEXT (US::CSt-H::::Czech subject collection)//EN&quot; &quot;reg_031.sgm&quot;">reg_031.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Register of the Czech subject collection, <date calendar="gregorian" era="ce">1920-2010</date></titleproper><titleproper type="filing">Czech Subject Collection</titleproper>
+        <author>Processed by Zbigniew L. Stanczyk; machine-readable finding aid created
+by Xiuzhi Zhou</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Hoover Institution Archives</publisher>
+        <address>
+          <addressline>Stanford University</addressline>
+          <addressline>Stanford, California 94305-6010</addressline>
+          <addressline>Phone: (650) 723-3563</addressline>
+          <addressline>Fax: (650) 725-3445</addressline>
+          <addressline>Email: hooverarchives@stanford.edu</addressline>
+        </address>
+        <date calendar="gregorian" era="ce">&#xA9; 1997</date>
+        <p>Hoover Institution Archives. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc><profiledesc>
+      <creation>Machine-readable finding aid derived from Word-11, a Unix VAX-specific word processing program. [Date of source: <date calendar="gregorian" era="ce">1995.</date>]</creation>
+      <langusage>Description is in <language langcode="eng" scriptcode="latn">English</language></langusage>
+    </profiledesc><revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//Stanford University::Hoover Institution Archives//TEXT (US::CSt-H::::Czech subject collection)//EN" "reg_031.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+<change>
+<date calendar="gregorian" era="ce" normal="20110121">January 21, 2011</date>
+<item>Updated to extent statement and date range to include new increment; added unit identification number</item>
+</change>
+<change>
+<date calendar="gregorian" era="ce" normal="20110519">May 19, 2011</date>
+<item>Updated abstract</item>
+</change>
+     <change>
+      <date calendar="gregorian" era="ce" normal="20120730">July 30, 2012</date>
+      <item>Revised to update accruals by Jill Golden</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Register of the Czech Subject Collection, <date calendar="gregorian" era="ce">1920-2010</date></titleproper>
+      <publisher>Hoover Institution Archives 
+<lb/>Stanford University 
+<lb/>Stanford, California</publisher>
+      <list type="simple">
+        <head>Contact Information</head>
+        <item>Hoover Institution Archives</item>
+        <item>Stanford University</item>
+        <item>Stanford, California 94305-6010</item>
+        <item>Phone: (650) 723-3563</item>
+        <item>Fax: (650) 725-3445</item>
+        <item>Email: hooverarchives@stanford.edu</item>
+      </list>
+      <list type="deflist">
+        <defitem>
+          <label>Processed by: </label>
+          <item>Zbigniew L. Stanczyk</item>
+        </defitem>
+        <defitem>
+          <label>Date Completed: </label>
+          <item>1995</item>
+        </defitem>
+        <defitem>
+          <label>Encoded by: </label>
+          <item>Xiuzhi Zhou</item>
+        </defitem>
+      </list>
+      <p>&#xA9; 1997 Hoover Institution Archives. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection">
+    <did id="did-1.7.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">Czech Subject Collection, </unittitle><unitdate calendar="gregorian" era="ce" type="inclusive" normal="1920/2010">1920-2010</unitdate>
+	<unitid label="Collection Number" countrycode="us" repositorycode="CSt-H" encodinganalog="099">XX752</unitid>
+      <physdesc label="Collection Size" encodinganalog="300$a">
+		<extent>31 manuscript boxes, 3 oversize boxes, 1 microfilm reel, 1 motion picture film reel, 1 phonorecord </extent>
+		<extent>(14.2 linear feet)</extent>
+	</physdesc>
+      <repository label="Repository">
+        <corpname>Hoover Institution Archives</corpname>
+        <address>
+          <addressline>Stanford, California 94305-6010</addressline>
+        </address>
+      </repository>
+      <abstract label="Abstract">Serial issues, pamphlets, election campaign literature, clandestine publications, reports, memoranda, speeches, proclamations, bulletins, leaflets, and memorabilia, relating to various aspects of twentieth-century Czechoslovak history and politics, including the Munich agreement of 1938, the Soviet invasion in 1968, the Charta 77 movement, and the end of the communist regime in 1989; and to post-1989 political, social and economic conditions, and elections, in Czechoslovakia and subsequently the independent Czech Republic. Includes photocopies of communist-era Czechoslovak government documents.</abstract>
+<physloc label="Physical location">Hoover Institution Archives</physloc>
+      <langmaterial label="Language">
+        <language langcode="cze">Czech.</language>
+      </langmaterial>
+    </did>
+    <descgrp id="descgrp-1.7.2" type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict>
+        <head>Access</head>
+        <p>Collection is open for research.</p>
+<p>The Hoover Institution Archives only allows access to <emph render="italic">copies</emph> of audiovisual items. To listen to sound recordings or to view videos or films during your visit, please contact the Archives at least two working days before your arrival. We will then advise you of the accessibility of the material you wish to see or hear. Please note that not all audiovisual material is immediately accessible.</p>
+      </accessrestrict>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>For copyright status, please contact the Hoover Institution Archives</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Czech subject collection, [Box no.], Hoover Institution
+Archives.</p>
+      </prefercite>
+<acqinfo encodinganalog="541">
+ <head>Acquisition Information</head>
+ <p>Acquired by the Hoover Institution Archives.</p>
+</acqinfo>
+
+<accruals encodinganalog="525"><head>Accruals</head>
+<p>Materials may have been added to the collection since this finding aid was prepared. To determine if this has occurred, find the collection in Stanford University's online catalog Socrates at <extref linktype="simple" href="http://library.stanford.edu/webcat" actuate="onrequest" show="new"> http://library.stanford.edu/webcat</extref>. Materials have been added to the collection if the number of boxes listed in Socrates is larger than the number of boxes listed in this finding aid.</p>
+</accruals>
+    </descgrp>
+    <controlaccess id="controlaccess-1.7.3">
+      <head>Access Points</head>
+      <subject>Munich four-power agreement, 1938</subject>
+      <geogname>Czechslovakia--History</geogname>
+      <geogname>Czechslovakia--History--Intervention, 1968</geogname>
+      <geogname>Czechslovakia--Politics and government--20th century</geogname>
+      <subject>Elections--Czechslovakia</subject>
+      <subject>Elections--Czech Republic</subject>
+      <geogname>Czech Republic</geogname>
+      <geogname>Czech Republic--Politics and government</geogname>
+      <geogname>Czech Republic--Economic conditions</geogname>
+      <geogname>Czech Republic--Social conditions</geogname>
+      <genreform>Phonorecords</genreform>
+      <genreform>Moving-pictures</genreform>
+    </controlaccess>
+      <dsc id="dsc-1.7.5" type="combined">
+      <head>Collection Contents</head>
+      <p>Please see card catalog for increments that may have been received after December 1994</p>
+      <c01 id="c01-1.7.5.3" level="series">
+        <did>
+       <unittitle>SUBJECT FILE, <unitdate calendar="gregorian" era="ce" type="inclusive">1918-1994. </unitdate></unittitle>
+          <container>Boxes 1-15</container>
+        </did>
+        <scopecontent>
+          <p>Pamphlets, booklets, bulletins, newsletters, election campaign material, newspaper issues
+and magazines, printed matter, pictorial charts, propaganda packets, and portfolios,
+photo reproductions, and miscellanea arranged chronologically and then alphabetically by
+subject</p>
+        </scopecontent>
+        <c02 id="c02-1.7.5.3.2">
+          <did>
+            <container type="Box">1.</container>
+            <unittitle>
+              <unitdate calendar="gregorian" era="ce">1918-1938</unitdate>
+            </unittitle>
+          </did>
+          <c03 id="c03-1.7.5.3.2.2">
+            <did>
+              <unittitle>General. "<title render="italic">Album Representantu Vsech Oboru Verejneho </title><title render="italic">Zivota Ceskoslovenskeho</title>". Illustrated biographical dictionary of political officials, Prague, <unitdate calendar="gregorian" era="ce">1927. </unitdate>In Czech</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.3.2.3">
+            <did>
+              <container type="Box">2.</container>
+              <unittitle>Crisis, <unitdate calendar="gregorian" era="ce">1938</unitdate></unittitle>
+            </did>
+            <c04 id="c04-1.7.5.3.2.3.2">
+              <did>
+                <unittitle>Czechoslovak-German, French-German, Polish newspapers issues, <unitdate calendar="gregorian" era="ce">September 19-2l, 1938, </unitdate>concerning the German ultimatum for autonomy of the Sudeten Germans in Czechoslovakia and Anglo-French efforts to negotiate. Mainly in German</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.3.2.3.3">
+              <did>
+                <unittitle>Sudeten Germans. <title render="italic">Nemecky postup proti Slovanum a jeho Sudetsky agent</title>. Brochure, Prag, <unitdate calendar="gregorian" era="ce">1938. </unitdate>In Czech</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.5.3.2.4">
+            <did>
+              <unittitle>Foreign relations - Poland. Agreement between Czechoslovakia and Poland, signed on <unitdate calendar="gregorian" era="ce">August 9, 1920, </unitdate>regarding settlement and compensation for state-owned property in those parts of the regions of Orava and Spis that had gone from Hungarian to Czechoslovak control on October 18, 1918, but were awarded to Poland by the Council of Ambassadors on July 20, 1920. In Czech and Polish</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.3.2.5">
+            <did>
+              <unittitle>Industrial production. Reports on cement and coal production in <unitdate calendar="gregorian" era="ce">1922, </unitdate>including statistics. In German</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.3.2.6">
+            <did>
+              <unittitle>Silesia. Pamphlet, <unitdate calendar="gregorian" era="ce">1943, </unitdate>issued by the Association of Cieszyn Silesians in Great Britain and relating to Cieszyn Silesia in 1919 and the recommendations of the Interallied Teschen Commission</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.3.2.7">
+            <did>
+              <unittitle><title render="italic">Svehla, Antonin 1873-1933. </title>Pamphlet, New York, <unitdate calendar="gregorian" era="ce">1953. </unitdate>In Czech and English</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.5.3.3">
+          <did>
+            <unittitle>
+              <unitdate calendar="gregorian" era="ce">1938-1945</unitdate>
+            </unittitle>
+          </did>
+          <c03 id="c03-1.7.5.3.3.2">
+            <did>
+              <unittitle>Czech Army in the West. <title render="italic">Z bombarderu za mrize</title> by Karel Batelka. Memoirs of Czech pilot shot down over German territory. Pamphlet, <unitdate calendar="gregorian" era="ce">1990</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.3.3.3">
+            <did>
+              <unittitle>Fucik, Julius. <title render="italic">Fakta o Fucikovi. Dokumentace</title>, Ostrava, <unitdate calendar="gregorian" era="ce">1991. </unitdate>Pamphlet on controversy of Fucik's political biography</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.3.3.4">
+            <did>
+              <unittitle>Roosevelt, Franklin D., <title render="italic">In Memoriam Frank Delano</title><title render="italic">Roosevelt, 1882-1945</title>. Commemorative pamphlet published by the American Institute in Prag in tribute to F.D.R., <unitdate calendar="gregorian" era="ce">1946</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.3.3.5">
+            <did>
+              <unittitle>Western-Slav Federation. <title render="italic">Zapadnoslovanska Federalni Unie a svaz stredoevropskych statu</title>. Pamphlet issued by the Western Slavic Movement in Great Britain, relating to Czechoslovakia and a Central European Union, <unitdate calendar="gregorian" era="ce">1942. </unitdate>In Czech</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.5.3.4">
+          <did>
+            <unittitle>
+              <unitdate calendar="gregorian" era="ce">1945-1968</unitdate>
+            </unittitle>
+          </did>
+          <c03 id="c03-1.7.5.3.4.2">
+            <did>
+              <unittitle>Church-state relations. Typescript relating to the situation of the Catholic Church in Czechoslovakia in <unitdate calendar="gregorian" era="ce">1949. </unitdate>In Czech</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.3.4.3">
+            <did>
+              <unittitle>Education. Pamphlet, <unitdate calendar="gregorian" era="ce">1967, </unitdate>relating to state-sponsored education. In Czech</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.3.4.4">
+            <did>
+              <unittitle>Emigres</unittitle>
+            </did>
+            <c04 id="c04-1.7.5.3.4.4.2">
+              <did>
+                <unittitle>Anti-communist opposition abroad. "Tehdy v padesatych...". Memoirs of Karel Skrabek on political movement in <unitdate calendar="gregorian" era="ce">1950s. </unitdate>Typescript. In Czech</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.3.4.4.3">
+              <did>
+                <unittitle>Council of Free Czechoslovakia, Sudeten-German Socialdemokrats. Pamphlets issued by these and other emigre organizations, relating to post-war conditions in Czechoslovakia and Soviet take-over. In Czech, German and English, <unitdate calendar="gregorian" era="ce">n.d. (1950s)</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.3.4.4.4">
+              <did>
+                <unittitle><title render="italic">Nase Cesta. Socialisticky Casopis</title>. Socialist periodical, Paris, <unitdate calendar="gregorian" era="ce">1952-1955. </unitdate>In Czech</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.5.3.4.5">
+            <did>
+              <unittitle>Political trials against Lausman, Bohumil. Verdict from <unitdate calendar="gregorian" era="ce">1957. </unitdate>Typescript</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.5.3.5">
+          <did>
+            <container type="Box">3.</container>
+            <unittitle>Intervention, <unitdate calendar="gregorian" era="ce">1968</unitdate></unittitle>
+          </did>
+          <c03 id="c03-1.7.5.3.5.2">
+            <did>
+              <unittitle>General</unittitle>
+            </did>
+            <c04 id="c04-1.7.5.3.5.2.2">
+              <did>
+                <unittitle>Brochures, leaflets, and posters, relating to the Soviet invasion of Czechoslovakia in <unitdate calendar="gregorian" era="ce">August 1968. </unitdate>In Czech</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.3.5.2.3">
+              <did>
+                <unittitle>Cartoons from post-invasion Czechoslovak press. Clippings</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.3.5.2.4">
+              <did>
+                <unittitle>Press files</unittitle>
+              </did>
+              <c05 id="c05-1.7.5.3.5.2.4.2">
+                <did>
+                  <unittitle>American and English. Clippings</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.3.5.2.4.3">
+                <did>
+                  <unittitle>Czech. Newspaper and illustrated magazine issues documenting events preceding and following invasion. In Czech</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.3.5.2.4.4">
+                <did>
+                  <unittitle>Emigre. Newspaper issues of <title render="italic">Ceske Slovo</title>, Munich, Germany</unittitle>
+                </did>
+              </c05>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.5.3.5.3">
+            <did>
+              <unittitle>Chronicle of invasion. Personal letters and recollections (typescripts); <title render="italic">Prazske jaro 68</title> (printed photo album), Prague, <unitdate calendar="gregorian" era="ce">1990; </unitdate><title render="italic">Vybor</title>, Sept. 13 (newspaper issue covering period of August 21-31, including list of National Assembly members)</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.3.5.4">
+            <did>
+              <unittitle>Communist Party of Czechoslovakia, XIIth Congress. Resolutions, brochures</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.3.5.5">
+            <did>
+              <unittitle>Constitution. Draft submitted by Dubcek government. Photocopy. In English</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.3.5.6">
+            <did>
+              <unittitle>Czech Bretheren Evangelical Church. Appeal to authorities for religious freedom. Typescript</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.3.5.7">
+            <did>
+              <container type="Box">4.</container>
+              <unittitle>Documentary of events. Glossy prints of newspaper covers and images of street clashes. Portfolio of published photographs</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.3.5.8">
+            <did>
+              <unittitle>Dubcek, Alexandr. Poster</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.3.5.9">
+            <did>
+              <unittitle><title render="italic">Jan</title>. Publication commemorating Jan Palach, Prague, <unitdate calendar="gregorian" era="ce">1990</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.3.5.10">
+            <did>
+              <unittitle>New Czechoslovak government. Press release from <unitdate calendar="gregorian" era="ce">April 8, </unitdate>with political biographies. Typescript</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.3.5.11">
+            <did>
+              <unittitle>Rehabilitation of individuals persecuted by communists. Text of the proposed bill on judicial rehabilitation. Brochure by Svaz Protifasistickych Bojowniku. Prague, <unitdate calendar="gregorian" era="ce">1968</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.3.5.12">
+            <did>
+              <unittitle><title render="italic">Religion in Communist Dominated Areas</title>, <unitdate calendar="gregorian" era="ce">April-May. </unitdate>Issues devoted to state of religious affairs in Czechoslovakia. New York</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.3.5.13">
+            <did>
+              <unittitle><title render="italic">TRN</title>, nos. 1-4, <unitdate calendar="gregorian" era="ce">1968. </unitdate>Satirical magazine. In Czech</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.5.3.6">
+          <did>
+            <container type="Box">5.</container>
+            <unittitle>
+              <unitdate calendar="gregorian" era="ce">1968-1989</unitdate>
+            </unittitle>
+          </did>
+          <c03 id="c03-1.7.5.3.6.2">
+            <did>
+              <unittitle><title render="italic">Acta Persecutionis: A Document from Czechoslovakia</title>. Brochure presented to International Congress of Historical Sciences in San Francisco in <unitdate calendar="gregorian" era="ce">1975, </unitdate>listing names of persecuted individuals. Appeal to participants. Typescript</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.3.6.3">
+            <did>
+              <unittitle>Komunisticka Strana Ceskoslovenska (Communist Party of Czechoslovakia)</unittitle>
+            </did>
+            <c04 id="c04-1.7.5.3.6.3.2">
+              <did>
+                <unittitle>Propaganda. Instructional exhibit materials</unittitle>
+              </did>
+              <c05 id="c05-1.7.5.3.6.3.2.2">
+                <did>
+                  <unittitle>Anniversaries</unittitle>
+                </did>
+                <c06 id="c06-1.7.5.3.6.3.2.2.2">
+                  <did>
+                    <unittitle>Coup d'etat, 1948. 30th anniversary in <unitdate calendar="gregorian" era="ce">1978. </unitdate>Material stressing accomplishments of socialism</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.5.3.6.3.2.2.3">
+                  <did>
+                    <unittitle>Soviet liberation of Czechoslovakia</unittitle>
+                  </did>
+                  <c07 id="c07-1.7.5.3.6.3.2.2.3.2">
+                    <did>
+                      <unittitle>35th anniversary, <unitdate calendar="gregorian" era="ce">1980</unitdate></unittitle>
+                    </did>
+                  </c07>
+                  <c07 id="c07-1.7.5.3.6.3.2.2.3.3">
+                    <did>
+                      <unittitle>40th anniversary, <unitdate calendar="gregorian" era="ce">1985</unitdate></unittitle>
+                    </did>
+                  </c07>
+                </c06>
+              </c05>
+              <c05 id="c05-1.7.5.3.6.3.2.3">
+                <did>
+                  <container type="Box">6.</container>
+                  <unittitle>Congress. Propaganda material and material refering to history of party and communist state, <unitdate calendar="gregorian" era="ce">1982-1989</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.3.6.3.2.4">
+                <did>
+                  <container type="Box">5.</container>
+                  <unittitle>Economic effectiveness. Propaganda portfolio, <unitdate calendar="gregorian" era="ce">1985</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.3.6.3.2.5">
+                <did>
+                  <unittitle>Elections of <unitdate calendar="gregorian" era="ce">1986. </unitdate>Propaganda portfolio</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.3.6.3.2.6">
+                <did>
+                  <container type="Box">7.</container>
+                  <unittitle>History of People's Republic. Propaganda portfolio,</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.3.6.3.2.7">
+                <did>
+                  <unittitle>Husak Gustav. Propaganda portfolio, <unitdate calendar="gregorian" era="ce">1974</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.3.6.3.2.8">
+                <did>
+                  <unittitle><unitdate calendar="gregorian" era="ce">May 1st. </unitdate>Propaganda portfolio</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.3.6.3.2.9">
+                <did>
+                  <unittitle>Recruiting strategies of the Communist Party. Pamphlet, <unitdate calendar="gregorian" era="ce">1971. </unitdate>In Czech</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.3.6.3.2.10">
+                <did>
+                  <unittitle>Revolucni Odborove Hnuti. Brochures for local activists on ideological issues, <unitdate calendar="gregorian" era="ce">1980-1986</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.3.6.3.2.11">
+                <did>
+                  <unittitle><title render="italic">Slovo Propagandisty a Agitatora</title>. Monthly instructional for party activists, <unitdate calendar="gregorian" era="ce">1985-1986</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.3.6.3.2.12">
+                <did>
+                  <unittitle>Socialisticky Svaz Mladeze. Communist youth movement membership cards and statutes, <unitdate calendar="gregorian" era="ce">1976-1984</unitdate></unittitle>
+                </did>
+              </c05>
+            </c04>
+            <c04 id="c04-1.7.5.3.6.3.3">
+              <did>
+                <unittitle>Samizdat publications</unittitle>
+              </did>
+              <c05 id="c05-1.7.5.3.6.3.3.2">
+                <did>
+                  <unittitle><title render="italic">Obnoveni poradku</title> by Milan Simecka, on restoration of post- <unitdate calendar="gregorian" era="ce">1968 </unitdate>communist order, 1988</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.3.6.3.3.3">
+                <did>
+                  <unittitle><title render="italic">Spion vypovida</title> by Josef Frolik. Confessions of former secret agent, <unitdate calendar="gregorian" era="ce">1979. </unitdate>Copies of galleys</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.3.6.3.3.4">
+                <did>
+                  <unittitle><title render="italic">Zejici vysiny</title> by Alexandr Zinovev, <unitdate calendar="gregorian" era="ce">1988</unitdate></unittitle>
+                </did>
+              </c05>
+            </c04>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.5.3.7">
+          <did>
+            <container type="Box">8.</container>
+            <unittitle>Revolution, <unitdate calendar="gregorian" era="ce">1989</unitdate></unittitle>
+          </did>
+          <c03 id="c03-1.7.5.3.7.2">
+            <did>
+              <unittitle>General</unittitle>
+            </did>
+            <c04 id="c04-1.7.5.3.7.2.2">
+              <did>
+                <unittitle>Commemorative publications: brochures, booklets, catalogs, magazine issues, flyers, and miscellanea, relating to the democratization process and revolution of <unitdate calendar="gregorian" era="ce">1989</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.3.7.2.3">
+              <did>
+                <unittitle>Fliers and bulletins</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.5.3.7.3">
+            <did>
+              <unittitle>Chronicle of events. Day by day account in documents. <title render="italic">Ked sme brali do ruk buducnost</title>. Brochure, <unitdate calendar="gregorian" era="ce">1990</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.3.7.4">
+            <did>
+              <unittitle>Civic Forum. Declarations, statements, proclamations, position papers, open letters, and bulletins, <unitdate calendar="gregorian" era="ce">1989-1990, </unitdate>issued by Civic Forum. In Czech and English</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.3.7.5">
+            <did>
+              <unittitle>Havel, Vaclav. Speeches by and biographical information on Vaclav Havel, <unitdate calendar="gregorian" era="ce">1989-1990</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.3.7.6">
+            <did>
+              <unittitle>Human rights and judicial freedom. Brochures on introduction of new legislation</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.3.7.7">
+            <did>
+              <unittitle>Post-revolution press and magazine issues, <unitdate calendar="gregorian" era="ce">1990</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.3.7.8">
+            <did>
+              <unittitle>World press reaction. <title render="italic">Svet a sametova revoluce</title>. Collection of press excerpts. Brochure. In Czech</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.5.3.8">
+          <did>
+            <container type="Box">9.</container>
+            <unittitle>
+              <unitdate calendar="gregorian" era="ce">1989-</unitdate>
+            </unittitle>
+          </did>
+          <c03 id="c03-1.7.5.3.8.2">
+            <did>
+              <unittitle>Academy of Science. Bulletins, <unitdate calendar="gregorian" era="ce">1990-1991</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.3.8.3">
+            <did>
+              <unittitle>Anti-communist opposition. Persons accused of anti-state activities. List based on former secret police records and published in Prague daily <title render="italic">Noviny</title>. <unitdate calendar="gregorian" era="ce">Summer 1992</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.3.8.4">
+            <did>
+              <unittitle>Church-state relations. "Throne of St. Peter Versus Red Star of Lenin: Vatican Relations with Poland and Czechoslovakia after <unitdate calendar="gregorian" era="ce">1980</unitdate>", 1991 and "Divergent Traditions, Converging Opposition: Nationalism and the Catholic Church in Poland and Czechoslovakia", 1990. Papers by Nina Jurewicz (typescripts); and brochure and poster on Papal visit in 1990</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.3.8.5">
+            <did>
+              <unittitle>Democratization process. Government legislative documents and new decrees, <unitdate calendar="gregorian" era="ce">1990-1991</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.3.8.6">
+            <did>
+              <unittitle>Hornak, Viliam, <title render="italic">Ceskoslovensko mezi prestavbou a</title><title render="italic">revoluci (Politicky denik 1987-1991</title>). Political diary. Prague, <unitdate calendar="gregorian" era="ce">1991. </unitdate>Brochure</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.3.8.7">
+            <did>
+              <unittitle>Moravia and Silesia. Fliers and brochures illustrating local developments in the region, <unitdate calendar="gregorian" era="ce">1990-1993</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.3.8.8">
+            <did>
+              <unittitle>Political analysis</unittitle>
+            </did>
+            <c04 id="c04-1.7.5.3.8.8.2">
+              <did>
+                <unittitle>General</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.3.8.8.3">
+              <did>
+                <unittitle>Association for Independent Social Analysis, Bulletins, <unitdate calendar="gregorian" era="ce">1990. </unitdate>Analysis of all aspects of social transformation</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.3.8.8.4">
+              <did>
+                <unittitle><title render="italic">Budovani statu. Prehledy ceskoslovenske</title><title render="italic">politiky</title>. Review of political developments in Czech and Slovak Republics <unitdate calendar="gregorian" era="ce">1992-1994</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.5.3.8.9">
+            <did>
+              <container type="Box">10.</container>
+              <unittitle>Political parties</unittitle>
+            </did>
+            <c04 id="c04-1.7.5.3.8.9.2">
+              <did>
+                <unittitle>General</unittitle>
+              </did>
+              <c05 id="c05-1.7.5.3.8.9.2.2">
+                <did>
+                  <unittitle>General</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.3.8.9.2.3">
+                <did>
+                  <unittitle>Bulletins</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.3.8.9.2.4">
+                <did>
+                  <unittitle>Material related to various aspects of political life in Moravia and Silesia. Fliers, bulletins, posters</unittitle>
+                </did>
+              </c05>
+            </c04>
+            <c04 id="c04-1.7.5.3.8.9.3">
+              <did>
+                <unittitle>Demokraticka Strana Czeskoslovenska, <title render="italic">Hlas</title><title render="italic">Demokracie</title>. Official party organ, newspaper issues, <unitdate calendar="gregorian" era="ce">1990-1991</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.3.8.9.4">
+              <did>
+                <unittitle>Komunisticeska Strana Ceskoslovenska, <title render="italic">Mosty</title>. Official party weekly. Newspaper issues, <unitdate calendar="gregorian" era="ce">1990-1991</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.3.8.9.5">
+              <did>
+                <unittitle>Leva Alternativa, <title render="italic">Polarita</title>. Official party publication. Newspaper issues, <unitdate calendar="gregorian" era="ce">1990-1991</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.3.8.9.6">
+              <did>
+                <container type="Box">11.</container>
+                <unittitle>Prazska Antikomunisticeska Inicjativa, <title render="italic">Rude Kravo</title>. Official party publication on history of repression under communist regime. Newspaper issues, <unitdate calendar="gregorian" era="ce">1992. </unitdate>Includes lists of secret police agents and collaborators</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.3.8.9.7">
+              <did>
+                <unittitle>Radikalna Repubblikanska Strana, <title render="italic">Radikalni Republikanin</title>. Official party publication. Newspaper issues, <unitdate calendar="gregorian" era="ce">1991</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.3.8.9.8">
+              <did>
+                <unittitle>Republikanska Unie, <title render="italic">Republikanske Listy</title>. Official party publication. Newspaper issues, <unitdate calendar="gregorian" era="ce">1990-1991</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.3.8.9.9">
+              <did>
+                <unittitle>Republikanska Strana Czeskoslovenska, <title render="italic">Republika</title>. Official party publication. Newspaper issues, <unitdate calendar="gregorian" era="ce">1990</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.5.3.8.10">
+            <did>
+              <container type="Box">12.</container>
+              <unittitle>Programs for elections. Flyers, leaflets, brochures, booklets, newspaper issues, posters, and insignia issued by various political parties</unittitle>
+            </did>
+            <c04 id="c04-1.7.5.3.8.10.2">
+              <did>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce">1990 June.</unitdate>
+                </unittitle>
+              </did>
+              <c05 id="c05-1.7.5.3.8.10.2.2">
+                <did>
+                  <unittitle>General</unittitle>
+                </did>
+                <c06 id="c06-1.7.5.3.8.10.2.2.2">
+                  <did>
+                    <unittitle>General</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.5.3.8.10.2.2.3">
+                  <did>
+                    <unittitle>Candidates and parties participating. Lists</unittitle>
+                  </did>
+                </c06>
+              </c05>
+              <c05 id="c05-1.7.5.3.8.10.2.3">
+                <did>
+                  <unittitle>Ceskoslovenska Strana Socialisticka</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.3.8.10.2.4">
+                <did>
+                  <unittitle>Liberalna Demokraticka Strana</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.3.8.10.2.5">
+                <did>
+                  <unittitle>Komunisticka Strana Ceskoslovenska</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.3.8.10.2.6">
+                <did>
+                  <unittitle>Krestansko Demokraticka Strana</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.3.8.10.2.7">
+                <did>
+                  <container type="Box">13.</container>
+                  <unittitle>Obcanske Forum</unittitle>
+                </did>
+              </c05>
+            </c04>
+            <c04 id="c04-1.7.5.3.8.10.3">
+              <did>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce">1992 June</unitdate>
+                </unittitle>
+              </did>
+              <c05 id="c05-1.7.5.3.8.10.3.2">
+                <did>
+                  <unittitle>General</unittitle>
+                </did>
+                <c06 id="c06-1.7.5.3.8.10.3.2.2">
+                  <did>
+                    <unittitle>Candidates. Lists and programs</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.5.3.8.10.3.2.3">
+                  <did>
+                    <unittitle>Plzen region. Miscellany</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.5.3.8.10.3.2.4">
+                  <did>
+                    <unittitle>Polish minority candidates. Miscellany</unittitle>
+                  </did>
+                </c06>
+              </c05>
+              <c05 id="c05-1.7.5.3.8.10.3.3">
+                <did>
+                  <unittitle>Agrarian parties</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.3.8.10.3.4">
+                <did>
+                  <container type="Box">14.</container>
+                  <unittitle>Ceskoslovenska Socialni Demokracie</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.3.8.10.3.5">
+                <did>
+                  <unittitle>Levy Blok</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.3.8.10.3.6">
+                <did>
+                  <unittitle>Liberalne Socialni Unie</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.3.8.10.3.7">
+                <did>
+                  <unittitle>Mladi Socialni Demokrate</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.3.8.10.3.8">
+                <did>
+                  <unittitle>Obcanska Demokraticka Aliance</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.3.8.10.3.9">
+                <did>
+                  <container type="Box">15.</container>
+                  <unittitle>Obcanska Demokraticka Strana</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.3.8.10.3.10">
+                <did>
+                  <unittitle>Obcanske Hnuti</unittitle>
+                </did>
+              </c05>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.5.3.8.11">
+            <did>
+              <unittitle>Privatization. Fliers promoting various investment funds and newspaper issues, <unitdate calendar="gregorian" era="ce">1992-1993</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.3.8.12">
+            <did>
+              <unittitle>State security officers fired after inestigation. List compiled in <unitdate calendar="gregorian" era="ce">February 1993. </unitdate>Copy of typescript</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.5.4" level="series">
+        <did>
+          <unittitle>PERIODICALS, <unitdate calendar="gregorian" era="ce" type="inclusive">1990-1994. </unitdate></unittitle>
+          <container>Box 16</container>
+        </did>
+        <scopecontent>
+          <p>Periodical issues relating mostly to the early period of shaping of new democracy,
+following the 1989 revolution</p>
+        </scopecontent>
+        <c02 id="c02-1.7.5.4.3">
+          <did>
+            <container type="Box">16.</container>
+            <unittitle>General</unittitle>
+          </did>
+          <c03 id="c03-1.7.5.4.3.2">
+            <did>
+              <unittitle>General</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.4.3.3">
+            <did>
+              <unittitle>Catholic and other religious denominations publications</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.4.3.4">
+            <did>
+              <unittitle>Moravian and Silesian publications</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.5.4.4">
+          <did>
+            <unittitle><title render="italic">Aktuality, Tvorba, Dialog</title>, Prague, <unitdate calendar="gregorian" era="ce">1990</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.4.5">
+          <did>
+            <unittitle><title render="italic">Jedenadvacet</title>, Prague, <unitdate calendar="gregorian" era="ce">1990</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.4.6">
+          <did>
+            <unittitle><title render="italic">Katolicke Noviny</title>, Prague, <unitdate calendar="gregorian" era="ce">1989</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.4.7">
+          <did>
+            <unittitle><title render="italic">Katolicky Tydenik</title>, Prague, <unitdate calendar="gregorian" era="ce">1990</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.4.8">
+          <did>
+            <unittitle><title render="italic">Kuryr</title>, Plzen, <unitdate calendar="gregorian" era="ce">1990</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.4.9">
+          <did>
+            <unittitle><title render="italic">Narodni Osvobozeni</title>, Prague, <unitdate calendar="gregorian" era="ce">1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.4.10">
+          <did>
+            <unittitle><title render="italic">Pegas</title>, Ostrava, <unitdate calendar="gregorian" era="ce">1990</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.4.11">
+          <did>
+            <unittitle><title render="italic">Plznenske Noviny</title>, Plzen, <unitdate calendar="gregorian" era="ce">1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.4.12">
+          <did>
+            <unittitle><title render="italic">Zvlastni Vydani</title>, Brno, <unitdate calendar="gregorian" era="ce">1990-1991</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.5.5" level="series">
+        <did>
+          <unittitle>MEMORABILIA, <unitdate calendar="gregorian" era="ce" type="inclusive">1989-1994. </unitdate></unittitle>
+          <container>Box 17</container>
+        </did>
+        <scopecontent>
+          <p>Election party pins and stickers, tote bags, communist organizations medals, communist
+insignia, woven fabric with images of communist leaders</p>
+        </scopecontent>
+        <c02 id="c02-1.7.5.5.2">
+          <did>
+            <container type="Box">17.</container>
+            <unittitle>Election party pins and stickers, tote bags, communist organizations medals, communist insignia, woven fabric with images of communist leaders</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.5.6" level="series">
+        <did>
+          <unittitle>OVERSIZE MATERIAL.</unittitle>
+          <container>Box 18</container>
+        </did>
+        <scopecontent>
+          <p>Nine drawings by school children depicting street scenes from 1989</p>
+        </scopecontent>
+        <c02 id="c02-1.7.5.6.2">
+          <did>
+            <container type="Box">18.</container>
+            <unittitle>Nine drawings by school children, depicting street scenes from <unitdate calendar="gregorian" era="ce">1989 </unitdate>events</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.5.7" level="series">
+        <did>
+          <unittitle>AUDIO-VISUAL MATERIAL.</unittitle>
+          <container>Microfilm cabinet, Film shelf</container>
+        </did>
+        <scopecontent>
+          <p>One microfilm reel of documents on the Soviet invasion of Czechoslovakia and one motion
+picture (l6mm) depicting the Soviet entrance into Prague in August 1968</p>
+        </scopecontent>
+        <c02 id="c02-1.7.5.7.2">
+          <did>
+            <container type="Oversize">Microfilm cabinet</container>
+            <unittitle>One microfilm reel of documents on the Soviet invasion of Czechoslovakia in <unitdate calendar="gregorian" era="ce">August 1968 </unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.7.3">
+          <did>
+            <container type="Oversize">Record cabinet</container>
+            <unittitle>One phonorecord, "Svaty Otec Jan Pavel II u nas," <unitdate calendar="gregorian" era="ce">1990, </unitdate></unittitle>          <container>Record cabinet</container>
+        </did>
+        <scopecontent>
+          <p>A recording released on occassion of Pope John Paul II trip's to Czechoslovakia</p>
+        </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.5.7.4">
+          <did>
+            <container type="shelf">Film shelf</container>
+            <unittitle>One motion picture (l6mm) depicting the Soviet entrance into Prague, with a sound track in French, entitled "Entrie des Russes ` Prague, 2l August 1968"</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

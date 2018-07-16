@@ -1,0 +1,859 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[Stanford University, Hospital, monthly reports])//EN"
+             identifier="ark:/13030/kt9g5041kz">sc0042.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Stanford University, Hospital, Monthly Reports
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Stanford University, Hospital, Monthly Reports</titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2010-10">October 2010</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC0042</unitid>
+         <origination label="Creator:">
+            <corpname rules="dacs" source="ingest">Stanford University. Hospital.</corpname>
+         </origination>
+         <unittitle label="Title:">Stanford University, Hospital, monthly reports</unittitle>
+         <unitdate normal="1914/1940"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1914-1940</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>3 Linear feet</extent>
+         </physdesc>
+         <abstract label="Summary:">In addition to a census of patients, these typescript reports cover the nursing school, medical supplies, dietary kitchens, operating room, housekeeping, engineering services, clinics, social service department, and medical departments such as obstetrics, anesthesiology, radiology, and physical therapy. Most of the information is statistical, with some financial information. In some years, the social services reports and the nursing school reports included a narrative account.</abstract>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <accessrestrict id="ref3">
+            <head>Information about Access</head>
+            <p>This collection is open for research.</p>
+         </accessrestrict>
+         <userestrict id="ref4">
+            <head>Ownership &amp; Copyright</head>
+            <p>All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Special Collections and University Archives, Stanford University Libraries, Stanford, California 94304-6064. Consent is given on behalf of Special Collections as the owner of the physical items and is not intended to include or imply permission from the copyright owner. Such permission must be obtained from the copyright owner, heir(s) or assigns. See: http://library.stanford.edu/depts/spc/pubserv/permissions.html.</p>
+            <p>Restrictions also apply to digital representations of the original materials. Use of digital files is restricted to research and educational purposes.</p>
+         </userestrict>
+         <prefercite id="ref5">
+            <head>Cite As</head>
+            <p>Stanford University, Hospital, Monthly Reports (SC0042). Department of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <bioghist id="ref6">
+         <head>Biographical/Historical Sketch</head>
+         <p>At the time of these reports the Stanford University Hospital (also known as Lane Hospital) was located in San Francisco.</p>
+      </bioghist>
+      <scopecontent id="ref7">
+         <head>Description of the Collection</head>
+         <p>In addition to a census of patients, these typescript reports cover the nursing school, medical supplies, dietary kitchens, operating room, housekeeping, engineering services, clinics, social service department, and medical departments such as obstetrics, anesthesiology, radiology, and physical therapy. Most of the information is statistical, with some financial information. In some years, the social services reports and the nursing school reports included a narrative account.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <corpname rules="dacs" source="ingest">Lane Hospital (San Francisco, Calif.).</corpname>
+         <corpname rules="dacs" source="ingest">Stanford University. Hospital.</corpname>
+         <corpname rules="dacs" source="ingest">Stanford University. School of Nursing.</corpname>
+         <subject source="LCSH">Hospitals, University.</subject>
+         <subject source="LCSH">Medical care --California --San Francisco.</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.6">
+         <head>Collection Contents</head>
+         <c01 id="ref8" level="series">
+            <did>
+               <unittitle>Monthy Reports</unittitle>
+            </did>
+            <c02 id="ref9" level="file">
+               <did>
+                  <unittitle>Lane Hospital</unittitle>
+               </did>
+               <c03 id="ref10" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">1</container>
+                     <unittitle/>
+                     <unitdate>Aug.-Oct., 1914</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref11" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">2</container>
+                     <unittitle/>
+                     <unitdate>Nov. 1914-Feb. 1915</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref12" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">3</container>
+                     <unittitle/>
+                     <unitdate>Mar.-June 1915</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref13" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">4</container>
+                     <unittitle/>
+                     <unitdate>July-Sept. 1915</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref14" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">5</container>
+                     <unittitle/>
+                     <unitdate>Oct.-Dec. 1915</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref15" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">6</container>
+                     <unittitle/>
+                     <unitdate>Jan.-March 1916</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref16" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">7</container>
+                     <unittitle/>
+                     <unitdate>April-June 1916</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref17" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">8</container>
+                     <unittitle/>
+                     <unitdate>June-July 1916</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref18" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">9</container>
+                     <unittitle/>
+                     <unitdate>Aug.-Oct. 1916</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref19" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">10</container>
+                     <unittitle/>
+                     <unitdate>Nov.-Dec. 1916</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref20" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">11</container>
+                     <unittitle/>
+                     <unitdate>Jan.-March 1917</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref21" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">12</container>
+                     <unittitle/>
+                     <unitdate>April-June 1917</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref22" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">13</container>
+                     <unittitle/>
+                     <unitdate>July-Sept. 1917</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref23" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">14</container>
+                     <unittitle/>
+                     <unitdate>Oct.-Dec. 1917</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref24" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">15</container>
+                     <unittitle/>
+                     <unitdate>Jan.-Feb. 1918</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref25" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">16</container>
+                     <unittitle/>
+                     <unitdate>March-April 1918</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref26" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">1</container>
+                     <unittitle/>
+                     <unitdate>May-June 1918</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref27" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">2</container>
+                     <unittitle/>
+                     <unitdate>July-Sept. 1918</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref28" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">3</container>
+                     <unittitle/>
+                     <unitdate>Oct.-Nov. 1918</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref29" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">4</container>
+                     <unittitle/>
+                     <unitdate>Dec. 1918-Feb. 1919</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref30" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">5</container>
+                     <unittitle/>
+                     <unitdate>March-April 1919</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref31" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">6</container>
+                     <unittitle/>
+                     <unitdate>May-June 1919</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref32" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">7</container>
+                     <unittitle/>
+                     <unitdate>July-Aug. 1919</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref33" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">8</container>
+                     <unittitle/>
+                     <unitdate>Sept.-Oct. 1919</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref34" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">9</container>
+                     <unittitle/>
+                     <unitdate>Nov.-Dec. 1919</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref35" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">10</container>
+                     <unittitle/>
+                     <unitdate>Jan.-March 1920</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref36" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">11</container>
+                     <unittitle/>
+                     <unitdate>April-June 1920</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref37" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">12</container>
+                     <unittitle/>
+                     <unitdate>July-Sept. 1920</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref38" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">13</container>
+                     <unittitle/>
+                     <unitdate>Oct.-Dec. 1920</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref39" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">14</container>
+                     <unittitle/>
+                     <unitdate>Jan.-March 1921</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref40" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">1</container>
+                     <unittitle/>
+                     <unitdate>April-June 1921</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref41" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">2</container>
+                     <unittitle/>
+                     <unitdate>July-Aug. 1921</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref42" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">3</container>
+                     <unittitle/>
+                     <unitdate>Sept.-Nov. 1921</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref43" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">4</container>
+                     <unittitle/>
+                     <unitdate>Dec. 1921-March 1922</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref44" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">5</container>
+                     <unittitle/>
+                     <unitdate>April-June 1922</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref45" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">6</container>
+                     <unittitle/>
+                     <unitdate>July-Sept. 1922</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref46" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">7</container>
+                     <unittitle/>
+                     <unitdate>Oct.-Dec. 1922</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref47" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">8</container>
+                     <unittitle/>
+                     <unitdate>Jan.-April 1923</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref48" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">9</container>
+                     <unittitle/>
+                     <unitdate>May-July 1923</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref49" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">10</container>
+                     <unittitle/>
+                     <unitdate>Sept.-Dec. 1923</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref50" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">11</container>
+                     <unittitle/>
+                     <unitdate>Jan.-March 1924</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref51" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">12</container>
+                     <unittitle/>
+                     <unitdate>April-June 1924</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref52" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">13</container>
+                     <unittitle/>
+                     <unitdate>July-Sept. 1924</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref53" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">14</container>
+                     <unittitle/>
+                     <unitdate>Oct.-Dec. 1924</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref54" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">15</container>
+                     <unittitle/>
+                     <unitdate>Jan.-March 1925</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref55" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">1</container>
+                     <unittitle/>
+                     <unitdate>April-June 1925</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref56" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">2</container>
+                     <unittitle/>
+                     <unitdate>July-Aug. 1925</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref57" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">3</container>
+                     <unittitle/>
+                     <unitdate>Sept.-Dec. 1925</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref58" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">4</container>
+                     <unittitle/>
+                     <unitdate>Jan.-April 1926</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref59" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">5</container>
+                     <unittitle/>
+                     <unitdate>May-July 1926</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref60" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">6</container>
+                     <unittitle/>
+                     <unitdate>Aug.-Nov. 1926</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref61" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">7</container>
+                     <unittitle/>
+                     <unitdate>Dec. 1926-Feb. 1927</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref62" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">8</container>
+                     <unittitle/>
+                     <unitdate>March-May 1927</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref63" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">9</container>
+                     <unittitle/>
+                     <unitdate>June-Aug. 1927</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref64" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">10</container>
+                     <unittitle/>
+                     <unitdate>Sept.-Dec. 1927</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref65" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">11</container>
+                     <unittitle/>
+                     <unitdate>Jan.-April 1928</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref66" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">1</container>
+                     <unittitle/>
+                     <unitdate>May-July 1928</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref67" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">2</container>
+                     <unittitle/>
+                     <unitdate>Aug.-Nov. 1928</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref68" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">3</container>
+                     <unittitle/>
+                     <unitdate>Dec. 1928-Feb. 1929</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref69" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">4</container>
+                     <unittitle/>
+                     <unitdate>March-May 1929</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref70" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">5</container>
+                     <unittitle/>
+                     <unitdate>June-Aug. 1929</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref71" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">6</container>
+                     <unittitle/>
+                     <unitdate>Sept.-Oct. 1929</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref72" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">7</container>
+                     <unittitle/>
+                     <unitdate>Dec. 1929-March 1930</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref73" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">8</container>
+                     <unittitle/>
+                     <unitdate>April-Aug. 1930</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref74" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">9</container>
+                     <unittitle/>
+                     <unitdate>Sept. 1930-Jan. 1931</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref75" level="file">
+               <did>
+                  <unittitle>Stanford University Hospital</unittitle>
+               </did>
+               <c03 id="ref76" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">10</container>
+                     <unittitle/>
+                     <unitdate>March-April 1931</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref77" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">11</container>
+                     <unittitle/>
+                     <unitdate>May-Sept. 1931</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref78" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">12</container>
+                     <unittitle/>
+                     <unitdate>Oct. 1931-Feb. 1932</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref79" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">13</container>
+                     <unittitle/>
+                     <unitdate>March-July 1932</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref80" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">14</container>
+                     <unittitle/>
+                     <unitdate>Aug.-Dec. 1932</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref81" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">15</container>
+                     <unittitle/>
+                     <unitdate>Jan.-May 1933</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref82" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">16</container>
+                     <unittitle/>
+                     <unitdate>June-Nov. 1933</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref83" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">1</container>
+                     <unittitle/>
+                     <unitdate>Dec. 1933-Feb. 1934</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref84" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">2</container>
+                     <unittitle/>
+                     <unitdate>March-Aug. 1934</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref85" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">3</container>
+                     <unittitle/>
+                     <unitdate>Sept.-Dec. 1934</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref86" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">4</container>
+                     <unittitle/>
+                     <unitdate>Jan.-April 1935</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref87" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">5</container>
+                     <unittitle/>
+                     <unitdate>May-July 1935</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref88" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">6</container>
+                     <unittitle/>
+                     <unitdate>Aug.-Dec. 1935</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref89" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">7</container>
+                     <unittitle/>
+                     <unitdate>Jan.-June 1936</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref90" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">8</container>
+                     <unittitle/>
+                     <unitdate>July-Dec. 1936</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref91" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">9</container>
+                     <unittitle/>
+                     <unitdate>Jan.-April 1937</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref92" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">10</container>
+                     <unittitle/>
+                     <unitdate>May-Aug. 1937</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref93" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">11</container>
+                     <unittitle/>
+                     <unitdate>Sept.-Dec. 1937</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref94" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">12</container>
+                     <unittitle/>
+                     <unitdate>Jan.-April 1938</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref95" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">13</container>
+                     <unittitle/>
+                     <unitdate>May-Aug. 1938</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref96" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">14</container>
+                     <unittitle/>
+                     <unitdate>Sept.-Dec. 1938</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref97" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">15</container>
+                     <unittitle/>
+                     <unitdate>Jan.-April 1939</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref98" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">16</container>
+                     <unittitle/>
+                     <unitdate>May-Aug. 1939</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref99" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">17</container>
+                     <unittitle/>
+                     <unitdate>Sept.-Dec. 1939</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref100" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">18</container>
+                     <unittitle/>
+                     <unitdate>Jan.-April 1940</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref101" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">19</container>
+                     <unittitle/>
+                     <unitdate>May-Aug. 1940</unitdate>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,1685 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  
+  
+  
+  
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" repositoryencoding="iso15511" findaidstatus="edited-full-draft" langencoding="iso639-2b"><eadid countrycode="us" identifier="ark:/13030/tf5f59n7f9" mainagencycode="CSt-H" publicid="PUBLIC &quot;-//Stanford University::Hoover Institution Archives//TEXT&#10;(US::CSt-H::::Max Marawske Collection )//EN&quot; &quot;marawskm.sgm&quot;">marawskm.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Register of the Max Marawske Collection, <date calendar="gregorian" era="ce">1890-1918</date></titleproper><titleproper type="filing">Marawske (Max) Collection</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Hoover Institution Archives</publisher>
+        <address>
+          <addressline>Stanford University</addressline>
+          <addressline>Stanford, California 94305-6010</addressline>
+          <addressline>Phone: (650) 723-3563</addressline>
+          <addressline>Fax: (650) 725-3445</addressline>
+          <addressline>Email: hooverarchives@stanford.edu</addressline>
+        </address>
+        <date calendar="gregorian" era="ce">&#xA9; 1999</date>
+        <p>Hoover Institution Archives. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc><profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data Services,
+<date calendar="gregorian" era="ce">March 1999.</date>
+Supplementary encoding and revision supplied by Michael C. Conkin.</creation>
+      <langusage>Description is in <language langcode="eng" scriptcode="latn">English</language></langusage>
+    </profiledesc><revisiondesc>
+     <change>
+      <date calendar="gregorian" era="ce" normal="20111020">October 20, 2011</date>
+      <item>Revised to update encoding and add unitid by Elizabeth Phillips</item>
+      </change>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//Stanford University::Hoover Institution Archives//TEXT
+(US::CSt-H::::Max Marawske Collection )//EN" "marawskm.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Register of the Max Marawske Collection, <date calendar="gregorian" era="ce">1890-1918</date></titleproper>
+      <publisher>Hoover Institution Archives
+<lb/>Stanford University
+<lb/>Stanford, California</publisher>
+      <list type="simple">
+        <head>Contact Information</head>
+        <item>Hoover Institution Archives</item>
+        <item>Stanford University</item>
+        <item>Stanford, California 94305-6010</item>
+        <item>Phone: (650) 723-3563</item>
+        <item>Fax: (650) 725-3445</item>
+        <item>Email: hooverarchives@stanford.edu</item>
+      </list>
+      <list type="deflist">
+        <defitem>
+          <label>Prepared by: </label>
+          <item>Terrence Brown</item>
+        </defitem>
+        <defitem>
+          <label>Date Completed: </label>
+          <item>April 1976</item>
+        </defitem>
+      </list>
+      <p>&#xA9; 1999 Hoover Institution Archives. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection">
+    <did id="did-1.7.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">Max Marawske Collection, </unittitle><unitdate calendar="gregorian" era="ce" type="inclusive">1890-1918</unitdate>
+<unitid label="Collection number" repositorycode="CSt-H" countrycode="US">XX246</unitid>
+      <origination label="Creator">
+        <persname rules="aacr2">Marawske, Max, collector</persname>
+      </origination>
+	<physdesc label="Collection Size" encodinganalog="300$a">
+	<extent>40 manuscript boxes</extent>
+	<extent>(16.6 linear feet)</extent>
+	</physdesc>
+      <repository label="Repository">
+        <corpname>Hoover Institution Archives</corpname>
+        <address>
+          <addressline>Stanford, California 94305-6010</addressline>
+        </address>
+      </repository>
+      <abstract label="Abstract">Clippings from German newspapers and periodicals, relating to World War I.</abstract>
+<physloc label="Physical Location">Hoover Institution Archives</physloc>
+      <langmaterial label="Language">
+        <language langcode="ger">German.</language>
+      </langmaterial>
+    </did>
+    <descgrp id="descgrp-1.7.2" type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict>
+        <head>Access</head>
+        <p>Collection open for research.</p>
+<p> The Hoover Institution Archives only allows access to <emph render="italic">copies</emph> of audiovisual items. To listen to sound recordings or to view videos or films during your visit, please contact the Archives at least two working days before your arrival. We will then advise you of the accessibility of the material you wish to see or hear. Please note that not all audiovisual material is immediately accessible.</p>
+      </accessrestrict>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>For copyright status, please contact
+the Hoover Institution Archives.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Max Marawske Collection, [Box no.], Hoover Institution
+Archives.</p>
+      </prefercite>
+    </descgrp>
+    <controlaccess id="controlaccess-1.7.3">
+      <head>Access Points</head>
+      <subject>World War, 1914-1918.</subject>
+      <subject>World War, 1914-1918--Germany.</subject>
+      <geogname>Germany.</geogname>
+    </controlaccess>
+    <dsc id="dsc-1.7.5" type="in-depth">
+      <head>Container List</head>
+      <c01 id="c01-1.7.5.2" level="series">
+        <did>
+          <unittitle>SUBJECT FILE, <unitdate calendar="gregorian" era="ce">1890-1918</unitdate></unittitle>
+          <container type="Box" label="Box: ">1-40</container>
+        </did>
+        <scopecontent>
+          <p>Newspaper clippings from German newspapers and periodicals, printed photos, and other printed matter, relating to aspects of World War I and collected by Max Marawske, arranged alphabetically by subject.</p>
+        </scopecontent>
+        <c02 id="c02-1.7.5.2.2">
+          <did>
+            <container type="Box">1.</container>
+            <unittitle>American Indians</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.2.3">
+          <did>
+            <unittitle>American Negroes</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.2.4">
+          <did>
+            <unittitle>Augusta Victoria, Empress of Germany</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.2.5">
+          <did>
+            <unittitle>Countries and continents</unittitle>
+          </did>
+          <c03 id="c03-1.7.5.2.5.2">
+            <did>
+              <unittitle>Afghanistan</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.3">
+            <did>
+              <unittitle>Africa</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.4">
+            <did>
+              <unittitle>Albania</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.5">
+            <did>
+              <unittitle>Algeria</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.6">
+            <did>
+              <unittitle>Alsace-Lorraine</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.7">
+            <did>
+              <unittitle>Angola</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.8">
+            <did>
+              <unittitle>Annam</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.9">
+            <did>
+              <unittitle>Arabia</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.10">
+            <did>
+              <unittitle>Argentina</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.11">
+            <did>
+              <unittitle>Asia</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.12">
+            <did>
+              <unittitle>Australia</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.13">
+            <did>
+              <container type="Box">2.</container>
+              <unittitle>Austria-Hungary</unittitle>
+            </did>
+            <c04 id="c04-1.7.5.2.5.13.2">
+              <did>
+                <unittitle>Budapest</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.5.13.3">
+              <did>
+                <unittitle>General</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.5.13.4">
+              <did>
+                <container type="Box">3.</container>
+                <unittitle>General</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.5.13.5">
+              <did>
+                <unittitle>History</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.14">
+            <did>
+              <unittitle>Balkan States</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.15">
+            <did>
+              <container type="Box">4.</container>
+              <unittitle>Bavaria</unittitle>
+            </did>
+            <c04 id="c04-1.7.5.2.5.15.2">
+              <did>
+                <unittitle>Geography</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.5.15.3">
+              <did>
+                <unittitle>General</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.5.15.4">
+              <did>
+                <unittitle>History</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.5.15.5">
+              <did>
+                <container type="Box">5.</container>
+                <unittitle>History</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.5.15.6">
+              <did>
+                <unittitle>Munich</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.16">
+            <did>
+              <unittitle>Belgium</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.17">
+            <did>
+              <unittitle>Borneo</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.18">
+            <did>
+              <unittitle>Brazil</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.19">
+            <did>
+              <unittitle>Bulgaria</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.20">
+            <did>
+              <unittitle>Burma</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.21">
+            <did>
+              <unittitle>Cambodia</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.22">
+            <did>
+              <unittitle>Canada</unittitle>
+            </did>
+            <c04 id="c04-1.7.5.2.5.22.2">
+              <did>
+                <unittitle>General</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.5.22.3">
+              <did>
+                <unittitle>Newfoundland</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.5.22.4">
+              <did>
+                <unittitle>Ontario</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.23">
+            <did>
+              <unittitle>Canary Islands</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.24">
+            <did>
+              <unittitle>Ceylon (Sri Lanka)</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.25">
+            <did>
+              <unittitle>Chile</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.26">
+            <did>
+              <container type="Box">6.</container>
+              <unittitle>China</unittitle>
+            </did>
+            <c04 id="c04-1.7.5.2.5.26.2">
+              <did>
+                <unittitle>General</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.5.26.3">
+              <did>
+                <unittitle>Peking</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.27">
+            <did>
+              <unittitle>Colombia</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.28">
+            <did>
+              <unittitle>Congo</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.29">
+            <did>
+              <unittitle>Denmark</unittitle>
+            </did>
+            <c04 id="c04-1.7.5.2.5.29.2">
+              <did>
+                <unittitle>General</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.5.29.3">
+              <did>
+                <unittitle>Bornholm</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.5.29.4">
+              <did>
+                <unittitle>Copenhagen</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.30">
+            <did>
+              <unittitle>Dutch East Indies</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.31">
+            <did>
+              <unittitle>Egypt</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.32">
+            <did>
+              <unittitle>England</unittitle>
+            </did>
+            <c04 id="c04-1.7.5.2.5.32.2">
+              <did>
+                <unittitle>Cities</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.5.32.3">
+              <did>
+                <unittitle>General</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.33">
+            <did>
+              <unittitle>Ethiopia</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.34">
+            <did>
+              <container type="Box">7.</container>
+              <unittitle>Europe</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.35">
+            <did>
+              <unittitle>Ferdinand Islands</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.36">
+            <did>
+              <unittitle>Finland</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.37">
+            <did>
+              <unittitle>France</unittitle>
+            </did>
+            <c04 id="c04-1.7.5.2.5.37.2">
+              <did>
+                <unittitle>Cities</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.5.37.3">
+              <did>
+                <container type="Box">8.</container>
+                <unittitle>General</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.38">
+            <did>
+              <unittitle>French Sudan</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.39">
+            <did>
+              <unittitle>French West Africa</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.40">
+            <did>
+              <unittitle>Germany</unittitle>
+            </did>
+            <c04 id="c04-1.7.5.2.5.40.2">
+              <did>
+                <unittitle>German cities and principalities</unittitle>
+              </did>
+              <c05 id="c05-1.7.5.2.5.40.2.2">
+                <did>
+                  <unittitle>General</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.2.5.40.2.3">
+                <did>
+                  <unittitle>Anhalt</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.2.5.40.2.4">
+                <did>
+                  <unittitle>Baden</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.2.5.40.2.5">
+                <did>
+                  <unittitle>Braunschweig</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.2.5.40.2.6">
+                <did>
+                  <unittitle>Bremen</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.2.5.40.2.7">
+                <did>
+                  <unittitle>East Prussia</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.2.5.40.2.8">
+                <did>
+                  <unittitle>Hamburg</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.2.5.40.2.9">
+                <did>
+                  <container type="Box">9.</container>
+                  <unittitle>Hannover</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.2.5.40.2.10">
+                <did>
+                  <unittitle>Leipzig</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.2.5.40.2.11">
+                <did>
+                  <unittitle>L&#xFC;beck</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.2.5.40.2.12">
+                <did>
+                  <unittitle>L&#xFC;neburg</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.2.5.40.2.13">
+                <did>
+                  <unittitle>Mecklenburg</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.2.5.40.2.14">
+                <did>
+                  <unittitle>North Sea</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.2.5.40.2.15">
+                <did>
+                  <unittitle>Oldenburg</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.2.5.40.2.16">
+                <did>
+                  <unittitle>Pomerania</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.2.5.40.2.17">
+                <did>
+                  <container type="Box">10.</container>
+                  <unittitle>Rhineland</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.2.5.40.2.18">
+                <did>
+                  <unittitle>Rhineland Valley Provinces</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.2.5.40.2.19">
+                <did>
+                  <container type="Box">11.</container>
+                  <unittitle>Schleswig-Holstein</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.2.5.40.2.20">
+                <did>
+                  <unittitle>Schwanberg-Lippe</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.2.5.40.2.21">
+                <did>
+                  <unittitle>Silesia</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.2.5.40.2.22">
+                <did>
+                  <unittitle>Th&#xFC;ringen</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.2.5.40.2.23">
+                <did>
+                  <container type="Box">12.</container>
+                  <unittitle>Waldeck</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.2.5.40.2.24">
+                <did>
+                  <unittitle>Wartburg</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.2.5.40.2.25">
+                <did>
+                  <unittitle>Westphalia</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.2.5.40.2.26">
+                <did>
+                  <unittitle>West Prussia</unittitle>
+                </did>
+              </c05>
+            </c04>
+            <c04 id="c04-1.7.5.2.5.40.3">
+              <did>
+                <unittitle>German colonies</unittitle>
+              </did>
+              <c05 id="c05-1.7.5.2.5.40.3.2">
+                <did>
+                  <unittitle>General</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.2.5.40.3.3">
+                <did>
+                  <unittitle>Cameroon</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.2.5.40.3.4">
+                <did>
+                  <unittitle>German Congo</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.2.5.40.3.5">
+                <did>
+                  <unittitle>German East Africa</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.2.5.40.3.6">
+                <did>
+                  <unittitle>German South Africa</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.2.5.40.3.7">
+                <did>
+                  <unittitle>German West Africa</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.2.5.40.3.8">
+                <did>
+                  <unittitle>Gold Coast</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.2.5.40.3.9">
+                <did>
+                  <unittitle>Somoa</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.2.5.40.3.10">
+                <did>
+                  <unittitle>Togo</unittitle>
+                </did>
+              </c05>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.41">
+            <did>
+              <unittitle>Greece</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.42">
+            <did>
+              <unittitle>Greenland</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.43">
+            <did>
+              <unittitle>Guatemala</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.44">
+            <did>
+              <container type="Box">13.</container>
+              <unittitle>India</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.45">
+            <did>
+              <unittitle>Iraq</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.46">
+            <did>
+              <unittitle>Ireland</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.47">
+            <did>
+              <unittitle>Italy</unittitle>
+            </did>
+            <c04 id="c04-1.7.5.2.5.47.2">
+              <did>
+                <unittitle>General</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.5.47.3">
+              <did>
+                <container type="Box">14.</container>
+                <unittitle>Rome</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.5.47.4">
+              <did>
+                <unittitle>Venice</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.48">
+            <did>
+              <unittitle>Japan</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.49">
+            <did>
+              <unittitle>Korea</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.50">
+            <did>
+              <unittitle>Lichtenstein</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.51">
+            <did>
+              <unittitle>Luxemburg</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.52">
+            <did>
+              <unittitle>Lybia</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.53">
+            <did>
+              <unittitle>Madagascar</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.54">
+            <did>
+              <unittitle>Madeira</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.55">
+            <did>
+              <unittitle>Malaysian Archipelago</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.56">
+            <did>
+              <unittitle>Malta</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.57">
+            <did>
+              <unittitle>Mexico</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.58">
+            <did>
+              <unittitle>Monaco</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.59">
+            <did>
+              <container type="Box">15.</container>
+              <unittitle>Morocco</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.60">
+            <did>
+              <unittitle>Netherlands</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.61">
+            <did>
+              <unittitle>Neutral Moresnet</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.62">
+            <did>
+              <unittitle>Nigeria</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.63">
+            <did>
+              <unittitle>North Pole</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.64">
+            <did>
+              <unittitle>Norway, Cities</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.65">
+            <did>
+              <container type="Box">16.</container>
+              <unittitle>Oceania (The Celebes, Fanning Islands, Fiji, Java, Sumatra)</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.66">
+            <did>
+              <unittitle>Paraguay</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.67">
+            <did>
+              <unittitle>Persia</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.68">
+            <did>
+              <unittitle>Peru</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.69">
+            <did>
+              <unittitle>Philippines</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.70">
+            <did>
+              <unittitle>Poland</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.71">
+            <did>
+              <unittitle>Portugal</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.72">
+            <did>
+              <unittitle>Prussia</unittitle>
+            </did>
+            <c04 id="c04-1.7.5.2.5.72.2">
+              <did>
+                <unittitle>General</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.5.72.3">
+              <did>
+                <unittitle>Geographical</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.5.72.4">
+              <did>
+                <unittitle>Provinces</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.73">
+            <did>
+              <container type="Box">17.</container>
+              <unittitle>Romania</unittitle>
+            </did>
+
+          </c03>
+          <c03 id="c03-1.7.5.2.5.74">
+            <did>
+              <unittitle>Russia</unittitle>
+            </did>
+            <c04 id="c04-1.7.5.2.5.74.2">
+              <did>
+                <unittitle>General</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.5.74.3">
+              <did>
+                <unittitle>Provinces</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.75">
+            <did>
+              <unittitle>Saint Helena</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.76">
+            <did>
+              <unittitle>Senegal</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.77">
+            <did>
+              <unittitle>Serbia</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.78">
+            <did>
+              <unittitle>South Africa</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.79">
+            <did>
+              <container type="Box">18.</container>
+              <unittitle>South Pole</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.80">
+            <did>
+              <unittitle>Spain</unittitle>
+            </did>
+            <c04 id="c04-1.7.5.2.5.80.2">
+              <did>
+                <unittitle>Cities</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.5.80.3">
+              <did>
+                <unittitle>General</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.81">
+            <did>
+              <unittitle>Spanish Guinea</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.82">
+            <did>
+              <unittitle>Sudan</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.83">
+            <did>
+              <unittitle>Sweden</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.84">
+            <did>
+              <unittitle>Switzerland</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.85">
+            <did>
+              <container type="Box">19.</container>
+              <unittitle>Switzerland</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.86">
+            <did>
+              <unittitle>Thailand</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.87">
+            <did>
+              <unittitle>Tibet</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.88">
+            <did>
+              <unittitle>Tunisia</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.89">
+            <did>
+              <unittitle>Turkey</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.90">
+            <did>
+              <unittitle>United States</unittitle>
+            </did>
+            <c04 id="c04-1.7.5.2.5.90.2">
+              <did>
+                <unittitle>General</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.5.90.3">
+              <did>
+                <container type="Box">20.</container>
+                <unittitle>Alaska</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.5.90.4">
+              <did>
+                <unittitle>California, San Francisco</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.5.90.5">
+              <did>
+                <unittitle>Colorado</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.5.90.6">
+              <did>
+                <unittitle>Illinois, Chicago</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.5.90.7">
+              <did>
+                <unittitle>Kansas</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.5.90.8">
+              <did>
+                <unittitle>Michigan</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.5.90.9">
+              <did>
+                <unittitle>Minnesota</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.5.90.10">
+              <did>
+                <unittitle>Missouri, St. Louis</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.5.90.11">
+              <did>
+                <unittitle>New York</unittitle>
+              </did>
+              <c05 id="c05-1.7.5.2.5.90.11.2">
+                <did>
+                  <unittitle>New York City</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.2.5.90.11.3">
+                <did>
+                  <unittitle>Buffalo</unittitle>
+                </did>
+              </c05>
+            </c04>
+            <c04 id="c04-1.7.5.2.5.90.12">
+              <did>
+                <unittitle>South Carolina</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.5.90.13">
+              <did>
+                <unittitle>South Dakota</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.5.90.14">
+              <did>
+                <unittitle>Utah, Salt Lake City</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.5.90.15">
+              <did>
+                <unittitle>Vermont</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.5.90.16">
+              <did>
+                <unittitle>Wisconsin</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.5.90.17">
+              <did>
+                <unittitle>Wyoming</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.91">
+            <did>
+              <unittitle>Uruguay</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.92">
+            <did>
+              <unittitle>Vatican</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.93">
+            <did>
+              <unittitle>Venezuela</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.94">
+            <did>
+              <unittitle>W&#xFC;rttemberg</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.5.95">
+            <did>
+              <unittitle>Yugoslavia</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.5.2.6">
+          <did>
+            <unittitle>Franz-Joseph I, Emperor of Austria, King of Hungary, <unitdate calendar="gregorian" era="ce">1830-1916</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.2.7">
+          <did>
+            <unittitle>French Foreign Legion</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.2.8">
+          <did>
+            <unittitle>Hindenburg, Otto von</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.2.9">
+          <did>
+            <unittitle>Islam</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.2.10">
+          <did>
+            <unittitle>Ludendorff, Erich</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.2.11">
+          <did>
+            <unittitle>Ludwig I, King of Bavaria, <unitdate calendar="gregorian" era="ce">1786-1868</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.2.12">
+          <did>
+            <unittitle>Ludwig II, King of Bavaria, <unitdate calendar="gregorian" era="ce">1845-1886</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.2.13">
+          <did>
+            <container type="Box">21.</container>
+            <unittitle>Ludwig III, King of Bavaria, <unitdate calendar="gregorian" era="ce">1845-1921</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.2.14">
+          <did>
+            <unittitle>Otto I, King of Bavaria, <unitdate calendar="gregorian" era="ce">1848-1916</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.2.15">
+          <did>
+            <unittitle>Rupprecht, Crown Prince of Bavaria, <unitdate calendar="gregorian" era="ce">1869-1955</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.2.16">
+          <did>
+            <unittitle>Vikings and Viking ships</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.2.17">
+          <did>
+            <unittitle>Volcanos</unittitle>
+          </did>
+          <c03 id="c03-1.7.5.2.17.2">
+            <did>
+              <unittitle>Mt. Etna, Sicily</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.17.3">
+            <did>
+              <unittitle>Mt. Vesuvius, Italy</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.5.2.18">
+          <did>
+            <unittitle>Wilhelm, Crown Prince of Germany</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.2.19">
+          <did>
+            <unittitle>Wilhelm II, Emperor of Germany, King of Prussia, <unitdate calendar="gregorian" era="ce">1859-1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.2.20">
+          <did>
+            <unittitle>World War I</unittitle>
+          </did>
+          <c03 id="c03-1.7.5.2.20.2">
+            <did>
+              <unittitle>Africa</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.3">
+            <did>
+              <unittitle>Albania</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.4">
+            <did>
+              <unittitle>Alsace-Lorraine</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.5">
+            <did>
+              <unittitle>Arabia</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.6">
+            <did>
+              <unittitle>Asia</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.7">
+            <did>
+              <container type="Box">22.</container>
+              <unittitle>Austria-Hungary</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.8">
+            <did>
+              <unittitle>Balkans, The</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.9">
+            <did>
+              <unittitle>Bavaria</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.10">
+            <did>
+              <container type="Box">23.</container>
+              <unittitle>Belgium</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.11">
+            <did>
+              <unittitle>Bismarck, Prince Otto von</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.12">
+            <did>
+              <unittitle>Bulgaria</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.13">
+            <did>
+              <unittitle>Caribbean</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.14">
+            <did>
+              <unittitle>Central Africa</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.15">
+            <did>
+              <unittitle>China</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.16">
+            <did>
+              <unittitle>Denmark</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.17">
+            <did>
+              <unittitle>Dutch East Indies</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.18">
+            <did>
+              <unittitle>Egypt</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.19">
+            <did>
+              <container type="Box">24.</container>
+              <unittitle>England</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.20">
+            <did>
+              <unittitle>Finland</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.21">
+            <did>
+              <unittitle>France</unittitle>
+            </did>
+            <c04 id="c04-1.7.5.2.20.21.2">
+              <did>
+                <unittitle>General</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.20.21.3">
+              <did>
+                <container type="Box">25.</container>
+                <unittitle>General</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.20.21.4">
+              <did>
+                <unittitle>Officers</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.22">
+            <did>
+              <container type="Box">26.</container>
+              <unittitle>French Guinea</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.23">
+            <did>
+              <unittitle>Frederick the Great, King of Prussia, <unitdate calendar="gregorian" era="ce">1712-1786</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.24">
+            <did>
+              <unittitle>Germany</unittitle>
+            </did>
+            <c04 id="c04-1.7.5.2.20.24.2">
+              <did>
+                <unittitle>Animals</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.20.24.3">
+              <did>
+                <unittitle>Army</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.20.24.4">
+              <did>
+                <unittitle>Artillery</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.20.24.5">
+              <did>
+                <unittitle>Authors</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.20.24.6">
+              <did>
+                <unittitle>Aviation</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.20.24.7">
+              <did>
+                <container type="Box">27.</container>
+                <unittitle>Aviation</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.20.24.8">
+              <did>
+                <unittitle>Captured territory</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.20.24.9">
+              <did>
+                <unittitle>Catholic Church</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.20.24.10">
+              <did>
+                <unittitle>Cities and provinces</unittitle>
+              </did>
+              <c05 id="c05-1.7.5.2.20.24.10.2">
+                <did>
+                  <unittitle>Berlin</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.2.20.24.10.3">
+                <did>
+                  <container type="Box">28.</container>
+                  <unittitle>Bremen</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.2.20.24.10.4">
+                <did>
+                  <unittitle>Hamburg</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.2.20.24.10.5">
+                <did>
+                  <unittitle>Hannover</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.2.20.24.10.6">
+                <did>
+                  <unittitle>East Prussia</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.5.2.20.24.10.7">
+                <did>
+                  <unittitle>Schleswig-Holstein</unittitle>
+                </did>
+              </c05>
+            </c04>
+            <c04 id="c04-1.7.5.2.20.24.11">
+              <did>
+                <unittitle>Civil servants</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.20.24.12">
+              <did>
+                <unittitle>Colonies</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.20.24.13">
+              <did>
+                <unittitle>Diplomacy</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.20.24.14">
+              <did>
+                <unittitle>Fatalities</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.20.24.15">
+              <did>
+                <unittitle>Heroes</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.20.24.16">
+              <did>
+                <container type="Box">29.</container>
+                <unittitle>Holidays</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.20.24.17">
+              <did>
+                <unittitle>Intelligentsia</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.20.24.18">
+              <did>
+                <unittitle>Illustrations</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.20.24.19">
+              <did>
+                <unittitle>Iron Cross</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.20.24.20">
+              <did>
+                <unittitle>Literature</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.20.24.21">
+              <did>
+                <container type="Box">30.</container>
+                <unittitle>Mail</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.20.24.22">
+              <did>
+                <unittitle>Military operations</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.20.24.23">
+              <did>
+                <unittitle>Ministry</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.20.24.24">
+              <did>
+                <unittitle>Music</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.20.24.25">
+              <did>
+                <container type="Box">31.</container>
+                <unittitle>Naval operations</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.20.24.26">
+              <did>
+                <container type="Box">32.</container>
+                <unittitle>Officers</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.20.24.27">
+              <did>
+                <unittitle>Preparation for war</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.20.24.28">
+              <did>
+                <unittitle>Princes</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.20.24.29">
+              <did>
+                <unittitle>Prisoners of war</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.20.24.30">
+              <did>
+                <unittitle>Railroad</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.20.24.31">
+              <did>
+                <unittitle>Repairs</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.20.24.32">
+              <did>
+                <container type="Box">33.</container>
+                <unittitle>Women</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.2.20.24.33">
+              <did>
+                <unittitle>Youth</unittitle>
+              </did>
+            </c04>
+
+          </c03>
+          <c03 id="c03-1.7.5.2.20.25">
+            <did>
+              <unittitle>Greece</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.26">
+            <did>
+              <unittitle>Hindenburg, Paul von</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.27">
+            <did>
+              <unittitle>Hohenzollern princes</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.28">
+            <did>
+              <unittitle>India</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.29">
+            <did>
+              <unittitle>Italy</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.30">
+            <did>
+              <unittitle>Japan</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.31">
+            <did>
+              <container type="Box">34.</container>
+              <unittitle>Luxemburg</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.32">
+            <did>
+              <unittitle>Lybia</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.33">
+            <did>
+              <unittitle>Mackensen, August von</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.34">
+            <did>
+              <unittitle>Mexico</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.35">
+            <did>
+              <unittitle>Morocco</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.36">
+            <did>
+              <unittitle>Monaco</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.37">
+            <did>
+              <unittitle>Montenegro</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.38">
+            <did>
+              <unittitle>Netherlands</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.39">
+            <did>
+              <unittitle>North Africa</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.40">
+            <did>
+              <unittitle>Norway</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.41">
+            <did>
+              <unittitle>Newspaper clippings from World War I</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.42">
+            <did>
+              <container type="Box">35-36.</container>
+              <unittitle>Newspaper clippings from World War I</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.43">
+            <did>
+              <container type="Box">37.</container>
+              <unittitle>Oceania</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.44">
+            <did>
+              <unittitle>Persia</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.45">
+            <did>
+              <unittitle>Poland</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.46">
+            <did>
+              <unittitle>Portugal</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.47">
+            <did>
+              <unittitle>Prisoners of war</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.48">
+            <did>
+              <unittitle>Prussia</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.49">
+            <did>
+              <unittitle>Red Cross</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.50">
+            <did>
+              <unittitle>Romania</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.51">
+            <did>
+              <container type="Box">38.</container>
+              <unittitle>Russia</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.52">
+            <did>
+              <unittitle>San Marino</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.53">
+            <did>
+              <unittitle>Serbia</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.54">
+            <did>
+              <unittitle>Silesia</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.55">
+            <did>
+              <container type="Box">39.</container>
+              <unittitle>South America</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.56">
+            <did>
+              <unittitle>Spain</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.57">
+            <did>
+              <unittitle>Sweden</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.58">
+            <did>
+              <unittitle>Switzerland</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.59">
+            <did>
+              <unittitle>Trench warfare</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.60">
+            <did>
+              <unittitle>Turkey</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.61">
+            <did>
+              <container type="Box">40.</container>
+              <unittitle>United States</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.62">
+            <did>
+              <unittitle>Vatican</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.2.20.63">
+            <did>
+              <unittitle>World War I - aftermath</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

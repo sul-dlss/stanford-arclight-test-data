@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[Stanford University, Department of Computer Science, records])//EN"
+             identifier="ark:/13030/kt8b69s2xj">sc0394.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Stanford University, Department of Computer Science, Records
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Stanford University, Department of Computer Science, Records</titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2010-10">October 2010</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC0394</unitid>
+         <origination label="Creator:">
+            <corpname rules="dacs" source="naf">Stanford University. Computer Science Department.</corpname>
+         </origination>
+         <unittitle label="Title:">Stanford University, Department of Computer Science, records</unittitle>
+         <unitdate normal="1962/2007"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1968-2007</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>3.75 Linear feet</extent>
+         </physdesc>
+         <abstract label="Summary:">Reports and memoranda concerning departmental rap sessions, 1968-69; memoranda, reports, diagrams, papers, and other materials, 1976-1981, pertaining to development of the SUN workstation, a network-based personal computer system designed at Stanford University; report on the Department, 1970; listing of personnel (staff, faculty, and students), 1971; files of Carolyn Tajnai, Director of the Stanford Computer Form, pertaining to Silicon Valley history and F. E. Terman, 1963-2007; class materials (syllabi, handouts, exams), 1962-84; reports on research in the department, 1967-69; Stanford Artificial Intelligence Laboratory Operating Notes, numbers 1-70 (incomplete set); "The Future of Computer Science at Stanford," by Forsythe, Herriot, and Miller, Feb. 1967; and Robert Floyd "Notes toward a revised formula ALGOL," 1966.</abstract>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <descgrp type="provenance" id="prov">
+            <head>Provenance</head>
+            <acqinfo id="ref3">
+               <p>Administrative transfer, 1990-1999</p>
+            </acqinfo>
+         </descgrp>
+         <accessrestrict id="ref4">
+            <head>Information about Access</head>
+            <p>This collection is open for research.</p>
+         </accessrestrict>
+         <userestrict id="ref5">
+            <head>Ownership &amp; Copyright</head>
+            <p>All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Special Collections and University Archives, Stanford University Libraries, Stanford, California 94304-6064. Consent is given on behalf of Special Collections as the owner of the physical items and is not intended to include or imply permission from the copyright owner. Such permission must be obtained from the copyright owner, heir(s) or assigns. See: http://library.stanford.edu/depts/spc/pubserv/permissions.html.</p>
+            <p>Restrictions also apply to digital representations of the original materials. Use of digital files is restricted to research and educational purposes.</p>
+         </userestrict>
+         <prefercite id="ref6">
+            <head>Cite As</head>
+            <p>Stanford University, Department of Computer Science, Records (SC0394). Department of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+         <relatedmaterial id="ref7">
+            <head>Associated Materials</head>
+            <p>Twenty buttons from the Stanford Computer Forum are classed as AM 2008-013 in the Stanford University Archives Museum Collection.</p>
+         </relatedmaterial>
+      </descgrp>
+      <bioghist id="ref8">
+         <head>Biographical/Historical note</head>
+         <p>The Department of Computer Science was established in 1965.</p>
+      </bioghist>
+      <scopecontent id="ref9">
+         <head>Description of the Collection</head>
+         <p>Reports and memoranda concerning departmental rap sessions, 1968-69; memoranda, reports, diagrams, papers, and other materials, 1976-1981, pertaining to development of the SUN workstation, a network-based personal computer system designed at Stanford University; report on the Department, 1970; listing of personnel (staff, faculty, and students), 1971; files of Carolyn Tajnai, Director of the Stanford Computer Form, pertaining to Silicon Valley history and F. E. Terman, 1963-2007; class materials (syllabi, handouts, exams), 1962-84; reports on research in the department, 1967-69; Stanford Artificial Intelligence Laboratory Operating Notes, numbers 1-70 (incomplete set); "The Future of Computer Science at Stanford," by Forsythe, Herriot, and Miller, Feb. 1967; and Robert Floyd "Notes toward a revised formula ALGOL," 1966.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <persname rules="aacr" source="naf">Floyd, Robert W.</persname>
+         <persname rules="aacr" source="naf">Forsythe, George E. ,  (George Elmer), 1917-1972.</persname>
+         <corpname rules="dacs" source="naf">Stanford University. Computer Science Department.</corpname>
+         <persname rules="aacr" source="ingest">Tajnai, Carolyn.</persname>
+         <subject source="LCSH">Computer networks.</subject>
+         <subject source="LCSH">Ethernet (Local area network system).</subject>
+         <subject source="LCSH">Microcomputer workstations.</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.6">
+         <head>Collection Contents</head>
+         <c01 id="ref10" level="series">
+            <did>
+               <unittitle>Original accession</unittitle>
+            </did>
+            <scopecontent>
+               <p>Box 1 of the collection contains several different accessions. The first, accession number 1986-070, consists of reports and memoranda regarding departmental rap sessions, 1968-1969, which largely dealt with internal issues. The second accession, number 1990-186, concerns the development of the SUN workstation, a network-based personal computer system, and includes memoranda, reports, diagrams, papers, and other materials dating from 1976 to 1981. This accession was received as a notebook; the items have been removed and placed in folders, maintaining the original order. The third accession, number 1991-049, consists of two items that were part of a larger accession received from the Physics Library.</p>
+               <p>Box 2 contains accession 2008-105, which appears to have been the files of Carolyn Tajnai, Director of the Stanford Computer Forum, and pertains to Silicon Valley history and F. E. Terman. Five boxes from accession 1999-102 were added to the collection in January 2010. They include class materials (syllabi, handouts, exams), 1962-84; reports on research in the department, 1967-69; Stanford Artificial Intelligence Laboratory Operating Notes, numbers 1-70 (incomplete set); "The Future of Computer Science at Stanford," by Forsythe, Herriot, and Miller, Feb. 1967; and Robert Floyd "Notes toward a revised formula ALGOL," 1966.</p>
+            </scopecontent>
+            <c02 id="ref11" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Dept. of Computer Science, Rap Sessions, 1968-69. Reports and memoranda.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref12" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">2</container>
+                  <unittitle>SUN WorkStation Hardware Projects: introductory material</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref13" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">3</container>
+                  <unittitle>File: pman, 1981</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref14" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">4</container>
+                  <unittitle>File: strm, 1981</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref15" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">5</container>
+                  <unittitle>File: pupser.doc, 1981</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref16" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">6</container>
+                  <unittitle>File: ARPA [SUN,AVB], 1981</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref17" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Data Link Layer Ethernet Interface, Overview and User Manual, 1980</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref18" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">8</container>
+                  <unittitle>The SUN WorkStation Hardware Overview</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref19" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Network Graphics</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref20" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">10</container>
+                  <unittitle>SUN seminar information and minutes, 1980</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref21" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Trix Notes, 1980</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref22" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Computer Networking at Stanford; Current Status and Future Plans for Ethernet at Stanford University, 1980. Report by Ralph E. Gorin.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref23" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">13</container>
+                  <unittitle>ARPA proposal</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref24" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">14</container>
+                  <unittitle>SUN diagrams, 1980</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref25" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">15</container>
+                  <unittitle>Press release, 1980</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref26" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">16</container>
+                  <unittitle>Ethernet: Distributed Packet Switching for Local Computer Networks, 1976. Article by Robert M. Metcalfe and David R. Boggs.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref27" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">17</container>
+                  <unittitle>Tools for Distributed Computing, 1980. Report by W.I. Nowicki.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref28" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">18</container>
+                  <unittitle>The SUN WorkStation; A Terminal System for the Stanford University Network, 1980. Draft of report.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref29" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">19</container>
+                  <unittitle>Perseus: Retrospective on a Portable Operating System, 1982. Report by Willy Zwaenepoel and Keith A. Lantz</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref30" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">20</container>
+                  <unittitle>The Implementation of Perseus as a Guest Level OS on the VAX 11/780, 1981. A report by Linda DeMichiel, Ginger Edighoffer, and Steve Kille.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref31" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">21</container>
+                  <unittitle>Memory Sharing in a Distributed Processing Environment, 1980. A report by Jeffrey Mogul.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref32" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">22</container>
+                  <unittitle>Perseus Disk Driver for IBM 3310 Disk, 1981. A report by R.F. McAllister.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref33" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">23</container>
+                  <unittitle>Uniform Access to Resources in Perseus, 1981</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref34" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">24</container>
+                  <unittitle>Report on Computer Science Department (memo from G.E. Forsythe to Computer Science Advisory Committee), 1970</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref35" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">25</container>
+                  <unittitle>Personnel listing, 1971 (printout of file S623.PERSONNEL)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref36" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">26</container>
+                  <unittitle>ACME Notes, 1970-72</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref37" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Caddes, Carolyn, correspondence re her book Portraits of Success, 1985</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref38" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Computer Forum, correspondence of Carolyn Tajnai, 1982-97</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref39" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Computer Forum trivia</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref40" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Photographs, mostly of F.E. Terman with 2 regarding the Varian brothers and their company (most of these are prints of Stanford News Service images)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref41" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Research Park, clippings 1986-88</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref42" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">6</container>
+                  <unittitle>SITN – outline of a talk by Kenneth S. Down, 1982, and articles and clippings, 1977-83</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref43" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Tajnai, Carolyn, "Carolyn Tajnai’s Introduction to Computing," ca. 1990</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref44" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Tajnai, Carolyn, "Fred Terman, the Father of Silicon Valley," 1984-85</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref45" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Tajnai, Carolyn, two papers on Stanford and Silicon Valley, 1997, 2007</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref46" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Tajnai, Carolyn, notes</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref47" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Text of talks by F. E. Terman (photocopies), 1962-73</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref48" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Terman, F. E., articles, clippings, etc., 1963-84</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref49" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Materials on the history of Silicon Valley, 1974-93</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref50" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Magazine sources on the history of Silicon Valley</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref52" level="series">
+            <did>
+               <unitid>Accession ARCH-1999-102</unitid>
+               <unittitle>Additional material</unittitle>
+            </did>
+            <c02 id="ref53" level="file">
+               <did>
+                  <unittitle>Course materials</unittitle>
+               </did>
+               <c03 id="ref54" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">1</container>
+                     <unittitle>CS 5 course materials, 1962-64</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref55" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Notes for CS 136 and CS 5 by John G. Herriot, Sept. 1964</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref56" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">3</container>
+                     <unittitle>CS 5 course materials, Autumn 1965</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref57" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">4</container>
+                     <unittitle>CS 5 course materials, Winter, Spring and Autumn 1966</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref58" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Notes for CS 136 and CS 5 by John G. Herriot, Sept. 1966</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref59" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">6</container>
+                     <unittitle>CS 136 / CS 5 course materials, Spring 1967</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref60" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">7</container>
+                     <unittitle>CS 5, Exams, 1963-65</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref61" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">8</container>
+                     <unittitle>CS 5, Exams, 1966-67</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref62" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">9</container>
+                     <unittitle>CS 5, Exams, 1968-70</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref63" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">10</container>
+                     <unittitle>CS 6, Exams, 1966</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref64" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">11</container>
+                     <unittitle>CS 6, Exams, 1968</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref65" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">12</container>
+                     <unittitle>CS 101 Readings, 1975</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref66" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">13</container>
+                     <unittitle>CS 101 Computers: Their Nature, Use, and Impact, student papers [no photocopies allowed], spring 1978</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref67" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">14</container>
+                     <unittitle>CS 104, syllabus and assignments, Autumn 1971</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref68" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">15</container>
+                     <unittitle>CS 105 exams, 1970-71</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref69" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">16</container>
+                     <unittitle>CS 126 Class notes, September 1966</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref70" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">17</container>
+                     <unittitle>CS 126, Exams, 1965</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref71" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">1</container>
+                     <unittitle>CS 126/136, Exams, 1969-70</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref72" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Information on Stanford’s Systems and Languages: Notes for CS 135, Jan. 1973</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref73" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">3</container>
+                     <unittitle>CS 139 course materials, 1964</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref74" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">4</container>
+                     <unittitle>CS 139 course materials, 1966-67</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref75" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">5</container>
+                     <unittitle>CS 139 course materials, 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref76" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">6</container>
+                     <unittitle>CS 139 exams, 1964-70</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref77" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">7</container>
+                     <unittitle>CS 142 class notes, Prof. Gio Wiederhold, Fall 1978 (1 of 2)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref78" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">8</container>
+                     <unittitle>CS 142 class notes, Prof. Gio Wiederhold, Fall 1978 (2 of 2)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref79" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">9</container>
+                     <unittitle>CS 142 / EE 285 class notes, winter 1982</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref80" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">10</container>
+                     <unittitle>CS 146 / EE 246 handouts, Fall 1982</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref81" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">11</container>
+                     <unittitle>CS 146 / EE 286 handouts, Winter 1984</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref82" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">12</container>
+                     <unittitle>Readings in Artificial Intelligence, CS/Psych 224, Spring 1975</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref83" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">1</container>
+                     <unittitle>CS 231 course materials, 1965-67</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref84" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">2</container>
+                     <unittitle>CS 237 course materials, 1963-71</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref85" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">3</container>
+                     <unittitle>CS 237 exams, 1962-63</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref86" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">4</container>
+                     <unittitle>CS/Linguistics 266, class notes, Winter 1980</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref87" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">5</container>
+                     <unittitle>CS 343 / EE 483 class notes, spring 1981</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref88" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">6</container>
+                     <unittitle>EE/CS 701answers to homework</unittitle>
+                     <unitdate>undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref89" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Math 44 Homework Solutions 1984</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref90" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Math 116 solutions to assignments</unittitle>
+                     <unitdate>undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref91" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Math 130 Homework Solutions Winter 1984</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref92" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">10</container>
+                     <unittitle>Math 232A Notes Autumn 1980</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref93" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Statistics 110 Past Exams 1964-65</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref94" level="file">
+               <did>
+                  <unittitle>Dept. materials</unittitle>
+               </did>
+               <c03 id="ref95" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">12</container>
+                     <unittitle>The Future of Computer Science at Stanford, prepared by Forsythe, Herriot, and Miller, Feb. 1, 1967</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref96" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">13</container>
+                     <unittitle>Research in the Computer Science Department Stanford University 1967</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref97" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">14</container>
+                     <unittitle>Research in the Computer Science Department Stanford University April 26, 1968 (with remarks to the CS Advisory Committee by G. Forsythe, April 26, 1968)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref98" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">15</container>
+                     <unittitle>Research in the Computer Science Department Stanford University, April 21, 1969</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref99" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">16</container>
+                     <unittitle>Artificial Intelligence Project memos, list of, ca. 1968</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref100" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Binder 1: Stanford Artificial Intelligence Laboratory Operating Notes #1 - #28</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref101" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Binder 2: Stanford Artificial Intelligence Laboratory Operating Notes #29 - #53</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref102" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Binder 3: Stanford Artificial Intelligence Laboratory Operating Notes #54 - #70 [incomplete]</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref103" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Computer Printout: Computer Science Library. Index to Uncatalogued Materials, 1967</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref104" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Computer Printout: Computer Science Library. Index to Uncatalogued Materials, 1969</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref105" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">1</container>
+                     <unittitle>George Forsythe: Proposal for renewal contract N00014-67-A-0112-0029 NR 044-211 (1969 and 1970)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref106" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">2</container>
+                     <unittitle>George Forsythe, Numerical Analysis and Computer Science in Certain European and Soviet Centers, 26 July 1967</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref107" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Robert Floyd, "Notes toward a revised formula ALGOL," July 6, 1966</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref108" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">4</container>
+                     <unittitle>ISIS Demo [edited record for a hypothetical ISIS/0 usage session] 1970</unittitle>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

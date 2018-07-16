@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[Martin Edward Hellman papers])//EN"
+             identifier="ark:/13030/c8xp76m0">sc1176.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Martin Edward Hellman Papers
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Hellman (Martin Edward) Papers</titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2013-11">November 2013</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date normal="2014-03">March 2014</date>
+            <item/>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC1176</unitid>
+         <origination label="Creator:">
+            <persname rules="aacr" source="lcnaf">Hellman, Martin E.</persname>
+         </origination>
+         <unittitle label="Title:">Martin Edward Hellman papers</unittitle>
+         <unitdate normal="1971/2013"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1971-2013</unitdate>
+         <unitdate normal="1976/1988"
+                   type="bulk"
+                   label="Bulk Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation"> 1976-1988</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>3 Linear feet  (and 265 megabytes)</extent>
+         </physdesc>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <accessrestrict id="ref1">
+            <head>Information about Access</head>
+            <p>The materials are open for research use.</p>
+            <p>Audio-visual materials are not available in original format, and must be reformatted to a digital use copy.</p>
+         </accessrestrict>
+         <userestrict id="ref2">
+            <head>Ownership &amp; Copyright</head>
+            <p>All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Special Collections and University Archives, Stanford University Libraries, Stanford, California 94305-6064. Consent is given on behalf of Special Collections as the owner of the physical items and is not intended to include or imply permission from the copyright owner. Such permission must be obtained from the copyright owner, heir(s) or assigns. See: http://library.stanford.edu/spc/using-collections/permission-publish.</p>
+            <p>Restrictions also apply to digital representations of the original materials. Use of digital files is restricted to research and educational purposes.</p>
+         </userestrict>
+         <prefercite id="ref92">
+            <head>Cite As</head>
+            <p>[identification of item], Martin Edward Hellman Papers (SC1176). Dept. of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <bioghist id="ref3">
+         <head>Biographical/Historical note</head>
+         <p>Martin Edward Hellman was born in New York, NY in October 1945. He received his B.E. from New York University in 1966, and his M.S. and Ph.D. from Stanford University in 1967 and 1969, all in Electrical Engineering.</p>
+         <p>Prof. Hellman was at IBM's Watson Research Center from 1968-1969 and an Assistant Professor of Electrical Engineering at MIT from 1969-1971. Returning to Stanford in 1971, he served on the regular faculty until becoming Professor Emeritus in 1996. He has authored over seventy technical papers, ten US patents and a number of foreign equivalents.</p>
+         <p>Hellman is best known for his invention, with Diffie and Merkle, of public key cryptography. In addition to many other uses, this technology forms the basis for secure transactions on the Internet. He has also been a long-time contributor to the computer security debate, starting with the issue of DES's key size in 1975, serving (1994-96) on the National Research Council's Committee to Study National Cryptographic Policy, and currently serving on Verified Voting's Board of Advisors.</p>
+         <p>Prof. Hellman also has a deep interest in the ethics of technological development. With Prof. Anatoly Gromyko of Moscow, he co-edited Breakthrough: Emerging New Thinking, a book published simultaneously in Russian and English in 1987 during the rapid change in Soviet-American relations. His current project in this area, Defusing the Nuclear Threat, has been endorsed by a number of prominent individuals including a former Director of the National Security Agency, Stanford's President Emeritus, and two Nobel Laureates.</p>
+      </bioghist>
+      <scopecontent id="ref91">
+         <head>Scope and Contents</head>
+         <p>The materials consist of research files, subject files, publications and correspondence documenting public key cryptography and the Beyond War project.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <persname rules="aacr" source="lcnaf">Diffie, Whitfield.</persname>
+         <persname rules="aacr" source="lcnaf">Merkle, Ralph Charles.</persname>
+         <subject source="local">Cryptography--United States--History--20th century.</subject>
+         <subject source="lcsh">Data encryption (Computer science)--United States.</subject>
+         <subject source="lcsh">Data Encryption Standard.</subject>
+         <subject source="lcsh">Information theory.</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.6">
+         <head>Collection Contents</head>
+         <c01 id="ref4" level="series">
+            <did>
+               <unittitle>Public key cryptography</unittitle>
+            </did>
+            <c02 id="ref7" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">1</container>
+                  <unittitle>DES (Data Encryption Standard) - Misc. Correspondence</unittitle>
+                  <unitdate>1975-1977</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref8" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Science Magazines</unittitle>
+                  <unitdate>1977</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref9" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">3</container>
+                  <unittitle>
+                     <title render="italic" linktype="simple">Newsweek</title> magazine &amp; 
+                            <title render="italic" linktype="simple">Datamation</title> magazine</unittitle>
+                  <unitdate>1976-2001</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref10" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">4</container>
+                  <unittitle>DES - PR</unittitle>
+                  <unitdate>circa 1970s - 1990s</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref11" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">5</container>
+                  <unittitle>DES - IBM</unittitle>
+                  <unitdate>1976-1977</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref12" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">6</container>
+                  <unittitle>NBS - Originals</unittitle>
+                  <unitdate>1974-1976</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref13" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">7</container>
+                  <unittitle>NBS</unittitle>
+                  <unitdate>1975 Jun - 1977 Jan</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref14" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">8</container>
+                  <unittitle>DES - Congress</unittitle>
+                  <unitdate>1976-1977</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref15" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Meyer - NSA - IEEE</unittitle>
+                  <unitdate>1977</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref16" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">10</container>
+                  <unittitle>DES - Bell Telephone Labs</unittitle>
+                  <unitdate>1976</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref17" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">11</container>
+                  <unittitle>NIST - DES RVW</unittitle>
+                  <unitdate>1992 Dec</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref18" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Misc. Articles Re: Marty</unittitle>
+                  <unitdate>circa 1970s - 1980s</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref23" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">17</container>
+                  <unittitle>Racal-Milgo Patent Q. &amp; MIT</unittitle>
+                  <unitdate>circa 1980s</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref24" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">18</container>
+                  <unittitle>Resume - Photos</unittitle>
+                  <unitdate>1999 Dec</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref25" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">19</container>
+                  <unittitle>Resume, Biogr., &amp; Pics</unittitle>
+                  <unitdate>circa 1990s</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref26" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">20</container>
+                  <unittitle>RSA - Notes</unittitle>
+                  <unitdate>circa 1980s</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref27" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">21</container>
+                  <unittitle>RSA License - MIT</unittitle>
+                  <unitdate>1983</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref28" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">22</container>
+                  <unittitle>EE478 - Originals</unittitle>
+                  <unitdate>1991</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref29" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">23</container>
+                  <unittitle>An Evaluation of the Data Encryption Standard</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref30" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">24</container>
+                  <unittitle>Results of an Intial Attempt to Cryptanalyze the NBS Data Encryption Standard</unittitle>
+                  <unitdate>1976 Nov</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref31" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">25</container>
+                  <unittitle>Crypto Bibliography</unittitle>
+                  <unitdate>1980 Nov</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref32" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">26</container>
+                  <unittitle>Factoring Schroeppel</unittitle>
+                  <unitdate>1976-1979</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref33" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">27</container>
+                  <unittitle>"On the Necessity of Cryptanalytic Exhaustive Search" - Hellman, Karnin, &amp; Reyneri</unittitle>
+                  <unitdate>1981-1982</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref34" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">28</container>
+                  <unittitle>Patents - Crypto</unittitle>
+                  <unitdate>1977</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref35" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">29</container>
+                  <unittitle>
+                     <persname>Merkle, Ralph C.</persname>
+                  </unittitle>
+                  <unitdate>1974-1977</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref36" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">30</container>
+                  <unittitle>Secure Communications Over Insecure Channels - R. Merkle</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref37" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">31</container>
+                  <unittitle>A Knapsack Method</unittitle>
+                  <unitdate>1977</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref38" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">32</container>
+                  <unittitle>Public Key Encipher</unittitle>
+                  <unitdate>1975-1977</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref39" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">33</container>
+                  <unittitle>
+                     <persname>Merkle, Ralph C.</persname> - Logs Mod P</unittitle>
+                  <unitdate>1976 Jul</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref40" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">34</container>
+                  <unittitle>EE478 - Martin Hellman - Class Notes</unittitle>
+                  <unitdate>1995</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref41" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">35</container>
+                  <unittitle>Reprints - Martin Hellman and Thomas Cover</unittitle>
+                  <unitdate>1970-1976</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref42" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">36</container>
+                  <unittitle>IEEE Communications Magazine</unittitle>
+                  <unitdate>2002 May</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref43" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">37</container>
+                  <unittitle>Information Theorectic Approach to Cryptography</unittitle>
+                  <unitdate>1974 Apr</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref104" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">44</container>
+                  <unittitle>
+                     <persname>Inman, Bob</persname> letter to Hellman</unittitle>
+                  <unitdate>1980 Nov 22</unitdate>
+               </did>
+               <scopecontent>
+                  <p>Note of context from Professor Hellman (2014 May 29):</p>
+                  <p>I visited Inman at NSA a few weeks before this broke in the summer of 1980.</p>
+                  <p>The affair broke for me when I got a call from Gina Kolata telling me that Len Adleman had gotten a call or letter from NSF telling him that they could not fund a research proposal because NSA maintained they had a monopoly on government funding of crypto research. I told Gina that I had just had a meeting with Inman and either I'd been lied to or there was a serious misunderstanding, with the latter being my guess. I called Inman and told him what Gina had told me. He responded that someone had gotten the message terribly garbled, that Adleman was supposed to have been told that NSA would like to fund his work, not that NSF could not. I offered to suggest that Gina call him, and he heartily agreed. Gina did call Inman, but the story she ran in Science magazine stuck to the original version. Later conversations with the grant maker at NSF (Weingarten I believe) led me to believe that Inman's intent was not conveyed by lower level individuals at NSA, who rather took the old, high handed approach. So, both Gina's story and Inman's unhappiness at being misunderstood (expressed in his letter) may be well grounded, even though at first they appear mutually exclusive.</p>
+                  <p>My arguments about a compulsory system not working, and NSA needing the good will of the academic researchers must have won out, because he assured me that a voluntary system would be used instead. And that, in general, NSA would take a less confrontational approach.</p>
+               </scopecontent>
+            </c02>
+         </c01>
+         <c01 id="ref5" level="series">
+            <did>
+               <unittitle>Beyond War project</unittitle>
+               <unitdate normal="1984/1988" type="inclusive">1984-1988</unitdate>
+            </did>
+            <c02 id="ref44" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">38</container>
+                  <unittitle>Soviet Visit</unittitle>
+                  <unitdate>1988 Jan-Apr</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref45" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">39</container>
+                  <unittitle>Beyond War International Scientific Initiative / Santa Barbara and San Luis Obispo Talk</unittitle>
+                  <unitdate>circa 1980s</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref46" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">40</container>
+                  <unittitle>Russian/Eng XLTN Q's</unittitle>
+                  <unitdate>1987 Nov</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref47" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Breakthrough (in Russian)</unittitle>
+                  <unitdate>copyright 1988</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref48" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Breakthrough (in English)</unittitle>
+                  <unitdate>1988</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref49" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Hungary &amp; USSR Trip</unittitle>
+                  <unitdate>1984 Aug</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref50" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">2</container>
+                  <unittitle>USSR/ Hungary Trip</unittitle>
+                  <unitdate>1984 Nov</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref51" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Moscow Trip - IFSNTB Meeting</unittitle>
+                  <unitdate>1986 Jul 11-13</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref52" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Nuclear Weapons - Arms Race</unittitle>
+                  <unitdate>circa 1980s </unitdate>
+               </did>
+            </c02>
+            <c02 id="ref53" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Moscow Trip</unittitle>
+                  <unitdate>1986 May 27-29</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref54" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Japan Trip</unittitle>
+                  <unitdate>1975 Jul-Aug</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref55" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">7</container>
+                  <unittitle>USA/USSR Task Force to Build a World Beyond War</unittitle>
+                  <unitdate>1985 Sep 9</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref56" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Earth Scientists for the Preservation of the Planet &amp; The Problem - Victor F. Weisskopf</unittitle>
+                  <unitdate>1986 May</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref57" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">9</container>
+                  <unittitle>USSR Trip - Notes, etc.</unittitle>
+                  <unitdate>1985 Oct</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref58" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Correspondence b/w Richard Rathbun &amp; Central Jersey Region Beyond War</unittitle>
+                  <unitdate>1988</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref59" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">11</container>
+                  <unittitle>USA/ USSR Task Force (photos enclosed)</unittitle>
+                  <unitdate>1984</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref60" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">12</container>
+                  <unittitle>USSR Trip - Notes/RPT</unittitle>
+                  <unitdate>1986 Jun</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref61" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">13</container>
+                  <unittitle>USSR Trip</unittitle>
+                  <unitdate>1988 Aug</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref62" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Moscow News Newspaper</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref63" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">15</container>
+                  <unittitle>Update - Auth &amp; Ed.</unittitle>
+                  <unitdate>1987 Jan 27</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref64" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">16</container>
+                  <unittitle>Biogs.</unittitle>
+                  <unitdate>1987</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref65" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">17</container>
+                  <unittitle>Axelrod - Multi-lingual</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref66" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">18</container>
+                  <unittitle>Barton J. Bernstein</unittitle>
+                  <unitdate>circa 1960s - 1980s</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref67" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">19</container>
+                  <unittitle>Alan Borning</unittitle>
+                  <unitdate>1987</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref68" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">20</container>
+                  <unittitle>Kenneth E. Boulding</unittitle>
+                  <unitdate>1987</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref69" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">21</container>
+                  <unittitle>Paul Bracken</unittitle>
+                  <unitdate>1987</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref70" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">22</container>
+                  <unittitle>Admiral Eugene J. Carroll Jr.</unittitle>
+                  <unitdate>1986-1987</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref71" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">23</container>
+                  <unittitle>Stephen F. Cohen</unittitle>
+                  <unitdate>1986-1987</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref72" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">24</container>
+                  <unittitle>Randall Forsberg</unittitle>
+                  <unitdate>1985-1987</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref73" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">25</container>
+                  <unittitle>Jerome D. Frank</unittitle>
+                  <unitdate>1986-1987</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref74" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">26</container>
+                  <unittitle>Papers w/ Notes on Nuclear Weapons - multiple authors</unittitle>
+                  <unitdate>1987</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref75" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">27</container>
+                  <unittitle>Martin E. Hellman</unittitle>
+                  <unitdate>1986-1987</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref76" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">29</container>
+                  <unittitle>Sergei P Kapitza/ Martin E. Hellman</unittitle>
+                  <unitdate>1988</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref77" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">30</container>
+                  <unittitle>Lawrence Klein</unittitle>
+                  <unitdate>1987</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref78" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">31</container>
+                  <unittitle>Einar Kringlen</unittitle>
+                  <unitdate>1987-1988</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref79" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">32</container>
+                  <unittitle>Steven Kull</unittitle>
+                  <unitdate>1987</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref80" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">33</container>
+                  <unittitle>Boris Raushenbakh</unittitle>
+                  <unitdate>1987 Jan 22</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref81" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">34</container>
+                  <unittitle>John M. Richardson Jr.</unittitle>
+                  <unitdate>1987</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref82" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">35</container>
+                  <unittitle>Everett M. Rogers</unittitle>
+                  <unitdate>1983-1987</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref83" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">36</container>
+                  <unittitle>Richard R. Roney</unittitle>
+                  <unitdate>1987</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref84" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">37</container>
+                  <unittitle>Linn Sennott</unittitle>
+                  <unitdate>1987</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref85" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">38</container>
+                  <unittitle>Theodore B. Taylor</unittitle>
+                  <unitdate>1987</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref86" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">39</container>
+                  <unittitle>William L. Ury</unittitle>
+                  <unitdate>1987</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref87" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">40</container>
+                  <unittitle>I. William Zartman</unittitle>
+                  <unitdate>1987</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref88" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">41</container>
+                  <unittitle>The Story</unittitle>
+                  <unitdate>1987</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref89" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">42</container>
+                  <unittitle>Fairchild Auditorium Presentations</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref90" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">43</container>
+                  <unittitle>Soivet Papers - Old &amp; Repr./ Sample (problems) &amp; Burlatsky Dial</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref6" level="series">
+            <did>
+               <unittitle/>
+               <unitdate>2013 Nov 19</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref95" level="series">
+            <did>
+               <unittitle>Computer files</unittitle>
+            </did>
+            <c02 id="ref96" level="file">
+               <did>
+                  <unittitle>Publications</unittitle>
+                  <unitdate normal="1971/2012" type="inclusive">1971-2012</unitdate>
+                  <physdesc>
+                     <extent>42 computer file(s) (PDF)</extent>
+                  </physdesc>
+                  <dao linktype="simple"
+                       actuate="onrequest"
+                       title="Publications"
+                       role="Mixed Material"
+                       href="http://purl.stanford.edu/nv877pw2898"
+                       show="new">
+                     <daodesc>
+                        <p>Publications</p>
+                     </daodesc>
+                  </dao>
+               </did>
+               <scopecontent>
+                  <p>PDFs of most of Hellman's published papers. The numbered entries correspond to the 
+                            <extref href="http://www-ee.stanford.edu/~hellman/publications.html"
+                             linktype="simple"
+                             actuate="onrequest"
+                             show="new">publications page</extref> on his website.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref97" level="file">
+               <did>
+                  <unittitle>Breakthrough History</unittitle>
+                  <unitdate>1986 Feb</unitdate>
+                  <physdesc>
+                     <extent>5 computer file(s)</extent>
+                  </physdesc>
+                  <dao linktype="simple"
+                       actuate="onrequest"
+                       title="Breakthrough History"
+                       role="Image-Master"
+                       href="http://purl.stanford.edu/qz293fm9983"
+                       show="new">
+                     <daodesc>
+                        <p>Breakthrough History</p>
+                     </daodesc>
+                  </dao>
+               </did>
+               <scopecontent>
+                  <p>Images of a telegram and a telex, with crops of those showing the most important parts.</p>
+                  <p>Notes from Martin Hellman:</p>
+                  <p>860205 telegram.tiff 860205 telegram.tiff is a February 5, 1986 telegram from Andrei Kokoshin and another Soviet (Oznobistchev) whom I don't remember. Andrei was one of Evgeny Velikhov's Deputies -- and Velikhov was a VP of the Soviet Academy of Sciences, and later Gorbachev's Science Advisor. When we tried to meet with Velikhov in the Fall of 1984, he had us meet with Kokoshin instead. Later Kokoshin was a high level official in the Russian Ministry of Defense. When we worked with him, he was at the Academy of Science's Institute on USA and Canada, often known as IUSA. The telegram refers to "OUR COMMON WORKING MEETING IN SPRING ... NOT EARLIER THAN APRIL" In fact, that meeting did not take place until April 1987 (see picture caption on page 268 of the book). That was probably just as well since Gorbachev was not able to lift censorship until the Fall of 1986, so the earlier meeting date would have been severely hampered. In contrast, by April 1987 we were able to have totally unfettered discussions with the Soviets, with no limitations. There was a real discontinuity in late 1986.</p>
+                  <p>That telegram also refers to their "HAVE NOT GOT TELEX." Earlier, we had to use telegrams at about $0.25 per word to communicate in both directions, but by February 1986, Beyond War had obtained a CP/M program which allowed us to use a personal computer as a telex machine at roughly 1/10 the cost per word of telegrams. While the Soviets could receive our telexes, they could not send and had to use telegrams still.</p>
+                  <p>860225 telex.tiff is our reply to that telegram. A few words in the second paragraph are hard to read so here they are, "We have begun work based on the Draft Memorandum of Understanding which we formulated ...".</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref98" level="file">
+               <did>
+                  <unittitle>Cryptography History</unittitle>
+                  <physdesc>
+                     <extent>38 computer file(s)</extent>
+                  </physdesc>
+                  <dao linktype="simple"
+                       actuate="onrequest"
+                       title="Cryptography History"
+                       role="Mixed Material"
+                       href="http://purl.stanford.edu/wg115cn5068"
+                       show="new">
+                     <daodesc>
+                        <p>Cryptography History</p>
+                     </daodesc>
+                  </dao>
+               </did>
+               <scopecontent>
+                  <p>Notes from Martin Hellman:</p>
+                  <p>_Autobiography FrameMaker folder has a ReadMe.txt which explains what's there. I mostly included it for Chapter 1, which details my meeting with John Schwartz concerning the Meyer letter.</p>
+                  <p>Crypto History/1976 1110 cryptanalysis of DES.pdf has a scan of what I've called "the Lexar Report," except this is the Stanford version which we had to wait a few months to release for the reasons mentioned in my verbal comments when you were here.</p>
+                  <p>Crypto History/1977 0707 Meyer letter folder has files related to Meyer's letter sent to the IEEE, including that letter.</p>
+                  <p>Crypto History/1978 0703 TIME article has the July 3, 1978 
+                            <title render="italic" linktype="simple">TIME</title> article in both scanned and text versions The text version is in Pages, a Mac word processor.</p>
+                  <p>Crypto History/IBM folder has correspondence between me and IBM when I was trying to get IBM to help increase the key size of DES.</p>
+                  <p>Crypto History/Inman folder has Bob Inman's 1980 handwritten letter to me.</p>
+                  <p>Crypto History/NBS folder has several files related to my interactions with NBS over DES' key size.</p>
+                  <p>Crypto History/Science Magazine articles folder has several articles from 
+                            <title render="italic" linktype="simple">Science</title> magazine related to my work. I own no rights to those articles since I did not write them.</p>
+                  <p>Inman letter--Note of context from Professor Hellman (2014 May 29):</p>
+                  <p>I visited Inman at NSA a few weeks before this broke in the summer of 1980.</p>
+                  <p>The affair broke for me when I got a call from Gina Kolata telling me that Len Adleman had gotten a call or letter from NSF telling him that they could not fund a research proposal because NSA maintained they had a monopoly on government funding of crypto research. I told Gina that I had just had a meeting with Inman and either I'd been lied to or there was a serious misunderstanding, with the latter being my guess. I called Inman and told him what Gina had told me. He responded that someone had gotten the message terribly garbled, that Adleman was supposed to have been told that NSA would like to fund his work, not that NSF could not. I offered to suggest that Gina call him, and he heartily agreed. Gina did call Inman, but the story she ran in Science magazine stuck to the original version. Later conversations with the grant maker at NSF (Weingarten I believe) led me to believe that Inman's intent was not conveyed by lower level individuals at NSA, who rather took the old, high handed approach. So, both Gina's story and Inman's unhappiness at being misunderstood (expressed in his letter) may be well grounded, even though at first they appear mutually exclusive.</p>
+                  <p>My arguments about a compulsory system not working, and NSA needing the good will of the academic researchers must have won out, because he assured me that a voluntary system would be used instead. And that, in general, NSA would take a less confrontational approach.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref99" level="file">
+               <did>
+                  <unittitle>
+                     <persname>Merkle, Ralph C.</persname>
+                  </unittitle>
+                  <unitdate>1974-</unitdate>
+                  <physdesc>
+                     <extent>17 computer file(s)</extent>
+                  </physdesc>
+                  <dao linktype="simple"
+                       actuate="onrequest"
+                       title="Merkle, Ralph C."
+                       role="Mixed Material"
+                       href="http://purl.stanford.edu/vd451wn0300"
+                       show="new">
+                     <daodesc>
+                        <p>Merkle, Ralph C., 1974- </p>
+                     </daodesc>
+                  </dao>
+               </did>
+            </c02>
+            <c02 id="ref93" level="file">
+               <did>
+                  <unittitle>Autobiography, Chapter 1</unittitle>
+                  <physdesc>
+                     <extent>1 computer file(s) (PDF)</extent>
+                  </physdesc>
+                  <dao linktype="simple"
+                       actuate="onrequest"
+                       title="Autobiography, Chapter 1"
+                       role="Mixed Material"
+                       href="http://purl.stanford.edu/kq639bj2341"
+                       show="new">
+                     <daodesc>
+                        <p>Autobiography, Chapter 1</p>
+                     </daodesc>
+                  </dao>
+               </did>
+               <scopecontent>
+                  <p>Chapter from uncompleted memoir describing Hellman's interaction with John Schwartz and what happened at the 1977 symposium. This relates to the Meyer file. It was written about 20 years ago in a now obsolete word processor, and was translated into Word.</p>
+               </scopecontent>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,1184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[Ephraim Douglass Adams papers])//EN"
+             identifier="ark:/13030/tf3489n6dq">sc0142.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Ephraim Douglass Adams Papers
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Adams (Ephraim Douglass) Papers</titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2000">2000</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC0142</unitid>
+         <origination label="Creator:">
+            <persname rules="aacr" source="ingest">Adams, Ephraim Douglass, 1865-1930.</persname>
+         </origination>
+         <unittitle label="Title:">Ephraim Douglass Adams papers</unittitle>
+         <unitdate normal="1730/1931"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1730-1931</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>7.25 Linear feet</extent>
+         </physdesc>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <descgrp type="provenance" id="prov">
+            <head>Provenance</head>
+            <custodhist id="ref6">
+               <p>Gift of James D. Adams, 1975, 1981.</p>
+            </custodhist>
+         </descgrp>
+         <accessrestrict id="ref2">
+            <head>Information about Access</head>
+            <p>None.</p>
+         </accessrestrict>
+         <userestrict id="ref4">
+            <head>Ownership &amp; Copyright</head>
+            <p>Property rights reside with the repository. Literary rights reside with the creators of the documents or their heirs. To obtain permission to publish or reproduce, please contact the Public Services Librarian of the Dept. of Special Collections and University Archives.</p>
+         </userestrict>
+         <prefercite id="ref8">
+            <head>Cite As</head>
+            <p>[Identification of item], Ephraim Douglass Adams Papers (SC0142). Department of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <bioghist id="ref10">
+         <head>Biographical Note</head>
+         <p>Ephraim Douglass Adams was born in Decorah, Iowa, on December 18, 1865. Adams attended Grinnell College and graduated from the University of Michigan in 1887, receiving a doctorate in 1890. He became principal of the high school in McGregor, Iowa, in 1887-88, and after his graduate work he served in Washington on the staff of the Eleventh Census, 1890-91. He then joined the history department of the University of Kansas, and eventually became professor of European History, resigning to accept an appointment at Stanford in 1902.</p>
+         <p>Professor Adams taught European history for his first six years at Stanford, but in 1908, with the reorganization of the department, he took over recent American history, and especially British-American relations. Adams also became head of the department in 1908 and served in that capacity until 1922.</p>
+         <p>Adams' published works include The Control of the Purse in the United States Government (1894), The Influence of Grenville on Pitt's Foreign Policy (1904), British Interests and Activities in Texas (1910), The Power of Ideals in American History (1913), Great Britain and the American Civil War (1925).</p>
+         <p>Adams was collaborating with Charles Francis Adams, Jr. on the 
+                <title render="italic" linktype="simple">Life of Charles Adams, </title>Sr., at the time of Charles Francis Adams, Jr.'s death in 1915. When E.D. Adams used some of the research materials gathered for this biography in his work 
+                <title render="italic" linktype="simple">Great Britain and the American Civil War </title>it led to a major controversy (here called the Ford Controvery) with Worthington C. Ford, President of the Massachusetts Historical Society.</p>
+         <p>When Herbert Hoover assumed the direction of the wide-reaching operation of Belgian relief, Adams called to his attention the importance of preserving all the significant records of his administration. From this correspondence arose the project a War Library. Professor Adams directed the acquisition of materials throughout Europe after the war; these papers formed the original collections in the new Hoover War Library (later renamed the Hoover Institution on War, Revolution, and Peace).</p>
+         <p>Adams died of pneumonia on September 1, 1930.</p>
+      </bioghist>
+      <scopecontent id="ref14">
+         <head>Scope and Content Note</head>
+         <p>The E.D. Adams Papers, dating from 1730 to 1931 (1900-1931 bulk), include correspondence, manuscripts and typescripts of some of Adams' writings, research materials, and a small amount of Stanford administrative records. The correspondence is arranged chronologically, but the letters for the years 1929 and 1930 are arranged alphabetically by correspondent.</p>
+         <p>The Adams papers contain a substantial amount of correspondence concerning the Stanford History Department and the Hoover War Library. Adams' correspondence with Hoover touches on other university matters also, such as the tenure system and the Stanford Union.</p>
+         <p>The Adams papers also include correspondence pertaining to the establishment of the National Archives (J. Franklin Jameson).</p>
+         <p>E.D. Adams was collaborating with Charles Francis Adams, Jr., on 
+                <title render="italic" linktype="simple">The Life of Charles Francis Adams, </title>Sr. at the time of C.F. Adams, Jr. 's death in 1915. When E.D. Adams used some of the research materials gathered for this biography in his work 
+                <title render="italic" linktype="simple">Great Britain and the American Civil War </title>it led to a major controversy (here called the Ford Controversy) with Worthington C. Ford, President of the Massachusetts Historical Society. E.D. Adam's documentation of this dispute has been separated into its own series, the Ford Controversy.</p>
+         <p>Major correspondents include the following: 
+                <list>
+               <item>Charles Francis Adams, Jr.</item>
+               <item>Nina Almond</item>
+               <item>American Historical Association</item>
+               <item>Max Farrand</item>
+               <item>Worthington C. Ford</item>
+               <item>Herbert C. Hoover</item>
+               <item>Lou Henry Hoover</item>
+               <item>J. Franklin Jameson</item>
+               <item>H. Barrett Learned</item>
+               <item>Sir charles Lucas</item>
+               <item>Ralph Lutz</item>
+               <item>Edgar E. Robinson</item>
+               <item>Lady Agatha Russell</item>
+               <item>Ray Lyman Wilbur</item>
+               <item>Frederick Jackson Turner</item>
+            </list>
+         </p>
+      </scopecontent>
+      <arrangement id="ref16">
+         <head>Outline of Arrangement</head>
+         <p>Correspondence Boxes 1 - 2</p>
+         <p>Publications Boxes 3 - 7</p>
+         <p>Ford Controversy Boxes7 - 8</p>
+         <p>Miscellaneous Box 8</p>
+         <p>Administrative Records Box 9</p>
+      </arrangement>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <persname rules="aacr" source="ingest" role=" ">Adams, Charles Francis, 1835-1915</persname>
+         <persname rules="aacr" source="ingest" role=" ">Adams, Elisabeth Douglass.</persname>
+         <persname rules="aacr" source="ingest" role=" ">Adams, Ephraim Douglass, 1865-1930.</persname>
+         <persname rules="aacr" source="ingest" role=" ">Adams, Ephraim, 1818-1907.</persname>
+         <persname rules="aacr" source="ingest" role=" ">Almond, Nina.</persname>
+         <corpname rules="dacs" source="ingest" role=" ">American Historical Association</corpname>
+         <persname rules="aacr" source="ingest" role=" ">Farrand, Max, 1869-1945.</persname>
+         <persname rules="aacr" source="ingest" role=" ">Fester, Ruth.</persname>
+         <persname rules="aacr" source="ingest" role=" ">Ford, Worthington C.</persname>
+         <corpname rules="dacs" source="naf" role=" ">Hoover Institution on War, Revolution, and Peace</corpname>
+         <persname rules="aacr" source="naf" role=" ">Hoover, Herbert, 1874-1964</persname>
+         <persname rules="aacr" source="ingest" role=" ">Hoover, Lou Henry, 1874-1944.</persname>
+         <persname rules="aacr" source="ingest" role=" ">Jameson, J. Franklin,  (John Franklin), 1859-1937.</persname>
+         <persname rules="aacr" source="ingest" role=" ">Learned, H. Barrett.</persname>
+         <persname rules="aacr" source="ingest" role=" ">Lucas, Charles Prestwood,, Sir,, 1853-1931.</persname>
+         <persname rules="aacr" source="ingest" role=" ">Lutz, Ralph Haswell, 1886-1968.</persname>
+         <corpname rules="dacs" source="ingest" role=" ">Massachusetts Historical Society..</corpname>
+         <corpname rules="dacs" source="ingest" role=" ">National Archives (U.S.).</corpname>
+         <persname rules="aacr" source="ingest" role=" ">Ritchey, Lawrence.</persname>
+         <persname rules="aacr" source="ingest" role=" ">Robinson, Edgar E.</persname>
+         <persname rules="aacr" source="ingest" role=" ">Russell, Agatha,, Lady.</persname>
+         <corpname rules="dacs" source="ingest" role=" ">Stanford University. Department of History. -- General subdivision--Faculty.; </corpname>
+         <corpname rules="dacs" source="ingest" role=" ">Stanford University. Stanford Union.</corpname>
+         <persname rules="aacr" source="naf" role=" ">Treat, Payson J. (Payson Jackson), 1879-1972</persname>
+         <persname rules="aacr" source="ingest" role=" ">Turner, Frederick Jackson, 1861-1932.</persname>
+         <persname rules="aacr" source="naf" role=" ">Wilbur, Ray L.,  (Ray Lyman), 1875-1949</persname>
+         <subject source="lcsh">College teachers--Tenure--California--Stanford.</subject>
+         <genreform source="aat">Manuscripts (for publication).</genreform>
+         <genreform source="ftamc.">Notes.</genreform>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.7">
+         <head>Collection Contents</head>
+         <c01 id="ref17" level="series">
+            <did>
+               <unittitle>Correspondence</unittitle>
+               <unitdate>1900-1930</unitdate>
+            </did>
+            <c02 id="ref18" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">1</container>
+                  <unittitle/>
+                  <unitdate>1900-1907</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref19" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">2</container>
+                  <unittitle/>
+                  <unitdate>1908</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref20" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">3</container>
+                  <unittitle/>
+                  <unitdate>1909-1910</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref21" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">4</container>
+                  <unittitle/>
+                  <unitdate>1911</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref22" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">5</container>
+                  <unittitle/>
+                  <unitdate>Jan-Oct 1912</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref23" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">6</container>
+                  <unittitle/>
+                  <unitdate>Nov-Dec 1912</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref24" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">7</container>
+                  <unittitle/>
+                  <unitdate>1913</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref25" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">8</container>
+                  <unittitle/>
+                  <unitdate>Jan-Sep 1914</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref26" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">9</container>
+                  <unittitle/>
+                  <unitdate>Oct-Dec 1914</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref27" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">10</container>
+                  <unittitle/>
+                  <unitdate>Jan-Jun 1915</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref28" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">11</container>
+                  <unittitle/>
+                  <unitdate>Jul-Dec 1915</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref29" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">12</container>
+                  <unittitle/>
+                  <unitdate>1916</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref30" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">13</container>
+                  <unittitle/>
+                  <unitdate>1917</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref31" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">14</container>
+                  <unittitle/>
+                  <unitdate>1918-1920</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref32" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">1</container>
+                  <unittitle/>
+                  <unitdate>1921-1922</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref33" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">2</container>
+                  <unittitle/>
+                  <unitdate>1923</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref34" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">3</container>
+                  <unittitle/>
+                  <unitdate>1924</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref35" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">4</container>
+                  <unittitle/>
+                  <unitdate>1925</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref36" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">5</container>
+                  <unittitle/>
+                  <unitdate>1926</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref37" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">6</container>
+                  <unittitle/>
+                  <unitdate>1927-1928</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref38" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">7</container>
+                  <unittitle>A-H</unittitle>
+                  <unitdate>1929</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref39" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">8</container>
+                  <unittitle>J-P</unittitle>
+                  <unitdate>1929</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref40" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">9</container>
+                  <unittitle>R-W</unittitle>
+                  <unitdate>1929</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref41" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">10</container>
+                  <unittitle>A-B</unittitle>
+                  <unitdate>1930</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref42" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">11</container>
+                  <unittitle>C-G</unittitle>
+                  <unitdate>1930</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref43" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">12</container>
+                  <unittitle>H</unittitle>
+                  <unitdate>1930</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref44" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">13</container>
+                  <unittitle>H-J</unittitle>
+                  <unitdate>1930</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref45" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">14</container>
+                  <unittitle>M-R</unittitle>
+                  <unitdate>1930</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref46" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">15</container>
+                  <unittitle>S-W</unittitle>
+                  <unitdate>1930</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref47" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">16</container>
+                  <unittitle/>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref48" level="series">
+            <did>
+               <unittitle>Publications</unittitle>
+            </did>
+            <c02 id="ref49" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic" linktype="simple">Our United States of America </title>
+                  </unittitle>
+               </did>
+               <c03 id="ref50" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Outline of story,</unittitle>
+                     <physdesc>
+                        <extent>manuscript and typescript</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref51" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Chapter 1,</unittitle>
+                     <physdesc>
+                        <extent>ms. and typescript</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref52" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Chapter 2,</unittitle>
+                     <physdesc>
+                        <extent>ms. and typescript</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref53" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Chapter 3,</unittitle>
+                     <physdesc>
+                        <extent>typescript</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref54" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Chapter 4,</unittitle>
+                     <physdesc>
+                        <extent>ms. and typescript</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref55" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Chapter 5,</unittitle>
+                     <physdesc>
+                        <extent>ms. and typescript</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref56" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Chapter 6,</unittitle>
+                     <physdesc>
+                        <extent>ms. and typescript</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref57" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Chapter 7,</unittitle>
+                     <physdesc>
+                        <extent>ms. and typescript</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref58" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Chapter 8,</unittitle>
+                     <physdesc>
+                        <extent>ms. and typescript</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref59" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">10</container>
+                     <unittitle>Chapter 9,</unittitle>
+                     <physdesc>
+                        <extent>ms. and typescript</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref60" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Chapter 10,</unittitle>
+                     <physdesc>
+                        <extent>ms. and typescript</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref61" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">12</container>
+                     <unittitle>Chapter 11,</unittitle>
+                     <physdesc>
+                        <extent>ms. and typescript</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref62" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">13</container>
+                     <unittitle>Chapter 12,</unittitle>
+                     <physdesc>
+                        <extent>ms. and typescript</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref63" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Chapter 13,</unittitle>
+                     <physdesc>
+                        <extent>ms. and typescript</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref64" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Chapter 14,</unittitle>
+                     <physdesc>
+                        <extent>ms. and typescript</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref65" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Chapter 15,</unittitle>
+                     <physdesc>
+                        <extent>ms. and typescript</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref66" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Chapter 16,</unittitle>
+                     <physdesc>
+                        <extent>ms. and typescript</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref67" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Chapter 17,</unittitle>
+                     <physdesc>
+                        <extent>ms. and typescript</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref68" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Chapter 18,</unittitle>
+                     <physdesc>
+                        <extent>ms. and typescript</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref69" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Chapter 19,</unittitle>
+                     <physdesc>
+                        <extent>ms. and typescript</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref70" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Chapter 20,</unittitle>
+                     <physdesc>
+                        <extent>ms. and typescript</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref71" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Chapter 21,</unittitle>
+                     <physdesc>
+                        <extent>ms. and typescript</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref72" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">10</container>
+                     <unittitle>Chapter 22,</unittitle>
+                     <physdesc>
+                        <extent>ms. and typescript</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref73" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Chapter 23,</unittitle>
+                     <physdesc>
+                        <extent>ms. and typescript</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref74" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">12</container>
+                     <unittitle>Chapter 24,</unittitle>
+                     <physdesc>
+                        <extent>ms. and typescript</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref75" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">13</container>
+                     <unittitle>Chapter 25,</unittitle>
+                     <physdesc>
+                        <extent>ms. and typescript</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref76" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">14</container>
+                     <unittitle>Chapter 26,</unittitle>
+                     <physdesc>
+                        <extent>ms. and typescript</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref77" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">15</container>
+                     <unittitle>Chapter 27,</unittitle>
+                     <physdesc>
+                        <extent>ms. and typescript</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref78" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Chapter 28,</unittitle>
+                     <physdesc>
+                        <extent>ms. and typescript</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref79" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Chapter 29,</unittitle>
+                     <physdesc>
+                        <extent>ms. and typescript</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref80" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Chapter 30,</unittitle>
+                     <physdesc>
+                        <extent>ms.</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref81" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Chapter 31,</unittitle>
+                     <physdesc>
+                        <extent>ms. and typescript</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref82" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Teacher's Manual</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref83" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Teacher's Manual</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref84" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Teacher's Manual</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref85" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Notes, manual of illustrations</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref86" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Notes, manual of illustrations</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref87" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic" linktype="simple">Great Britain and the American Civil War </title>
+                  </unittitle>
+               </did>
+               <c03 id="ref88" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">10</container>
+                     <unittitle>Vol. I, galley</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref89" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Vol. II, galley</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref90" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">12</container>
+                     <unittitle>Notes</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref91" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">13</container>
+                     <unittitle>Illustrations</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref92" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">14</container>
+                     <unittitle>Reviews</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref93" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <unittitle>Part I,</unittitle>
+                     <physdesc>
+                        <extent>typescript [bound]</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref94" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <unittitle>Part II,</unittitle>
+                     <physdesc>
+                        <extent>typescript [bound]</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref95" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <unittitle>Part III,</unittitle>
+                     <physdesc>
+                        <extent>typescript [bound]</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref96" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic" linktype="simple">Life of Charles Francis Adams </title>
+                  </unittitle>
+               </did>
+               <c03 id="ref97" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Vol. I, editing notes</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref98" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Vol. II, chapters 1, 3</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref99" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Vol. II, chapters 7, 16, 17</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref100" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Vol. II, chapters 18, 19</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref101" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Vol. II, chapter 20</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref102" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Vol. II, chapter 21</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref103" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Vol. II, chapter 22</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref104" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Vol. II, chapter 23, 24</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref105" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Correspondence with Charles Francis Adams,</unittitle>
+                     <unitdate>Jan-Mar 1914</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref106" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">10</container>
+                     <unittitle>Correspondence with Charles Francis Adams,</unittitle>
+                     <unitdate>Apr-Jun 1914</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref107" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Correspondence with Charles Francis Adams,</unittitle>
+                     <unitdate>Jul-Dec 1914</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref108" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">12</container>
+                  <unittitle>
+                     <title render="italic" linktype="simple">Why We Are at War With Germany, </title>
+                  </unittitle>
+                  <unitdate>circa 1917</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref109" level="series">
+            <did>
+               <unittitle>Ford Controversy</unittitle>
+            </did>
+            <c02 id="ref110" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Correspondence with Learned and Jameson,</unittitle>
+                  <unitdate>1925</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref111" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Material sent to Learned and Jameson from Adams</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref112" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">15</container>
+                  <unittitle>Correspondence re the question of collaboration and pledge to Charles Francis Adams,</unittitle>
+                  <unitdate>circa 1913-1915</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref113" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">16</container>
+                  <unittitle>Analysis of correspondence with Charles Francis Adams and Worthington C. Ford on 
+                            <title render="italic" linktype="simple">The Life of Charles Francis Adams </title>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref114" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Research materials used for 
+                            <title render="italic" linktype="simple">The Life of Charles Francis Adams </title>held by E.D. Adams</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref115" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Lange's Biographical Notes used by Adams for 
+                            <title render="italic" linktype="simple">The Life of Charles Francis Adams </title>
+                  </unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref116" level="series">
+            <did>
+               <unittitle>Miscellaneous</unittitle>
+            </did>
+            <c02 id="ref117" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Bibliography of Adams' writings</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref118" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">4</container>
+                  <unittitle>
+                     <title render="italic" linktype="simple">A Collection of Letters of Ephraim and Elisabeth Douglass Adams. </title>Section 3. Edited by James Douglass Adams. Iowa Historical Society,</unittitle>
+                  <unitdate>1979</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref119" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">5</container>
+                  <unittitle>
+                     <title render="italic" linktype="simple">A Collection of Letters of Ephraim and Elisabeth Douglass Adams. </title>Section 4. Edited by James Douglass Adams. Iowa Historical Society,</unittitle>
+                  <unitdate>1979</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref120" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Hoover, Herbert. Recollections of Herbert Hoover by E.D. Adams</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref121" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Hoover, Herbert. Clippings</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref122" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Lewis, Mrs. John. Diary, [Adams' typescript transcription]</unittitle>
+                  <unitdate>1730-1775</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref123" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Lecture on the Monroe Doctrine</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref124" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Patrick, M.R. Diary, 15 Oct. 1846 - 26 March 1848 [Adams' typescript transciption]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref125" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Patrick, M.R. Diary,</unittitle>
+                  <unitdate>Jan-31 May 1862</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref126" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Patrick, M.R. Diary,</unittitle>
+                  <unitdate>Jun-15 Sep 1862</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref127" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Patrick, M.R. Diary,</unittitle>
+                  <unitdate>15 Sep-25 Dec 1862</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref128" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Patrick, M.R. Diary,</unittitle>
+                  <unitdate>26 Dec 1862-5 May 1863</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref129" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">15</container>
+                  <unittitle>A Personal Reaction to the Great War,</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref130" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">16</container>
+                  <unittitle>Notes, miscellaneous</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref131" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">17</container>
+                  <unittitle>Notes, miscellaneous</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref132" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">18</container>
+                  <unittitle>Reviews: - 
+                            <title render="italic" linktype="simple">Autobiography of Charles Francis Adams, Jr. </title>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref133" level="file">
+               <did>
+                  <unittitle>Reviews - 
+                            <title render="italic" linktype="simple">Rivalry of the United States and Great Britain over Latin America </title>by J.F. Rippy</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref134" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">19</container>
+                  <unittitle>Will,</unittitle>
+                  <unitdate>1907</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref135" level="series">
+            <did>
+               <unittitle>Administrative Records</unittitle>
+            </did>
+            <c02 id="ref136" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Faculty and Council Rules, Admissions requirements [also includes Adams' book list]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref137" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Suggested Plan of Policy for the Reorganization and Development of Stanford University,</unittitle>
+                  <unitdate>1909</unitdate>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+      <odd id="ref12" type="appendix">
+         <head>General note</head>
+         <p>(Taken in part from Payson Treat's A Tribute to Friend and Scholar, 
+                <title render="italic" linktype="simple">Stanford Illustrated Review, </title>10/30)</p>
+      </odd>
+   </archdesc>
+</ead>

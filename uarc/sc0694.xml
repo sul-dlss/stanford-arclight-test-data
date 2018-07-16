@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[Helen de Camp Gourlay papers])//EN"
+             identifier="ark:/13030/kt9t1nf7j5">sc0694.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Helen de Camp Gourlay Papers
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Gourlay (Helen de Camp) Papers</titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2010-10">October 2010</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC0694</unitid>
+         <origination label="Creator:">
+            <persname rules="aacr" source="ingest">Gourlay, Helen de Camp.</persname>
+         </origination>
+         <unittitle label="Title:">Helen de Camp Gourlay papers</unittitle>
+         <unitdate normal="1913/1917"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1913-1917</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>1 Linear feet</extent>
+         </physdesc>
+         <abstract label="Summary:">This collection contains course syllabi, notes, and exams from classes de Camp took at Pomona College, mostly philosophy and sociology, and at Stanford, primarily economics. Two of her Stanford courses were taught by Prof. Yamato Ichihashi (population and immigration). Other Stanford instructors were Margaret M. Lothrop (social agencies) and Wilfred Eldred (marketing).</abstract>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <accessrestrict id="ref3">
+            <head>Information about Access</head>
+            <p>This collection is open for research.</p>
+         </accessrestrict>
+         <userestrict id="ref4">
+            <head>Ownership &amp; Copyright</head>
+            <p>All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Special Collections and University Archives, Stanford University Libraries, Stanford, California 94304-6064. Consent is given on behalf of Special Collections as the owner of the physical items and is not intended to include or imply permission from the copyright owner. Such permission must be obtained from the copyright owner, heir(s) or assigns. See: http://library.stanford.edu/depts/spc/pubserv/permissions.html.</p>
+            <p>Restrictions also apply to digital representations of the original materials. Use of digital files is restricted to research and educational purposes.</p>
+         </userestrict>
+         <prefercite id="ref5">
+            <head>Cite As</head>
+            <p>Helen de Camp Gourlay Papers (SC0694). Dept. of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <bioghist id="ref6">
+         <head>Biographical/Historical Sketch</head>
+         <p>Helen de Camp [Mrs. J. B. Gourlay] attended Stanford University during the 1916-17 school year, taking graduate classes in economics. She earned her a.b. at Pomona College in 1915.</p>
+      </bioghist>
+      <scopecontent id="ref7">
+         <head>Description of the Collection</head>
+         <p>This collection contains course syllabi, notes, and exams from classes de Camp took at Pomona College, mostly philosophy and sociology, and at Stanford, primarily economics. Two of her Stanford courses were taught by Prof. Yamato Ichihashi (population and immigration). Other Stanford instructors were Margaret M. Lothrop (social agencies) and Wilfred Eldred (marketing).</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <persname rules="aacr" source="ingest">Eldred, Wilfred, 1888?-1978.</persname>
+         <persname rules="aacr" source="ingest">Gourlay, Helen de Camp.</persname>
+         <persname rules="aacr" source="naf">Ichihashi, Yamato</persname>
+         <persname rules="aacr" source="ingest">Lothrop, Margaret Mulford, 1884-</persname>
+         <corpname rules="dacs" source="ingest">Pomona College (Claremont, Calif.)--Students.</corpname>
+         <subject source="LCSH">Economics--Study and teaching.</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.6">
+         <head>Collection Contents</head>
+         <c01 id="ref8" level="series">
+            <did>
+               <unittitle>Pomona College papers</unittitle>
+            </did>
+            <c02 id="ref9" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">1</container>
+                  <unittitle>"The Debt of the Public School to the Backward Child"</unittitle>
+                  <unitdate>1913</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref10" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">2</container>
+                  <unittitle>"Philosophy of Loyalty--Josiah Royce"</unittitle>
+                  <unitdate>circa 1914</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref11" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">3</container>
+                  <unittitle>"Plato's Idea of the Good"</unittitle>
+                  <unitdate>1914</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref12" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">4</container>
+                  <unittitle>"Social Settlement Teaching"</unittitle>
+                  <unitdate>1914</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref13" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Book reviews</unittitle>
+                  <unitdate>1914-1915</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref14" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Assorted notes (mostly on art and architecture) from Pomona College</unittitle>
+                  <unitdate>1915</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref15" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Applied Sociology--Economic and Social Societies, notes</unittitle>
+                  <unitdate>1915</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref16" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">8</container>
+                  <unittitle>"God, Freedom and Immortality--Immanuel Kant"</unittitle>
+                  <unitdate>1915</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref17" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">9</container>
+                  <unittitle>"The Hebrews in their old Houses. The second report."</unittitle>
+                  <unitdate>1915</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref18" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">10</container>
+                  <unittitle>"The Jewish Immigrant"</unittitle>
+                  <unitdate>1915</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref19" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">11</container>
+                  <unittitle>"Utilitarianism by John Stuart Mill"</unittitle>
+                  <unitdate>1915</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref20" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Philosophy C25 class at Pomona, exam</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref21" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Psychology, city problems, notes</unittitle>
+                  <unitdate>no date</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref22" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Class notes, assorted</unittitle>
+                  <unitdate>1915</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref23" level="series">
+            <did>
+               <unittitle>Stanford University papers</unittitle>
+            </did>
+            <c02 id="ref24" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Economics 63b, History of Economic Thought in the U.S., syllabus (from the 1915-16 year)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref25" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Economics 2, Political Science, syllabus and notes</unittitle>
+                  <unitdate>1916</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref26" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Economics 2, Political Science, paper and exams</unittitle>
+                  <unitdate>1916</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref27" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Political Science notes</unittitle>
+                  <unitdate>1916</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref28" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Economics 53, Population, syllabus and notes</unittitle>
+                  <unitdate>1916</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref29" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Economics 53, Population, exams</unittitle>
+                  <unitdate>1916</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref30" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Economics 53, Population, notes</unittitle>
+                  <unitdate>1916</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref31" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Economics 23, Social Agencies, syllabus and notes</unittitle>
+                  <unitdate>1916</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref32" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Economics 23, Social Agencies, paper and exam</unittitle>
+                  <unitdate>1916</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref33" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Economics 23, Social Agencies, readings</unittitle>
+                  <unitdate>1916</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref34" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Economics 25, Marketing, syllabus and notes</unittitle>
+                  <unitdate>1917</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref35" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Economics 25, Marketing, exams</unittitle>
+                  <unitdate>1917</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref36" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Education 24, Adolescence, syllabus and notes</unittitle>
+                  <unitdate>1917</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref37" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Economics 54, Immigration and the Race Problem, syllabus and notes</unittitle>
+                  <unitdate>1917</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref38" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">15</container>
+                  <unittitle>Economics 54, Immigration and the Race Problem, exams</unittitle>
+                  <unitdate>1917</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref39" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">16</container>
+                  <unittitle>Notes, possibly from immigration class</unittitle>
+                  <unitdate>1917</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref40" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">17</container>
+                  <unittitle>Notes (societal evolution?)</unittitle>
+                  <unitdate>no date</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref41" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">19</container>
+                  <unittitle>Notes, various</unittitle>
+                  <unitdate>no date</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref42" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">20</container>
+                  <unittitle>Essays (or possibly quizzes)</unittitle>
+                  <unitdate>no date</unitdate>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

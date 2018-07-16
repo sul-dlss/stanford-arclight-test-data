@@ -1,0 +1,1486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[Arthur Garfield Kennedy papers])//EN"
+             identifier="ark:/13030/kt809nf9k3">sc0044.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Arthur Garfield Kennedy Papers
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Kennedy (Arthur Garfield) Papers</titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2010-10">October 2010</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC0044</unitid>
+         <origination label="Creator:">
+            <persname rules="aacr" source="ingest">Kennedy, Arthur Garfield, 1880-1954.</persname>
+         </origination>
+         <unittitle label="Title:">Arthur Garfield Kennedy papers</unittitle>
+         <unitdate normal="1903/1954"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1903-1954</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>13.5 Linear feet</extent>
+         </physdesc>
+         <abstract label="Summary:">Personal and professional correspondence, notes, reviews, notebooks, bibliography of writings on the English language, and other papers. Material relates to specific works of Dr. Kennedy on English philology and current use of English, Stanford University during World War II, scholarly groups to which Kennedy belonged, Stanford groups, and official Stanford agencies. Correspondents include Hardin Craig,, Helge Kökeritz, Lucia B. Mirrieless, Clark S. Northrup, Louise Pound, John S. P. Tatlock and Philip Sheridan.</abstract>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <descgrp type="provenance" id="prov">
+            <head>Provenance</head>
+            <acqinfo id="ref3">
+               <p>Gift of Kennedy family, 1968.</p>
+            </acqinfo>
+         </descgrp>
+         <accessrestrict id="ref4">
+            <head>Information about Access</head>
+            <p>This collection is open for research.</p>
+         </accessrestrict>
+         <userestrict id="ref5">
+            <head>Ownership &amp; Copyright</head>
+            <p>All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Special Collections and University Archives, Stanford University Libraries, Stanford, California 94304-6064. Consent is given on behalf of Special Collections as the owner of the physical items and is not intended to include or imply permission from the copyright owner. Such permission must be obtained from the copyright owner, heir(s) or assigns. See: http://library.stanford.edu/depts/spc/pubserv/permissions.html.</p>
+            <p>Restrictions also apply to digital representations of the original materials. Use of digital files is restricted to research and educational purposes.</p>
+         </userestrict>
+         <prefercite id="ref6">
+            <head>Cite As</head>
+            <p>Arthur Garfield Kennedy Papers (SC0044). Department of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <bioghist id="ref7">
+         <head>Biographical/Historical Sketch</head>
+         <p>Professor of English Philology at Stanford (1914-1945; emeritus 1945-1954) and Chairman of the English Department (1941-1945).</p>
+         <p>Arthur Garfield Kennedy was born on June 29, 1880, in Weeping Water, Nebraska. He received his A.B. from Doane College in 1902, and his A.M. degree from the University of Nebraska in 1905. He taught high school English and German until 1912 at which time he came to Stanford where he received his Ph.D. in English Philology in 1914. He began his career of teaching at Stanford in 1914 as an instructor, and advanced steadily in the department to the rank of Professor of English Philology in 1929. From 1941 until his retirement in 1945 he was executive head of the department. He died on April 21, 1954.</p>
+         <p>Dr. Kennedy's several books include a 
+                <title render="italic" linktype="simple">Bibliography of Writings on the English Language</title>(1927);
+                <title render="italic" linktype="simple">A Concordance to the Complete Works of Chaucer</title>, with J.S.P. Tatlock (1927); 
+                <title render="italic" linktype="simple">Current English</title> (1935); 
+                <title render="italic" linktype="simple">English Usage</title> (1940); and 
+                <title render="italic" linktype="simple">A Concise Bibliography for Students of English</title> (1940)</p>
+         <p>The contents of this collection consists primarily of Dr. Kennedy's correspondence with academic colleagues, though some personal letters are included. Of special interest is his wartime correspondence with Philip Sheridan, one of his graduate students, which contains accounts of Stanford and the English department during the war years. Also included in the collection are materials dealing with Dr. Kennedy's various published works, copie sof his earliest publications on grammar, some grade books from his years as a teacher, and copies of 
+                <title render="italic" linktype="simple">A concise Bibliography for Students of English</title> and 
+                <title render="italic" linktype="simple">Bibliography of Writings on the English Language</title>.</p>
+      </bioghist>
+      <scopecontent id="ref8">
+         <head>Description of the Collection</head>
+         <p>Personal and professional correspondence, notes, reviews, notebooks, bibliography of writings on the English language, and other papers. Material relates to specific works of Dr. Kennedy on English philology and current use of English, Stanford University during World War II, scholarly groups to which Kennedy belonged, Stanford groups, and official Stanford agencies. Correspondents include Hardin Craig,, Helge Kökeritz, Lucia B. Mirrieless, Clark S. Northrup, Louise Pound, John S. P. Tatlock and Philip Sheridan.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <persname rules="aacr" source="ingest">Craig, Hardin, 1875-1968.</persname>
+         <persname rules="aacr" source="ingest">Kennedy, Arthur Garfield, 1880-1954.</persname>
+         <persname rules="aacr" source="ingest">Kökeritz, Helge.</persname>
+         <persname rules="aacr" source="ingest">Mirrielees, Lucia B.</persname>
+         <persname rules="aacr" source="ingest">Northrup, Clark S.</persname>
+         <persname rules="aacr" source="ingest">Pound, Louise, 1872-1958.</persname>
+         <persname rules="aacr" source="ingest">Sheridan, Philip.</persname>
+         <corpname rules="dacs" source="ingest">Stanford University. Department of English. Faculty.</corpname>
+         <persname rules="aacr" source="ingest">Tatlock, John S. P.</persname>
+         <subject source="lcsh">English literature--Study and teaching.</subject>
+         <subject source="lcsh">World War, 1939-1945--California--Stanford. </subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.6">
+         <head>Collection Contents</head>
+         <c01 id="ref9" level="series">
+            <did>
+               <unittitle>Papers</unittitle>
+            </did>
+            <c02 id="ref10" level="file">
+               <did>
+                  <unittitle>Correspondence A – C. Includes among miscellaneous correspondence letters from:</unittitle>
+               </did>
+               <c03 id="ref11" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Ackermann, Robert W., 1947-50, re 
+                                <title render="italic" linktype="simple">An Index of Arthurian Names in Middle English</title>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref12" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Alden, Raymond and Donald, 1930-?</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref13" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Bailey, Margery re request for recommendations</unittitle>
+                     <unitdate>1920-1928</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref14" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Bonner, Willard D. re conditions in graduate department of English as that time</unittitle>
+                     <unitdate>1925</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref15" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Briggs, William D. and wife</unittitle>
+                     <unitdate>1928-1941</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref16" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Bryan, W. F., re bibliography of the English language</unittitle>
+                     <unitdate>1921-1927</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref17" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Burt, Thomas G. re Kennedy's membership in Phi Beta Kappa</unittitle>
+                     <unitdate>1926</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref18" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Carruth, W. H. including a report on the Chaucer dictionary</unittitle>
+                     <unitdate>1915-1919</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref19" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Craig, Hardin</unittitle>
+                     <unitdate>1922-1954</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref20" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Craigie, W. A.</unittitle>
+                     <unitdate>1925-1930</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref21" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Curry, Walter C.</unittitle>
+                     <unitdate>1927-1928</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref22" level="file">
+               <did>
+                  <unittitle>Correspondence D – G. Includes among miscellaneous correspondence letters from:</unittitle>
+               </did>
+               <c03 id="ref23" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Doane College</unittitle>
+                     <unitdate>1932-1949</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref24" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Elsasser, Albert</unittitle>
+                     <unitdate>1935-1941</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref25" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Farnham, O. E. re Rose Bowl</unittitle>
+                     <unitdate>1940</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref26" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Flügel, Felix re gift of his father's papers (see also, folder on Chaucer Concordance)</unittitle>
+                     <unitdate>1925-1932</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref27" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Greaves, John re spelling reform</unittitle>
+                     <unitdate>1949</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref28" level="file">
+               <did>
+                  <unittitle>Correspondence H – K. Includes among miscellaneous correspondence letters from:</unittitle>
+               </did>
+               <c03 id="ref29" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Hanley, Miles, L. re Hempl papers</unittitle>
+                     <unitdate>1937</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref30" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Harrer, Charlotte Forster</unittitle>
+                     <unitdate>1936, 1947</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref31" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Hartwig, George H.</unittitle>
+                     <unitdate>1934-1939</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref32" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Hoover, Herbert re faculty opinion at Stanford (2 letters)</unittitle>
+                     <unitdate>1941</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref33" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Ichikawa, Sanki re membership in English Literary society of Japan</unittitle>
+                     <unitdate>1936</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref34" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Jordan, Mrs. David Starr</unittitle>
+                     <unitdate>1929</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref35" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Kenyon, John S.</unittitle>
+                     <unitdate>1935-1939</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref36" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Kokeritz, Helge</unittitle>
+                     <unitdate>1939-1942</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref37" level="file">
+               <did>
+                  <unittitle>Correspondence L – P. Includes among miscellaneous correspondence letters from:</unittitle>
+               </did>
+               <c03 id="ref38" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Lindberg, J. C.</unittitle>
+                     <unitdate>1927</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref39" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Lipman, Charles B., Univ. of California re departmental rating</unittitle>
+                     <unitdate>1930</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref40" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Loomis, Roger S.</unittitle>
+                     <unitdate>1944</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref41" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Magoun, Francis P.</unittitle>
+                     <unitdate>1951</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref42" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Meritt, Herbert Dean re "Old English Glosses" report</unittitle>
+                     <unitdate>1942</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref43" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Mirrielees, Lucia B.</unittitle>
+                     <unitdate>1927-1950</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref44" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Northrup, Clark S. re Von Patten conflict (see also 
+                                <title render="italic" linktype="simple">Middle English Dictionary</title> folder)</unittitle>
+                     <unitdate>1925-1934</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref45" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Pound, Louise</unittitle>
+                     <unitdate>1928-1950</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref46" level="file">
+               <did>
+                  <unittitle>Correspondence R – S. Includes among miscellaneous correspondence letters from:</unittitle>
+               </did>
+               <c03 id="ref47" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Sato, Masaru</unittitle>
+                     <unitdate>1949-1952</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref48" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Shearin, Mrs. Hubert G. re Dr. Shearin's papers</unittitle>
+                     <unitdate>1930</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref49" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Stegner, Wallace</unittitle>
+                     <unitdate>1945</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref50" level="file">
+               <did>
+                  <unittitle>Correspondence, Philip Sheridan</unittitle>
+                  <unitdate>1943-1946</unitdate>
+               </did>
+               <c03 id="ref51" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Philip Sheridan was a graduate student of Prof. Kennedy whose studies were interrupted by World War II. Dr. Kennedy's letters deal extensively with Stanford, in general, and the Department of English, in particular, during the war years. (for more Sheridan material, see also SC 255 John McClelland Papers)</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref52" level="file">
+               <did>
+                  <unittitle>Correspondence T – Z. Includes among miscellaneous correspondence letters from:</unittitle>
+               </did>
+               <c03 id="ref53" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Tatlock, John S. P. (see also, folder on 
+                                <title render="italic" linktype="simple">Chaucer Concordance</title>)</unittitle>
+                     <unitdate>1915-1944</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref54" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Taylor, W. A. re academic standards for graduation</unittitle>
+                     <unitdate>1924-1932</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref55" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Tucker, Gilbert M.</unittitle>
+                     <unitdate>1923</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref56" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Vizetelly, Dr. Frank H., 1924-1926, re Funk and Wagnalls Dictionaries</unittitle>
+                     <unitdate>1924-1926</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref57" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Wintors, Ivor</unittitle>
+                     <unitdate>1940</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref58" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Zandvoort, R. W.</unittitle>
+                     <unitdate>1927-1933</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref59" level="file">
+               <did>
+                  <unittitle>Academic Associations, membership in and correspondence with:</unittitle>
+               </did>
+               <c03 id="ref60" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">8</container>
+                     <unittitle>American Association of University Professors</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref61" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">8</container>
+                     <unittitle>California Writers Club (see correspondence with Katharine Bennett)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref62" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Linquistic Society of America (see correspondence with Aurelio M. Espinosa)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref63" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Mediaeval Academy of America</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref64" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Middle English Language and Literature (see correspondence with A. C. Baugh)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref65" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Modern Language Association of America</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref66" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Phi Beta Kappa (see corespondence with Thomas G. Burt)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref67" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Simplified Spelling Association</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref68" level="file">
+               <did>
+                  <unittitle>Family affairs and correspondence:</unittitle>
+               </did>
+               <c03 id="ref69" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Letters, genelaogical references, family business</unittitle>
+                     <unitdate>1928-1953</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref70" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Also, Palo Alto concerns.</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref71" level="file">
+               <did>
+                  <unittitle>Office of the President, Stanford University, official correspondence with:</unittitle>
+               </did>
+               <c03 id="ref72" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">10</container>
+                     <unittitle>Administrative actions relating both to the English Department as a whole and to Dr. Kennedy in particular – salary, departmental organization, academic council, parking problems, etc., 1917-1953</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref73" level="file">
+               <did>
+                  <unittitle>Stanford Groups and Organizations, membership in and correspondence with:</unittitle>
+               </did>
+               <c03 id="ref74" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Academic Council</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref75" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Fellowhip Forum</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref76" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">11</container>
+                     <unittitle>The Research Club of Stanford University</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref77" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Residents Club of Palo Alto</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref78" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Stanford Faculty Club</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref79" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Stanford Library Association</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref80" level="file">
+               <did>
+                  <unittitle>American Speech:</unittitle>
+               </did>
+               <c03 id="ref81" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">12</container>
+                     <unittitle>
+                        <title render="italic" linktype="simple">American Speech</title> was a "quarterly of linguistic usage" to which Dr. Kennedy often contributed reveiws and articles. This folder contains correspondence with W. Cabell Greet, long-time editor of the magazine, material relating to the bibliography of 
+                                <title render="italic" linktype="simple">American Speech</title>, and other letters and material relating to the quarterly.</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref82" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic" linktype="simple">Bibliographical Guides for the Study of English</title>
+                  </unittitle>
+                  <unitdate>1931</unitdate>
+               </did>
+               <c03 id="ref83" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">13</container>
+                     <unittitle>Reviews, letters requesting copies, critical comments by colleagues</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref84" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">14</container>
+                  <unittitle>
+                     <title render="italic" linktype="simple">A Bibliography of Writings on the English Language</title>
+                  </unittitle>
+                  <unitdate>1927</unitdate>
+               </did>
+               <c03 id="ref85" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">14</container>
+                     <unittitle>Letters requesting copies, critical comments by colleagues</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref86" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic" linktype="simple">A Concise Bibliography for Students of English, Systematically Arranged</title>; 2nd ed, 3rd ed.:</unittitle>
+                  <unitdate>1940, 1954</unitdate>
+               </did>
+               <c03 id="ref87" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">15</container>
+                     <unittitle>Copy of "Forward," clipping of review, Kennedy's directions to the editor, notes involved in the 
+                                <title render="italic" linktype="simple">Bibliography</title>'s preparation, critical comments by colleagues</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref88" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic" linktype="simple">A Concordance to the Complete Works of Geoffrey Chaucer and to the Raumont of the Rose</title>:</unittitle>
+                  <unitdate>1927</unitdate>
+               </did>
+               <c03 id="ref89" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">16</container>
+                     <unittitle>Letter to the President of the Carnegie Institution (1916) on "history, present state, and prospects of the Chaucer concordance," correspondence with John S. P. Tatlock concerning the book, copy of "Instructions to collaborators," copy of "Chaucer research in progress in 1941," list of contents of various boxes of materials ready for printing</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref90" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic" linktype="simple">Current English</title>
+                  </unittitle>
+                  <unitdate>1935</unitdate>
+               </did>
+               <c03 id="ref91" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">17</container>
+                     <unittitle>Letters requesting copies, correspondence with the publisher, ciritical comments from colleagues</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref92" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic" linktype="simple">English Usage</title>
+                  </unittitle>
+                  <unitdate>1942</unitdate>
+               </did>
+               <c03 id="ref93" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">18</container>
+                     <unittitle>Notes involved in preparation of 
+                                <title render="italic" linktype="simple">English Usage</title>, correspondence with the publishers, critical comments from colleagues, clipping of a review of the book</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref94" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic" linktype="simple">The Middle English Dictionary</title>:</unittitle>
+               </did>
+               <c03 id="ref95" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">19</container>
+                     <unittitle>Correspondence with Clark Northrup, editor, and with others concerned in the publication; copy of "Observations concerning a standardized spelling for the main entries in the MED;" copy of "an announcement of the Middle English dictionary;" copy of the reprint, 
+                                <title render="italic" linktype="simple">The Middle English Dictionary, L-Laik</title>; minutes of the committee on the English Period Dictionaries</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref96" level="file">
+               <did>
+                  <unittitle>
+                     <title render="italic" linktype="simple">Thorndike-Barnhart Junior</title> and 
+                            <title render="italic" linktype="simple">Collegiate Dictionaries</title>:</unittitle>
+               </did>
+               <c03 id="ref97" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">20</container>
+                     <unittitle>Comments made by Kennedy in his capacity as a member of the editorial board, and other correspondence with the publisher</unittitle>
+                     <unitdate>1936-1942</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref98" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>J. C. Lindberg and A. G. Kennedy. 
+                            <title render="italic" linktype="simple">An Outline of English Grammar</title>, 1st and rev. eds</unittitle>
+                  <unitdate>1908, 1910</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref99" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>J. C. Lindberg and A. G. Kennedy. 
+                            <title render="italic" linktype="simple">English Grammar for Secondary Schools</title>, Parts I and II,</unittitle>
+                  <unitdate>1911</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref100" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Grade books from Dr. Kennedy's years as a teacher</unittitle>
+                  <unitdate>1903, 1906, 1909, 1938</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref101" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>A. G. Kennedy. 
+                            <title render="italic" linktype="simple">A Bibliography of Writings on the English Language</title>; from the beginnnings of printing to the end of 1922. Harvard University Press</unittitle>
+                  <unitdate>1927</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref102" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>A. G. Kennedy. 
+                            <title render="italic" linktype="simple">A Concise Bibliography for Students of English, Systematically Arranged</title>. Stanford University Press</unittitle>
+                  <unitdate>1940</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref103" level="file">
+               <did>
+                  <unittitle>Notebook #1, Volume I. Materials pertaining to 
+                            <title render="italic" linktype="simple">The Anglo-Saxon Reader</title>
+                  </unittitle>
+                  <unitdate>circa 1929</unitdate>
+               </did>
+               <c03 id="ref104" level="file">
+                  <did>
+                     <container type="Box">3A</container>
+                     <unittitle>Correspondence with George Philip Krapp, co-author of the 
+                                <title render="italic" linktype="simple">Anglo-Saxon Reader</title>
+                     </unittitle>
+                     <unitdate>1924-1930</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref105" level="file">
+                  <did>
+                     <container type="Box">3A</container>
+                     <unittitle>Correspondence with Henry Holt and Co., Inc.</unittitle>
+                     <unitdate>1927-1930</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref106" level="file">
+                  <did>
+                     <container type="Box">3A</container>
+                     <unittitle>critical comments and suggestions by academic colleagues</unittitle>
+                     <unitdate>undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref107" level="file">
+                  <did>
+                     <container type="Box">3A</container>
+                     <unittitle>Contents also include sample tables of contents, notes and plans used in organizations of the materials, examples of slips used in glossary, and tables of materials</unittitle>
+                     <unitdate>undated</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref108" level="file">
+               <did>
+                  <unittitle>Notebook #2, Volume I. Materials pertaining to 
+                            <title render="italic" linktype="simple">Bibliography of Writings on the English Language</title> c. 1927 (1st of 2 notebooks)</unittitle>
+                  <unitdate>1919-1925</unitdate>
+               </did>
+               <c03 id="ref109" level="file">
+                  <did>
+                     <container type="Box">3A</container>
+                     <unittitle>Correspondence with Harvard University Press and Yale University Press, joint publishers</unittitle>
+                     <unitdate>1924-1925</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref110" level="file">
+                  <did>
+                     <container type="Box">3A</container>
+                     <unittitle>Critical comments and suggestions by academic colleagues</unittitle>
+                     <unitdate>1919-1925</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref111" level="file">
+                  <did>
+                     <container type="Box">3A</container>
+                     <unittitle>2 letters from Ray Lyman Wilbur, polite inquiries about Dr. Kennedy's progress on his book</unittitle>
+                     <unitdate>1921, 1923</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref112" level="file">
+                  <did>
+                     <container type="Box">3A</container>
+                     <unittitle>Contents also include copy of a paper on need for a bibliography of the English language read at a meeting of the Philological Association of the Pacific Coast, Nov. 28, 1919; reprint of "A Bibliography of the Enlgish Language" appearing in the Correspondence section of 
+                                <title render="italic" linktype="simple">Modern Language Notes</title>; samples of prefaces; list of periodicals to be used in work on the Bibliography; table of contents; typographical notes; note to the editor and/or proofreader; and rules for Index.</unittitle>
+                     <unitdate>1924-1925</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref113" level="file">
+               <did>
+                  <unittitle>Notebook #3, Volume II. Materials pertaining to 
+                            <title render="italic" linktype="simple">Bibliography of Writings on the English Language</title> c. 1927 (2nd of 2 notebooks)</unittitle>
+                  <unitdate>1926-1935</unitdate>
+               </did>
+               <c03 id="ref114" level="file">
+                  <did>
+                     <container type="Box">3A</container>
+                     <unittitle>Correspondence with Harvard University Press and Yale University Press, joint publishers</unittitle>
+                     <unitdate>1926-1931</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref115" level="file">
+                  <did>
+                     <container type="Box">3A</container>
+                     <unittitle>Critical comments and suggestions by academic colleagues</unittitle>
+                     <unitdate>1926-1935</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref116" level="file">
+                  <did>
+                     <container type="Box">3A</container>
+                     <unittitle>2 letters from Ray Lyman Wilbur congratulating Kennedy on his book</unittitle>
+                     <unitdate>undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref117" level="file">
+                  <did>
+                     <container type="Box">3A</container>
+                     <unittitle>Correspondence from academic colleagues re 
+                                <title render="italic" linktype="simple">A Concordance to the Complete Works of Geoffrey Chaucer</title>
+                     </unittitle>
+                     <unitdate>1927</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref118" level="file">
+                  <did>
+                     <container type="Box">3A</container>
+                     <unittitle>Contents also include: copy of "A Biblopgraphy of Writings on the English Language from the Beginning of Printing to the end of 1922," a note to appear in the Fall Announcement, 1926, Harvard University Press; paper, "The Making of a Bibliography" (not further identified); review list for book; notes to the editor about corrections; and royalty statements.</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref119" level="file">
+               <did>
+                  <unittitle>Notebook #4, Volume I. Materials pertaining to 
+                            <title render="italic" linktype="simple">Current English</title> (1st of 2 notebooks)</unittitle>
+                  <unitdate>-1935</unitdate>
+               </did>
+               <c03 id="ref120" level="file">
+                  <did>
+                     <container type="Box">3A</container>
+                     <unittitle>Correspondence Correspondence with Ginn and Co., publishers</unittitle>
+                     <unitdate>1932-1934</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref121" level="file">
+                  <did>
+                     <container type="Box">3A</container>
+                     <unittitle>Criticisms and suggestions re manuscript from academic colleagues</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref122" level="file">
+                  <did>
+                     <container type="Box">3A</container>
+                     <unittitle>Letters to various publishers requesting permission to use copyrighted materials</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref123" level="file">
+                  <did>
+                     <container type="Box">3A</container>
+                     <unittitle>Contents also include: Agenda (Kennedy's schedule for work on the book); lists of errata; tenative plan of book; sample table of contents; copy of statement of plans and goals--"A Select Bibliography of Writings on Modern English"; pagination of first draft; typed comments requested by Ginn and Co. from four authorities in the field; and rejected portions of the manuscript.</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref124" level="file">
+               <did>
+                  <unittitle>Notebook #5, Volume II. Materials pertaining to 
+                            <title render="italic" linktype="simple">Current English</title>(2nd of 2 notebooks)</unittitle>
+                  <unitdate>circa 1935 1934-1947</unitdate>
+               </did>
+               <c03 id="ref125" level="file">
+                  <did>
+                     <container type="Box">3A</container>
+                     <unittitle>Correspondence with Ginn and Co.</unittitle>
+                     <unitdate>1934-1947</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref126" level="file">
+                  <did>
+                     <container type="Box">3A</container>
+                     <unittitle>Critical comments and suggestions by academic colleagues</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref127" level="file">
+                  <did>
+                     <container type="Box">3A</container>
+                     <unittitle>Contents also include: copy of pamphlet in memory of Roswell Thornton Pearl (1887-1934), one of Ginn's editors; copies of announcement of book and advertising circulars; list of periodicals for review; notes and instructions to the editors and/or proofreaders; and clipping of review in the 
+                                <title render="italic" linktype="simple">San Francisco Examiner</title>.</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref128" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">1</container>
+                  <unittitle>English Language &amp; Literature, Part i, chap. 1-199</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref129" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">2</container>
+                  <unittitle>English Language &amp; Literature, Part i, chap. 200-end</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref130" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">3</container>
+                  <unittitle>English Language &amp; Literature, Part ii</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref131" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">4</container>
+                  <unittitle>English Language &amp; Literature, Part iii</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref132" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">5</container>
+                  <unittitle>English Language &amp; Literature, Part iv, div. 2</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref133" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">6</container>
+                  <unittitle>English Language &amp; Literature, Part iv, div. 7-10</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref134" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">7</container>
+                  <unittitle>English Language &amp; Literature, Part v</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref135" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">8</container>
+                  <unittitle>English Language &amp; Literature, Part vi</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref136" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">9</container>
+                  <unittitle>English Language &amp; Literature, Part vii, chap. 1-124</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref137" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">10</container>
+                  <unittitle>English Language &amp; Literature, Part vii, chap. 130-end</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref138" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">11</container>
+                  <unittitle>English Language &amp; Literature, Part viii, chap. 1-99</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref139" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">12</container>
+                  <unittitle>English Language &amp; Literature, Part viii, chap. 100-end</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref140" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">13</container>
+                  <unittitle>English Language &amp; Literature, Part ix, chap. 1-20</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref141" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">14</container>
+                  <unittitle>English Language &amp; Literature, Part ix, chap. 21-24</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref142" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">15</container>
+                  <unittitle>English Language &amp; Literature, Part ix, chap. 25-28</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref143" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">16</container>
+                  <unittitle>English Language &amp; Literature, Part ix, chap. 28-42</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref144" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">17</container>
+                  <unittitle>English Language &amp; Literature, Part ix, chap. 43-end</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref145" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">18</container>
+                  <unittitle>English Language &amp; Literature, Part x, chap. 1-99</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref146" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">19</container>
+                  <unittitle>English Language &amp; Literature, Part x, chap. 100-114</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref147" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">20</container>
+                  <unittitle>English Language &amp; Literature, Part x, chap. 117-139</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref148" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">21</container>
+                  <unittitle>English Language &amp; Literature, Part x, chap. 148-161</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref149" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">22</container>
+                  <unittitle>English Language &amp; Literature, Part x, chap. 162-200</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref150" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">23</container>
+                  <unittitle>English Language &amp; Literature, Part x, chap. 200-274</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref151" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">24</container>
+                  <unittitle>English Language &amp; Literature, Part x, chap. 275-324</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref152" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">25</container>
+                  <unittitle>English Language &amp; Literature, Part x, chap. 325-400</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref153" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">26</container>
+                  <unittitle>English Language &amp; Literature, Part x, chap. 400-466</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref154" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">27</container>
+                  <unittitle>English Language &amp; Literature, Part x, chap. 500-600</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref155" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">28</container>
+                  <unittitle>English Language &amp; Literature, Part x, chap. 600-699</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref156" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">29</container>
+                  <unittitle>English Language &amp; Literature, Part x, chap. 700-899</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref157" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">30</container>
+                  <unittitle>English Language &amp; Literature, Part x, chap. 900-999</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref158" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">31</container>
+                  <unittitle>English Language &amp; Literature, Part xi, chap. 1-199</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref159" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">32</container>
+                  <unittitle>English Language &amp; Literature, Part xi, chap. 200-end</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref160" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">33</container>
+                  <unittitle>English Language &amp; Literature, Part xii-xiii</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref161" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">34</container>
+                  <unittitle>English Language &amp; Literature, Part xiv, chap. 1-313</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref162" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">35</container>
+                  <unittitle>English Language &amp; Literature, Part xiv, chap. 316-799</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref163" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">36</container>
+                  <unittitle>English Language &amp; Literature, Part xv</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref164" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">37</container>
+                  <unittitle>English Language &amp; Literature, Part xvi, chap. 1-12</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref165" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">38</container>
+                  <unittitle>English Language &amp; Literature, Part xvi, chap. 14-20</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref166" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">39</container>
+                  <unittitle>English Language &amp; Literature, Part xvi, chap. 17-25</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref167" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">40</container>
+                  <unittitle>English Language &amp; Literature, Part xvi, chap. 100-128</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref168" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">41</container>
+                  <unittitle>English Language &amp; Literature, Part xvi, chap. 130</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref169" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">42</container>
+                  <unittitle>English Language &amp; Literature, Part xvi, chap. 132-140</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref170" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">43</container>
+                  <unittitle>English Language &amp; Literature, Part xvi, chap. 140-144</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref171" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">44</container>
+                  <unittitle>English Language &amp; Literature, Part xvi, chap. 140:42-144</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref172" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">45</container>
+                  <unittitle>English Language &amp; Literature, Part xvi, chap. 200-220</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref173" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">46</container>
+                  <unittitle>English Language &amp; Literature, Part xvi, chap. 230-265</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref174" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">47</container>
+                  <unittitle>English Language &amp; Literature, Part xvi, chap. 300-end</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref175" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">48</container>
+                  <unittitle>English Language &amp; Literature, Part xvii, chap. All</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref176" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">49</container>
+                  <unittitle>English Language &amp; Literature, Part xviii, chap.</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref177" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">50</container>
+                  <unittitle>English Language &amp; Literature, Part xix-xx</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref178" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">51</container>
+                  <unittitle>English Language &amp; Literature, Part xivv</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref179" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">52</container>
+                  <unittitle>Kennedy, A. G.; Library notes; Book 1 100-400</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref180" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">53</container>
+                  <unittitle>Kennedy, A. G.; Library notes; Book 2 500-990</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref181" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">54</container>
+                  <unittitle>Kennedy, A. G.; A New Cook at Our House Or . . . Book I</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref182" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">55</container>
+                  <unittitle>Kennedy, A. G.; Humor and Journalism Book II verse</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref183" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">56</container>
+                  <unittitle>Modern English Verse, Book II, verse Bk I</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref184" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">57</container>
+                  <unittitle>Modern English Verse, Book III, verse Bk II</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref185" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">58</container>
+                  <unittitle>The Short Story; Book V</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref186" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">59</container>
+                  <unittitle>Miscellaneous (II), Book VII</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref187" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">60</container>
+                  <unittitle>Miscellaneous Prose, Book VIII</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

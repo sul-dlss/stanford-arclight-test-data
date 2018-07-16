@@ -1,0 +1,968 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  
+  
+  
+  
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" repositoryencoding="iso15511" findaidstatus="unverified-full-draft" langencoding="ISO_639"><eadid countrycode="us" identifier="ark:/13030/tf4t1nb0jj" mainagencycode="CSt-H" publicid="PUBLIC &quot;-//Stanford University::Hoover Institution Archives//TEXT&#10;(US::CSt-H::::Aleta Brownlee Papers )//EN&quot; &quot;reg_330.sgm&quot;">reg_330.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Register of the Aleta Brownlee Papers, <date calendar="gregorian" era="ce">1945-1950.</date></titleproper><titleproper type="filing">Brownlee (Aleta) Papers</titleproper>
+        <author>Processed by Keith A. Jantzen.; machine-readable finding aid created by
+James Ryan.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Hoover Institution Archives</publisher>
+        <address>
+          <addressline>Stanford University</addressline>
+          <addressline>Stanford, California 94305-6010</addressline>
+          <addressline>Phone: (650) 723-3563</addressline>
+          <addressline>Fax: (650) 725-3445</addressline>
+          <addressline>Email: hooverarchives@stanford.edu</addressline>
+        </address>
+        <date calendar="gregorian" era="ce">&#xA9; 1998</date>
+        <p>Hoover Institution Archives. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc><profiledesc>
+      <creation>Machine-readable finding aid derived from Word-11, a Unix VAX-specific word processing program. [Date of source: <date calendar="gregorian" era="ce">1982..</date>]</creation>
+      <langusage>Description is in <language langcode="eng" scriptcode="latn">English.</language></langusage>
+    </profiledesc><revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20120801">August 1, 2012</date>
+        <item>Revised to update encoding and add unitid</item>
+      </change>
+
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//Stanford University::Hoover Institution Archives//TEXT
+(US::CSt-H::::Aleta Brownlee Papers )//EN" "reg_330.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Register of the Aleta Brownlee Papers , <date calendar="gregorian" era="ce">1945-1950.</date></titleproper>
+      <publisher>Hoover Institution Archives 
+<lb/>Stanford University 
+<lb/>Stanford, California</publisher>
+      <list type="simple">
+        <head>Contact Information</head>
+        <item>Hoover Institution Archives</item>
+        <item>Stanford University</item>
+        <item>Stanford, California 94305-6010</item>
+        <item>Phone: (650) 723-3563</item>
+        <item>Fax: (650) 725-3445</item>
+        <item>Email: hooverarchives@stanford.edu</item>
+      </list>
+      <list type="deflist">
+        <defitem>
+          <label>Processed by: </label>
+          <item>Keith A. Jantzen.</item>
+        </defitem>
+        <defitem>
+          <label>Date Completed: </label>
+          <item>1982.</item>
+        </defitem>
+        <defitem>
+          <label>Encoded by: </label>
+          <item>James Ryan.</item>
+        </defitem>
+      </list>
+      <p>&#xA9; 1998 Hoover Institution Archives. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection">
+    <did id="did-1.7.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">Aleta Brownlee Papers , </unittitle><unitdate calendar="gregorian" era="ce" type="inclusive" normal="1945/1950">1945-1950.</unitdate>
+<unitid label="Collection number" repositorycode="CSt-H" countrycode="US">69059</unitid>
+      <origination label="Creator">
+        <persname>Brownlee, Aleta.</persname>
+      </origination>
+      <physdesc label="Collection Size" encodinganalog="300$a"><extent>9 manuscript boxes </extent><extent>(3.8 linear feet)</extent></physdesc>
+      <repository label="Repository">
+        <corpname>Hoover Institution Archives</corpname>
+        <address>
+          <addressline>Stanford, California 94305-6010</addressline>
+        </address>
+      </repository>
+      <abstract label="Abstract">Memoirs and office files, relating to UNRRA and IRO relief work for displaced children in Austria at the end of World War II.</abstract>
+      <langmaterial label="Language">
+        <language langcode="en">English.</language>
+      </langmaterial>
+    </did>
+    <descgrp id="descgrp-1.7.2" type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict>
+        <head>Access</head>
+        <p>Collection is open for research.</p>
+<p>The Hoover Institution Archives only allows access to <emph  render="italic">copies</emph> of audiovisual items. To listen to sound recordings or to  view videos or films during your visit, please contact the Archives at least two working  days before your arrival. We will then advise you of the accessibility of the material you  wish to see or hear. Please note that not all audiovisual material is immediately  accessible.</p>
+      </accessrestrict>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>For copyright status, please contact the Hoover Institution Archives</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Aleta Brownlee Papers , [Box no.], Hoover Institution Archives.</p>
+      </prefercite>
+<acqinfo encodinganalog="541">
+ <head>Acquisition Information</head>
+ <p>Acquired by the Hoover Institution Archives in 1969.</p>
+</acqinfo>
+
+<accruals encodinganalog="525"><head>Accruals</head>
+<p>Materials may have been added to the collection since this finding aid was prepared. To determine if this has occurred, find the collection in Stanford University's online catalog at <extref linktype="simple" href="http://searchworks.stanford.edu/" actuate="onrequest" show="new"> http://searchworks.stanford.edu/</extref>. Materials have been added to the collection if the number of boxes listed in the online catalog is larger than the number of boxes listed in this finding aid.</p>
+</accruals>
+
+
+    </descgrp>
+    <controlaccess id="controlaccess-1.7.3">
+      <head>Access Points</head>
+      <corpname>International Refugee Organization.</corpname>
+      <corpname>United Nations Relief and Rehabilitation Administration.</corpname>
+      <subject>Child welfare--Austria.</subject>
+      <subject>International relief.</subject>
+      <subject>World War, 1939-1945.</subject>
+      <subject>World War, 1939-1945--Austria.</subject>
+      <subject>World War, 1939-1945--Children.</subject>
+      <subject>World War, 1939-1945--Civilian relief.</subject>
+      <subject>World War, 1939-1945--Refugees.</subject>
+      <geogname>Austria.</geogname>
+    </controlaccess>
+    <bioghist id="bioghist-1.7.4">
+      <head>Biographical History.</head>
+      <p>Aleta Brownlee began her employment with the United Nations Relief and Rehabilitation
+Administration as a Welfare Specialist on the Yugoslavian Mission in 1945. Later that
+year she was transferred to Vienna and promoted to Director of Child Welfare in Austria.
+In that position, both with UNRRA and with the International Refugee Organization (which
+superceded UNRRA in 1947), she worked with displaced children. The Child Welfare Agency
+had the responsibility of locating and reestablishing, either through repatriation or
+resettlement, children who had been moved from their homelands during the war. Ms.
+Brownlee continued this work until 1950 when the International Refugee Organization
+ceased its activities.</p>
+      <p>The collection consists almost exclusively of UNRAA and IRO documents. Of these, a small
+number relate to the Welfare Program in Yugoslavia directly after the war. The
+overwhelming majority of documents, however, concerns the location and reestablishment of
+orphans and children separated from their parents. Approximately 35% of the collection is
+comprised of case files, complete with the children's histories and their eventual
+placement. Occasionally there is follow-up correspondence from the children. The
+remainder of the UNRRA and IRO documents concern the problems of finding children
+absorbed by the Third Reich and what should be done with them once found. The
+correspondence, memoranda and transcripts of meetings relating to the specific problems
+of Polish, Yugoslavian and Russian refugees are the most complete. Included in the
+collection is documentation relating to the roles played by various national chapters of
+the Red Cross and by the French, American, British and Soviet military governments.
+Considered all together, the UNRRA and IRO documents chronicle both the operations and
+the results of the Child Welfare Program in Austria from 1945 to 1950.</p>
+      <p>Also included in the collection is a manuscript, "Whose Children?," written by Aleta
+Brownlee ca. 1950-1951 concerning her experiences with UNRRA and IRO. In addition there
+is a very small miscellany file.</p>
+    </bioghist>
+    <dsc id="dsc-1.7.5" type="analyticover">
+      <head>Series Description</head>
+      <c01 id="c01-1.7.5.2" level="series">
+        <did>
+          <unittitle>Office File, 1945-1950.</unittitle>
+          <container>Box No. 1-9.</container>
+        </did>
+        <scopecontent>
+          <p>Memoranda, reports, correspondence, interview transcripts, etc. pertaining to the United
+Nations Relief and Rehabilitation Administration's welfare mission in Yugoslavia and the
+International Refugee Organization, arranged alphabetically by subject.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.5.3" level="series">
+        <did>
+          <unittitle>Writings, <unitdate calendar="gregorian" era="ce" type="inclusive">1950-1951.</unitdate></unittitle>
+          <container>Box No. 9.</container>
+        </did>
+        <scopecontent>
+          <p>One manuscript, "Whose Children?"</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.5.4" level="series">
+        <did>
+          <unittitle>Miscellany, <unitdate calendar="gregorian" era="ce" type="inclusive">1950-1952.</unitdate></unittitle>
+          <container>Box No. 9.</container>
+        </did>
+        <scopecontent>
+          <p>Printed items, arranged chronologically.</p>
+        </scopecontent>
+      </c01>
+    </dsc>
+    <dsc id="dsc-1.7.6" type="in-depth">
+      <head>Container List</head>
+      <c01 id="c01-1.7.6.2" level="series">
+        <did>
+          <unittitle>OFFICE FILE, 1945-1950</unittitle>
+        </did>
+        <c02 id="c02-1.7.6.2.2">
+          <did>
+            <container type="Box">1-9.</container>
+            <unittitle>United Nations Relief and Rehabilitation Administration -Welfare</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.2.2.2">
+            <did>
+              <unittitle>Displaced Persons Program</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.2.2.2.2">
+              <did>
+                <unittitle>Letters, reports, memoranda and interviews, 1945-1946, compiled by A. Brownlee. Includes calendar of documents (3)</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.2.2.3">
+            <did>
+              <unittitle>Yugoslavian Mission, 1945</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.2.3">
+          <did>
+            <unittitle>United Nations Relief and Rehabilitation Administration/International Refugee Organization</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.2.3.2">
+            <did>
+              <unittitle>Displaced Persons</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.2.3.2.2">
+              <did>
+                <unittitle>Children</unittitle>
+              </did>
+              <c05 id="c05-1.7.6.2.3.2.2.2">
+                <did>
+                  <unittitle>Argentinian, 1946</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.3.2.2.3">
+                <did>
+                  <unittitle>Austrian, 1946-1949</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.3.2.2.4">
+                <did>
+                  <unittitle>Belgian, 1946-1949</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.3.2.2.5">
+                <did>
+                  <unittitle>Case loads, analyses of monthly reports</unittitle>
+                </did>
+                <c06 id="c06-1.7.6.2.3.2.2.5.2">
+                  <did>
+                    <unittitle>June 1949-December 1949</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.5.3">
+                  <did>
+                    <unittitle>January 1950-June 1950</unittitle>
+                  </did>
+                </c06>
+              </c05>
+              <c05 id="c05-1.7.6.2.3.2.2.6">
+                <did>
+                  <unittitle>Cases</unittitle>
+                </did>
+                <c06 id="c06-1.7.6.2.3.2.2.6.2">
+                  <did>
+                    <unittitle>Fragmentary</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.6.3">
+                  <did>
+                    <unittitle>"A"</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.6.4">
+                  <did>
+                    <container type="Box">2.</container>
+                    <unittitle>"B" (5)</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.6.5">
+                  <did>
+                    <unittitle>"C"</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.6.6">
+                  <did>
+                    <unittitle>"D" (2)</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.6.7">
+                  <did>
+                    <container type="Box">3.</container>
+                    <unittitle>"E"</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.6.8">
+                  <did>
+                    <unittitle>"F" (2)</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.6.9">
+                  <did>
+                    <unittitle>"G" (2)</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.6.10">
+                  <did>
+                    <unittitle>"H" (2)</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.6.11">
+                  <did>
+                    <unittitle>"J"</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.6.12">
+                  <did>
+                    <unittitle>"K"</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.6.13">
+                  <did>
+                    <unittitle>"L"</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.6.14">
+                  <did>
+                    <container type="Box">4.</container>
+                    <unittitle>"M" (2)</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.6.15">
+                  <did>
+                    <unittitle>"N"</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.6.16">
+                  <did>
+                    <unittitle>"P" (2)</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.6.17">
+                  <did>
+                    <unittitle>"R"</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.6.18">
+                  <did>
+                    <unittitle>"S" (3)</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.6.19">
+                  <did>
+                    <unittitle>"T"</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.6.20">
+                  <did>
+                    <unittitle>"U"</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.6.21">
+                  <did>
+                    <unittitle>"V"</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.6.22">
+                  <did>
+                    <container type="Box">5.</container>
+                    <unittitle>"W"</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.6.23">
+                  <did>
+                    <unittitle>"Z"</unittitle>
+                  </did>
+                </c06>
+              </c05>
+              <c05 id="c05-1.7.6.2.3.2.2.7">
+                <did>
+                  <unittitle>"Child Welfare in the Displaced Persons Programme." Report, 1947</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.3.2.2.8">
+                <did>
+                  <unittitle>Children receiving assistance, 1947-1950</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.3.2.2.9">
+                <did>
+                  <unittitle>Correspondence, 1946-1950</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.3.2.2.10">
+                <did>
+                  <unittitle>Czechoslovakian, 1946-1949</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.3.2.2.11">
+                <did>
+                  <unittitle>Danish, 1946</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.3.2.2.12">
+                <did>
+                  <unittitle>Dutch, 1946-1948</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.3.2.2.13">
+                <did>
+                  <unittitle>Ethnic German (<title render="italic">Volksdeutsche</title>), 1945-1949</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.3.2.2.14">
+                <did>
+                  <unittitle>German, 1946-1948</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.3.2.2.15">
+                <did>
+                  <unittitle>Greek, 1947-1948</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.3.2.2.16">
+                <did>
+                  <unittitle>Hungarian, 1946-1950</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.3.2.2.17">
+                <did>
+                  <unittitle>Italian, 1947-1948</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.3.2.2.18">
+                <did>
+                  <unittitle>Jewish, 1946-1949</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.3.2.2.19">
+                <did>
+                  <unittitle>Legal status, 1947-1949</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.3.2.2.20">
+                <did>
+                  <unittitle>"List of Children Repatriated, Resettled, or Otherwise Reestablished by UNRRA or IRO, 1946-1950." Report, 1951</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.3.2.2.21">
+                <did>
+                  <unittitle>Non-Austrians living in Austria, 1946-1950</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.3.2.2.22">
+                <did>
+                  <unittitle>Policy</unittitle>
+                </did>
+                <c06 id="c06-1.7.6.2.3.2.2.22.2">
+                  <did>
+                    <unittitle>General, 1946-1949</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.22.3">
+                  <did>
+                    <container type="Box">6.</container>
+                    <unittitle>Adoption</unittitle>
+                  </did>
+                  <c07 id="c07-1.7.6.2.3.2.2.22.3.2">
+                    <did>
+                      <unittitle>Undated, 1945</unittitle>
+                    </did>
+                  </c07>
+                  <c07 id="c07-1.7.6.2.3.2.2.22.3.3">
+                    <did>
+                      <unittitle>1946</unittitle>
+                    </did>
+                  </c07>
+                  <c07 id="c07-1.7.6.2.3.2.2.22.3.4">
+                    <did>
+                      <unittitle>1947</unittitle>
+                    </did>
+                  </c07>
+                  <c07 id="c07-1.7.6.2.3.2.2.22.3.5">
+                    <did>
+                      <unittitle>1948</unittitle>
+                    </did>
+                  </c07>
+                  <c07 id="c07-1.7.6.2.3.2.2.22.3.6">
+                    <did>
+                      <unittitle>1949</unittitle>
+                    </did>
+                  </c07>
+                  <c07 id="c07-1.7.6.2.3.2.2.22.3.7">
+                    <did>
+                      <unittitle>1950</unittitle>
+                    </did>
+                  </c07>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.22.4">
+                  <did>
+                    <unittitle>Eligibility, 1946-1950</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.22.5">
+                  <did>
+                    <unittitle>Procedures, 1946-1948</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.22.6">
+                  <did>
+                    <unittitle>Repatriation, 1946-1950</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.22.7">
+                  <did>
+                    <unittitle>Resettlement, 1947-1949</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.22.8">
+                  <did>
+                    <unittitle>Standards of care, 1946-1949</unittitle>
+                  </did>
+                </c06>
+              </c05>
+              <c05 id="c05-1.7.6.2.3.2.2.23">
+                <did>
+                  <unittitle>Polish</unittitle>
+                </did>
+                <c06 id="c06-1.7.6.2.3.2.2.23.2">
+                  <did>
+                    <unittitle>Undated</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.23.3">
+                  <did>
+                    <unittitle>1945</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.23.4">
+                  <did>
+                    <unittitle>1946</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.23.5">
+                  <did>
+                    <unittitle>1947</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.23.6">
+                  <did>
+                    <unittitle>1948</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.23.7">
+                  <did>
+                    <unittitle>1949</unittitle>
+                  </did>
+                  <c07 id="c07-1.7.6.2.3.2.2.23.7.2">
+                    <did>
+                      <unittitle>"Master List of Polish Children Processed by Lebensborn and Heimschule in terms of Directive 67/I compiled by the Documents and Intelligence Section of I.T.S., Child Search Branch," April 1949</unittitle>
+                    </did>
+                  </c07>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.23.8">
+                  <did>
+                    <unittitle>1950</unittitle>
+                  </did>
+                </c06>
+              </c05>
+              <c05 id="c05-1.7.6.2.3.2.2.24">
+                <did>
+                  <unittitle>Polish Ukrainians, 1946-1947</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.3.2.2.25">
+                <did>
+                  <unittitle>Resettlement</unittitle>
+                </did>
+                <c06 id="c06-1.7.6.2.3.2.2.25.2">
+                  <did>
+                    <unittitle>General, 1946-1950</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.25.3">
+                  <did>
+                    <unittitle>Australia, 1949-1950</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.25.4">
+                  <did>
+                    <unittitle>Canada, 1947-1950</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.25.5">
+                  <did>
+                    <unittitle>Chile, 1948</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.25.6">
+                  <did>
+                    <container type="Box">7.</container>
+                    <unittitle>France, 1948</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.25.7">
+                  <did>
+                    <unittitle>Great Britain, 1947-1949</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.25.8">
+                  <did>
+                    <unittitle>Handicapped, 1948-1950</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.25.9">
+                  <did>
+                    <unittitle>New Zealand, 1949</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.25.10">
+                  <did>
+                    <unittitle>Paraguay, 1946-1948</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.25.11">
+                  <did>
+                    <unittitle>Sweden, 1948-1950</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.25.12">
+                  <did>
+                    <unittitle>Transportation, 1948-1949</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.25.13">
+                  <did>
+                    <unittitle>United States</unittitle>
+                  </did>
+                  <c07 id="c07-1.7.6.2.3.2.2.25.13.2">
+                    <did>
+                      <unittitle>Undated</unittitle>
+                    </did>
+                  </c07>
+                  <c07 id="c07-1.7.6.2.3.2.2.25.13.3">
+                    <did>
+                      <unittitle>1946</unittitle>
+                    </did>
+                  </c07>
+                  <c07 id="c07-1.7.6.2.3.2.2.25.13.4">
+                    <did>
+                      <unittitle>1947</unittitle>
+                    </did>
+                  </c07>
+                  <c07 id="c07-1.7.6.2.3.2.2.25.13.5">
+                    <did>
+                      <unittitle>1948</unittitle>
+                    </did>
+                  </c07>
+                  <c07 id="c07-1.7.6.2.3.2.2.25.13.6">
+                    <did>
+                      <unittitle>1949</unittitle>
+                    </did>
+                  </c07>
+                  <c07 id="c07-1.7.6.2.3.2.2.25.13.7">
+                    <did>
+                      <unittitle>1950</unittitle>
+                    </did>
+                  </c07>
+                </c06>
+              </c05>
+              <c05 id="c05-1.7.6.2.3.2.2.26">
+                <did>
+                  <unittitle>Rumanian, 1946-1949</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.3.2.2.27">
+                <did>
+                  <unittitle>Russian</unittitle>
+                </did>
+                <c06 id="c06-1.7.6.2.3.2.2.27.2">
+                  <did>
+                    <unittitle>Undated</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.27.3">
+                  <did>
+                    <unittitle>1946</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.27.4">
+                  <did>
+                    <unittitle>1947</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.27.5">
+                  <did>
+                    <unittitle>1948</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.27.6">
+                  <did>
+                    <unittitle>1949</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.27.7">
+                  <did>
+                    <unittitle>1950</unittitle>
+                  </did>
+                </c06>
+              </c05>
+              <c05 id="c05-1.7.6.2.3.2.2.28">
+                <did>
+                  <unittitle>Tracing</unittitle>
+                </did>
+                <c06 id="c06-1.7.6.2.3.2.2.28.2">
+                  <did>
+                    <unittitle>Undated</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.28.3">
+                  <did>
+                    <unittitle>1946</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.28.4">
+                  <did>
+                    <unittitle>1947</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.28.5">
+                  <did>
+                    <unittitle>1948</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.28.6">
+                  <did>
+                    <container type="Box">8.</container>
+                    <unittitle>1949</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.28.7">
+                  <did>
+                    <unittitle>"Lebensborn Report - An Outline of the Structure and Practices of Lebensborn for Guidance in Child Search," 1948</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.28.8">
+                  <did>
+                    <unittitle>"Nazional-Sozialistische Volkswohlfahrt" (National Socialist Welfare Agency) Copies and translations of official NSDAP documents relating to the appropriation of foreign children as German citizes, 1938-1944</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.28.9">
+                  <did>
+                    <unittitle>"S.S. Lebensborn Activities in Upper Austria," by Wilhelmina Van Dop, ca. 1947</unittitle>
+                  </did>
+                </c06>
+              </c05>
+              <c05 id="c05-1.7.6.2.3.2.2.29">
+                <did>
+                  <unittitle>Turkish, 1947</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.3.2.2.30">
+                <did>
+                  <unittitle>"UNRRA Closure Report on United Nations Unaccompanied Children in Germany," June, 1947</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.3.2.2.31">
+                <did>
+                  <unittitle>Yugoslavian</unittitle>
+                </did>
+                <c06 id="c06-1.7.6.2.3.2.2.31.2">
+                  <did>
+                    <unittitle>Undated</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.31.3">
+                  <did>
+                    <unittitle>1945</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.31.4">
+                  <did>
+                    <unittitle>1946</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.31.5">
+                  <did>
+                    <unittitle>1947</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.31.6">
+                  <did>
+                    <unittitle>1948</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.31.7">
+                  <did>
+                    <unittitle>1949</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.2.2.31.8">
+                  <did>
+                    <unittitle>1950</unittitle>
+                  </did>
+                </c06>
+              </c05>
+              <c05 id="c05-1.7.6.2.3.2.2.32">
+                <did>
+                  <unittitle>Miscellaneous, 1946-1950</unittitle>
+                </did>
+              </c05>
+            </c04>
+            <c04 id="c04-1.7.6.2.3.2.3">
+              <did>
+                <unittitle>Citizenship, Austrian, 1945-1950</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.3.2.4">
+              <did>
+                <unittitle>Policy - General, 1946-1950</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.3.2.5">
+              <did>
+                <unittitle>"Psychological Problems of Displaced Persons." Report, 1945</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.2.3.3">
+            <did>
+              <unittitle>Operations</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.2.3.3.2">
+              <did>
+                <unittitle>American Zone</unittitle>
+              </did>
+              <c05 id="c05-1.7.6.2.3.3.2.2">
+                <did>
+                  <unittitle>Children's Home</unittitle>
+                </did>
+                <c06 id="c06-1.7.6.2.3.3.2.2.2">
+                  <did>
+                    <unittitle>Undated</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.3.2.2.3">
+                  <did>
+                    <unittitle>1946</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.3.2.2.4">
+                  <did>
+                    <container type="Box">9.</container>
+                    <unittitle>1947</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.3.2.2.5">
+                  <did>
+                    <unittitle>1949</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.3.2.2.6">
+                  <did>
+                    <unittitle>1950</unittitle>
+                  </did>
+                </c06>
+              </c05>
+              <c05 id="c05-1.7.6.2.3.3.2.3">
+                <did>
+                  <unittitle>Youth Center, 1948-1950</unittitle>
+                </did>
+              </c05>
+            </c04>
+            <c04 id="c04-1.7.6.2.3.3.3">
+              <did>
+                <unittitle>British Zone</unittitle>
+              </did>
+              <c05 id="c05-1.7.6.2.3.3.3.2">
+                <did>
+                  <unittitle>General, 1946-1948</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.3.3.3.3">
+                <did>
+                  <unittitle>Children's Home</unittitle>
+                </did>
+                <c06 id="c06-1.7.6.2.3.3.3.3.2">
+                  <did>
+                    <unittitle>Undated</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.3.3.3.3">
+                  <did>
+                    <unittitle>1945</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.3.3.3.4">
+                  <did>
+                    <unittitle>1946</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.3.3.3.5">
+                  <did>
+                    <unittitle>1947</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.3.3.3.6">
+                  <did>
+                    <unittitle>1948</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.3.3.3.7">
+                  <did>
+                    <unittitle>1949</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.3.3.3.3.8">
+                  <did>
+                    <unittitle>1950</unittitle>
+                  </did>
+                </c06>
+              </c05>
+            </c04>
+            <c04 id="c04-1.7.6.2.3.3.4">
+              <did>
+                <unittitle>French Zone - General, 1946-1948</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.3.3.5">
+              <did>
+                <unittitle>Vienna - General, 1946, 1950</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.2.3.4">
+            <did>
+              <unittitle>Personnel, 1945-1948</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.6.3" level="series">
+        <did>
+          <unittitle>WRITINGS, 1950-1951</unittitle>
+        </did>
+        <c02 id="c02-1.7.6.3.2">
+          <did>
+            <container type="Box">9.</container>
+            <unittitle>"Whose Children?" Typescript, ca. 1950-1951 (3)</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.6.4" level="series">
+        <did>
+          <unittitle>MISCELLANY, 1950-1952</unittitle>
+        </did>
+        <c02 id="c02-1.7.6.4.2">
+          <did>
+            <container type="Box">9.</container>
+            <unittitle>Comic book, Czechoslovakian, ca. 1950 and printed articles</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

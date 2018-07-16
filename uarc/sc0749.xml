@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[John R. Pierce papers])//EN"
+             identifier="ark:/13030/kt9c6039zd">sc0749.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the John R. Pierce Papers
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Pierce (John R.) Papers</titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2010-10">October 2010</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC0749</unitid>
+         <origination label="Creator:">
+            <persname rules="aacr" source="ingest">Pierce, John R. (John Robinson), 1910-2002</persname>
+         </origination>
+         <origination label="Creator:">
+            <persname rules="aacr" source="naf">Pierce, John Robinson, 1910-2002</persname>
+         </origination>
+         <unittitle label="Title:">John R. Pierce papers</unittitle>
+         <unitdate normal="1933/2002"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1933-2002</unitdate>
+         <unitdate normal="1960/2002"
+                   type="bulk"
+                   label="Bulk Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation"> 1960-2002</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>9 Linear feet</extent>
+         </physdesc>
+         <abstract label="Summary:">Papers include journals, 1986-1995; biographical and bibliographic materials; correspondence; typescripts of scholarly work, fiction and poetry; music manuscripts; published articles and books; research files; photographs; and other materials. The focus is primarily on his interest in computers and music and his authorship of science fiction stories, with a few published articles and photographs pertaining to the Echo satellite. Other items of note include the report on a visit to British electronics laboratories by J. R. Pierce and H. D. Hagstrum, 1944, and a transcript of a visit with H. G. Wells, 1944.</abstract>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <accessrestrict id="ref3">
+            <head>Information about Access</head>
+            <p>This collection is open for research.</p>
+         </accessrestrict>
+         <userestrict id="ref4">
+            <head>Ownership &amp; Copyright</head>
+            <p>All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Special Collections and University Archives, Stanford University Libraries, Stanford, California 94304-6064. Consent is given on behalf of Special Collections as the owner of the physical items and is not intended to include or imply permission from the copyright owner. Such permission must be obtained from the copyright owner, heir(s) or assigns. See: http://library.stanford.edu/depts/spc/pubserv/permissions.html.</p>
+            <p>Restrictions also apply to digital representations of the original materials. Use of digital files is restricted to research and educational purposes.</p>
+         </userestrict>
+         <prefercite id="ref5">
+            <head>Cite As</head>
+            <p>John R. Pierce Papers (SC0749). Department of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <bioghist id="ref6">
+         <head>Biographical/Historical Sketch</head>
+         <p>John R. Pierce earned all three of his degrees at the California Institute of Technology: B.S. in 1933, M.S. in 1934, and Ph.D. in 1936. He worked at Bell Telephone Laboratories from 1936 to 1971, where his work included electronic tubes, microwave communications, and psychoacoustics. After leaving Bell, he joined the faculty at the California Institute of Technology where he taught until 1980 and was a chief technologist at the Jet Propulsion Laboratory from 1979 to 1982. In 1983 he became a visiting professor of music, emeritus, at the Center for Computer Research in Music and Acoustics at Stanford University. In addition to his scholarly work, Pierce wrote science fiction under the name of J. J. Coupling, as well as his own.</p>
+      </bioghist>
+      <scopecontent id="ref7">
+         <head>Description of the Collection</head>
+         <p>Papers include journals, 1986-1995; biographical and bibliographic materials; correspondence; typescripts of scholarly work, fiction and poetry; music manuscripts; published articles and books; research files; photographs; and other materials. The focus is primarily on his interest in computers and music and his authorship of science fiction stories, with a few published articles and photographs pertaining to the Echo satellite. Other items of note include the report on a visit to British electronics laboratories by J. R. Pierce and H. D. Hagstrum, 1944, and a transcript of a visit with H. G. Wells, 1944.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <persname rules="aacr" source="ingest">Borroff, Marie.</persname>
+         <persname rules="aacr" source="ingest">Pierce, John R. (John Robinson), 1910-2002</persname>
+         <persname rules="aacr" source="ingest">Wells, H. G. (Herbert George), 1866-1946.</persname>
+         <subject source="LCSH">Music --Acoustics and physics.</subject>
+         <subject source="LCSH">Science fiction, American.</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.6">
+         <head>Collection Contents</head>
+         <c01 id="ref8" level="series">
+            <did>
+               <unitid>Accesion ARCH-1999-306</unitid>
+               <unittitle>Original Accession</unittitle>
+            </did>
+            <c02 id="ref9" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Journal 1986 – 88</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref10" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Journal 1988 – 92</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref11" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Journal 1992 – 95</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref12" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Poems</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref13" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Music MSS c. 1936 – 37</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref14" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Correspondence: Borroff, Marie</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref15" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Correspondence: re. Current Directions in Computer Music Research</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref16" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Correspondence: re. “Periodicity and Pitch Perception”</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref17" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Correspondence: re. “Computing Education”</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref18" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Correspondence: Noll, A. Michael</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref19" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Honorary degrees</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref20" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Telephone book</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref21" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Photos</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref22" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Computer invoice</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref23" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Patent for Passive Non-Linear Filter, 1996-97</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref24" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Pamphlets</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref25" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Computers in Higher Education – Report, 1967</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref26" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Gilbert, Steven – "Academic Software – Vision and Perspective; working paper March 15, 1985"</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref27" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Computer / Human Conversation</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref28" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Pathological Science – articles</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref29" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Pierce, “Technology and Music in the 20th Century”</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref30" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Research: artists on “Edwardian Gents and the Arabs”</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref31" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Reprint: Pierce, “Ears and Hearing” 1994</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref32" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Reprint: Pierce, “Periodicity and Pitch Perception” 1991</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref33" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Studies [assorted articles]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref34" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">15</container>
+                  <unittitle>Essays and a story</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref35" level="series">
+            <did>
+               <unitid>Accession ARCH-2004-259</unitid>
+               <unittitle>Additional material</unittitle>
+            </did>
+            <c02 id="ref36" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Cal Tech visit to Soviet Union 1973</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref37" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">2</container>
+                  <unittitle>NASA Space Committee Research and Development 1987</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref38" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Vienna conference (Pierce, "The Contribution of Psychophysics to Music and of Music to Psychophysics") 1990</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref39" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Biographical information</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref40" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Biographical information</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref41" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Biographical information ("Miscellaneous, personal, trips and what not" – includes notes from Soviet Union trip of 1973)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref42" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Pierce, My Career as an Engineer; An Autobiographical Sketch, 1988</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref43" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Papers by Pierce</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref44" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Papers by Pierce</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref45" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Publications 1981 – 1990</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref46" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Publications 1991</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref47" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Publications 1994-97</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref48" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Publications 1998 – 2003</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref49" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Publications on J.R. Pierce</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref50" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Publications – Fiction</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref51" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Publications – Fiction</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref52" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Publications – Fiction</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref53" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Publications – miscellaneous</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref54" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Amazing Stories, October 1934 [does not include anything by Pierce]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref55" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Stories, typescript</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref56" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Stories, typescript, "The Blues"</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref57" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Stories, typescript, "Tales of the Twelve Teddies"</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref58" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Stories, manuscript and typescript</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref59" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Stories and verse</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref60" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Verse</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref61" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Posthumous papers</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref62" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">3</container>
+                  <unittitle>J.R. Pierce bibliography</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref63" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">4</container>
+                  <unittitle>"J.R. Pierce Bibliography and much much more, March 26, 1995"</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref64" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Pierce, bibliography</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref65" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">6</container>
+                  <unittitle>C.I.T. oral history with J. R. Pierce, 1982</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref66" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Photographs, 1963-1995</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref67" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Draper Prize, 1995</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref68" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Miscellaneous materials</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref69" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Awards</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref70" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Cal Tech alumni</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref71" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Correspondence – W. H. Freeman (publisher) 1983-1997</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref72" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Correspondence – publishers 1981-1994</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref73" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Correspondence – Arthur C. Clarke 1988</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref74" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Correspondence – Andrew Goldstein 1991-92</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref75" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Correspondence – University of Wyoming (American Heritage Center), 1983-1991</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref76" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Correspondence, general, 1964, 1981-90</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref77" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Correspondence, general, 1992-2002</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref78" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">10</container>
+                  <unittitle>First phone call off echo</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref79" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Echo – photographs 1960-68</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref80" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Marconi International Fellowship 1996-97</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref81" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Personal correspondence and papers</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref82" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Index to Technical Memoranda</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref83" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Report on Visit to British electronics laboratories by J. R. Pierce and H. D. Hagstrum, 1944</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref84" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Transcript of visit with H. G. Wells 1944</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref85" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">4</container>
+                  <unittitle>System Development Foundation, Annual Report, 1988</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref86" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">5</container>
+                  <unittitle>International Symposium on Music and Information Science (Japan) 1989</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref87" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Northwestern University concert in honor of Pierce 1990 (includes correspondence with Amnon Wolman 1990-91)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref88" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Bolinger, Richard, "I Know of No Geometry" (a solo work in five movements written in the Pierce Scale) 1990</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref89" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Bauman, Marcia, "Early Computer Sound and Music Synthesis at Bell Telephone Laboratories," Ph.D. thesis, U. of Rochester, 1995</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref90" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Tribute to Barney Oliver [Bernard M. Oliver] 1995</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref91" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Music From Mathematics produced by Bell Telephone Laboratories (LP record with text) 1960</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref92" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Manuscript musical scores</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref93" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>FLOPPY DISK: Opera</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref94" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Japan ‘89</unittitle>
+                  <physdesc>
+                     <extent>1 audiocassette(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref95" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>J.C. Risset / Echo</unittitle>
+                  <physdesc>
+                     <extent>1 audiocassette(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref96" level="file">
+               <did>
+                  <unittitle>Books:</unittitle>
+               </did>
+               <c03 id="ref97" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>The Bell System Technical Journal, 1972.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref98" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>California Institute of Technology. Yearbook, 1933.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref99" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>Friis, Harald T. Seventy-five Years in an Exciting World.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref100" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>IEEE Press. A Century of Honors.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref101" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>IEEE Press. Compendium of Communication and Broadcast Satellites, 1958 to 1980.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref102" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>IRCAM (J.R. Pierce contributor). Passage du XX siecle.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref103" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>National Academy of Engineering (J. R. Pierce contributor). Technology and International Trade.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref104" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>Pierce, John R. Proceedings of the IRE.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref105" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>Pierce, John R. Radio-Electronics.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref106" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>Pierce, John R. and Edward E. David, Jr. Man’s World of Sound.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref107" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>Pierce, John R. and Hiroshi Inose. Information Technology and Civilization. (2 copies)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref108" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>Pierce, J. Almost All About Waves (in Russian).</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref109" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>Pierce, John R. An Introduction to Information Theory. (2 copies).</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref110" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>Pierce, John R. Quantum Electronics and Waves and Messages.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref111" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>Pierce, John R. and Edward C. Posner. Introduction to Communication Science and Systems. (2 copies).</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref112" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>Pierce, John R. and Arthur G. Tressler. The Research State: A History of Science in New Jersey.</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref113" level="file">
+               <did>
+                  <unittitle>Books:</unittitle>
+               </did>
+               <c03 id="ref114" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Pierce, John R. The Science of Musical Sound. (3 copies).</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref115" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Pierce, John R. Telecommunicatie.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref116" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Pierce, John R. Klank en Muziek. (4 copies).</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref117" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Pierce, John R. and Michael Noll. Signals (2 copies).</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref118" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Pierce, John R. and Michael Noll. Signals (in Spanish, 2 copies).</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref119" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Pierce, John R. Le Son Musical.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref120" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Pierce, John R. The Science of Musical Sound (in Japanese).</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref121" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Pierce, John R. My Career as an Engineer.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref122" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Pierce, John R. The Beginnings of a Satellite Communications.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref123" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Pierce, John R. Science, Art and Communication.</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref124" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Certificates, mounted photographs, and Saturday Evening Post articles (Jan. 14, 1961 on Echo satellite and Nov. 4, 1961 article by Pierce on computers)</unittitle>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  
+  
+  
+  
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" repositoryencoding="iso15511" findaidstatus="edited-full-draft" langencoding="iso639-2b"><eadid countrycode="us" identifier="ark:/13030/tf72900559" mainagencycode="CSt-H" publicid="PUBLIC &quot;-//Stanford University::Hoover Institution Archives//TEXT&#10;(US::CSt-H::::France. Armee Miscellaneous Records)//EN&quot; &quot;franceac.sgm&quot;">franceac.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Inventory of the France. Arm&#x00E9;e Miscellaneous Records, <date calendar="gregorian" era="ce">1914-1919</date></titleproper><titleproper type="filing">France. Armee Miscellaneous Records</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Hoover Institution Archives</publisher>
+        <address>
+          <addressline>Stanford University</addressline>
+          <addressline>Stanford, California 94305-6010</addressline>
+          <addressline>Phone: (650) 723-3563</addressline>
+          <addressline>Fax: (650) 725-3445</addressline>
+          <addressline>Email: hooverarchives@stanford.edu</addressline>
+        </address>
+        <date calendar="gregorian" era="ce">&#xA9; 1999</date>
+        <p>Hoover Institution Archives. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc><profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data Services,
+<date calendar="gregorian" era="ce">February 1999. </date>
+Supplementary encoding and revision supplied by Michael C. Conkin. </creation>
+      <langusage>Description is in <language langcode="eng" scriptcode="iso-15924">English</language> and <language langcode="fre" scriptcode="iso-15924">French.</language></langusage>
+    </profiledesc><revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20110324">March 24, 2011</date>
+        <item>revised to update encoding and add unitid</item>
+      </change>
+<change>
+        <date calendar="gregorian" era="ce" normal="20060601">June 1, 2006</date>
+        <item>French-language descriptive data from appendix encoded and added by Lisa Miller, Hoover Institution</item>
+      </change>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//Stanford University::Hoover Institution Archives//TEXT
+(US::CSt-H::::France. Armee Miscellaneous Records)//EN" "franceac.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Inventory of the France. Arm&#x00E9;e Miscellaneous Records, <date calendar="gregorian" era="ce">1914-1919</date></titleproper>
+      <publisher>Hoover Institution Archives
+<lb/>Stanford University
+<lb/>Stanford, California</publisher>
+      <list type="simple">
+        <head>Contact Information</head>
+        <item>Hoover Institution Archives</item>
+        <item>Stanford University</item>
+        <item>Stanford, California 94305-6010</item>
+        <item>Phone: (650) 723-3563</item>
+        <item>Fax: (650) 725-3445</item>
+        <item>Email: hooverarchives@stanford.edu</item>
+      </list>
+      <p>&#xA9; 1999 Hoover Institution Archives. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection">
+    <did id="did-1.7.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">France. Arm&#x00E9;e Miscellaneous Records, </unittitle>
+	<unitdate calendar="gregorian" era="ce" type="inclusive" normal="1914/1919">1914-1919</unitdate>
+      <unitid label="Collection number" repositorycode="CSt-H" countrycode="US">91053</unitid>
+	<origination label="Creator">
+        <corpname source="lcnaf">France. Arm&#x00E9;e.</corpname>
+      </origination>
+      <physdesc label="Collection Size" encodinganalog="300$a">
+		<extent>211 microfilm reels (in 16 manuscript boxes)</extent>
+		<extent>(6.6 linear feet)</extent>
+	</physdesc>
+      <repository label="Repository">
+        <corpname>Hoover Institution Archives</corpname>
+        <address>
+          <addressline>Stanford, California 94305-6010</addressline>
+        </address>
+      </repository>
+      <abstract label="Abstract">Reports, orders, correspondence, and memoranda, relating to aerial operations of the French army during World War I.</abstract>
+      <langmaterial label="Language">
+        <language langcode="fre">French</language>
+      </langmaterial>
+    </did>
+    <descgrp id="descgrp-1.7.2" type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict>
+        <head>Access</head>
+        <p>Collection open for research.</p>
+      </accessrestrict>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>For copyright status, please contact the Hoover Institution Archives.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], France. Arm&#x00E9;e Miscellaneous Records, [Box no.], Hoover Institution
+Archives.</p>
+      </prefercite>
+<originalsloc>
+<head>Location of Originals</head>
+<p>Archives, Service historique de l'Arm&#x00E9;e; and Archives, Service historique de l'Arm&#x00E9;e de l'air. </p>
+</originalsloc>
+    </descgrp>
+    <controlaccess id="controlaccess-1.7.3">
+      <head>Access Points</head>
+      <subject source="lcsh">World War, 1914-1918--Aerial operations.</subject>
+      <subject source="lcsh">World War, 1914-1918--France.</subject>
+      <subject source="lcsh">World War, 1914-1918.</subject>
+      <geogname source="lcsh">France.</geogname>
+    </controlaccess>
+    <dsc type="in-depth">
+      <head>Container List</head>
+      <c01 level="series">
+        <did>
+          <unittitle>MICROFILM FROM ARCHIVES, SERVICE HISTORIQUE DE L'ARM&#xC9;E DE L'AIR </unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="Box"> 1</container>
+            <unittitle>A21. Squadrons and bombardment groups. </unittitle>
+            <physdesc altrender="in-line">1 reel</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>A22. Aerial division. </unittitle>
+            <physdesc altrender="in-line">1 reel</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>A23. General organization of aeronautical units. </unittitle>
+            <physdesc altrender="in-line">2 reels</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>A24. General organization of aeronautical units. </unittitle>
+            <physdesc altrender="in-line">2 reels</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>A25. General organization of aeronautical units. </unittitle>
+            <physdesc altrender="in-line">2 reels</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>A30. Movement of units. </unittitle>
+            <physdesc altrender="in-line">2 reels</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>A31. Movement of units. </unittitle>
+            <physdesc altrender="in-line">2 reels</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box"> 2</container>
+            <unittitle>A32. Movement of units. </unittitle>
+            <physdesc altrender="in-line">2 reels</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>A33. Movement of units. </unittitle>
+            <physdesc altrender="in-line">1 reel</physdesc>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>MICROFILM FROM ARCHIVES, SERVICE HISTORIQUE DE L'ARM&#xC9;E.  </unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="Box"> 2</container>
+            <unittitle>Ire Arm&#x00E9;e. Commandement de l'A&#x00E9;ronautique </unittitle>
+	</did>
+          <c03>
+	<did>
+		<unittitle>Correspondance exp&#x00E9;di&#x00E9;e</unittitle>
+	</did>
+	<c04>
+            <did>
+              <unittitle>19N 213. D&#x00E9;cisions journali&#x00E8;res</unittitle>
+        	<unitdate type="inclusive">1916 May - 1917 December</unitdate>  
+	    <physdesc altrender="in-line">3 reels</physdesc>
+            </did>
+          </c04>
+          <c04>
+            <did>
+              <unittitle>19N 214. D&#x00E9;cisions journali&#x00E8;res</unittitle>
+        	<unitdate type="inclusive">1916 May - 1917 December</unitdate>
+              <physdesc altrender="in-line">2 reels</physdesc>
+            </did>
+          </c04>
+          <c04>
+            <did>
+              <unittitle>19N 215. <emph render="italic">Idem</emph></unittitle>
+           	<unitdate type="inclusive">1917 December - 1918 November</unitdate>
+	     <physdesc altrender="in-line">1 reel</physdesc>
+            </did>
+          </c04>
+          <c04>
+            <did>
+              <unittitle>19N 216. <emph render="italic">Idem</emph> (collection avec annotations)</unittitle>
+          	<unitdate type="inclusive">1916 October - 1917 December</unitdate>
+              <physdesc altrender="in-line">2 reels</physdesc>
+            </did>
+          </c04>
+          <c04>
+            <did>
+              <unittitle>19N 217. <emph render="italic">Idem</emph> (collection avec annotations)</unittitle>
+          	<unitdate type="inclusive">1916 October - 1917 December</unitdate>
+              <physdesc altrender="in-line">1 reel</physdesc>
+            </did>
+          </c04>
+	</c03>
+          <c03>
+            <did>
+              <container type="Box"> 3</container>
+              <unittitle>19N 224. Constitution d'escadrilles, r&#x00E9;sum&#x00E9;s des op&#x00E9;rations a&#x00E9;riennes re&#x00E7;us du G.Q.G.,
+renseignements sur l'arm&#x00E9;e allemande, observations m&#x00E9;t&#x00E9;orologiques</unittitle>
+          	<unitdate type="inclusive">1914 November - 1919 February</unitdate>
+              <physdesc altrender="in-line">2 reels</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>19N 225. Constitution d'escadrilles, r&#x00E9;sum&#x00E9;s des op&#x00E9;rations a&#x00E9;riennes re&#x00E7;us du G.Q.G.,
+renseignements sur l'arm&#x00E9;e allemande, observations m&#x00E9;t&#x00E9;orologiques</unittitle>
+          	<unitdate type="inclusive">1914 November - 1919 February</unitdate>
+              <physdesc altrender="in-line">2 reels</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>19N 226. Missions de reconnaissances et de bombardement, comptes rendus des 
+compaignies d'a&#x00E9;roestiers et de reconnaissances a&#x00E9;riennes, journal d'op&#x00E9;rations</unittitle>
+          	<unitdate type="inclusive">1914-1916</unitdate>
+              <physdesc altrender="in-line">4 reels</physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>IIe Arm&#x00E9;e. Commandement de l'A&#x00E9;ronautique  </unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>19N 479. D&#x00E9;cisions du commandement de l'a&#x00E9;ronautique ; documents de
+principe sur le service de renseignements, propagande a&#x00E9;rienne, missions &#x00E9;trang&#x00E8;res</unittitle>
+          	<unitdate type="inclusive">1915 January - 1917 January</unitdate>
+             <physdesc altrender="in-line">3 reels</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>19N 483. Mouvements et stationnement des unit&#x00E9;s, affectation des compagnies</unittitle>
+          	<unitdate type="inclusive">1915 April - 1919 January</unitdate>
+              <physdesc altrender="in-line">3 reels</physdesc>
+            </did>
+          </c03>
+          <c03>
+		<did><unittitle>Correspondance exp&#x00E9;di&#x00E9;e</unittitle></did>
+	<c04>
+            <did>
+              <container type="Box"> 4</container>
+              <unittitle>19N 488. Comptes rendus journaliers au G.Q.G.</unittitle>
+          	<unitdate type="inclusive">1915 February - 1918 July?</unitdate>
+              <physdesc altrender="in-line">1 reel</physdesc>
+            </did>
+          </c04>
+          <c04>
+            <did>
+              <unittitle>19N 490. Comptes rendus statistiques des op&#x00E9;rations a&#x00E9;ronautiqes, renseignements</unittitle>
+          	<unitdate type="inclusive">1917 August - 1919 January </unitdate>
+              <physdesc altrender="in-line">1 reel</physdesc>
+            </did>
+          </c04>
+	</c03>
+          <c03>
+            <did>
+              <unittitle>19N 491. Ordres d'op&#x00E9;rations de l'a&#x00E9;ronautique, ex&#x00E9;cution des missions, reconnaissances a&#x00E9;riennes,
+avions d'artilleries, relev&#x00E9;s des vols ex&#x00E9;cut&#x00E9;s</unittitle>
+          	<unitdate type="inclusive">1914 September - 1918 October</unitdate>
+              <physdesc altrender="in-line">3 reels</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>19N 492. Bombardements, vols de nuit ; consignes et instructions relatives aux op&#x00E9;rations, &#x00E9;tudes et rapports</unittitle>
+          	<unitdate type="inclusive">1915-1919</unitdate>
+              <physdesc altrender="in-line">2 reels</physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>IIIe Arm&#x00E9;e. Commandement de l'A&#x00E9;ronautique</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>19N 606. D&#x00E9;cisions de l'a&#x00E9;ronautique de la IIIe arm&#x00E9;e (puis
+              du groupement a&#x00E9;ronautique no. 3, de l'a&#x00E9;ronautique Guillemeney,
+              puis l'a&#x00E9;ronautique Genain)</unittitle>
+                 	<unitdate type="inclusive">1915 October - 1919 May</unitdate>
+              <physdesc altrender="in-line">2 reels</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>19N 608. Comptes rendus d'op&#x00E9;rations, correspondance diverse</unittitle>
+          	<unitdate type="inclusive">1914-1918</unitdate>
+              <physdesc altrender="in-line">2 reels</physdesc>
+            </did>
+          </c03>
+          <c03>
+          <did><unittitle>Rapports sur l'activit&#x00E9; de l'aviation de l'arm&#x00E9;e, comptes rendus, correspondance diverse exp&#x00E9;di&#x00E9;e</unittitle></did>
+          <c04>
+            <did>
+              <unittitle>19N 610. Comptes rendus de l'a&#x00E9;ronautique</unittitle>
+          	<unitdate type="inclusive">1914 August - 1916 August</unitdate>
+              <physdesc altrender="in-line">2 reels</physdesc>
+            </did>
+          </c04>
+          <c04>
+            <did>
+              <container type="Box"> 5</container>
+              <unittitle>19N 611. Comptes rendus de l'a&#x00E9;ronautique</unittitle>
+          	<unitdate type="inclusive">1914 August - 1916 August</unitdate>
+              <physdesc altrender="in-line">2 reels</physdesc>
+            </did>
+          </c04>
+          <c04>
+            <did>
+              <unittitle>19N 612. <emph render="italic">Idem</emph></unittitle>
+          	<unitdate type="inclusive">1916 August - 1918 April</unitdate>
+              <physdesc altrender="in-line">2 reels</physdesc>
+            </did>
+          </c04>
+          <c04>
+            <did>
+              <unittitle>19N 613. <emph render="italic">Idem</emph></unittitle>
+          	<unitdate type="inclusive">1916 August - 1918 April</unitdate>
+              <physdesc altrender="in-line">2 reels</physdesc>
+            </did>
+          </c04>
+          <c04>
+            <did>
+              <unittitle>19N 614. <emph render="italic">Idem</emph></unittitle>
+          	<unitdate type="inclusive">1918 April - 1919 January</unitdate>
+              <physdesc altrender="in-line">1 reel</physdesc>
+            </did>
+          </c04>
+          </c03>
+          <c03>
+          <did><unittitle>Missions a&#x00E9;riennes : r&#x00E9;sum&#x00E9;s des op&#x00E9;rations, re&#x00E7;us notamment des escadrilles</unittitle></did>
+          <c04>
+            <did>
+              <unittitle>19N 615. Comptes rendus des escadrilles</unittitle>
+           	<unitdate type="inclusive">1914 October - 1916 February</unitdate>
+             <physdesc altrender="in-line">5 reels</physdesc>
+            </did>
+          </c04>
+          <c04>
+            <did>
+              <container type="Box"> 6</container>
+              <unittitle>19N 616. Comptes rendus des escadrilles</unittitle>
+           	<unitdate type="inclusive">1914 October - 1916 February</unitdate>
+              <physdesc altrender="in-line">3 reels</physdesc>
+            </did>
+          </c04>
+          <c04>
+            <did>
+              <unittitle>19N 617. Comptes rendus des escadrilles</unittitle>
+           	<unitdate type="inclusive">1914 October - 1916 February</unitdate>
+              <physdesc altrender="in-line">3 reels</physdesc>
+            </did>
+          </c04>
+          <c04>
+            <did>
+              <unittitle>19N 618. <emph render="italic">Idem</emph></unittitle>
+           	<unitdate type="inclusive">1916 March - September</unitdate>
+              <physdesc altrender="in-line">2 reels</physdesc>
+            </did>
+          </c04>
+          <c04>
+            <did>
+              <unittitle>19N 619. <emph render="italic">Idem</emph></unittitle>
+           	<unitdate type="inclusive">1916 March - September</unitdate>
+              <physdesc altrender="in-line">3 reels</physdesc>
+            </did>
+          </c04>
+          <c04>
+            <did>
+              <unittitle>19N 620. <emph render="italic">Idem</emph></unittitle>
+           	<unitdate type="inclusive">1916 March - September</unitdate>
+              <physdesc altrender="in-line">3 reels</physdesc>
+            </did>
+          </c04>
+          <c04>
+            <did>
+              <container type="Box"> 7</container>
+              <unittitle>19N 621. <emph render="italic">Idem</emph></unittitle>
+           	<unitdate type="inclusive">1916 October - 1917 November</unitdate>
+              <physdesc altrender="in-line">3 reels</physdesc>
+            </did>
+          </c04>
+          <c04>
+            <did>
+              <unittitle>19N 622. <emph render="italic">Idem</emph></unittitle>
+           	<unitdate type="inclusive">1916 October - 1917 November</unitdate>
+              <physdesc altrender="in-line">4 reels</physdesc>
+            </did>
+          </c04>
+          <c04>
+            <did>
+              <unittitle>19N 623. <emph render="italic">Idem</emph></unittitle>
+           	<unitdate type="inclusive">1916 October - 1917 November</unitdate>
+              <physdesc altrender="in-line">3 reels</physdesc>
+            </did>
+          </c04>
+        </c03>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>IVe Arm&#x00E9;e. Commandement de l'A&#x00E9;ronautique </unittitle>
+          </did>
+          <c03 id="c03-1.7.4.3.6.2">
+            <did>
+              <unittitle>19N 774. D&#x00E9;cisions de l'a&#x00E9;ronautique et correspondance diverse exp&#x00E9;di&#x00E9;e</unittitle>
+           	<unitdate type="inclusive">1914-1918</unitdate>
+              <physdesc altrender="in-line">2 reels</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box"> 8</container>
+              <unittitle>19N 793. Comptes rendus divers de l'a&#x00E9;ronautique</unittitle>
+            	<unitdate type="inclusive">1915-1918</unitdate>
+             <physdesc altrender="in-line">3 reels</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>19N 794. Comptes rendus de diverses unit&#x00E9;s, indices d'attaque ayant pr&#x00E9;c&#x00E9;d&#x00E9; l'offensive allemande du 15 juillet 1918 en Champgane, photographies a&#x00E9;riennes</unittitle>
+            	<unitdate type="inclusive">1915-1918</unitdate>
+              <physdesc altrender="in-line">1 reel</physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Ve Arm&#x00E9;e. Commandement de l'A&#x00E9;ronautique </unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>19N 944. Ordres d'op&#x00E9;rations, d&#x00E9;cisions journali&#x00E8;res du commandement de l'a&#x00E9;ronautique</unittitle>
+            	<unitdate type="inclusive">1917 February - 1919 January</unitdate>
+              <physdesc altrender="in-line">3 reels</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>19N 945. Ordres particuliers ; comptes rendus p&#x00E9;riodiques des op&#x00E9;rations a&#x00E9;riennes, correspondance diverse &#x00E9;manant de l'a&#x00E9;ronautique</unittitle>
+            	<unitdate type="inclusive">1914 August - 1918 November</unitdate>
+              <physdesc altrender="in-line">2 reels</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>19N 946. Ordres particuliers ; comptes rendus p&#x00E9;riodiques des op&#x00E9;rations a&#x00E9;riennes, correspondance diverse &#x00E9;manant de l'a&#x00E9;ronautique</unittitle>
+            	<unitdate type="inclusive">1914 August - 1918 November</unitdate>
+              <physdesc altrender="in-line">4 reels</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box"> 9</container>
+              <unittitle>19N 947. Personnel, ordres de bataille, composition et stationnement des unit&#x00E9;s, formation des escadrilles ; conf&#x00E9;rences sur l'aviation d'arm&#x00E9;e (1917), sur l'aviation d'observation en campagne (1918), et rapports sur l'emploi de l'a&#x00E9;ronautique (emploi de l'aviation &#x00E0; Verdun, 1916)</unittitle>
+            	<unitdate type="inclusive">1914-1918</unitdate>
+              <physdesc altrender="in-line">2 reels</physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>VIe Arm&#x00E9;e. A&#x00E9;ronautique</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>19N 1117. D&#x00E9;cisions journali&#x00E8;res du commandement de l'a&#x00E9;ronautique</unittitle>
+            	<unitdate type="inclusive">1917 February - 1919 January</unitdate>
+              <physdesc altrender="in-line">3 reels</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>19N 1118. Organisation : personnel, ordres de bataille, emplacements des unit&#x00E9;s; a&#x00E9;rostation</unittitle>
+            	<unitdate type="inclusive">1914 October - 1919 January</unitdate>
+              <physdesc altrender="in-line">2 reels</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>19N 1119. Organisation : personnel, ordres de bataille, emplacements des unit&#x00E9;s; a&#x00E9;rostation</unittitle>
+            	<unitdate type="inclusive">1914 October - 1919 January</unitdate>
+              <physdesc altrender="in-line">2 reels</physdesc>
+            </did>
+          </c03>
+          <c03>
+          <did><unittitle>Op&#x00E9;rations de l'a&#x00E9;ronautique de la VIe arm&#x00E9;e</unittitle></did>
+          <c04>
+             <did>
+              <unittitle>19N 1120. Comptes rendus du travail effectu&#x00E9; et des renseignements recueillis par l'a&#x00E9;ronautique de la VIe arm&#x00E9;e, comptes rendus t&#x00E9;l&#x00E9;graphiques journaliers du G.Q.G</unittitle>
+            	<unitdate type="inclusive">1914 September - 1917 December</unitdate>
+              <physdesc altrender="in-line">3 reels</physdesc>
+            </did>
+          </c04>
+          <c04>
+            <did>
+              <container type="Box"> 10</container>
+              <unittitle>19N 1121. Comptes rendus du travail effectu&#x00E9; et des renseignements recueillis par l'a&#x00E9;ronautique de la VIe arm&#x00E9;e, comptes rendus t&#x00E9;l&#x00E9;graphiques journaliers du G.Q.G</unittitle>
+            	<unitdate type="inclusive">1914 September - 1917 December</unitdate>
+              <physdesc altrender="in-line">1 reel</physdesc>
+            </did>
+          </c04>
+          <c04>
+            <did>
+              <unittitle>19N 1122. <emph render="italic">Idem</emph></unittitle>
+            	<unitdate type="inclusive">1917 January - 1918 November</unitdate>
+              <physdesc altrender="in-line">1 reel</physdesc>
+            </did>
+          </c04>
+          <c04>
+            <did>
+              <unittitle>19N 1123. Rapports sur le fonctionnement de l'a&#x00E9;ronautique pendant les op&#x00E9;rations : offensive de la Malmaison, etc. ; ordres et comptes rendus d'op&#x00E9;rations d'escadrilles</unittitle>
+            	<unitdate type="inclusive">1917 August - 1918 February</unitdate>
+              <physdesc altrender="in-line">1 reel</physdesc>
+            </did>
+          </c04>
+          <c04>
+            <did>
+              <unittitle>19N 1124. Rapports sur l'activit&#x00E9; de l'a&#x00E9;ronautique de l'arm&#x00E9;e, comptes rendus statistiques de quinzaine sur l'activit&#x00E9; de l'aviation fran&#x00E7;aise, &#x00E9;tudes de photgraphies des scadrilles; a&#x00E9;rostation : comptes rendus, ordres et notes relatifs aux op&#x00E9;rations</unittitle>
+            	<unitdate type="inclusive">1916 November - 1918 November</unitdate>
+              <physdesc altrender="in-line">2 reels</physdesc>
+            </did>
+          </c04>
+          <c04>
+            <did>
+              <unittitle>19N 1125. Plans de d&#x00E9;fense et d'emploi de l'a&#x00E9;ronautique, comptes rendus divers d'op&#x00E9;rations et de reconnaissance, dispositions de groupes de combat; D.C.A.</unittitle>
+            	<unitdate type="inclusive">1917 May - 1919 February</unitdate>
+              <physdesc altrender="in-line">2 reels</physdesc>
+            </did>
+          </c04>
+          <c04>
+            <did>
+              <unittitle>19N 1126. Op&#x00E9;rations en 1918 et particuli&#x00E8;rement en Belgique : ordres, comptes rendus bi-mensuels de l'activit&#x00E9; des a&#x00E9;ronautiques fran&#x00E7;aise et ennemie ; a&#x00E9;rostation : ordre de bataille, plan d'emploi, activit&#x00E9; et mouvements des unit&#x00E9;s ; cartes d'itin&#x00E9;raires et d'emplacements de ballons fran&#x00E7;ais</unittitle>
+            	<unitdate type="inclusive">1918</unitdate>
+              <physdesc altrender="in-line">2 reels</physdesc>
+            </did>
+          </c04>
+          <c04>
+            <did>
+              <unittitle>19N 1127. Op&#x00E9;rations en 1918 et particuli&#x00E8;rement en Belgique : ordres, comptes rendus bi-mensuels de l'activit&#x00E9; des a&#x00E9;ronautiques fran&#x00E7;aise et ennemie; a&#x00E9;rostation : ordre de bataille, plan d'emploi, activit&#x00E9; et mouvements des unit&#x00E9;s ; cartes d'itin&#x00E9;raires et d'emplacements de ballons fran&#x00E7;ais</unittitle>
+            	<unitdate type="inclusive">1918</unitdate>
+              <physdesc altrender="in-line">1 reel</physdesc>
+            </did>
+          </c04>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>VIIIe Arm&#x00E9;e (1914-1915). A&#x00E9;ronautique. </unittitle></did>
+	<c03>
+	<did><unittitle>19N 1379. Comptes rendus de l'a&#x00E9;ronautique et des escadrilles </unittitle>
+            	<unitdate type="inclusive">1914-1915</unitdate>
+            <physdesc altrender="in-line">2 reels</physdesc>
+          </did>
+        </c03>
+	</c02>
+        <c02>
+          <did>
+            <container type="Box"> 11</container>
+            <unittitle>VIIIe Arm&#x00E9;e (1917-1919). Commandement de l'A&#x00E9;ronautique</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>19N 1524. Comptes rendus des op&#x00E9;rations a&#x00E9;riennes, de reconnaissances et de r&#x00E9;glages de tires</unittitle>
+            	<unitdate type="inclusive">1915-1918?</unitdate>
+              <physdesc altrender="in-line">4 reels</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>19N 1527. Emplacements et mouvements d'unit&#x00E9;s, terrains d'atterrissage, liaisons ; renseignements sur divers secteurs du front ennemi, photgraphies d'avions allemands</unittitle>
+            	<unitdate type="inclusive">1915-1918</unitdate>
+              <physdesc altrender="in-line">1 reel</physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>IXe Arm&#x00E9;e (1918). A&#x00E9;ronautique</unittitle>
+          </did>
+          <c03 id="c03-1.7.4.3.11.2">
+            <did>
+              <unittitle>19N 1550. Rapports mensuels, ordres, notes, comptes rendus de l'arm&#x00E9;e, correspondance g&#x00E9;n&#x00E9;rale ; ordre de bataille, situations des 10 jours, personnel, situations des avions, observateurs et ballons</unittitle>
+            	<unitdate type="inclusive">1918 April - August</unitdate>
+              <physdesc altrender="in-line">2 reels</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>19N 1551. Rapports mensuels, ordres, notes, comptes rendus de l'arm&#x00E9;e, correspondance g&#x00E9;n&#x00E9;rale ; ordre de bataille, situations des 10 jours, personnel, situations des avions, observateurs et ballons</unittitle>
+            	<unitdate type="inclusive">1918 April - August</unitdate>
+              <physdesc altrender="in-line">2 reels</physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Xe Arm&#x00E9;e. Commandment de l'A&#x00E9;ronautique </unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>19N 1701. D&#x00E9;cisions de l'a&#x00E9;ronautique ; organisation et emploi, renseignements sur l'ennemie, divers</unittitle>
+            	<unitdate type="inclusive">1915-1917</unitdate>
+              <physdesc altrender="in-line">2 reels</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>19N 1702. D&#x00E9;cisions de l'a&#x00E9;ronautique ; organisation et emploi, renseignements sur l'ennemie, divers</unittitle>
+            	<unitdate type="inclusive">1915-1917</unitdate>
+              <physdesc altrender="in-line">3 reels</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box"> 12</container>
+              <unittitle>19N 1704. Renseignements et comptes rendus d'op&#x00E9;rations a&#x00E9;riennes, bulletins journaliers, &#x00E9;tudes de photos, a&#x00E9;rostation </unittitle>
+             	<unitdate type="inclusive">1915 May - 1918 December?</unitdate>
+             <physdesc altrender="in-line">2 reels</physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Arm&#x00E9;e d'Orient. A&#x00E9;ronautique </unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>20N 101. Correspondance et comptes rendus re&#x00E7;us des escadrilles</unittitle>
+             	<unitdate type="inclusive">1915 October - 1916 December</unitdate>
+             <physdesc altrender="in-line">3 reels</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>20N 102. Correspondance et comptes rendus re&#x00E7;us des escadrilles</unittitle>
+             	<unitdate type="inclusive">1915 October - 1916 December</unitdate>
+              <physdesc altrender="in-line">3 reels</physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Commandement des arm&#x00E9;es alli&#x00E9;es en Orient (C.A.A.). Commandement de l'A&#x00E9;ronautique </unittitle>
+          </did>
+          <c03>
+	<did><unittitle>Correspondance re&#x00E7;ue de l'A.F.O.</unittitle></did>
+	<c04>
+            <did>
+              <unittitle>20N 385. Comptes rendus des op&#x00E9;rations a&#x00E9;riennes ; travail prescrit aux escadrilles</unittitle>
+             	<unitdate type="inclusive">1917 January - December</unitdate>
+              <physdesc altrender="in-line">3 reels</physdesc>
+            </did>
+          </c04>
+          <c04>
+            <did>
+              <unittitle>20N 386. Comptes rendus des op&#x00E9;rations a&#x00E9;riennes ; travail prescrit aux escadrilles</unittitle>
+             	<unitdate type="inclusive">1917 January - December</unitdate>
+              <physdesc altrender="in-line">3 reels</physdesc>
+            </did>
+          </c04>
+          <c04>
+            <did>
+              <container type="Box"> 13</container>
+              <unittitle>20N 387. Comptes rendus des op&#x00E9;rations a&#x00E9;riennes</unittitle>
+             	<unitdate type="inclusive">1918 January - September</unitdate>
+              <physdesc altrender="in-line">3 reels</physdesc>
+            </did>
+          </c04>
+	</c03>
+          <c03>
+            <did>
+              <unittitle>20N 389. Comptes rendus d'escadrilles</unittitle>
+             	<unitdate type="inclusive">1917 December - 1918 November</unitdate>
+              <physdesc altrender="in-line">3 reels</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>20N 390. Comptes rendus d'escadrilles</unittitle>
+             	<unitdate type="inclusive">1917 December - 1918 November</unitdate>
+              <physdesc altrender="in-line">2 reels</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>20N 391. Comptes rendus, rapports et renseignements re&#x00E7;us de l'arm&#x00E9;e serbe</unittitle>
+             	<unitdate type="inclusive">1917 September - 1918 October</unitdate>
+             <physdesc altrender="in-line">3 reels</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box"> 14</container>
+              <unittitle>20N 392. Comptes rendus, rapports et renseignements re&#x00E7;us de l'arm&#x00E9;e serbe</unittitle>
+             	<unitdate type="inclusive">1917 September - 1918 October</unitdate>
+              <physdesc altrender="in-line">2 reels</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>20N 398. Terrains d'aviation</unittitle>
+             	<unitdate type="inclusive">1917-1920?</unitdate>
+              <physdesc altrender="in-line">1 reel</physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Arm&#x00E9;e fran&#x00E7;aise d'Orient (A.F.O.) / Arm&#x00E9;e de Hongrie (A.H.)</unittitle>
+          </did>
+          <c03>
+	<did><unittitle>A&#x00E9;ronautique </unittitle></did>
+	<c04>
+            <did>
+              <unittitle>20N 577. Correspondance re&#x00E7;ue de l'a&#x00E9;ronautique (2)</unittitle>
+             	<unitdate type="inclusive">1916 September - 1917 August?</unitdate>
+              <physdesc altrender="in-line">4 reels</physdesc>
+            </did>
+          </c04>
+        </c03>
+          <c03>
+	<did><unittitle>Artillerie de campagne d&#x00E9;tach&#x00E9;e au corps exp&#x00E9;ditionnaire italien (C.E.I.). A&#x00E9;ronautique</unittitle></did>
+	<c04>
+            <did>
+              <unittitle>20N 644. Rapports et comptes rendus d'op&#x00E9;rations a&#x00E9;riennes et de reconnaissances (2)</unittitle>
+             	<unitdate type="inclusive">1916 August - 1918 July</unitdate>
+              <physdesc altrender="in-line">4 reels</physdesc>
+            </did>
+          </c04>
+	</c03>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Groupes d'arm&#x00E9;es du Nord (G.A.N.). A&#x00E9;ronautique </unittitle>
+	</did>
+	<c03>
+	<did><unittitle>Comptes rendus d'op&#x00E9;rations et renseignements re&#x00E7;us du G.Q.G., des arm&#x00E9;es, des groupements, et d'origine diverse</unittitle></did>
+	<c04>
+	<did><unittitle>18N 172. Comptes rendus des grandes unit&#x00E9;s et groupements</unittitle>
+             	<unitdate type="inclusive">1916 November - 1918 April?</unitdate>
+	<physdesc altrender="in-line">2 reels </physdesc>
+          </did>
+	</c04>
+	</c03>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

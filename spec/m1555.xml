@@ -1,0 +1,3359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style_1.xsl"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+    <eadheader findaidstatus="edited-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-CSt">m1555.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Charles Hobson Collection, 1985-2008
+                    <num>M1555</num>
+                </titleproper>
+                <titleproper type="filing">Hobson (Charles)</titleproper>
+                <author>Finding aid prepared by Glynn Edwards</author>
+            </titlestmt>
+            <editionstmt>
+                <p>Finding Aid written by: Glynn Edwards Date completed: August 2007; Updated June 2008</p>
+            </editionstmt>
+            <publicationstmt>
+                <publisher>Department of Special Collections and University Archives</publisher>
+                <address>
+                    <addressline>Stanford University Libraries</addressline>
+                    <addressline>557 Escondido Mall</addressline>
+                    <addressline>Stanford, California, 94305-6064</addressline>
+                    <addressline>Email: specialcollections@stanford.edu</addressline>
+                </address>
+                <date>2008</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2009-09-24T12:49-0700</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>September 2009</date>
+                <item></item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Charles Hobson collection: design and production materials for artist's books,</unittitle>
+            <unitid>M1555</unitid>
+            <repository>
+                <corpname>Department of Special Collections and University Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>25.5 Linear feet</extent>
+                <extent>21 boxes, 16 flat boxes, 1 oversize folder, 5 map folders </extent>
+            </physdesc>
+            <unitdate normal="1985/2008" type="inclusive">1985-2008</unitdate>
+            <physloc id="ref2" label="Location note">Special Collections materials are stored offsite and must be paged in advance. For more information on paging collections, see the department's website: http://library.stanford.edu/depts/spc/spc.html.</physloc>
+            <abstract id="ref1" label="Abstract">The Charles Hobson Collection contains correspondence, design notes, drawings, prints, prototypes, copper plates, etc. used in the creation and publication of artist books.</abstract>
+            <origination label="creator">
+                <persname source="naf" role="Author (aut)">Collins, Billy</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Hobson, Charles</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" role="Author (aut)">Lopez, Barry</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" role="Correspondent (crp)">Mann, Charmetta</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="naf" role="Author (aut)">Twain, Mark, 1835-1910</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Wilbur, Richard</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>The collection was given to Stanford University, Special Collections and University Archives Charles Hobson from January through September 2007, March through May 2008.</p>
+        </acqinfo>
+        <userestrict id="ref4">
+            <head>Publication Rights:</head>
+            <p>All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Special Collections and University Archives, Stanford University Libraries, Stanford, California 94304-6064. Consent is given on behalf of Special Collections as the owner of the physical items and is not intended to include or imply permission from the copyright owner. Such permission must be obtained from the copyright owner, heir(s) or assigns. See: http://library.stanford.edu/depts/spc/pubserv/permissions.html.</p>
+            <p>Restrictions also apply to digital representations of the original materials. Use of digital files is restricted to research and educational purposes.</p>
+        </userestrict>
+        <accessrestrict id="ref3">
+            <head>Access:</head>
+            <p>Collection is open for research.</p>
+        </accessrestrict>
+        <prefercite id="ref5">
+            <head>Preferred Citation note</head>
+            <p>[Identification of item], Charles Hobson Collection, M1555, Dept. of Special Collections, Stanford University Libraries, Stanford, California.</p>
+        </prefercite>
+        <bioghist id="ref9">
+            <head>Biography</head>
+            <p>Charles Hobson is an artist who uses pastel, monotype and other printmaking variations to construct images for books and works on paper. He often works in series, follows a historical theme, and employs the monotype as an under painting for further work with pastel, acrylic and printed texts. He began creating artist's books after working on a tribute book for a friend, Bruce Nelson, after his death in 1984. The book contained Nelson's prose in a small letterpress edition. His first artist's book was Supper in Montmartre which came out in 1985.</p>
+            <p></p>
+            <list type="deflist">
+                <head>Chronological list of Hobson's artists' books:</head>
+                <defitem>
+                    <label>1985</label>
+                    <item>
+                        <emph render="italic">Supper in Montmartre</emph></item>
+                </defitem>
+                <defitem>
+                    <label>1988</label>
+                    <item>
+                        <emph render="italic">Flaubert and Louise</emph></item>
+                </defitem>
+                <defitem>
+                    <label>1990</label>
+                    <item>
+                        <emph render="italic">Leonardo Knows Baseball </emph>(trade edition, 1991)</item>
+                </defitem>
+                <defitem>
+                    <label>1991</label>
+                    <item>
+                        <emph render="italic">Degas Dancing</emph></item>
+                </defitem>
+                <defitem>
+                    <label>1991</label>
+                    <item>
+                        <emph render="italic">Variations on the Word SLEEP</emph></item>
+                </defitem>
+                <defitem>
+                    <label>1994</label>
+                    <item>
+                        <emph render="italic">Balzac's Coffee Pot</emph></item>
+                </defitem>
+                <defitem>
+                    <label>1994</label>
+                    <item>
+                        <emph render="italic">Impromptu</emph></item>
+                </defitem>
+                <defitem>
+                    <label>1994</label>
+                    <item>
+                        <emph render="italic">Parisian Encounters</emph></item>
+                </defitem>
+                <defitem>
+                    <label>1995</label>
+                    <item>
+                        <emph render="italic">Breton's Dream</emph></item>
+                </defitem>
+                <defitem>
+                    <label>1995</label>
+                    <item>
+                        <emph render="italic">Clouds and Dreams</emph></item>
+                </defitem>
+                <defitem>
+                    <label>1995</label>
+                    <item>
+                        <emph render="italic">Magritte's Buckets</emph></item>
+                </defitem>
+                <defitem>
+                    <label>1995</label>
+                    <item>
+                        <emph render="italic">Man Ray's Kiss</emph></item>
+                </defitem>
+                <defitem>
+                    <label>1996</label>
+                    <item>
+                        <emph render="italic">Shipwreck Stories</emph></item>
+                </defitem>
+                <defitem>
+                    <label>1997</label>
+                    <item>
+                        <emph render="italic">Fresnel's Tower</emph></item>
+                </defitem>
+                <defitem>
+                    <label>1997</label>
+                    <item>
+                        <emph render="italic">Lighthouse Legends</emph></item>
+                </defitem>
+                <defitem>
+                    <label>1998</label>
+                    <item>
+                        <emph render="italic">Andromeda Imagined</emph></item>
+                </defitem>
+                <defitem>
+                    <label>1999</label>
+                    <item>
+                        <emph render="italic">Human Touch</emph></item>
+                </defitem>
+                <defitem>
+                    <label>1999</label>
+                    <item>
+                        <emph render="italic">Writing on the Body</emph></item>
+                </defitem>
+                <defitem>
+                    <label>2000</label>
+                    <item>
+                        <emph render="italic">Dancing with Amelia</emph></item>
+                </defitem>
+                <defitem>
+                    <label>2001</label>
+                    <item>
+                        <emph render="italic">Anotaciones</emph></item>
+                </defitem>
+                <defitem>
+                    <label>2001</label>
+                    <item>
+                        <emph render="italic">Seeing Stars</emph></item>
+                </defitem>
+                <defitem>
+                    <label>2002</label>
+                    <item>
+                        <emph render="italic">Taking Off Emily Dickinson's Clothes</emph></item>
+                </defitem>
+                <defitem>
+                    <label>2003</label>
+                    <item>
+                        <emph render="italic">Adam and Eve</emph></item>
+                </defitem>
+                <defitem>
+                    <label>2003</label>
+                    <item>
+                        <emph render="italic">Three Kisses</emph></item>
+                </defitem>
+                <defitem>
+                    <label>2004</label>
+                    <item>
+                        <emph render="italic">Poems from the Heart</emph></item>
+                </defitem>
+                <defitem>
+                    <label>2004</label>
+                    <item>
+                        <emph render="italic">The Writer</emph></item>
+                </defitem>
+                <defitem>
+                    <label>2005</label>
+                    <item>
+                        <emph render="italic">The Mappist</emph></item>
+                </defitem>
+                <defitem>
+                    <label>2006</label>
+                    <item>
+                        <emph render="italic">The Near Woods</emph></item>
+                </defitem>
+                <defitem>
+                    <label>2006</label>
+                    <item>
+                        <emph render="italic">R.O.W.</emph></item>
+                </defitem>
+                <defitem>
+                    <label>2006</label>
+                    <item>
+                        <emph render="italic">red thread, two women</emph></item>
+                </defitem>
+            </list>
+        </bioghist>
+        <scopecontent id="ref10">
+            <head>Scope and Contents note</head>
+            <p>The Charles Hobson Collection contains correspondence, design notes, drawings, prints, prototypes, copper plates, etc. used in the creation and publication of artist books.</p>
+            <p>It is arranged alphabetically by title into twenty nine series. The design notes folder for each book usually contains a list created by the artist of archival material for that project.</p>
+        </scopecontent>
+        <relatedmaterial id="ref6">
+            <head>Related material:</head>
+            <p>Hobson's artist's books are housed in Stanford University's Rare Book Collection.</p>
+        </relatedmaterial>
+        <controlaccess>
+            <persname rules="aacr">Centolella, Tom</persname>
+            <persname rules="aacr">Colet, Louise</persname>
+            <persname rules="aacr">DeMerritt, John</persname>
+            <persname rules="aacr">Earhart, Amelia</persname>
+            <persname rules="aacr">Evans, Kathy</persname>
+            <persname rules="aacr">Flaubert, Gustave</persname>
+            <persname rules="aacr">Levy, Harriet Lane</persname>
+            <persname source="naf">Muybridge, Eadweard, 1830-1904</persname>
+            <persname rules="aacr">Shaw, Alice</persname>
+            <genreform source="LCSH">Artists' books</genreform>
+            <genreform source="aat">Artists' books--United States</genreform>
+            <subject source="LCSH">Constellations--Artists' books</subject>
+            <genreform source="aacr2">Copperplates</genreform>
+            <subject source="aacr2">Longitude--Measurement-- Artists' books</subject>
+            <genreform source="aat">Monotypes</genreform>
+            <genreform source="aat">Photogravure</genreform>
+            <subject source="aacr2">Shipwrecks-- Artists' books</subject>
+            <subject source="aacr2">Typography</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref11" level="series">
+                <did>
+                    <unittitle>Series I. Adam and Eve, 2003</unittitle>
+                </did>
+                <scopecontent id="ref65">
+                    <head>Scope and Contents note</head>
+                    <p>
+                        <emph render="italic">Extracts from the Diaries of Adam &amp; Eve</emph>, as translated by Mark Twain, was made as a limited edition of 38 copies during the summer and fall of 2003. The images of a running man and woman created as pastel monotypes by Charles Hobson are printed as digital pigment prints and are based on the human motion studies by Eadweard Muybridge made in 1901. Additional versions of the Muybridge studies have been collaged onto each page and contain the handwriting of 
+                        <persname>Mark Twain</persname> and 
+                        <persname>Livy Clements</persname> from letters they exchanged in 1903. The concertina and French door structure with cut-out pages and collaged folded sheets has been designed by Charles Hobson and assembled with the assistance of 
+                        <persname>Alice Shaw</persname>. 
+                        <persname>John DeMerritt</persname> made the board covers and slipcase. 13 x 5 3/4 x 1 1/2 inches. 46 pages.</p>
+                </scopecontent>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>Original monotypes, pastels, photocopies, etc. Extra Epson monotype prints, mostly final; including cut outs, etc. (see also Box 2)</unittitle>
+                        <container type="Flat-box">1</container>
+                        <container type="Folder">1-2</container>
+                    </did>
+                </c02>
+                <c02 id="ref43" level="file">
+                    <did>
+                        <unittitle>Cutting templates (board), cutting master (photocopy)</unittitle>
+                        <container type="Flat-box">1</container>
+                        <container type="Folder">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>Templates for cutting Epson monotypes</unittitle>
+                        <container type="Flat-box">1</container>
+                        <container type="Folder">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref45" level="file">
+                    <did>
+                        <unittitle>Printer masters: text pages</unittitle>
+                        <container type="Flat-box">1</container>
+                        <container type="Folder">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle>Masters: concertina spines</unittitle>
+                        <container type="Flat-box">1</container>
+                        <container type="Folder">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>Masters: for Afterward printing</unittitle>
+                        <container type="Flat-box">1</container>
+                        <container type="Folder">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref48" level="file">
+                    <did>
+                        <unittitle>Early trials of Muybridge Epson prints (see also Box 2)</unittitle>
+                        <container type="Flat-box">1</container>
+                        <container type="Folder">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle>Concertina spine pages (some folded)</unittitle>
+                        <container type="Flat-box">1</container>
+                        <container type="Folder">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="file">
+                    <did>
+                        <unittitle>Removed from Flat Box 1: templates, photocopies</unittitle>
+                        <container type="Box">2</container>
+                        <container type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref51" level="file">
+                    <did>
+                        <unittitle>Paper samples</unittitle>
+                        <container type="Box">2</container>
+                        <container type="Folder">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>Early trials of Muybridge Epson prints: Eve leaping: sketches, transparencies, etc.</unittitle>
+                        <container type="Box">2</container>
+                        <container type="Folder">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref53" level="file">
+                    <did>
+                        <unittitle>Prototype bindings (one with concertina spine)</unittitle>
+                        <container type="Box">2</container>
+                        <container type="Folder">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref54" level="file">
+                    <did>
+                        <unittitle>Page designs: refinement of page size and color; mock-ups</unittitle>
+                        <container type="Box">2</container>
+                        <container type="Folder">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref55" level="file">
+                    <did>
+                        <unittitle>Work notes, club paper (notebook, disbound); includes sketches, research, photocopies, correspondence, etc.</unittitle>
+                        <container type="Box">2</container>
+                        <container type="Folder">6-7</container>
+                    </did>
+                </c02>
+                <c02 id="ref56" level="file">
+                    <did>
+                        <unittitle>Early design alternatives: notes and mock-ups (see also Flat Box 1 and Box 3)</unittitle>
+                        <container type="Box">2</container>
+                        <container type="Folder">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref57" level="file">
+                    <did>
+                        <unittitle>Early design alternatives: mock-up cover and paper</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref58" level="file">
+                    <did>
+                        <unittitle>Early set: posted, folded sheets</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref59" level="file">
+                    <did>
+                        <unittitle>Early set: page mock-ups</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref60" level="file">
+                    <did>
+                        <unittitle>Afterward (3 sets, one bound)</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref61" level="file">
+                    <did>
+                        <unittitle>Templates for Muybridge figures: cutting patterns: Eve top 1-5</unittitle>
+                        <container type="Flat-box">4</container>
+                        <container type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>Templates for Muybridge figures: cutting patterns: Adam top 1-5</unittitle>
+                        <container type="Flat-box">4</container>
+                        <container type="Folder">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref63" level="file">
+                    <did>
+                        <unittitle>Templates for Muybridge figures: cutting patterns: Adam bottom 6-9</unittitle>
+                        <container type="Flat-box">4</container>
+                        <container type="Folder">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref64" level="file">
+                    <did>
+                        <unittitle>Templates for Muybridge figures: cutting patterns: Eve bottom 6-9</unittitle>
+                        <container type="Flat-box">4</container>
+                        <container type="Folder">4</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref12" level="series">
+                <did>
+                    <unittitle>Series II. Andromeda Imagined, 1998</unittitle>
+                </did>
+                <scopecontent id="ref66">
+                    <head>Scope and Contents note</head>
+                    <p>Limited edition concertina book by Charles Hobson with six monoprints over star atlas drawings from 1690, six IRIS prints from mixed media drawings, and six hand-punched constellations. Edition of 30. Size: 11 x 10-1/2 x 1-1/4 inches. 32 pages.</p>
+                </scopecontent>
+                <c02 id="ref67" level="file">
+                    <did>
+                        <unittitle>Design notes: diagram for layout of pages, assembly notes, punching diagram for cut-out stars, guide for trimming concertinas, correspondence with printers, binders, and die cutting company</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref68" level="file">
+                    <did>
+                        <unittitle>Research materials and notes; includes research paper as presented to the club, 1998</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref69" level="file">
+                    <did>
+                        <unittitle>Punched star</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref70" level="file">
+                    <did>
+                        <unittitle>Prospectus and photographs</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref71" level="file">
+                    <did>
+                        <unittitle>Spine design</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref72" level="file">
+                    <did>
+                        <unittitle>Star Atlas charts overlays diagram: Helvelius star chart 1690</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref73" level="file">
+                    <did>
+                        <unittitle>Star Atlas charts overlays diagram: Backer's star chart, 1710</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref74" level="file">
+                    <did>
+                        <unittitle>Star Atlas charts overlays diagram: Diagram</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref75" level="file">
+                    <did>
+                        <unittitle>Star Atlas charts overlays diagram: Durer's star chart, 1515</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref76" level="file">
+                    <did>
+                        <unittitle>Star Atlas charts overlays diagram: Apian's star chart, 1540</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref77" level="file">
+                    <did>
+                        <unittitle>Star Atlas charts overlays diagram: Farnese atlas, 400 B.C.</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref78" level="file">
+                    <did>
+                        <unittitle>Star Atlas charts overlays diagram: Vienna mss, 1440</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref79" level="file">
+                    <did>
+                        <unittitle>Star Atlas charts overlays diagram: Cabrarola ceiling, 1575</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref80" level="file">
+                    <did>
+                        <unittitle>Star Atlas charts overlays diagram: Pegasus (the magic horse)</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">14</container>
+                    </did>
+                </c02>
+                <c02 id="ref81" level="file">
+                    <did>
+                        <unittitle>Star Atlas charts overlays diagram: Big Dipper, pointer stars diagram</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">15</container>
+                    </did>
+                </c02>
+                <c02 id="ref82" level="file">
+                    <did>
+                        <unittitle>Star Atlas charts overlays diagram: Perseus (the hero)</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">16</container>
+                    </did>
+                </c02>
+                <c02 id="ref83" level="file">
+                    <did>
+                        <unittitle>Star Atlas charts overlays diagram: Cassiopeia</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">17</container>
+                    </did>
+                </c02>
+                <c02 id="ref84" level="file">
+                    <did>
+                        <unittitle>Star Atlas charts overlays diagram: Andromeda (the daughter)</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">18</container>
+                    </did>
+                </c02>
+                <c02 id="ref85" level="file">
+                    <did>
+                        <unittitle>Star Atlas charts overlays diagram: Cetus (the sea monster)</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">19</container>
+                    </did>
+                </c02>
+                <c02 id="ref86" level="file">
+                    <did>
+                        <unittitle>Star Atlas charts overlays diagram: Cepheas (the king)</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">20</container>
+                    </did>
+                </c02>
+                <c02 id="ref87" level="file">
+                    <did>
+                        <unittitle>Prototypes: cover, pages</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">21</container>
+                    </did>
+                </c02>
+                <c02 id="ref88" level="file">
+                    <did>
+                        <unittitle>Star chart designs (2 folders)</unittitle>
+                        <container type="Flat-box">6</container>
+                        <container type="Folder">1-2</container>
+                    </did>
+                </c02>
+                <c02 id="ref89" level="file">
+                    <did>
+                        <unittitle>Printers' camera ready art for text and Hevelius image</unittitle>
+                        <container type="Flat-box">6</container>
+                        <container type="Folder">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref90" level="file">
+                    <did>
+                        <unittitle>Extra printed pages (no monotyping)</unittitle>
+                        <container type="Flat-box">6</container>
+                        <container type="Folder">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref91" level="file">
+                    <did>
+                        <unittitle>Monotypes</unittitle>
+                        <container type="Flat-box">6</container>
+                        <container type="Folder">5</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref13" level="series">
+                <did>
+                    <unittitle>Series III. Anotaciones, 2001</unittitle>
+                </did>
+                <scopecontent id="ref92">
+                    <head>Scope and Contents note</head>
+                    <p>
+                        <emph render="italic">Anotaciones</emph> is a one-paragraph fiction with sixteen footnotes by Barry Lopez. The footnotes have been printed on laser cut puzzle pieces, all contained in a cigar box with chemise. Assembling the puzzle organizes the footnotes in order to be read. Ink jet monotype, Color Xerox and offset litho. 8 1/2 x 6 1/4 x 2 1/2 inches (size varies from box to box.) Seven pages and a fold out version of assembled puzzle. Edition of 30.</p>
+                </scopecontent>
+                <c02 id="ref93" level="file">
+                    <did>
+                        <unittitle>Barry Lopez – Mendoza Vega: masters, photocopies, transparencies, etc.</unittitle>
+                        <container type="Flat-box">6</container>
+                        <container type="Folder">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref94" level="file">
+                    <did>
+                        <unittitle>Tobacco plant drawings and monotypes</unittitle>
+                        <container type="Flat-box">6</container>
+                        <container type="Folder">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref95" level="file">
+                    <did>
+                        <unittitle>Tobacco plant inkjet monotypes cover</unittitle>
+                        <container type="Flat-box">6</container>
+                        <container type="Folder">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref96" level="file">
+                    <did>
+                        <unittitle>Tobacco plant inkjet monotypes and small trials</unittitle>
+                        <container type="Flat-box">6</container>
+                        <container type="Folder">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref97" level="file">
+                    <did>
+                        <unittitle>Parc Office at Xerox: photocopy of photograph, landscape</unittitle>
+                        <container type="Flat-box">6</container>
+                        <container type="Folder">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref98" level="file">
+                    <did>
+                        <unittitle>Design notes</unittitle>
+                        <container type="Box">7</container>
+                        <container type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref99" level="file">
+                    <did>
+                        <unittitle>Book layout and design</unittitle>
+                        <container type="Box">7</container>
+                        <container type="Folder">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref100" level="file">
+                    <did>
+                        <unittitle>Pictorial background: photocopies, magazine pages, photographs, etc.</unittitle>
+                        <container type="Box">7</container>
+                        <container type="Folder">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref101" level="file">
+                    <did>
+                        <unittitle>Barry Lopez: text originals (photocopies); including correspondence with Lopez</unittitle>
+                        <container type="Box">7</container>
+                        <container type="Folder">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref102" level="file">
+                    <did>
+                        <unittitle>Barry Lopez: design correspondence</unittitle>
+                        <container type="Box">7</container>
+                        <container type="Folder">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref103" level="file">
+                    <did>
+                        <unittitle>Cigar label stamps: templates, photocopies, etc.; includes miscellaneous templates</unittitle>
+                        <container type="Box">7</container>
+                        <container type="Folder">6-7</container>
+                    </did>
+                </c02>
+                <c02 id="ref104" level="file">
+                    <did>
+                        <unittitle>Extra color photocopy versions</unittitle>
+                        <container type="Box">7</container>
+                        <container type="Folder">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref105" level="file">
+                    <did>
+                        <unittitle>Prospectus design</unittitle>
+                        <container type="Box">7</container>
+                        <container type="Folder">9</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref14" level="series">
+                <did>
+                    <unittitle>Series IV. Balzac's Coffee Pot, 1994</unittitle>
+                </did>
+                <scopecontent id="ref106">
+                    <head>Scope and Contents note</head>
+                    <p>
+                        <persname>Honoré de Balzac</persname>'s wry comment on the importance of coffee, together with a reproduction of his handwritten sentence and a pastel monotype by Charles Hobson of his coffee pot. Accordion format. Edition of 5. Size: 8 x 8 inches.</p>
+                </scopecontent>
+                <c02 id="ref107" level="file">
+                    <did>
+                        <unittitle>Book project: binding and cover materials: paper samples, etc.</unittitle>
+                        <container type="Flat-box">6</container>
+                        <container type="Folder">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref108" level="file">
+                    <did>
+                        <unittitle>Book project: book masters: layout versions, matrix for page layout, etc.</unittitle>
+                        <container type="Flat-box">6</container>
+                        <container type="Folder">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref109" level="file">
+                    <did>
+                        <unittitle>Book project: design notes: sketches, photocopy of Balzac's handwriting, etc.</unittitle>
+                        <container type="Box">8</container>
+                        <container type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref110" level="file">
+                    <did>
+                        <unittitle>Book project: monotypes: preparatory and final versions</unittitle>
+                        <container type="Box">8</container>
+                        <container type="Folder">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref111" level="file">
+                    <did>
+                        <unittitle>Broadside project: design notes</unittitle>
+                        <container type="Box">8</container>
+                        <container type="Folder">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref112" level="file">
+                    <did>
+                        <unittitle>Broadside project: color photocopy version</unittitle>
+                        <container type="Box">8</container>
+                        <container type="Folder">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref113" level="file">
+                    <did>
+                        <unittitle>Broadside project: monotypes, various</unittitle>
+                        <container type="Box">8</container>
+                        <container type="Folder">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref114" level="file">
+                    <did>
+                        <unittitle>Broadside project: finished broadsides</unittitle>
+                        <container type="Box">8</container>
+                        <container type="Folder">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref115" level="file">
+                    <did>
+                        <unittitle>Broadside project: broadside text pages</unittitle>
+                        <container type="Box">8</container>
+                        <container type="Folder">7</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref15" level="series">
+                <did>
+                    <unittitle>Series V. Breton's Dreams, 1995</unittitle>
+                </did>
+                <scopecontent id="ref116">
+                    <head>Scope and Contents note</head>
+                    <p>Pastel monotype by Charles Hobson with text on Mylar, mounted on black lacquer miniature ship, with small book describing relationship between 
+                        <persname>Andre Breton</persname> and 
+                        <persname>Admiral Sir Clowdishley Shovell</persname>. Edition of 4. Size: 16 x 12 x 5 inches.</p>
+                </scopecontent>
+                <c02 id="ref117" level="file">
+                    <did>
+                        <unittitle>Master text and design notes (see also Clouds &amp; Dreams)</unittitle>
+                        <container type="Box">8</container>
+                        <container type="Folder">8</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref16" level="series">
+                <did>
+                    <unittitle>Series VI. Clouds and Dreams, 1995</unittitle>
+                </did>
+                <scopecontent id="ref118">
+                    <head>Scope and Contents note</head>
+                    <p>Stacking accordion book in black linen case with photocopy reproductions of cloud images by Charles Hobson and portraits of Surrealists as Longitude Prize Seekers. One of three versions. Size: 10 x 8 x 2 1/2 inches.</p>
+                </scopecontent>
+                <c02 id="ref119" level="file">
+                    <did>
+                        <unittitle>Research and essay re: navigation</unittitle>
+                        <container type="Box">8</container>
+                        <container type="Folder">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref120" level="file">
+                    <did>
+                        <unittitle>Portrait drawings: Max Ernst</unittitle>
+                        <container type="Box">8</container>
+                        <container type="Folder">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref121" level="file">
+                    <did>
+                        <unittitle>Portrait drawings: Dali</unittitle>
+                        <container type="Box">8</container>
+                        <container type="Folder">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref122" level="file">
+                    <did>
+                        <unittitle>Portrait drawings: De Chirico</unittitle>
+                        <container type="Box">8</container>
+                        <container type="Folder">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref123" level="file">
+                    <did>
+                        <unittitle>Portrait drawings: Picasso / Miro</unittitle>
+                        <container type="Box">8</container>
+                        <container type="Folder">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref124" level="file">
+                    <did>
+                        <unittitle>Portrait drawings: Yves Tangvy</unittitle>
+                        <container type="Box">8</container>
+                        <container type="Folder">14</container>
+                    </did>
+                </c02>
+                <c02 id="ref125" level="file">
+                    <did>
+                        <unittitle>Portrait drawings: Andrew Breton</unittitle>
+                        <container type="Box">8</container>
+                        <container type="Folder">15</container>
+                    </did>
+                </c02>
+                <c02 id="ref126" level="file">
+                    <did>
+                        <unittitle>Portrait drawings: Man Ray</unittitle>
+                        <container type="Box">8</container>
+                        <container type="Folder">16</container>
+                    </did>
+                </c02>
+                <c02 id="ref127" level="file">
+                    <did>
+                        <unittitle>Portrait drawings: Magritte</unittitle>
+                        <container type="Box">8</container>
+                        <container type="Folder">17</container>
+                    </did>
+                </c02>
+                <c02 id="ref128" level="file">
+                    <did>
+                        <unittitle>Miscellaneous patterns and matrices</unittitle>
+                        <container type="Box">8</container>
+                        <container type="Folder">18</container>
+                    </did>
+                </c02>
+                <c02 id="ref129" level="file">
+                    <did>
+                        <unittitle>Photographs of clouds (see Flat Box #6 for color photocopies of clouds)</unittitle>
+                        <container type="Box">8</container>
+                        <container type="Folder">19</container>
+                    </did>
+                </c02>
+                <c02 id="ref130" level="file">
+                    <did>
+                        <unittitle>Photographs and color photocopies of clouds</unittitle>
+                        <container type="Flat-box">9</container>
+                        <container type="Folder">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref131" level="file">
+                    <did>
+                        <unittitle>Loose patterns, art</unittitle>
+                        <container type="Flat-box">9</container>
+                        <container type="Folder">12</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref17" level="series">
+                <did>
+                    <unittitle>Series VII. Dancing with Amelia, 2000</unittitle>
+                </did>
+                <scopecontent id="ref132">
+                    <head>Scope and Contents note</head>
+                    <p>Six short fictions and twelve IRIS prints taken from six mixed media drawings of dancing couples by Charles Hobson. The cover is constructed of laser cut boards printed with cut-out images of contrasting clouds, and the book is protected by a cloth covered chemise. Edition of 38. Size: 6 1/4 x 8 1/2 inches closed (7 feet long when extended). 36 pages.</p>
+                </scopecontent>
+                <c02 id="ref133" level="file">
+                    <did>
+                        <unittitle>Work notes</unittitle>
+                        <container type="Box">8</container>
+                        <container type="Folder">20</container>
+                    </did>
+                </c02>
+                <c02 id="ref134" level="file">
+                    <did>
+                        <unittitle>Early book design alternatives</unittitle>
+                        <container type="Box">8</container>
+                        <container type="Folder">21v</container>
+                    </did>
+                </c02>
+                <c02 id="ref135" level="file">
+                    <did>
+                        <unittitle>Early book design alternatives</unittitle>
+                        <container type="Box">8</container>
+                        <container type="Folder">22v</container>
+                    </did>
+                </c02>
+                <c02 id="ref136" level="file">
+                    <did>
+                        <unittitle>Early book design alternatives</unittitle>
+                        <container type="Box">8</container>
+                        <container type="Folder">23v</container>
+                    </did>
+                </c02>
+                <c02 id="ref137" level="file">
+                    <did>
+                        <unittitle>Cover design trials</unittitle>
+                        <container type="Flat-box">9</container>
+                        <container type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref138" level="file">
+                    <did>
+                        <unittitle>Cover design trials - laser cutting experiments</unittitle>
+                        <container type="Flat-box">9</container>
+                        <container type="Folder">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref139" level="file">
+                    <did>
+                        <unittitle>Cover design trials - laser cutting experiments</unittitle>
+                        <container type="Flat-box">9</container>
+                        <container type="Folder">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref140" level="file">
+                    <did>
+                        <unittitle>Original drawings and monotypes</unittitle>
+                        <container type="Flat-box">9</container>
+                        <container type="Folder">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref141" level="file">
+                    <did>
+                        <unittitle>Production materials - text masters</unittitle>
+                        <container type="Flat-box">9</container>
+                        <container type="Folder">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref142" level="file">
+                    <did>
+                        <unittitle>Production materials - registration masters</unittitle>
+                        <container type="Flat-box">9</container>
+                        <container type="Folder">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref143" level="file">
+                    <did>
+                        <unittitle>Historical airplane design form</unittitle>
+                        <container type="Box">10</container>
+                        <container type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref144" level="file">
+                    <did>
+                        <unittitle>Cover design trials - preliminary cut-outs</unittitle>
+                        <container type="Box">10</container>
+                        <container type="Folder">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref145" level="file">
+                    <did>
+                        <unittitle>Amelia handwriting examples</unittitle>
+                        <container type="Box">10</container>
+                        <container type="Folder">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref146" level="file">
+                    <did>
+                        <unittitle>Die cut for cutting airplane shape (wood backed)</unittitle>
+                        <container type="Box">10</container>
+                        <container type="Folder">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref147" level="file">
+                    <did>
+                        <unittitle>Extra pages for small version</unittitle>
+                        <container type="Box">10</container>
+                        <container type="Folder">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref148" level="file">
+                    <did>
+                        <unittitle>Spine labels</unittitle>
+                        <container type="Box">10</container>
+                        <container type="Folder">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref149" level="file">
+                    <did>
+                        <unittitle>Chemise pattern</unittitle>
+                        <container type="Box">10</container>
+                        <container type="Folder">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref150" level="file">
+                    <did>
+                        <unittitle>Sample cut-outs</unittitle>
+                        <container type="Box">10</container>
+                        <container type="Folder">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref151" level="file">
+                    <did>
+                        <unittitle>Trade edition mock-up</unittitle>
+                        <container type="Box">10</container>
+                        <container type="Folder">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref152" level="file">
+                    <did>
+                        <unittitle>Prospectus design and samples</unittitle>
+                        <container type="Box">10</container>
+                        <container type="Folder">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref153" level="file">
+                    <did>
+                        <unittitle>Extra pages</unittitle>
+                        <container type="Box">10</container>
+                        <container type="Folder">11</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref18" level="series">
+                <did>
+                    <unittitle>Series VIII. Degas Dancing, 1991</unittitle>
+                </did>
+                <scopecontent id="ref154">
+                    <head>Scope and Contents note</head>
+                    <p>A fragmentary biography of Edgar Degas with five portrait monotypes accompanied by the writing of Degas and others marking key passages in his life. Most monotype folders include photographs, transparencies, notes, etc. Book information: easel accordion; edition of 10.</p>
+                </scopecontent>
+                <c02 id="ref155" level="file">
+                    <did>
+                        <unittitle>Design notes: various diagrams, pencil drawings, invoice, and paper samples</unittitle>
+                        <container type="Box">11</container>
+                        <container type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref156" level="file">
+                    <did>
+                        <unittitle>Typographic layout - alternative formats, masters, alternative papers</unittitle>
+                        <container type="Box">11</container>
+                        <container type="Folder">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref157" level="file">
+                    <did>
+                        <unittitle>Research and early drafts of texts; including research paper entitled "Degas Lesson Book" and additional narrative entitled "Dancing Lessons"</unittitle>
+                        <container type="Box">11</container>
+                        <container type="Folder">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref158" level="file">
+                    <did>
+                        <unittitle>Production materials and extra pages - labels</unittitle>
+                        <container type="Flat-box">9</container>
+                        <container type="Folder">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref159" level="file">
+                    <did>
+                        <unittitle>Monotypes: young Degas; includes photocopies made in conjunction with residency at Xerox PARC Tech Museum (2000)</unittitle>
+                        <container type="Flat-box">9</container>
+                        <container type="Folder">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref160" level="file">
+                    <did>
+                        <unittitle>Monotypes: Degas and streetcar</unittitle>
+                        <container type="Flat-box">9</container>
+                        <container type="Folder">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref161" level="file">
+                    <did>
+                        <unittitle>Monotypes: Degas dancing</unittitle>
+                        <container type="Flat-box">9</container>
+                        <container type="Folder">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref162" level="file">
+                    <did>
+                        <unittitle>Monotypes: Degas sitting</unittitle>
+                        <container type="Flat-box">12</container>
+                        <container type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref163" level="file">
+                    <did>
+                        <unittitle>Monotypes: Degas walking</unittitle>
+                        <container type="Flat-box">12</container>
+                        <container type="Folder">2</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref19" level="series">
+                <did>
+                    <unittitle>Series IX. Flaubert &amp; Louise, 1988</unittitle>
+                </did>
+                <scopecontent id="ref164">
+                    <head>Scope and Contents note</head>
+                    <p>Portfolio of five monotypes accompanying the exchange of letters between Gustave Flaubert and Louise Colet in the 1840s. Folders in Flat Box #12 include: early trials and drawings, photocopies, photographs, early proofs, photo etchings (not used in book), monotype variations. Book information: co-published with Limestone Press; edition of 18.</p>
+                </scopecontent>
+                <c02 id="ref165" level="file">
+                    <did>
+                        <unittitle>General background: correspondence with Limestone press, guest list for dinner party, permissions from publishers and authors (including note from Julian Barnes, 1988), invoices, expense records, prospectuses, etc.</unittitle>
+                        <container type="Box">11</container>
+                        <container type="Folder">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref166" level="file">
+                    <did>
+                        <unittitle>Text and background: typescript for letterpress and Steegmuller translation.</unittitle>
+                        <container type="Box">11</container>
+                        <container type="Folder">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref167" level="file">
+                    <did>
+                        <unittitle>Early trials - Five Roses: etchings, transparencies</unittitle>
+                        <container type="Box">11</container>
+                        <container type="Folder">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref168" level="file">
+                    <did>
+                        <unittitle>Images: Rose and Pruning Shears</unittitle>
+                        <container type="Flat-box">12</container>
+                        <container type="Folder">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref169" level="file">
+                    <did>
+                        <unittitle>Images: Chateaubriand's Grave</unittitle>
+                        <container type="Flat-box">12</container>
+                        <container type="Folder">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref170" level="file">
+                    <did>
+                        <unittitle>Images: Louise's Flower</unittitle>
+                        <container type="Flat-box">12</container>
+                        <container type="Folder">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref171" level="file">
+                    <did>
+                        <unittitle>Images: The Epistolary Relationship</unittitle>
+                        <container type="Flat-box">12</container>
+                        <container type="Folder">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref172" level="file">
+                    <did>
+                        <unittitle>Images: The Last Letter</unittitle>
+                        <container type="Flat-box">12</container>
+                        <container type="Folder">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref173" level="file">
+                    <did>
+                        <unittitle>Early trials - Flaubert's Rose: etchings, transparencies</unittitle>
+                        <container type="Flat-box">12</container>
+                        <container type="Folder">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref174" level="file">
+                    <did>
+                        <unittitle>Early trials: etchings from life drawing (nude with window, Pradier's studio)</unittitle>
+                        <container type="Flat-box">12</container>
+                        <container type="Folder">9</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref20" level="series">
+                <did>
+                    <unittitle>Series X. Fresnel's Tower, 1997</unittitle>
+                </did>
+                <scopecontent id="ref175">
+                    <head>Scope and Contents note</head>
+                    <p>Book information: limited edition of 38; typefaces are Cantoria and New Century Schoolbook; Hobson made the drawing for the hand colored photogravure; the photogravure was printed by Kay Bradner and Hobson. The cylinders are wrapped with hand painted Rives Lightweight paper and reproductions of monotypes of clouds by Hobson. It was assembled with the assistance of Celeste Wiedmann; John DeMerritt constructed the boxes.</p>
+                </scopecontent>
+                <c02 id="ref176" level="file">
+                    <did>
+                        <unittitle>General notes: design notes, correspondence with bookbinder, fabric samples</unittitle>
+                        <container type="Box">11</container>
+                        <container type="Folder">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref177" level="file">
+                    <did>
+                        <unittitle>Box components: box design notes, partial matrix, label designs</unittitle>
+                        <container type="Box">11</container>
+                        <container type="Folder">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref178" level="file">
+                    <did>
+                        <unittitle>Cover components: design notes, photocopies, transparencies, cover matrix, early cover trials and mock-ups, two trial books (cover and text block), book labels</unittitle>
+                        <container type="Box">11</container>
+                        <container type="Folder">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref179" level="file">
+                    <did>
+                        <unittitle>Text block components: notes on text, text trials, end-sheet matrix, preliminary text version, layout with registration marks, mock-up text block with notes, reject text blocks, extra final text blocks</unittitle>
+                        <container type="Box">11</container>
+                        <container type="Folder">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref180" level="file">
+                    <did>
+                        <unittitle>Photogravure trials: inking notes, trial proofs (17; two with notes and hand coloring)</unittitle>
+                        <container type="Box">11</container>
+                        <container type="Folder">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref181" level="file">
+                    <did>
+                        <unittitle>Separator cards: extra materials for separator cards, design matrix, receipt, design notes, masters for text layout, extra small card</unittitle>
+                        <container type="Box">11</container>
+                        <container type="Folder">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref182" level="file">
+                    <did>
+                        <unittitle>Related supplemental materials - limited edition print: limited edition photogravure with exhibition announcement from Dorothy Weiss Gallery.</unittitle>
+                        <container type="Box">11</container>
+                        <container type="Folder">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref183" level="file">
+                    <did>
+                        <unittitle>Cylinder design notes; includes matrices for cylinders and warps</unittitle>
+                        <container type="Flat-box">13</container>
+                        <container type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref184" level="file">
+                    <did>
+                        <unittitle>Design ideas for external cylinder wraps: photocopies of various lighthouse drawings (at various sizes), copies cut out and placed on layouts with notes</unittitle>
+                        <container type="Flat-box">13</container>
+                        <container type="Folder">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref185" level="file">
+                    <did>
+                        <unittitle>Exterior cylinder wraps: extra photocopies on painted paper, etc.</unittitle>
+                        <container type="Flat-box">13</container>
+                        <container type="Folder">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref186" level="file">
+                    <did>
+                        <unittitle>Design notes for clouds: magazine pages, transparencies, transparency tracings, original drawings</unittitle>
+                        <container type="Flat-box">13</container>
+                        <container type="Folder">4-7</container>
+                    </did>
+                </c02>
+                <c02 id="ref187" level="file">
+                    <did>
+                        <unittitle>Original monotypes for clouds (cylinder interiors): night sky, high sky, low sky, ocean, etc.</unittitle>
+                        <container type="Flat-box">13</container>
+                        <container type="Folder">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref188" level="file">
+                    <did>
+                        <unittitle>Interior cylinder wraps: extra uncut color photocopies of cloud monotypes, some mis-cuts and odd sizes</unittitle>
+                        <container type="Flat-box">13</container>
+                        <container type="Folder">9</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref21" level="series">
+                <did>
+                    <unittitle>Series XI. Human Touch, 1999</unittitle>
+                </did>
+                <scopecontent id="ref189">
+                    <head>Scope and Contents note</head>
+                    <p>Seven reproduced drawings of hands printed on hand-painted Rives heavyweight paper. Imitation vellum overlays of words from such sources as Ecclesiastes, Buddha, Georgia O'Keeffe, et al. Book information: edition of 30, stab binding.</p>
+                </scopecontent>
+                <c02 id="ref190" level="file">
+                    <did>
+                        <unittitle>Original drawings: preliminary</unittitle>
+                        <container type="Flat-box">13</container>
+                        <container type="Folder">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref191" level="file">
+                    <did>
+                        <unittitle>Original drawings: photocopies without text</unittitle>
+                        <container type="Flat-box">13</container>
+                        <container type="Folder">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref192" level="file">
+                    <did>
+                        <unittitle>Original drawings: photocopies with text</unittitle>
+                        <container type="Flat-box">13</container>
+                        <container type="Folder">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref193" level="file">
+                    <did>
+                        <unittitle>Garden layout, early text and design trials</unittitle>
+                        <container type="Flat-box">13</container>
+                        <container type="Folder">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref194" level="file">
+                    <did>
+                        <unittitle>Binding guides</unittitle>
+                        <container type="Flat-box">13</container>
+                        <container type="Folder">14</container>
+                    </did>
+                </c02>
+                <c02 id="ref195" level="file">
+                    <did>
+                        <unittitle>Original India ink drawings (twenty; seven final images)</unittitle>
+                        <container type="Oversize-folder">15</container>
+                    </did>
+                </c02>
+                <c02 id="ref196" level="file">
+                    <did>
+                        <unittitle>Design notes: first version: layout details</unittitle>
+                        <container type="Box">14</container>
+                        <container type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref197" level="file">
+                    <did>
+                        <unittitle>Text and image for second version</unittitle>
+                        <container type="Box">14</container>
+                        <container type="Folder">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref198" level="file">
+                    <did>
+                        <unittitle>Extra pages: images and work overlays</unittitle>
+                        <container type="Box">14</container>
+                        <container type="Folder">3</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref22" level="series">
+                <did>
+                    <unittitle>Series XII. Impromptu, 1994</unittitle>
+                </did>
+                <scopecontent id="ref199">
+                    <head>Scope and Contents note</head>
+                    <p>A collaborative poem by Tom Centolella and Kathy Evans with six images each by Kay Bradner and Charles Hobson. Edition of 100. Photo-offset, some with original photographs tipped in.</p>
+                </scopecontent>
+                <c02 id="ref200" level="file">
+                    <did>
+                        <unittitle>Design notes: Early layouts; Image design ideas with photos and color photocopies; Final book design notes</unittitle>
+                        <container type="Box">14</container>
+                        <container type="Folder">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref201" level="file">
+                    <did>
+                        <unittitle>Text edits: A. Early versions. B. Final versions</unittitle>
+                        <container type="Box">14</container>
+                        <container type="Folder">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref202" level="file">
+                    <did>
+                        <unittitle>Paste up original page spreads with photos</unittitle>
+                        <container type="Box">14</container>
+                        <container type="Folder">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref203" level="file">
+                    <did>
+                        <unittitle>Photo layouts - two page spreads with color photographs and music notation comparing Bradner and Hobson images.</unittitle>
+                        <container type="Box">14</container>
+                        <container type="Folder">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref204" level="file">
+                    <did>
+                        <unittitle>Music notations, preliminary (5A) and final (5B) - reproduction of Chopin and Impromptu.</unittitle>
+                        <container type="Box">14</container>
+                        <container type="Folder">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref205" level="file">
+                    <did>
+                        <unittitle>Cover and binding design</unittitle>
+                        <container type="Box">14</container>
+                        <container type="Folder">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref206" level="file">
+                    <did>
+                        <unittitle>Prototypes - three versions of book, dummy</unittitle>
+                        <container type="Box">14</container>
+                        <container type="Folder">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref207" level="file">
+                    <did>
+                        <unittitle>Color photographs - photographs of original monotypes and final page versions.</unittitle>
+                        <container type="Box">14</container>
+                        <container type="Folder">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref208" level="file">
+                    <did>
+                        <unittitle>Afterward: photocopies</unittitle>
+                        <container type="Box">14</container>
+                        <container type="Folder">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref209" level="file">
+                    <did>
+                        <unittitle>Monotypes: Old Shoes and Rug: ghost and counter-proof</unittitle>
+                        <container type="Flat-box">13</container>
+                        <container type="Folder">15</container>
+                    </did>
+                </c02>
+                <c02 id="ref210" level="file">
+                    <did>
+                        <unittitle>Monotypes: Pillows and Rose: ghost</unittitle>
+                        <container type="Flat-box">13</container>
+                        <container type="Folder">16</container>
+                    </did>
+                </c02>
+                <c02 id="ref211" level="file">
+                    <did>
+                        <unittitle>Monotypes: Straw Hat in Sun: ghost</unittitle>
+                        <container type="Flat-box">13</container>
+                        <container type="Folder">17</container>
+                    </did>
+                </c02>
+                <c02 id="ref212" level="file">
+                    <did>
+                        <unittitle>Monotypes: Lamp and Books: ghost</unittitle>
+                        <container type="Flat-box">13</container>
+                        <container type="Folder">18</container>
+                    </did>
+                </c02>
+                <c02 id="ref213" level="file">
+                    <did>
+                        <unittitle>Monotypes: Shirt on Chair: ghost and counter-proof</unittitle>
+                        <container type="Flat-box">13</container>
+                        <container type="Folder">19</container>
+                    </did>
+                </c02>
+                <c02 id="ref214" level="file">
+                    <did>
+                        <unittitle>Monotypes: Rose in gardens</unittitle>
+                        <container type="Flat-box">13</container>
+                        <container type="Folder">20</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref23" level="series">
+                <did>
+                    <unittitle>Series XIII. Leonardo Knows Baseball, 1990</unittitle>
+                </did>
+                <scopecontent id="ref215">
+                    <head>Scope and Contents note</head>
+                    <p>Twenty copies of Leonardo Knows Baseball were made during the spring and summer of 1990. The five soft ground etchings were printed on BFK Rives at Stinson Beach, California on a Littlejohn Press. Fifteen copies were assembled as accordion fold books with the assistance of Alice Shaw and five copies have been prepared as portfolio versions. Completed in September 1990. A trade edition based on the limited edition was published by Chronicle Books, San Francisco, in 1991.</p>
+                </scopecontent>
+                <c02 id="ref216" level="file">
+                    <did>
+                        <unittitle>Book Design Notes: design and layout notes, registration guides, and production cost estimate</unittitle>
+                        <container type="Box">17</container>
+                        <container type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref217" level="file">
+                    <did>
+                        <unittitle>Correspondence and 10 trial proofs for aborted project at Limestone Press</unittitle>
+                        <container type="Box">17</container>
+                        <container type="Folder">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref218" level="file">
+                    <did>
+                        <unittitle>Text Masters and Trials: formatting and layout proofs for the text of the book, print trials, mockup dummy book of text layout only</unittitle>
+                        <container type="Box">17</container>
+                        <container type="Folder">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref219" level="file">
+                    <did>
+                        <unittitle>Labels: trials for cover labels on a variety of papers, proof colophon, proofs of actual cover labels; extra spine labels</unittitle>
+                        <container type="Box">17</container>
+                        <container type="Folder">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref220" level="file">
+                    <did>
+                        <unittitle>Book Dummy: accordion book dummy made with Xerox images</unittitle>
+                        <container type="Box">17</container>
+                        <container type="Folder">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref221" level="file">
+                    <did>
+                        <unittitle>Plate Design Notes: various newspaper and magazine clippings of baseball players in motion</unittitle>
+                        <container type="Box">17</container>
+                        <container type="Folder">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref222" level="file">
+                    <did>
+                        <unittitle>Steelplates</unittitle>
+                        <container type="Box">17</container>
+                        <container type="Folder">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref223" level="file">
+                    <did>
+                        <unittitle>Plate I - Batter: Soft Ground Etching Materials - transparency, actual soft ground etching drawing, 6 trial proofs with notes</unittitle>
+                        <container type="Box">17</container>
+                        <container type="Folder">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref224" level="file">
+                    <did>
+                        <unittitle>Book Prospectus with prospectus text proof</unittitle>
+                        <container type="Box">17</container>
+                        <container type="Folder">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref225" level="file">
+                    <did>
+                        <unittitle>Plate I - Batter: Monotype Materials - monotype inking notes; 7 photocopy trials on various painted papers; 3 monotype trials</unittitle>
+                        <container type="Flat-box">16</container>
+                        <container type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref226" level="file">
+                    <did>
+                        <unittitle>Plate II - Pitcher: Soft Ground Etching Materials - inking notes, registration notes, 4 trial proofs with notes, 1 trial proof on large sheet</unittitle>
+                        <container type="Flat-box">16</container>
+                        <container type="Folder">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref227" level="file">
+                    <did>
+                        <unittitle>Plate II - Pitcher [Throwing]: Monotype Materials - photos of monotypes, 4 photocopy trials on painted paper, 5 monotype trials (3 on large sheets, 2 cut down)</unittitle>
+                        <container type="Flat-box">16</container>
+                        <container type="Folder">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref228" level="file">
+                    <did>
+                        <unittitle>Plate III - Sun [Shadow/Fielder]: Soft ground etching Materials - inking notes, 4 trial proofs (one on large sheet), 5 trial proofs on page layout (four with text)</unittitle>
+                        <container type="Flat-box">16</container>
+                        <container type="Folder">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref229" level="file">
+                    <did>
+                        <unittitle>Plate III - Sun: Monotype Materials - photo of monotype, photocopies, Original Drawings (sketch, original drawing, and tracing), 3 monotype trials</unittitle>
+                        <container type="Flat-box">16</container>
+                        <container type="Folder">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref230" level="file">
+                    <did>
+                        <unittitle>Plate IV - Run Home: Soft Ground Etching Materials - inking notes, registration matrix, original drawing and photocopy, 6 trial proofs with notes, 7 additional trial proofs (one on large sheet), 4 trial proofs on page layout with text</unittitle>
+                        <container type="Flat-box">16</container>
+                        <container type="Folder">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref231" level="file">
+                    <did>
+                        <unittitle>Plate IV - Run Home: Monotype Materials - inking notes, 3 photocopy trials on painted papers, 3 monotype trials</unittitle>
+                        <container type="Flat-box">16</container>
+                        <container type="Folder">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref232" level="file">
+                    <did>
+                        <unittitle>Plate V - Umpire: Soft Ground Etching Materials - inking notes, transparencies, registration matrix, 5 trial proofs with notes, 1 additional trial proofs on large sheet</unittitle>
+                        <container type="Flat-box">16</container>
+                        <container type="Folder">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref233" level="file">
+                    <did>
+                        <unittitle>Plate V - Umpire: Monotype Materials - photo of monotype, 4 photocopy trials on painted paper (one with pastel &amp; charcoal drawing), 6 monotype trials</unittitle>
+                        <container type="Flat-box">16</container>
+                        <container type="Folder">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref234" level="file">
+                    <did>
+                        <unittitle>Plate VI - Catch (cover for trade edition only): Monotype Materials - photo of monotype, transparencies, photocopies; Original Drawings (sketch, original drawing, and tracing); 3 photocopy trials on painted papers; 4 monotype trials</unittitle>
+                        <container type="Flat-box">16</container>
+                        <container type="Folder">10</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref24" level="series">
+                <did>
+                    <unittitle>Series XIV. Lighthouse Legends, 1997</unittitle>
+                </did>
+                <scopecontent id="ref235">
+                    <head>Scope and Contents note</head>
+                    <p>A series of unique books created from pastel monotypes and found books, each based on a story around a dramatic time at a lighthouse. (Described in Why I Love Books, pp. 38-39.)</p>
+                </scopecontent>
+                <c02 id="ref236" level="file">
+                    <did>
+                        <unittitle>Descriptive memo detailing project; preliminary draft and final version</unittitle>
+                        <container type="Box">17</container>
+                        <container type="Folder">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref237" level="file">
+                    <did>
+                        <unittitle>Design materials - Parting Shot: Boston Light charts; cut out shapes and references; color photocopy trials.</unittitle>
+                        <container type="Flat-box">16</container>
+                        <container type="Folder">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref238" level="file">
+                    <did>
+                        <unittitle>Design materials - The Roar: Maninicus charts; cut-out of figure and references; color photocopies trials</unittitle>
+                        <container type="Flat-box">16</container>
+                        <container type="Folder">12</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref25" level="series">
+                <did>
+                    <unittitle>Series XV. Magritte's Buckets, 1995</unittitle>
+                </did>
+                <scopecontent id="ref239">
+                    <head>Scope and Contents note</head>
+                    <p>Two pastel monotypes by Charles Hobson mounted in buckets made from board, copper, wire, brass tubing &amp; bamboo, with small book. Subject is an outgrowth of navigation and surrealism project. In the search for a relationship between Rene Magritte and Isaac Hawkins, who thought you could calculate longitude at sea by measuring high and low tides. Several initial ideas were sketched out and later abandoned. A photograph in a book of Magritte's studio showed two buckets on the floor - used buckets as measuring devices. Edition of 10.</p>
+                </scopecontent>
+                <c02 id="ref240" level="file">
+                    <did>
+                        <unittitle>Design notes-Materials, invoices, fabrication notes, production photographs, sketch book drawings and 3/16/95 production drawing</unittitle>
+                        <container type="Box">17</container>
+                        <container type="Folder">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref241" level="file">
+                    <did>
+                        <unittitle>Final Production Patterns and Masters - typography, sample paper and photo copy transparencies</unittitle>
+                        <container type="Box">17</container>
+                        <container type="Folder">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref242" level="file">
+                    <did>
+                        <unittitle>Small Bucket Working Materials-Including monotypes and layout patterns</unittitle>
+                        <container type="Box">17</container>
+                        <container type="Folder">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref243" level="file">
+                    <did>
+                        <unittitle>Production Pieces-Extra labels and scroll papers</unittitle>
+                        <container type="Box">17</container>
+                        <container type="Folder">14</container>
+                    </did>
+                </c02>
+                <c02 id="ref244" level="file">
+                    <did>
+                        <unittitle>Bucket Wrap Materials-Color photo copies and monotype ghosts.</unittitle>
+                        <container type="Flat-box">16</container>
+                        <container type="Folder">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref245" level="file">
+                    <did>
+                        <unittitle>Prototypes - sample boxes and sample handle materials including bamboo and copper.</unittitle>
+                        <container type="Flat-box">18</container>
+                        <container type="Folder">1</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref26" level="series">
+                <did>
+                    <unittitle>Series XVI. Man Ray's Kiss, 1995</unittitle>
+                </did>
+                <scopecontent id="ref246">
+                    <head>Scope and Contents note</head>
+                    <p>Pastel monotype by Charles Hobson and accordion book of handwritten text on hand-painted BFK Rives, together with metronome and small book describing relationship between John Harrison and Man Ray. Edition of 4 variations. Size: 9 x 5 x 5 inches.</p>
+                </scopecontent>
+                <c02 id="ref247" level="file">
+                    <did>
+                        <unittitle>Design notes</unittitle>
+                        <container type="Box">17</container>
+                        <container type="Folder">15</container>
+                    </did>
+                </c02>
+                <c02 id="ref248" level="file">
+                    <did>
+                        <unittitle>Small Book Design</unittitle>
+                        <container type="Box">17</container>
+                        <container type="Folder">16</container>
+                    </did>
+                </c02>
+                <c02 id="ref249" level="file">
+                    <did>
+                        <unittitle>Accordion Structure - patterns and samples, text, typography</unittitle>
+                        <container type="Box">17</container>
+                        <container type="Folder">17</container>
+                    </did>
+                </c02>
+                <c02 id="ref250" level="file">
+                    <did>
+                        <unittitle>Hinging Materials</unittitle>
+                        <container type="Box">17</container>
+                        <container type="Folder">18</container>
+                    </did>
+                </c02>
+                <c02 id="ref251" level="file">
+                    <did>
+                        <unittitle>Man Ray's Kiss Titles</unittitle>
+                        <container type="Box">17</container>
+                        <container type="Folder">19</container>
+                    </did>
+                </c02>
+                <c02 id="ref252" level="file">
+                    <did>
+                        <unittitle>Lips and Placement Patterns. Monotypes, etc</unittitle>
+                        <container type="Box">17</container>
+                        <container type="Folder">20</container>
+                    </did>
+                </c02>
+                <c02 id="ref253" level="file">
+                    <did>
+                        <unittitle>Extra Accordion Assembly Materials</unittitle>
+                        <container type="Box">17</container>
+                        <container type="Folder">21</container>
+                    </did>
+                </c02>
+                <c02 id="ref254" level="file">
+                    <did>
+                        <unittitle>Typography - layouts, trials, handwritten final type</unittitle>
+                        <container type="map-folder">19</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref27" level="series">
+                <did>
+                    <unittitle>Series XVII. The Mappist, 2006</unittitle>
+                </did>
+                <scopecontent id="ref255">
+                    <head>Scope and Contents note</head>
+                    <p>The Mappist, Barry Lopez's multi-layered short story, has been made into a limited edition of forty-eight copies in the summer and fall of 2005. Each book has been assembled using original USGS maps for the concertina binding and selected pages, and the cover has been wrapped with a reproduction of a 1911 map of Bogotá from the collection of the Library of Congress. The slipcase has been covered with wood-grained paper to suggest the map cabinet which plays a pivotal role in the story. A metal label holder acts as a spine label. The concertina binding, when looked at from the edge, takes on its own topography of mountains and valleys.</p>
+                    <p>Printed letterpress. Slipcase covered with wood grain paper and metal label holder. Edition of 48. 11 x 10 x 1.25 inches.</p>
+                </scopecontent>
+                <c02 id="ref256" level="file">
+                    <did>
+                        <unittitle>Pencil Images (Barry's Pencils): original monotypes, ghosts and digital print variations; digital photographs (Barry's writing studio).</unittitle>
+                        <container type="Flat-box">28</container>
+                        <container type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref257" level="file">
+                    <did>
+                        <unittitle>Corrugated Cover: design notes and cutting instructions; cutting jigs.</unittitle>
+                        <container type="Flat-box">28</container>
+                        <container type="Folder">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref258" level="file">
+                    <did>
+                        <unittitle>Design Notes: sketchbook notations, assembly diagrams and sample papers.</unittitle>
+                        <container type="Box">30</container>
+                        <container type="Folder">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref259" level="file">
+                    <did>
+                        <unittitle>Correspondence: permission letter from Barry Lopez, printing instructions, etc.</unittitle>
+                        <container type="Box">30</container>
+                        <container type="Folder">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref260" level="file">
+                    <did>
+                        <unittitle>Typography: proofs and correspondence with Les Ferriss.</unittitle>
+                        <container type="Box">30</container>
+                        <container type="Folder">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref261" level="file">
+                    <did>
+                        <unittitle>Hand Images: preliminary digital photographs, trials and transparencies</unittitle>
+                        <container type="Box">30</container>
+                        <container type="Folder">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref262" level="file">
+                    <did>
+                        <unittitle>Landscape Images: digital photos, monotypes and transparencies</unittitle>
+                        <container type="Box">30</container>
+                        <container type="Folder">6-7</container>
+                    </did>
+                </c02>
+                <c02 id="ref263" level="file">
+                    <did>
+                        <unittitle>Labels: water symbols, Jack Ranch labels (and location jig), topographic labels and magnetic North labels [not used]</unittitle>
+                        <container type="Box">30</container>
+                        <container type="Folder">8-9</container>
+                    </did>
+                </c02>
+                <c02 id="ref264" level="file">
+                    <did>
+                        <unittitle>Label Holder/Slipcase</unittitle>
+                        <container type="Box">30</container>
+                        <container type="Folder">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref265" level="file">
+                    <did>
+                        <unittitle>Concertina Design: master concertina fold directions</unittitle>
+                        <container type="Box">30</container>
+                        <container type="Folder">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref266" level="file">
+                    <did>
+                        <unittitle>Extra Production Materials: hand transparencies, landscape transparencies and USGS essay.</unittitle>
+                        <container type="Box">30</container>
+                        <container type="Folder">12-13</container>
+                    </did>
+                </c02>
+                <c02 id="ref267" level="file">
+                    <did>
+                        <unittitle>Bogotá Maps: Library of Congress copies</unittitle>
+                        <container type="map-folder">31</container>
+                    </did>
+                </c02>
+                <c02 id="ref268" level="file">
+                    <did>
+                        <unittitle>Prototypes and display copies (4 folders, 1 prototype, 1 display copy)</unittitle>
+                        <container type="Flat-box">32</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref28" level="series">
+                <did>
+                    <unittitle>Series XVIII. The Near Woods, 2006</unittitle>
+                </did>
+                <scopecontent id="ref269">
+                    <head>Scope and Contents note</head>
+                    <p>In the year 2000 Barry Lopez wrote an essay, The Near Woods, which described the elusive and magical space between the wild, deep woods and the civilized space of humans. Jerry Reddan, a master letterpress printer and typographic designer, came upon the essay and published it in a small edition of 165 copies in paper covers through his Tangram Press in 2005. He also printed and left unbound an additional twenty-six copies to be made into a special edition. The special edition has been designed by Charles Hobson and has been published by Pacific Editions in the summer of 2006 and is signed by the author and the artist.</p>
+                    <p>The special edition has been made with the image of a bear that folds out from the back page and has been reproduced as a digital pigment print on German Etching paper and has been hand-colored with pastel and acrylic paint by the artist. The book has been bound in boards and covered with a reproduction of “Dosiño del Rancho San Miguelito,” circa 1841, a drawing used to establish land grants in California and is reproduced with the kind permission of The Bancroft Library, University of California, Berkeley.</p>
+                </scopecontent>
+                <c02 id="ref270" level="file">
+                    <did>
+                        <unittitle>Design and assembly notes: working notes, binding details and jigs; prospectus design.</unittitle>
+                        <container type="Flat-box">34</container>
+                        <container type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref271" level="file">
+                    <did>
+                        <unittitle>Trial Etchings for Walking Bear: transparencies and proofs</unittitle>
+                        <container type="Flat-box">34</container>
+                        <container type="Folder">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref272" level="file">
+                    <did>
+                        <unittitle>Digital Prints and Proofs: small walking bear, small standing bear, large bear (“Dream Bear”; 4 final images/one proof), cover Image (from Bancroft Library) 5 copies.</unittitle>
+                        <container type="Flat-box">34</container>
+                        <container type="Folder">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref273" level="file">
+                    <did>
+                        <unittitle>Monotypes and Working Drawings: Standing Bear, Walking Bear and Bear Mouth (not used in edition)</unittitle>
+                        <container type="Flat-box">34</container>
+                        <container type="Folder">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref274" level="file">
+                    <did>
+                        <unittitle>Trial Etchings for Walking Bear: copper plates</unittitle>
+                        <container type="Box">33</container>
+                        <container type="Folder">1-2</container>
+                    </did>
+                </c02>
+                <c02 id="ref275" level="file">
+                    <did>
+                        <unittitle>Trial Etchings for Standing Bear: copper plate and 2 proofs</unittitle>
+                        <container type="Box">33</container>
+                        <container type="Folder">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref276" level="file">
+                    <did>
+                        <unittitle>Book Cover Prototypes and Trials: 4 prototypes</unittitle>
+                        <container type="Box">33</container>
+                        <container type="Folder">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref277" level="file">
+                    <did>
+                        <unittitle>Labels and Extra End Papers: spine labels, title page labels, misc. small bear prints and extra end papers</unittitle>
+                        <container type="Box">33</container>
+                        <container type="Folder">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref278" level="file">
+                    <did>
+                        <unittitle>Correspondence</unittitle>
+                        <container type="Box">33</container>
+                        <container type="Folder">6</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref29" level="series">
+                <did>
+                    <unittitle>Series XIX. Parisian Encounters, 1992</unittitle>
+                </did>
+                <scopecontent id="ref279">
+                    <head>Scope and Contents note</head>
+                    <p>French door format book with monotype/pastel portraits of eight famous couples, who met in Paris, includes maps and eccentric biographies. Chronicle Books trade edition. Size: 6 x 11 inches.</p>
+                </scopecontent>
+                <c02 id="ref280" level="file">
+                    <did>
+                        <unittitle>Design Notes: a. Design drawings and diagrams; narrative detailing possible design layout and bibliography. b. Chronicle Book design description and related notes</unittitle>
+                        <container type="Box">21</container>
+                        <container type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref281" level="file">
+                    <did>
+                        <unittitle>Research Files (files of biographical information about each of following): Napoleon/Josephine, Flaubert/Louise, Chopin/George Sand, Henry Miller/Anais Nin, Degas/Cassatt, Rodin/Camile Claudel, Pierre Curie, Madame Curie, Man Ray/Lee Miller.</unittitle>
+                        <container type="Box">21</container>
+                        <container type="Folder">2-10</container>
+                    </did>
+                </c02>
+                <c02 id="ref282" level="file">
+                    <did>
+                        <unittitle>Image Design (files relating to portraits and graphic elements for each): Napoleon, Josephine, Flaubert, Louise, Chopin, George Sand, Degas, Cassatt, Man Ray and Lee Miller.</unittitle>
+                        <container type="Box">21</container>
+                        <container type="Folder">11-20</container>
+                    </did>
+                </c02>
+                <c02 id="ref283" level="file">
+                    <did>
+                        <unittitle>Image Design (files relating to portraits and graphic elements for each): Henry Miller, Anais Nin, Rodin, Camile Claudel, Pierre Curie, Madame Curie.</unittitle>
+                        <container type="Box">22</container>
+                        <container type="Folder">1-6</container>
+                    </did>
+                </c02>
+                <c02 id="ref284" level="file">
+                    <did>
+                        <unittitle>Chronicle Book proofs</unittitle>
+                        <container type="Box">22</container>
+                        <container type="Folder">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref285" level="file">
+                    <did>
+                        <unittitle>Prototypes and progress proof photographs Disassembled book pages (possible display copies.)</unittitle>
+                        <container type="Box">22</container>
+                        <container type="Folder">8-9</container>
+                    </did>
+                </c02>
+                <c02 id="ref286" level="file">
+                    <did>
+                        <unittitle>Map research and details: including copyright clearance from Library of Congress, November 1993.</unittitle>
+                        <container type="Box">22</container>
+                        <container type="Folder">10</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref30" level="series">
+                <did>
+                    <unittitle>Series XX. Poems from the Heart, 2004</unittitle>
+                </did>
+                <scopecontent id="ref287">
+                    <head>Scope and Contents note</head>
+                    <p>Poems from the Heart, 2004, is a hand-made artist's book picturing the heart sculpture made in connection with Hearts in San Francisco, a project benefiting the SF General Hospital. The book contains eighteen poems by children about love and the heart used on the sculptural heart. Each book has been hand-sewn into a painted cover and mounted in a folded corrugated folder. It contains digital pigment prints from an Epson 2200 printer. Edition of 150. 5.5 4.25 x .5 inches.</p>
+                </scopecontent>
+                <c02 id="ref288" level="file">
+                    <did>
+                        <unittitle>Book design notes: early prototypes, layout, notes on assembly time and photos.</unittitle>
+                        <container type="Box">22</container>
+                        <container type="Folder">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref289" level="file">
+                    <did>
+                        <unittitle>Heart Sculpture design notes: painted images</unittitle>
+                        <container type="Box">22</container>
+                        <container type="Folder">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref290" level="file">
+                    <did>
+                        <unittitle>Book prototypes: prototypes, extra cover images and sales display card</unittitle>
+                        <container type="Box">22</container>
+                        <container type="Folder">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref291" level="file">
+                    <did>
+                        <unittitle>Matrixes: cover, scoring board for cover and label placement</unittitle>
+                        <container type="Box">22</container>
+                        <container type="Folder">14</container>
+                    </did>
+                </c02>
+                <c02 id="ref292" level="file">
+                    <did>
+                        <unittitle>Poems for transfer to altered books: camera ready copy</unittitle>
+                        <container type="Box">22</container>
+                        <container type="Folder">15</container>
+                    </did>
+                </c02>
+                <c02 id="ref293" level="file">
+                    <did>
+                        <unittitle>Newspaper coverage</unittitle>
+                        <container type="Box">22</container>
+                        <container type="Folder">16</container>
+                    </did>
+                </c02>
+                <c02 id="ref294" level="file">
+                    <did>
+                        <unittitle>Altered book with poems used on sculpture (see also Flat Box 23)</unittitle>
+                        <container type="Box">22</container>
+                        <container type="Folder">17-19</container>
+                    </did>
+                </c02>
+                <c02 id="ref295" level="file">
+                    <did>
+                        <unittitle>Altered book with poems used on sculpture</unittitle>
+                        <container type="Flat-box">23</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref31" level="series">
+                <did>
+                    <unittitle>Series XXI. R.O.W., 2006</unittitle>
+                </did>
+                <scopecontent id="ref296">
+                    <head>Scope and Contents note</head>
+                    <p>R.O.W., a consideration of the right of way rules for sailing vessels, has been made as a limited edition artists' book in 2006. The central image in the book is a three foot square relief print which was created as part of a program at the San Francisco Center for the Book. It was originally printed in 2005 by a steamroller at Carolina and 16th Streets, San Francisco. Kay Bradner and Charles Hobson collaborated on the design of the print. Kay Bradner cut the linoleum block and printed the relief prints on Rives BFK 300 gm paper. Charles Hobson designed the book and assembled it with the assistance of Alice Shaw in an edition of 12 copies. It is covered in a transparent corrugated chemise which is closed with sailing line and a cleat.</p>
+                    <p>R.O.W. measures 18 by 9 inches closed and extends, when opened fully, to a length to 7 1/2 feet. Edition of 12.</p>
+                </scopecontent>
+                <c02 id="ref297" level="file">
+                    <did>
+                        <unittitle>R.O.W. general: research material, correspondence, estimates and design notes.</unittitle>
+                        <container type="Box">24</container>
+                        <container type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref298" level="file">
+                    <did>
+                        <unittitle>Small drawings: original tracing paper drawings, proofs (some by Kay Bradner and some by Charles Hobson.)</unittitle>
+                        <container type="Box">24</container>
+                        <container type="Folder">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref299" level="file">
+                    <did>
+                        <unittitle>R.O.W. small texts: texts as designed for window openings in the printed pages.</unittitle>
+                        <container type="Box">24</container>
+                        <container type="Folder">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref300" level="file">
+                    <did>
+                        <unittitle>Extra pieces and parts: small drawing cutouts and tabs for window images</unittitle>
+                        <container type="Box">24</container>
+                        <container type="Folder">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref301" level="file">
+                    <did>
+                        <unittitle>Patterns and matrixes: patterns and jigs used for assembling the edition.</unittitle>
+                        <container type="Flat-box">25</container>
+                        <container type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref302" level="file">
+                    <did>
+                        <unittitle>Extra pages, proofs and drafts: extra pages, extra page proofs, trial cover materials, cover drawings by Kay Bradner and extra hinges.</unittitle>
+                        <container type="Flat-box">25</container>
+                        <container type="Folder">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref303" level="file">
+                    <did>
+                        <unittitle>Trial slipcase/chemise with cleat (artifact)</unittitle>
+                        <container type="Flat-box">25</container>
+                        <container type="Folder">3</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref32" level="series">
+                <did>
+                    <unittitle>Series XXII. Seeing Stars, 2001</unittitle>
+                </did>
+                <scopecontent id="ref304">
+                    <head>Scope and Contents note</head>
+                    <p>Seeing Stars uses die cut cards, a flashlight and a small story book to introduce readers to several prominent constellations. Greek stargazers in the 4th century BC gave the names of characters in the Andromeda myth to six constellations clustered together near the North Star. A child can use the flashlight to shine the shape of each character's constellation on the ceiling, wall or table. Design inspired by Andromeda Imagined.</p>
+                </scopecontent>
+                <c02 id="ref305" level="file">
+                    <did>
+                        <unittitle>Text</unittitle>
+                        <container type="Box">24</container>
+                        <container type="Folder">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref306" level="file">
+                    <did>
+                        <unittitle>Chronicle Books box design</unittitle>
+                        <container type="Box">24</container>
+                        <container type="Folder">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref307" level="file">
+                    <did>
+                        <unittitle>Design proposal #1: original design proposal July, 1999. Sports figures and draft of text.</unittitle>
+                        <container type="Box">24</container>
+                        <container type="Folder">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref308" level="file">
+                    <did>
+                        <unittitle>Design proposal #2: second proposal to Chronicle Books November, 1999, including box design.</unittitle>
+                        <container type="Box">24</container>
+                        <container type="Folder">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref309" level="file">
+                    <did>
+                        <unittitle>Correspondence and design proofs with Chronicle Books; including page proofs, color checks. October 2000-March 2001</unittitle>
+                        <container type="Box">24</container>
+                        <container type="Folder">9-10</container>
+                    </did>
+                </c02>
+                <c02 id="ref310" level="file">
+                    <did>
+                        <unittitle>Project research: historical astronomy including research at Stanford's Green Library, photographs and photocopies.</unittitle>
+                        <container type="Box">24</container>
+                        <container type="Folder">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref311" level="file">
+                    <did>
+                        <unittitle>Early prototypes): two trial prototypes, one with sports figures, and 2nd proof from Chronicle Books.</unittitle>
+                        <container type="Box">24</container>
+                        <container type="Folder">12-13</container>
+                    </did>
+                </c02>
+                <c02 id="ref312" level="file">
+                    <did>
+                        <unittitle>Sample flashlight</unittitle>
+                        <container type="Box">24</container>
+                        <container type="Folder">14</container>
+                    </did>
+                </c02>
+                <c02 id="ref313" level="file">
+                    <did>
+                        <unittitle>Star cut cards: early versions and final</unittitle>
+                        <container type="Box">24</container>
+                        <container type="Folder">15</container>
+                    </did>
+                </c02>
+                <c02 id="ref314" level="file">
+                    <did>
+                        <unittitle>Drawings and outline drawings: early versions and final. (see also Box 26.1)</unittitle>
+                        <container type="Flat-box">25</container>
+                        <container type="Folder">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref315" level="file">
+                    <did>
+                        <unittitle>Inkjet monotypes of constellations: figures for booklet</unittitle>
+                        <container type="Flat-box">25</container>
+                        <container type="Folder">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref316" level="file">
+                    <did>
+                        <unittitle>Star cut cards: color proofs</unittitle>
+                        <container type="Flat-box">25</container>
+                        <container type="Folder">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref317" level="file">
+                    <did>
+                        <unittitle>Star charts: versions for Chronicle Books</unittitle>
+                        <container type="Flat-box">25</container>
+                        <container type="Folder">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref318" level="file">
+                    <did>
+                        <unittitle>Drawings and outline drawings: early versions and final</unittitle>
+                        <container type="Box">26</container>
+                        <container type="Folder">1</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref33" level="series">
+                <did>
+                    <unittitle>Series XXIII. Shipwreck Stories, 1996</unittitle>
+                </did>
+                <scopecontent id="ref319">
+                    <head>Scope and Contents note</head>
+                    <p>Limited edition accordion book by Charles Hobson with seven photogravures, hand-colored charts, and Mylar drawings. Edition of 28. Size: 10-1/4 x 8-3/4 x 1 inches. Collage of facts, fictions, images and maritime charts to give different views of six shipwrecks that occurred between 1865 and 1944 along the Northern California coast.</p>
+                </scopecontent>
+                <c02 id="ref320" level="file">
+                    <did>
+                        <unittitle>Maritime charts: experimentations, designs with shipwreck icon and photocopy masters for printing on hand colored paper and copies of final maps.</unittitle>
+                        <container type="Flat-box">25</container>
+                        <container type="Folder">8-9</container>
+                    </did>
+                </c02>
+                <c02 id="ref321" level="file">
+                    <did>
+                        <unittitle>Original drawings for photogravures</unittitle>
+                        <container type="Flat-box">25</container>
+                        <container type="Folder">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref322" level="file">
+                    <did>
+                        <unittitle>Photogravure proofs and final photogravure: Salvage; Ship at Cliff (two versions)</unittitle>
+                        <container type="Flat-box">25</container>
+                        <container type="Folder">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref323" level="file">
+                    <did>
+                        <unittitle>Design and Research: binder with historical summaries, research notes and drafts of stories and alternative stories. Club paper for March 11, 1996.</unittitle>
+                        <container type="Box">26</container>
+                        <container type="Folder">2-4</container>
+                    </did>
+                </c02>
+                <c02 id="ref324" level="file">
+                    <did>
+                        <unittitle>Prototypes: including alternative page sizes and alternative layouts in black and white</unittitle>
+                        <container type="Box">26</container>
+                        <container type="Folder">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref325" level="file">
+                    <did>
+                        <unittitle>Binding Notes: including templates and assembly instructions and labels</unittitle>
+                        <container type="Box">26</container>
+                        <container type="Folder">6-7</container>
+                    </did>
+                </c02>
+                <c02 id="ref326" level="file">
+                    <did>
+                        <unittitle>Typography: early layouts, camera ready art and notes to printer</unittitle>
+                        <container type="Box">26</container>
+                        <container type="Folder">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref327" level="file">
+                    <did>
+                        <unittitle>Vellum tests and Mylar</unittitle>
+                        <container type="Box">26</container>
+                        <container type="Folder">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref328" level="file">
+                    <did>
+                        <unittitle>Cut Outs for tracing figures: various kinds of transparency and vellum for overlays with figures</unittitle>
+                        <container type="Box">26</container>
+                        <container type="Folder">10-11</container>
+                    </did>
+                </c02>
+                <c02 id="ref329" level="file">
+                    <did>
+                        <unittitle>Letters from Stockfleth's grand-daughter, Charmetta Mann: February 7, 2000 and May 11, 2008; includes genealogy, photocopies of photographs, clipping.</unittitle>
+                        <container type="Box">26</container>
+                        <container type="Folder">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref330" level="file">
+                    <did>
+                        <unittitle>Photogravure proofs: Brother Jonathan</unittitle>
+                        <container type="Box">27</container>
+                        <container type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref331" level="file">
+                    <did>
+                        <unittitle>Prospectus: labels, design notes, assembly notes and photocopy masters. (see also Flat Box #28)</unittitle>
+                        <container type="Box">27</container>
+                        <container type="Folder">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref332" level="file">
+                    <did>
+                        <unittitle>Photogravure proofs and final photogravure: Lightning and Sunken Sails, Liberty Ship</unittitle>
+                        <container type="Flat-box">28</container>
+                        <container type="Folder">3-4</container>
+                    </did>
+                </c02>
+                <c02 id="ref333" level="file">
+                    <did>
+                        <unittitle>Page proofs: typography (two complete sets, mixed)</unittitle>
+                        <container type="Flat-box">28</container>
+                        <container type="Folder">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref334" level="file">
+                    <did>
+                        <unittitle>Prospectus: design notes, assembly notes and photocopy masters</unittitle>
+                        <container type="Flat-box">28</container>
+                        <container type="Folder">6</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref34" level="series">
+                <did>
+                    <unittitle>Series XXIV. A Supper in Montmartre, 1985</unittitle>
+                </did>
+                <scopecontent id="ref335">
+                    <head>Scope and Contents note</head>
+                    <p>A Supper in Montmartre was printed in a seminar class at UC Berkeley taught in the Bancroft Library's rare book. Five students printed this small single signature book on an 1857 Albion hand press.</p>
+                    <p>The text is a memoir by Harriet Lane Levy recounting the legendary dinner party given by Picasso for the artist Henri Rousseau in 1908. Part of the story involved the inebriated and frantic departure of the poet André Salmon, who had been Harriet's dinner partner. Intoxicated by her conversation and charm, as well as good French wine, he left the table in disarray and on his way out chewed off the roses on the stylish turban she'd worn that had been left outside the dining room door. The etching of an imagined turban and roses on an antique hat rack is the first illustration by Charles Hobson for a limited edition book.</p>
+                </scopecontent>
+                <c02 id="ref336" level="file">
+                    <did>
+                        <unittitle>Etching proofs-preparatory and final versions, six pencil drawings, one proof from plate #1, and six proofs from plate #2.</unittitle>
+                        <container type="Box">27</container>
+                        <container type="Folder">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref337" level="file">
+                    <did>
+                        <unittitle>Bancroftiana Newsletter April 1986: article on A Supper in Montmartre (2 copies)</unittitle>
+                        <container type="Box">27</container>
+                        <container type="Folder">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref338" level="file">
+                    <did>
+                        <unittitle>Additional artist proofs and final prints: one final prints on book paper 12 1/2” x 10”; six artist proofs on various handmade papers and in various sizes; one final print on book paper 10” x 21 1/2”</unittitle>
+                        <container type="Flat-box">28</container>
+                        <container type="Folder">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref339" level="file">
+                    <did>
+                        <unittitle>Text/typography layout notes: page proofs done at Bancroft Library; variations; paper alternatives, labels</unittitle>
+                        <container type="Flat-box">28</container>
+                        <container type="Folder">8</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref35" level="series">
+                <did>
+                    <unittitle>Series XXV. Taking Off Emily Dickinson's Clothes, 2002</unittitle>
+                </did>
+                <scopecontent id="ref340">
+                    <head>Scope and Contents note</head>
+                    <p>Taking Off Emily Dickinson's Clothes, poem by Billy Collins, has been made as a limited edition of thirty copies in the summer and fall of 2002. It employs buttons, ribbons, feathers and a pastel monotype by Charles Hobson. Charles Hobson and Alice Shaw assembled the pages and made the slipcase. John Demerritt covered the boards in Fabriano Roma and the text has been set in 14 pt. Spectrum and printed letterpress by M &amp; H Type, San Francisco.</p>
+                    <p>Accordion binding. 8 1/2 x 7 x 1 inches (closed). Seven pages with hidden definitions and fold out stanza from an Emily Dickinson poem.</p>
+                </scopecontent>
+                <c02 id="ref341" level="file">
+                    <did>
+                        <unittitle>Design notes including various assembly instructions</unittitle>
+                        <container type="Box">27</container>
+                        <container type="Folder">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref342" level="file">
+                    <did>
+                        <unittitle>Correspondence and permissions: letters requesting and granting permission to print with Billy Collins</unittitle>
+                        <container type="Box">27</container>
+                        <container type="Folder">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref343" level="file">
+                    <did>
+                        <unittitle>Prototype structures: five early design versions and prototypes</unittitle>
+                        <container type="Box">27</container>
+                        <container type="Folder">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref344" level="file">
+                    <did>
+                        <unittitle>Prototyping materials: buttons, hooks; Seam binding, elastic thread</unittitle>
+                        <container type="Box">27</container>
+                        <container type="Folder">28</container>
+                    </did>
+                </c02>
+                <c02 id="ref345" level="file">
+                    <did>
+                        <unittitle>Cover design: binder estimates, sample papers, hinges</unittitle>
+                        <container type="Box">27</container>
+                        <container type="Folder">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref346" level="file">
+                    <did>
+                        <unittitle>Feathers and button experiments/scans</unittitle>
+                        <container type="Box">27</container>
+                        <container type="Folder">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref347" level="file">
+                    <did>
+                        <unittitle>Templates: hinging and monotype placement. (see also map folder #29)</unittitle>
+                        <container type="Box">27</container>
+                        <container type="Folder">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref348" level="file">
+                    <did>
+                        <unittitle>Monotype designs: four monotypes and ink jet proofs and hand coloring information.</unittitle>
+                        <container type="Flat-box">28</container>
+                        <container type="Folder">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref349" level="file">
+                    <did>
+                        <unittitle>Templates: hinging and monotype placement</unittitle>
+                        <container type="map-folder">29</container>
+                    </did>
+                </c02>
+                <c02 id="ref350" level="file">
+                    <did>
+                        <unittitle>Extra letterpress typographic pages</unittitle>
+                        <container type="Box">30</container>
+                        <container type="Folder">1</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref36" level="series">
+                <did>
+                    <unittitle>Series XXVI. Three Kisses, 2004</unittitle>
+                </did>
+                <scopecontent id="ref351">
+                    <head>Scope and Contents note</head>
+                    <p>Three Kisses is a handmade limited edition book that has been made from postcards, translucent envelopes, various papers and features the photographs of Robert Doisneau. Each envelope contains a photograph and a fictional story by Charles Hobson about the persons in the photographs. A pastel monotype by Charles Hobson has been reproduced as a digital pigment print with hand coloring. The book is bound as an accordion and has a corrugated board slipcase which measures 5 1/2 x 4 x 3/4 inches. Edition of 90 copies.</p>
+                </scopecontent>
+                <c02 id="ref352" level="file">
+                    <did>
+                        <unittitle>Design notes: including preliminary working materials from Arch</unittitle>
+                        <container type="Box">37</container>
+                        <container type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref353" level="file">
+                    <did>
+                        <unittitle>Prototypes: three versions of book dummy</unittitle>
+                        <container type="Box">37</container>
+                        <container type="Folder">2</container>
+                    </did>
+                </c02>
+                <c02 id="ref354" level="file">
+                    <did>
+                        <unittitle>Materials for Arch Design Project: sample postcards, envelopes and design instructions</unittitle>
+                        <container type="Box">37</container>
+                        <container type="Folder">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref355" level="file">
+                    <did>
+                        <unittitle>Monotype-"Last Kiss"/Smooch: first impression and ghost and digital proofs</unittitle>
+                        <container type="Box">37</container>
+                        <container type="Folder">4-5</container>
+                    </did>
+                </c02>
+                <c02 id="ref356" level="file">
+                    <did>
+                        <unittitle>Production Materials; including monotype print-outs, postcard kisses, spine labels, excess hinges and past-ins, accordion pages</unittitle>
+                        <container type="Box">37</container>
+                        <container type="Folder">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref357" level="file">
+                    <did>
+                        <unittitle>Title Page: layout and final versions</unittitle>
+                        <container type="Box">37</container>
+                        <container type="Folder">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref358" level="file">
+                    <did>
+                        <unittitle>Prospectus Design File and Materials</unittitle>
+                        <container type="Box">37</container>
+                        <container type="Folder">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref359" level="file">
+                    <did>
+                        <unittitle>Matrices: guides for cover, accordion and embossing guides</unittitle>
+                        <container type="Box">37</container>
+                        <container type="Folder">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref360" level="file">
+                    <did>
+                        <unittitle>Matrices: guides for cover, accordion and embossing guides.</unittitle>
+                        <container type="map-folder">39</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref37" level="series">
+                <did>
+                    <unittitle>Series XXVII. Variation on the Word SLEEP, 1991</unittitle>
+                </did>
+                <scopecontent id="ref361">
+                    <head>Scope and Contents note</head>
+                    <p>Margaret Atwood's poem accompanied by an accordion monotype by Charles Hobson, boxed in a black, lacquered wood box. Edition of 20. Size: 7-1/4 x 5-1/8 x 1 inches.</p>
+                </scopecontent>
+                <c02 id="ref362" level="file">
+                    <did>
+                        <unittitle>Design notes: photographs, text of poem and diagrams</unittitle>
+                        <container type="Box">37</container>
+                        <container type="Folder">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref363" level="file">
+                    <did>
+                        <unittitle>Typography: title page and sample printing</unittitle>
+                        <container type="Box">37</container>
+                        <container type="Folder">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref364" level="file">
+                    <did>
+                        <unittitle>Monotypes: trials, four ghosts (two with hand coloring) and two counter proofs.</unittitle>
+                        <container type="Flat-box">38</container>
+                        <container type="Folder">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref365" level="file">
+                    <did>
+                        <unittitle>Image design: pencil drawing, monotype key line on Mylar, folding matrix and reference photographs</unittitle>
+                        <container type="Flat-box">38</container>
+                        <container type="Folder">2</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref38" level="series">
+                <did>
+                    <unittitle>Series XXVIII. The Writer, 2004</unittitle>
+                </did>
+                <scopecontent id="ref366">
+                    <head>Scope and Contents note</head>
+                    <p>A two-part limited edition artist's book inspired by Richard Wilbur's warm and gentle poem conveying a parent's respect and love for his child as she begins the voyage into adulthood. The two volumes are housed in a clamshell box with the larger volume containing the text of the poem set in 14-point courier and printed letterpress on BFK Rives paper. The smaller volume is a flip book, or rather a "flutter book," and contains selected words taken from the poem that reprise the poem with a new cadence. The edition in its box measures 12 x 12 x 1 1/4 inches. Edition of 54 copies.</p>
+                </scopecontent>
+                <c02 id="ref367" level="file">
+                    <did>
+                        <unittitle>Design notes, general; includes sketchbook pages, correspondence with binder, letterpress layouts</unittitle>
+                        <container type="Box">33</container>
+                        <container type="Folder">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref368" level="file">
+                    <did>
+                        <unittitle>Permissions: correspondence with Richard Wilbur and publisher; New Yorker article, Nov. 22, 2004</unittitle>
+                        <container type="Box">33</container>
+                        <container type="Folder">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref369" level="file">
+                    <did>
+                        <unittitle>Page proofs: letterpress proofs and unbound page proofs</unittitle>
+                        <container type="Box">33</container>
+                        <container type="Folder">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref370" level="file">
+                    <did>
+                        <unittitle>Polymer plates, typography</unittitle>
+                        <container type="Box">33</container>
+                        <container type="Folder">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref371" level="file">
+                    <did>
+                        <unittitle>Labels, titles and placement patterns for large book</unittitle>
+                        <container type="Box">33</container>
+                        <container type="Folder">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref372" level="file">
+                    <did>
+                        <unittitle>Inkjet monotype experiments: final image of starling in large book for vellum print</unittitle>
+                        <container type="Box">33</container>
+                        <container type="Folder">12</container>
+                    </did>
+                </c02>
+                <c02 id="ref373" level="file">
+                    <did>
+                        <unittitle>Starling cutouts</unittitle>
+                        <container type="Box">33</container>
+                        <container type="Folder">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref374" level="file">
+                    <did>
+                        <unittitle>Flipbook design experiments and layout</unittitle>
+                        <container type="Box">33</container>
+                        <container type="Folder">14-15</container>
+                    </did>
+                </c02>
+                <c02 id="ref375" level="file">
+                    <did>
+                        <unittitle>Prospectus</unittitle>
+                        <container type="Box">33</container>
+                        <container type="Folder">16</container>
+                    </did>
+                </c02>
+                <c02 id="ref376" level="file">
+                    <did>
+                        <unittitle>Starling flight monotypes and experiments: original monotypes, hand colored inkjet prints and transparencies</unittitle>
+                        <container type="Flat-box">34</container>
+                        <container type="Folder">5-6</container>
+                    </did>
+                </c02>
+                <c02 id="ref377" level="file">
+                    <did>
+                        <unittitle>Flight sequence: experiments and bird cutouts (2 folders)</unittitle>
+                        <container type="Flat-box">34</container>
+                        <container type="Folder">7-8</container>
+                    </did>
+                </c02>
+                <c02 id="ref378" level="file">
+                    <did>
+                        <unittitle>Flipbook layout and cover</unittitle>
+                        <container type="Flat-box">34</container>
+                        <container type="Folder">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref379" level="file">
+                    <did>
+                        <unittitle>Vellum trials and extras</unittitle>
+                        <container type="Flat-box">34</container>
+                        <container type="Folder">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref380" level="file">
+                    <did>
+                        <unittitle>Prototypes</unittitle>
+                        <container type="Flat-box">34</container>
+                        <container type="Folder">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref381" level="file">
+                    <did>
+                        <unittitle>Large books folding jig for inside cover</unittitle>
+                        <container type="map-folder">35</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref39" level="series">
+                <did>
+                    <unittitle>Series XXIX. Writing on the Body, 1999</unittitle>
+                </did>
+                <scopecontent id="ref382">
+                    <head>Scope and Contents note</head>
+                    <p>Writing on the Body has been made in a limited edition of forty-five copies in the summer and fall of 1999 with eight hand colored photogravure etchings from mixed media figure drawings by Charles Hobson combined with fragments of Degas's handwriting. Kay Bradner made the plates for the photogravures and editioned the etchings with Charles Hobson who hand colored the etchings with pastel. The text has been hand set with 12 point Méridien on BFK Rives by Jack W. Stauffacher at The Greenwood Press, San Francisco. John DeMerritt bound the book.</p>
+                </scopecontent>
+                <c02 id="ref40" level="subseries">
+                    <did>
+                        <unittitle>Subseries A. Design Materials</unittitle>
+                    </did>
+                    <scopecontent id="ref383">
+                        <head>Scope and Contents note</head>
+                        <p>Materials relating to the design and research aspects of the book.</p>
+                    </scopecontent>
+                    <c03 id="ref384" level="file">
+                        <did>
+                            <unittitle>Binding materials, spine and cover board matrix, matrix for cover paper</unittitle>
+                            <container type="Box">37</container>
+                            <container type="Folder">12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref385" level="file">
+                        <did>
+                            <unittitle>Preliminary text layout</unittitle>
+                            <container type="Box">37</container>
+                            <container type="Folder">13</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref386" level="file">
+                        <did>
+                            <unittitle>Laser prints of drawings used in WOB</unittitle>
+                            <container type="Box">37</container>
+                            <container type="Folder">14</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref387" level="file">
+                        <did>
+                            <unittitle>Preliminary dummy with Xerox and laser prints</unittitle>
+                            <container type="Box">37</container>
+                            <container type="Folder">15</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref388" level="file">
+                        <did>
+                            <unittitle>Project notes/correspondence with binder and printer</unittitle>
+                            <container type="Box">40</container>
+                            <container type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref389" level="file">
+                        <did>
+                            <unittitle>Sample paper and fabrics: sample fabrics: sample book cloth with silk-screen 13" x 2"; cover paper hand painted with Degas photocopy (3 copies)</unittitle>
+                            <container type="Box">40</container>
+                            <container type="Folder">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref390" level="file">
+                        <did>
+                            <unittitle>Xerox end paper proofs (9 copies)</unittitle>
+                            <container type="Box">40</container>
+                            <container type="Folder">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref391" level="file">
+                        <did>
+                            <unittitle>Silk-screen end papers (4 copies)</unittitle>
+                            <container type="Box">40</container>
+                            <container type="Folder">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref392" level="file">
+                        <did>
+                            <unittitle>Thank you letter from Jack Stauffacher dated 11/18/99.</unittitle>
+                            <container type="Box">40</container>
+                            <container type="Folder">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref393" level="file">
+                        <did>
+                            <unittitle>Article from Nob Hill Gazette article re: Jack Stauffacher, March 1999</unittitle>
+                            <container type="Box">40</container>
+                            <container type="Folder">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref394" level="file">
+                        <did>
+                            <unittitle>Excerpt from magazine Typographie, Oct. 1997 about Meridien typeface</unittitle>
+                            <container type="Box">40</container>
+                            <container type="Folder">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref395" level="file">
+                        <did>
+                            <unittitle>Prospectus: Prospectus master materials and design matrix; Prospectus insert; Digital photos; Prospectus</unittitle>
+                            <container type="Box">40</container>
+                            <container type="Folder">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref396" level="file">
+                        <did>
+                            <unittitle>Degas handwriting and Mylar for etching overlays</unittitle>
+                            <container type="Flat-box">38</container>
+                            <container type="Folder">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref397" level="file">
+                        <did>
+                            <unittitle>Typographic page proofs and corrections</unittitle>
+                            <container type="Flat-box">38</container>
+                            <container type="Folder">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref398" level="file">
+                        <did>
+                            <unittitle>Blank typographic page proofs (15)</unittitle>
+                            <container type="Flat-box">38</container>
+                            <container type="Folder">5</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref41" level="subseries">
+                    <did>
+                        <unittitle>Subseries B. Proofs and Plates</unittitle>
+                        <origination label="creator">
+                            <persname rules="aacr">Centolella, Tom</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="naf" role="Author (aut)">Collins, Billy</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr">DeMerritt, John</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr">Evans, Kathy</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr">Levy, Harriet Lane</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" role="Author (aut)">Lopez, Barry</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" role="Correspondent (crp)">Mann, Charmetta</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr">Shaw, Alice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="naf" role="Author (aut)">Twain, Mark, 1835-1910</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest" role="Author (aut)">Wilbur, Richard</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref399">
+                        <head>Scope and Contents note</head>
+                        <p>Photogravure plates for various states of etchings for each work. Proofing was done by Kay Bradner and Charles Hobson over a period of several weeks, experimenting with color, cropping, and text overlay. Edition printing was done over a period of two weeks, with Kay doing the initial inking and Charles making final wiping adjustments and additions. In addition to the eight prints included in the book, three additional images were printed as possible alternatives for the design. 48 Trial Proofs and 42 plates and alternate plates from this process are included in the archive.</p>
+                    </scopecontent>
+                    <controlaccess>
+                        <persname rules="aacr">Colet, Louise</persname>
+                        <persname rules="aacr">Earhart, Amelia</persname>
+                        <persname rules="aacr">Flaubert, Gustave</persname>
+                        <persname source="naf">Muybridge, Eadweard, 1830-1904</persname>
+                        <genreform source="LCSH">Artists' books</genreform>
+                        <genreform source="aat">Artists' books--United States</genreform>
+                        <subject source="LCSH">Constellations--Artists' books</subject>
+                        <genreform source="aacr2">Copperplates</genreform>
+                        <subject source="aacr2">Longitude--Measurement-- Artists' books</subject>
+                        <genreform source="aat">Monotypes</genreform>
+                        <genreform source="aat">Photogravure</genreform>
+                        <subject source="aacr2">Shipwrecks-- Artists' books</subject>
+                        <subject source="aacr2">Typography</subject>
+                    </controlaccess>
+                    <c03 id="ref400" level="otherlevel">
+                        <did>
+                            <unittitle>#1 Mystery, 3 plastic sleeves with 2 trial proofs and 3 plates, plus transparency, color notes, and inking notes</unittitle>
+                        </did>
+                        <c04 id="ref401" level="file">
+                            <did>
+                                <unittitle>Plate #13; Trial Proof; Photogravure Gradient Strip</unittitle>
+                                <container type="Box">41</container>
+                                <container type="Items">1</container>
+                                <container type="Sleeve">1</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref402" level="file">
+                            <did>
+                                <unittitle>Alternate Plate #12</unittitle>
+                                <container type="Box">41</container>
+                                <container type="Items">1</container>
+                                <container type="Sleeve">2</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref403" level="file">
+                            <did>
+                                <unittitle>Alternate Plate #11; Trial Proof; transparency and Kodalith; color notes and inking note</unittitle>
+                                <container type="Box">41</container>
+                                <container type="Items">1</container>
+                                <container type="Sleeve">3</container>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref404" level="otherlevel">
+                        <did>
+                            <unittitle>#2 Proportions, 4 plastic sleeves containing 9 trial proofs, 3 trial plates and 1 final plate plus transparency, color notes, and inking notes</unittitle>
+                        </did>
+                        <c04 id="ref405" level="file">
+                            <did>
+                                <unittitle>Plate #3: 2 Trial Proofs: transparency and 2 Kodaliths; color notes and inking notes</unittitle>
+                                <container type="Box">41</container>
+                                <container type="Items">2</container>
+                                <container type="Sleeve">1</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref406" level="file">
+                            <did>
+                                <unittitle>Alternate Plate #4: 3 Trial Proofs; color notes and inking notes</unittitle>
+                                <container type="Box">41</container>
+                                <container type="Items">2</container>
+                                <container type="Sleeve">2</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref407" level="file">
+                            <did>
+                                <unittitle>Alternate Plate #1: 2 Trial Proofs</unittitle>
+                                <container type="Box">41</container>
+                                <container type="Items">2</container>
+                                <container type="Sleeve">3</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref408" level="file">
+                            <did>
+                                <unittitle>Alternate Plate #2: 2 Trial Proofs; Photogravure Gradient Strip; color notes and inking notes</unittitle>
+                                <container type="Box">41</container>
+                                <container type="Items">2</container>
+                                <container type="Items">4</container>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref409" level="otherlevel">
+                        <did>
+                            <unittitle>#3 What Use, 6 plastic sleeves with 8 trial proofs and 5 plates, plus transparency, color notes, and inking notes</unittitle>
+                        </did>
+                        <c04 id="ref410" level="file">
+                            <did>
+                                <unittitle>Plate Unnumbered: Trial Proof</unittitle>
+                                <container type="Box">41</container>
+                                <container type="Items">3</container>
+                                <container type="Sleeve">1</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref411" level="file">
+                            <did>
+                                <unittitle>Alternate Plate #2: Trial Proof</unittitle>
+                                <container type="Box">41</container>
+                                <container type="Items">3</container>
+                                <container type="Sleeve">2</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref412" level="file">
+                            <did>
+                                <unittitle>Alternate Plate #13A: Trial Proof</unittitle>
+                                <container type="Box">41</container>
+                                <container type="Items">3</container>
+                                <container type="Sleeve">3</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref413" level="file">
+                            <did>
+                                <unittitle>Alternate Plate #15: Trial Proof; Photogravure Gradient Strip</unittitle>
+                                <container type="Box">41</container>
+                                <container type="Items">3</container>
+                                <container type="Sleeve">4</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref414" level="file">
+                            <did>
+                                <unittitle>Plate #14 (unnumbered on plate): Trial Proof; color notes and inking notes</unittitle>
+                                <container type="Box">41</container>
+                                <container type="Items">3</container>
+                                <container type="Sleeve">5</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref415" level="file">
+                            <did>
+                                <unittitle>3 Trial Proofs: transparencies and 2 Kodaliths; color notes and inking notes [NO PLATE]</unittitle>
+                                <container type="Box">41</container>
+                                <container type="Items">3</container>
+                                <container type="Sleeve">6</container>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref416" level="otherlevel">
+                        <did>
+                            <unittitle>#4 Turning, 5 plastic sleeves with 4 trial proofs and 4 plates, plus transparency, color notes, and inking notes</unittitle>
+                        </did>
+                        <c04 id="ref417" level="file">
+                            <did>
+                                <unittitle>Plate #18A: Trial Proof</unittitle>
+                                <container type="Box">42</container>
+                                <container type="Items">4</container>
+                                <container type="Sleeve">1</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref418" level="file">
+                            <did>
+                                <unittitle>Alternate Plate #18: Trial Proof</unittitle>
+                                <container type="Box">42</container>
+                                <container type="Items">4</container>
+                                <container type="Sleeve">2</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref419" level="file">
+                            <did>
+                                <unittitle>Alternate Plate #17: Trial Proof</unittitle>
+                                <container type="Box">42</container>
+                                <container type="Items">4</container>
+                                <container type="Sleeve">3</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref420" level="file">
+                            <did>
+                                <unittitle>Alternate Plate #16: Trial Proof; Photogravure Gradient Strip</unittitle>
+                                <container type="Box">42</container>
+                                <container type="Items">4</container>
+                                <container type="Sleeve">4</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref421" level="file">
+                            <did>
+                                <unittitle>Transparencies and 2 Kodaliths: color notes and inking notes [NO PLATE]</unittitle>
+                                <container type="Box">42</container>
+                                <container type="Items">4</container>
+                                <container type="Sleeve">5</container>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref422" level="otherlevel">
+                        <did>
+                            <unittitle>#5 Again, 8 plastic sleeves with 6 trial proofs and 6 plates, plus transparency, color notes, and inking notes</unittitle>
+                        </did>
+                        <c04 id="ref423" level="file">
+                            <did>
+                                <unittitle>Plate #26A: Trial Proof</unittitle>
+                                <container type="Box">42</container>
+                                <container type="Items">5</container>
+                                <container type="Sleeve">1</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref424" level="file">
+                            <did>
+                                <unittitle>Alternate Plate #26B: Trial Proof</unittitle>
+                                <container type="Box">42</container>
+                                <container type="Items">5</container>
+                                <container type="Sleeve">3</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref425" level="file">
+                            <did>
+                                <unittitle>Alternate Plate #26: Trial Proof</unittitle>
+                                <container type="Box">42</container>
+                                <container type="Items">5</container>
+                                <container type="Sleeve">3</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref426" level="file">
+                            <did>
+                                <unittitle>Alternate Plate #25: Trial Proof</unittitle>
+                                <container type="Box">42</container>
+                                <container type="Items">5</container>
+                                <container type="Sleeve">4</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref427" level="file">
+                            <did>
+                                <unittitle>Alternate Plate #24: Trial Proof; color notes and inking notes</unittitle>
+                                <container type="Box">42</container>
+                                <container type="Items">5</container>
+                                <container type="Sleeve">4</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref428" level="file">
+                            <did>
+                                <unittitle>Alternate Plate #26C: Trial Proof</unittitle>
+                                <container type="Box">42</container>
+                                <container type="Items">5</container>
+                                <container type="Sleeve">6</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref429" level="file">
+                            <did>
+                                <unittitle>transparencies and 2 Kodaliths: etching notes [NO PLATES]</unittitle>
+                                <container type="Box">42</container>
+                                <container type="Items">5</container>
+                                <container type="Sleeve">7</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref430" level="file">
+                            <did>
+                                <unittitle>color notes and inking notes [NO PLATES]</unittitle>
+                                <container type="Box">42</container>
+                                <container type="Items">5</container>
+                                <container type="Sleeve">8</container>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref431" level="otherlevel">
+                        <did>
+                            <unittitle>#6 Contour, 5 plastic sleeves with 4 trial proofs and 4 plates plus transparency, color notes, and inking notes</unittitle>
+                        </did>
+                        <c04 id="ref432" level="file">
+                            <did>
+                                <unittitle>Plate #22: Trial Proof</unittitle>
+                                <container type="Box">42</container>
+                                <container type="Items">6</container>
+                                <container type="Sleeve">1</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref433" level="file">
+                            <did>
+                                <unittitle>Alternate Plate #22A (unnumbered on plate): Trial Proof</unittitle>
+                                <container type="Box">42</container>
+                                <container type="Items">6</container>
+                                <container type="Sleeve">2</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref434" level="file">
+                            <did>
+                                <unittitle>Alternate Plate #23: Trial Proof</unittitle>
+                                <container type="Box">42</container>
+                                <container type="Items">6</container>
+                                <container type="Sleeve">3</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref435" level="file">
+                            <did>
+                                <unittitle>Alternate Plate #23: Trial Proof</unittitle>
+                                <container type="Box">42</container>
+                                <container type="Items">6</container>
+                                <container type="Sleeve">4</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref436" level="file">
+                            <did>
+                                <unittitle>transparencies and Kodalith: color notes and inking notes [NO PLATES]</unittitle>
+                                <container type="Box">42</container>
+                                <container type="Items">6</container>
+                                <container type="Sleeve">5</container>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref437" level="otherlevel">
+                        <did>
+                            <unittitle>#7 Essential, 4 plastic sleeves with 2 trial proofs and 3 plates plus transparency, color notes, and inking notes</unittitle>
+                        </did>
+                        <c04 id="ref438" level="file">
+                            <did>
+                                <unittitle>Trial Proof #9: transparencies and Kodalith; color notes and inking notes [NO PLATE]</unittitle>
+                                <container type="Box">43</container>
+                                <container type="Items">7</container>
+                                <container type="Sleeve">1</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref439" level="file">
+                            <did>
+                                <unittitle>Alternate Plate #9A: Trial Proof</unittitle>
+                                <container type="Box">43</container>
+                                <container type="Items">7</container>
+                                <container type="Sleeve">2</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref440" level="file">
+                            <did>
+                                <unittitle>Alternate Plate #10: Trial Proof</unittitle>
+                                <container type="Box">43</container>
+                                <container type="Items">7</container>
+                                <container type="Sleeve">3</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref441" level="file">
+                            <did>
+                                <unittitle>Alternate Plate Unnumbered</unittitle>
+                                <container type="Box">43</container>
+                                <container type="Items">7</container>
+                                <container type="Sleeve"></container>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref442" level="otherlevel">
+                        <did>
+                            <unittitle>#8 Artifice, 2 plastic sleeves with 2 trial proofs and 2 plates plus transparency, color notes, and inking notes</unittitle>
+                        </did>
+                        <c04 id="ref443" level="file">
+                            <did>
+                                <unittitle>Plate #5: Trial Proof; transparency and Kodalith; color notes and inking notes</unittitle>
+                                <container type="Box">43</container>
+                                <container type="Items">8</container>
+                                <container type="Sleeve">1</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref444" level="file">
+                            <did>
+                                <unittitle>Alternate Plate #6: Trial Proof</unittitle>
+                                <container type="Box">43</container>
+                                <container type="Items">8</container>
+                                <container type="Sleeve">2</container>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref445" level="otherlevel">
+                        <did>
+                            <unittitle>Alternative Image A, 3 plastic sleeves with 3 trial proofs and 3 plates plus transparency, color notes, and inking notes.</unittitle>
+                        </did>
+                        <c04 id="ref446" level="file">
+                            <did>
+                                <unittitle>Plate #21: Trial Proof</unittitle>
+                                <container type="Box">43</container>
+                                <container type="Items">A</container>
+                                <container type="Sleeve">1</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref447" level="file">
+                            <did>
+                                <unittitle>Alternate Plate #20: Trial Proof; transparency and Kodalith</unittitle>
+                                <container type="Box">43</container>
+                                <container type="Items">A</container>
+                                <container type="Sleeve">2</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref448" level="file">
+                            <did>
+                                <unittitle>Alternate Plate #19: Trial Proof; color notes and inking notes</unittitle>
+                                <container type="Box">43</container>
+                                <container type="Items">A</container>
+                                <container type="Sleeve">3</container>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref449" level="otherlevel">
+                        <did>
+                            <unittitle>Alternative Image B: 6 plastic sleeves with 5 trial proofs and 5 plates plus transparency, color notes, and inking notes</unittitle>
+                        </did>
+                        <c04 id="ref450" level="file">
+                            <did>
+                                <unittitle>Plate #29B: Trial Proof</unittitle>
+                                <container type="Box">43</container>
+                                <container type="Items">B</container>
+                                <container type="Sleeve">1</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref451" level="file">
+                            <did>
+                                <unittitle>Alternate Plate #29A: Trial Proof</unittitle>
+                                <container type="Box">43</container>
+                                <container type="Items">B</container>
+                                <container type="Sleeve">2</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref452" level="file">
+                            <did>
+                                <unittitle>Alternate Plate #29: Trial Proof</unittitle>
+                                <container type="Box">43</container>
+                                <container type="Items">B</container>
+                                <container type="Sleeve">3</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref453" level="file">
+                            <did>
+                                <unittitle>Alternate Plate #28: Trial Proof</unittitle>
+                                <container type="Box">43</container>
+                                <container type="Items">B</container>
+                                <container type="Sleeve">4</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref454" level="file">
+                            <did>
+                                <unittitle>Alternate Plate #27: Trial Proof</unittitle>
+                                <container type="Box">43</container>
+                                <container type="Items">B</container>
+                                <container type="Sleeve">5</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref455" level="file">
+                            <did>
+                                <unittitle>transparencies and Kodaliths: color notes and inking notes [NO PLATE]</unittitle>
+                                <container type="Box">43</container>
+                                <container type="Items">B</container>
+                                <container type="Sleeve">6</container>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref456" level="otherlevel">
+                        <did>
+                            <unittitle>Alternative Image C, 4 plastic sleeves with 3 trial proofs and 3 plates plus transparency, color notes, and inking notes</unittitle>
+                        </did>
+                        <c04 id="ref457" level="file">
+                            <did>
+                                <unittitle>Plate #7: Trial Proof; Photogravure Gradient Strip; color notes and inking notes</unittitle>
+                                <container type="Box">43</container>
+                                <container type="Items">C</container>
+                                <container type="Sleeve">1</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref458" level="file">
+                            <did>
+                                <unittitle>transparencies and Kodalith [NO PLATE]</unittitle>
+                                <container type="Box">43</container>
+                                <container type="Items">C</container>
+                                <container type="Sleeve">2</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref459" level="file">
+                            <did>
+                                <unittitle>Alternate Plate #8A: Trial Proof</unittitle>
+                                <container type="Box">43</container>
+                                <container type="Items">C</container>
+                                <container type="Sleeve">3</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref460" level="file">
+                            <did>
+                                <unittitle>Alternate Plate #8: Trial Proof</unittitle>
+                                <container type="Box">43</container>
+                                <container type="Items">C</container>
+                                <container type="Sleeve">4</container>
+                            </did>
+                        </c04>
+                    </c03>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

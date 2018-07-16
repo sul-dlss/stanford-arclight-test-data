@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+<eadheader id="a0" langencoding="iso639-2b" countryencoding="iso3166-1" repositoryencoding="iso15511" dateencoding="iso8601" scriptencoding="iso15924">
+<eadid countrycode="us" mainagencycode="CSt-H" publicid="PUBLIC &quot;-//Stanford University::Hoover Institution Archives//TEXT(US::CSt-H::2009C50::Hizb al-Ba'th al-'Arabi al-Ishtiraki in Iraq records//EN&quot; &quot;2009C50.xml&quot;">2009C50.xml</eadid>
+<filedesc>
+	<titlestmt>
+	<titleproper>Register of the Hi&#x1E93;b al-Ba'th al-'Arab&#x012B; al-Ishtir&#x0101;k&#x012B; in Iraq [Ba'th Arab Socialist Party of Iraq] Records </titleproper>
+
+	<titleproper type="filing">Hizb al-Ba'th al-'Arabi al-Ishtiraki in Iraq [Ba'th Arab Socialist Party of Iraq] records </titleproper>
+</titlestmt>
+
+	<publicationstmt>
+	<publisher id="Cst-H">Hoover Institution Archives</publisher> 
+	<address> 
+<addressline>Stanford University</addressline> 
+	<addressline>Stanford, California 94305-6010</addressline>
+ 	<addressline>Phone: (650) 723-3563</addressline>
+ 	<addressline>Fax: (650) 725-3445</addressline>
+ 	<addressline>Email: hooverarchives@stanford.edu</addressline>
+ 	</address>
+
+<date type="Publication" normal="2012">&#x00A9; 2012, revised 2014, 2016</date>
+<p>Hoover Institution Archives. All rights reserved.</p>
+</publicationstmt>
+</filedesc> 
+
+
+<profiledesc>
+<creation>Machine-readable finding aid derived from Microsoft Word and MARC record by Lisa Miller. <date normal="2012">Date of source: 2012, revised 2014, 2016</date></creation>
+
+<langusage>Finding aid is written in <language langcode="eng" scriptcode="latn">English</language></langusage>
+</profiledesc>
+ <revisiondesc>
+  <change>
+   <date>2016</date>
+   <item>September 8, 2016: Revised to remove related collections no longer available at University of Colorado at Boulder and Conflict Records Research Center, Institute for National Strategic Studies, National Defense University.
+    May 17, 2016: Updated restriction notice to remove IRB approval requirement;
+    December 9, 2014: Updated restriction notice to note IRB approval requirement;
+    2 May 2014: Updated finding aid to reflect new database structures and add additional content.</item>
+  </change>
+ </revisiondesc>
+</eadheader>
+
+
+
+<archdesc level="collection" id="a19" type="register">
+
+<did id="P2">
+	<unittitle label="Title" encodinganalog="245$a">Hi&#x1E93;b al-Ba'th al-'Arab&#x012B; al-Ishtir&#x0101;k&#x012B; in Iraq [Ba'th Arab Socialist Party of Iraq] records  </unittitle>
+<unitdate label="Dates"  type="inclusive" normal="1968/2003" encodinganalog="245$f">1968-2003</unitdate>
+	<unitid label="Collection Number" countrycode="us" repositorycode="CSt-H" encodinganalog="099">2009C50</unitid>
+
+
+<origination label="Creator"><corpname source="lcnaf" rules="aacr2">Hi&#x1E93;b al-Ba'th al-'Arab&#x012B; al-Ishtir&#x0101;k&#x012B; (Iraq)</corpname></origination>
+
+
+<physdesc label="Collection Size" encodinganalog="300$a">
+	<extent>11 million digitized page images and 107 digital video files </extent>
+
+</physdesc>
+
+<repository label="Repository">
+	<corpname>Hoover Institution Archives </corpname> <address> <addressline>Stanford, California 94305-6010</addressline> </address></repository>
+
+<abstract label="Abstract" encodinganalog="520$a">Correspondence, reports, membership and personnel files, judicial and investigatory dossiers, administrative files and registers, and videorecordings relating to political conditions in, and governance of, Iraq. Collected by the Iraq Memory Foundation [Mu'assasat al-dhakirah al-'Iraqiyah] from the Ba'th Regional Command headquarters and from secondary sources. 
+</abstract>
+
+<physloc label="Physical Location">Hoover Institution Archives</physloc>
+
+<langmaterial label="Languages" encodinganalog="546$a">In
+	<language langcode="ara">Arabic </language>
+</langmaterial>
+</did>
+
+<descgrp type="admininfo">
+<head>Administrative Information</head>
+
+<accessrestrict encodinganalog="506">
+<head>Access</head>
+ <p>Users must sign an <extref href="http://www.hoover.org/sites/default/files/pages/docs/hoover_institution_access_criteria_and_use_agreement.pdf">
+  <title render="boldunderline">Access criteria and use agreement</title></extref> until 2053.<lb/>
+Use copies of most video recordings in this collection are available for immediate access.</p>
+</accessrestrict>
+
+<userestrict encodinganalog="540">
+<head>Publication Rights</head>
+<p>Quotations from this collection may be protected by copyright law. The Hoover Institution, Stanford University, does not hold copyright to any of the materials in the collection; it is the researcher's responsibility, when necessary, to obtain copyright permission. The Hoover Institution is not responsible for any misuse by researchers of quotations obtained from this collection. </p>
+</userestrict>
+
+
+<prefercite encodinganalog="524">
+<head>Preferred Citation</head>
+<p><emph render="italic">North Iraq dataset and Kuwait dataset:</emph> [Identification of item] (Electronic Record), [Serial number], [Dataset title], Hi&#x1E93;b al-Ba'th al-'Arab&#x012B; al-Ishtir&#x0101;k&#x012B; records, Hoover Institution Archives</p>
+
+<p><emph render="italic">Other materials:</emph> [Identification of item] (Electronic Record), [Page (which actually is a file name)], [Dataset title], Hi&#x1E93;b al-Ba'th al-'Arab&#x012B; al-Ishtir&#x0101;k&#x012B; records, Hoover Institution Archives</p>
+</prefercite>
+
+<acqinfo encodinganalog="541">
+ <head>Acquisition Information</head>
+ <p>Materials were acquired by the Hoover Institution Archives from the Iraq Memory Foundation in 2009.</p>
+</acqinfo>
+
+<accruals encodinganalog="525"><head>Accruals</head>
+<p>Materials may have been added to the collection since this finding aid was prepared. To determine if this has occurred, find the collection in Stanford University's online catalog at <extref linktype="simple" href="http://searchworks.stanford.edu/" actuate="onrequest" show="new"> http://searchworks.stanford.edu/</extref>. Materials have been added to the collection if the number of boxes listed in the catalog is larger than the number of boxes listed in this finding aid.</p>
+</accruals>
+
+
+<originalsloc>
+<head>Location of Originals</head>
+<p>Original documents of the Ba'th Party in the custody of the Iraq Memory Foundation have been or will be returned to Iraq. Those in Baghdad were returned to the Iraqi government by 2009. Those in the U.S. will be returned at an undetermined future date.</p>
+</originalsloc>
+
+
+
+<relatedmaterial>
+<head>Related Materials</head>
+<p>Mu'assasat al-dh&#x0101;kirah al-'Ir&#x0101;q&#x012B;yah [Iraq Memory Foundation] records, Hoover Institution Archives</p>
+<p>Kanan Makiya papers, Hoover Institution Archives</p>
+</relatedmaterial>
+
+</descgrp>
+
+<bioghist id="a2" encodinganalog="545">
+<head>Historical Note</head> 
+
+<p>The Hi&#x1E93;b al-Ba'th al-'Arab&#x012B; al-Ishtir&#x0101;k&#x012B; (Ba'th Arab Socialist Party) came to power in Iraq through a military coup in July 1968. Over time, party members systematically penetrated all governmental and military institutions. The Ba'th Party was able to influence or control the Iraqi government in two ways. One was through government employees and military personnel who were also party members. The second was the party's ability to influence governmental decisions at lower levels. Because the party had units that were functionally parallel to those of the government, the party could monitor activities in all government units.</p>
+<p>The basic organizational unit of the Ba'th Party was the party cell or circle (<emph render="italic">halaqah</emph>). Cells had from three to seven members and functioned at the neighborhood or village level. Several cells formed a division (<emph render="italic">firqah</emph>), which operated in urban areas, larger villages, offices, factories, schools, and other organizations. Divisions were spread throughout the bureaucracy and the military, serving as the eyes and ears of the party. Several divisions formed a section (<emph render="italic">shabah</emph>), which operated in a large city quarter, town, or a rural district. Above the section was the branch (<emph render="italic">fira</emph>), which contained at least two sections and functioned at the provincial level. There were twenty-one branches in Iraq, one in each of the eighteen provinces and three in Baghdad. The union of all the branches formed the party's congress, which elected the Regional Command (Q&#x012B;yadah al Qutr&#x012B;yah).</p>
+<p>The Regional Command was both the core of party leadership and the top decision-making body. Its membership varied in number. Members were elected for five-year terms at regional congresses of the party, though this term was obscured in practice. Its secretary general (also called the regional secretary) was the party's leader, and its deputy secretary general was second in rank and in power within the party hierarchy. The members of the Regional Command (Q&#x012B;yadah al Qutr&#x012B;yah) theoretically were responsible to the Regional Congress that was to convene annually to debate and to approve the party's policies and programs. In reality, the members were chosen by Saddam Hussein and other senior party leaders to be "elected" by the Regional Congress, a formality seen as essential to the legitimation of party leadership.</p>
+<p>Above the Regional Command (Q&#x012B;yadah al Qutr&#x012B;yah) was the National Command (Q&#x012B;yadah al Qom&#x012B;a)of the Ba'th Party, the highest policy-making and coordinating council for the Ba'th movement throughout the Arab world. The National Command consisted of representatives from all regional commands and was responsible to the National Congress, which convened periodically. It was vested with broad powers to guide, to coordinate, and to supervise the general direction of the movement, especially regarding relationships among the regional Ba'th parties and with the outside world.</p>
+<p>In reality, the National Command (Q&#x012B;yadah al Qom&#x012B;a) did not oversee the Ba'th movement as a whole because a major schism in 1966 resulted in the creation of two rival National Commands, one in Damascus and the other in Baghdad. Both claimed to be the legitimate authority for the Ba'th. Michel Aflaq, one of the original cofounders of the Ba'th Party, was the secretary general of the Baghdad-based National Command, and Saddam Hussein was the vice-chairman. In practice, the Iraqi Regional Command (Q&#x012B;yadah al Qutr&#x012B;yah) controlled the Baghdad-based National Command.</p>
+<p>Theoretically, the Iraqi Regional Command (Q&#x012B;yadah al Qutr&#x012B;yah) made decisions about Ba'th Party policy based on consensus. In practice, all decisions were made by the party's secretary general, Saddam Hussein, who was also chairman of the Revolutionary Command Council and president of the republic starting in 1979.</p>
+<p>Moving from the party organization to the governmental system, the Revolutionary Command Council (RCC) was the top decision-making body of the state. It was formed in July 1968 and exercised both executive and legislative powers. The chairman of the RCC was also the president of the republic. Since 1977 the Ba'th Party regarded all members of the Ba'th Party Regional Command as members of the RCC. The interlocking leadership structure of the RCC and the Regional Command emphasized the party's dominance in governmental affairs.</p>
+<p>Sources:
+Federal Research Division, Library of Congress. <emph render="italic">A Country Study: Iraq</emph>. Edited by Helen Chapin Metz. Washington, D.C.: Library of Congress, 1990. <extref linktype="simple" href="http://lcweb2.loc.gov/frd/cs/iqtoc.html" actuate="onrequest" show="new">http://lcweb2.loc.gov/frd/cs/iqtoc.html</extref>. <lb/>
+Helms, Christine Moss. <emph render="italic">Iraq: Eastern Flank of the Arab World</emph>. Washington, D.C.: The Brookings Institution, 1984.<lb/></p>
+</bioghist>
+
+<scopecontent id="a3" encodinganalog="520">
+<head>Scope and Content of Collection</head>
+<p>This collection consists of records of the Ba'th Arab Socialist Party of Iraq collected by the Mu'assasat al-dh&#x0101;kirah al-'Ir&#x0101;q&#x012B;yah (Iraq Memory Foundation or IMF). Materials created by the IMF since its inception in 1992 comprise a separate collection, the Mu'assasat al-dh&#x0101;kirah al-'Ir&#x0101;q&#x012B;yah (Iraq Memory Foundation) records, at the Hoover Institution Archives.</p>
+<p>The correspondence, reports, membership and personnel files, judicial and investigatory dossiers, administrative files and registers, and videorecordings in this collection relate to political conditions in, and governance of, Iraq. They were collected by the IMF from the Ba'th Regional Command headquarters and from secondary sources. The materials were digitized by the IMF or the U.S. government, which gave digital copies to the IMF, and these digital files are at Hoover.
+</p>
+<p>Most datasets contain digitized documents scanned in color at 300 ppi, so they are very legible. However, some were scanned in black and white at 72 ppi, and they are sometimes difficult to read.</p>
+</scopecontent>
+
+<arrangement>
+<head>Arrangement</head>
+<p>The collection is organized in ten datasets defined and named by the Iraq Memory Foundation (IMF): (1) North Iraq dataset, (2) Kuwait dataset, (3) School registers dataset, (4) Boxfiles dataset, (5) Artifacts dataset (6) Membership files dataset (also includes 2004 secondary collection data), (7) 2005 secondary collection dataset (8) Ministry of Information selected documents dataset, (9) Jewish presence in Iraq dataset, and (10) Video documents from the Ba'th Regime Era. The IMF defines a dataset as a set of digitized documents grouped together based on their form, content, and provenance. </p>
+
+<p>A database designed and populated by the Iraq Memory Foundation uses this arrangement to describe the materials. The descriptive information in this IMF database is in a mixture of English and Arabic. For each dataset, the number of digitized pages described by one database record varies considerably. Details about the database information available for each dataset are provided in the "Series Description" section of this finding aid. Descriptive information continues to be added, and the user interface continues to be upgraded.</p>
+</arrangement>
+
+<otherfindaid>
+<head>Database User Guide</head>
+<extref href="http://www.hoover.org/sites/default/files/library/docs/instructionguide-20151015.pdf" actuate="onrequest" show="new">Getting started with the IMF portal</extref>
+</otherfindaid>
+
+<controlaccess>
+<head>Indexing Terms</head> 
+<p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p> 
+<corpname encodinganalog="610" source="lcnaf">Iraq Memory Foundation.</corpname>
+<geogname encodinganalog="651" source="lcsh">Iraq--Politics and government--1979-1991.</geogname>
+<geogname encodinganalog="651" source="lcsh">Iraq--Politics and government--1991-2003.</geogname>
+</controlaccess>
+
+<custodhist>
+<head>Custodial History Note</head>
+<p>These digitized records were acquired by the Hoover Institution from the Iraq Memory Foundation (IMF). The IMF acquired the materials from several different sources, and it grouped them into collections and datasets according to the form, content, and provenance of the materials. Collections are defined by the IMF as hard-copy documents with shared provenance. Datasets, according to the IMF, are digitized materials grouped together based on their form, content, and provenance. Datasets may be compiled from more than one collection. </p>
+<p>This document describes the provenance of the following collections and datasets:</p>
+<p>1. North Iraq dataset (NIDS)<lb/>
+2. Kuwait dataset (KDS)<lb/>
+3. Ba'th Arab Socialist Party Regional Command collection dataset (BRCC)<lb/>
+(Includes the School Registers dataset, Boxfiles dataset, Membership Files dataset, and Artifacts dataset)<lb/>
+4. 2004 secondary collection dataset (2004SC)<lb/>
+5. 2005 secondary collection dataset (2005SC)<lb/>
+6. Ministry of Information selected documents collection dataset<lb/>
+7. Jewish Presence in Iraq dataset<lb/>
+8. Video documents from the Ba'th Regime Era dataset<lb/>
+</p>
+<p>1. North Iraq dataset (NIDS)</p>
+<p>The documents in this collection were created by the Ba'th Party; al-Istikhbarat al-'Askariyyah (military intelligence); Mudiriyyat al-Amn al-'Ammah (general directorate of security) and its three governorates of Sulaym&#x0101;n&#x012B;yah, Dah&#x016B;k, and Irb&#x012B;l; and the Revolutionary Command Council (RCC). The documents were eventually digitized by the U.S. government, and a partial set of digital copies were given to the IMF, which in turn transferred them to the Hoover Institution.</p>
+
+<p>In March 1991, after the defeat of the Iraqi armed forces in the Gulf War, Kurdish rebels revolted against the Iraqi regime, attacking and burning Ba'th Party buildings in northern Iraq. In the uprising, the Iraqi Kurds seized 18 tons of secret police files before Saddam Hussein's armed forces returned from the south to crush the revolt. The records remained with the Patriotic Union of Kurdistan (PUK) and the Kurdish Democratic Party (KDP).</p>
+
+<p>Kanan Makiya, Peter Galbraith of the U.S. Senate Foreign Relations Committee (SFRC), and representatives of Human Rights Watch/Middle East (HRW/ME) approached the Kurdish groups holding the documents about transferring them to the United States for analysis and safekeeping. In May 1992, after several visits to northern Iraq, they reached an agreement with the PUK to send the greater share of the documents to the U.S. With funding from the SFRC, the documents were transported to the U.S. by the Department of Defense (DOD) and placed in the temporary custody of the U.S. National Archives and Records Administration (NARA). The KDP sent its official Iraqi documents to the U.S. under the same terms in August 1993. Finally, the United Party of Kurdistan sent six boxes that were added to those already in NARA custody.</p>
+
+<p>In the U.S., the material was re-housed in 1842 boxes. Research teams from the Defense Intelligence Agency (DIA) and HRW/ME processed the material. Documents were scanned and screened by research teams from the DOD and Middle East Watch. They created 40,825 screening sheets (folder cover sheets), which describe the contents of a batch of documents. There is an average of 60 pages per batch. The screening sheets contain keywords, personal names, and place names that were logged during the initial survey of the documents. HRW/ME analyzed the documents to begin gathering evidence for a possible genocide case against the Iraqi regime, and the DIA's Documentation Exploitation Division digitized the 5.5 million documents, burning them onto 176 CDs. This work was finished in fall 1994.</p>
+
+<p>In 1997, the Human Rights Initiative at the University of Colorado at Boulder negotiated the acquisition of the original and digitized files with the SFRC, the DIA, and the Kurdish political factions that had captured the files in March 1991. The release and transfer agreement outlined in a letter by Senators Jesse Helms and Joseph Biden of the SFRC stipulated that ownership resided with the PUK and KDP and that any request by them for the return of the documents must be honored. While held by the archives at the University of Colorado at Boulder, the records were made widely available to researchers seeking evidence of crimes against humanity perpetrated by Saddam Hussein and his senior leadership.</p>
+
+<p>In fall 1998, the digital contents of 1,575 boxes, representing the majority but not all of the original files, were delivered to the Iraq Research and Documentation Project (IRDP, predecessor of the IMF); screening sheets for some of the boxes not provided to the IRDP were among the materials received, and some documents among those received appeared incomplete. The IRDP designed a database system for the material in summer 1999, and IRDP research teams began entering data in fall 1999. The documents "annotated" by the IMF provide dates, names of individuals and originating offices, signature data, and descriptions of individual documents, with a focus on bringing out the oppression of Iraq's people by the Iraqi government. It is this set of digitized files that is at Hoover.</p>
+
+<p>In 2005, during the U.S. occupation of Iraq, the Regime Crimes Liaison Office of the U.S. Department of Justice (DOJ) requested access to the original files for use in the Iraqi trials of Saddam Hussein and leading officials of his regime. After this work was completed, the University of Colorado at Boulder archives and the Regime Crimes Liaison Office reached an agreement providing for the transfer of the original files to the DOJ on the condition that they would be repatriated to Iraq under Kurdish control, as originally stipulated in the letter of agreement with the SFRC. In 2007, the U.S. government transported the records to the custody of the Kurds in northern Iraq (see UCB Libraries|Archives|International Projects at <extref linktype="simple" href="http://ucblibraries.colorado.edu/archives/collections/international.htm" actuate="onrequest" show="new">http://ucblibraries.colorado.edu/archives/collections/international.htm</extref>). The Archives at the University of Colorado at Boulder retains the digital database to the 5.5 million documents in the full collection.</p>
+
+<p>For more information, see Bruce P. Montgomery, "The Iraqi Secret Police Files: A Documentary Record of the Anfal Genocide," <emph render="italic">Archivaria 52</emph>, 
+<extref linktype="simple" href="http://journals.sfu.ca/archivar/index.php/archivaria/article/view/12815/14023" actuate="onrequest" show="new">
+http://journals.sfu.ca/archivar/index.php/archivaria/article/view/12815/14023</extref>.</p>
+
+<p>2. Kuwait dataset (KDS)</p>
+
+<p>The original documents in this group were created by Iraqi military and political agencies; some personal documents left behind by Iraqi soldiers and operatives are also included. The documents were collected by the Coalition forces after the retreat of the Iraqi military from Kuwait in 1991. A portion of these documents were declassified by the Defense Intelligence Agency at the request of the Department of State, and others were declassified in response to Freedom of Information Act requests. Only documents declassified by the U.S. government were given to the IMF. Digitization was performed by the U.S. government and only digital copies were received by the IMF. </p>
+
+<p>3. Ba'th Arab Socialist Party Regional Command collection (BRCC) dataset</p>
+<p>These documents were created by the Ba'th Regional Command, which was the headquarters of the ruling Ba'th Arab Socialist Party (BASP) that had authority over party organizations in Iraq. They were collected directly from the headquarters of the BASP Regional Command in Baghdad by the IMF from September 23 to 25, 2003.</p>
+
+<p>Upon capture of Baghdad by Coalition forces on April 9, 2003, Ba'th Regional Command documents fell within the restricted area (Green Zone). They were left uncollected until Kanan Makiya of the IMF secured authorization from the Coalition Provisional Authority (CPA) for their removal. Over three days, under supervision by core IMF personnel, the documents were relocated from their original site to an IMF processing facility.</p>
+
+<p>The BASP Regional Command headquarters building was previously used as the headquarters of the BASP National Command, which had authority over party organizations in the rest of the Arab world, and some of its documents were included among those found by the IMF in the building.</p>
+
+<p>All documents in this collection were digitized by the IMF, and a complete set of digitized files is at Hoover. The collection includes the school registers dataset, boxfiles dataset, membership files dataset, video documents from the Ba'th regime era dataset, and artifacts dataset that includes sound and video recordings. </p>
+
+<p>4. 2004 Secondary Collection dataset (2004SC) </p>
+
+<p>The documents in the collection were created by various units of the Iraqi government and were collected by many different Iraqi secondary sources after the fall of the regime. When the documents became problematic the secondary sources discarded them, at which point the IMF collected them. All documents collected by the IMF in 2004 are included in the dataset.</p>
+
+<p>Many documents were acquired by individuals and organizations in the aftermath of the fall of the Ba'th regime. These documents are believed to have been widely mishandled, so that document components could be lost, and other documents could be introduced that were out-of-context, altered, redacted, or forged. A strong black market in documents also emerged immediately after the regime fell, which added to the degradation of the document pool. In many cases the documents eventually became liabilities to their current owners, and in fall 2004 many documents were dumped or otherwise disposed of. Using a local network of friends and associates, many disposed documents were rescued and transported to IMF premises. It was rarely possible to preserve the context of these documents, nor appraise their content and value.</p>
+
+<p>The bulk of this series was collected in twenty-three rounds from September 22 to November 1, 2004, from ten locations relatively close together. The collection sites were both within and outside Baghdad's International Zone (Green Zone), and varied from official sites (Military Bureau, Regional Command, al-Qadisiyyah newspaper) to private residences. Due to the nature of the collection process, individual documents are not linked to their recovery location. While the collection process was opportunistic, the content exhibits much coherence, suggesting that the document scavengers in the neighborhoods from which the series was gathered had access to the same pool of material in their proximity. The main components of the 2004SC are Regional Command membership files, Special Security personnel files, and correspondence and administrative files.</p>
+
+<p>All documents in this collection were digitized by the IMF, and a complete set of digitized files is at Hoover.</p>
+
+<p>5. The 2005 Secondary Collection dataset (2005SC)</p>
+
+<p>The documents in the collection were created by various units of the Iraqi government and were collected by many different Iraqi secondary sources after the fall of the regime. When the documents became problematic the secondary sources discarded them, at which point the IMF collected them. All documents collected by the IMF in 2005 are included in the dataset.</p>
+
+<p>These documents are believed to have been widely mishandled, so that document components could be lost, and other documents could be introduced that were out-of-context, altered, redacted, or forged. A strong black market in documents added to the degradation of the document pool. Using a local network of friends and associates, many disposed documents were rescued and transported to IMF premises. It was rarely possible to preserve the context of these documents. </p>
+
+<p>All documents in this collection were digitized by the IMF in Baghdad, and a complete set of digitized files is at Hoover</p>
+
+<p>6. Ministry of Information selected documents collection</p>
+
+<p>These documents were selected for their importance by a Ministry of Information insider, Amir al-Hilu, who provided them to the IMF in July-August 2003. The IMF digitized all of them.</p>
+
+<p>7. Jewish Presence in Iraq dataset</p>
+
+<p>The collection combines a few thousand pages of material from the BRCC dataset and additional documents given to the IMF without restriction by Edwin Shukur of London in 2006.</p>
+
+
+<p>8. Video documents from the Ba'th Regime Era dataset</p>
+
+<p>These video recordings were created by government agencies and individuals during the Ba'th regime. They come from both the Ba'th Regional Command collection and the 2004 secondary collection. The original recordings were on VHS videocassettes that were digitized by the IMF and received by Hoover as file-based recordings. </p>
+</custodhist>
+
+<dsc type="combined">
+<head>Dataset Descriptions</head>
+<c01 level="collection">
+ <did>
+ <container>Workstation</container>
+ <unittitle>North Iraq dataset (NIDS) </unittitle>
+ <unitdate type="bulk" normal="1980/1989">1980s</unitdate>
+<physdesc><extent>2,394,561 pages </extent><physfacet>72 ppi black and white TIFF files</physfacet></physdesc>
+</did>
+<scopecontent><p>These documents were created by security, intelligence, military, Ba'th Party, and other government agency offices in northern Iraq, primarily in the three northern governates (provinces) of Sulaym&#x0101;n&#x012B;yah, Dah&#x016B;k, and Irb&#x012B;l. Focusing on these governorates, this series covers the period of the consolidation of power of the Saddam Hussein regime, the Iran-Iraq war, the Kurdish insurgency, the Anfal operations of 1987-1988, and the prelude to the second Gulf War. The NIDS provides documentation of the bureaucratic apparatus of the Iraqi State.</p>
+
+<p>In the database, keyword searches on extensive English language descriptive data, including corporate names, personal names, place names, and subjects, cover all of the 2.4 million pages in this dataset. All fields are in English except the title, which is in both Arabic and English. </p>
+
+<p>Browsing by names of individuals, localities, entities, or topics (all in English) is also available for all of the 2.4 million pages. Browsing by serial-sheet number is also possible for the entire dataset.</p>
+
+<p>Another browse option, by annotation, covers a 369,309-page subset (about 15 percent) of the 2.4 million pages in this dataset. This browse option provides two tiers. The first is a list of 9 major topics; selecting one of them opens a second list of subtopics. <lb/>
+The 9 major topics are: 
+<lb/>
+Issuing agencies (4,044 subtopics)<lb/>
+Concerned localities (1,664 subtopics)<lb/>
+Communal affiliations (8 subtopics: Assyrians, Christians, etc.)<lb/>
+Political affiliations (7 subtopics: Communist Party, Da'wa Party, etc.)<lb/>
+Individuals (10 subtopics)<lb/>
+Dates (496 subtopics)<lb/>
+Topics (20 subtopics: Anfal, arrest, CBN weapons, etc.)<lb/>
+Categories (2 subtopics: administrative, political)<lb/>
+Glossary (25,492 subtopics: A'stebl, A'athis, A'deserter', A'na, etc.)</p>
+
+<p>When accessing the digitized documents through the search and browse options that cover the entire 2.4 million pages in the dataset, clicking on a listing leads to a computer-generated form showing the descriptive data for a batch documents. The batch of documents may not be logically related--the documents in a batch might be about several disparate topics. You must look through all of the documents in a batch to find the ones related to your interest. On average, one form describes 60 pages of documents; the maximum is 100 pages of documents.</p>
+
+<p>This descriptive data was created by U.S. government reviewers from 1992 to 1994. They used a "screening sheet" to describe the contents of a batch of documents. The dataset uses 40,826 screening sheets. These pre-printed forms listed numerous categories of data that were checked off when applicable to the batch of documents being reviewed. For example, "Revolutionary Command Council" and "Presidential Cabinet" are two of the data categories on the form, and a reviewer would place a check next to "Presidential Cabinet" when at least one page in a batch related to the presidential cabinet. After checking all the relevant data categories, the reviewers wrote comments that provided details. All data was recorded in English.</p>
+
+<p>The original screening sheets, with the handwritten notations made by reviewers, were scanned and appear as the first pages in the batch of digitized documents. The categories used on the screening sheets changed somewhat over time.</p>
+
+<p>Up to 100 pages of documents were grouped into a batch, and the documents did not necessarily all relate to each other or a single subject. Reviewers receiving a batch of documents could choose to break the batch into smaller groups, each with a separate screening sheet, or keep them as one group with one screening sheet.</p>
+
+<p>When accessing the subset of 369,309 digitized pages covered by the "browse by annotations" option, clicking on a topic and then a subtopic leads to the serial number and sheet number for the actual page; from there you click once more to view the actual page. Annotations were made at the page level, so that each page of a multi-page document was annotated separately. A subtopic can contain just one page or thousands of pages of actual documents. (The subtopics used in these annotations are not all searchable via the database's search function.)</p>
+
+<p>The annotations were created by the Iraq Research and Documentation Project (IRDP), a predecessor of the Iraq Memory Foundation (IMF), from 1999 to 2002. IRDP staff reviewed the screening sheets created by U.S. government reviewers and assigned priority levels based on the screening sheet data. Those pages deemed highest priority were "annotated" by IRDP staff. Annotating involved assigning terms represented in the "browse by annotations" list. The annotations were refined since 2002 by the IMF. </p>
+
+</scopecontent>
+</c01>
+
+<c01 level="collection">
+ <did>
+ <container>Workstation</container><unittitle>Kuwait dataset (KDS) </unittitle>
+<unitdate type="bulk" normal="1990/1991">1990-1991</unitdate>
+<physdesc><extent>725,000 pages </extent><physfacet>72 ppi black and white TIFF files</physfacet></physdesc>
+</did>
+<scopecontent><p>These documents were created by Iraqi military and political agencies and were gathered by the Coalition forces after the retreat of the Iraqi military from Kuwait in 1991. They document the Iraqi occupation of Kuwait from 1990 to 1991, including the conduct of the war and the treatment of the civilian population. Personal documents left behind by Iraqi soldiers and operatives are included. </p>
+</scopecontent>
+</c01>
+
+<c01 level="series">
+ <did>
+ <container>Workstation</container><unittitle>School registers dataset (BRCC-SRDS) </unittitle>
+<unitdate type="inclusive" normal="1983/2002">1983-2002</unitdate>
+<physdesc><extent>162,628 pages (1036 volumes) </extent><physfacet>144 ppi color JPEG files </physfacet></physdesc>
+</did>
+<scopecontent><p>Part of the Ba'th Arab Socialist Party Regional Command collection, these lists of students were created by the general security service (Al-Amn Al-Am) of the Ba'th Party, which performed an annual accounting of the high school student population. Boys are typically included from age 11 or 12 into adulthood. The registers cover all of the 18 Iraqi governates: Al Anbar, Arbil, Babil, Baghdad, Basra, Basra, Dhi Qar, Diyala, Dohuk, Karbala, Kirkuk, Maysan, Muthanna, Najaf, Nineveh, Al-Qadisiyyah, Saladin, Sulaymaniyah, and Wasit. The bulk of the registers were created in the years following the 1991 Gulf War.</p>
+
+<p>For each student, the registers list name, year, city or geographic area, party affiliation, and date the student officially joined the party. Some data is political, monitoring the inclinations and affiliations of the students and their extended families as well as specifics related to key events in Iraqi history, including the Iran-Iraq war and the 1991 uprising. Boys recorded as "independent" refused to join the Ba'th Party. The original registers were large-format bound volumes averaging about 150 pages.</p>
+
+<p>All of the names in this dataset have been redacted to protect the privacy of the students.</p>
+
+<p>Browsing is by names of governates, localities, or dates (all in English). Once a term is selected, a list that provides (in English): register number, number of pages in register, type (Hizb or Amn, which indicates Ba'th Party or security as the authority), governate, localities within the governate, year, and volume number. This data was generated by the IMF from 2005 to 2008. </p>
+
+<p>One database record describes 150 pages on average.</p>
+</scopecontent>
+</c01>
+
+<c01 level="collection">
+ <did>
+ <container>Workstation</container><unittitle>Boxfiles dataset (BRCC-Boxfiles) </unittitle>
+<unitdate type="bulk" normal="1991/2003">1991-2003</unitdate>
+<physdesc><extent>2,764,631 pages (6,420 boxfiles) </extent><physfacet>300 ppi color JPEG files </physfacet></physdesc>
+</did>
+<scopecontent><p>Part of the Ba'th Arab Socialist Party Regional Command collection, this dataset contains several series (described below) that were originally housed in "boxfiles" (binders) averaging about 430 pages. The main elements of the BRCC Boxfiles Dataset are Regional Command correspondence, Regional Command dossiers, National Command dossiers and Ba'th  Arab Socialist Party (BASP) special membership files.</p>
+
+<p>Keyword searches of the database search the boxfile title, which was written on the spine of each boxfile by the BRCC, as well as years, geographic names, corporate names, and specific subjects supplied by the IMF. All fields are in English except the title, which is in both Arabic and English. This data was generated by the IMF from 2005 to 2008.</p>
+
+<p>Clicking on an entry in the search results leads to a display of the complete database record for that boxfile, with all of the descriptive data. From there, the page images can be viewed. </p>
+
+<p>Two browsing options are available, serial number and broad topics. There are 23 broad topics:<lb/>
+Administrative (Including correspondence, notices, and reports of routine organizational character)<lb/>
+
+Personnel (Including correspondence, notices, and reports referencing identified regime affiliated individuals)<lb/>
+
+Correspondence (Including documents between government agencies and/or individuals)<lb/>
+
+High Command (Including the Presidency, government, and Ba'th party leadership)<lb/>
+
+Party Branches (Including hierarchical divisions of the Ba'th party)<lb/>
+
+Party Organizations (Including specialized institutions for women, students, veterans, etc affiliated with the Ba'th Party)<lb/>
+
+Party Events (Including anniversaries, special celebrations, and occasional events sponsored by the Ba'th Party)<lb/>
+
+Party Honors (Including decorations, honorary ranks, promotions, and special compensations issued by the Ba'th Party)<lb/>
+
+Party Literature (Including organizational, ideological, and political publications, tracts, and reports issued by the Ba'th Party)<lb/>
+
+National Events (Including anniversaries, special celebrations, and occasional events sponsored by the Iraqi Government)<lb/>
+
+State Institutions (Including ministries, agencies, departments, and organizations affiliated with the Iraqi Government)<lb/>
+ 
+Security (Including security, surveillance, and counter-insurgency concerns)<lb/>
+
+Prisoners of War (Includes the Iran-Iraq War (1980-1988) and other prisoner of war affairs)<lb/>
+
+North (Governorates of the North of Iraq, Kurdistan Autonomous Region)<lb/>
+
+Center (Governorates of the Center of Iraq, Baghdad, and Western provinces)<lb/>
+
+South (Governorates of the South of Iraq, Middle Euphrates and Marshes)<lb/>
+
+Opposition (Groups and parties in active hostility against the regime)<lb/>
+
+Admissions and Exclusions (Educational policies and actions of selective admission and denial of admission to institutions)<lb/>
+
+Party Management (Party organization and affairs, recurrent amendments on party structure)<lb/>
+
+News Events (Documents referencing national, regional, and international events)<lb/>
+
+Other Parties and Organizations (Parties and organizations not actively hostile against the regime
+ 
+Date (Documents including an identifiable date)<lb/>
+
+Others (Documents with notable topics or themes not covered by the above)<lb/>
+<lb/>
+These topics were chosen by the IMF, and each boxfile was assigned to one or more topics by the IMF. Each topic leads to a list of boxfile titles assigned to that topic. Clicking on an entry in the topical list of boxfile titles leads to a display of the complete database record for that boxfile, showing all of the descriptive data. From there, the page images can be viewed. </p>
+
+<p>One database record describes 430 pages on average.</p>
+</scopecontent>
+
+<c02 level="series">
+ <did>
+ <container>Workstation</container><unittitle>Regional Command correspondence </unittitle></did>
+<scopecontent><p>Within the BRCC boxfiles dataset, the Regional Command correspondence represents many key agency offices, including Diwan al-Ri'asah, al-Mukhbarat, al-Amn al'Am, and al-Istikhbarat, and is typically grouped by originating office and date. Documents may have been excluded from this series based on their level of classification. </p>
+</scopecontent></c02>
+<c02 level="series">
+ <did>
+ <container>Workstation</container><unittitle>Regional Command dossiers </unittitle></did>
+<scopecontent><p>Within the BRCC boxfiles dataset, the Regional Command dossiers cover a wide range of topics, such as special events, provisions for families of those executed, and investigations of accusations of disrespect to Saddam Hussein. </p>
+</scopecontent></c02>
+<c02 level="series">
+ <did>
+ <container>Workstation</container><unittitle>National Command dossiers </unittitle></did>
+<scopecontent><p>Within the BRCC boxfiles dataset, the National Command dossiers highlight the activities of the Ba'th Arab Socialist Party in other countries. </p>
+</scopecontent></c02>
+
+</c01>
+
+<c01 level="collection">
+ <did>
+ <container>Workstation</container><unittitle>Artifacts dataset (BRCC-Artifacts) </unittitle>
+<unitdate type="inclusive" normal="1968/2003">1968-2003 </unitdate>
+<physdesc><extent>73 items</extent></physdesc>
+</did>
+<accessrestrict><p>While the materials in this dataset are closed, the descriptions of them in the IMF database are open.</p></accessrestrict>
+<scopecontent><p>The BRCC Artifacts dataset is a small set of objects, damaged papers, sound and video recordings, separated from the Ba'th Regional Command Collection (BRCC) boxfiles during the initial digitization because they could not be digitized with the same equipment. Deemed "Artifacts" at the time, they include audiovisual materials and other non-paper items such as bullets, medals, and spices, as well as problematic paper items such as torn photographs, moldy documents and envelopes with contextual information written on the outside. The artifacts are mostly, but not always, evidence submitted to the Ba'th Regional Command as part of a case or investigation. Some material was digitized later by the IMF; other materials were digitized by the Hoover Institution.</p>
+</scopecontent>
+</c01>
+
+<c01 level="collection">
+ <did>
+ <container>Workstation</container><unittitle>Membership files dataset, </unittitle>
+<unitdate type="inclusive" normal="1991/2003">1991-2003</unitdate>
+<physdesc><extent>3,782,723 pages </extent><physfacet>300 ppi color JPEG files </physfacet></physdesc>
+</did>
+<scopecontent><p>A mixture of the Ba'th Arab Socialist Party Regional Command collection and the 2004 secondary collection, this dataset contains several series of membership files, described below, that provide a detailed record of the initiation, promotion, and activities of members of the Ba'th party throughout Iraq. </p>
+
+<p>This dataset cannot be searched at this time, but can be browsed by box-batch-page number.</p>
+</scopecontent>
+
+<c02 level="series">
+ <did>
+ <container>Workstation</container><unittitle>Ba'th Arab Socialist Party (BASP) regular membership files </unittitle></did>
+<scopecontent><p>Part of the Ba'th Arab Socialist Party Regional Command collection, these folders concern BASP members in various branches throughout Iraq. They represent the higher echelons of party membership. Files typically include applications for membership, recommendations by party superiors, and letters and requests by members. </p>
+</scopecontent></c02>
+<c02 level="series">
+ <did>
+ <container>Workstation</container><unittitle>Ba'th Arab Socialist Party (BASP) special membership files </unittitle></did>
+<scopecontent><p>Part of the Ba'th Arab Socialist Party Regional Command collection, these files are physically distinguished from regular membership files by their housing in boxfiles rather than folders. The criteria for this special membership classification seem to vary. Each top-tier party leader has a boxfile, though the documents in the binder are not the membership records of that individual, but rather contain information about security details and other tangential issues. Boxfiles also exist for some second-tier leaders and some members who were not leaders but were subject to various actions like dismissal from the party. Where regular membership files provide a wide view of party membership, these special membership files allow in-depth study of party procedures, corrective measures, and special allowances. </p>
+</scopecontent></c02>
+<c02 level="series">
+ <did>
+ <container>Workstation</container><unittitle>Regional Command Ba'th Arab Socialist Party (BASP) membership files </unittitle></did>
+<scopecontent><p>Part of the 2004 secondary collection, these files document the initiation, promotion, and functions of BASP members in various BASP branches throughout Iraq, much like the BASP regular membership files. The files represent the higher echelons of party membership. Included are applications for membership, recommendations by party superiors, letters and requests by members. </p>
+<p>The files are typically grouped by originating office and date. The files contain correspondence originating from many key agencies and offices including Diwan al-Ri'asah, al-Mukhbarat, al-Amn al'Am, al-Istikhbarat, and others.</p>
+<p>In terms of custodial history, it is not clear whether the removal of these files from the Ba'th Regional Command site predates September 2003, when the IMF acquired the Ba'th Arab Socialist Party Regional Command collection, or if the files were overlooked by the IMF when it investigated the Ba'th Regional Command headquarters in September 2003. </p>
+</scopecontent></c02>
+<c02 level="series">
+ <did>
+ <container>Workstation</container><unittitle>Special Security Agency files </unittitle></did>
+<scopecontent><p>Part of the 2004 secondary collection, the files record the involvement of individuals in the Special Security Agency (Jihaz al-Aman al-Khass). A file generally includes detailed biographical notes, photographs, personal statements, and various reports. Additional files include correspondence and administrative records documenting the operational and administrative procedures of the Jihaz al-Aman al-Khass, providing details about intelligence and surveillance interests.</p></scopecontent>
+</c02>
+</c01>
+
+<c01 level="series">
+ <did>
+ <container>Workstation</container>
+<unittitle>2004 secondary collection dataset, </unittitle>
+<unitdate type="bulk" normal="2003/2004">2003-2004</unitdate>
+</did>
+<scopecontent><p>The 2004 secondary collection dataset files may be found within the BRCC Membership files dataset, as these two sets of records were digitized concurrently by IMF.</p></scopecontent>
+</c01>
+
+<c01 level="series">
+ <did>
+ <container>Workstation</container>
+<unittitle>2005 secondary collection dataset </unittitle>
+</did>
+<scopecontent>
+<p>The 2005 secondary collection dataset was created by various units of the Iraqi government and were collected by many different Iraqi secondary sources after the fall of the regime. When the documents became problematic the secondary sources discarded them, at which point the IMF collected them. Despite their seeming randomness, the content exhibits much coherence. This dataset represents the output of the digitization process in Baghdad of materials acquired from secondary sources in 2005.</p>
+
+<p>These documents are believed to have been widely mishandled, so that document components could be lost, and other documents could be introduced that were out-of-context, altered, redacted, or forged.</p>
+
+<p>Derived from different original sources, the materials include a high concentration of documents from the Special Security Agency (Jihaz al-Aman al-Khass). The material is largely consistent and likely stems from the same sources as the 2004 secondary collection.</p>
+
+<p>The dataset contains materials that were originally housed in "boxfiles" (binders) averaging about 150 pages. </p>
+
+<p>Keyword searches of the database target the boxfile title, which was written on the spine of each boxfile by the Iraqi government creator. The boxfile titles are in Arabic only. Dates or numbers included in the boxfile title are also searchable. </p>
+ 
+<p>Browsing is by batch-page number. One database record describes 150 pages on average.</p>
+
+</scopecontent>
+</c01>
+
+<c01 level="series">
+ <did>
+ <container>Workstation</container>
+<unittitle>Ministry of Information selected documents dataset, </unittitle>
+<unitdate type="bulk" normal="1991/2003">1991-2003</unitdate>
+<physdesc><extent>1336 pages </extent>
+<physfacet>300 ppi color JPEG files</physfacet>
+</physdesc>
+</did>
+
+<scopecontent>
+<p>Amir al-Hilu, a Ministry of Information insider, selected these ministry records which include pronouncements that commend or condemn individuals, as well as other materials.</p>
+
+<p>This dataset cannot be searched at this time. Browsing is by file number, which equals one page.</p>
+</scopecontent>
+</c01>
+
+<c01 level="series">
+ <did>
+ <container>Workstation</container>
+<unittitle>Jewish presence in Iraq dataset </unittitle>
+<physdesc>
+<extent>283 pages </extent>
+<physfacet> 300 ppi color JPEG files</physfacet>
+</physdesc>
+</did>
+<scopecontent>
+<p>These records concern the 2001 nation-wide effort to document all individuals of the Jewish faith residing in Iraq, as well as individuals of known Jewish ancestry. Detailed reports from Party branches across Iraq and in Kurdish territory survey the small Jewish community. </p>
+<p>This dataset cannot be searched at this time. Browsing is by file number, which equals one page.</p>
+<p></p>
+</scopecontent>
+</c01>
+
+<c01 level="collection">
+ <did>
+ <container>Workstation</container><unittitle>Video documents from the Ba'th Regime Era </unittitle>
+<unitdate>1978-2003</unitdate>
+<physdesc><extent>28 video files </extent></physdesc>
+</did>
+<accessrestrict>
+<p>While 5 video files are closed, the descriptions of them in the IMF database are open.</p>
+</accessrestrict>
+<scopecontent>
+<p>These video recordings were created by government agencies and individuals during the Ba'th regime. They come from both the Ba'th Regional Command collection and the 2004 secondary collection. The original recordings were on VHS videocassettes that were digitized by the IMF and received by Hoover as file-based recordings. </p>
+
+<p>All materials are described in the "Video Documents" section of the searchable database designed and populated by the Iraq Memory Foundation. The videos are listed under "Video from the Ba'th Regime Era" to distinguish them from video recordings created by the IMF that are in the same database, but intellectually part of a different collection at Hoover (Mu'assasat al-dh&#x0101;kirah al-'Ir&#x0101;q&#x012B;yah [Iraq Memory Foundation] records).</p>
+
+<p>The videos are searchable, with some terms in Arabic while others are in English. Browsing within each series is by title and description, which are chiefly in Arabic. Some titles in English are available for the Broadcast elements. One database record describes one video file, which may contain multiple segments on different topics.</p>
+
+<p>Two browsing options are available, by serial number and broad topics. There are 23 broad topics:<lb/>
+News and Documentaries<lb/>
+Michel Aflaq - National Conference<lb/>
+Michel Aflaq Speeches<lb/>
+Torture (Closed)<lb/>
+Individuals<lb/>
+High Command Activities<lb/>
+International Activities<lb/>
+People Activities <lb/>
+Party Literature<lb/>
+Party Events<lb/>
+Private Events<lb/>
+Religious<lb/>
+Interview<lb/>
+Military Parade<lb/>
+Anfal<lb/>
+Security<lb/>
+North<lb/>
+South<lb/>
+Center<lb/>
+East<lb/>
+West<lb/>
+Date<lb/>
+Other<lb/> 
+</p>
+<p>These topics were chosen by the IMF, and each video was assigned to one or more topics by the IMF. Each topic leads to a list of video titles assigned to that topic. Clicking on an entry in the topical list of video titles leads to a display of the complete database record for that video, showing all of the descriptive data. From there, the video recording can be viewed.</p>
+</scopecontent>
+<c02 level="series">
+ <did>
+ <container>Workstation</container><unittitle>Broadcast elements from the Ba'th Regime Era </unittitle>
+<physdesc><extent>79 video files</extent></physdesc>
+</did>
+<scopecontent><p>Included are broadcast elements aired by Ba'th regime television stations. Most have multiple segments, such as news reports, documentary footage, and music. Files range from 3 minutes to 3 hours in duration.</p>
+</scopecontent>
+</c02>
+
+<c02 level="series">
+ <did>
+ <container>Workstation</container><unittitle>Non-Broadcast elements from the Ba'th Regime Era  </unittitle>
+<physdesc><extent>28 video files</extent></physdesc>
+</did>
+<scopecontent><p>The non-broadcast elements depict Saddam Hussein's speeches, mass graves, women's meetings, parties given by Uday Saddam, etc. Eleven files chronicle the activities of Ba'th Party founder, Michel 'Aflaq, including a posthumous conference on the topic of his thought. Files range from 31 minutes to 2 hours in duration. </p>
+</scopecontent>
+</c02>
+</c01>
+
+</dsc>
+</archdesc>
+</ead>
+
+

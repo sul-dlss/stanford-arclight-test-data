@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+    <eadheader findaidstatus="edited-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-CSt-H" url="http://www.oac.cdlib.org/findaid/ark:/13030/tf5t1nb144">zvegints.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Register of the Nikolai Zvegintsov papers
+                </titleproper>
+                <titleproper type="filing">Zvegintsov (Nikolai) papers</titleproper>
+                <author>Finding aid prepared by Hoover Institution Archives</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Hoover Institution Archives</publisher>
+                <address>
+                    <addressline>434 Galvez Mall</addressline>
+                    <addressline>Stanford University</addressline>
+                    <addressline>Stanford, CA, 94305-6003</addressline>
+                    <addressline>(650) 723-3563</addressline>
+                    <addressline>hooverarchives@stanford.edu</addressline>
+                </address>
+                <date>© 1998</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-05-08T13:42-0700</date>
+            </creation>
+            <langusage>Description is in English</langusage>
+        </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>2008 April 09</date>
+                <item>Data cleanup via script: updated the author of the finding aid; removed trailing comma and/or lowered the case of last phrase in the title; removed markup tags, removed trailing comma, lower cased last phrase in findingAidTitle; removed markup tags, removed trailing comma, lower cased last phrase in findingAidFilingTitle; removed tags from languageOfFindingAid; removed markup tags in the Revision Description; added catkey; added OAC url; updated Prefered Citation; updated Accruals statement</item>
+            </change>
+            <change>
+                <date>March 23, 2004</date>
+                <item>Original EAD-to-ArchivistsToolkit import from file zvegints.sgm, converted from EAD 1.0 to 2002 by v1to02.cdl.xsl</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Nikolai Zvegintsov papers</unittitle>
+            <unitdate normal="1920/1922" type="inclusive">1920-1922</unitdate>
+            <unitid label="Collection Number" countrycode="US" repositorycode="CSt-H">75071</unitid>
+            <repository>
+                <corpname>Hoover Institution Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="rus"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1 manuscript box</extent>
+                <extent>(0.4 linear feet)</extent>
+            </physdesc>
+            <abstract id="ref2" label="Abstract">Correspondence, writings, and memoranda relating to activities of White Russian military forces during the Russian Civil War.</abstract>
+            <origination label="Creator">
+                <persname source="ingest">Zvegintsov, Nikolai</persname>
+            </origination>
+        </did>
+        <accessrestrict id="ref3">
+            <head>Access</head>
+            <p>The collection is open for research; materials must be requested at least two business days in advance of intended use.</p>
+        </accessrestrict>
+        <userestrict id="ref4">
+            <head>Publication Rights</head>
+            <p>For copyright status, please contact the Hoover Institution Archives.</p>
+        </userestrict>
+        <prefercite id="ref5">
+            <head>Preferred Citation</head>
+            <p>[Identification of item], Nikolai Zvegintsov papers, [Box no., Folder no. or title], Hoover Institution Archives.</p>
+        </prefercite>
+        <acqinfo id="ref6">
+            <head>Acquisition Information</head>
+            <p>Acquired by the Hoover Institution Archives in 1975.</p>
+        </acqinfo>
+        <accruals id="ref18">
+            <head>Accruals</head>
+            <p>Materials may have been added to the collection since this finding aid was prepared. To determine if this has occurred, find the collection in Stanford University's online catalog at 
+                <extref actuate="onrequest" show="new" href="http://searchworks.stanford.edu/">http://searchworks.stanford.edu/</extref>. Materials have been added to the collection if the number of boxes listed in the catalog is larger than the number of boxes listed in this finding aid.</p>
+        </accruals>
+        <controlaccess>
+            <corpname source="ingest">Russia (Territory under White armies, 1918-1920). Voennyi flot..</corpname>
+            <geogname source="lcsh">Russia (Federation)</geogname>
+            <geogname source="lcsh">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
+            <geogname source="lcsh">Soviet Union--History--Revolution, 1917-1921--Naval operations.</geogname>
+            <geogname source="lcsh">Soviet Union.</geogname>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref8" level="series">
+                <did>
+                    <unittitle>CORRESPONDENCE</unittitle>
+                    <unitdate>1921-1922</unitdate>
+                </did>
+                <c02 id="ref9" level="otherlevel">
+                    <did>
+                        <unittitle>Vesselago (Zvegintsov), Sofia</unittitle>
+                        <container id="cid7693003" type="Box" label="Box">1</container>
+                        <unitdate>1921-1922</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref10" level="otherlevel">
+                    <did>
+                        <unittitle>Miscellaneous</unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref11" level="series">
+                <did>
+                    <unittitle>WRITINGS</unittitle>
+                </did>
+                <c02 id="ref12" level="otherlevel">
+                    <did>
+                        <unittitle>"Adrift in the Frozen Sea: A Diary from Solovei's Trip"</unittitle>
+                        <container id="cid7693002" type="Box" label="Box">1</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref13" level="otherlevel">
+                    <did>
+                        <unittitle>"The Government of Russian Exiles"</unittitle>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref14" level="otherlevel">
+                    <did>
+                        <unittitle>"Ice Breaker 
+                            <title render="italic">Solovei Budimirovich</title> and My Notes from January 22, 1920 to July 4, 1920"</unittitle>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref15" level="otherlevel">
+                    <did>
+                        <unittitle>"Solovei Budimirovich in the Kara Sea"</unittitle>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref16" level="otherlevel">
+                    <did>
+                        <unittitle>Miscellaneous drafts and notes</unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref17" level="series">
+                <did>
+                    <unittitle>MISCELLANY</unittitle>
+                    <container id="cid7693001" type="Box" label="Box">1</container>
+                </did>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

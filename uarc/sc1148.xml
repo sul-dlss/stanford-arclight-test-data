@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[Arnold Isenberg papers])//EN"
+             identifier="ark:/13030/c8cc12bd">sc1148.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Arnold Isenberg Papers
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Isenberg (Arnold) Papers</titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2013-11">November 2013</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC1148</unitid>
+         <origination label="Creator:">
+            <persname rules="aacr" source="ingest">Isenberg, Arnold</persname>
+         </origination>
+         <unittitle label="Title:">Arnold Isenberg papers</unittitle>
+         <unitdate normal="1938/1963"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1938-1963</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>6 Linear feet</extent>
+         </physdesc>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <accessrestrict id="ref2">
+            <head>Information about Access</head>
+            <p>The materials are open for research use. Audio-visual materials are not available in original format, and must be reformatted to a digital use copy.</p>
+         </accessrestrict>
+         <userestrict id="ref3">
+            <head>Ownership &amp; Copyright</head>
+            <p>All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Special Collections and University Archives, Stanford University Libraries, Stanford, California 94305-6064. Consent is given on behalf of Special Collections as the owner of the physical items and is not intended to include or imply permission from the copyright owner. Such permission must be obtained from the copyright owner, heir(s) or assigns. See: http://library.stanford.edu/depts/spc/pubserv/permissions.html.</p>
+            <p>Restrictions also apply to digital representations of the original materials. Use of digital files is restricted to research and educational purposes.</p>
+         </userestrict>
+         <prefercite id="ref4">
+            <head>Cite As</head>
+            <p>[identification of item], Arnold Isenberg Papers (SC1148). Dept. of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <persname rules="aacr" source="ingest">Camper, Fred</persname>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.4">
+         <head>Collection Contents</head>
+         <c01 id="ref5" level="series">
+            <did>
+               <unittitle>Papers</unittitle>
+            </did>
+            <c02 id="ref6" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Arnold (Poetry Collection)</unittitle>
+                  <unitdate>1949-1957</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref7" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Arnold</unittitle>
+                  <unitdate>1955</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref8" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Unlabeled Photos</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref9" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Professor for Motherhood Dept of Philosophy</unittitle>
+                  <unitdate>1954-1955</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref10" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Arnold</unittitle>
+                  <unitdate>1955-1956</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref11" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">6</container>
+                  <unittitle>A.I.</unittitle>
+                  <unitdate>1956</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref12" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Pages 1803-1885</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref13" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Pages 1886-1939</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref14" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Pages 2000-2071</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref15" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Pages 2072-2217</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref16" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Pages 2218-2268</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref17" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Pages 2269-2326</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref18" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Pages 2327-2525</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref19" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Pages 2525-2647</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref20" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">15</container>
+                  <unittitle>Pages 2648-2807</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref21" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">16</container>
+                  <unittitle>Pages 2808-2854</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref22" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">17</container>
+                  <unittitle>Pages 2855-2869</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref23" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">18</container>
+                  <unittitle>Pages 2928-3039</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref24" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">19</container>
+                  <unittitle>Pages 3040-3204</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref25" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">20</container>
+                  <unittitle>Pages 3205-3206</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref26" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">21</container>
+                  <unittitle>Pages 3391-3420</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref27" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">22</container>
+                  <unittitle>Pages 3500-3590</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref28" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">23</container>
+                  <unittitle>Pages 3591-3739</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref29" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">24</container>
+                  <unittitle>Pages 3740-3867</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref30" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">25</container>
+                  <unittitle>Pages 3869-3999</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref31" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">26</container>
+                  <unittitle>Pages 4000-4153</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref32" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">27</container>
+                  <unittitle>Pages 4154-4342</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref33" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">28</container>
+                  <unittitle>Pages 4342-4360</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref34" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">29</container>
+                  <unittitle>Pages 4361-4436</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref35" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">30</container>
+                  <unittitle>Pages 4437-4556</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref36" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">31</container>
+                  <unittitle>Pages 4557-4665</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref37" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">32</container>
+                  <unittitle>Assorted Philosophy Journals</unittitle>
+                  <unitdate>1956-1963</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref38" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">1</container>
+                  <unittitle>jms (Poetry Collection)</unittitle>
+                  <unitdate>1955</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref39" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">2</container>
+                  <unittitle>jms Assorted Poetry</unittitle>
+                  <unitdate>1955</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref40" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">3</container>
+                  <unittitle>jms Assorted Poetry</unittitle>
+                  <unitdate>1955</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref41" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">4</container>
+                  <unittitle>jms Assorted Poetry</unittitle>
+                  <unitdate>1955</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref42" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Pages 7-41</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref43" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Pages 42-133</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref44" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Pages 133-246</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref45" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Pages 247-315</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref46" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Pages 316-471</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref47" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Pages 472-941</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref48" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Pages 942-1249</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref49" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Pages 1251-1516</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref50" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Pages 1517-1807 (End of Roll)</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref51" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Pages 1808-2042</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref52" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">15</container>
+                  <unittitle>Pages 2043-2071</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref53" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">16</container>
+                  <unittitle>Pages 2072-2217</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref54" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">17</container>
+                  <unittitle>Arnold's Papers Pages 1-471</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref55" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Unnumbered</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref56" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Pages 1-171</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref57" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Assorted Notes, Postcards, Photos, Stenographer's Notebook</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref58" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Pages 1-1714 (copy)</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref59" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Logic: Journals of Symbolic Logic and Notes</unittitle>
+                  <unitdate>1938-1953</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref60" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">6</container>
+                  <unittitle>"Does Quality Order Rest Upon A Mistake?"</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref61" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">7</container>
+                  <unittitle>"Proposed Experiments on Measurement of Utility"</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref62" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Pages 1-34 Shirley C. Soman</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref63" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Pages 35-80</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref64" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Pages 81-120</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref65" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Pages 121-150</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref66" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Pages 151-213</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref67" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Pages 214-500</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref68" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Pages 501-655</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref69" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">15</container>
+                  <unittitle>Pages 656-789</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref70" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">16</container>
+                  <unittitle>Pages 790-914</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref71" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">17</container>
+                  <unittitle>Pages 915-1128</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref72" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">18</container>
+                  <unittitle>Pages 1129-1142</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref73" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">19</container>
+                  <unittitle>Pages 1143-1164</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref74" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">20</container>
+                  <unittitle>Pages 1165-1393</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref75" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">21</container>
+                  <unittitle>Pages 1394-1418</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref76" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">22</container>
+                  <unittitle>Pages 1420-1493</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref77" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">23</container>
+                  <unittitle>Pages 1494-1548</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref78" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">24</container>
+                  <unittitle>Pages 1549-1561</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref79" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">25</container>
+                  <unittitle>Pages 1562-1712</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref80" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">26</container>
+                  <unittitle>Pages 1713-1802</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref81" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">27</container>
+                  <unittitle>The Journal of Philosophy Vol. L, No. 15</unittitle>
+                  <unitdate>1953 July 16</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref82" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">28</container>
+                  <unittitle>The Journal of Philosophy Vol. XLII, No. 19</unittitle>
+                  <unitdate>1945 Sept. 13</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref83" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">29</container>
+                  <unittitle>The Journal of Philosophy Vol. LII, No. 17</unittitle>
+                  <unitdate>1955 Aug. 18</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref84" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">30</container>
+                  <unittitle>The Journal of Philosophy Vol. LIII, No. 18</unittitle>
+                  <unitdate>1956 Aug. 30</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref85" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">31</container>
+                  <unittitle>The Journal of Philosophy Vol. LV, No. 21</unittitle>
+                  <unitdate>1958 Oct. 9</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref86" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">32</container>
+                  <unittitle>Accent</unittitle>
+                  <unitdate>1959 Autumn</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref87" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">33</container>
+                  <unittitle>The Journal of Philosophy Vol. LIII, No. 14</unittitle>
+                  <unitdate>1956 July 5</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref88" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">34</container>
+                  <unittitle>The Journal of Philosophy Vol. LII, No. 7</unittitle>
+                  <unitdate>1955 March 31</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref89" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">35</container>
+                  <unittitle>The Journal of Philosophy Vol. LIII, No. 6</unittitle>
+                  <unitdate>1956 March 15</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref90" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">36</container>
+                  <unittitle>The Journal of Philosophy Vol. LIII, No. 9</unittitle>
+                  <unitdate>1956 April 26</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref91" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">37</container>
+                  <unittitle>The Journal of Philosophy Vol. LIII, No. 12</unittitle>
+                  <unitdate>1956 June 7</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref92" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">38</container>
+                  <unittitle>The Journal of Philosophy Vol. LII. No. 21</unittitle>
+                  <unitdate>1955 Oct. 13</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref93" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">39</container>
+                  <unittitle>Philosophical Studies Vol. 1, No. 1</unittitle>
+                  <unitdate>1950 Jan.</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref94" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">40</container>
+                  <unittitle>The Journal of Philosophy Vol. LIII. No. 17</unittitle>
+                  <unitdate>1956 Aug.16</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref95" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">41</container>
+                  <unittitle>The Journal of Philosophy Vol. LI. No. 13</unittitle>
+                  <unitdate>1954 June 24</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref96" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Poetry and Ethics Exam Book and Various Essays</unittitle>
+                  <unitdate>circa 1963</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref97" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Arnold Isenberg Info</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref98" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">3</container>
+                  <unittitle>"The Present Situation in the Aesthetics of Poetry"</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref99" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">4</container>
+                  <unittitle>"The Aesthetic Judgement is Singular"</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref100" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Pages 2524-2647</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref101" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">6</container>
+                  <unittitle>"Please Island" Poem</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref102" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Pages 1420-1493</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref103" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Art and Wish "To The Reader"</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref104" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">9</container>
+                  <unittitle>9 Pages of Hand Notes</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref105" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">10</container>
+                  <unittitle>"Program Music" and "Musics and Ideas"</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref106" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">11</container>
+                  <unittitle>"Mystery"</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref107" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Pages 2-32 and Page 1943 (2 copies)</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref108" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Pages 2272-2297</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref109" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Pages 2298-4665</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

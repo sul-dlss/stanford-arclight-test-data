@@ -1,0 +1,796 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  
+   
+  
+  
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" repositoryencoding="iso15511" findaidstatus="unverified-full-draft" langencoding="iso639-2b"><eadid countrycode="us" identifier="ark:/13030/kt4199p4zg" mainagencycode="CSt-H" publicid="PUBLIC &quot;-//Stanford University::Hoover Institution Archives//TEXT&#10;(US::CSt-H::::Federation of Russian Charitable Organizations of the United&#10;States Records)//EN&quot; &quot;fedrussc.xml&quot;&#10;">fedrussc.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Register of the Federation of Russian Charitable Organizations of the United States Records</titleproper><titleproper type="filing">Federation of Russian Charitable Organizations of the United
+States Records</titleproper>
+        <author>Prepared by Anatol Shmelev</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Hoover Institution Archives</publisher>
+        <address>
+          <addressline>Stanford University</addressline>
+          <addressline>Stanford, California 94305-6010</addressline>
+          <addressline>Phone: (650) 723-3563</addressline>
+          <addressline>Fax: (650) 725-3445</addressline>
+          <addressline>Email: hooverarchives@stanford.edu</addressline>
+        </address>
+        <date calendar="gregorian" era="ce">&#xA9; 2003</date>
+        <p>Hoover Institution Archives. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc><profiledesc>
+      <creation>Machine-readable finding aid created by OAC finding aid conversion service.
+Date of source: <date calendar="gregorian" era="ce">2000.</date></creation>
+      <langusage encodinganalog="546">Description is in <language langcode="eng" scriptcode="latn">English</language></langusage>
+    </profiledesc><revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20110324">March 24, 2011</date>
+        <item>revised to update encoding and add unitid</item>
+      </change>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20100208">February 8, 2010</date>
+        <item>Edited restriction statement to open reels.</item>
+      </change>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//Stanford University::Hoover Institution Archives//TEXT
+(US::CSt-H::::Federation of Russian Charitable Organizations of the United
+States Records)//EN" "fedrussc.xml"
+ converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Register of the Federation of Russian Charitable Organizations of the United States (Federatsiia Russkikh Blagotvoritelnykh Organizatsii) Records</titleproper>
+      <publisher>Hoover Institution Archives
+<lb/>Stanford University
+<lb/>Stanford, California</publisher>
+      <list type="simple">
+        <head>Contact Information</head>
+        <item>Hoover Institution Archives</item>
+        <item>Stanford University</item>
+        <item>Stanford, California 94305-6010</item>
+        <item>Phone: (650) 723-3563</item>
+        <item>Fax: (650) 725-3445</item>
+        <item>Email: hooverarchives@stanford.edu</item>
+      </list>
+      <list type="deflist">
+        <defitem>
+          <label>Prepared by:</label>
+          <item>Anatol Shemelev</item>
+        </defitem>
+        <defitem>
+          <label>Date Completed:</label>
+          <item>2000</item>
+        </defitem>
+        <defitem>
+          <label>Encoded by:</label>
+          <item>ByteManagers using OAC finding aid conversion service specifications</item>
+        </defitem>
+      </list>
+      <p>&#xA9; 2003 Hoover Institution Archives. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection">
+    <did id="did-1.7.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">Federation of Russian Charitable Organizations of the United States (Federatsiia Russkikh Blagotvoritelnykh Organizatsii) records, </unittitle>
+	<unitdate calendar="gregorian" era="ce" type="inclusive" normal="1947/1963">1947-1963</unitdate>
+      <unitid label="Collection number" repositorycode="CSt-H" countrycode="US">2000C88</unitid>
+      <origination encodinganalog="110" label="Creator">
+        <corpname source="aacr2">Federation of Russian Charitable Organizations of the United States</corpname>
+      </origination>
+      <physdesc encodinganalog="300" label="Extent">
+        <extent>13 microfilm reels.</extent>
+		<extent>(1.9 linear feet)</extent>
+	</physdesc>
+      <repository label="Repository">
+        <corpname source="lcnaf">Hoover Institution on War, Revolution, and Peace</corpname>
+        <address>
+          <addressline>Stanford, California 94305-6010</addressline>
+        </address>
+      </repository>
+      <abstract label="Abstract" encodinganalog="520">Correspondence, minutes, financial records, reports, and lists, relating to resettlement of Russian refugees in the United States and Australia.</abstract>
+      <langmaterial label="Language">
+        <language langcode="rus">Russian.</language>
+      </langmaterial>
+    </did>
+    <descgrp id="descgrp-1.7.2" type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict encodinganalog="506">
+        <head>Access</head>
+        <p>Collection is open for research.</p>
+      </accessrestrict>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>For copyright status, please contact the Hoover Institution Archives.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Federation of Russian Charitable Organizations of the United States Records, [Box no.], Hoover Institution Archives.</p>
+      </prefercite>
+      <acqinfo>
+        <head>Acquisition Information</head>
+        <p>Acquired.</p>
+      </acqinfo>
+      <altformavail encodinganalog="535">
+        <head>Location of Originals</head>
+        <p>Originals in: Museum of Russian Culture, San Francisco.</p>
+      </altformavail>
+    </descgrp>
+    <scopecontent id="scopecontent-1.7.3">
+      <head>Scope and Content Note</head>
+      <p>This collection contains the records of the Federation of Russian Charitable Organizations, whose primary purpose was to assist in the immigration of Russian displaced persons from the Far East and Europe to the United States and Australia following the Second World War. The collection was originally arranged by the organization's director, Anatolii Stefanovich Loukashkin, and his classification has been retained. The records include the organization's predecessors and affiliates, e.g. The Committee of Russian Charitable Organizations of Northern California, Russian Orthodox Churches Relief Fund, and Russko-Amerikanskii soiuz zashchity i pomoshchi russkim vne Rossii (aka Russian-American Union).</p>
+      <p>Detailed processing and preservation microfilming for these materials were made possible by a generous grant from the National Endowment for the Humanities and by matching funds from the Hoover Institution and Museum of Russian Culture. The grant also provides depositing a microfilm copy in the Hoover Institution Archives. The original materials remain in the Museum of Russian Culture, San Francisco as its property. A transfer table indicating corresponding box and reel numbers is available at the Hoover Institution Archives.</p>
+      <p>The Hoover Institution assumes all responsibility for notifying users that they must comply with the copyright law of the United States (Title 17 United States Code) and Hoover Rules for the Use and Reproduction of Archival Materials.</p>
+    </scopecontent>
+    <controlaccess id="controlaccess-1.7.4">
+      <head>Indexing Terms</head>
+      <p>The following terms have been used to index the description of this collection in the repository's online public access catalog.</p>
+      <controlaccess>
+        <head>Subjects</head>
+        <subject source="lcsh" encodinganalog="650">Russians--United States.</subject>
+        <subject source="lcsh" encodinganalog="650">Russians--Australia.</subject>
+        <subject source="lcsh" encodinganalog="650">Refugees.</subject>
+        <geogname source="lcsh" encodinganalog="651">Russia.</geogname>
+        <geogname source="lcsh" encodinganalog="651">United States.</geogname>
+        <geogname source="lcsh" encodinganalog="651">Australia.</geogname>
+        <subject source="lcsh" encodinganalog="650">International relief.</subject>
+      </controlaccess>
+    </controlaccess>
+    <dsc id="dsc-1.7.5" type="analyticover">
+      <head>Series Description</head>
+      <c01 id="c01-1.7.5.2" level="series">
+        <did>
+          <container type="Box" label="box">1-11</container>
+          <unittitle>Office File, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1947/1963">1947-1963</unitdate>.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Clippings, correspondence, financial records, minutes of meetings, reports and other documents, arranged by physical form</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.5.3" level="series">
+        <did>
+          <container type="Box" label="box">11</container>
+          <unittitle>Memorabilia, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1947/1963">n.d.</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Stamp of the Russian Orthodox Churches Relief Fund</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.5.4" level="series">
+        <did>
+          <container type="Box" label="box">12-13</container>
+          <unittitle>Closed File, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1948/1958">1948-1958</unitdate>.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Confidential materials, immigration lists and registration book, arranged alphabetically by physical form. Closed to researchers due to restrictions</p>
+        </scopecontent>
+      </c01>
+    </dsc>
+    <dsc id="dsc-1.7.6" type="in-depth">
+      <head>Container List</head>
+      <c01 id="c01-1.7.6.2" level="file">
+        <did>
+          <container type="Box" label="Box">1</container>
+          <unittitle>OFFICE FILE, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1947/1963">1947-1963</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.6.2.2" level="file">
+          <did>
+            <unittitle>Administrative Section file.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Includes charter, founding documents, correspondence, activity reports and bulletins, lists of members, minutes of meetings</p>
+          </scopecontent>
+          <c03 id="c03-1.7.6.2.2.3" level="file">
+            <did>
+              <unittitle>General</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.2.2.3.2" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">1 : 1</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1948/1950">1948-1950</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.2.3.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">1 : 2</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1950/1958">1950-1958</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.2.3.4" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">1 : 3-4</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1950/1959">1950-1959</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.2.2.4" level="file">
+            <did>
+              <unittitle>Materials collected by A. S. Loukashkin as representative of Russian Center, San Francisco, and as Executive Director</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.2.2.4.2" level="file">
+              <did>
+                <unittitle>General</unittitle>
+              </did>
+              <c05 id="c05-1.7.6.2.2.4.2.2" level="file">
+                <did>
+                  <container type="Folder" label="Box/Folder">1 : 5</container>
+                  <unittitle>
+                    <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1951/1953">1951-1953</unitdate>
+                  </unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.2.4.2.3" level="file">
+                <did>
+                  <container type="Box-folder" label="Box/Folder">2 : 1</container>
+                  <unittitle>
+                    <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1953/1958">1953-1958</unitdate>
+                  </unittitle>
+                </did>
+              </c05>
+            </c04>
+            <c04 id="c04-1.7.6.2.2.4.3" level="file">
+              <did>
+                <unittitle>Correspondence</unittitle>
+              </did>
+              <c05 id="c05-1.7.6.2.2.4.3.2" level="file">
+                <did>
+                  <unittitle>General</unittitle>
+                </did>
+                <c06 id="c06-1.7.6.2.2.4.3.2.2" level="file">
+                  <did>
+                    <container type="Folder" label="Box/Folder">2 : 2-4</container>
+                    <unittitle>
+                      <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1953/1958">1953-1958</unitdate>
+                    </unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.2.4.3.2.3" level="file">
+                  <did>
+                    <container type="Folder" label="Box/Folder">2 : 5</container>
+                    <unittitle>
+                      <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1959/1960">1959-1960</unitdate>
+                    </unittitle>
+                  </did>
+                </c06>
+              </c05>
+              <c05 id="c05-1.7.6.2.2.4.3.3" level="file">
+                <did>
+                  <container type="Folder" label="Box/Folder">2 : 6</container>
+                  <unittitle>Savva, Archbishop of Sydney, Australia, and New Zealand, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1958/1963">1958-1963</unitdate>.</unittitle>
+                  <note>
+                    <p>See also Subject file/Refugees, Russian/Correspondence</p>
+                  </note>
+                </did>
+                <scopecontent>
+                  <p>Includes materials related to the liquidation of the Russian Orthodox Churches Relief Fund.</p>
+                </scopecontent>
+              </c05>
+            </c04>
+            <c04 id="c04-1.7.6.2.2.4.4" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">2 : 7</container>
+                <unittitle>Report of a trip to Washington, DC, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1953-06-05">1953 June 5</unitdate>.</unittitle>
+              </did>
+              <scopecontent>
+                <p>Includes copy of Loukashkin's statement before the Subcommittee of the Committee on the Judiciary, United States Senate, 1953 May 27</p>
+              </scopecontent>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.2.2.5" level="file">
+            <did>
+              <container type="Box-folder" label="Box/Folder">3 : 1</container>
+              <unittitle>Official documents of the U.S. government and its agencies, as well as other international relief and non-governmental organizations.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Includes bulletins, circulars, forms, memoranda, reports and other matter, 1953-1957</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.6.2.2.6" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">3 : 2</container>
+              <unittitle>Section 6 case file, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1957/1960">1957-1960</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.2.3" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 3</container>
+            <unittitle>Assurance procurement contracts, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1955/1957">1955-1957</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.4" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 4</container>
+            <unittitle>Clippings, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1950/1962">1950-1962</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.5" level="file">
+          <did>
+            <unittitle>Financial records</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.2.5.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">3 : 5</container>
+              <unittitle>Cash reports, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1950/1957">1950-1957</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.5.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">3 : 6</container>
+              <unittitle>Membership fees, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1950/1957">1950-1957</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.5.4" level="file">
+            <did>
+              <container type="Box" label="Box">4</container>
+              <unittitle>Monthly reports</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.2.5.4.2" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">4 : 1</container>
+                <unittitle>Loguinoff, E. C., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1954/1957">1954-1957</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.5.4.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">4 : 2</container>
+                <unittitle>Loukashkin, A. S., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1954/1957">1954-1957</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.2.5.5" level="file">
+            <did>
+              <unittitle>Receipt books</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.2.5.5.2" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">4 : 3</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1956">1956</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.5.5.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">4 : 4</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1957-03/1957-07">1957 March-July</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.5.5.4" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">4 : 5</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1957-08/1958-11">1957 August-1958 November</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.2.5.6" level="file">
+            <did>
+              <unittitle>Receipts</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.2.5.6.2" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">5 : 1</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1955-01/1955-06">1955 January-June</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.5.6.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">5 : 2</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1955-07/1955-12">1955 July-December</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.5.6.4" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">5 : 3</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1956-01/1956-06">1956 January-June</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.5.6.5" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">5 : 4</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1956-07/1956-12">1956 July-December</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.5.6.6" level="file">
+              <did>
+                <container type="Box-folder" label="Box/Folder">6 : 1</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1961-01/1961-12">1961 January-December</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.2.5.7" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">6 : 2</container>
+              <unittitle>Savings account statements, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1957/1961">1957-1961</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.5.8" level="file">
+            <did>
+              <unittitle>Statements of receipts and expenses</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.2.5.8.2" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">6 : 3</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1955/1961">1955-1961</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.5.8.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">6 : 4</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1957/1961">1957-1961</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.2.5.9" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">6 : 5</container>
+              <unittitle>Tax records, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1960/1961">1960-1961</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.5.10" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">6 : 6</container>
+              <unittitle>Miscellany, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1958/1962">1958-1962</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.2.6" level="file">
+          <did>
+            <unittitle>Minutes of meetings</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.2.6.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">6 : 7</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1950/1954">1950-1954</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.6.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">6 : 8</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1955/1957">1955-1957</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.6.4" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">6 : 9</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1957/1958">1957-1958</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.2.7" level="file">
+          <did>
+            <container type="Box" label="Box">7</container>
+            <unittitle>Reception service file</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.2.7.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">7 : 1</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1955">1955</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.7.3" level="file">
+            <did>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1956">1956</unitdate>
+              </unittitle>
+            </did>
+            <c04 id="c04-1.7.6.2.7.3.2" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">7 : 2</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1956-01/1956-07">January-July</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.7.3.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">7 : 3</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1956-07/1956-12">July-December</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.2.7.4" level="file">
+            <did>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1957">1957</unitdate>
+              </unittitle>
+            </did>
+            <c04 id="c04-1.7.6.2.7.4.2" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">7 : 4</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1957-01">January</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.7.4.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">7 : 5</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1957-02/1957-07">February-July</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.2.7.5" level="file">
+            <did>
+              <container type="Box-folder" label="Box/Folder">8 : 1</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1958">1958</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.7.6" level="file">
+            <did>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1959">1959</unitdate>
+              </unittitle>
+            </did>
+            <c04 id="c04-1.7.6.2.7.6.2" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">8 : 2</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1959-01/1959-03">January-March</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.7.6.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">8 : 3</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1959-04/1959-10">April-October</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.2.7.7" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">8 : 4</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1960">1960</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.2.8" level="file">
+          <did>
+            <unittitle>Registration lists.</unittitle>
+            <note>
+              <p>See CLOSED FILE</p>
+            </note>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.9" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">8 : 5</container>
+            <unittitle>Reports</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.10" level="file">
+          <did>
+            <container type="Box" label="Box">9</container>
+            <unittitle>Subject file</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.2.10.2" level="file">
+            <did>
+              <unittitle>Church World Service</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.2.10.2.2" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">9 : 1</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1958">1958</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.10.2.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">9 : 2</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1959">1959</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.10.2.4" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">9 : 3</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1960">1960</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.2.10.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">9 : 4</container>
+              <unittitle>Komitet russkikh blagotvoritelnykh organizatsii severnoi Kalifornii. Bulletins, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1947">1947</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.10.4" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">9 : 5</container>
+              <unittitle>Refugees, Chinese.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Includes correspondence, passenger lists, printed matter, 1955-1957</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.6.2.10.5" level="file">
+            <did>
+              <unittitle>Refugees, Russian.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Includes clippings, correspondence, photographs, reports, and other materials on position of Russians in China and the Far East and possibility of their migration to North and South America and Australia</p>
+            </scopecontent>
+            <c04 id="c04-1.7.6.2.10.5.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">9 : 6</container>
+                <unittitle>Clippings, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1951/1957">1951-1957</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.10.5.4" level="file">
+              <did>
+                <container type="Box-folder" label="Box/Folder">10 : 1</container>
+                <unittitle>Clippings, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1951/1957">1951-1957</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.10.5.5" level="file">
+              <did>
+                <unittitle>Conference proceedings</unittitle>
+              </did>
+              <c05 id="c05-1.7.6.2.10.5.5.2" level="file">
+                <did>
+                  <container type="Folder" label="Box/Folder">10 : 2</container>
+                  <unittitle>"Pervoe Vsenarodnoe Sobranie v San Frantsisko," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1953-02-20">1953 February 20</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.10.5.5.3" level="file">
+                <did>
+                  <container type="Folder" label="Box/Folder">10 : 3</container>
+                  <unittitle>"Vtoroe Vsenarodnoe sobranie v San Frantsisko," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1953-06-05">1953 June 5</unitdate></unittitle>
+                </did>
+              </c05>
+            </c04>
+            <c04 id="c04-1.7.6.2.10.5.6" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">10 : 4-5</container>
+                <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1957/1960">1957-1960</unitdate>.</unittitle>
+              </did>
+              <scopecontent>
+                <p>Includes appeals for financial or humanitarian aid, help in resettlement, etc.</p>
+              </scopecontent>
+            </c04>
+            <c04 id="c04-1.7.6.2.10.5.7" level="file">
+              <did>
+                <container type="Box-folder" label="Box/Folder">11 : 1</container>
+                <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1957/1960">1957-1960</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.10.5.8" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">11 : 2-3</container>
+                <unittitle>Miscellany.</unittitle>
+              </did>
+              <scopecontent>
+                <p>Includes clippings, correspondence, reports and other materials, mainly on Russians in China and Manchuria, 1952-1958</p>
+              </scopecontent>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.2.10.6" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">11 : 4</container>
+              <unittitle>Russko-Amerikanskii soiuz zashchity i pomoshchi russkim vne Rossii.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Includes clippings, correspondence, petitions, reports and other materials, 1949-1953</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.6.2.10.7" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">11 : 5</container>
+              <unittitle>Tubabao camp, Philippines, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1949/1952">1949-1952</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Includes clippings, correspondence and reports</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.6.2.10.8" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">11 : 6</container>
+              <unittitle>Miscellany.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Includes appeal, business cards, information flyers, and documents relating to various other Russian &#xE9;migr&#xE9; organizations. Also includes incomplete and anonymous report entitled "Die russische Gefangenschaft," 1947 June 16. Typescript</p>
+            </scopecontent>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.6.3" level="file">
+        <did>
+          <container type="Folder" label="Box/Folder">11 : 7</container>
+          <unittitle>MEMORABILIA, <unitdate calendar="gregorian" era="ce" normal="1947/1963">n.d.</unitdate></unittitle>
+          <note>
+            <p>Not filmed</p>
+          </note>
+        </did>
+        <scopecontent>
+          <p>Stamp of the Russian Orthodox Churches Relief Fund.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.6.4" level="file">
+        <did>
+          <container type="Box" label="Box">12</container>
+          <unittitle>CLOSED FILE, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1948/1958">1948-1958</unitdate>.</unittitle>
+          <note>
+            <p>This file is closed to researchers due to restrictions</p>
+          </note>
+        </did>
+        <c02 id="c02-1.7.6.4.2" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">12 : 1</container>
+            <unittitle>Confidential file, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1956">1956</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.3" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">12 : 2-9</container>
+            <unittitle>Immigration lists, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1948/1958">1948-1958</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.4" level="file">
+          <did>
+            <container type="Box-folder" label="Box/Folder">13 : 1-2</container>
+            <unittitle>Immigration lists, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1948/1958">1948-1958</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.5" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">13 : 3</container>
+            <unittitle>Registration book, <unitdate calendar="gregorian" era="ce" normal="1947/1963">n.d.</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

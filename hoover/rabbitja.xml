@@ -1,0 +1,1038 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  
+  
+  
+  
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" repositoryencoding="iso15511" findaidstatus="edited-full-draft" langencoding="iso639-2b"><eadid countrycode="us" identifier="ark:/13030/tf5n39n7kp" mainagencycode="CSt-H" publicid="PUBLIC &quot;-//Stanford University::Hoover Institution Archives//TEXT&#10;(US::CSt-H::::James A. Rabbitt Papers)//EN&quot; &quot;rabbitja.sgm&quot;">rabbitja.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Register of the James A. Rabbitt Papers, <date calendar="gregorian" era="ce">1895-1969</date></titleproper><titleproper type="filing">Rabbitt (James A.) Papers</titleproper>
+        <author>Prepared by The Hoover Institution Archives staff</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Hoover Institution Archives</publisher>
+        <address>
+          <addressline>Stanford University</addressline>
+          <addressline>Stanford, California 94305-6010</addressline>
+          <addressline>Phone: (650) 723-3563</addressline>
+          <addressline>Fax: (650) 725-3445</addressline>
+          <addressline>Email: hooverarchives@stanford.edu</addressline>
+        </address>
+        <date calendar="gregorian" era="ce">&#xA9; 2000</date>
+        <p>Hoover Institution Archives. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc><profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data Services,
+<date calendar="gregorian" era="ce">Nov. 2000.</date>
+Supplementary encoding and revision supplied by Xiuzhi Zhou.</creation>
+<langusage>Description is in <language langcode="eng" scriptcode="latn">English</language></langusage>
+    </profiledesc><revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//Stanford University::Hoover Institution Archives//TEXT
+(US::CSt-H::::James A. Rabbitt Papers)//EN" "rabbitja.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+<change>
+      <date calendar="gregorian" era="ce" normal="20120717">July 17,2012</date>
+      <item>Revised to update encoding and add unitid by Jill Golden</item>
+      </change>
+    </revisiondesc>
+</eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Register of the James A. Rabbitt Papers, <date calendar="gregorian" era="ce">1895-1969</date></titleproper>
+      <publisher>Hoover Institution Archives
+<lb/>Stanford University
+<lb/>Stanford, California</publisher>
+      <list type="simple">
+        <head>Contact Information</head>
+        <item>Hoover Institution Archives</item>
+        <item>Stanford University</item>
+        <item>Stanford, California 94305-6010</item>
+        <item>Phone: (650) 723-3563</item>
+        <item>Fax: (650) 725-3445</item>
+        <item>Email: hooverarchives@stanford.edu</item>
+      </list>
+      <list type="deflist">
+        <defitem>
+          <label>Prepared by: </label>
+          <item>The Hoover Institution Archives staff</item>
+        </defitem>
+      </list>
+      <p>&#xA9; 2000 Hoover Institution Archives. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection">
+    <did id="did-1.7.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">James A. Rabbitt Papers, </unittitle><unitdate label="Dates"  type="inclusive" normal="1895/1969" encodinganalog="245$f">1895-1969</unitdate>
+	<unitid label="Collection Number" countrycode="us" repositorycode="CSt-H" encodinganalog="099">71005</unitid>
+      <origination label="Creator">
+        <persname>Rabbitt, James Aloysius, 1877-1969</persname>
+      </origination>
+<physdesc label="Collection Size" encodinganalog="300$a">
+	<extent>61 manuscript boxes, 1 oversize box </extent>
+	<extent>(26.35 linear feet)</extent>
+</physdesc>
+
+<repository label="Repository">
+	<corpname>Hoover Institution Archives </corpname> <address> <addressline>Stanford, California 94305-6010</addressline> </address></repository>
+
+      <abstract label="Abstract">Correspondence, memoirs, lectures, reports, surveys, patents, clippings, sketches, and photographs, relating to economic, scientific, and technological developments in the mining and metallurgical industries of China, Japan, and the Far East, with emphasis on nickel alloys, China labor and dockyard projects, cultivation of rice in Japan, and related governmental policies of China and Japan.</abstract>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <descgrp id="descgrp-1.7.2" type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict>
+        <head>Access</head>
+        <p>Collection open for research.</p>
+<p>The Hoover Institution Archives only allows access to <emph render="italic">copies</emph> of audiovisual items. To listen to sound recordings or to view videos or films during your visit, please contact the Archives at least two working days before your arrival. We will then advise you of the accessibility of the material you wish to see or hear. Please note that not all audiovisual material is immediately accessible.</p>
+      </accessrestrict>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>For copyright status, please contact
+the Hoover Institution Archives.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], James A. Rabbitt Papers, [Box no.], Hoover Institution
+Archives.</p>
+      </prefercite>
+<acqinfo encodinganalog="541">
+ <head>Acquisition Information</head>
+ <p>Acquired by the Hoover Institution Archives in 1971.</p>
+</acqinfo>
+
+<accruals encodinganalog="525"><head>Accruals</head>
+<p>Materials may have been added to the collection since this finding aid was prepared. To determine if this has occurred, find the collection in Stanford University's online catalog Socrates at <extref linktype="simple" href="http://library.stanford.edu/webcat" actuate="onrequest" show="new"> http://library.stanford.edu/webcat</extref>. Materials have been added to the collection if the number of boxes listed in Socrates is larger than the number of boxes listed in this finding aid.</p>
+</accruals>
+    </descgrp>
+    <controlaccess id="controlaccess-1.7.3">
+      <head>Access Points</head>
+      <subject>Agriculture--Japan</subject>
+      <subject>Engineering--China</subject>
+      <subject>Mines and mineral resources--China</subject>
+      <subject>Mines and mineral resources--East Asia</subject>
+      <subject>Mines and mineral resources--Japan</subject>
+      <subject>Nickel mines and mining</subject>
+      <geogname>China</geogname>
+      <geogname>East Asia</geogname>
+      <geogname>Japan</geogname>
+      <occupation>Engineers</occupation>
+    </controlaccess>
+    <dsc id="dsc-1.7.4" type="in-depth">
+      <head>Container List</head>
+      <c01 id="c01-1.7.4.2">
+        <did>
+          <container type="Box">1</container>
+          <unittitle>Journal, <unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.3">
+        <did>
+          <unittitle>Daybook, <unitdate calendar="gregorian" era="ce">1918.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.4">
+        <did>
+          <unittitle>General correspondence - <unitdate calendar="gregorian" era="ce">1901, 1903, 1909-1910, 1912, 1914 1916.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.5">
+        <did>
+          <unittitle>Correspondence, Rabbitt to Roland S. Morris, <unitdate calendar="gregorian" era="ce">1918-1919 </unitdate>re control of exports to Japan.</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.6">
+        <did>
+          <container type="Box">2</container>
+          <unittitle>Correspondence, A-B - <unitdate calendar="gregorian" era="ce">1930-1931.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.7">
+        <did>
+          <unittitle>Correspondence, C-H - <unitdate calendar="gregorian" era="ce">1930-1931.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.8">
+        <did>
+          <container type="Box">3</container>
+          <unittitle>Correspondence, I - <unitdate calendar="gregorian" era="ce">1930-1931.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.9">
+        <did>
+          <unittitle>Correspondence, J-M - <unitdate calendar="gregorian" era="ce">1930-1931.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.10">
+        <did>
+          <container type="Box">4</container>
+          <unittitle>Correspondence, N - <unitdate calendar="gregorian" era="ce">1930-1931.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.11">
+        <did>
+          <unittitle>Correspondence, O-Z - <unitdate calendar="gregorian" era="ce">1930-1931.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.12">
+        <did>
+          <container type="Box">5</container>
+          <unittitle>Correspondence, - <unitdate calendar="gregorian" era="ce">1932.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.13">
+        <did>
+          <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce">May-December 1932 </unitdate>- Chronological outward file.</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.14">
+        <did>
+          <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce">1932-1933.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.15">
+        <did>
+          <container type="Box">6</container>
+          <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce">1932-1933, </unitdate>general and legal between J. A. Rabbitt and Mitsui Company, Ltd. Japan re commercial agreements.</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.16">
+        <did>
+          <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce">1932, </unitdate>between J. A. Rabbitt and Asano Bussan Company, Japan, re termination of trade with Asano.</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.17">
+        <did>
+          <container type="Box">7</container>
+          <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce">January-June, 1933 </unitdate>- Chronological outward file.</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.18">
+        <did>
+          <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce">July-December, 1933 </unitdate>- Chronological outward file.</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.19">
+        <did>
+          <container type="Box">8</container>
+          <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce">1933, </unitdate>re China chemical industries and nickel agency in Manchuria. Also some Japanese agency correspondence.</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.20">
+        <did>
+          <unittitle>Correspondence, American European trip, <unitdate calendar="gregorian" era="ce">1934.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.21">
+        <did>
+          <container type="Box">9</container>
+          <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce">1934 </unitdate>- Chronological file.</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.22">
+        <did>
+          <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce">1935 </unitdate>- Chronological commercial file.</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.23">
+        <did>
+          <unittitle>Correspondence, A-Z - <unitdate calendar="gregorian" era="ce">1935, </unitdate>commercial.</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.24">
+        <did>
+          <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce">1936 </unitdate>- Chronological commercial file.</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.25">
+        <did>
+          <container type="Box">10</container>
+          <unittitle>Correspondence, A-L - <unitdate calendar="gregorian" era="ce">1936, </unitdate>American European trip.</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.26">
+        <did>
+          <container type="Box">11</container>
+          <unittitle>Correspondence, Mitsui-Z - <unitdate calendar="gregorian" era="ce">1936, </unitdate>American European trip.</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.27">
+        <did>
+          <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce">1937 </unitdate>- Commercial chronological file.</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.28">
+        <did>
+          <container type="Box">12</container>
+          <unittitle>Correspondence, A-Z - <unitdate calendar="gregorian" era="ce">1937.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.29">
+        <did>
+          <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce">1938 </unitdate>- Commercial chronological file.</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.30">
+        <did>
+          <unittitle>Correspondence, A-Z - <unitdate calendar="gregorian" era="ce">1939.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.31">
+        <did>
+          <container type="Box">13</container>
+          <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce">1939 </unitdate>- Commercial chronological file.</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.32">
+        <did>
+          <container type="Box">14</container>
+          <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce">1942; 1948-1951.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.33">
+        <did>
+          <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce">1948-1952.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.34">
+        <did>
+          <container type="Box">15</container>
+          <unittitle>Engineering career <unitdate calendar="gregorian" era="ce">1902-1955,</unitdate></unittitle>
+          <physdesc>1 folder.</physdesc>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.35">
+        <did>
+          <unittitle>General career material,</unittitle>
+          <physdesc>1 folder.</physdesc>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.36">
+        <did>
+          <unittitle>General career material,</unittitle>
+          <physdesc>1 scrapbook.</physdesc>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.37">
+        <did>
+          <unittitle>Outline draft material for a biography entitled <title render="italic">Yankee Engineer in Asia.</title></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.38">
+        <did>
+          <container type="Box">16</container>
+          <unittitle>Material for a biography entitled <title render="italic">Yankee Engineer in Asia.</title> 23 vols. as follows (this material is comprised mainly of daily business correspondence):</unittitle>
+        </did>
+        <c02 id="c02-1.7.4.38.2">
+          <did>
+            <unittitle>Volume 1, <unitdate calendar="gregorian" era="ce">1885-1902 </unitdate>- Missing.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.38.3">
+          <did>
+            <unittitle>Volume 2, <unitdate calendar="gregorian" era="ce">1902-1917 </unitdate>- Folder I.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.38.4">
+          <did>
+            <unittitle>Volume 2, <unitdate calendar="gregorian" era="ce">1902-1917 </unitdate>- Folder II. Includes patents data - aeroplane, talking machine motor, improvement of tires.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.38.5">
+          <did>
+            <container type="Box">17</container>
+            <unittitle>Volume 3, <unitdate calendar="gregorian" era="ce">1918-1920 </unitdate>- Folder I.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.38.6">
+          <did>
+            <unittitle>Volume 3, <unitdate calendar="gregorian" era="ce">1918-1920 </unitdate>- Folder II.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.38.7">
+          <did>
+            <container type="Box">18</container>
+            <unittitle>Volume 4, <unitdate calendar="gregorian" era="ce">1920-1922 </unitdate>- Folder I.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.38.8">
+          <did>
+            <unittitle>Volume 4, <unitdate calendar="gregorian" era="ce">1920-1922 </unitdate>- Folder II.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.38.9">
+          <did>
+            <container type="Box">19</container>
+            <unittitle>Volume 5, <unitdate calendar="gregorian" era="ce">1923-1924 </unitdate>- Folder I.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.38.10">
+          <did>
+            <unittitle>Volume 5, <unitdate calendar="gregorian" era="ce">1923-1924 </unitdate>- Folder II.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.38.11">
+          <did>
+            <container type="Box">20</container>
+            <unittitle>Volume 6, <unitdate calendar="gregorian" era="ce">1925-1929.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.38.12">
+          <did>
+            <unittitle>Volume 7, <unitdate calendar="gregorian" era="ce">1929-1931.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.38.13">
+          <did>
+            <unittitle>Volume 8, <unitdate calendar="gregorian" era="ce">1931-1941 </unitdate>- Folder I.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.38.14">
+          <did>
+            <container type="Box">21</container>
+            <unittitle>Volume 8, <unitdate calendar="gregorian" era="ce">1931-1941 </unitdate>- Folder II.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.38.15">
+          <did>
+            <unittitle>Volume 8, <unitdate calendar="gregorian" era="ce">1931-1941 </unitdate>- Folder III.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.38.16">
+          <did>
+            <unittitle>Volume 9, <unitdate calendar="gregorian" era="ce">1942-1944.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.38.17">
+          <did>
+            <unittitle>Volumes 10-11, <unitdate calendar="gregorian" era="ce">1945-1949.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.38.18">
+          <did>
+            <container type="Box">22</container>
+            <unittitle>Volume 12, <unitdate calendar="gregorian" era="ce">1950-1952.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.38.19">
+          <did>
+            <unittitle>Volume 13, <unitdate calendar="gregorian" era="ce">1952-1969 </unitdate>- Correspondence.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.38.20">
+          <did>
+            <unittitle>Volume 14 - Missing.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.38.21">
+          <did>
+            <unittitle>Volume 15 - Missing.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.38.22">
+          <did>
+            <unittitle>Volumes 16-17, <unitdate calendar="gregorian" era="ce">ca. 1923 </unitdate>- China and Japan newspaper clippings.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.38.23">
+          <did>
+            <unittitle>Volume 18, <unitdate calendar="gregorian" era="ce">1921-1923 </unitdate>- Canton newsclippings re Sun Yat-sen.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.38.24">
+          <did>
+            <unittitle>Same as 36 f., <unitdate calendar="gregorian" era="ce">1922-1923.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.38.25">
+          <did>
+            <container type="Box">23</container>
+            <unittitle>Same as 36 g.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.38.26">
+          <did>
+            <unittitle>Same as 37 a.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.38.27">
+          <did>
+            <unittitle>Volume 19 - Missing.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.38.28">
+          <did>
+            <unittitle>Volume 19 - Missing.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.38.29">
+          <did>
+            <container type="Box">24</container>
+            <unittitle>Volume 21, <unitdate calendar="gregorian" era="ce">ca. 1922, </unitdate>China projects, correspondence: Charter for Canton outer harbor and dockyard project; Proposed change in railway building policy, government of the province of Kwangtung, China; Kwangtung Provincial Service Commission.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.38.30">
+          <did>
+            <unittitle>Volumes 22-23, <unitdate calendar="gregorian" era="ce">1921-1924 </unitdate>- 4 folders. J. A. Rabbitt Engineering Corporation - correspondence and papers.</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.4.39">
+        <did>
+          <container type="Box">25</container>
+          <unittitle>Short stories, articles, and lectures by J. A. Rabbitt:</unittitle>
+        </did>
+        <c02 id="c02-1.7.4.39.2">
+          <did>
+            <unittitle>Prolonged Youth.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.39.3">
+          <did>
+            <unittitle>Tea Leaves - Philosophy of a Yankee Engineer.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.39.4">
+          <did>
+            <unittitle>Why I Like Japan.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.39.5">
+          <did>
+            <unittitle>History of Japan Under the Shoguns, <unitdate calendar="gregorian" era="ce">1603-1868.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.39.6">
+          <did>
+            <unittitle>Historical Background of Government in Japan, <unitdate calendar="gregorian" era="ce">April 1941.</unitdate></unittitle>
+          </did>
+          <c03 id="c03-1.7.4.39.6.2">
+            <did>
+              <container type="Box">26</container>
+              <unittitle>The Economic Orientation of the Far-Eastern Crisis, <unitdate calendar="gregorian" era="ce">July-August, 1941, </unitdate>(file marked confidential).</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.39.6.3">
+            <did>
+              <unittitle>Economic studies of Japan, China, and the Far East.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.39.6.4">
+            <did>
+              <unittitle>Mining and Metallurgy of Nickel.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.39.6.5">
+            <did>
+              <unittitle>Asis's Industrial Potential: A Survey (folder 1).</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.39.6.6">
+            <did>
+              <container type="Box">27</container>
+              <unittitle>Asia's Industrial Potential: A Survey (folder 1).</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.39.6.7">
+            <did>
+              <unittitle>Asia's Industrial Potential: A Survey (copy 2).</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.39.6.8">
+            <did>
+              <unittitle>Australia's Industrial Potential: A Survey.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.39.6.9">
+            <did>
+              <container type="Box">28</container>
+              <unittitle>China's Industrial Potential: A Survey (folder 1).</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.39.6.10">
+            <did>
+              <unittitle>China's Industrial Potential: A Survey (appendices - folder 2).</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.39.6.11">
+            <did>
+              <unittitle>Formosa and Korea's Industrial Potential: A Survey.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.39.6.12">
+            <did>
+              <unittitle>India's Industrial Potential: A Survey.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.39.6.13">
+            <did>
+              <container type="Box">29</container>
+              <unittitle>Japan's Industrial Potential: A Survey (Volume 1).</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.39.6.14">
+            <did>
+              <unittitle>Japan's Industrial Potential: A Survey (Volume 2).</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.39.6.15">
+            <did>
+              <container type="Box">30</container>
+              <unittitle>Southeast Asia's Industrial Potential: A Survey - French Indo-China; Netherlands East Indies; Java; Malaysia; Siam.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.39.6.16">
+            <did>
+              <unittitle>Southwest Asia's Industrial Potential: A Survey.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.39.6.17">
+            <did>
+              <unittitle>Philippine's Industrial Potential.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.39.6.18">
+            <did>
+              <unittitle>Soviet Union Industrial Potential: A Survey (Volume 1).</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.39.6.19">
+            <did>
+              <unittitle>Soviet Union Industrial Potential: A Survey (Volume 2).</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.39.6.20">
+            <did>
+              <container type="Box">31</container>
+              <unittitle>Japan's Economic Position.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.39.6.21">
+            <did>
+              <unittitle>Japan Food Review.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.39.6.22">
+            <did>
+              <unittitle>Nickel and Economic Civilization.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.39.6.23">
+            <did>
+              <unittitle>Four Days at the Huntington Rolling Mills.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.39.6.24">
+            <did>
+              <unittitle>Preparatory Work for Japan (nickel).</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.39.6.25">
+            <did>
+              <unittitle>Mining, Smelting, Refining, Rolling and Applications of Nickel, <unitdate calendar="gregorian" era="ce">1930-1931</unitdate></unittitle>
+              <physdesc>(2 copies).</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.39.6.26">
+            <did>
+              <unittitle>Miscellaneous articles on iron, nickel, and steel.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.4.39.7">
+          <did>
+            <container type="Box">32</container>
+            <unittitle>General correspondence regarding peppermint leaves and Menthol data.</unittitle>
+            <physdesc>4 folders.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.39.8">
+          <did>
+            <unittitle>Rice in the Cultural Life of the Japanese, by J. A. Rabbitt.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.39.9">
+          <did>
+            <unittitle>Rice riots in Japan, <unitdate calendar="gregorian" era="ce">1918-1919.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.39.10">
+          <did>
+            <unittitle>Translation of Naoji Suzuki's <emph render="italic">Bibliography on Rice.</emph></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.4.40">
+        <did>
+          <container type="Box">33</container>
+          <unittitle>Data on rice <unitdate calendar="gregorian" era="ce">(1938)</unitdate></unittitle>
+          <physdesc>5 folders.</physdesc>
+        </did>
+        <c02 id="c02-1.7.4.40.2">
+          <did>
+            <container type="Box">34</container>
+            <unittitle>Rice in Japan, miscellaneous - Folder I.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.40.3">
+          <did>
+            <unittitle>Rice in Japan, miscellaneous - Folder II.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.40.4">
+          <did>
+            <unittitle>Rice in Japan, miscellaneous - Folder III.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.40.5">
+          <did>
+            <unittitle>News clippings on rice in Japan, <unitdate calendar="gregorian" era="ce">1939-1940 </unitdate>- Folder I.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.40.6">
+          <did>
+            <container type="Box">35</container>
+            <unittitle>News clippings on rice in Japan, <unitdate calendar="gregorian" era="ce">1938-1940 </unitdate>- Folder II.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.40.7">
+          <did>
+            <unittitle>News clippings on rice in Japan, <unitdate calendar="gregorian" era="ce">1939-1940 </unitdate>- Folder III.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.40.8">
+          <did>
+            <unittitle>Miscellaneous articles, agricultural problems, farm machinery, food review.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.40.9">
+          <did>
+            <container type="Box">36</container>
+            <unittitle>History of the Japanese Tea Industry.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.40.10">
+          <did>
+            <unittitle>Lectures on tea.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.40.11">
+          <did>
+            <unittitle>Newspaper clippings on silk and tea.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.40.12">
+          <did>
+            <unittitle>Materials re iron and steel production in Japan.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.40.13">
+          <did>
+            <unittitle>History, lectures and articles on the Japanese silk industry.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.40.14">
+          <did>
+            <container type="Box">37</container>
+            <unittitle>Trailing the Moon (poems).</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.40.15">
+          <did>
+            <unittitle>War Department, Military Intelligence Division, New York Office, History and Operational Manual (<unitdate calendar="gregorian" era="ce">ca. 1944, </unitdate>no author). (RESTRICTED).</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.40.16">
+          <did>
+            <unittitle><emph render="italic">Rehabilitation of the Mining Industry in the Philippines, </emph>by H. Foster Bain.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.40.17">
+          <did>
+            <container type="Box">38</container>
+            <unittitle>Surveys of the Industries of Japan - 10 volumes, 2 appendices, and 1 supplement as follows:</unittitle>
+          </did>
+          <c03 id="c03-1.7.4.40.17.2">
+            <did>
+              <unittitle>Volume 1 - Textiles.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.40.17.3">
+            <did>
+              <container type="Box">39</container>
+              <unittitle>Volume 2 - Chemical Group of the Chemical Industry.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.40.17.4">
+            <did>
+              <unittitle>Volume 2 (appendix) - Chemical Group of the Chemical Industry.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.40.17.5">
+            <did>
+              <container type="Box">40</container>
+              <unittitle>Volume 3 - Dyes, Paints, Oils, Fats, Petroleum, and Toilet Articles.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.40.17.6">
+            <did>
+              <unittitle>Volume 4 - Cement, Porcelain, Glass, Bricks.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.40.17.7">
+            <did>
+              <container type="Box">41</container>
+              <unittitle>Volume 5 - Rubber, Leather, Paper, Celluloid, Explosives, and Matches.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.40.17.8">
+            <did>
+              <unittitle>Volume 6 - Beverages, Sake, Beer, Soy, Miso, Vinegar, Wines, Liquors and Soft Drinks.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.40.17.9">
+            <did>
+              <container type="Box">42</container>
+              <unittitle>Volume 7 -. Canning, Salt, Fisheries, Ice and Refrigeration.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.40.17.10">
+            <did>
+              <container type="Box">43</container>
+              <unittitle>Volume 8 - Dairies, Stock Farms, Agricultural Products, Sugar, Confectionery, Tea, and Tobacco.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.40.17.11">
+            <did>
+              <container type="Box">44</container>
+              <unittitle>Volume 6,7,8 (appendices) - Food Stuffs.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.40.17.12">
+            <did>
+              <container type="Box">45</container>
+              <unittitle>Volume 9 - Mining - Gold, Silver, Platinum, Copper, Lead, Zinc, Iron, Coal, Oil, and Sulphur.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.40.17.13">
+            <did>
+              <container type="Box">46</container>
+              <unittitle>Volume 10 - Metals - Iron, Steel, Copper, Zinc, Brass, Lead, Alloys, Castings, Bolts, Nuts, Chains, Plating, etc.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.40.17.14">
+            <did>
+              <container type="Box">47</container>
+              <unittitle>Volume 9, 10 (appendices) - Mining and Metals.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.40.17.15">
+            <did>
+              <container type="Box">48</container>
+              <unittitle>Supplement A - Trade and Industrial Leaders.</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.4.41">
+        <did>
+          <container type="Box">49</container>
+          <unittitle>J. A. Rabbitt - Reports and Surveys:</unittitle>
+        </did>
+        <c02 id="c02-1.7.4.41.2">
+          <did>
+            <unittitle>Canton Delta and West River Railways Project, Preliminary Report. <unitdate calendar="gregorian" era="ce">October, 1921.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.41.3">
+          <did>
+            <unittitle>Canton City Waterfront and Inner Harbor Improvements. <unitdate calendar="gregorian" era="ce">May, 1921.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.41.4">
+          <did>
+            <container type="Box">50</container>
+            <unittitle>Canton Outer Harbor and Dockyard Development. <unitdate calendar="gregorian" era="ce">October 1921.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.41.5">
+          <did>
+            <unittitle>Hakata-Wan Harbor and Daibu Railway Project, <unitdate calendar="gregorian" era="ce">1924.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.41.6">
+          <did>
+            <unittitle>Hakata-Wan Harbor and Daibu Railway Project. Appendix to report, <unitdate calendar="gregorian" era="ce">1924.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.41.7">
+          <did>
+            <container type="Box">51</container>
+            <unittitle>War Trade Board - economic reports, <unitdate calendar="gregorian" era="ce">1918.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.41.8">
+          <did>
+            <unittitle>Monthly Trade Reports: Japan Trade and Economic Letters, <unitdate calendar="gregorian" era="ce">1934-35.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.41.9">
+          <did>
+            <unittitle>Monthly Trade Reports: Japan Trade and Economic Letters, <unitdate calendar="gregorian" era="ce">1936.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.41.10">
+          <did>
+            <container type="Box">52</container>
+            <unittitle>Monthly Commercial Reports, <unitdate calendar="gregorian" era="ce">1935.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.41.11">
+          <did>
+            <unittitle>Monthly Commercial Reports, <unitdate calendar="gregorian" era="ce">1936.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.41.12">
+          <did>
+            <container type="Box">53</container>
+            <unittitle>Monthly Activity Reports - Japanese Bureaus, <unitdate calendar="gregorian" era="ce">1936.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.41.13">
+          <did>
+            <unittitle>Monthly Activity Reports - Japanese Bureaus, <unitdate calendar="gregorian" era="ce">1937.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.41.14">
+          <did>
+            <unittitle>Scientific and Technological Societies of Japan, SCAP report.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.41.15">
+          <did>
+            <unittitle>Japanese Engineering and Scientific Societies, J.A.R. memo #6.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.41.16">
+          <did>
+            <container type="Box">54</container>
+            <unittitle>Ductile Cast Iron in Japan. Report.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.41.17">
+          <did>
+            <unittitle>Ductile Cast Iron in Japan. Supplement to memo #8. <unitdate calendar="gregorian" era="ce">May 1950.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.41.18">
+          <did>
+            <unittitle>Ductile Cast Iron in Japan. Appendix to memo #8 and supplement. <unitdate calendar="gregorian" era="ce">June, 1950.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.41.19">
+          <did>
+            <unittitle>Commercial Distribution of Nickel in Japan, <unitdate calendar="gregorian" era="ce">1938.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.41.20">
+          <did>
+            <unittitle>Nickel Deposits in Japan and Korea. <unitdate calendar="gregorian" era="ce">1932-1933.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.41.21">
+          <did>
+            <container type="Box">55</container>
+            <unittitle>Commercial Distrubution of Nickel in Japan, <unitdate calendar="gregorian" era="ce">1937.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.41.22">
+          <did>
+            <unittitle>Nickel News and reports, <unitdate calendar="gregorian" era="ce">1936-1937.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.41.23">
+          <did>
+            <container type="Box">56</container>
+            <unittitle>Rotary Steel Process and Casting Machines.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.41.24">
+          <did>
+            <unittitle>Miscellaneous reports on steel.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.41.25">
+          <did>
+            <unittitle>Industrial Reparations Survey of Japan to the United States, <unitdate calendar="gregorian" era="ce">February, 1948. </unitdate>C. M. Muchnic.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.41.26">
+          <did>
+            <unittitle>Material on China's iron and steel industry ore sites, coal fields and coal mines.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.41.27">
+          <did>
+            <container type="Box">57</container>
+            <unittitle>Miscellaneous newsclippings and articles, mainly on Far East metal industries.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.41.28">
+          <did>
+            <unittitle>Miscellaneous personal memorabilia.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.41.29">
+          <did>
+            <unittitle>J. A. Rabbitt, pen and ink sketches. <unitdate calendar="gregorian" era="ce">ca. 1895.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.41.30">
+          <did>
+            <unittitle>Miscellaneous personal photographs.</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.4.42">
+        <did>
+          <container type="Box">58</container>
+          <unittitle>Guest books (3), <unitdate calendar="gregorian" era="ce">1933-1941 </unitdate>(including photographs of the Japanese residence of the Rabbitts).</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.43">
+        <did>
+          <container type="Box">59</container>
+          <unittitle>China and Japan photograph album (5) <unitdate calendar="gregorian" era="ce">1895-1930's, </unitdate>as follows:</unittitle>
+        </did>
+        <c02 id="c02-1.7.4.43.2">
+          <did>
+            <container type="Box">60</container>
+            <unittitle>J. A. Rabbitt, <unitdate calendar="gregorian" era="ce">1895-, </unitdate>Rabbitt family and residence <unitdate calendar="gregorian" era="ce">ca. 1909, </unitdate>working model of aeroplane, scenes of Japanese countryside and rivers, buildings damaged by the military.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.43.3">
+          <did>
+            <unittitle>China <unitdate calendar="gregorian" era="ce">ca. 1920-1923. </unitdate>Chinese graveyard, schoolroom and children, Canton arsenal after being destroyed by General Ma Chai <unitdate calendar="gregorian" era="ce">ca. 1921, </unitdate>Shanghai street scenes, <unitdate calendar="gregorian" era="ce">1923.</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.4.44">
+        <did>
+          <container type="Box">61</container>
+          <unittitle>Hong Kong and vicinity, <unitdate calendar="gregorian" era="ce">1930's; </unitdate>photographs of rice culture and cultivation in Japan; sketches; photos of tea flowers.</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.45">
+        <did>
+          <container type="Box">Map cabinet on floor 10</container>
+          <unittitle>1 package of J. A. Rabbitt diplomas, awards, etc. (12). </unittitle>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,1579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[David Morris Potter papers])//EN"
+             identifier="ark:/13030/c88917bv">sc0088.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the David Morris Potter Papers
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Potter (David Morris) Papers</titleproper>
+            <author>Daniel Hartwig &amp; Jenny Johnson</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2010-10">October 2010</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date normal="2014-07">July 2014</date>
+            <item/>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC0088</unitid>
+         <origination label="Creator:">
+            <persname rules="aacr" source="naf">Potter, David Morris</persname>
+         </origination>
+         <unittitle label="Title:">David Morris Potter papers</unittitle>
+         <unitdate normal="1942/1971"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1942-1971</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>33.25 Linear feet</extent>
+         </physdesc>
+         <abstract label="Summary:">Professional papers.</abstract>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <descgrp type="provenance" id="prov">
+            <head>Provenance</head>
+            <acqinfo id="ref3">
+               <p>Gift of Catherine M. Potter, 1971; Richard S. Barnes, 1973; Oxford University Press, 1973; Don E. Fehrenbacher, 1977, 1978, and 1989; Otis Pease, 1979; and George Knoles, 1979.</p>
+            </acqinfo>
+         </descgrp>
+         <accessrestrict id="ref4">
+            <head>Information about Access</head>
+            <p>The materials are open for research use.</p>
+         </accessrestrict>
+         <userestrict id="ref5">
+            <head>Ownership &amp; Copyright</head>
+            <p>All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Special Collections and University Archives, Stanford University Libraries, Stanford, California 94304-6064. Consent is given on behalf of Special Collections as the owner of the physical items and is not intended to include or imply permission from the copyright owner. Such permission must be obtained from the copyright owner, heir(s) or assigns. See: http://library.stanford.edu/depts/spc/pubserv/permissions.html.</p>
+            <p>Restrictions also apply to digital representations of the original materials. Use of digital files is restricted to research and educational purposes.</p>
+         </userestrict>
+         <prefercite id="ref6">
+            <head>Cite As</head>
+            <p>David Morris Potter Papers (SC0088). Department of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <bioghist id="ref7">
+         <head>Biographical/Historical Sketch</head>
+         <p>Coe professor of history at Stanford (1961-1971); president of American Historical Association. Potter was born in 1910 and died in 1971.</p>
+      </bioghist>
+      <scopecontent id="ref8">
+         <head>Description of the Collection</head>
+         <p>Professional papers.</p>
+      </scopecontent>
+      <scopecontent id="ref9">
+         <head>Scope and Contents note</head>
+         <p>Professional papers.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <persname rules="aacr" source="naf">Fehrenbacher, Don Edward, 1920-1997.</persname>
+         <persname rules="aacr" source="naf">Potter, David Morris</persname>
+         <corpname rules="dacs" source="ingest">Stanford University. Department of History. Faculty.</corpname>
+         <corpname rules="dacs" source="ingest">Stanford University. Department of History. Students.</corpname>
+         <corpname rules="dacs" source="ingest">Stanford University. Department of History.</corpname>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.7">
+         <head>Collection Contents</head>
+         <c01 id="ref10" level="series">
+            <did>
+               <unittitle>Papers</unittitle>
+            </did>
+            <c02 id="ref11" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Professional correspondence, A-Z</unittitle>
+                  <unitdate>1964-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref205" level="file">
+               <did>
+                  <container type="Box">1A</container>
+                  <unittitle>Restricted Correspondence</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref12" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Potter - bibliography</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref13" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Placement correspondence</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref14" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Reference letters for students</unittitle>
+                  <unitdate>-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref15" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Rosters</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref16" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Letters of reference - students</unittitle>
+                  <unitdate>1969-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref17" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Letters of reference - defaulted</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref18" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Looking for positions</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref19" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Letters of reference</unittitle>
+                  <unitdate>1970-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref20" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Letters of reference 1969-70, non-grad students</unittitle>
+                  <unitdate>1969-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref21" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Bird books - invoices, etc.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref22" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Potter - recent correspondence</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref23" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Professional correspondence A-Z</unittitle>
+                  <unitdate>1969-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref24" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Unfiled correspondence</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref206" level="file">
+               <did>
+                  <container type="Box">2A</container>
+                  <unittitle>Restricted material from box 2</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref25" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Two folders of letters received while at Oxford University, with a few drafts of outgoing letters</unittitle>
+                  <unitdate>1947-48</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref26" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Correspondence A-Z 1956-1961 (incoming and some outgoing carbons)</unittitle>
+                  <unitdate>1956-1961</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref27" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Series of Potter's folders:Stephen Kline</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref28" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Series of Potter's folders: Correspondence: my teaching</unittitle>
+                  <unitdate>1961-1962</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref29" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Series of Potter's folders: Letters answered</unittitle>
+                  <unitdate>1960-1963</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref30" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Series of Potter's folders: University College, London</unittitle>
+                  <unitdate>1961-1963</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref31" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Series of Potter's folders: Answered or not to be answered</unittitle>
+                  <unitdate>1942-1964</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref32" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Series of Potter's folders: Items not requiring an answer</unittitle>
+                  <unitdate>1966-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref33" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Series of Potter's folders: Correspondence answered (to be filed)</unittitle>
+                  <unitdate>1948-1963</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref34" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Series of Potter's folders: Correspondence</unittitle>
+                  <unitdate>1952-1954</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref35" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Series of Potter's folders: Council, AHA</unittitle>
+                  <unitdate>1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref36" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Series of Potter's folders: Humanities Foundation and Behavioral Center</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref37" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Series of Potter's folders: Program on Culture, OAH</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref38" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Accordion files of letters received A-Z</unittitle>
+                  <unitdate>1947-1950</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref39" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Accordion files of letters received A-Z</unittitle>
+                  <unitdate>1950-1956</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref40" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Correspondence</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref41" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Correspondence A-Z for, mostly letters received with a few carbons of outgoing letters and a few drafts of letters.</unittitle>
+                  <unitdate>1932-1947</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref42" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Letters received from his parents (mostly his mother)</unittitle>
+                  <unitdate>1933-1948</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref43" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Correspondence, largely from family and friends</unittitle>
+                  <unitdate>1927-1937</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref44" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Two folders of correspondence to be filed</unittitle>
+                  <unitdate>1955-1960</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref45" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Teaching materials-Yale</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref46" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Teaching materials-Stanford</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref47" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Teaching materials-Stanford</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref48" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Teaching materials, lecture notes, grade books, appointment books</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref49" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Teaching materials-Stanford</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref50" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Writings-Scott Foresman text</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref51" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <unittitle>Research and bibliographical notes, letter record</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref52" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <unittitle>Professional committees, etc</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref53" level="file">
+               <did>
+                  <container type="Box">16</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Album containing various articles</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref54" level="file">
+               <did>
+                  <container type="Box">16</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Potter - book reviews and notes</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref55" level="file">
+               <did>
+                  <container type="Box">16</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Saturday Review and the New Republic - assorted copies</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref56" level="file">
+               <did>
+                  <container type="Box">16</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Saturday Review</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref57" level="file">
+               <did>
+                  <container type="Box">16</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Saturday Review and Yale Review - assorted copies</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref58" level="file">
+               <did>
+                  <container type="Box">16</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Assorted publications</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref59" level="file">
+               <did>
+                  <container type="Box">16</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Miscellaneous lectures - notes and typescript</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref60" level="file">
+               <did>
+                  <container type="Box">16</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Lecture at Stanford - written draft and correspondence</unittitle>
+                  <unitdate>1963</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref61" level="file">
+               <did>
+                  <container type="Box">16</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Journalism conference at Stanford - program</unittitle>
+                  <unitdate>1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref62" level="file">
+               <did>
+                  <container type="Box">16</container>
+                  <container type="Folder">10</container>
+                  <unittitle>American women - written and typed drafts</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref63" level="file">
+               <did>
+                  <container type="Box">16</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Paper for Committee on Historical Analysis - written and typed drafts; notes; and correspondence</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref64" level="file">
+               <did>
+                  <container type="Box">16</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Paper on Vice-Presidents - typescript</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref65" level="file">
+               <did>
+                  <container type="Box">16</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Paper on advertising; originally for the Sat. Rev.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref66" level="file">
+               <did>
+                  <container type="Box">16</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Paper for Barnes Riznik - written and typed draft; notes; and correspondence, 1961-63</unittitle>
+                  <unitdate>1961-1963</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref67" level="file">
+               <did>
+                  <container type="Box">16</container>
+                  <container type="Folder">15</container>
+                  <unittitle>Article for Am. Hist. Review – multiple versions</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref68" level="file">
+               <did>
+                  <container type="Box">16</container>
+                  <container type="Folder">16</container>
+                  <unittitle>Paper on Nationalism - written and typed drafts</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref69" level="file">
+               <did>
+                  <container type="Box">16</container>
+                  <container type="Folder">17</container>
+                  <unittitle>Article on Nationalism - typescript, correspondence</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref70" level="file">
+               <did>
+                  <container type="Box">16</container>
+                  <container type="Folder">18</container>
+                  <unittitle>Lincoln and His Party" - written and typed drafts</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref71" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Trail to California, Revision - correspondence, notes, text re preface by Potter, 1948, 1961</unittitle>
+                  <unitdate>1948, 1961</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref72" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Hinton Helper - biographical note</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref73" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Paper for Yale Review, 50th year - mss and typescript</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref74" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Typed textbook script, chaps. 1-3</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref75" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">5</container>
+                  <unittitle>typed textbook script, chaps. 4-7</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref76" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Quest for the National Character - written and typed script, correspondence re publication, 1959-62</unittitle>
+                  <unitdate>1952-1962</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref77" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Phillips Introduction and Bibliography</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref78" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Abolition Movement - article for Encyc. Britt.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref79" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Huey Pierce Long - article for Encyc. Britt.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref80" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Papers for LS. U. Press</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref81" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Richard Watson - correspondence</unittitle>
+                  <unitdate>1959-1961</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref82" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">12</container>
+                  <unittitle>The South - article and notes</unittitle>
+                  <unitdate>1963</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref83" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Nathan Hale - notes, articles, and facsimile of Hale letter</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref84" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Walgreen lectures - typed text</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref85" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">15</container>
+                  <unittitle>Walgreen lectures - notes</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref86" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">16</container>
+                  <unittitle>People of Plenty - typed article, and various publications re</unittitle>
+                  <unitdate>1958</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref87" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">17</container>
+                  <unittitle>American economics and agriculture</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref88" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">18</container>
+                  <unittitle>Problems book - revisions requested by Henry Holt</unittitle>
+                  <unitdate>1958</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref89" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">19</container>
+                  <unittitle>Problems - notes</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref90" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">20</container>
+                  <unittitle>Disputes in coal industry - typescript articles</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref91" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">21</container>
+                  <unittitle>M. Savary letter with historical analysis, notes</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref92" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">22</container>
+                  <unittitle>Undergraduate papers</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref93" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">23</container>
+                  <unittitle>Elmer Henry - photographs and papers by Henry</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref94" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">24</container>
+                  <unittitle>Papers written by Potter in graduate school</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref95" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">25</container>
+                  <unittitle>Ralph Ross - article and Potter's response</unittitle>
+                  <unitdate>1958</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref96" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">26</container>
+                  <unittitle>John Brown - written manuscript</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref97" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">27</container>
+                  <unittitle>Herman Belz paper - Reconstruction of the Union</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref98" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">28</container>
+                  <unittitle>Division and the Stresses - Chap 1 typescript and critique of material</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref99" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">29</container>
+                  <unittitle>Division and the Stresses - Chap. 1-3 typescript</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref100" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">30</container>
+                  <unittitle>Division and the Stresses - Chaps. 1-4 typescript</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref101" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">31</container>
+                  <unittitle>Review of Pacific Circle - printed and typescript versions</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref102" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">32</container>
+                  <unittitle>Review of Catton - printed version, notes, and correspondence re publication</unittitle>
+                  <unitdate>1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref103" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">33</container>
+                  <unittitle>Potter, memo re Report of the History Panel</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref104" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">34</container>
+                  <unittitle>Review of Heard Round the World - typescript and correspondence</unittitle>
+                  <unitdate>1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref105" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">35</container>
+                  <unittitle>Critique of Stampp paper</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref106" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">36</container>
+                  <unittitle>Division and the Stresses - notes</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref107" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">37</container>
+                  <unittitle>Women's Magazines and Woman's Role in American life" - first draft, correspondence with Good Housekeeping, 1955 "And Nixon Makes Eight" and "Heirs to the Presidency" - typescript and correspondence re publication</unittitle>
+                  <unitdate>1955</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref108" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">38</container>
+                  <unittitle>"American Leisure as an American Force" - written draft and correspondence re publication</unittitle>
+                  <unitdate>1963, 1968-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref109" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">1</container>
+                  <unittitle>L.S.U. - South and Sectional Conflict - correspondence with L.S.U. Press re his book, 1968-69 and correspondence 1963 with Alexander Riasanovsky re publication</unittitle>
+                  <unitdate>1963, 1968-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref110" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">2</container>
+                  <unittitle>South and Sectional Conflict--reviews, publicity</unittitle>
+                  <unitdate>1969-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref111" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">3</container>
+                  <unittitle>South and Sectional Conflict - corrections in mss for the galleys</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref112" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Bobb-Merrill - correspondence and financial records</unittitle>
+                  <unitdate>1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref113" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">5</container>
+                  <unittitle>My writing - manuscripts, typescripts, reprints of articles, reviews, speeches with some clippings and letters</unittitle>
+                  <unitdate>1952-1963</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref114" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Permissions - correspondence re use of Potter's work</unittitle>
+                  <unitdate>1967-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref115" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">7</container>
+                  <unittitle>United States Information Service lincoln Exhibition - catalog for traveling exhibit; texts selected by Potter</unittitle>
+                  <unitdate>Circa 1959</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref116" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">8</container>
+                  <unittitle>ROTC - my address - text and correspondence re talk at commissioning ceremony</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref117" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Review copy of The Progressive Historians by Richard Hofstadter; with Potter's comments [not foldered]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref118" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">10</container>
+                  <unittitle>DMP-bibliography</unittitle>
+                  <unitdate>1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref119" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">11</container>
+                  <unittitle>list of Ph.D.'s completed with DMP</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref120" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Bobbs-Merrill - correspondence, bibliography re Reprint Series in American History</unittitle>
+                  <unitdate>1963-1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref121" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Kyoto - phone memo</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref122" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Class Day Talk - text of talk on class day at Stanford</unittitle>
+                  <unitdate>1967 Jun 17</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref123" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">15</container>
+                  <unittitle>Genovese Paper - correspondence, text re Potter's comments on Eugene Genovese's paper on U.B. Phillips and its publication</unittitle>
+                  <unitdate>1966-1977</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref124" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">16</container>
+                  <unittitle>AHA Dec '68 Stampp Paper - correspondence re Potter as commentator</unittitle>
+                  <unitdate>1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref125" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">17</container>
+                  <unittitle>Reviews - correspondence, text</unittitle>
+                  <unitdate>1965-1966, 1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref126" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">18</container>
+                  <unittitle>Review of Status Politics - correspondence, text</unittitle>
+                  <unitdate>1963</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref127" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">19</container>
+                  <unittitle>Journalism Prog - background info on conference where Potter spoke</unittitle>
+                  <unitdate>1968 Jun 26</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref128" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">20</container>
+                  <unittitle>Essay for [C. Vann] Woodward on Civil War - broadcast lecture on Voice of America, correspondence and text, 1966</unittitle>
+                  <unitdate>1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref129" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">21</container>
+                  <unittitle>Conference Danforth Fellows - correspondence</unittitle>
+                  <unitdate>1968 Feb 6-9</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref130" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">22</container>
+                  <unittitle>Commission on Violence [National Commission on the Causes and Prevention of Violence] - correspondence, text of comments, information</unittitle>
+                  <unitdate>1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref131" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">23</container>
+                  <unittitle>PCB meeting Aug. 1968 [Pacific Coast Branch of AHA] - correspondence, text of talks by others</unittitle>
+                  <unitdate>1968 August</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref132" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">24</container>
+                  <unittitle>Planting Fields- correspondence, lists, bibliography, lecture notes from Potter's course at Institute for American History and Government at SUNY, Stony Brook</unittitle>
+                  <unitdate>1966 Summer</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref133" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">25</container>
+                  <unittitle>Conf. on Political Parties-St. Louis - summary report</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref134" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">26</container>
+                  <unittitle>[Daniel J.] Boorstin Anthology - correspondence and text for Potter's entry to Boors tin 's American Primer, 1966</unittitle>
+                  <unitdate>1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref135" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">27</container>
+                  <unittitle>Canada-U.S. - correspondence and text for Potter's article in Canada Views the United States, 1966-67</unittitle>
+                  <unitdate>1966-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref136" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">28</container>
+                  <unittitle>Janeway [Eliot] - correspondence and publications by Janeway</unittitle>
+                  <unitdate>1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref137" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">29</container>
+                  <unittitle>Paper at Duke - correspondence, galleys, text re participation in symposium and publication of paper, 1966-67</unittitle>
+                  <unitdate>1966-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref138" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">30</container>
+                  <unittitle>Pickett papers - mss copies of historical sources</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref139" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">31</container>
+                  <unittitle>Civil Rights- clippings and articles</unittitle>
+                  <unitdate>1966 Summer</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref140" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">32</container>
+                  <unittitle>Southern Sectionalism - research correspondence, notes, clippings</unittitle>
+                  <unitdate>1940</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref141" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">33</container>
+                  <unittitle>Senior Class Day - correspondence and text of talk</unittitle>
+                  <unitdate>1964</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref142" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">34</container>
+                  <unittitle>St. John Papers - info re Isaac Munroe St. John Papers at Yale University library, 1951</unittitle>
+                  <unitdate>1951</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref143" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">35</container>
+                  <unittitle>Symposium on People of Plenty at San Francisco - correspondence and text of comment</unittitle>
+                  <unitdate>1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref144" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">36</container>
+                  <unittitle>Civil War pictures - photographs and negatives of illustrations</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref145" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">37</container>
+                  <unittitle>Anderson at Sumter - notes from contemporary sources</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref146" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">38</container>
+                  <unittitle>Detweiler Paper - correspondence and text of review for Journal of Southern History, 1964</unittitle>
+                  <unitdate>1964</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref147" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">39</container>
+                  <unittitle>Mississippi: maps, legis. apportionment - research notes</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref148" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">40</container>
+                  <unittitle>Carbon copies-Phillips notes - typescripts of historical sources of 1850s</unittitle>
+                  <unitdate>1850s</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref149" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">41</container>
+                  <unittitle>Henry Adams and Boston Advertiser - typescript copies of sources; typescript article by Potter; manuscript notes</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref150" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Reprints by others</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref151" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Broadcasts at Texas - correspondence, notes re 1V lectures</unittitle>
+                  <unitdate>1962-1963</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref152" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Misc. U.S. lectures - notes</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref153" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Bobbs-Merrill Reprint Series in American History - correspondence, lists, catalog, 1966</unittitle>
+                  <unitdate>1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref154" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Bobbs-Merrill - correspondence, catalogs, lists</unittitle>
+                  <unitdate>1963-1964</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref155" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Hexter manuscript - on historiography, with one page of comments by Potter, n.d.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref156" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Miscellaneous - clipping re students being ignorant of U.S. history</unittitle>
+                  <unitdate>1943</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref157" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Yale Press-Janeway [Eliot] - correspondence of Potter, Janeway, George Pannly Day of Yale Press, and Arthur H. Brook re mss of Janeway's, 1950-51</unittitle>
+                  <unitdate>1950-1951</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref158" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Comparative Civilization - seminar papers, Center for Advanced Study in Behavioral Sciences, 1958</unittitle>
+                  <unitdate>1958</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref159" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Janeway - correspondence, 1950-59, with some clippings and reviews</unittitle>
+                  <unitdate>1950-1959</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref160" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Ronald Press - correspondence re mss Potter reviewed with some notes</unittitle>
+                  <unitdate>1944-1950</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref161" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Advertising - examples and notes for proposed article, and correspondence</unittitle>
+                  <unitdate>1958</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref162" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Herzenberg [Leonard A.] - correspondence re rejection of Potter's daughter from summer program at Stanford Medical School</unittitle>
+                  <unitdate>1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref163" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Program at SHA 1966 on Confederate leaders after the War - correspondence and one paper (Potter was chair of session)</unittitle>
+                  <unitdate>1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref164" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <container type="Folder">15</container>
+                  <unittitle>untitled - articles on Civil Rights</unittitle>
+                  <unitdate>1958-1963</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref165" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <container type="Folder">16</container>
+                  <unittitle>First Sumter Centennial - clippings</unittitle>
+                  <unitdate>1961</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref166" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <container type="Folder">17</container>
+                  <unittitle>History of the South - bibliography, exam questions, assignments, clippings plus an 1895 brochure re lecture tour of Gen. John B. Gordon</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref167" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <container type="Folder">18</container>
+                  <unittitle>Negro - one clipping</unittitle>
+                  <unitdate>1967-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref168" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <container type="Folder">19</container>
+                  <unittitle>History of South - clippings, articles, notes, bibliography</unittitle>
+                  <unitdate>1947-1960</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref169" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <container type="Folder">20</container>
+                  <unittitle>South- clippings, notes, reprints, bibliography</unittitle>
+                  <unitdate>1961-1964</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref170" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <container type="Folder">21</container>
+                  <unittitle>South - clippings re Democratic Convention</unittitle>
+                  <unitdate>1948</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref171" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <container type="Folder">22</container>
+                  <unittitle>untitled - misc. clippings, bibliographies, sources</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref172" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <container type="Folder">23</container>
+                  <unittitle>Segregation-Citizens' Council Material- publications and brochures by CC and newspapers from other segregationist organizations, 1959-63</unittitle>
+                  <unitdate>1959-1963</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref173" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <container type="Folder">24</container>
+                  <unittitle>Oxford, Miss Riots 1966 - clippings</unittitle>
+                  <unitdate>1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref174" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <container type="Folder">25</container>
+                  <unittitle>Potter, Memorandum on the Report of the History Panel, Behavioral and Social Sciences Survey, May 1969 (2 copies)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref175" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <container type="Folder">26</container>
+                  <unittitle>Potter, Historical Aspects of the Rejection of or Disaffiliation from the Prevaling American Society, n.d. (2 copies)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref176" level="file">
+               <did>
+                  <container type="Box">20</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Typescript paper "The Virginia Council" by Leonard W. Labaree with extensive genealogy charts, n.d.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref177" level="file">
+               <did>
+                  <container type="Box">20</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Note cards for lecture "Three Woodrow Wilsons" during Berkeley summer session</unittitle>
+                  <unitdate>1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref178" level="file">
+               <did>
+                  <container type="Box">21</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Professional correspondence A-H</unittitle>
+                  <unitdate>1950s</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref179" level="file">
+               <did>
+                  <container type="Box">22</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Professional correspondence I-Z</unittitle>
+                  <unitdate>1950s</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref180" level="file">
+               <did>
+                  <container type="Box">23</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Professional correspondence</unittitle>
+                  <unitdate>1960s</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref181" level="file">
+               <did>
+                  <container type="Box">24</container>
+                  <unittitle>[Chapter XIV; South and Sectional Conflict lectures; placement correspondence Sept. 69-70; Furness lectures - conflict/consensus; Dilys; loose notes; Fleming lectures;]</unittitle>
+                  <unitdate>1969-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref182" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <unittitle>[Southern history essays; loose papers; Committee on the Hoover; misc; OAH since Nov. 1970; OAH April 70 meeting; OAH committees]</unittitle>
+                  <unitdate>Since 1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref183" level="file">
+               <did>
+                  <container type="Box">26</container>
+                  <unittitle>[OAH since 4/70; placement 1970; Molly Minehan; OAH Committees before April 1970; Snyder; DP correspondence; Departmental; Bernstein; Bernstein-archive]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref184" level="file">
+               <did>
+                  <container type="Box">27</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Letters of reference to be filed</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref185" level="file">
+               <did>
+                  <container type="Box">27</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Answer - personal</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref186" level="file">
+               <did>
+                  <container type="Box">27</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Later action</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref187" level="file">
+               <did>
+                  <container type="Box">27</container>
+                  <container type="Folder">4</container>
+                  <unittitle>No title</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref188" level="file">
+               <did>
+                  <container type="Box">27</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Defer</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref189" level="file">
+               <did>
+                  <container type="Box">27</container>
+                  <container type="Folder">6</container>
+                  <unittitle>No title - correspondence</unittitle>
+                  <unitdate>1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref190" level="file">
+               <did>
+                  <container type="Box">27</container>
+                  <container type="Folder">7</container>
+                  <unittitle>No title - correspondence</unittitle>
+                  <unitdate>1968-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref191" level="file">
+               <did>
+                  <container type="Box">27</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Correspondence to be filed</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref192" level="file">
+               <did>
+                  <container type="Box">27</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Misc. correspondence</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref193" level="file">
+               <did>
+                  <container type="Box">27</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Misc. notes</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref194" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>Manuscript copies of papers and lectures. Also, holograph MS of The South and the Concurrent Majority, published 1972; the Fleming lectures were delivered from this MS.</unittitle>
+                  <unitdate>1972</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref195" level="file">
+               <did>
+                  <container type="Box">29</container>
+                  <unittitle>First draft, holograph, of Potter's 2-vol. book for Harpers on the Coming of the Civil War, chapters 1-9.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref196" level="file">
+               <did>
+                  <container type="Box">30</container>
+                  <unittitle>First draft, holograph, of Potter's 2-vol. book for Harpers on the Coming of the Civil War, chapters 10-19 (incomplete).</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref197" level="file">
+               <did>
+                  <container type="Box">31</container>
+                  <unittitle>Unfinished MSS of textbook on American history (1953-56). Chapters I-VI holograph with Potter's corrections; correspondence with the typist Katherine Barnes. Copy of John E. Cook's The Wearing of the Grey, with three letters from Cook.</unittitle>
+                  <unitdate>1953-1956</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref198" level="file">
+               <did>
+                  <container type="Box">32</container>
+                  <unittitle>Annotated MSS of History and AmeriCan Society, chapters 1-16 and index</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref199" level="file">
+               <did>
+                  <container type="Box">33</container>
+                  <unittitle>Galley proofs of History and American Society; reviews of The South and the Concurrent Majority</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref200" level="file">
+               <did>
+                  <container type="Box">34</container>
+                  <unittitle>MSS of Freedom and Its Limitations on American Life; review of Craven's Historian and the Ciyil War</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref201" level="file">
+               <did>
+                  <container type="Box">35</container>
+                  <unittitle>Publishers MSS of The Impending Crisis</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref202" level="file">
+               <did>
+                  <container type="Box">36</container>
+                  <unittitle>Publishers MSS of The Impending Crisis</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref203" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>Paper by Walter Metzger and comments</unittitle>
+                  <unitdate>Circa 1960</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref204" level="file">
+               <did>
+                  <container type="Box">38</container>
+                  <unittitle>J.K. Galbraith's The Affluent Society, annotated by Potter for reviewing</unittitle>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

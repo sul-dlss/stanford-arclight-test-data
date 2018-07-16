@@ -1,0 +1,1062 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+<eadheader id="a0" langencoding="iso639-2b" countryencoding="iso3166-1" repositoryencoding="iso15511" dateencoding="iso8601" scriptencoding="iso15924">
+<eadid countrycode="us" mainagencycode="CSt-H" publicid="PUBLIC &quot;-//Stanford University::Hoover Institution Archives//TEXT(US::CSt-H::XX380::Ethan Theodore Colton papers//EN&quot; &quot;XX380.xml&quot;">XX380.xml</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Register of the Ethan Theodore Colton papers </titleproper>
+<titleproper type="filing">Colton (Ethan Theodore) papers</titleproper>
+<author>Processed by Anna Naruta. </author>
+</titlestmt>
+<publicationstmt>
+<publisher id="Cst-H">Hoover Institution Archives</publisher> 
+<address> 
+<addressline>Stanford University</addressline> 
+<addressline>Stanford, California 94305-6010</addressline>
+ <addressline>Phone: (650) 723-3563</addressline>
+ <addressline>Fax: (650) 725-3445</addressline>
+ <addressline>Email: hooverarchives@stanford.edu</addressline>
+ </address>
+<date type="Publication" normal="2010">&#x00A9; 2010</date>
+<p>&#x00A9; 2010 Hoover Institution Archives. All rights reserved.</p>
+</publicationstmt>
+</filedesc> 
+<profiledesc>
+<creation>Machine-readable finding aid derived from MARC record by David Sun and Supriya Wronkiewicz. <date normal="2010">Date of source: 2010</date></creation>
+<langusage>Finding aid is written in <language langcode="eng" scriptcode="latn">English</language></langusage>
+</profiledesc>
+<revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20100611">June 11, 2010</date>
+        <item>Revision to add changes to collection summary and container list created by Anna Naruta. Additional encoding by Supriya Wronkiewicz</item>
+      </change>
+    </revisiondesc>
+</eadheader>
+<frontmatter>
+<titlepage>
+<titleproper>A Register of the Ethan Theodore Colton papers</titleproper>
+<publisher>Hoover Institution Archives<lb/>Stanford University<lb/>Stanford, California</publisher>
+<list type="deflist">
+<defitem>
+<label>Processed by: </label>
+<item>Anna Naruta</item>
+</defitem>
+<defitem>
+<label>Date Completed: </label>
+<item>2010</item>
+</defitem>
+<defitem>
+<label>Encoded by: </label>
+<item>Machine-readable finding aid derived from MARC record by David Sun and Supriya Wronkiewicz.</item>
+</defitem>
+</list>
+<p>&#x00A9; 2010 Hoover Institution Archives. All rights reserved.</p>
+</titlepage>
+</frontmatter>
+<archdesc level="collection" id="a19" type="inventory">
+<did id="P2">
+<head>Collection Summary</head>
+<unittitle label="Title" encodinganalog="245$a">Ethan Theodore Colton papers </unittitle><unitdate label="Dates" type="inclusive" normal="1917/1952" encodinganalog="245$f">1917-1952, </unitdate><unitdate type="bulk" normal="1918/1935">1918-1935</unitdate>
+<unitid label="Collection Number" countrycode="us" repositorycode="CSt-H" encodinganalog="099">XX380</unitid>
+<origination label="Creator"><persname source="lcnaf" rules="aacr2">Colton, Ethan Theodore, 1872-</persname></origination>
+<physdesc label="Collection Size" encodinganalog="300$a">
+<extent>9 manuscript boxes, 1 oversize box </extent>
+<extent>3.6 linear feet)</extent>
+</physdesc>
+<repository label="Repository">
+<corpname>Hoover Institution Archives </corpname> <address> <addressline>Stanford, California 94305-6010</addressline> </address></repository>
+<abstract label="Abstract" encodinganalog="520$a">The papers consist of correspondence, reports, writings, translations, and clippings, relating to European Student Relief activities in Russia and other European countries, 1920-1925; and to social conditions, the educational system, and the status of religion in Russia in the 1920s and 1930s. Includes the memoirs of E. T. Colton and 13 anti-religious Soviet posters. All material is from 1917-1935, except for Colton's 1952 memoirs.</abstract>
+<physloc label="Physical Location">Hoover Institution Archives</physloc>
+<langmaterial label="Languages" encodinganalog="546$a">
+<language langcode="eng">English </language>
+</langmaterial>
+<langmaterial>There are a few records in <language langcode="fre">French, </language><language langcode="cze">Czech</language>, <language langcode="ger">German</language>, and some printed material in <language langcode="rus">Russian </language>and <language langcode="pol">Polish </language>
+</langmaterial>
+
+</did>
+<descgrp type="admininfo">
+<head>Administrative Information</head>
+<accessrestrict encodinganalog="506">
+<head>Access</head>
+<p>Collection is open for research. </p>
+<p>The Hoover Institution Archives only allows access to <emph render="italic">copies</emph> of audiovisual items. To listen to sound recordings or to view videos or films during your visit, please contact the Archives at least two working days before your arrival. We will then advise you of the accessibility of the material you wish to see or hear. Please note that not all audiovisual material is immediately accessible.</p></accessrestrict>
+<userestrict encodinganalog="540">
+<head>Publication Rights</head>
+<p>For copyright status, please contact the Hoover Institution Archives. </p>
+</userestrict>
+<prefercite encodinganalog="524">
+<head>Preferred Citation</head>
+<p>[Identification of item], Ethan Theodore Colton papers, [Box number], Hoover Institution Archives.</p>
+</prefercite>
+<acqinfo encodinganalog="541">
+ <head>Acquisition Information</head>
+ <p>Acquired by the Hoover Institution Archives</p>
+</acqinfo>
+<accruals encodinganalog="525"><head>Accruals</head>
+<p>Materials may have been added to the collection since this finding aid was prepared. To determine if this has occurred, find the collection in Stanford University's online catalog Socrates at <extref linktype="simple" href="http://library.stanford.edu/webcat" actuate="onrequest" show="new"> http://library.stanford.edu/webcat</extref>. Materials have been added to the collection if the number of boxes listed in Socrates is larger than the number of boxes listed in this finding aid.</p>
+</accruals>
+<relatedmaterial>
+<head>Related Materials</head>
+<p>Darius Alton Davis papers, Hoover Institution Archives</p>
+<p>Russell McCulloch Story Papers, Hoover Institution Archives</p>
+<p>American Relief Administration. European Operations Records, Hoover Institution Archives</p>
+<p>American Relief Administration. Russian Operations Records, Hoover Institution Archives</p>
+<p>Young Men's Christian Associations Collection, Hoover Institution Archives</p>
+<p>American National Red Cross records, Hoover Institution Archives</p>
+<p>Roy Ross Clark papers, Hoover Institution Archives</p>
+</relatedmaterial>
+</descgrp>
+<bioghist id="a2" encodinganalog="545">
+<head>Biographical Note</head>
+<chronlist>
+<chronitem>
+  <date>1872</date>
+  <event>Born, Palmyra, Jefferson County, Wisconsin</event>
+</chronitem>
+<chronitem>
+  <date>1892</date>
+  <event>Enters Dakota Wesleyan University, Mitchell, South Dakota; becomes active in campus YMCA and Mitchell Epworth League</event>
+</chronitem>
+<chronitem>
+  <date>1898</date>
+  <event>Graduates from Dakota Wesleyan University, Mitchell, South Dakota</event>
+</chronitem>
+<chronitem>
+  <date>1899-1904</date>
+  <event>Staff member with Student Young Men's Christian Associations (YMCA)</event>
+</chronitem>
+<chronitem>
+  <date>1904-1917</date>
+  <event>Works for YMCA to build local Associations' support for YMCA World Service</event>
+</chronitem>
+<chronitem>
+  <date>1918-1924</date>
+  <event>Administers European Student Relief (ESR) aid services in Russia and Siberia and to Russian émigrés in Europe; serves as YMCA liaison to American Relief Administration (ARA)</event>
+</chronitem>
+<chronitem>
+  <date>1921 April</date>
+  <event>ESR conference at Turnov, Czechoslovakia</event>
+</chronitem>
+<chronitem>
+  <date>1922</date>
+  <event>Arrives back in New York from field work in Europe</event>
+</chronitem>
+<chronitem>
+  <date>by 1923 to at least 1924</date>
+  <event>Works from Student Friendship office, 341 Madison Avenue, New York, NY</event>
+</chronitem>
+<chronitem>
+  <date>1923</date>
+  <event>ARA programs conclude</event>
+</chronitem>
+<chronitem>
+  <date>1925</date>
+  <event>ESR programs conclude (See Box 6)</event>
+</chronitem>
+<chronitem>
+  <date>1925-1932</date>
+  <event>Executive secretary, YMCA World Services</event>
+</chronitem>
+<chronitem>
+  <date>by 1925 to at least 1932</date>
+  <event>YMCA Press correspondence is directed to Colton at 341 Madison Avenue, New York, NY</event>
+</chronitem>
+<chronitem>
+  <date>1929</date>
+  <event>LL.D. degree</event>
+</chronitem>
+<chronitem>
+  <date>by 1931</date>
+  <event>Resident of Upper Montclair, New Jersey</event>
+</chronitem>
+<chronitem>
+  <date>1931</date>
+  <event>Author of <emph render="italic">The X Y Z of Communism</emph> (New York, Macmillan Company), a response to Bukarin and Preobrazhensky's <emph render="italic">The A B C of Communism</emph> (1921) </event>
+</chronitem>
+<chronitem>
+  <date>1932</date>
+  <event>Retires from YMCA World Services executive secretary position at age 60, per YMCA requirement; continues YMCA committee work</event>
+</chronitem>
+<chronitem>
+  <date>1932-1942</date>
+  <event>Annual lecture tours, writes books</event>
+</chronitem>
+<chronitem>
+  <date>1935</date>
+  <event>Author of <emph render="italic">Four Patterns of Revolution; Communist U.S.S.R., Fascist Italy, Nazi Germany, New Deal America</emph> (New York, [YMCA] Association Press) </event>
+</chronitem>
+<chronitem>
+  <date>1940</date>
+  <event>Author of <emph render="italic">Forty Years with Russians</emph> (New York, Association Press), forward by John R. Mott</event>
+</chronitem>
+<chronitem>
+  <date>1943-1946</date>
+  <event>Executive director, YMCA War Prisoners? Aid Services in United States</event>
+</chronitem>
+<chronitem>
+  <date>1944</date>
+  <event>Author of <emph render="italic">Toward the Understanding of Europe</emph> (New York, Association Press)</event>
+</chronitem>
+<chronitem>
+  <date>1952</date>
+  <event>Author of <emph render="italic">Memoirs of Ethan T. Colton, Sr., 1872-1952</emph>, self-published</event>
+</chronitem>
+<chronitem>
+  <date>1953</date>
+  <event>Author of <emph render="italic">The Russia We Face Now</emph> (Washington, D.C.: The Public Affairs Institute)</event>
+</chronitem>
+</chronlist> 
+</bioghist>
+<bioghist id="a2a" encodinganalog="545">
+<head>Historical Note</head> 
+<p>The <emph render="bold">European Student Relief program</emph> (ESR) was instituted in 1918 as a complement to the US-government-funded <emph render="bold">American Relief Administration</emph> (ARA) program, to provide European students, and later professors and technical workers, with food, clothing, and shoes, and sometimes medical services, tuition aid, and textbooks, and other support for intellectual work. ESR relief work pursued a limited scope, focusing on university-affiliated populations to support the reconstruction of war-torn Europe, and to build goodwill between students in Europe and the U.S.</p>
+<p>Colton's papers reflect the complicated organizational relationships in the administration of the American Section of ESR (also known as ASESR). According to histories of the YMCA, the European Student Relief program was inaugurated by the <emph render="bold">World's Student Christian Federation</emph> (WSCF), a Geneva-based organization founded in 1895 as a trans-national complement to the YMCA. WSCF founding general secretary John R. Mott served as general secretary throughout the ESR period, while simultaneously serving as the general secretary of the YMCA from 1915-1928, and from 1926-1937 as president of the YMCA's World Committee and the general secretary of President Wilson's National War Work Council. While ESR was a program of the WSCF, in the public ESR was frequently conflated with the ARA, and in ESR reports Colton is sometimes identified as a member of the staff of ARA Director General Colonel Haskell.</p>
+<p>Documents in Colton's papers describe ESR's mission, organizational structure, personnel, and mode of operation (Box 2), and note a Russian expulsion of the YMCA in 1918 (Box 1).</p>
+<p>In supporting ESR work to build goodwill between students in the United States and war-torn Europe, the WSCF created a <emph render="bold">Student Friendship Fund</emph> (SFF), which conducted publicity and fundraising work in the US, provided grassroots fundraising strategies and materials to college students and Christian youth organizations, and collected donations of cash as well as second-hand clothing and shoes for ESR to distribute in Europe.</p>
+<p>References:</p>
+<p>Colton, Ethan Theodore, <emph render="italic">Forty Years with Russians</emph>, New York, Association Press, 1940; especially pages 128, 132, and 161 on YMCA Press</p>
+<p>Hopkins, C. Howard, <emph render="italic">History of the Y. M. C. A. in North America</emph>, New York: Association Press, 1951; especially page 687</p>
+<p>Nobel Foundation, "John R. Mott: The Nobel Peace Prize 1946," "Biography" and "Presentation Speech," 1946, [viewed 2010 January 26] http://nobelprize.org/nobel_prizes/peace/laureates/1946/mott-bio.html ; http://nobelprize.org/nobel_prizes/peace/laureates/1946/press.html</p>
+<p>Rouse, Ruth, <emph render="italic">The World's Student Christian Federation: A History of the First Thirty Years</emph>, London: S. C. M. Press Ltd., 1948, especially pages 55, 79</p>
+<p>Shedd, Clarence P., <emph render="italic">Two Centuries of Student Christian Movements: Their Origin and Intercollegiate Life,</emph> New York: Association Press, 1934</p>
+<p>Shedd, Clarence Prouty, "and other contributors," <emph render="italic">History of the World's Alliance of Young Men's Christian Associations</emph>, London: S.P.C.K., for the World's Committee of Young Men's Christian Associations, 1955; especially pages 355-6, 353, 472, 565, 674, 701</p>
+<p>Stuer, Kenneth, "'For the Millions of Men Now Under Arms': American YMCA Prisoner-of-War Diplomacy in Western Europe," chapter 4 of <emph render="italic">Pursuit of an 'Unparalleled Opportunity,'</emph> New York: Columbia University Press, 2008, [viewed 2010 January 12] http://www.gutenberg-e.org/steuer/</p>
+</bioghist>
+<scopecontent id="a3" encodinganalog="520">
+<head>Scope and Content of Collection</head>
+
+<p>The Ethan T. Colton papers in the Hoover Institution Archives consist of correspondence, reports, writings, translations, and clippings, relating to European Student Relief activities in Russia and other European countries, 1920-1925; and to social conditions, the educational system, and the status of religion in Russia in the 1920s and 1930s. Includes the memoirs of E. T. Colton and 13 anti-religious Soviet posters. Except for Colton's 1952 memoirs, all material is from 1917 to 1935. </p>
+
+<p>Colton spent his whole career with the Young Men's Christian Association. His early work to build local Associations' support for the YMCA's World Service, or Overseas Division, was followed by his assignment to executive administration of the European Student Relief program. </p>
+
+<p>Colton's papers offer particularly vivid qualitative and quantitative data on conditions for civilians in university areas throughout Europe following World War I, and U.S. and international food and clothing aid. The ESR reports were often in the form of letters from ESR staff, and are rich with first-person accounts of conditions aid workers found in recipient countries throughout Europe after World War I, and particularly Russia and Siberia in the wake of the Russian Civil War and subsequent famine in Russia.</p>
+
+<p>The documents exhibit the range of data and synthesis required for administering a large aid operation, assessing needs and program effectiveness, and conducting publicity and securing donations to sustain or expand and improve the relief efforts. The material also provides perspective on transition of government-administered operations to private non-governmental organizations. </p>
+
+<p>After the ESR program concluded in 1925, Colton continued with YMCA Overseas work on behalf of Russian émigrés, and maintained a focus on Russia and communism. Colton's papers reflect his collecting data, writing, and speaking about the practical impacts of Soviet government policies; communist outreach to youth; the relation of communism to religion; the Russian Orthodox Church, and Russian Orthodox religious figures under Soviet rule and official atheism. Some ESR reports and correspondence bear annotations related to this later work.</p>
+
+<p>Except for Colton's memoirs, his papers at the Hoover Institution Archives contain no material related to his post-retirement reactivation as executive director of the YMCA War Prisoners' Aid Services in the United States during World War II.</p>
+
+</scopecontent>
+<controlaccess><head>Indexing Terms</head> <p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p> 
+<corpname encodinganalog="610" source="lcnaf">European Student Relief.</corpname>
+<corpname encodinganalog="610" source="lcnaf">Student Friendship Fund.</corpname>
+<subject encodinganalog="650" source="lcsh">Young Men's Christian associations.</subject>
+<subject encodinganalog="650" source="lcsh">Education Soviet Union.</subject>
+<subject encodinganalog="650" source="lcsh">International relief.</subject>
+<geogname encodinganalog="651" source="lcsh">Soviet Union--History Revolution, 1917-1921--Civilian relief.</geogname>
+<geogname encodinganalog="651" source="lcsh">Soviet Union--Religion.</geogname>
+<geogname encodinganalog="651" source="lcsh">Soviet Union--Social conditions.</geogname>
+<subject encodinganalog="650" source="lcsh">World War, 1914-1918--Refugees.</subject>
+<subject encodinganalog="650" source="lcsh">World War, 1914-1918--Europe.</subject>
+</controlaccess>
+<dsc type="combined" id="dsc-1">
+<head>Collection Contents</head>
+<c01 level="series" id="c01-1">
+<did>
+ <container type="Box" label="Box: ">1</container>
+   	<unittitle>Memoir, </unittitle>
+    <unitdate normal="1952">circa 1952</unitdate>
+</did>
+   <scopecontent><p>Covers his origins to his professional life through 1952, with some information about his wife and children </p></scopecontent>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">1 : 1 </container>
+	<unittitle><emph render="italic">Memoirs of Ethan T. Colton, Sr., 1872-1952,</emph> self-published,</unittitle>
+	<unitdate>circa 1952</unitdate>
+ </did>
+</c02>
+</c01>
+<c01 level="series" id="c01-2">
+<did>
+ <container type="Box" label="Box: ">1, 10</container>
+   	<unittitle>Working documents, </unittitle>
+    <unitdate normal="1918/1932">1918-1932, undated</unitdate>
+ </did>
+   <scopecontent><p>Consists of writings, notes for speeches, and selected documents from ESR work and the YMCA Press Russian news translations, relating to themes Colton would draw on throughout his career: analysis of the Soviet government's policies and effects related to daily life and religion, and the potential transformative effects of Christian Internationalism, especially as a potential counterpoint to Communist Internationalism. Materials for an exhibit on the Soviet Union include photos and Soviet propaganda posters, 1919-1931, reprinted with English translations and annotations. Related: Subject Files, 1918-1934 and undated, and European Student Relief reports, 1920-1925</p></scopecontent>
+<c02>
+ <did>
+  <container type="Folder" label="Box: ">1 </container>
+	<unittitle>Writings, </unittitle>
+	<unitdate>1930s</unitdate>
+ </did>
+<c03>
+ <did>
+  <container type="Folder" label="Box/Folder: ">1:2 </container>
+	<unittitle>Drafts for <emph render="italic">The X Y Z of Communism</emph> (1931)</unittitle>
+	<unitdate>probably 1930</unitdate>
+ </did>
+</c03>
+</c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box: ">1 </container>
+	<unittitle>Writings, </unittitle>
+	<unitdate>probably 1930</unitdate>
+ </did>
+<c03>
+ <did>
+  <container type="Folder" label="Box/Folder: ">1:2 </container>
+	<unittitle>Drafts for <emph render="italic">The X Y Z of Communism</emph> (1931)</unittitle>
+	<unitdate>probably 1930</unitdate>
+ </did>
+</c03>
+</c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box: ">1, 10 </container>
+	<unittitle>Exhibit on Soviet Union, </unittitle>
+	<unitdate>probably early 1930s</unitdate>
+ </did>
+<c03>
+ <did>
+  <container type="Folder" label="Box/Folder: ">10:1 </container>
+	<unittitle>Soviet propaganda poster reprints with English translations and annotations, </unittitle>
+	<unitdate>probably early 1930s</unitdate>
+ </did>
+<scopecontent><p>Dates of original posters range from 1929-1931 </p></scopecontent></c03>
+<c03>
+ <did>
+  <container type="Folder" label="Box/Folder: ">10:2 </container>
+	<unittitle>Russian poster, </unittitle>
+	<unitdate>1921</unitdate>
+ </did>
+<scopecontent><p>Mining industry</p></scopecontent></c03>
+<c03>
+ <did>
+  <container type="Folder" label="Box/Folder: ">1:3 </container>
+	<unittitle>Printed materials, </unittitle>
+	<unitdate>1932, undated</unitdate>
+ </did>
+</c03>
+<c03>
+ <did>
+  <container type="Folder" label="Box/Folder: ">1:4 </container>
+	<unittitle>ESR aid work photos, Kiev and Ekaterinoslav, </unittitle>
+	<unitdate>1924, undated </unitdate>
+ </did>
+</c03>
+</c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box: ">1 </container>
+	<unittitle>Working Documents, </unittitle>
+	<unitdate>1918-1932, undated</unitdate>
+ </did>
+<c03>
+ <did>
+  <container type="Folder" label="Box/Folder: ">1:5 </container>
+	<unittitle>Working Documents, </unittitle>
+	<unitdate>1920-1932, undated, (bulk 1925-1932)</unitdate>
+ </did>
+<scopecontent><p>Includes writings by Colton and typescript notes, including for speeches, mainly relating to the Soviet Union and Christianity throughout the world </p></scopecontent></c03>
+<c03>
+ <did>
+  <container type="Folder" label="Box/Folder: ">1:6-7 </container>
+	<unittitle>Working Documents, USSR and religion, </unittitle>
+	<unitdate>1923-1932, undated</unitdate>
+ </did>
+<scopecontent><p>Includes writings, ESR correspondence, reports, translations of Russian newspaper articles, and clippings, related to the Russian Orthodox Church, Christian student and evangelical movements in the USSR, the YMCA, and Soviet and Communist positions on these groups </p></scopecontent></c03>
+<c03>
+ <did>
+  <container type="Folder" label="Box/Folder: ">1:8 </container>
+	<unittitle>Working Documents, Russia and religion, </unittitle>
+	<unitdate>1918-1922, undated</unitdate>
+ </did>
+<scopecontent><p>Includes memoranda, writings, and clippings related to the Patriarch Tikhon and the Russian Orthodox church, and the withdrawal of the YMCA from Russia. Also includes typescript translations of Russian news articles, and speech by Trotsky concerning the ARA </p></scopecontent></c03>
+<c03>
+ <did>
+  <container type="Folder" label="Box/Folder: ">1:9-11 </container>
+	<unittitle>Working Documents, Russia and Soviet Union, </unittitle>
+	<unitdate>1922-1932</unitdate>
+ </did>
+<scopecontent><p>Includes ESR reports and correspondence, including holographic reports and testimonials from relief recipients at a Moscow university scientific organization. Clippings and printed material include map of YMCA centers in Europe and Siberia, 1920 </p></scopecontent></c03>
+</c02>
+</c01>
+<c01 level="series" id="c01-3">
+<did>
+ <container type="Box" label="Box: ">2-6</container>
+   	<unittitle>European Student Relief reports,</unittitle>
+    <unitdate normal="1920/1925">1920-1925</unitdate>
+</did>
+   <scopecontent><p>Contains reports and correspondence related to the deployment of aid, assessing program success, and gathering testimonials and other evidence in support of continuing aid. Includes many file copies of third-party correspondence with Edgar MacNaughton, the ASESR Director for Kiev. Also includes reports of manifestations of anti-Semitic sentiments in Europe, and other trends in ethnic relations that might impact ESR work, such as relating to Armenian refugees in Poland. Includes thank-you letters from individual and organizational recipients of ESR aid in Russia and Germany. Related: Student Friendship files, 1921-1922; Subject Files, 1917-1934, undated; Incremental materials, October 1987</p>
+</scopecontent>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">2 : 1 </container>
+	<unittitle>Europe, general, </unittitle>
+	<unitdate>1921-1923</unitdate>
+ </did>
+<scopecontent><p>Includes administrative memoranda regarding operations and relations of ESR to WSCF and the YMCA, and reports of conditions and ESR work across Europe, including from SFF conference </p></scopecontent></c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">2 : 2 </container>
+	<unittitle>Europe, general, </unittitle>
+	<unitdate>1921-1923</unitdate>
+ </did>
+<scopecontent><p>Includes reports related to conditions at European universities and hospitals, and fundraising strategies for YMCAs. Also includes letter from the first Indian YMCA Secretary in India regarding aid to Viennese students </p></scopecontent></c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">2 : 3 </container>
+	<unittitle>Europe, general, </unittitle>
+	<unitdate>1921 June 1</unitdate>
+ </did>
+<scopecontent><p>Annual report</p></scopecontent></c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">2 : 4 </container>
+	<unittitle>Europe, general, </unittitle>
+	<unitdate>1921-1923</unitdate>
+ </did>
+<scopecontent><p>Includes report from a Federation Conference, possibly of the YMCA, held at Tsing Hua College, Peking (Beijing); and chart of contributions and distributions of the ESR and ARA, 1920-1921 </p></scopecontent></c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">2 : 5-6 </container>
+	<unittitle>Europe, general, </unittitle>
+	<unitdate>1921-1925 (bulk 1924-1925)</unitdate>
+ </did>
+<scopecontent><p>Includes reports, translations of newspaper articles, and copies of correspondence, including from university organizations, largely related to aid to professors and scientific workers, and to fundraising. Also includes reports related to the Leningrad flood of 1924 </p></scopecontent></c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">2 : 7 </container>
+	<unittitle>Europe, general, </unittitle>
+	<unitdate>1924-1925</unitdate>
+ </did>
+<scopecontent><p>Includes letters from MacNaughton to Colton, and typescript copies of MacNaughton's numbered dispatches</p></scopecontent></c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">2 : 8 </container>
+	<unittitle>Europe, general, </unittitle>
+	<unitdate>1923-1925 (bulk 1924-1925)</unitdate>
+ </did>
+</c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">2 : 9-10 </container>
+	<unittitle>Austria, </unittitle>
+	<unitdate>1920-1921</unitdate>
+ </did>
+</c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">2 : 11 </container>
+	<unittitle>Austria, </unittitle>
+	<unitdate>1921-1922</unitdate>
+ </did>
+</c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">2 : 12 </container>
+	<unittitle>Austria, Vienna</unittitle>
+	<unitdate>1920-1922</unitdate>
+ </did>
+</c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">3 : 1 </container>
+	<unittitle>Bulgaria</unittitle>
+	<unitdate>1922-1923</unitdate>
+ </did>
+</c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">3 : 2 </container>
+	<unittitle>Czechoslovakia, </unittitle>
+	<unitdate>1920-1922</unitdate>
+ </did>
+<scopecontent><p>Exhibit A - Exhibit L. Includes reports on relief work for refugee students, case study of a Russian student, and samples of application documents required for relief and for free tuition</p></scopecontent></c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">3 : 3 </container>
+	<unittitle>Czechoslovakia, </unittitle>
+	<unitdate>1920-1922</unitdate>
+ </did>
+<scopecontent><p>Exhibit G photographs. Six composed photographs depicting ESR self-help workshops in Prague. Scene include students washing and mending donated second-hand clothes, and shoemakers making repairs.</p></scopecontent></c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">3 : 4-5 </container>
+	<unittitle>Czechoslovakia, </unittitle>
+	<unitdate>1920-1923</unitdate>
+ </did>
+<scopecontent><p>Includes list of ESR delegates, by country, to ESR conference in Turnov, Czechoslovakia, 1922 April 8-15 </p></scopecontent></c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">3 : 6 </container>
+	<unittitle>Denmark, </unittitle>
+	<unitdate>1921-1922</unitdate>
+ </did>
+</c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">3 : 7 </container>
+	<unittitle>Estonia, </unittitle>
+	<unitdate>1922</unitdate>
+ </did>
+</c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">3 : 8 </container>
+	<unittitle>France, </unittitle>
+	<unitdate>1922-1923</unitdate>
+ </did>
+<scopecontent><p>In English, French, and German</p></scopecontent></c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">3 : 9-11 </container>
+	<unittitle>Germany,  </unittitle>
+	<unitdate>1921-1923</unitdate>
+ </did>
+</c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">3 : 12-14 </container>
+	<unittitle>Germany,  </unittitle>
+	<unitdate>1920-1922</unitdate>
+ </did>
+</c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">3 : 15 </container>
+	<unittitle>Holland, </unittitle>
+	<unitdate>1921-1922</unitdate>
+ </did>
+</c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">3 : 16-17 </container>
+	<unittitle>Hungary, </unittitle>
+	<unitdate>1920-1923</unitdate>
+ </did>
+<scopecontent><p>Includes correspondence reporting Christian persecution of Jews in Hungary, and discussing consequences for conducting European Student Relief </p></scopecontent></c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">3 : 18 </container>
+	<unittitle>Yugoslavia, </unittitle>
+	<unitdate>1922-1923</unitdate>
+ </did>
+<scopecontent><p>Includes reports on Belgrade and Zagreb, Yugoslavia</p></scopecontent></c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">3 : 19 </container>
+	<unittitle>Latvia, </unittitle>
+	<unitdate>1921-1922</unitdate>
+ </did>
+<scopecontent><p>Includes reports on Riga as well as on Lithuania and Estonia</p></scopecontent></c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">4 : 1 </container>
+	<unittitle>Near East, </unittitle>
+	<unitdate>1921-1923</unitdate>
+ </did>
+<scopecontent><p>Includes reports on work in Greece, mainly Athens, Constantinople, and Smyrna; and Turkey, with one report on Turnov, Czechoslovakia</p></scopecontent></c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">4 : 2 </container>
+	<unittitle>Norway, </unittitle>
+	<unitdate>1921 April</unitdate>
+ </did>
+</c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">4 : 3-4 </container>
+	<unittitle>Poland, </unittitle>
+	<unitdate>1921-1923</unitdate>
+ </did>
+<scopecontent><p>Includes reports on relief work, sample registration documents for applicants, and samples of a special fundraising certificate and stamps. Some items hand-annotated Exhibit I through Exhibit VII </p></scopecontent></c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">4 : 5 </container>
+	<unittitle>Romania, </unittitle>
+	<unitdate>1922-1923</unitdate>
+ </did>
+</c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">4 : 6 </container>
+	<unittitle>Russia, </unittitle>
+	<unitdate>1921-1923</unitdate>
+ </did>
+<scopecontent><p>Includes reports on conditions and work in Bratislava, Kazan, Moscow, Odessa, and Petrograd, as well as Krakow, Poland, and the Ukraine; transcriptions of appeals for support by prominent figures including Samuel Gompers, Maksim Gorky; and annual report of the Kiev Students' Christian Association</p></scopecontent></c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">4 : 7-9 </container>
+	<unittitle>Russia, </unittitle>
+	<unitdate>1922-1923</unitdate>
+ </did>
+<scopecontent><p>Includes reports on conditions and work in Ekaterinoslav, Kazan, Kiev, Moscow, Riga, Samara, and Saratov; to Russian refugee students in Belgrade; and Czechoslovakian aid to Ukrainians and Russians. Also includes reports and memoranda regarding Communist policies on religion, and development of ESR policy regarding students posting notices in ESR dining halls</p></scopecontent></c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">4 : 10 </container>
+	<unittitle>Russia, </unittitle>
+	<unitdate>1921-1923 (bulk 1922-1923)</unitdate>
+ </did>
+<scopecontent><p>Includes reports on conditions and work in Ekaterinoslav, Moscow, Odessa, Penza, Petrograd, Rostov, Saratov, Simbirsk, Tomsk; and Kharkov and Simferopol, Ukraine. Also includes Ukrainian student association statement</p></scopecontent></c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">5 : 1 </container>
+	<unittitle>Russia, </unittitle>
+	<unitdate>1922-1923</unitdate>
+ </did>
+<scopecontent><p>Includes reports on conditions and ARA and ESR work; including regarding administration and prospects for continuance</p></scopecontent></c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">5 : 2 </container>
+	<unittitle>Russia, </unittitle>
+	<unitdate>1923-1924</unitdate>
+ </did>
+</c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">5 : 3-7 </container>
+	<unittitle>Russia, </unittitle>
+	<unitdate>1921-1925 (bulk 1923-1925)</unitdate>
+ </did>
+<scopecontent><p>Includes letters from MacNaughton </p></scopecontent></c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">5 : 8 </container>
+	<unittitle>Serbia, </unittitle>
+	<unitdate>1922-1923</unitdate>
+ </did>
+</c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">5 : 9 </container>
+	<unittitle>Sweden, </unittitle>
+	<unitdate>1921 May</unitdate>
+ </did>
+</c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">5 : 10 </container>
+	<unittitle>Switzerland, </unittitle>
+	<unitdate>1920-1921</unitdate>
+ </did>
+</c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">5 : 11 </container>
+	<unittitle>Ukraine, Kiev, </unittitle>
+	<unitdate>1924</unitdate>
+ </did>
+<scopecontent><p>Includes report from MacNaughton, and reports of Dr. S. L. Malinovskii, Chief of Medical Staff, Kiev</p></scopecontent></c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">5 : 12 </container>
+	<unittitle>ESR recipient thank-you letters, Russia and Germany, </unittitle>
+	<unitdate>1924</unitdate>
+ </did>
+<scopecontent><p>Related: Russia, 1921-1923</p></scopecontent></c02>
+</c01>
+<c01 level="series" id="c01-4">
+<did>
+ <container type="Box" label="Box: ">5-6</container>
+   	<unittitle>Student Friendship Fund files,</unittitle>
+    <unitdate normal="1921/1922">1921-1922</unitdate>
+</did>   
+<scopecontent><p>Consists of solicitation strategies, fundraising materials distributed, and sample press releases with tracking of distribution and stories placed. Related: European Student Relief reports, 1920-1925; Subject files, Relief, Russia, 1923-1924, and Relief, 1922-1926 (bulk 1924-1925) </p></scopecontent>
+
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">5 : 13-14 </container>
+	<unittitle>Student Friendship Fund fundraising materials distributed, </unittitle>
+	<unitdate>1921-1922</unitdate>
+ </did>
+</c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">6 : 1-2 </container>
+	<unittitle>Student Friendship Fund fundraising materials distributed, </unittitle>
+	<unitdate>1921-1922</unitdate>
+ </did>
+</c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">6 : 3 </container>
+	<unittitle>Student Friendship Fund press releases, </unittitle>
+	<unitdate>1921-1922</unitdate>
+ </did>
+<scopecontent><p>Consists of samples of stories sent to newspapers, college papers, and religious papers, with recording of distribution and results </p></scopecontent></c02>
+</c01>
+<c01 level="series" id="c01-5">
+<did>
+ <container type="Box" label="Box: ">6-8, 10 </container>
+   	<unittitle>Subject files,</unittitle>
+    <unitdate normal="1917/1934">1917-1934, undated</unitdate>
+</did>
+   <scopecontent><p>Includes many ESR reports, typescript translations of Russian news articles, newspaper clippings, and other printed materials, largely related to Russia; the Soviet government; data about the need for aid such as ESR relief; the impacts of communism and goals for communist expansion, particularly among the youth; and the current state of and prospects for religion in the Soviet Union. Includes assessments of the late phase of ESR aid, and suggestions for continuance, perhaps by successor organizations. Also includes documents relating to the YMCA's mission for and accomplishments of work in Russia and the Soviet Union</p></scopecontent>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">6 : 4 </container>
+	<unittitle>Unidentified, "Memorandum Concerning Russia," </unittitle>
+	<unitdate>after 1927</unitdate>
+ </did>
+<scopecontent><p>Margin notes by Colton</p></scopecontent></c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">6 : 5 </container>
+	<unittitle>Chamberlin, W.H., </unittitle>
+	<unitdate>1925-1931, undated</unitdate>
+ </did>
+<scopecontent><p>Clippings of the Moscow correspondent's reporting for the <emph render="italic">Christian Science Monitor </emph></p></scopecontent></c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">6 : 6 </container>
+	<unittitle>Duranty, Walter, </unittitle>
+	<unitdate>1925-1932 (bulk 1931-1932)</unitdate>
+ </did>
+<scopecontent><p>Clippings of Duranty's reporting on the Soviet Union for the <emph render="italic">New York Times</emph></p></scopecontent></c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">6 : 7 </container>
+	<unittitle>Europe, </unittitle>
+	<unitdate>1931, undated</unitdate>
+ </did>
+<scopecontent><p>Consists of <emph render="italic">ARA Association Review</emph> clippings and a 1931 League of Nations publication on armaments and the USSR</p></scopecontent></c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">6 : 8 </container>
+	<unittitle>Relief, Russia, </unittitle>
+	<unitdate>1923-1924</unitdate>
+ </did>
+<scopecontent><p>Consists mainly of ESR reports on food and clothing aid, aid to professors and scientific workers, and subsidies to create two medical journals in Ekaterinoslav. Includes program evaluation reports, and photos  </p></scopecontent></c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">6 : 9-14 </container>
+	<unittitle>Relief, </unittitle>
+	<unitdate>1922-1926 (bulk 1924-1925)</unitdate>
+ </did>
+<scopecontent><p>Includes ESR reports related to libraries, textbooks, and dispensaries, and proposals for continuance of ESR aid, or aid by successor organization. Also includes SFF fundraising materials </p></scopecontent></c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">6 : 15-16 </container>
+	<unittitle>Russia, </unittitle>
+	<unitdate>1924-1926</unitdate>
+ </did>
+<scopecontent><p>Includes reports related to physical education and to Christianity. Also includes typescript translations from <emph render="italic">Izvestia</emph>, and periodical articles on Communism in English and German with English translation</p></scopecontent></c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">6 : 17 </container>
+	<unittitle>Russia - class war, </unittitle>
+	<unitdate>1919-1931, undated (bulk 1930-1931)</unitdate>
+ </did>
+</c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">6 : 18 </container>
+	<unittitle>Russia - economics, </unittitle>
+	<unitdate>1924-1932, undated (bulk 1931-1932)</unitdate>
+ </did>
+<scopecontent><p>Includes holographic notes, possibly for a speech by Colton</p></scopecontent></c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">7 : 1 </container>
+	<unittitle>Russia - education, </unittitle>
+	<unitdate>1924-1932, undated</unitdate>
+ </did>
+</c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">7 : 2 </container>
+	<unittitle>Russia - foreign affairs, </unittitle>
+	<unitdate>1918-1932 (bulk 1930-1932)</unitdate>
+ </did>
+<scopecontent><p>Includes typescript translations of Russian and French newspaper articles and letters</p></scopecontent></c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">7 : 3 </container>
+	<unittitle>Russia - labor, </unittitle>
+	<unitdate>1925-1932, undated</unitdate>
+ </did>
+</c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">7 : 4 </container>
+	<unittitle>Russia - militarism, </unittitle>
+	<unitdate>1923 and probably 1932</unitdate>
+ </did>
+</c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">7 : 5 </container>
+	<unittitle>Russia - party affairs, </unittitle>
+	<unitdate>1925-1932</unitdate>
+ </did>
+<scopecontent><p>Lenin-Stalin government</p></scopecontent></c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">7 : 6 </container>
+	<unittitle>Russia - recognition, </unittitle>
+	<unitdate>1924-1926, undated</unitdate>
+ </did>
+</c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">7 : 7-10 </container>
+	<unittitle>Russia - religion, </unittitle>
+	<unitdate>1917-1931, undated (bulk 1924-1930)</unitdate>
+ </did>
+<scopecontent><p>Includes writings by Colton, and documents related to the mission and governance of the YMCA's religious services for Russians. Also includes reports and correspondence related to the status of churches, chapels, synagogues, religious practitioners, Russian religious figures, the Bibles for Russia program and the All-Russian Evangelical Christian Union  </p></scopecontent></c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">7 : 11 </container>
+	<unittitle>Russia - rural, </unittitle>
+	<unitdate>1924-1932, undated. </unitdate>
+ </did>
+<scopecontent><p>Includes copy of letter from Sherwood Eddy, 1929</p></scopecontent></c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">7 : 12 </container>
+	<unittitle>Russia - social welfare, </unittitle>
+	<unitdate>1931-1932</unitdate>
+ </did>
+</c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">7 : 13 </container>
+	<unittitle>Russia - youth, </unittitle>
+	<unitdate>1927-1932</unitdate>
+ </did>
+</c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">7 : 14 </container>
+	<unittitle>Soviet Russia - nature and theory, </unittitle>
+	<unitdate>1932, undated</unitdate>
+ </did>
+<scopecontent><p>Consists of periodical clippings and a typescript translation of Russian newspaper item, 1932</p></scopecontent></c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">7 : 15-16 </container>
+	<unittitle>Third International, </unittitle>
+	<unitdate>1928-1932, undated</unitdate>
+ </did>
+<scopecontent><p>Includes typescript reports assessing number of communist organizations for children internationally, and communist press for children throughout Europe. Also includes typescript translations related to the YMCA and Communism in China, 1927; and American Vigilant Intelligence Federation, "The Economic Situation of the Soviet Union," 1932, typescript report </p></scopecontent></c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box: ">10 </container>
+	<unittitle>Third International, </unittitle>
+	<unitdate>1928-1932, undated </unitdate>
+ </did>
+<c03>
+ <did>
+  <container type="Folder" label="Box/Folder: ">10 : 3 </container>
+	<unittitle>American Vigilant Intelligence Federation, Bolshevist Organizations in the United States of America at Present Time, </unittitle>
+	<unitdate>1931 </unitdate>
+ </did>
+<scopecontent><p>Poster</p></scopecontent></c03>
+</c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">7 : 17-18 </container>
+	<unittitle>USSR,  </unittitle>
+	<unitdate>1928-1934, undated (bulk 1932-1934).</unitdate>
+ </did>
+<scopecontent><p>Includes printed brochure on the YMCA's work to support Christian faith among Russians and provide relief aid. Related: YMCA Press translation correspondence, 1925-1932</p></scopecontent></c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">8 : 1-3 </container>
+	<unittitle>World revolution, </unittitle>
+	<unitdate>1922-1932, undated, bulk 1925-1932</unitdate>
+ </did>
+<scopecontent><p>Includes documents holographically labeled with a roman numeral, for example "Document IV." Also includes series of newspaper articles on Russia by E. Ashmead-Bartlett</p></scopecontent></c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box/Folder: ">8 : 4 </container>
+	<unittitle>World revolution, Soviet Russia, and religion, </unittitle>
+	<unitdate>1924-1929 (bulk 1928-1929)</unitdate>
+ </did>
+<scopecontent><p>Includes translations holographically marked with edits and date circulated.</p></scopecontent></c02>
+</c01>
+<c01 level="series" id="c01-6">
+<did>
+ <container type="Box" label="Box: ">8-9 </container>
+   	<unittitle>YMCA Press Russian News files,</unittitle>
+    <unitdate normal="1924/1935">1924-1935, undated</unitdate>
+</did>
+   <scopecontent><p>Consists mainly of numbered typescript translations into English of Russian-language newspaper articles, with some translations of other periodical articles, speeches, and orders of the Soviet government. Includes correspondence, 1924-1932, related to the origin, scope, and operation of the program, and to administration of the translation work. The translations are arranged in their original order, in numerical sequence. Original batches of translations as received from translators are identified as such; otherwise, the translation number range merely represents the range as found in the files. Not all numbered translations in a sequence are present. Some additional numbered translations are found in Colton's Working documents or Subject files. Related: Incremental Materials, October 1987
+</p></scopecontent>
+<c02>
+ <did>
+  <container type="Folder" label="Box: ">8 </container>
+	<unittitle>YMCA Press Russian news translations typescript drafts, </unittitle>
+	<unitdate>1933-1935, undated</unitdate>
+ </did>
+<c03>
+ <did>
+  <container type="Folder" label="Box/Folder: ">8 : 5</container>
+	<unittitle>Translations numbers 2079-2121, </unittitle>
+	<unitdate>1933</unitdate>
+ </did>
+</c03>
+<c03>
+ <did>
+  <container type="Folder" label="Box/Folder: ">8 : 6 </container>
+	<unittitle>Translations numbers 2170-2299, </unittitle>
+	<unitdate>1933-1934</unitdate>
+ </did>
+</c03>
+<c03>
+ <did>
+  <container type="Folder" label="Box/Folder: ">8 : 7 </container>
+	<unittitle>Translations numbers 2301-2312, </unittitle>
+	<unitdate>1934</unitdate>
+ </did>
+</c03>
+<c03>
+ <did>
+  <container type="Folder" label="Box/Folder: ">8 : 8 </container>
+	<unittitle>Translations numbers 2313-2317, </unittitle>
+	<unitdate>1933, undated</unitdate>
+ </did>
+</c03>
+<c03>
+ <did>
+  <container type="Folder" label="Box/Folder: ">8 : 9 </container>
+	<unittitle>Translations numbers 2318-2328, </unittitle>
+	<unitdate>1934</unitdate>
+ </did>
+</c03>
+<c03>
+ <did>
+  <container type="Folder" label="Box/Folder: ">8 : 10 </container>
+	<unittitle>Translations numbers 2329-2375, </unittitle>
+	<unitdate>1934</unitdate>
+ </did>
+<scopecontent><p>Comprises original entire batch of translations with typescript cover note</p></scopecontent></c03>
+<c03>
+ <did>
+  <container type="Folder" label="Box/Folder: ">8 : 11 </container>
+	<unittitle>Translations numbers 2398-2470, </unittitle>
+	<unitdate>1934</unitdate>
+ </did>
+</c03>
+<c03>
+ <did>
+  <container type="Folder" label="Box/Folder: ">8 : 12 </container>
+	<unittitle>Translations numbers 2762-2831, </unittitle>
+	<unitdate>1934-1935</unitdate>
+ </did>
+<scopecontent><p>Comprises original entire batch of translations with typescript cover note. Includes translations of articles published 1934 October through 1935 April 29</p></scopecontent></c03>
+<c03>
+ <did>
+  <container type="Folder" label="Box/Folder: ">8 : 13-14 </container>
+	<unittitle>Translations numbers 2832-2937, </unittitle>
+	<unitdate>1934-1935, undated</unitdate>
+ </did>
+<scopecontent><p>Comprises original entire batch of translations with typescript cover note. Includes translations of articles published through 1935 July</p></scopecontent></c03>
+</c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box: ">9 </container>
+	<unittitle>YMCA Press Russian news translations typescript drafts incremental materials,  </unittitle>
+	<unitdate>1924-1935.</unitdate>
+ </did>
+<scopecontent><p>Includes some unnumbered translations </p></scopecontent>
+<c03>
+ <did>
+  <container type="Folder" label="Box: ">9 : 1-3 </container>
+	<unitdate>1924-1935 (bulk 1934-1935)</unitdate>
+ </did>
+<c04>
+ <did>
+  <container type="Folder" label="Box/Folder: ">9 : 1 </container>
+	<unittitle>Translations numbers 1750, 1836, 1842, 1877, and 2651-2704; unnumbered translations of news articles dated 1932; and typescript summary of results of medical examination of students, 1924 </unittitle>
+	<unitdate>1924, 1932</unitdate>
+ </did>
+</c04>
+<c04>
+ <did>
+  <container type="Folder" label="Box/Folder: ">9 : 2 </container>
+	<unittitle>Translations numbers 2938-3000, </unittitle>
+	<unitdate>1935</unitdate>
+ </did>
+</c04>
+<c04>
+ <did>
+  <container type="Folder" label="Box/Folder: ">9 : 3 </container>
+	<unittitle>Holographic notes on the inside front of the original folder, </unittitle>
+	<unitdate>undated</unitdate>
+ </did>
+</c04>
+</c03>
+<c03>
+ <did>
+  <container type="Folder" label="Box: ">9 : 4-5 </container>
+	<unitdate>1930-1932</unitdate>
+ </did>
+<c04>
+ <did>
+  <container type="Folder" label="Box/Folder: ">9 : 4 </container>
+	<unittitle>Unnumbered translations of news articles dated 1930, and Translations numbers 1053-1284, 1313, 1321, 1368, 1388, and 1394, </unittitle>
+	<unitdate>1930-1931</unitdate>
+ </did>
+</c04>
+<c04>
+ <did>
+  <container type="Folder" label="Box/Folder: ">9 : 5 </container>
+	<unittitle>Translations numbers 1406-1748, </unittitle>
+	<unitdate>1931-1932</unitdate>
+ </did>
+</c04>
+</c03>
+<c03>
+ <did>
+  <container type="Folder" label="Box: ">9 : 1-3 </container>
+	<unitdate>1934-1935</unitdate>
+ </did>
+<c04>
+ <did>
+  <container type="Folder" label="Box/Folder: ">9 : 1 </container>
+	<unittitle>Translations numbers 2376-2396, </unittitle>
+	<unitdate>1934</unitdate>
+ </did>
+</c04>
+<c04>
+ <did>
+  <container type="Folder" label="Box/Folder: ">9 : 2 </container>
+	<unittitle>Translations numbers 2473-2521, </unittitle>
+	<unitdate>1934</unitdate>
+ </did>
+</c04>
+<c04>
+ <did>
+  <container type="Folder" label="Box/Folder: ">9 : 3 </container>
+	<unittitle>Translations numbers 2523-2716, </unittitle>
+	<unitdate>1934-1935</unitdate>
+ </did>
+</c04>
+</c03>
+</c02>
+<c02>
+ <did>
+  <container type="Folder" label="Box: ">8 </container>
+	<unittitle>YMCA Press Russian news translation correspondence, </unittitle>
+	<unitdate>1925-1932</unitdate>
+ </did>
+<c03>
+ <did>
+  <container type="Folder" label="Box/Folder: ">8 : 5</container>
+	<unitdate>1925-1930 (bulk 1925-1929)</unitdate>
+ </did>
+</c03>
+<c03>
+ <did>
+  <container type="Folder" label="Box/Folder: ">8 : 6 </container>
+	<unitdate>1929-1932</unitdate>
+ </did>
+</c03>
+</c02>
+</c01>
+<c01 level="series" id="c01-7">
+<did>
+ <container type="Box" label="Box/Folder: ">9 : 12</container>
+   	<unittitle>Incremental materials,</unittitle>
+    <unitdate normal="1987/1987">1987 October</unitdate>
+</did>
+   <scopecontent><p>Consists of ESR reports; YMCA Press Russian News typescript translations; ESR documents Colton labeled Exhibit A, F, and G, relating to proposed continuation of ESR aid; typescript translations and printed material, 1923-1924 and undated </p></scopecontent>
+</c01>
+</dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[Leo L. Stanley diaries])//EN"
+             identifier="ark:/13030/tf1s2001xg">sc0070.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Leo L. Stanley Diaries
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Stanley (Leo L.) Diaries</titleproper>
+            <author>Processed by Anne Careaga; machine-readable finding aid created by Patricia E.; updated by Jennifer E. Johnson</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2008">2008</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC0070</unitid>
+         <origination label="Creator:">
+            <persname rules="aacr" source="naf">Stanley, Leo L. (Leo Leonidas), b. 1886</persname>
+         </origination>
+         <origination label="Creator:">
+            <persname rules="aacr" source="ingest" role=" ">Stanley, Leo L.,, 1886-</persname>
+         </origination>
+         <unittitle label="Title:">Leo L. Stanley diaries</unittitle>
+         <unitdate normal="1918/1968"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1918-1968</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>6 Linear feet</extent>
+         </physdesc>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <descgrp type="provenance" id="prov">
+            <head>Provenance</head>
+            <acqinfo id="ref5">
+               <p>Gift of Dr. Leo L. Stanley.</p>
+            </acqinfo>
+         </descgrp>
+         <accessrestrict id="ref2">
+            <head>Information about Access</head>
+            <p>Collection is open for research; materials must be requested at least 24 hours in advance of intended use.</p>
+         </accessrestrict>
+         <userestrict id="ref3">
+            <head>Ownership &amp; Copyright</head>
+            <p>Property rights reside with the repository. Literary rights reside with the creators of the documents or their heirs. To obtain permission to publish or reproduce, please contact the Public Services Librarian of the Dept. of Special Collections.</p>
+         </userestrict>
+         <prefercite id="ref4">
+            <head>Cite As</head>
+            <p>[Identification of item], Leo L. Stanley diaries, SC 070. Stanford University Archives, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <bioghist id="ref6">
+         <head>Biography</head>
+         <p>Leo L. Stanley, born 1886 in Oregon, graduated from Cooper Medical College of Stanford University in 1912. He spent most of his life as Chief Physician and Surgeon at the California State Prison at San Quentin. He did take time out to travel, however, usually as the ship's doctor on large luxury cruises.</p>
+      </bioghist>
+      <scopecontent id="ref7">
+         <head>Scope and Content of Collection</head>
+         <p>Diaries are written in the form of a daily log and include photographs, menus, passenger lists, ship's newspapers, maps, programs, trip literature, newspaper articles, and some correspondence. Also included are some case histories of various men he had known in prison. The travel books concentrate mainly on the local color of the places visited. Those from his 1934 trip through Russia and Siberia also include information on the government institutions he visited. The collection also includes some medical articles by Stanley and autobiographical articles.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <corpname rules="dacs" source="naf" role=" ">Stanford Alumni Association</corpname>
+         <persname rules="aacr" source="ingest" role=" ">Stanley, Leo L.,, 1886-</persname>
+         <geogname source="lcsh">East Asia.</geogname>
+         <geogname source="lcsh">France--Description and travel.</geogname>
+         <geogname source="lcsh">Germany--Description and travel.</geogname>
+         <geogname source="lcsh">Mexico--Description and travel.</geogname>
+         <geogname source="lcsh">South America--Description and travel.</geogname>
+         <geogname source="lcsh">Soviet Union--Description and travel.</geogname>
+         <geogname source="lcsh">United States--Description and travel.</geogname>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.6">
+         <head>Collection Contents</head>
+         <c01 id="ref8" level="file">
+            <did>
+               <container type="Box">1</container>
+               <unittitle>"The Sixth Voyage of the Sachem"</unittitle>
+               <unitdate>July 8 - Aug. 1, 1918</unitdate>
+            </did>
+            <scopecontent>
+               <p>Round trip cruise from San Francisco to Honolulu, on which Dr. Stanley is ship's surgeon.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref10" level="file">
+            <did>
+               <container type="Box">1</container>
+               <unittitle>"To Ellis Island and Back"</unittitle>
+               <unitdate>Sept. 1920</unitdate>
+            </did>
+            <scopecontent>
+               <p>Round trip by railroad from San Francisco to Ellis Island, NY. Dr. Stanley serves as physician for undesirable aliens, either criminal, insane, or guilty of illegal entry into the United States, who are being brought by train to New York to be deported to their native countries.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref12" level="file">
+            <did>
+               <container type="Box">1</container>
+               <unittitle>"Trot, Trot, Trot to Boston"</unittitle>
+               <unitdate>May 21-Apr 11, 1921</unitdate>
+            </did>
+            <scopecontent>
+               <p>Dr. Stanley serves as physician for undesirable aliens, either criminal, insane, or guilty of illegal entry into the United States, who are being brought by train to New York to be deported to their native countries. This volume includes an extra trip to Boston.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref14" level="file">
+            <did>
+               <container type="Box">1</container>
+               <unittitle>"Five Weeks Leave"</unittitle>
+               <unitdate>1922</unitdate>
+            </did>
+            <scopecontent>
+               <p>Deportation train, San Francisco to New York. Dr. Stanley then attended meeting of the association for the Study of Internal Secretions in St. Louis.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref16" level="file">
+            <did>
+               <unittitle>South American Cruise</unittitle>
+               <unitdate>1928</unitdate>
+            </did>
+            <scopecontent>
+               <p>Dr. Stanley was the ship's doctor on the S.S. 
+                        <emph render="italic">City of Los Angeles </emph>cruise around South America.</p>
+            </scopecontent>
+            <c02 id="ref17" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>(South American Cruise I)</unittitle>
+                  <unitdate>Oct. 4-24, 1928</unitdate>
+               </did>
+               <scopecontent>
+                  <p>Preparation for voyage; departure; itinerary includes Callao and Lima, Peru; Valparaiso and Santiago, Chile.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref19" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>(South American Cruise II)</unittitle>
+                  <unitdate>Oct. 25 - Nov. 10, 1928</unitdate>
+               </did>
+               <scopecontent>
+                  <p>Itinerary includes Straits of Magellan; Punta Arenas; Buenos Aires, Argentina; Montevideo, Uruguay; Santos and Sao Paulo, Brazil.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref21" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>(South American Cruise III)</unittitle>
+                  <unitdate>Nov. 11 - Dec. 6, 1928</unitdate>
+               </did>
+               <scopecontent>
+                  <p>Itinerary includes Rio de Janeiro, Brazil; Port of Spain, Trinidad, BWI; La Guayra and Caracas, Venezuela; Panama Canal Zone; Salvador; Guatemala; Mazetlan, Mexico.</p>
+               </scopecontent>
+            </c02>
+         </c01>
+         <c01 id="ref24" level="file">
+            <did>
+               <unittitle>All Pacific Cruise</unittitle>
+               <unitdate>1929</unitdate>
+            </did>
+            <scopecontent>
+               <p>Dr. Stanley was the ship's doctor on the S.S. 
+                        <emph render="italic">Malolo.</emph>
+               </p>
+            </scopecontent>
+            <c02 id="ref25" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Japan (v. I)</unittitle>
+                  <unitdate>Jan. 14-Oct. 3, 1929</unitdate>
+               </did>
+               <scopecontent>
+                  <p>This volume covers his departure.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref27" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Japan (v. II),</unittitle>
+                  <unitdate>Oct. 4-12, 1929</unitdate>
+               </did>
+               <scopecontent>
+                  <p>Itinerary includes Yokohama, Tokyo, Kobe, Nara, Miyajima.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref29" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>China (v. III),</unittitle>
+                  <unitdate>Oct. 14-22, 1929</unitdate>
+               </did>
+               <scopecontent>
+                  <p>Itinerary includes Chinwangtao, Peiping, Great Wall, Shanghaikuan.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref31" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Hong Kong, Manila, Saigon (v. IV),</unittitle>
+                  <unitdate>Oct. 23 - Nov. 2, 1929</unitdate>
+               </did>
+               <scopecontent>
+                  <p>Itinerary includes Hong Kong, Kowloon, Canton, Manila, Saigon.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref33" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Siam, Singapore, Java (v. V),</unittitle>
+                  <unitdate>Nov. 3-11, 1929</unitdate>
+               </did>
+               <scopecontent>
+                  <p>Itinerary includes Bangkok; Singapore; Jahore; Batavia, Java; Buitenzorg, Java; Tanjong Priok.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref35" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Australia (v. VI),</unittitle>
+                  <unitdate>Nov. 12-28, 1929</unitdate>
+               </did>
+               <scopecontent>
+                  <p>Itinerary includes Rottnest Island, Fremantle, Perth, Melbourne, Sydney, Katoomba.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref37" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>New Zealand, Fijis, Samoa, Hawaii (v. VII),</unittitle>
+                  <unitdate>Nov. 29-Dec. 15, 1929</unitdate>
+               </did>
+               <scopecontent>
+                  <p>Itinerary includes Auckland; Suva, Fijis; Pago Pago, Samoa; Honolulu and Hilo, Hawaii.</p>
+               </scopecontent>
+            </c02>
+         </c01>
+         <c01 id="ref40" level="file">
+            <did>
+               <unittitle>North Cape Russia Cruise</unittitle>
+               <unitdate>1931</unitdate>
+            </did>
+            <scopecontent>
+               <p>Dr. Stanley was a passenger on the S. S. 
+                        <emph render="italic">Carinthia.</emph>
+               </p>
+            </scopecontent>
+            <c02 id="ref41" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>North Cape Russia Cruise (v. I),</unittitle>
+                  <unitdate>June 26-July 8, 1931</unitdate>
+               </did>
+               <scopecontent>
+                  <p>Covers his arrival in New York by train and stop at Reykjavik, Iceland.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref43" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>North Cape Russia Cruise (v. II),</unittitle>
+                  <unitdate>July 9-18, 1931</unitdate>
+               </did>
+               <scopecontent>
+                  <p>Itinerary includes Hammerfest, Lyngen,Trondhjem, and Bergen in Norway.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref45" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>North Cape Russia Cruise (v. III),</unittitle>
+                  <unitdate>July 19-Aug. 1, 1931</unitdate>
+               </did>
+               <scopecontent>
+                  <p>Itinerary includes Oslo, Visby, Gottland, Stockholm. At Stockholm, Doctor Stanley discontinued the cruise and stayed in Stockholm with a sick passenger, his friend, Mrs. Aubrey Montgomery, known as 'Lady Bob," whom he had known on other cruises. This volume also contains her will. Returns via the 
+                            <emph render="italic">Suecia</emph> and the S. S. 
+                            <emph render="italic">Mauretania</emph> to New York, then by train to San Francisco.</p>
+               </scopecontent>
+            </c02>
+         </c01>
+         <c01 id="ref48" level="file">
+            <did>
+               <unittitle>Around the World</unittitle>
+               <unitdate>1934</unitdate>
+            </did>
+            <scopecontent>
+               <p>On this trip Dr. Stanley served as physician for deportees on a train from San Francisco to New York, continuing as a passenger to Russia to study hospitals and prisons there. Included are photographs of and comments on the institutions he visited.</p>
+            </scopecontent>
+            <c02 id="ref49" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Across America (v. I),</unittitle>
+                  <unitdate>Apr. 20-May 8, 1934</unitdate>
+               </did>
+               <scopecontent>
+                  <p>San Francisco to New York on deportation train; from New York on the 
+                            <emph render="italic">President Roosevelt,</emph> bound for le Havre.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref51" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>France, Germany (v. II),</unittitle>
+                  <unitdate>May 9-18, 1934</unitdate>
+               </did>
+               <scopecontent>
+                  <p>Itinerary includes Berlin and Potsdam; airplane from Berlin to Leningrad.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref53" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Russia/Siberia (v. III),</unittitle>
+                  <unitdate>May 19-30, 1934</unitdate>
+               </did>
+               <scopecontent>
+                  <p>Leningrad and Moscow. Dr. Stanley visits and describes a penal colony outside Moscow and a childcare center in Leningrad for working mothers, also a clinic for working mothers. The penal colony is an experimental commune for prisoners selected from other penitentiaries. Train across Siberia to Vologda, Omsk, Zima, Baikal; visits hospitals and prisons. Also includes excerpts from the "Guide Book to the Soviet Union."</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref55" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Manchoukuo (v. IV),</unittitle>
+                  <unitdate>May 31-June 3, 1934</unitdate>
+               </did>
+               <scopecontent>
+                  <p>Chinese Eastern Railway to Tsitsihar, Anda, Harbin, Hsinking, Mukden in Manchuria and Shanhaikuan in China.</p>
+               </scopecontent>
+               <note>
+                  <p>[There is no volume 22.]</p>
+               </note>
+            </c02>
+            <c02 id="ref58" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>China (v. V),</unittitle>
+                  <unitdate>June 4-8, 1934</unitdate>
+               </did>
+               <scopecontent>
+                  <p>Itinerary includes Peiping, Tientsin, Nanking, Shanghai. Boards the M.S. 
+                            <emph render="italic">Chichibu Maru.</emph>
+                  </p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref60" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Japan, Hawaii (v. VI),</unittitle>
+                  <unitdate>June 9-22, 1934</unitdate>
+               </did>
+               <scopecontent>
+                  <p>On M.S. 
+                            <emph render="italic">Chichibu Maru;</emph> itinerary includes Kobe, Kyoto, Yokohama, Pearl Harbor, San Francisco. Visits Oahu Prison and Palama Settlement in Hawaii.</p>
+               </scopecontent>
+            </c02>
+         </c01>
+         <c01 id="ref63" level="file">
+            <did>
+               <unittitle>Mediterranean Cruise</unittitle>
+               <unitdate>1935</unitdate>
+            </did>
+            <scopecontent>
+               <p>Dr. Stanley serves as physician on a deportation train to New York, then goes as a passenger to the Mediterranean on the S. S. 
+                        <emph render="italic">Statendam.</emph>
+               </p>
+            </scopecontent>
+            <c02 id="ref64" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Mediterranean Cruise (v. I),</unittitle>
+                  <unitdate>Jan. 28-Feb. 16, 1935</unitdate>
+               </did>
+               <scopecontent>
+                  <p>Chapters 1-5. Deportation train leaves San Francisco for New York. Includes case histories of passengers. Itinerary includes Los Angeles, Yuma, El Paso, San Antonia, Houston.</p>
+                  <p>Chapters 6-13. S. S. 
+                            <emph render="italic">Statendam</emph> leaves NY. Contains letter and poem from a prisoner at San Quentin, the famous J. P. "Bluebeard" Watson, who murdered 15 women. Itinerary includes on the Atlantic, at sea, Funchal, Madeira, Gibraltar, La Linea.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref66" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Mediterranean Cruise (v. II),</unittitle>
+                  <unitdate>Feb. 17-26, 1935</unitdate>
+               </did>
+               <scopecontent>
+                  <p>Chapters 14-21. Itinerary includes Cadiz - Seville, Tangier - Malaga, Algiers, Palma, Mallorca, Cannes, Malta, coast and ancient Apollonia viewed from 
+                            <emph render="italic">Statendam.</emph>
+                  </p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref68" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Mediterranean Cruise (v. III),</unittitle>
+                  <unitdate>Feb. 27-Mar. 8, 1935</unitdate>
+               </did>
+               <scopecontent>
+                  <p>Chapters 22-31. Itinerary includes Egypt, Holy Land, Jerusalem, Beirut, Syria.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref70" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Mediterranean Cruise (v. IV),</unittitle>
+                  <unitdate>Mar. 9 - 17, 1935</unitdate>
+               </did>
+               <scopecontent>
+                  <p>Chapters 32-40. Itinerary includes Rhodes, Dardanelles, Istanbul, Bosporus, Black Sea, Athens, Corfu, Jugoslavia, Venice.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref72" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Mediterranean Cruise (v. V),</unittitle>
+                  <unitdate>Mar. 19-29, 1935</unitdate>
+               </did>
+               <scopecontent>
+                  <p>Chapters 41-47. Itinerary includes Sicily, Messina, Taormina, Naples, Pompei, Mt. Vesuvius, Island of Elba, Monte Carlo, Monaco, The Riviera, Nice; and in Holland, Rotterdam, Delft, The Hague, Aalsmeer, Amsterdam, Edam, Volendam, Zuyder Zee, Utrech.</p>
+               </scopecontent>
+            </c02>
+         </c01>
+         <c01 id="ref75" level="file">
+            <did>
+               <unittitle>Around the World on a Dollar</unittitle>
+               <unitdate>1936</unitdate>
+            </did>
+            <scopecontent>
+               <p>Dr. Stanley was ship's doctor on the S. S. 
+                        <emph render="italic">President Harrison</emph> of the Dollar Steamship Lines.</p>
+            </scopecontent>
+            <c02 id="ref76" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Around the World on a Dollar (v. I),</unittitle>
+                  <unitdate>Oct. 8 - Nov. 8, 1936</unitdate>
+               </did>
+               <scopecontent>
+                  <p>Summary of previous trips. Preparation and departure. Honolulu, Kobe, Shanghai, Kowloon, Hong Kong.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref78" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Around the World on a Dollar (v. II),</unittitle>
+                  <unitdate>Nov. 9-29, 1936</unitdate>
+               </did>
+               <scopecontent>
+                  <p>Itinerary includes Manila, Singapore, Island of Penang, Ceylon, Bombay.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref80" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Around the World on a Dollar (v. III),</unittitle>
+                  <unitdate>Dec. 5, 1936-Jan. 12, 1937</unitdate>
+               </did>
+               <scopecontent>
+                  <p>Itinerary includes Red Sea, Gulf of Suez, Cairo, Alexandria (by train), Naples, Genoa, Marseilles, Gibraltar, New York. Travel to Flint, Michigan by train, San Francisco by car.</p>
+               </scopecontent>
+            </c02>
+         </c01>
+         <c01 id="ref83" level="file">
+            <did>
+               <unittitle>Mixing in Mexico</unittitle>
+               <unitdate>1937</unitdate>
+            </did>
+            <scopecontent>
+               <p>Dr. Stanley took a train trip to Guadalajara for the meeting of Pacific Association of Railway Surgeons, October 8-9, 1937, and then a pack trip into the countryside.</p>
+            </scopecontent>
+            <c02 id="ref84" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Mixing in Mexico (v. I),</unittitle>
+                  <unitdate>June - Oct. 11, 1937</unitdate>
+               </did>
+               <scopecontent>
+                  <p>Diary includes correspondence regarding the meeting and covers the train to Guadalajara and pack trip to Juanacatlan, San Juan.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref86" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Mixing in Mexico (v. II),</unittitle>
+                  <unitdate>Oct. 12-19, 1937</unitdate>
+               </did>
+               <scopecontent>
+                  <p>Itinerary includes Jocotpec, San Luis Soyatlan, Tuscueca, Chapala, Tepic, Culiacan, Nogales, and back.</p>
+               </scopecontent>
+            </c02>
+         </c01>
+         <c01 id="ref89" level="file">
+            <did>
+               <unittitle>American President Lines Cruises</unittitle>
+               <unitdate>1959-1963</unitdate>
+            </did>
+            <scopecontent>
+               <p>Volumes 35-1 through 36-2 are paperbound travel logs of cruises to the Orient on the American President Lines on which Dr. Stanley served as ship's doctor. In almost all of these cruises, the itinerary was: San Francisco, Honolulu, Yokohama, Hong Kong, Manila, Hong Kong, Kobe, Yokohama and/or Kowloon, Honolulu, San Francisco.</p>
+            </scopecontent>
+            <c02 id="ref90" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>S. S. 
+                            <emph render="italic">President Wilson, </emph>
+                  </unittitle>
+                  <unitdate>April 5 - May 19, 1959</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref91" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>S. S. 
+                            <emph render="italic">President Wilson, </emph>
+                  </unittitle>
+                  <unitdate>Sept. 4 -Nov. 15, 1959</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref92" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>S. S. 
+                            <emph render="italic">President Hoover, </emph>
+                  </unittitle>
+                  <unitdate>Nov. 7 -Dec. 19, 1961</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref93" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>S. S. 
+                            <emph render="italic">President Wilson, </emph>
+                  </unittitle>
+                  <unitdate>Apr. 24 -June 3, 1961</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref94" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>S. S. 
+                            <emph render="italic">President Hoover, </emph>
+                  </unittitle>
+                  <unitdate>June 15 -July 29, 1961</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref95" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>S. S. 
+                            <emph render="italic">President Hoover</emph> (includes a stop in Okinawa),</unittitle>
+                  <unitdate>Aug. 29 - Oct. 9, 1962</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref96" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>S. S. 
+                            <emph render="italic">President Cleveland, </emph>
+                  </unittitle>
+                  <unitdate>Oct. 28 - Dec. 1962</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref97" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>S. S. 
+                            <emph render="italic">President Cleveland, </emph>
+                  </unittitle>
+                  <unitdate>May - June, 1963</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref98" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>S. S. 
+                            <emph render="italic">President Roosevelt, </emph>
+                  </unittitle>
+                  <unitdate>Oct. 1 - Nov. 11, 1963</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref100" level="file">
+            <did>
+               <unittitle>Miscellaneous Diaries</unittitle>
+               <unitdate>1920-1965</unitdate>
+            </did>
+            <c02 id="ref101" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Medical Articles by Stanley,</unittitle>
+                  <unitdate>1920-1930</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref102" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Medical Articles by Stanley,</unittitle>
+                  <unitdate>1930-1940</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref103" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Miscellaneous articles by Stanley from 
+                            <title render="italic" linktype="simple">The Centaur, </title>
+                  </unittitle>
+                  <unitdate>1941-1960</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref104" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Newspaper articles by Stanley in the 
+                            <title render="italic" linktype="simple">San Miguel Banner, </title>
+                  </unittitle>
+                  <unitdate>Sept. - Oct. 1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref105" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Maps, correspondence, ship paraphernalia, and newspaper articles about and/or by Stanley</unittitle>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

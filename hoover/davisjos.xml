@@ -1,0 +1,500 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  
+  
+  
+  
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" repositoryencoding="iso15511" findaidstatus="edited-full-draft" langencoding="iso639-2b"><eadid countrycode="us" identifier="ark:/13030/tf909nb37n" mainagencycode="CSt-H" publicid="PUBLIC &quot;-//Stanford University::Hoover Institution Archives//TEXT&#10;(US::CSt-H::::Joseph S. Davis Papers)//EN&quot; &quot;davisjos.sgm&quot;">davisjos.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Preliminary Inventory to the Joseph Stancliffe Davis Papers, <date calendar="gregorian" era="ce">1918-1972</date></titleproper><titleproper type="filing">Davis (Joseph S.) Papers</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Hoover Institution Archives</publisher>
+        <address>
+          <addressline>Stanford University</addressline>
+          <addressline>Stanford, California 94305-6010</addressline>
+          <addressline>Phone: (650) 723-3563</addressline>
+          <addressline>Fax: (650) 725-3445</addressline>
+          <addressline>Email: hooverarchives@stanford.edu</addressline>
+        </address>
+        <date calendar="gregorian" era="ce">&#xA9; 1999</date>
+        <p>Hoover Institution Archives. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc><profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data Services,
+<date calendar="gregorian" era="ce">February 1999</date></creation>
+      <langusage>Description is in <language langcode="eng" scriptcode="latn">English</language></langusage>
+    </profiledesc><revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20110321">March 21, 2011</date>
+        <item>revised to update encoding and add unitid</item>
+      </change>
+
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//Stanford University::Hoover Institution Archives//TEXT
+(US::CSt-H::::Joseph S. Davis Papers)//EN" "davisjos.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Preliminary Inventory to the Joseph Stancliffe Davis Papers, <date calendar="gregorian" era="ce">1918-1972</date></titleproper>
+      <publisher>Hoover Institution Archives
+<lb/>Stanford University
+<lb/>Stanford, California</publisher>
+      <list type="simple">
+        <head>Contact Information</head>
+        <item>Hoover Institution Archives</item>
+        <item>Stanford University</item>
+        <item>Stanford, California 94305-6010</item>
+        <item>Phone: (650) 723-3563</item>
+        <item>Fax: (650) 725-3445</item>
+        <item>Email: hooverarchives@stanford.edu</item>
+      </list>
+      <p>&#xA9; 1999 Hoover Institution Archives. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection">
+    <did id="did-1.7.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">Joseph Stancliffe Davis Papers, </unittitle>
+	<unitdate calendar="gregorian" era="ce" normal="1918/1972">1918-1972</unitdate>
+      <unitid label="Collection number" repositorycode="CSt-H" countrycode="US">41001</unitid>
+      <origination label="Creator">
+        <persname rules="aacr2">Davis, Joseph Stancliffe, 1885-</persname>
+      </origination>
+            <physdesc label="Collection Size" encodinganalog="300$a">
+		<extent>7 manuscript boxes </extent>
+		<extent>(2.9 linear feet)</extent>
+		</physdesc>
+      <repository label="Repository">
+        <corpname>Hoover Institution Archives</corpname>
+        <address>
+          <addressline>Stanford, California 94305-6010</addressline>
+        </address>
+      </repository>
+      <abstract label="Abstract">Writings, reports, memoranda, correspondence, and printed matter, relating to American agricultural policy during the presidential administration of Herbert Hoover, the Federal Farm Board, economic conditions in Europe, and the Dawes Commission on German reparations.</abstract>
+	<physloc label="Physical Location">Hoover Institution Archives</physloc>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <descgrp id="descgrp-1.7.2" type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict>
+        <head>Access</head>
+        <p>Collection open for research.</p><p>The Hoover Institution Archives only allows access to <emph 
+render="italic">copies</emph> of audiovisual items. To listen to sound recordings or to 
+view videos or films during your visit, please contact the Archives at least two working 
+days before your arrival. We will then advise you of the accessibility of the material you 
+wish to see or hear. Please note that not all audiovisual material is immediately 
+accessible.</p>
+      </accessrestrict>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>For copyright status, please contact
+the Hoover Institution Archives.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Joseph Stancliffe Davis Papers, [Box no.], Hoover Institution
+Archives.</p>
+      </prefercite>
+    </descgrp>
+    <controlaccess id="controlaccess-1.7.3">
+      <head>Access Points</head>
+      <persname rules="aacr2">Dawes, Charles Gates, 1865-1951.</persname>
+      <persname rules="aacr2">Hoover, Herbert, 1874-1964.</persname>
+      <corpname>Allied Maritime Transport Council (1918-1919)</corpname>
+      <corpname>Inter-Allied Commission for Reparations.</corpname>
+      <corpname>United States. Federal Farm Board.</corpname>
+      <subject>Agriculture--United States.</subject>
+      <subject>World War, 1914-1918.</subject>
+      <subject>World War, 1914-1918--Reparations.</subject>
+      <geogname>Europe.</geogname>
+      <geogname>Europe--Economic conditions--1918-1945.</geogname>
+      <geogname>Germany.</geogname>
+      <geogname>Germany--Economic conditions--1918-1945.</geogname>
+      <geogname>United States--Politics and government.</geogname>
+      <geogname>United States--Foreign relations.</geogname>
+      <occupation source="lcsh">Economists.</occupation>
+    </controlaccess>
+    <dsc id="dsc-1.7.4" type="in-depth">
+      <head>Container List</head>
+      <c01 id="c01-1.7.4.2">
+        <did>
+          <container type="Box">1</container>
+          <unittitle>Two (2) indexes of the Federal Farm Board Press Releases.</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.3">
+        <did>
+          <unittitle>News Digest (1933-incomplete) issued by the Agricultural Adjustment Administration.</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.4">
+        <did>
+          <unittitle>Farm Credit Administration Press Releases <unitdate calendar="gregorian" era="ce">(November 1933).</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.5">
+        <did>
+          <unittitle>Department of Agriculture, Weekly News Service Releases, <unitdate calendar="gregorian" era="ce">1933.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.6">
+        <did>
+          <unittitle>Federal Farm Board Press Releases <unitdate calendar="gregorian" era="ce">(1929).</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.7">
+        <did>
+          <container type="Box">2</container>
+          <unittitle>Federal Farm Board Press Releases <unitdate calendar="gregorian" era="ce">(1930).</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.8">
+        <did>
+          <container type="Box">3</container>
+          <unittitle>Federal Farm Board Press Releases <unitdate calendar="gregorian" era="ce">(1931-1933).</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.9">
+        <did>
+          <container type="Box">4</container>
+          <unittitle>Wheat, Canada</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.10">
+        <did>
+          <unittitle>Wheat, China</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.11">
+        <did>
+          <unittitle>Wheat, Danube</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.12">
+        <did>
+          <unittitle>Wheat, Europe</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.13">
+        <did>
+          <unittitle>Wheat, Germany</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.14">
+        <did>
+          <unittitle>Wheat, India</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.15">
+        <did>
+          <unittitle>Wheat, Russia</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.16">
+        <did>
+          <unittitle>Wheat, Campaign</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.17">
+        <did>
+          <unittitle>Wheat, Exports and Shipments</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.18">
+        <did>
+          <unittitle>Wheat, Foreign Tariffs, etc.</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.19">
+        <did>
+          <unittitle>Wheat, Future Trading</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.20">
+        <did>
+          <unittitle>Wheat, Import - Requirements</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.21">
+        <did>
+          <unittitle>Wheat, International Conference</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.22">
+        <did>
+          <unittitle>Wheat, Milling</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.23">
+        <did>
+          <unittitle>Wheat, Outlook</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.24">
+        <did>
+          <unittitle>Wheat, Plans</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.25">
+        <did>
+          <unittitle>Wheat, Pure Analysis</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.26">
+        <did>
+          <unittitle>Wheat, Prices</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.27">
+        <did>
+          <unittitle>Wheat, Production</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.28">
+        <did>
+          <unittitle>Wheat, Readjustments</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.29">
+        <did>
+          <unittitle>Wheat, Relief</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.30">
+        <did>
+          <unittitle>Wheat, Speculation</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.31">
+        <did>
+          <unittitle>Wheat, Stabilization Operations</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.32">
+        <did>
+          <unittitle>Wheat, Stabilization</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.33">
+        <did>
+          <unittitle>Wheat, Storage</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.34">
+        <did>
+          <unittitle>Wheat, Visibles</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.35">
+        <did>
+          <container type="Box">5</container>
+          <unittitle>Business situation <unitdate calendar="gregorian" era="ce">(1930-1931)</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.36">
+        <did>
+          <unittitle>European economic situation <unitdate calendar="gregorian" era="ce">(1930-1931)</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.37">
+        <did>
+          <unittitle>Federal Farm Board, economic conditions (Gt. Brit., Australia, <unitdate calendar="gregorian" era="ce">1930-1931)</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.38">
+        <did>
+          <unittitle>Economist's conference, <unitdate calendar="gregorian" era="ce">May 18-19, 1931.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.39">
+        <did>
+          <unittitle>Foreign Service <unitdate calendar="gregorian" era="ce">(1930-1931)</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.40">
+        <did>
+          <unittitle>Cotton co-op. policy (annual report material)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.41">
+        <did>
+          <unittitle>Corn</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.42">
+        <did>
+          <unittitle>Grapefruit</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.43">
+        <did>
+          <unittitle>Millfeed</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.44">
+        <did>
+          <unittitle>Rice</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.45">
+        <did>
+          <unittitle>Wool</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.46">
+        <did>
+          <unittitle>Various commodities</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.47">
+        <did>
+          <unittitle>Cotton Policy</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.48">
+        <did>
+          <unittitle>Federal Farm Board, Economics Division memo (unclassified), <unitdate calendar="gregorian" era="ce">(August 1931 and October 1931)</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.49">
+        <did>
+          <unittitle>Cotton Statement</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.50">
+        <did>
+          <unittitle>Federal Farm Board - Wheat Statements</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.51">
+        <did>
+          <unittitle>Hoover War Library</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.52">
+        <did>
+          <unittitle>Davis, Joseph S.</unittitle>
+        </did>
+        <c02 id="c02-1.7.4.52.2">
+          <did>
+            <unittitle>Personal data</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.52.3">
+          <did>
+            <unittitle>Trip to London, <unitdate calendar="gregorian" era="ce">1918-1919</unitdate>
+(Shipping Mission)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.52.4">
+          <did>
+            <unittitle>London correspondence, <unitdate calendar="gregorian" era="ce">1918-1919</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.52.5">
+          <did>
+            <unittitle>Notes on Allied Maritime Transport Council experience, <unitdate calendar="gregorian" era="ce">1919</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.4.53">
+        <did>
+          <container type="Box">6</container>
+          <unittitle>Drafts to pt.1, chapter 3 <title linktype="simple" render="doublequote">European and International Developments, 1919-29, </title>of <title render="italic">The World Between the Wars, </title><unitdate era="ce" calendar="gregorian"><title render="italic">1919-39 </title>(1975),</unitdate>
+by Joseph S. Davis, p. 44-81</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.54">
+        <did>
+          <unittitle><title linktype="simple" render="doublequote">International Debts in Retrospect and Prospect, </title>by J.S. Davis (Institute of Politics, <unitdate calendar="gregorian" era="ce">1927)</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.55">
+        <did>
+          <unittitle><title linktype="simple" render="doublequote">The Next 100 Years of the American Statistical Association. </title>(Reprint from the <title render="italic">Journal of the American Statistical Association, </title><unitdate calendar="gregorian" era="ce">March 1940,</unitdate>
+vol. 35, pt. 2, p. 261-272)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.56">
+        <did>
+          <unittitle>
+            <title linktype="simple" render="doublequote">Reflections on Strengths; Deterioration, and Problems of University Departments, </title>
+            <unitdate calendar="gregorian" era="ce">1963</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.57">
+        <did>
+          <unittitle><title linktype="simple" render="doublequote">The Work of the Dawes Committee. </title>Lecture, <unitdate calendar="gregorian" era="ce">1924</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.58">
+        <did>
+          <unittitle><title linktype="simple" render="doublequote">Report of Committees of Experts to Reparation Commission</title>; Report of the First Committee of Experts. <unitdate calendar="gregorian" era="ce">1924</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.59">
+        <did>
+          <unittitle>
+            <title linktype="simple" render="doublequote">Notes on Interviews in Europe from J.S. Davis.</title>
+          </unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.60">
+        <did>
+          <unittitle>Correspondence</unittitle>
+        </did>
+        <c02 id="c02-1.7.4.60.2">
+          <did>
+            <unittitle>
+              <unitdate calendar="gregorian" era="ce">1921-1926</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.4.61">
+        <did>
+          <container type="Box">7</container>
+          <unittitle>Correspondence</unittitle>
+        </did>
+        <c02 id="c02-1.7.4.61.2">
+          <did>
+            <unittitle>Raymond Henle, Director of the Herbert Hoover Oral History Program</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.61.3">
+          <did>
+            <unittitle>Herbert Hoover</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.61.4">
+          <did>
+            <unittitle>Hoover Papers &amp; Comments (correspondence with H.M. Creech, E. Holman, H. Fisher, and others, re J. Davis' article Herbert Hoover, <unitdate calendar="gregorian" era="ce">1874-1964;</unitdate>
+another appraisal)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.61.5">
+          <did>
+            <unittitle>Sir Cyril Hurcomb</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.61.6">
+          <did>
+            <unittitle>Sir Arthur Salter</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.4.62">
+        <did>
+          <unittitle>Miscellanea</unittitle>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

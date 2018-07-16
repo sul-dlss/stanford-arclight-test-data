@@ -1,0 +1,1523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[John George Herriot papers])//EN"
+             identifier="ark:/13030/kt5870395m">sc0745.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the John George Herriot Papers
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Herriot (John George) Papers</titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2010-10">October 2010</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC0745</unitid>
+         <origination label="Creator:">
+            <persname rules="aacr" source="ingest">Herriot, John George, 1916-</persname>
+         </origination>
+         <unittitle label="Title:">John George Herriot papers</unittitle>
+         <unitdate normal="1937/1992"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1937-1992</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>8 Linear feet</extent>
+         </physdesc>
+         <abstract label="Summary:">These papers document his career as a mathematician and include his notes taken while a student at Brown University, 1937-41, and his master's and doctoral theses, 1940-41; research files (notes, computations, articles, computer printouts, some correspondence, and other materials) on Fourier series, Schlicht functions, spline theory, and other topics, 1940-83; memos, minutes, correspondence, and other records pertaining to Stanford's Dept. of Computer Sciences and the Stanford Computation Center, 1946-92; correspondence, notes, and reports pertaining to his Fulbright year, 1962-63; and bibliographic and biographical materials. Other persons represented in the papers include Carl De Boor, C. H. Reinsch, and Larry L. Schumaker.</abstract>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <accessrestrict id="ref3">
+            <head>Information about Access</head>
+            <p>This collection is open for research.</p>
+         </accessrestrict>
+         <userestrict id="ref4">
+            <head>Ownership &amp; Copyright</head>
+            <p>All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Special Collections and University Archives, Stanford University Libraries, Stanford, California 94304-6064. Consent is given on behalf of Special Collections as the owner of the physical items and is not intended to include or imply permission from the copyright owner. Such permission must be obtained from the copyright owner, heir(s) or assigns. See: http://library.stanford.edu/depts/spc/pubserv/permissions.html.</p>
+            <p>Restrictions also apply to digital representations of the original materials. Use of digital files is restricted to research and educational purposes.</p>
+         </userestrict>
+         <prefercite id="ref5">
+            <head>Cite As</head>
+            <p>John George Herriot Papers (SC0745). Department of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <bioghist id="ref6">
+         <head>Biographical/Historical Sketch</head>
+         <p>John G. Herriot earned his B.S. in mathematics and physics at the University of Manitoba in 1937 and his Ph.D. in mathematics at Brown University in 1941. He first taught at Stanford from 1942-1944, leaving to do research in the Ames Aeronautical Laboratory at Moffett Field. He returned to Stanford in 1946 as assistant professor of mathematics, becoming full professor in 1956; he retired from teaching in 1982. He served as the first directory of the Stanford Computation Center, 1953-61, taught the first programming course at Stanford in 1955, and helped found the computer science department at Stanford in 1965. He died in 2003.</p>
+      </bioghist>
+      <scopecontent id="ref7">
+         <head>Description of the Collection</head>
+         <p>These papers document his career as a mathematician and include his notes taken while a student at Brown University, 1937-41, and his master's and doctoral theses, 1940-41; research files (notes, computations, articles, computer printouts, some correspondence, and other materials) on Fourier series, Schlicht functions, spline theory, and other topics, 1940-83; memos, minutes, correspondence, and other records pertaining to Stanford's Dept. of Computer Sciences and the Stanford Computation Center, 1946-92; correspondence, notes, and reports pertaining to his Fulbright year, 1962-63; and bibliographic and biographical materials. Other persons represented in the papers include Carl De Boor, C. H. Reinsch, and Larry L. Schumaker.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <persname rules="aacr" source="ingest">De Boor, Carl.</persname>
+         <persname rules="aacr" source="ingest">Herriot, John George, 1916-</persname>
+         <persname rules="aacr" source="ingest">Reinsch, C. H.</persname>
+         <persname rules="aacr" source="ingest">Schumaker, Larry L., 1939-</persname>
+         <corpname rules="dacs" source="naf">Stanford University. Computer Science Department.</corpname>
+         <corpname rules="dacs" source="naf">Stanford University. Department of Mathematics.</corpname>
+         <subject source="LCSH">Fourier integral operators.</subject>
+         <subject source="LCSH">Mathematical analysis.</subject>
+         <subject source="LCSH">Mathematics --Study and teaching (Higher).</subject>
+         <subject source="LCSH">Numerical analysis.</subject>
+         <subject source="LCSH">Spline theory.</subject>
+         <subject source="LCSH">Univalent functions.</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.6">
+         <head>Collection Contents</head>
+         <c01 id="ref8" level="series">
+            <did>
+               <unitid>Accession ARCH-2005-069</unitid>
+               <unittitle>Papers</unittitle>
+            </did>
+            <c02 id="ref9" level="file">
+               <did>
+                  <unittitle>Research files</unittitle>
+               </did>
+               <c03 id="ref10" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Capacity – check of Aissen, Haegi, Ullman</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref11" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Capacity – Polya 1948</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref12" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Capacity 1948 (1)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref13" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Capacity 1948 (2)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref14" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Capacity 1948 (3)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref15" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Ames 755 (Laitone – subsonic flow) 1946</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref16" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Ames 4412 (shock waves) 1945</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref17" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Cauchy's problem 3rd order (1)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref18" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Cauchy's problem 3rd order (2)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref19" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">10</container>
+                     <unittitle>Cauchy's problem 3rd order (3)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref20" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Matrix D.E. – adjoint</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref21" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">12</container>
+                     <unittitle>Lens</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref22" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">13</container>
+                     <unittitle>Lens (2)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref23" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">14</container>
+                     <unittitle>Lens polarization</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref24" level="file">
+                  <did>
+                     <container type="Box"/>
+                     <container type="Folder"/>
+                     <unittitle>0</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref25" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Lens 1948</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref26" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Fov. Series proposed work</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref27" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Analytic function with a singular line</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref28" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Free boundary flows</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref29" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Mapping – lecture notes</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref30" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Fou. Series – thesis (1 of 3)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref31" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Fou. Series – thesis (2 of 3)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref32" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Fou. Series – thesis (3 of 3)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref33" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Restricted Reist summability</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref34" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Fou. Series. Preliminary calculations. Doc. thesis</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref35" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Fou. Series (Orders of Infinity) – thesis</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref36" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Fou. Series and other topics – papers presented 1940-50</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref37" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Cesano summability</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref38" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">5</container>
+                     <unittitle>D. D. S.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref39" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Th'M Proofs</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref40" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Flow – Polya notes, 1940-</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref41" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Fou. Series 1952</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref42" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Tunnel blockage corrections, JO 837 (1 of 2)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref43" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">10</container>
+                     <unittitle>Tunnel blockage corrections, JO 837 (2 of 2)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref44" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">11</container>
+                     <unittitle>[History notes re mathematics]</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref45" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">12</container>
+                     <unittitle>Restricted Reist summability</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref46" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">13</container>
+                     <unittitle>Brown U. math Ph.D.s 1946</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref47" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Historical material 1946-66</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref48" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Schlicht fcns [functions]</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref49" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Schlicht functions</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref50" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Schlicht fcns</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref51" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Schlicht fcns</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref52" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Schlicht fcns</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref53" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Schlicht fcns</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref54" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Schlicht fcns</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref55" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Schlicht functions</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref56" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Schlicht fcns</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref57" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Odd Schlicht functions – UN-23</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref58" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">3</container>
+                     <unittitle>UN-23 (1, 2, 3, 4)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref59" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">4</container>
+                     <unittitle>UN-23 (5-12)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref60" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">5</container>
+                     <unittitle>UN-23 (13-16)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref61" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">6</container>
+                     <unittitle>[Odd Schlicht functions – UN-23]</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref62" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Odd Schlicht functions</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref63" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Odd Schlicht functions – program</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref64" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Odd Schlicht functions</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref65" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Odd Schlicht functions</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref66" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Odd Schlicht functions by = 1.01</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref67" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Garrett Birkhoff, correspondence May 1983</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref68" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Forsythe ONR contract 1958-69</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref69" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Bierberbach-De Branges (paper by Walter Gautschi)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref70" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">6</container>
+                     <unittitle>UN-23 by=1.0064635</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref71" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Henrici NA symposium, Zurich 1983, paper [by Herriot]</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref72" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Boundary values symposium, U. of Wisconsin, 1959</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref73" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Notes from AMS meeting, Seattle, Aug. 1956</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref74" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">10</container>
+                     <unittitle>AFCALTI, Toulouse 1963</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref75" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">1</container>
+                     <unittitle>ICM Warsaw 1982-83</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref76" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Algol to CACM Sept. 1960 [corrections to algorithm 15]</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref77" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Bergman-Herriot [drafts, notes, computations for paper], 1965</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref78" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Copies of paper submitted to IFIP 68, November 1967 [On the Numerical Calculation of Transonic Flow Patterns by Bergman's Integral Operator]</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref79" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Bergman - problems</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref80" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Bergman-Herriot, notes and computations</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref81" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Bergman – Herriot</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref82" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Bergman-Herriot-Richman, 1965</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref83" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Bergman-Herriot, early calculations</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref84" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">10</container>
+                     <unittitle>Herriot-Bergman paper [Computation of a Class of Subsonic Flow Patterns], Numerische Mathematik, 1971</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref85" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Bergman-Herriot results 1960-61</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref86" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">12</container>
+                     <unittitle>IBM meeting photo, 1958</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref87" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">13</container>
+                     <unittitle>Annals of the History of Computing, IBM 650, May 1984</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref88" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Computer Center Division meeting 1959</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref89" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Complete Spline 1980-81, MDRBLD development - 1</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref90" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Complete Spline 1980-81, MDRBLD development - 2</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref91" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Complete Splines 1980-81</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref92" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Spline function NATSPLINE Development</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref93" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Spline functions seminar, Tech. Huch. Munchen, W.S. 1969/70</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref94" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Complete Spline 4-80</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref95" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Reinsch notes – Spline stuff, 1976</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref96" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Complete Spline Spring 1983</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref97" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">10</container>
+                     <unittitle>Com Spline Fall 1982</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref98" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Complete Spine: letters to Coughran and changes 1980-81</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref99" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Spline files at SCIP and run of pubtests, 1975/76</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref100" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">2</container>
+                     <unittitle>NATSPINE 1976-77</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref101" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">3</container>
+                     <unittitle>de Boor – Perfect Splines 1975</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref102" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Complete Spline: M=1 case 9-80</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref103" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Complete Spline: Cochran tests 1981</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref104" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Quintic Spline – Reinsch CS 402</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref105" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Herriot – original of submission to Alg Dept 6-17-74 ("Procedures for Quintic Natural Spline Interpolation [E1]")</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref106" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Alg 472 changes</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref107" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Splines – smoothing – Reinsch / Forsythe correspondence</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref108" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">10</container>
+                     <unittitle>Splines – Herriot reprints</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref109" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Complete splines scaling attempts 1982</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref110" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">12</container>
+                     <unittitle>Complete splines decay tests 1981</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref111" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">13</container>
+                     <unittitle>NSF – statements</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref112" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">14</container>
+                     <unittitle>Mathematical and Computational Science, S.U. undergraduate booklets, 1989-92</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref113" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">15</container>
+                     <unittitle>History of Scientific and Numeric Computation [conference], 1987</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref114" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">16</container>
+                     <unittitle>Splines – comments on paper of John R. Rice, 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref115" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Spline functions seminar, Madison, May 1969</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref116" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Spline functions seminar SU, Summer 1969</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref117" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Alg 472, inquiry from Emily C. M. Funk, 1974 [includes photos of graphs]</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref118" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Spline functions literature</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref119" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Splines – Reinsch algs listings 1971</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref120" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Alg 507/600 translation</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref121" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Submitted to Algorithms (Alg 507), 1974 [mostly correspondence]</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref122" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Spline – Quintic – Morgana</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref123" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Reinsch (Christian) correspondence (Splines) 1973-76</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref124" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">10</container>
+                     <unittitle>References of interest Splines and others</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref125" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">11</container>
+                     <unittitle>CUB NATSPINE / NATSPINE using de Boor 1976</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref126" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">12</container>
+                     <unittitle>Splines CS-71-200 – changes and additional errata</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref127" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">13</container>
+                     <unittitle>Splines Schumaker 6-76</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref128" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Schumaker (Larry) correspondence, Splines, 1975-77</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref129" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">2</container>
+                     <unittitle>de Boor example, no response, 1975</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref130" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">3</container>
+                     <unittitle>B-Splines - de Boor 1976</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref131" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Complete Spline 1976-77</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref132" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Spline tests – Natspline and DEBNAT 1976</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref133" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Splines – B-Splines – de Boor, 1975-77</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref134" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Splines – NATSPLINE – Lewis (John) mod, 1974</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref135" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Spline talks, Australia and Zurich, 1977</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref136" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Spline talks, Australia and Zurich - overhead slides , 1977</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref137" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">10</container>
+                     <unittitle>Int. Conference of Mathematicians, Quintic Natural Splines, Aug. 1974</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref138" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">11</container>
+                     <unittitle>NUM ANAL – Spline functions – SU, April 18, 1974</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref139" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">12</container>
+                     <unittitle>Coughran, Herriot – refereeing 1983</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref140" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">13</container>
+                     <unittitle>Coughran complete splines 1976-77</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref141" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">14</container>
+                     <unittitle>Splines – Alg 472-CACM Dec. 1973</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref142" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">15</container>
+                     <unittitle>Splines – Alg 472-CACM 1973 Reprints</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref143" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">16</container>
+                     <unittitle>Spline notes 1969-71</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref144" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">17</container>
+                     <unittitle>Unlabelled materials [correspondence and notes re NATSPLINE?]</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref145" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Unlabelled materials [notes re compressible fluids?]</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref146" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Reprint of H. Spath with correspondence, 1970, 1973</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref147" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Reprint of C. S. Duris with correspondence 1975</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref148" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Engineering rules</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref149" level="file">
+               <did>
+                  <unittitle>Stanford University files</unittitle>
+               </did>
+               <c03 id="ref150" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Computer Science Dept., Advisory Committee, photo, Oct. 1967</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref151" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Computer Science Dept., early theses, 1960-70</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref152" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Computer Science Dept., memos, minutes, etc., 1971-74</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref153" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Computer Science Dept., memos, minutes, etc., 1989-90</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref154" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Computer Science Dept., memos, minutes, etc., 1991-92</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref155" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <container type="Folder">10</container>
+                     <unittitle>Forsythe (George) memorials</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref156" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Mandatory retirement discussion, 1979</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref157" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <container type="Folder">12</container>
+                     <unittitle>Math Dept., search committee, 1956</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref158" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <container type="Folder">13</container>
+                     <unittitle>Mu Alpha Theta, Stanford meeting, 1959</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref159" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <container type="Folder">14</container>
+                     <unittitle>Obituaries – Polya and Szego</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref160" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <container type="Folder">15</container>
+                     <unittitle>Patent agreement: SU – JGH</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref161" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <container type="Folder">16</container>
+                     <unittitle>Polya (George) memorial resolutions</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref162" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <container type="Folder">17</container>
+                     <unittitle>Ratings of Computer Science Department</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref163" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <container type="Folder">18</container>
+                     <unittitle>Retirement, 1981-83</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref164" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <container type="Folder">19</container>
+                     <unittitle>Sabbatical rules and applications, 1969-79</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref165" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <container type="Folder">20</container>
+                     <unittitle>Stanford Computation Center – early history, 1953-61</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref166" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <container type="Folder">21</container>
+                     <unittitle>Stanford Computation Center Research reports catalogue 1964</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref167" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Stanford Computation Center status, NSF letters 1954-56</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref168" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Stanford – High School math exams 1946-55</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref169" level="file">
+               <did>
+                  <unittitle>Fulbright, Sabbatical, and Other Travel Files</unittitle>
+               </did>
+               <c03 id="ref170" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Fullbright application – notes, correspondence 1961</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref171" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Fullbright – correspondence and reports, 1962-63</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref172" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Fullbright 1962-63</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref173" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Fullbright and other trips, 1963</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref174" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <container type="Folder">7</container>
+                     <unittitle>General information – European travels, 1962-63</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref175" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Groupe de Travail d'Analyse Numerique – Grenoble 1962-63</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref176" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Fulbright materials</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref177" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <container type="Folder">10</container>
+                     <unittitle>IFIP travel, IFIP Congress 1968</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref178" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Sabbatical 1980, Munich, correspondence including ETH</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref179" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <container type="Folder">12</container>
+                     <unittitle>Travel records 1978-83</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref180" level="file">
+               <did>
+                  <unittitle>Biographical, bibliographic, and personal files</unittitle>
+               </did>
+               <c03 id="ref181" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <container type="Folder">13</container>
+                     <unittitle>Biography, bibliography [Herriot]</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref182" level="file">
+                  <did>
+                     <container type="Box">14</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Interview with John Herriot conducted by Pamela McCorduck, Charles Babbage Institute, 1979</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref183" level="file">
+                  <did>
+                     <container type="Box">14</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Reprints sent</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref184" level="file">
+                  <did>
+                     <container type="Box">14</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Inventory [mathematical journals dispersed to libraries]</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref185" level="file">
+               <did>
+                  <unittitle>Student Notebooks</unittitle>
+               </did>
+               <c03 id="ref186" level="file">
+                  <did>
+                     <container type="Box">14</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Notebook: Proj. Geom. Probs. Book I, 1937</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref187" level="file">
+                  <did>
+                     <container type="Box">14</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Notebook: Proj. Geom. Probs. Book II, 1938</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref188" level="file">
+                  <did>
+                     <container type="Box">14</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Notebook: Algebra</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref189" level="file">
+                  <did>
+                     <container type="Box">14</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Notebook: Algebra Book II</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref190" level="file">
+                  <did>
+                     <container type="Box">14</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Notebook: Analysis 1</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref191" level="file">
+                  <did>
+                     <container type="Box">14</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Notebook: Analysis 2</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref192" level="file">
+                  <did>
+                     <container type="Box">14</container>
+                     <container type="Folder">10</container>
+                     <unittitle>Notebook: Analysis 3</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref193" level="file">
+                  <did>
+                     <container type="Box">14</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Notebook: Analysis – abstract spaces (Differential Geometry) 1938-39</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref194" level="file">
+                  <did>
+                     <container type="Box">14</container>
+                     <container type="Folder">12</container>
+                     <unittitle>Notebook: Maths. V Probs. (Differential equations) 1937</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref195" level="file">
+                  <did>
+                     <container type="Box">14</container>
+                     <container type="Folder">13</container>
+                     <unittitle>Notebook: Maths. V Mechanics, Complex Variables</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref196" level="file">
+                  <did>
+                     <container type="Box">15</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Notebook: Mechanics [and possibly other topics]</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref197" level="file">
+                  <did>
+                     <container type="Box">15</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Notebook: untitled, 1937</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref198" level="file">
+                  <did>
+                     <container type="Box">15</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Notebook: Herriot, "Cesaro Summability of Ordinary Double Dirichlet Series" (Brown University master's thesis 1938); Herriot, "Tides and Tide Prediction" Brown University 1940</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref199" level="file">
+                  <did>
+                     <container type="Box">15</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Notebook: Herriot, "Norlund Summability of Double Fourier Series" (Brown University Ph.D. thesis 1941)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref200" level="file">
+                  <did>
+                     <container type="Box">15</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Class notes by Herriot, Brown University: Theory of Functions of One Real Variable (Prof. C. R. Adams) 1937-38</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref201" level="file">
+                  <did>
+                     <container type="Box">15</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Class notes by Herriot, Brown University: Theory of Probabilities (Prof. J. D. Tamarkin) 1938-39</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref202" level="file">
+                  <did>
+                     <container type="Box">16</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Class notes by Herriot, Brown University: Theory of Integration Linear Functionals etc. (Prof. J. D. Tamarkin) 1940-41</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref203" level="file">
+                  <did>
+                     <container type="Box">16</container>
+                     <container type="Folder">2</container>
+                     <unittitle>[Class notes by Herriot, Brown University]: on introductory theorems, computation of Fourier series, convergence of Fourier series, summability of Fourier series, complex methods in Fourier series, and absolute convergence of Fourier series, n.d. [no title page but same binding as previous Brown University notebooks]</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref204" level="file">
+               <did>
+                  <unittitle>Writings and reprints</unittitle>
+               </did>
+               <c03 id="ref205" level="file">
+                  <did>
+                     <container type="Box">16</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Herriot, "Calculation of particular solutions of linear partial differential equations by the method of integral operators," n.d.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref206" level="file">
+                  <did>
+                     <container type="Box">16</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Herriot et. al., "Bell Floating-Decimal interpretive system for the Burroughs 220," Stanford University Computation Center, n.d.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref207" level="file">
+                  <did>
+                     <container type="Box">16</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Reprints of Herriot's articles 1940s</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref208" level="file">
+                  <did>
+                     <container type="Box">16</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Reprints of Herriot's articles 1950s</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref209" level="file">
+                  <did>
+                     <container type="Box">17</container>
+                     <unittitle>Reprints of Herriot's articles 1960s-80s</unittitle>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

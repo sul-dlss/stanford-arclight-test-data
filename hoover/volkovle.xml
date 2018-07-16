@@ -1,0 +1,960 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  
+  
+  
+  
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" repositoryencoding="iso15511" findaidstatus="unverified-full-draft" langencoding="iso639-2b"><eadid countrycode="us" identifier="ark:/13030/tf167n986x" mainagencycode="CSt-H" publicid="PUBLIC &quot;-//Stanford University::Hoover Institution Archives//TEXT (US::CSt-H::::Leon Volkov Papers)//EN&quot; &quot;volkovle.sgm&quot;">volkovle.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Register of the Leon Volkov Papers, <date calendar="gregorian" era="ce">1948-1974</date></titleproper><titleproper type="filing">Volkov (Leon) Papers</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Hoover Institution Archives</publisher>
+        <address>
+          <addressline>Stanford University</addressline>
+          <addressline>Stanford, California 94305-6010</addressline>
+          <addressline>Phone: (650) 723-3563</addressline>
+          <addressline>Fax: (650) 725-3445</addressline>
+          <addressline>Email: hooverarchives@stanford.edu</addressline>
+        </address>
+        <date calendar="gregorian" era="ce">&#xA9; 1999</date>
+        <p>Hoover Institution Archives. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc><profiledesc>
+      <creation>Processed by Ronald Bulatoff, November 1977; Text converted and initial EAD tagging provided by Apex Data Services,
+<date calendar="gregorian" era="ce">June, 1999.</date>
+Supplementary encoding and revision supplied by James Ryan.</creation>
+<langusage>Description is in <language langcode="eng" scriptcode="latn">English</language></langusage>
+    </profiledesc><revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//Stanford University::Hoover Institution Archives//TEXT (US::CSt-H::::Leon Volkov Papers)//EN" "volkovle.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+     <change>
+      <date calendar="gregorian" era="ce" normal="20120813">August 13, 2012</date>
+      <item>Revised to update encoding and add unitid by Jill Golden</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Register of the Leon Volkov Papers, <date calendar="gregorian" era="ce">1948-1974</date></titleproper>
+      <publisher>Hoover Institution Archives
+<lb/>Stanford University
+<lb/>Stanford, California</publisher>
+      <list type="simple">
+        <head>Contact Information</head>
+        <item>Hoover Institution Archives</item>
+        <item>Stanford University</item>
+        <item>Stanford, California 94305-6010</item>
+        <item>Phone: (650) 723-3563</item>
+        <item>Fax: (650) 725-3445</item>
+        <item>Email: hooverarchives@stanford.edu</item>
+      </list>
+      <list type="deflist">
+        <defitem>
+          <label>Processed by: </label>
+          <item>Ronald M. Bulatoff</item>
+        </defitem>
+        <defitem>
+          <label>Date Completed: </label>
+          <item>November 1977</item>
+        </defitem>
+      </list>
+      <p>&#xA9; 1999 Hoover Institution Archives. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection">
+    <did id="did-1.7.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">Leon Volkov Papers, </unittitle><unitdate calendar="gregorian" era="ce" type="inclusive">1948-1974</unitdate>
+<unitid label="Collection number" repositorycode="CSt-H" countrycode="US">77088</unitid>
+      <origination label="Creator">
+        <persname>Volkov, Leon, 1914-1974</persname>
+      </origination>
+      <physdesc label="Collection Size" encodinganalog="300$a">
+		<extent>7 manuscript boxes</extent>
+		<extent>2.9 linear feet)</extent>
+	</physdesc>
+      <repository label="Repository">
+        <corpname>Hoover Institution Archives</corpname>
+        <address>
+          <addressline>Stanford, California 94305-6010</addressline>
+        </address>
+      </repository>
+      <abstract label="Abstract">Diaries, correspondence, speeches and writings, reports, clippings, press excerpts, and printed matter, relating to social and political conditions in the Soviet Union, Soviet foreign policy, international politics, and Russian refugee life</abstract>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <descgrp id="descgrp-1.7.2" type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict>
+        <head>Access</head>
+        <p>Collection open for research.</p>
+<p>The Hoover Institution Archives only allows access to <emph render="italic">copies</emph> of audiovisual items. To listen to sound recordings or to view videos or films during your visit, please contact the Archives at least two working days before your arrival. We will then advise you of the accessibility of the material you wish to see or hear. Please note that not all audiovisual material is immediately accessible.</p>
+      </accessrestrict>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>For copyright status, please contact
+the Hoover Institution Archives.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Leon Volkov Papers, [Box no.], Hoover Institution
+Archives.</p>
+      </prefercite>
+<acqinfo encodinganalog="541">
+ <head>Acquisition Information</head>
+ <p>Acquired by the Hoover Institution Archives in 1977.</p>
+</acqinfo>
+<accruals encodinganalog="525"><head>Accruals</head>
+<p>Materials may have been added to the collection since this finding aid was prepared. To determine if this has occurred, find the collection in Stanford University's online catalog at <extref linktype="simple" href="http://searchworks.stanford.edu/" actuate="onrequest" show="new"> http://searchworks.stanford.edu/</extref>. Materials have been added to the collection if the number of boxes listed in the online catalog is larger than the number of boxes listed in this finding aid.</p>
+</accruals>
+    </descgrp>
+    <controlaccess id="controlaccess-1.7.3">
+      <head>Access Points</head>
+      <title linktype="simple">Newsweek</title>
+      <subject>Civil rights--Soviet Union</subject>
+      <subject>Dissenters--Soviet Union</subject>
+      <subject>Jews--Soviet Union</subject>
+      <subject>Russians in foreign countries</subject>
+      <subject>World politics</subject>
+      <geogname>Soviet Union</geogname>
+      <geogname>Russia (Federation)</geogname>
+      <geogname>Soviet Union--Foreign relations</geogname>
+      <geogname>Soviet Union--Politics and government--1936-1953</geogname>
+      <geogname>Soviet Union--Politics and government--1953-1985</geogname>
+      <geogname>Soviet Union--Social conditions</geogname>
+      <geogname>United States--Foreign relations</geogname>
+      <occupation>Journalists</occupation>
+    </controlaccess>
+    <dsc id="dsc-1.7.4" type="analyticover">
+      <head>Series Decription</head>
+      <c01 id="c01-1.7.4.2" level="series">
+        <did>
+          <unittitle>Diary, <unitdate calendar="gregorian" era="ce">1968, 1972-74.</unitdate></unittitle>
+          <container type="Box">Box No. 1</container>
+        </did>
+        <scopecontent>
+          <p>Diary and diary notes, arranged chronologically.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.4.3" level="series">
+        <did>
+          <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce">1948-1973.</unitdate></unittitle>
+          <container type="Box">Box No. 1</container>
+        </did>
+        <scopecontent>
+          <p>Correspondence arranged alphabetically by last name of correspondent.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.4.4" level="series">
+        <did>
+          <unittitle>Speeches and Writings, <unitdate calendar="gregorian" era="ce">1948-1971.</unitdate></unittitle>
+          <container type="Box">Box No. 1-3</container>
+        </did>
+        <scopecontent>
+          <p>Drafts and printed copies of speeches and writings, arranged alphabetically by title.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.4.5" level="series">
+        <did>
+          <unittitle>Subject File, <unitdate calendar="gregorian" era="ce">1948-1973.</unitdate></unittitle>
+          <container type="Box">Box No. 3-7</container>
+        </did>
+        <scopecontent>
+          <p>Correspondence, notes, memoranda, reports, clippings, printed matter, etc., arranged alphabetically by subject.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.4.6" level="series">
+        <did>
+          <unittitle>Miscellany.</unittitle>
+          <container type="Box">Box No. 7</container>
+        </did>
+        <scopecontent>
+          <p>Clippings, miscellaneous printed matter, notes, etc.</p>
+        </scopecontent>
+      </c01>
+    </dsc>
+    <dsc id="dsc-1.7.5" type="in-depth">
+      <head>Container list</head>
+      <c01 id="c01-1.7.5.2" level="series">
+        <did>
+          <unittitle>Diaries, <unitdate calendar="gregorian" era="ce">1968, 1972-74</unitdate></unittitle>
+          <container type="Box">Box No. 1</container>
+        </did>
+        <c02 id="c02-1.7.5.2.2">
+          <did>
+            <container type="Box">1</container>
+            <unittitle>
+              <unitdate calendar="gregorian" era="ce">February 1968</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.2.3">
+          <did>
+            <unittitle>
+              <unitdate calendar="gregorian" era="ce">December 1972 - January 1974</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.5.3" level="series">
+        <did>
+          <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce">1948-1973</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.5.3.2">
+          <did>
+            <container type="Box">1</container>
+            <unittitle>A.B.C. Press Service (Amsterdam), <unitdate calendar="gregorian" era="ce">1948</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.3.3">
+          <did>
+            <unittitle>American Committee for the Liberation of the Peoples of Russia, Inc., <unitdate calendar="gregorian" era="ce">1952</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.3.4">
+          <did>
+            <unittitle>Berg, H. T., <unitdate calendar="gregorian" era="ce">1953</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.3.5">
+          <did>
+            <unittitle>Berlingske Tidende (Copenhagen), <unitdate calendar="gregorian" era="ce">1948</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.3.6">
+          <did>
+            <unittitle>Blackstock, Paul W., <unitdate calendar="gregorian" era="ce">1963-64</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.3.7">
+          <did>
+            <unittitle>Chekhov Publishing House (New York), <unitdate calendar="gregorian" era="ce">1951</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.3.8">
+          <did>
+            <unittitle>East European Fund, Inc. (New York), <unitdate calendar="gregorian" era="ce">1951</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.3.9">
+          <did>
+            <unittitle>Free Russia Fund, Inc. (New York), <unitdate calendar="gregorian" era="ce">1951</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.3.10">
+          <did>
+            <unittitle>Garthoff, Raymond L., <unitdate calendar="gregorian" era="ce">1951</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.3.11">
+          <did>
+            <unittitle>Hatch, Richard W., <unitdate calendar="gregorian" era="ce">1952</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.3.12">
+          <did>
+            <unittitle><emph render="italic">Herald Tribune </emph>(New York), <unitdate calendar="gregorian" era="ce">1951</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.3.13">
+          <did>
+            <unittitle>Hovell, B. B., <unitdate calendar="gregorian" era="ce">1952</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.3.14">
+          <did>
+            <unittitle>Kamkin, Victor (bookstore), <unitdate calendar="gregorian" era="ce">1963</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.3.15">
+          <did>
+            <unittitle>Kelly, Edna F., <unitdate calendar="gregorian" era="ce">1952</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.3.16">
+          <did>
+            <unittitle>Klay, Andor, <unitdate calendar="gregorian" era="ce">1973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.3.17">
+          <did>
+            <unittitle>Kline, Harry Byrd, <unitdate calendar="gregorian" era="ce">1973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.3.18">
+          <did>
+            <unittitle>Korbel, J. J., <unitdate calendar="gregorian" era="ce">1953</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.3.19">
+          <did>
+            <unittitle>Leigh, W. Colston, Inc. (New York), <unitdate calendar="gregorian" era="ce">1963-66</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.3.20">
+          <did>
+            <unittitle>Massachusetts Institute of Technology, <unitdate calendar="gregorian" era="ce">1952</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.3.21">
+          <did>
+            <unittitle>Milanytch, Athanas M., <unitdate calendar="gregorian" era="ce">1953</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.3.22">
+          <did>
+            <unittitle>Mylk, Eugene A., <unitdate calendar="gregorian" era="ce">1953</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.3.23">
+          <did>
+            <unittitle>Ory, Joseph S., <unitdate calendar="gregorian" era="ce">1953</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.3.24">
+          <did>
+            <unittitle>Picozzi, Mary, <unitdate calendar="gregorian" era="ce">1953</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.3.25">
+          <did>
+            <unittitle>The Rand Corporation, <unitdate calendar="gregorian" era="ce">1951</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.3.26">
+          <did>
+            <unittitle>Scribner's Publishing Company (New York), <unitdate calendar="gregorian" era="ce">1971</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.3.27">
+          <did>
+            <unittitle>Sperber, Richard, <unitdate calendar="gregorian" era="ce">1953</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.3.28">
+          <did>
+            <unittitle>Stanley, John, <unitdate calendar="gregorian" era="ce">1951</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.3.29">
+          <did>
+            <unittitle>Trabue, William, <unitdate calendar="gregorian" era="ce">1951-52</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.3.30">
+          <did>
+            <unittitle>Traylor, Idris R., Jr., <unitdate calendar="gregorian" era="ce">1968</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.3.31">
+          <did>
+            <unittitle>U. S. Department of Justice. Office of the Attorney General., <unitdate calendar="gregorian" era="ce">1953</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.3.32">
+          <did>
+            <unittitle>U.S. Department of State. Division of Research for USSR and Eastern Europe., <unitdate calendar="gregorian" era="ce">1952</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.3.33">
+          <did>
+            <unittitle>Miscellaneous</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.5.4" level="series">
+        <did>
+          <unittitle>Speeches and Writings, <unitdate calendar="gregorian" era="ce">1948-1971</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.5.4.2">
+          <did>
+            <container type="Box">1</container>
+            <unittitle>
+              <title render="doublequote">Abraham Abramovich</title>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.4.3">
+          <did>
+            <unittitle>
+              <title render="doublequote">An Attempt at an Autobiography,</title>
+              <unitdate calendar="gregorian" era="ce">February 8, 1971</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.4.4">
+          <did>
+            <unittitle>Clippings of published articles by L. Volkov, <unitdate calendar="gregorian" era="ce">1948-1959</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.4.5">
+          <did>
+            <unittitle>
+              <title render="doublequote">Control of the Soviet Army</title>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.4.6">
+          <did>
+            <unittitle>
+              <title render="doublequote">David and Tovarishch</title>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.4.7">
+          <did>
+            <unittitle><title render="doublequote">Devushki - Smertnitsy</title> (Women of Death). English translation included.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.4.8">
+          <did>
+            <unittitle>
+              <title render="doublequote">Georgi Malenkov</title>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.4.9">
+          <did>
+            <unittitle>
+              <title render="doublequote">Klimentii Efremovich Voroshilov</title>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.4.10">
+          <did>
+            <unittitle>
+              <title render="doublequote">Letter to the Russian People</title>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.4.11">
+          <did>
+            <unittitle>
+              <title render="doublequote">Guerrilla Warfare</title>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.4.12">
+          <did>
+            <unittitle>Interview with R. L. Garthoff, <unitdate calendar="gregorian" era="ce">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.4.13">
+          <did>
+            <container type="Box">2</container>
+            <unittitle>
+              <title render="doublequote">The Long-Range Air Force of the Soviet Union</title>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.4.14">
+          <did>
+            <unittitle>
+              <title render="doublequote">A Partisan Detachment in European USSR</title>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.4.15">
+          <did>
+            <unittitle>
+              <title render="doublequote">The Pit of Death</title>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.4.16">
+          <did>
+            <unittitle><title render="doublequote">Plan - Efektivnaia Psikhologicheskaia Voina Protiv Sovetskoi Armii v Mirnoe Vremia i vo Vremia Voiny</title> (A Plan - Effective Psychological Warfare Against the Soviet Army in Peacetime and During War)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.4.17">
+          <did>
+            <unittitle><title render="doublequote">Printsipial'nye Razgovory - Tsikl Radio Peredach Dlia Sovetskikh Ofitserov</title> (Principal Conversations - A Cycle of Radio Broadcasts for Soviet Officers)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.4.18">
+          <did>
+            <unittitle>Proposed projects</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.4.19">
+          <did>
+            <unittitle>
+              <title render="doublequote">The Red Army and the Army of the U.S.A.</title>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.4.20">
+          <did>
+            <unittitle>
+              <title render="doublequote">The Soviet Army and the West,</title>
+              <unitdate calendar="gregorian" era="ce">October 1948</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.4.21">
+          <did>
+            <unittitle>
+              <title render="doublequote">The Soviet Officer</title>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.4.22">
+          <did>
+            <unittitle>
+              <title render="doublequote">Soviet Partisans</title>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.4.23">
+          <did>
+            <unittitle><title render="doublequote">Soviet Society: Attitudes and Reactions</title> (in Russian)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.4.24">
+          <did>
+            <unittitle>
+              <title render="doublequote">Soviet Society and Soviet Man Today</title>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.4.25">
+          <did>
+            <unittitle><title render="doublequote">Spasenie Sbitogo Letchika</title> (Rescue of a Shot Down Pilot)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.4.26">
+          <did>
+            <unittitle>Speaking engagements</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.4.27">
+          <did>
+            <unittitle><title render="doublequote">Stena Placha</title> (Wailing Wall)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.4.28">
+          <did>
+            <container type="Box">3</container>
+            <unittitle><title render="doublequote">Tainy Dvizhenii Kremlia</title> (Secrets of Kremlin Operations)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.4.29">
+          <did>
+            <unittitle>
+              <title render="doublequote">Two Worlds</title>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.4.30">
+          <did>
+            <unittitle><title render="doublequote">Vysshii Politicheskii Komandnyi Sostav Sovetskoi Armii</title> (Higher Political Command Structure of the Soviet Army)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.4.31">
+          <did>
+            <unittitle>
+              <title render="doublequote">Ya Yevrey - I'm a Jew,</title>
+              <unitdate calendar="gregorian" era="ce">March 23, 1971</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.4.32">
+          <did>
+            <unittitle>Miscellaneous drafts and notes</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.5.5" level="series">
+        <did>
+          <unittitle>Subject File, <unitdate calendar="gregorian" era="ce">1948-1973</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.5.5.2">
+          <did>
+            <container type="Box">3</container>
+            <unittitle>Agreements and contracts</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.5.3">
+          <did>
+            <unittitle>Agreements between the government of the United States and Leon Volkov, <unitdate calendar="gregorian" era="ce">1951-52</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.5.4">
+          <did>
+            <unittitle>American Political Science Association</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.5.5">
+          <did>
+            <unittitle>Association of Former Servicemen of the Soviet Army</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.5.6">
+          <did>
+            <unittitle>Association of Post-war Refugees from the Soviet Union</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.5.7">
+          <did>
+            <unittitle>Boiter, Albert, <title render="doublequote">Five Years of `Samizdat' - A Bibliography,</title><unitdate calendar="gregorian" era="ce">April 1971</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.5.8">
+          <did>
+            <unittitle>Brzezinski, Zbigniew</unittitle>
+          </did>
+          <c03 id="c03-1.7.5.5.8.2">
+            <did>
+              <unittitle><title render="doublequote">American Globalism</title> (reprint, <emph render="italic">Survey, </emph>No. 58, <unitdate calendar="gregorian" era="ce">January 1966)</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.5.8.3">
+            <did>
+              <unittitle><title render="doublequote">Five Years After Khrushchev</title> (reprint, <emph render="italic">Survey, </emph>No. 72, <unitdate calendar="gregorian" era="ce">Summer 1969)</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.5.8.4">
+            <did>
+              <unittitle><title render="doublequote">The Soviet Past and Future</title> (reprint, Encounter, <unitdate calendar="gregorian" era="ce">March 1970)</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.5.5.9">
+          <did>
+            <container type="Box">4</container>
+            <unittitle>Clippings on Leon Volkov, <unitdate calendar="gregorian" era="ce">1953-54</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.5.10">
+          <did>
+            <unittitle>Columbia University. School of International Affairs. <title render="doublequote">The Soviet Union and Arms Control: Report on a Study of Soviet Attitudes Toward Arms Control and Disarmament.</title> Prepared for the United States Arms Control and Disarmament Agency, <unitdate calendar="gregorian" era="ce">1963-64</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.5.11">
+          <did>
+            <unittitle>Danilov, Vladimir Stepanovich, <title render="doublequote">Serious Talks - Cycle of Broadcasts to Soviet Officers</title></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.5.12">
+          <did>
+            <unittitle>East-West transactions as reported in the press, <unitdate calendar="gregorian" era="ce">June 1972 - August 1973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.5.13">
+          <did>
+            <unittitle>Expenditures, expenses, financial matters</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.5.14">
+          <did>
+            <unittitle>Freedom Foundation 1950 Awards Presentation, New York</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.5.15">
+          <did>
+            <unittitle>Goralik, Nikolai, a Soviet refugee's description of conditions in the Soviet Union just before World War II</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.5.16">
+          <did>
+            <unittitle>Iurasov, S., <title render="doublequote">Na Repetitsii `Letchikov' </title> (At a Rehearsal of <title render="doublequote">Pilots</title>)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.5.17">
+          <did>
+            <unittitle>Klay, Andor C.</unittitle>
+          </did>
+          <c03 id="c03-1.7.5.5.17.2">
+            <did>
+              <unittitle>Curriculum vitae</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.5.17.3">
+            <did>
+              <unittitle>
+                <title render="doublequote">Disputes</title>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.5.17.4">
+            <did>
+              <unittitle>
+                <title render="doublequote">Doctrine</title>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.5.17.5">
+            <did>
+              <unittitle>
+                <title render="doublequote">The Vanishing Crown</title>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.5.5.18">
+          <did>
+            <unittitle>Koriakov, Mikhail, <title render="doublequote">Partiinaia Liniia</title> (Party Line)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.5.19">
+          <did>
+            <unittitle>Malakov, Sergei</unittitle>
+          </did>
+          <c03 id="c03-1.7.5.5.19.2">
+            <did>
+              <unittitle>
+                <title render="doublequote">The Fugitives,</title>
+                <unitdate calendar="gregorian" era="ce">April 1954</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.5.19.3">
+            <did>
+              <unittitle><title render="doublequote">Letchiki</title> (The Fliers)</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.5.19.4">
+            <did>
+              <unittitle><title render="doublequote">Lichnoe Schast'e</title> (Personal Happiness)</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.5.19.5">
+            <did>
+              <container type="Box">5</container>
+              <unittitle><title render="doublequote">Piesa v 3-kh Deistviiakh</title> (A Play in 3 Acts)</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.5.19.6">
+            <did>
+              <unittitle><title render="doublequote">Zhizn' Vtoraia</title> (Second Life)</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.5.5.20">
+          <did>
+            <unittitle>Moorer, Admiral Thomas H., <title render="doublequote">United States Military Posture for FY 1974,</title> a statement before the Senate Armed Services Committee, <unitdate calendar="gregorian" era="ce">March 28, 1973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.5.21">
+          <did>
+            <unittitle><emph render="italic">Newsweek </emph>magazine</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.5.22">
+          <did>
+            <unittitle>Nieman Fellowship, Harvard University, <unitdate calendar="gregorian" era="ce">1963</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.5.23">
+          <did>
+            <unittitle>
+              <title render="doublequote">The Night They Raided Minsky's,</title>
+              <unitdate calendar="gregorian" era="ce">1961-63</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.5.24">
+          <did>
+            <unittitle>Novosti Press Agency (Moscow)</unittitle>
+          </did>
+          <c03 id="c03-1.7.5.5.24.2">
+            <did>
+              <unittitle>Dadyants, Georgi, <title render="doublequote">Confidence in the Prospects of Development - President Pompidou Ends His Tour of the Soviet Union</title></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.5.24.3">
+            <did>
+              <unittitle>Pekarsky, Leonid, <title render="doublequote">The USSR: Rhythm of Economy</title></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.5.24.4">
+            <did>
+              <unittitle>
+                <title render="doublequote">Soviet Jews: Facts and Fiction</title>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.5.5.25">
+          <did>
+            <unittitle>Oral statement of Steven Lazarus, Deputy Assistant Secretary for East-West Trade, Department of Commerce, before the Joint Economic Committee of the United States, <unitdate calendar="gregorian" era="ce">July 19, 1973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.5.26">
+          <did>
+            <unittitle>Peterson, Peter G., <title render="doublequote">U.S. - Soviet Commercial Relationships in a New Era,</title><unitdate calendar="gregorian" era="ce">August 1972</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.5.27">
+          <did>
+            <unittitle><title render="doublequote">Pis'mo A. D. Sakharova, V. F. Turchina i R. A. Medvedeva Rukovoditeliam Partii i Pravitel'stva</title> (A Letter from A. D. Sakharov, V. F. Turchin and R. A. Medvedv to the Leaders of the Party and the Government), <unitdate calendar="gregorian" era="ce">March 19, 1970</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.5.28">
+          <did>
+            <unittitle>Press excerpts dealing with international news events</unittitle>
+          </did>
+          <c03 id="c03-1.7.5.5.28.2">
+            <did>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce">June 15, 1964 - February 13, 1965</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.5.28.3">
+            <did>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce">February 14, 1966 - October 8, 1966</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.5.28.4">
+            <did>
+              <container type="Box">6</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce">October 10, 1966 - September 30, 1967</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.5.28.5">
+            <did>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce">October 2, 1967 - August 10, 1968</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.5.28.6">
+            <did>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce">August 12, 1968 - June 14, 1969</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.5.28.7">
+            <did>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce">November 1973</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.5.5.29">
+          <did>
+            <unittitle><title render="doublequote">Programma Demokraticheskogo Dvizheniia Sovetskogo Soiuza</title> (The Program of the Democratic Movement of the Soviet Union)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.5.30">
+          <did>
+            <unittitle>Radio Liberty panel discussion of western <title render="doublequote">Samizdat</title> experts, <unitdate calendar="gregorian" era="ce">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.5.31">
+          <did>
+            <container type="Box">7</container>
+            <unittitle>
+              <title render="doublequote">The Radio Liberty Register of `Samizdat',</title>
+              <unitdate calendar="gregorian" era="ce">February 1971</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.5.32">
+          <did>
+            <unittitle>Radio Reports, Inc., texts of Leon Volkov's articles, <unitdate calendar="gregorian" era="ce">1953</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.5.33">
+          <did>
+            <unittitle>Sakharov, A. D. <title render="doublequote">Razmyshleniia o Progresse, Mirnom Sosushchestvovanii i Intellektual'noi Svobode</title> (Reflections on Progress, Peaceful Co-existence and Intellectual Freedom)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.5.34">
+          <did>
+            <unittitle>Shorin, Boris</unittitle>
+          </did>
+          <c03 id="c03-1.7.5.5.34.2">
+            <did>
+              <unittitle>
+                <title render="doublequote">The Life of a Soviet Jew</title>
+              </unittitle>
+            </did>
+            <c04 id="c04-1.7.5.5.34.2.2">
+              <did>
+                <unittitle>I. <title render="doublequote">Child of the Revolution</title></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.5.34.2.3">
+              <did>
+                <unittitle>II. <title render="doublequote">The Beginning of the War</title></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.5.5.34.2.4">
+              <did>
+                <unittitle>VII. <title render="doublequote">The Red Army in Europe</title></unittitle>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.5.5.35">
+          <did>
+            <unittitle><emph render="italic">The Soviet Review </emph>(White Plains, New York)</unittitle>
+          </did>
+          <c03 id="c03-1.7.5.5.35.2">
+            <did>
+              <unittitle>Vol. Xl, No. 2, <unitdate calendar="gregorian" era="ce">Summer 1970</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.5.35.3">
+            <did>
+              <unittitle>Vol. Xl, No. 1, <unitdate calendar="gregorian" era="ce">Spring 1970</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.5.5.36">
+          <did>
+            <unittitle>U.S. Department of Commerce. Bureau of the Census. Foreign Demographic Analysis Division.</unittitle>
+          </did>
+          <c03 id="c03-1.7.5.5.36.2">
+            <did>
+              <unittitle><title render="doublequote">Demographic Trends in the U.S.S.R.: 1950 to 1990,</title> by Frederick A. Leedy, <unitdate calendar="gregorian" era="ce">May 1971</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.5.5.36.3">
+            <did>
+              <unittitle><title render="doublequote">Manpower Trends in the U.S.S.R.: 1950 to 1980,</title> by Murray Frshback, <unitdate calendar="gregorian" era="ce">May 1971</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.5.5.37">
+          <did>
+            <unittitle>U.S. exports to the U.S.S.R. by major product groups, <unitdate calendar="gregorian" era="ce">1971-73</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.5.38">
+          <did>
+            <unittitle>U.S. trade status and prospects with socialist countries, <unitdate calendar="gregorian" era="ce">September 1973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.5.5.39">
+          <did>
+            <unittitle>Zasorin, V., <title render="doublequote">Kollektivnost' v rabote</title> (Collectivism in Action), (Partiinaia Zhizn', No. 3, <unitdate calendar="gregorian" era="ce">February 1969)</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.5.6" level="series">
+        <did>
+          <unittitle>Miscellany</unittitle>
+        </did>
+        <c02 id="c02-1.7.5.6.2">
+          <did>
+            <container type="Box">7</container>
+            <unittitle>Miscellaneous notes, printed matter and other material</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

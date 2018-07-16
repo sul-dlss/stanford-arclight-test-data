@@ -1,0 +1,2006 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[Guido H. Marx papers])//EN"
+             identifier="ark:/13030/tf3n39n6d0">sc0129.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Guido H. Marx Papers
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Marx (Guido H) Papers</titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2000">2000</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC0129</unitid>
+         <origination label="Creator:">
+            <persname rules="aacr" source="ingest" role=" ">Marx, Guido H.,  (Guido Hugo), 1871-1949.</persname>
+         </origination>
+         <unittitle label="Title:">Guido H. Marx papers</unittitle>
+         <unitdate normal="1893/1949"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1893-1949</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>7.5 Linear feet</extent>
+         </physdesc>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <descgrp type="provenance" id="prov">
+            <head>Provenance</head>
+            <custodhist id="ref6">
+               <p>Gift of Barbara Marx Givan, 1966, 1986, and 1990.</p>
+            </custodhist>
+         </descgrp>
+         <accessrestrict id="ref2">
+            <head>Information about Access</head>
+            <p>None.</p>
+         </accessrestrict>
+         <userestrict id="ref4">
+            <head>Ownership &amp; Copyright</head>
+            <p>Property rights reside with the repository. Literary rights reside with the creators of the documents or their heirs. To obtain permission to publish or reproduce, please contact the Public Services Librarian of the Dept. of Special Collections and University Archives.</p>
+         </userestrict>
+         <prefercite id="ref8">
+            <head>Cite As</head>
+            <p>[Identification of item], Guido H. Marx Papers, SC 129, Stanford University Archives, Stanford, Calif.</p>
+         </prefercite>
+         <bibliography audience="internal" id="ref18">
+            <head>Bibliography</head>
+            <bibref>Folder 1: The process of invention. 
+                <emph render="italic">Stanford Univ. Engineering Journal, </emph>May, 1897, pp. 69-71.</bibref>
+            <bibref>What should college professors be paid? 
+                <emph render="italic">Atlantic Monthly, </emph>v. 95, May, 1905, pp. 647-50.</bibref>
+            <bibref>Condition and needs of the Univ. of Calif. Discussion. 
+                <emph render="italic">Trans. Commonwealth Club, </emph>1907.</bibref>
+            <bibref>Value of drawing in practical life. 
+                <emph render="italic">Calif. Teachers' Quarterly, </emph>June, 1907, pp. 77-84.</bibref>
+            <bibref>Notes on machine drawing. Stanford University. 15p. 1905, 1907,</bibref>
+            <bibref>The making of the Stanford Engineer. 
+                <emph render="italic">Stanford Alumnus, </emph>Dec. 1907, p. 127-32.</bibref>
+            <bibref>Isometric plotting of graphical charts. 
+                <emph render="italic">Am. Mach., </emph>v. 31, Nov. 12, 1903, pp. 7-13</bibref>
+            <bibref>Report of committee of Cornell Club of Northern Calif. on improvement of salaries (with J.M. Chase and R.B. Daggett). 
+                <emph render="italic">Cornell Alumni News, </emph>May 6, 1908.</bibref>
+            <bibref>Folder 2: Some trends in higher education. 
+                <emph render="italic">Science, </emph>May 14, 1909, p. 759-97.</bibref>
+            <bibref>Reform in San Francisco. 
+                <emph render="italic">Nation, </emph>July 1, 1909.</bibref>
+            <bibref>Some trends in higher education. 
+                <emph render="italic">Science, </emph>July 16, 1909, p. 87-89.</bibref>
+            <bibref>The college forum. 
+                <emph render="italic">The American College, </emph>v. 1, no. 1, October 1909, pp. 56-68.</bibref>
+            <bibref>Folder 3: The problem of the assistant professor. 
+                <emph render="italic">Journal Assoc. of American Universities, </emph>1910, pp. 17-47; and 
+                <emph render="italic">Science, </emph>1910: pp. 401-406, 441-450, and 488-497.</bibref>
+            <bibref>Some trends in higher education. 
+                <emph render="italic">Calif. Weekly, </emph>June 10, 1910, p. 459-60.</bibref>
+            <bibref>Attendance of students at foreign universities. 
+                <emph render="italic">Science, </emph>v. 31, April 29, 1910.</bibref>
+            <bibref>University fellowships. 
+                <emph render="italic">Science, </emph>v. 33, March 31, 1911, pp. 491-92.</bibref>
+            <bibref>Folder 4: Should the same salary be paid to men bearing the same titles? 
+                <emph render="italic">Bryn Mawr Alumnae Quarterly, </emph>v. 5, p. 1-4, April, 1911.</bibref>
+            <bibref>Committee of Ten. Minority Report to the Academic Council. 18p. 1911. [Stanford University].</bibref>
+            <bibref>Strength of gear teeth. 
+                <emph render="italic">Trans. A.S.M.E., </emph>v. 34, p. 1323-98, 1912.</bibref>
+            <bibref>Strength of gear teeth. 2nd. paper. 
+                <emph render="italic">Trans. A.S.M.E., </emph>v. 37, p.503-30, 1915.</bibref>
+            <bibref>An engineer's acid test of patriotism. 
+                <emph render="italic">The Standard, </emph>v. 6, May, 1920.</bibref>
+            <bibref>Some comparative wear experiments on cast iron gear teeth (with L.E. Cutter and B.M Green). 
+                <emph render="italic">Mech. Engineering, </emph>v. 48, p. 33-36, Jan., 1926.</bibref>
+            <bibref>How to control public utilities. 
+                <emph render="italic">Nation, </emph>v. 132, no. 3430, April 1, pp. 348-50.</bibref>
+         </bibliography>
+      </descgrp>
+      <bioghist id="ref10">
+         <head>BIOGRAPHICAL NOTE</head>
+         <p>Guido H. Marx was born in Toledo, Ohio, in 1871. He attended Cornell University, earning the degree of mechanical engineer in 1893. He worked in industry for two years before joining the Stanford faculty in 1895, at the instigation of Albert W. Smith, his former professor at Cornell who, in collaboration with Guido's brother Charles D. Marx, was developing Stanford's new School of Engineering. He became professor of machine design in 1908; he retired in 1936 with the rank of Professor Emeritus.</p>
+         <p>In addition to authoring a treatise on 
+                <emph render="italic">Machine Design </emph>with Prof. Smith, his professional activities included research in the fields of gearing and bearing lubrication, advocating vocational guidance for Stanford students, co-founding the American Association of University Professors, and holding office in the American Federation of Teachers.</p>
+         <p>Prof. Marx was also actively involved in many political and social issues. In Palo Alto, he served on the planning commission and the School Board and played an instrumental role in the construction of its first municipal power plant. In 1911 he and Professor R.L. Green organized the local branch of the Progressive Party; Marx was the official delegate to its 1912 national convention. He was active in the American Civil Liberties Union, especially around issues of labor organization and repeal of the Criminal Syndicalism Law.</p>
+         <p>In 1895 Guido H. Marx married Gertrude Van Dusen, a member of the Cornell library staff; they had four children. He died in 1949.</p>
+      </bioghist>
+      <scopecontent id="ref16">
+         <head>Scope and Contents note</head>
+         <p>Additional papers were received in 1986 and 1990; they have been added to the collection as two addenda rather than interfiled with the previously processed papers. Each addition has been identified by its accession number (86-179 and 90-188) and is listed separately. When requesting materials from these additions, please indicate the accession number on the paging slip.</p>
+         <p>An index to selected correspondents in the entire collection is included in this guide, along with a listing of Guido Marx's articles and reprints in Box 3.</p>
+      </scopecontent>
+      <scopecontent id="ref12">
+         <head>SCOPE NOTE</head>
+         <p>The papers of Guido H. Marx include correspondence, speeches, a typed autobiography, reprints, press releases, clippings, minutes, reports, and pamphlets, 1898-1949, and Marx's thesis from Cornell, A Study of Special Tools and Methods Used in the Manufacture of Small Engines, 1893.</p>
+         <p>The papers document both his academic career at Stanford and his political interests. His academic life is represented by correspondence with faculty, 1898-1905; reprints of his engineering and educational articles; and minutes, reports, and other records from his departmental duties in the School of Engineering. His political life is represented by correspondence, speeches, articles, and pamphlets pertaining to efforts to repeal criminal syndicalism laws, labor and unionization efforts, the Sacco-Vanzetti case, cooperatives, and control of public utilities. Organizations appearing in his papers include the American Association of University Professors, the American Civil Liberties Union, the American Federation of Teachers, the Pacific Co-operative League, Inc., the National Popular Government League, the California State Water and Power League, and the People's Legislative Service.</p>
+      </scopecontent>
+      <arrangement id="ref14">
+         <head>Arrangement note</head>
+         <p>The first ten boxes of the collection consist of the original papers that were received and arranged in 1966. Only the letters in Box 1 were given full treatment, with incoming and outgoing letters arranged together chronologically. Other sections were arranged or left as received, depending upon the accessibility of the original arrangement. In some cases, letters pertinent to the subject were left in the appropriate folders rather than being integrated into the chronological arrangement.</p>
+      </arrangement>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <corpname rules="dacs" source="ingest" role=" ">American Association of University Professors..</corpname>
+         <corpname rules="dacs" source="ingest" role=" ">American Civil Liberties Union.</corpname>
+         <corpname rules="dacs" source="ingest" role=" ">American Federation of Teachers..</corpname>
+         <persname rules="aacr" source="ingest" role=" ">Baldwin, Roger N.,  (Roger Nash), 1884-1981.</persname>
+         <persname rules="aacr" source="naf" role=" ">Bliven, Bruce, 1889-1977</persname>
+         <persname rules="aacr" source="ingest" role=" ">Cooke, Morris Llewellyn,, 1872-1960.</persname>
+         <persname rules="aacr" source="ingest" role=" ">Coolidge, Mary Roberts,, 1860-1945.</persname>
+         <persname rules="aacr" source="ingest" role=" ">Flynn, Elizabeth Gurley.</persname>
+         <persname rules="aacr" source="ingest" role=" ">Frankfurter, Felix, 1882-1965.</persname>
+         <persname rules="aacr" source="ingest" role=" ">Hayes, E. A.,  (Everis Anson), 1855-1942.</persname>
+         <persname rules="aacr" source="ingest" role=" ">Hichborn, Franklin,, 1869-1963.</persname>
+         <persname rules="aacr" source="ingest" role=" ">Hill, Albert Ross.</persname>
+         <persname rules="aacr" source="naf" role=" ">Hoover, Herbert, 1874-1964</persname>
+         <persname rules="aacr" source="naf" role=" ">Jordan, David Starr, 1851-1931</persname>
+         <persname rules="aacr" source="ingest" role=" ">Jourdin, Willis W.</persname>
+         <persname rules="aacr" source="ingest" role=" ">Lewis, Austin,, 1865?-1944.</persname>
+         <persname rules="aacr" source="ingest" role=" ">Monroe, Paul,, 1869-1947.</persname>
+         <corpname rules="dacs" source="ingest" role=" ">National Popular Government League..</corpname>
+         <persname rules="aacr" source="ingest" role=" ">Norris, George W.,  (George William), 1861-1944.</persname>
+         <corpname rules="dacs" source="ingest" role=" ">Pacific Co-operative League, Inc..</corpname>
+         <corpname rules="dacs" source="ingest" role=" ">People's Legislative Service..</corpname>
+         <persname rules="aacr" source="ingest" role=" ">Rolfe, Henry W.</persname>
+         <persname rules="aacr" source="ingest" role=" ">Rowell, Chester H.</persname>
+         <persname rules="aacr" source="ingest" role=" ">Sinclair, Upton,, 1878-1968.</persname>
+         <corpname rules="dacs" source="ingest" role=" ">Stanford University. School of Engineering. -- General subdivision--Faculty.; </corpname>
+         <persname rules="aacr" source="ingest" role=" ">Veblen, Thorstein,, 1857-1929.</persname>
+         <persname rules="aacr" source="ingest" role=" ">Whitney, Anita,, 1867-1955.</persname>
+         <subject source="lcsh">Cooperative societies.</subject>
+         <subject source="lcsh">Criminal syndicalism.</subject>
+         <subject source="lcsh">Engineering--Study and teaching.</subject>
+         <subject source="lcsh">Public utilities--Law and legislation.</subject>
+         <subject source="lcsh">Public utilities.</subject>
+         <subject source="lcsh">Sacco-Vanzetti Trial, Dedham, Mass., 1921.</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.8">
+         <head>Collection Contents</head>
+         <c01 id="ref19" level="series">
+            <did>
+               <unittitle>Original Papers</unittitle>
+               <unitdate>1897-1949</unitdate>
+            </did>
+            <c02 id="ref20" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Correspondence</unittitle>
+                  <unitdate>1901-1912</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref21" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Correspondence</unittitle>
+                  <unitdate>1924-1926</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref22" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Correspondence</unittitle>
+                  <unitdate>1930-1949</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref23" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Correspondence from other Stanford faculty</unittitle>
+                  <unitdate>1898-1905</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref24" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Letters to his wife</unittitle>
+                  <unitdate>1912</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref25" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Letters between Joseph Dorfman and Marx</unittitle>
+                  <unitdate>1931-1935</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref26" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Criminal syndicalism correspondence</unittitle>
+                  <unitdate>1936</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref27" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Personal letters on retiring</unittitle>
+                  <unitdate>1936</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref28" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Speeches:</unittitle>
+               </did>
+               <c03 id="ref29" level="file">
+                  <did>
+                     <unittitle>(1) Scientific management</unittitle>
+                     <unitdate>(1913 or 1914),</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref30" level="file">
+                  <did>
+                     <unittitle>(2) A study of intelligence testing, with historical comment by Marx</unittitle>
+                     <unitdate>1926</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref31" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Speeches:</unittitle>
+               </did>
+               <c03 id="ref32" level="file">
+                  <did>
+                     <unittitle>(3) The rational of public utility ownership</unittitle>
+                     <unitdate>(1930),</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref33" level="file">
+                  <did>
+                     <unittitle>(4) War and the Conscientious Objector</unittitle>
+                     <unitdate>(1936),</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref34" level="file">
+                  <did>
+                     <unittitle>(5) Education at times of crisis</unittitle>
+                     <unitdate>(1936),</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref35" level="file">
+                  <did>
+                     <unittitle>(6) Engineering and social function (at New School),</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref36" level="file">
+                  <did>
+                     <unittitle>(7) The Engineer and the Social Sciences</unittitle>
+                     <unitdate>undated</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref37" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Speeches:</unittitle>
+               </did>
+               <c03 id="ref38" level="file">
+                  <did>
+                     <unittitle>(8) Economic aspects of the ownership of public utilities</unittitle>
+                     <unitdate>(1938),</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref39" level="file">
+                  <did>
+                     <unittitle>(9) The Scientific spirit in University Organization</unittitle>
+                     <unitdate>(1914),</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref40" level="file">
+                  <did>
+                     <unittitle>(10) Production-- what ails it?</unittitle>
+                     <unitdate>(1920),</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref41" level="file">
+                  <did>
+                     <unittitle>(11) Retrospect</unittitle>
+                     <unitdate>1924</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref42" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Speeches:</unittitle>
+               </did>
+               <c03 id="ref43" level="file">
+                  <did>
+                     <unittitle>(12) Some phases of motor automation</unittitle>
+                     <unitdate>(1916),</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref44" level="file">
+                  <did>
+                     <unittitle>(13) What do you propose to do about it?</unittitle>
+                     <unitdate>(1906),</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref45" level="file">
+                  <did>
+                     <unittitle>(14) The aim of engineering education</unittitle>
+                     <unitdate>(1911),</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref46" level="file">
+                  <did>
+                     <unittitle>(15) Untitled. Concerned with definition of an engineer and his values. Possibly Stanford Alumni Conference of 1935 (q.v.) Power--From the Engineer's Viewpoint,</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref47" level="file">
+                  <did>
+                     <unittitle>(16) Untitled</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref48" level="file">
+                  <did>
+                     <unittitle>(17) A critical examination of certain objections to the affiliation of teachers with the American Federation of Teachers</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref49" level="file">
+                  <did>
+                     <unittitle>(18) Lecture to P.T.A. concerning California Federation of Teachers.</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref50" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">13</container>
+                  <unittitle>1931 trip to Russia, includes short autobiography of experience.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref51" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Biographical material</unittitle>
+                  <unitdate>1901-1905</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref52" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">15</container>
+                  <unittitle>Biographical material</unittitle>
+                  <unitdate>1908-1920</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref53" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">16</container>
+                  <unittitle>Biographical material</unittitle>
+                  <unitdate>1921</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref54" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">17</container>
+                  <unittitle>Biographical material</unittitle>
+                  <unitdate>1924</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref55" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Biographical material</unittitle>
+                  <unitdate>1924-1927</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref56" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Biographical material</unittitle>
+                  <unitdate>1929-37</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref57" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Autobiography: Why so Hot, Little Man? (my scrapbook).</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref58" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Autobiography.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref59" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Autobiography--Stanford University.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref60" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Autobiography.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref61" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Autobiography: Talks--Part I.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref62" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Autobiography: Talks--Part II.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref63" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Autobiography: Salary Investigation.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref64" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Autobiography: Expulsion Case.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref65" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Autobiography: Appendix A.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref66" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Autobiography: Appendix B.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref67" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Autobiography: Appendix C.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref68" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Autobiography: Miscellaneous.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref69" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Articles</unittitle>
+                  <unitdate>1897-1908</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref70" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Articles</unittitle>
+                  <unitdate>1909</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref71" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Articles</unittitle>
+                  <unitdate>1910</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref72" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Articles</unittitle>
+                  <unitdate>1911-1931</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref73" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Report on depth-pressure records for oil wells.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref74" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Lecture: Man's Cooperation with Nature.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref75" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Lecture: Power--a political issue from an engineer's viewpoint.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref76" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">8</container>
+                  <unittitle>American Federation of Teachers-- California Section.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref77" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">9</container>
+                  <unittitle>American Federation of Teachers-- California Section.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref78" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">NF</container>
+                  <unittitle>Two books: 
+                            <emph render="italic">Machine Design. </emph>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref79" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">1</container>
+                  <unittitle>American Federation of Teachers-- California Section.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref80" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">2</container>
+                  <unittitle>American Federation of Teachers-- California Section.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref81" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">3</container>
+                  <unittitle>American Federation of Teachers-- California Section.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref82" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">4</container>
+                  <unittitle>American Federation of Teachers: articles, news releases.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref83" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">5</container>
+                  <unittitle>American Federation of Teachers: articles, news releases.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref84" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">6</container>
+                  <unittitle>American Federation of Teachers: articles, news releases.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref85" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Pacific Co-operative League, Inc.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref86" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Pacific Co-operative League, Inc.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref87" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Pacific Co-operative League, Inc.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref88" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Pacific Co-operative League, Inc.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref89" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Peninsular Economic Exchange.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref90" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">1</container>
+                  <unittitle>New School for Social Research: notes, lectures.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref91" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">2</container>
+                  <unittitle>New School for Social Research.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref92" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">3</container>
+                  <unittitle>New School for Social Research.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref93" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">4</container>
+                  <unittitle>New School for Social Research: Correspondence with Veblen.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref94" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Sacco-Vanzetti Case.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref95" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Water and Power Act.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref96" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">7</container>
+                  <unittitle>California State Water and Power League.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref97" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Hetch Hetchy.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref98" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Anon. Los Angeles fights the power trust.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref99" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Deposition of Francis J. Heney, Trial of Patrick. San Francisco graft trials.</unittitle>
+                  <unitdate>10 Mar, 1908</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref100" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Murphy Name Plate Scandal.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref101" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Vocational guidence studies.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref102" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Cornell salary report.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref103" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Intelligence tests.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref104" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Stanford Committees. Original sources.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref105" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">5</container>
+                  <unittitle>School of Engineering.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref106" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">6</container>
+                  <unittitle>School of Engineering: Curriculum Committee.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref107" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">7</container>
+                  <unittitle>School of Engineering: Curriculum Committee.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref108" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">8</container>
+                  <unittitle>School of Engineering: Curriculum Committee.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref109" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Mechanical Engineering Department: Business.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref110" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Mechanical Engineering 219--Seminar. Reading lists.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref111" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Mechanics applied to engineering. Exam.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref112" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Problems in machine design.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref113" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Citizenship Course, syllabus. Lecture: Man's Cooperation with Nature.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref114" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">2</container>
+                  <unittitle>University staff and salary data.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref115" level="file">
+               <did>
+                  <unittitle>Pamphlet Collection (listed by organization or subject):</unittitle>
+               </did>
+               <c03 id="ref116" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">3</container>
+                     <unittitle>American Association for Economics.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref117" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">4</container>
+                     <unittitle>American Civil Liberties Union.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref118" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">5</container>
+                     <unittitle>American Committee of Justice.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref119" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">6</container>
+                     <unittitle>American Economic League.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref120" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">7</container>
+                     <unittitle>American Federation of Labor.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref121" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">8</container>
+                     <unittitle>American Peace Society, Advocate of Peace.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref122" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Associated Railway Employees Organization.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref123" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">10</container>
+                     <unittitle>Barrados League.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref124" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">11</container>
+                     <unittitle>California Federation of Teachers.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref125" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">12</container>
+                     <unittitle>California State Federation of Labor.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref126" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">13</container>
+                     <unittitle>Conscientious Objectors.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref127" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">14</container>
+                     <unittitle>Co-operative Society of Weinstock, Lubin, and Company.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref128" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">15</container>
+                     <unittitle>Education Protective Association of America.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref129" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">16</container>
+                     <unittitle>Joseph Fels Fund of America.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref130" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">17</container>
+                     <unittitle>Free Speech League.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref131" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">18</container>
+                     <unittitle>Henry George, The Study of Political Economy.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref132" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">19</container>
+                     <unittitle>Franklin Hichborn, public utilities.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref133" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">20</container>
+                     <unittitle>Franklin Hichborn, articles and testimony of Eustace Cullinan before Senate Judiciary Committee.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref134" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Humanist Addresses</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref135" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">2</container>
+                     <unittitle>International Committee for Political Prisoners.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref136" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">3</container>
+                     <unittitle>I.W.W.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref137" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Japanese Association of America.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref138" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">5</container>
+                     <unittitle>League for Industrial Democracy.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref139" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Methodist Federation for Social Service.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref140" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Thomas Mooney (subject).</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref141" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">8</container>
+                     <unittitle>National Coal Association.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref142" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">9</container>
+                     <unittitle>National Conservation Association.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref143" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">10</container>
+                     <unittitle>New Crusade.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref144" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">11</container>
+                     <unittitle>National Popular Government League</unittitle>
+                     <unitdate>1923-26</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref145" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">12</container>
+                     <unittitle>National Popular Government League</unittitle>
+                     <unitdate>1927-28</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref146" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">13</container>
+                     <unittitle>National Popular Government League</unittitle>
+                     <unitdate>1929-30</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref147" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">1</container>
+                     <unittitle>National Popular Government League</unittitle>
+                     <unitdate>1931-33</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref148" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">2</container>
+                     <unittitle>National Popular Government League</unittitle>
+                     <unitdate>1934-45</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref149" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">3</container>
+                     <unittitle>National Popular Government League</unittitle>
+                     <unitdate>1946-49</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref150" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">4</container>
+                     <unittitle>National Popular Government League, Miscellaneous.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref151" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">5</container>
+                     <unittitle>National Popular Government League, pamphlets and clippings.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref152" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">6</container>
+                     <unittitle>National Progressive Campaign.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref153" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">7</container>
+                     <unittitle>National Progressive Convention.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref154" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">8</container>
+                     <unittitle>People's Legislative Service. (Ray Lyman Wilbur vs People's Legislative Service.)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref155" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">1</container>
+                     <unittitle>People's Legislative Service: The People's Business,</unittitle>
+                     <unitdate>1923-27</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref156" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">2</container>
+                     <unittitle>People's Legislative Service: The People's Business,</unittitle>
+                     <unitdate>1928-31</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref157" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Plumb Plan League.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref158" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Progressive Labor Party.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref159" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Progressive National Committee.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref160" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Public Ownership League of America.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref161" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Public Utilities.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref162" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Rand School of Social Service.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref163" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Rockefeller, John D., Jr.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref164" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">10</container>
+                     <unittitle>Single Tax.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref165" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Spreckles, Rudolph.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref166" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">12</container>
+                     <unittitle>Technocracy.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref167" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">13</container>
+                     <unittitle>Worker's Party of America.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref168" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">14</container>
+                     <unittitle>World Federation.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref169" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">15</container>
+                     <unittitle>Miscellaneous.</unittitle>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="ref170" level="series">
+            <did>
+               <unitid>Accession ARCH-1986-179</unitid>
+               <unittitle>Additional Papers</unittitle>
+               <unitdate>1905-1923,</unitdate>
+            </did>
+            <c02 id="ref171" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Correspondence pertaining to and reviews of 
+                            <emph render="italic">Machine Design </emph>
+                  </unittitle>
+                  <unitdate>1905</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref172" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Correspondence pertaining to earthquake relief</unittitle>
+                  <unitdate>1906</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref173" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Correspondence with Everis A. Hayes</unittitle>
+                  <unitdate>1910</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref174" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Correspondence with Franklin Hichborn</unittitle>
+                  <unitdate>1910-1912</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref175" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Correspondence relating to the 
+                            <emph render="italic">Daily Palo Alto </emph>
+                  </unittitle>
+                  <unitdate>1915</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref176" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Correspondence, American Association of University Professors</unittitle>
+                  <unitdate>1916-1917</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref177" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Correspondence with James Harvey Robinson</unittitle>
+                  <unitdate>1922-1923</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref178" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">8</container>
+                  <unittitle>General correspondence,</unittitle>
+                  <unitdate>1905-1908</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref179" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">9</container>
+                  <unittitle>General correspondence</unittitle>
+                  <unitdate>January-June, 1909</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref180" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">10</container>
+                  <unittitle>General correspondence,</unittitle>
+                  <unitdate>July-December 1909</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref181" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">11</container>
+                  <unittitle>General correspondence,</unittitle>
+                  <unitdate>1910</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref182" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">12</container>
+                  <unittitle>General correspondence,</unittitle>
+                  <unitdate>1911</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref183" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">13</container>
+                  <unittitle>General correspondence,</unittitle>
+                  <unitdate>1912</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref184" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">14</container>
+                  <unittitle>General correspondence,</unittitle>
+                  <unitdate>1913</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref185" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">15</container>
+                  <unittitle>General correspondence,</unittitle>
+                  <unitdate>1914</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref186" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">16</container>
+                  <unittitle>General correspondence,</unittitle>
+                  <unitdate>1915</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref187" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">17</container>
+                  <unittitle>General correspondence,</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref188" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">18</container>
+                  <unittitle>American Society of Mechanical Engineers: reports, circulars, etc.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref189" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">19</container>
+                  <unittitle>Stanford faculty matters: minutes, resolutions, and reports</unittitle>
+                  <unitdate>1906-1910</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref190" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">20</container>
+                  <unittitle>Statement by G.H. Marx concerning case of Prof. H.W. Rolfe</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref191" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">21</container>
+                  <unittitle>Clippings about college faculty and promotions</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref192" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">22</container>
+                  <unittitle>Miscellaneous items: statement on woman suffrage poem to Jane Addams, platform of the Santa Clara County Republican Convention, and others</unittitle>
+                  <unitdate>1911, 1912, 1912,</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref193" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">nf</container>
+                  <unittitle>Stanford publications with annotations by G.H. Marx: Trustees Manual, Organization, General Legislation, and Standing Regulations of the Faculty, and Manual of Faculty Organization...and General Resolutions of the Board of Trustees,</unittitle>
+                  <unitdate>1908; 1913; 1920</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref194" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">nf</container>
+                  <unittitle>
+                     <emph render="italic">Bulletin of the American Association of University Professors. </emph>Report of the committee of inquiry concerning charges of violation of academic freedom...at the University of Montana. Vol. III, No. 5</unittitle>
+                  <unitdate>May 1917</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref195" level="series">
+            <did>
+               <unitid>Accession ARCH-1990-188</unitid>
+               <unittitle>Additional Papers</unittitle>
+               <unitdate>1893-1936,</unitdate>
+            </did>
+            <c02 id="ref196" level="file">
+               <did>
+                  <unittitle>American Civil Liberties Union</unittitle>
+               </did>
+               <c03 id="ref197" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Correspondence,</unittitle>
+                     <unitdate>1920-1924</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref198" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Correspondence,</unittitle>
+                     <unitdate>1925</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref199" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Correspondence,</unittitle>
+                     <unitdate>January-July, 1926</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref200" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Correspondence,</unittitle>
+                     <unitdate>August-September, 1926</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref201" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Correspondence,</unittitle>
+                     <unitdate>October-December, 1926</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref202" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Correspondence, fragments,</unittitle>
+                     <unitdate>circa 1926</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref203" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Correspondence,</unittitle>
+                     <unitdate>January-May, 1927</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref204" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Correspondence,</unittitle>
+                     <unitdate>June, 1927</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref205" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Correspondence,</unittitle>
+                     <unitdate>July, 1927</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref206" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">10</container>
+                     <unittitle>Correspondence,</unittitle>
+                     <unitdate>August-November, 1927</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref207" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Correspondence,</unittitle>
+                     <unitdate>1928-1936</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref208" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Criminal syndicalism law, correspondence,</unittitle>
+                     <unitdate>1920-1923 and undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref209" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Criminal syndicalism law, correspondence,</unittitle>
+                     <unitdate>1934</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref210" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Criminal syndicalism law, correspondence,</unittitle>
+                     <unitdate>1935</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref211" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Criminal syndicalism law, miscellaneous leaflets</unittitle>
+                     <unitdate>1933</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref212" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Kinkead, Beatrice: letters from Anita Whitney, and Anna Porter,</unittitle>
+                     <unitdate>undated, 1933</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref213" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Organization of California ACLU: notes and outline by G.H. Marx,</unittitle>
+                     <unitdate>circa 1926-1927</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref214" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Marx, G.H.: quotations and miscellaneous notes</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref215" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Committee for Immediate Defense of Constitutional Rights, checkbook</unittitle>
+                     <unitdate>1934-1935</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref216" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Charlotte Anita Whitney pardon: petitions, pamphlets, clippings</unittitle>
+                     <unitdate>1927</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref217" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">10</container>
+                     <unittitle>Better America Federation: pamphlet on industrial reforms and response by Franklin Hichborn</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref218" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Pamphlets, ACLU</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref219" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">12</container>
+                     <unittitle>Pamphlets, California Branch of the General Defense Committee</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref220" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">13</container>
+                     <unittitle>Pamphlets, miscellaneous</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref221" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">14</container>
+                     <unittitle>Pamphlets, Sacco and Vanzetti</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref222" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">15</container>
+                     <unittitle>Clippings</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref223" level="file">
+               <did>
+                  <unittitle>Public Utilities</unittitle>
+               </did>
+               <c03 id="ref224" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1930</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref225" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1931</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref226" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Control of public utilities: papers, clippings, articles, and a letter from the Stanford Alumni Conference</unittitle>
+                     <unitdate>1935</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref227" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Control of public utilities: speech drafts</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref228" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Government ownership of power: clippings, articles, notes</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref229" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Power - From an Engineer's Viewpoint: typescript speech</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref230" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Clippings</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref231" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">8</container>
+                     <unittitle>LSJU Founding Grant: excerpts re cooperation</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref232" level="file">
+               <did>
+                  <unittitle>Stanford University, School of Engineering</unittitle>
+               </did>
+               <c03 id="ref233" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Reports, memoranda, correspondence concerning re-organization of the School</unittitle>
+                     <unitdate>1920-1926</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref234" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">10</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1926-1927</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref235" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Mechanical Engineering Lab plan: blueprint and letter/report to C.D. Marx</unittitle>
+                     <unitdate>1901</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref236" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">12</container>
+                     <unittitle>Marx, G.H., reprints of articles: The Problem of the Assistant Professor, and Some Trends in Higher Education,</unittitle>
+                     <unitdate>1910, 1909</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref237" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">13</container>
+                     <unittitle>Stanford photographs and miscellany</unittitle>
+                     <unitdate>1923-1924</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref238" level="file">
+               <did>
+                  <unittitle>Miscellaneous</unittitle>
+               </did>
+               <c03 id="ref239" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">14</container>
+                     <unittitle>Marx, Guido H., A Study of Special Tools and Methods Used in the Manufacture of Small Engines, a thesis presented at Cornell University for the degree of M.E.</unittitle>
+                     <unitdate>1893</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref240" level="file">
+                  <did>
+                     <container type="Box">4 oversize</container>
+                     <unittitle>Membership certificates for Society of Mechanical Engineers, and Sigma Xi, and diplomas from Toledo Public High School, and Cornell University,</unittitle>
+                     <unitdate>1901, 1893; 1887, 1893</unitdate>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+      </dsc>
+      <index audience="internal" id="ref17">
+         <head>Selected List of Correspondents</head>
+         <p/>
+         <indexentry>
+            <subject>Addis, Thomas</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Bailey, Forrest</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">90-188: Box 1, Folder 7-8, 10</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Baldwin, Roger N.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">90-188: Box 1, Folder 1, 3-5, 11</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Benne, Adron A.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">Box 4, Folder 1-2</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Bjornson, Anga M.</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Black, Marshall</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">86-179: Box 1, Folder 2, 12</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Bliven, Bruce</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">90-188: Box 3, Folder 1</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Browne, Andrew A.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">Box 1, Folder 4</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Cooke, Morris Llewellyn</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Coolidge, Mary Roberts</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">90-188: Box 1, Folder 4-5</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Copeland, Clement A.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">Box 1, Folder 4</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Dart, Anna C.</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Dorfman, Joseph</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">Box 1, Folder 6</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Durand, William F.</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Farrand, Max</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">Box 1, Folder 4</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Flynn, Elizabeth Gurley</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">90-188: Box 1, Folder 3</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Frankfurter, Felix</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">90-188: Box 3, Folder 1</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Garrison, J. C.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">Box 3, Folder 9</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Hayes, Everis A.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">86-179: Box 1, Folder 3</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Hichborn, Franklin</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Hill, Albert Ross</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">86-179: Box 1, Folder 9, 11</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Hoover, Herbert</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">Box 1, Folder 3</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Hoover, Theodore J.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">90-188: Box 3, Folder 10</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Johnson, Hiram</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">Box 1, Folder 3</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Johnston, Mercer G.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">90-188: Box 3, Folder 2</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Jones, Hubert C.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">90-188: Box 1, Folder 7</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Jordan, David Starr</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Jourdin, Willis W.</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Leidy, Emma Brown</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">Box 1, Folder 8</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Lewinsohn, Joseph L.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">86-179: Box 1, Folder 15-16</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Lewis, Austin</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">90-188: Box 1, Folder 9</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Monroe, Paul</subject>
+         </indexentry>
+         <indexentry>
+            <subject>National Popular Govt. League</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">Box 1, Folder 3</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Norris, George W.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">Box 1, Folder 2</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Porter, Anna</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">Box 5, Folder 5</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Roberts, Holland D.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">Box 3, Folder 8-9</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Robinson, Elmo A.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">90-188: Box 1, Folder 4-5, 7</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Robinson, James Harvey</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">86-179: Box 1, Folder 7</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Rolfe, Henry W.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">Box 1, Folder 4</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Rowell, Chester H.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">86-179: Box 1, Folder 11, 15</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Saunders, Frederick A.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">90-188: Box 3, Folder 10</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Silliman, John C.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">Box 6, Folder 3</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Slosson, Edwin E.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">86-179: Box 1, Folder 9-10</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Smith, Albert. W.</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Solow, Herbert</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">90-188: Box 2, Folder 3</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Stanley, Edward J.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">Box 1, Folder 4</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Steinmetz, Harry C.</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Veblen, Thorstein</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">Box 5, Folder 4</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Willoughby, Ray R.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">Box 6, Folder 3</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Wilson, Woodrow W.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">86-179: Box 1, Folder 9</ref>
+         </indexentry>
+      </index>
+   </archdesc>
+</ead>

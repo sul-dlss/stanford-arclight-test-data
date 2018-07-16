@@ -1,0 +1,1196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[Thomas Swain Barclay papers])//EN"
+             identifier="ark:/13030/kt3q2nf18m">sc0327.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Thomas Swain Barclay Papers
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Barclay (Thomas Swain) Papers</titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2010-10">October 2010</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date normal="2014-04">April 2014</date>
+            <item/>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC0327</unitid>
+         <origination label="Creator:">
+            <persname rules="aacr" source="naf">Barclay, Thomas S. (Thomas Swain), 1892-1993</persname>
+         </origination>
+         <unittitle label="Title:">Thomas Swain Barclay papers</unittitle>
+         <unitdate normal="1915/1984"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1915-1984</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>9 Linear feet</extent>
+         </physdesc>
+         <abstract label="Summary:">Correspondence, ephemera, photographs and scrapbooks relating to the American political process, student government at Stanford, and his teaching activities. Includes some correspondence from James Farley.</abstract>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <accessrestrict id="ref3">
+            <head>Information about Access</head>
+            <p>This collection is open for research.</p>
+         </accessrestrict>
+         <userestrict id="ref4">
+            <head>Ownership &amp; Copyright</head>
+            <p>All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Special Collections and University Archives, Stanford University Libraries, Stanford, California 94304-6064. Consent is given on behalf of Special Collections as the owner of the physical items and is not intended to include or imply permission from the copyright owner. Such permission must be obtained from the copyright owner, heir(s) or assigns. See: http://library.stanford.edu/depts/spc/pubserv/permissions.html.</p>
+            <p>Restrictions also apply to digital representations of the original materials. Use of digital files is restricted to research and educational purposes.</p>
+         </userestrict>
+         <prefercite id="ref5">
+            <head>Cite As</head>
+            <p>Thomas Swain Barclay Papers (SC0327). Department of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <bioghist id="ref6">
+         <head>Biographical/Historical Sketch</head>
+         <p>Political scientist. Professor of political science at Stanford University from 1927 until his retirement as emeritus in 1958, Barclay also served on the U.S. State Department's Peace Commission after World War I. In his active political life, he served for 18 years as a member of national and state Democratic Party committees, as a delegate (1936 Democratic National Convention), as a presidential elector (1944), and as assistant to Democratic Party chairman James Farley (1940).</p>
+      </bioghist>
+      <scopecontent id="ref7">
+         <head>Description of the Collection</head>
+         <p>Correspondence, ephemera, photographs and scrapbooks relating to the American political process, student government at Stanford, and his teaching activities. Includes some correspondence from James Farley.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <persname rules="aacr" source="naf">Barclay, Thomas S. (Thomas Swain), 1892-1993</persname>
+         <persname rules="aacr" source="ingest">Farley, James A. (James Aloysius), 1888-1976</persname>
+         <corpname rules="dacs" source="local">Stanford University. Department of Political Science. Faculty.</corpname>
+         <subject source="lcsh">Democratic Party--California.</subject>
+         <subject source="lcsh">Students--Political activity.</subject>
+         <geogname source="lcsh">United States--Politics and government.</geogname>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.6">
+         <head>Collection Contents</head>
+         <c01 id="ref26" level="series">
+            <did>
+               <unittitle>Papers</unittitle>
+            </did>
+            <c02 id="ref27" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Papers on American Academics and Politics</unittitle>
+                  <unitdate>1955-1956</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref28" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Clippings on Constitutional Issues; ads for Lectures</unittitle>
+                  <unitdate>1927-1961</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref29" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Remarks by Pres-elect Ronald Reagan; Articles on Supreme Court; FDR</unittitle>
+                  <unitdate>1980-1982</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref30" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Correspondence from Julia Darcy Scott</unittitle>
+                  <unitdate>1942</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref31" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Pics of Julia D'arcy Scott; wedding invites; articles</unittitle>
+                  <unitdate>1941</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref32" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Articles of Humor, Satire -- Correspondence</unittitle>
+                  <unitdate>1958-1959</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref33" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Articles on Pres. Pitzer; paper on Library</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref34" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Paper on Political Situation of Nixon; photo of Barday</unittitle>
+                  <unitdate>1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref35" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Articles on Politics; some satire</unittitle>
+                  <unitdate>1935-1948</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref36" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Papers on conferences; correspondece; political reports</unittitle>
+                  <unitdate>1941-1942</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref37" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Wedding invites; newspaper clippings; correspondence from Columbia University</unittitle>
+                  <unitdate>1938-1973</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref38" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Wedding Invites; political satire; correspondence from Farley/Wilbur</unittitle>
+                  <unitdate>1936-1955</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref39" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Paper topics for Government class; paper on war; clippings</unittitle>
+                  <unitdate>1921-1932</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref40" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Photos from Childhood; papers on geneology; records of family marriages and deaths</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref41" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">15</container>
+                  <unittitle>Clippinsg on books and Polisci; notes on political sources</unittitle>
+                  <unitdate>1961</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref42" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">16</container>
+                  <unittitle>Correspondence; political clippings; obituary for Rossiter Johnson--Sierra Camp Article</unittitle>
+                  <unitdate>1985</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref43" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">17</container>
+                  <unittitle>Articles on Politics; correspondence from J. Farley; obituaries fpr G. Lefevre; clippings on teaching speech transcript</unittitle>
+                  <unitdate>1923-1962</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref44" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">18</container>
+                  <unittitle>Political Party Reports; Stanford Ma 1977; Correspondence to S. from T. Barclay</unittitle>
+                  <unitdate>1970-1984</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref45" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">19</container>
+                  <unittitle>Democratic Party Papers; photos and articles on teaching; papers on Tom Barclay Scholarship</unittitle>
+                  <unitdate>1984-1985</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref46" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">20</container>
+                  <unittitle>Enrollment Cards; correspondence; clippings on polisci issues; commencement Miss U 1916; clippings on academics</unittitle>
+                  <unitdate>1910-1920</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref47" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">21</container>
+                  <unittitle>Missouri Commencement book--papers and photos from fraternity beta theta pi</unittitle>
+                  <unitdate>1915</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref48" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">22</container>
+                  <unittitle>Article on Teachers; correspondence</unittitle>
+                  <unitdate>1979-1980</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref49" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">23</container>
+                  <unittitle>Paper on T. Roosevelt</unittitle>
+                  <unitdate>1979</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref50" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">24</container>
+                  <unittitle>Book of Political Cartoons</unittitle>
+                  <unitdate>1913-1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref51" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">25</container>
+                  <unittitle>Correspondence; articles on teaching and schools; clippings on books; polisci articles</unittitle>
+                  <unitdate>1979-1980</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref52" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">26</container>
+                  <unittitle>Recepits and Bills; certificates from Democratic Party; correspondence-1980s; common cause magazine; jr. high diploma</unittitle>
+                  <unitdate>1980-1989</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref53" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">27</container>
+                  <unittitle>Correspondence</unittitle>
+                  <unitdate>1976-1983</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref54" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">28</container>
+                  <unittitle>Recepients of IR awards; correspondence to S From T. Barclay</unittitle>
+                  <unitdate>1970-1989</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref55" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">29</container>
+                  <unittitle>Polisci articles; correspondenec; polisic papers</unittitle>
+                  <unitdate>1980-1989</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref56" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">30</container>
+                  <unittitle>Correspondence; articles on polisci issues</unittitle>
+                  <unitdate>1970-1989</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref57" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">31</container>
+                  <unittitle>Papers on AT&amp;T Shares</unittitle>
+                  <unitdate>1980-1989</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref58" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Papers on poli sci issues; commencement of Miss U 1962</unittitle>
+                  <unitdate>1931-1962</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref59" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Papers on poli sci; centennial for Miss U; Papers on Howard L. McBain</unittitle>
+                  <unitdate>1922-1939</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref60" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Articles on Barclay; correspondence from J. Farley and others</unittitle>
+                  <unitdate>1940</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref61" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Correspondence from J. Farley - 1940s; IR and poli sci papers; correspondence and wedding invites; correspondence from H. Hoover; photos; blank stationary</unittitle>
+                  <unitdate>1941-1943</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref62" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Correspondence; papers and articles on teachers and honor awards; reunion pictures and papers; ads for conferences; frat. Alum news; articles on Barclay; b-day cards; photos of grandchildren</unittitle>
+                  <unitdate>1957-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref63" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Poli sci papers and topics and exams</unittitle>
+                  <unitdate>1933-1959</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref64" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Notes on poli sci issues by Charles Beard</unittitle>
+                  <unitdate>1920-1921</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref65" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Articles on poli sci and school issues; blank postcards; correspondence from 1970s</unittitle>
+                  <unitdate>1973</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref66" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Bureaucratic info on Stanford 1941; frat. reunions; clipping on Columbia University; blank stationary</unittitle>
+                  <unitdate>1929-1934</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref67" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Articles; papers and class notes on poli sci issues</unittitle>
+                  <unitdate>1932-1934</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref68" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Transcripts of speeches at a dinner in 1941; correspondence 1939-1942; graduation address from Cornell; Centennial pamphlet from Miss U</unittitle>
+                  <unitdate>1939-1942</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref69" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">1</container>
+                  <unittitle>pictures, postcards; euology for George Lefevre: tribute to Thomas Jefferson; pamphleton School of PoliSci at Columbia</unittitle>
+                  <unitdate>1923-1930</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref70" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Notes &amp; correspondence from the Social Science group</unittitle>
+                  <unitdate>1917</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref71" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">3</container>
+                  <unittitle>info on the John H. Watrous fund; invites to fraternity functions: holiday greeting cards</unittitle>
+                  <unitdate>1979</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref72" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">4</container>
+                  <unittitle>PoliSci paper on Charles A. Beard; Pacific Historical Review - 1936; personal clippings; correspondence; photos &amp; post-cards; clippings on Dr Lefevre</unittitle>
+                  <unitdate>1936</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref73" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Correspondence on having received honorary degree from MissU</unittitle>
+                  <unitdate>1962</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref74" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Income Tax Returns</unittitle>
+                  <unitdate>1975</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref75" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Correspondence honoring him on his Retirement</unittitle>
+                  <unitdate>1957</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref76" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">8</container>
+                  <unittitle>His speech at Retirement: more correspondence on his Retirement</unittitle>
+                  <unitdate>1957</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref77" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Humorous stories: clippings on academic issues; correspondence</unittitle>
+                  <unitdate>1923-1963</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref78" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Report on prohibition, photos of T. Barclay: correspondence from mother &amp; others 1918-1919: papers on Amer. in post WWI in Europe</unittitle>
+                  <unitdate>1918-1919</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref79" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Blank stationary</unittitle>
+                  <unitdate>1972</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref80" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Correspondence 1977: academic articles</unittitle>
+                  <unitdate>1977-1978</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref81" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Hoover Inst. paper on Latin Amer. Sri Lanka, &amp; organized labor</unittitle>
+                  <unitdate>1981</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref82" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Paper by Neil Cotter on Eisenhower</unittitle>
+                  <unitdate>1981</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref83" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Certificate for being an elector from CA for 1944</unittitle>
+                  <unitdate>1944</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref84" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Bills and Receipts</unittitle>
+                  <unitdate>1972 1973</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref85" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Clippings on PoliSci &amp; personal issues greeting cards; correspondence also from James Farley</unittitle>
+                  <unitdate>1919</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref86" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Directory for Phi Beta Kappa; clippings on Political &amp; Teaching issues: humorous stories; correspondence</unittitle>
+                  <unitdate>1951-1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref87" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Clippings on students &amp; school: humourous stories or sayings</unittitle>
+                  <unitdate>1968-1986</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref88" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Clippings about T. Barclay and correspondence</unittitle>
+                  <unitdate>1941-1957</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref89" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Corresponence 1917-199; WWI &amp; PoliSci clippings humorous sayings</unittitle>
+                  <unitdate>1917-1919</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref90" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">7</container>
+                  <unittitle>PoliSci articles &amp; personal correspondence from James Farley &amp; other - 1942</unittitle>
+                  <unitdate>1942</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref91" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Prints of Stanford scenes</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref92" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Income Tax Returns</unittitle>
+                  <unitdate>1972-1973</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref93" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">1</container>
+                  <unittitle>News clippings</unittitle>
+                  <unitdate>1950</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref94" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Humorous sayings: clippings on PoliSci issues or teaching: Phi Beta Kappa invites: correspondence: football clippings</unittitle>
+                  <unitdate>1951-1994</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref95" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Photos; clippings on Barclay; papers on Phi Beta Kappa; correspondence; political clippings</unittitle>
+                  <unitdate>1928-1957</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref96" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Photos; correspondence and invites, 1946; political papers and clippings; humorous sayings</unittitle>
+                  <unitdate>1946</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref97" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Correspondence, James Farley and others; political articles; invites from Betas and articles on Phi Beta Kappa; humorous anecdotes</unittitle>
+                  <unitdate>1947-1950</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref98" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Football memorabilia; political articles</unittitle>
+                  <unitdate>1932-1933</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref99" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Humorous sayings; Phi Beta Kappa articles and political science articles; wedding invites; correspondence from James Farley and others; photos</unittitle>
+                  <unitdate>1932-1933</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref100" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Phi Beta Kappa articles; humorous sayings and anecdotes; photos; correspondence; articles on politics; wedding invites</unittitle>
+                  <unitdate>1947</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref101" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Correspondence; articles on politics; photos; wedding invites; humorous sayings; fraternity reunions</unittitle>
+                  <unitdate>1947</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref102" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Political articles; Phi Beta Kappa articles; wedding invites; humorous sayings; correspondence; photos</unittitle>
+                  <unitdate>1948-1950</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref103" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Wedding invites; Phi Beta Kappa articles; articles on politics; correspondence from J. Farley and others; humorous articles; photos</unittitle>
+                  <unitdate>1950-1951</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref104" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Articles on politics and Phi Beta Kappa; correspondence; humorous stories and sayings; wedding invites; photos</unittitle>
+                  <unitdate>1954-1956</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref105" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">6</container>
+                  <unittitle>School events; invites; articles on politics and Phi Beta Kappa; photos; correspondence; humorous sayings</unittitle>
+                  <unitdate>1954-1955</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref106" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Wedding invites; clippings on politics, education, Phi Beta Kappa; humorous stories; correspondence; photos of FDR</unittitle>
+                  <unitdate>1944-1946</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref107" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Clippings on politics; humorous sayings; photos; invites; correspondence from J. Farley and others; Phi Beta Kappa; blank stationary</unittitle>
+                  <unitdate>1953-1954</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref108" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Articles on school, politics; humorous stories; invites; photos; Phi Beta Kappa</unittitle>
+                  <unitdate>1944-1945</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref109" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Humorous sayings and anecdotes; correspondence; Phi Beta Kappa; political science, football, and Stanford-related articles; wedding announcements and invites; photos</unittitle>
+                  <unitdate>1944-1945</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref110" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Humorous articles and sayings; correspondence from J. Farley and others; poli sci and Stanford articles; wedding invites</unittitle>
+                  <unitdate>1944-1945</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref111" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Stanford-related and poli sci articles; humorous articles; correspondence; photos; Phi Beta Kappa</unittitle>
+                  <unitdate>1958-1959</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref112" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Wedding invites and announcements; humorous articles and sayings; photos; Phi Beta Kappa; articles on teaching, school, poli sci and football; correspondence</unittitle>
+                  <unitdate>1958-1959</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref113" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Correspondence; wedding invites; Beta fraternity; poli sci and school related articles; football articles; photos</unittitle>
+                  <unitdate>1927-1979</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref114" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Photos; poli sci articles; wedding invites; correspondence; Phi Beta Kappa; humorous anecdotes; Beta fraternity; football articles</unittitle>
+                  <unitdate>1933-1937</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref115" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Humorous stories and sayings; correspondence; Ike as president of Columbia U; photos; Phi Beta Kappa</unittitle>
+                  <unitdate>1949</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref116" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Phi Beta Kappa; humorous stories and sayings; correspondence; wedding invites; poli sci articles; photos</unittitle>
+                  <unitdate>1949</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref117" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <container type="Folder">1</container>
+                  <unittitle>PoliSci articles; school-related topics; photos; humorous stories and sayings; football articles; wedding invites; Beta fraternity</unittitle>
+                  <unitdate>1932</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref118" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Humorous stories and sayings; clipping on Stanford-related events; Poli sci; betas; photos; wedding invites; correspondence; personal clippings</unittitle>
+                  <unitdate>1929</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref119" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Greeting cards; correspondence from father and others; papers from his father's hardware co.</unittitle>
+                  <unitdate>1911-1952</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref120" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Wedding invites and various other announcements</unittitle>
+                  <unitdate>1943-1947</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref121" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Democratic party pamphlet</unittitle>
+                  <unitdate>1936</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref122" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <container type="Folder">1</container>
+                  <unittitle>PoliSci articles; clippings on Barclay; football papers; wedding invites; Stanford-related papers; honoring Dean Ford</unittitle>
+                  <unitdate>1930-1938</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref123" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Photos; football memorabilia; Poli Sci articles; wedding announcements and invites; personal clippings</unittitle>
+                  <unitdate>1940</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref124" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Personal clippings and on Poli Sci; Phi Beta Kappa; photo ID; humor; photo; invites; correspondence</unittitle>
+                  <unitdate>1947-1948</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref125" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Football articles; Memorial paper commemorating 100 years of Joseph Pulitzer</unittitle>
+                  <unitdate>1927, 1947</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref126" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Invites; poli sci and personal clippings; humor; correspondence; football articles; photos</unittitle>
+                  <unitdate>1947-1948</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref127" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Poli sci and personal clippings; Stanford-related articles</unittitle>
+                  <unitdate>1944-1945</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref128" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Humorous stories; football; personal info and clippings; Phi Beta Kappa; correspondence; greeting cards; photos; invites</unittitle>
+                  <unitdate>1936-1938</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref129" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Invites; personal info clippings; humor; photos; Stanford and teaching articles; correspondence</unittitle>
+                  <unitdate>1936-1937</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref130" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Poli sci articles; humor; photos; correspondence; invites</unittitle>
+                  <unitdate>1937-1975</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref131" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Clippings; notes; photos; humorous stories; correspondence; greeting cards</unittitle>
+                  <unitdate>1933-1934</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref132" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Correspondence; clippings; humorous stories; greeting cards</unittitle>
+                  <unitdate>1935-1937</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref133" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Poli sci and humorous clippings; football; school articles; party politics; correspondence; personal interest clippings; wedding invites</unittitle>
+                  <unitdate>1936</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref134" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Correspondence; personal interes clippings; photos; teaching forums; humor and poli sci clippings; Phi Beta Kappa</unittitle>
+                  <unitdate>1943</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref135" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Wedding invites; correspondence; humor and poli sci clippings; photos; ads for teaching conferences; personal interest clippings; Phi Beta Kappa</unittitle>
+                  <unitdate>1940-1943</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref136" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Teaching; humor articles; wedding invites; football; correspondence</unittitle>
+                  <unitdate>1940-1956</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref137" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Humor; football; teaching and Stanford clippings; photos; correspondence; Betas, poli sci articles</unittitle>
+                  <unitdate>1928-1931</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref138" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Correspondence; poli sci; humor and teaching clippings; wedding invites; Phi Beta Kappa; personal interest clippings; Betas</unittitle>
+                  <unitdate>1947-1948</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref139" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Political science papers</unittitle>
+                  <unitdate>1911-1920</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref140" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Newspapers on his retirement</unittitle>
+                  <unitdate>1957</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref141" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Album of baseball photographs and news clippings</unittitle>
+                  <unitdate>1909</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref142" level="file">
+               <did>
+                  <container type="Box">16</container>
+                  <container type="Folder">1</container>
+                  <unittitle>California Senate Resolution</unittitle>
+                  <unitdate>1982</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref143" level="file">
+               <did>
+                  <container type="Box">16</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Album of letters honoring Barclay upon his retirement</unittitle>
+                  <unitdate>1957</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref144" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">1</container>
+                  <unittitle>News clippings, photographs, and fraternity memorabilia</unittitle>
+                  <unitdate>1911-1912</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref8" level="series">
+            <did>
+               <unitid>Accession ARCH-1991-079</unitid>
+               <unittitle>Additional material</unittitle>
+            </did>
+            <c02 id="ref9" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Certificate of appreciation to Barclay from U.S. Senate, signed by Frank Church, Lee Metcalf, Mark O. Hatfield, and Alan Cranston; on the occasion of the fiftieth anniversary of the Department of Political Science, 1970</unittitle>
+               </did>
+               <note>
+                  <p>OS item boxed with assorted SC oversize materials:</p>
+               </note>
+            </c02>
+            <c02 id="ref11" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Papers on American Academics and Politics; Report on Fundraising; Oral History by Dr. Barclay</unittitle>
+                  <unitdate>1955-1956</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref12" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Clippings on Constitutional Issues; ads for lectures; reports and editorials on academic issues</unittitle>
+                  <unitdate>1927-1961</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref13" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Remarks by Pres-elect Ronald Reagan; articles on Supreme Court; FDR; Report on Hoover Institution</unittitle>
+                  <unitdate>1980-1982</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref14" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Correspondence from Julia D'arcy Scott; Political Science Papers and Correspondence</unittitle>
+                  <unitdate>1942</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref15" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Pic. of Julia D'arcy Scott; wedding invites; articles on Poli Sci issues; random funny quotes and anecdotes; blank stationary from Cornell</unittitle>
+                  <unitdate>1941</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref16" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Articles of humor and satire; correspondence</unittitle>
+                  <unitdate>1958-1959</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref17" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Article on President Kenneth Pitzer; papers on library</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref18" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Paper on political situation of Nixon; photo of Barclay</unittitle>
+                  <unitdate>1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref19" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Articles on politics; some satire</unittitle>
+                  <unitdate>1935-1948</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref20" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Papers on conferences; trips; article on Julia D'arcy; marriage invites; correspondence; papers on Alien board; political reports</unittitle>
+                  <unitdate>1941-1942</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref21" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Wedding invites; newspaper clippings on Barclay and political topics; some correspondence from Columbia University</unittitle>
+                  <unitdate>1938-1975</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref22" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Wedding Invites; political Satire; correspondence from James Farley (democratic national committee), Ray Wilbur; ads for political Forums</unittitle>
+                  <unitdate>1936-1955</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref23" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Paper topics for Government 106; paper on war; clippings on political science and the democratic party</unittitle>
+                  <unitdate>1921-1932</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref24" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Photos from childhood; papers on geneology; records of family marriages and deaths</unittitle>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

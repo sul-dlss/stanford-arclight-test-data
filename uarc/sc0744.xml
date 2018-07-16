@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              findaidstatus="edited-full-draft"
+              langencoding="iso639-2b"
+              repositoryencoding="iso15511">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             url="http://www.oac.cdlib.org/findaid/ark:/13030/kt8x0nf7zq"
+             identifier="ark:/13030/kt8x0nf7zq">sc0744.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="filing">Immortal 21 Reunion Collection</titleproper>
+            <titleproper>Guide to The Immortal 21 Reunion Collection <num>SC0744</num>
+            </titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <p>
+               <date>October 2010</date>
+            </p>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford 94305-6064</addressline>
+               <addressline>specialcollections@stanford.edu</addressline>
+               <addressline>URL: <extptr href="http://library.stanford.edu/spc"
+                          show="new"
+                          title="http://library.stanford.edu/spc"
+                          linktype="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2015-11-06 16:23:41 -0800</date>.</creation>
+         <langusage>Finding aid written in <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc audience="internal" level="collection" id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>Department of Special Collections and University Archives</corpname>
+         </repository>
+         <unittitle>The Immortal 21 reunion collection</unittitle>
+         <origination label="creator">
+            <corpname rules="dacs" source="naf">Stanford University. Department of Athletics</corpname>
+         </origination>
+         <unitid>SC0744</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1970/1979" type="inclusive">1970-1979</unitdate>
+         <unitdate normal="1973/1973" type="bulk">bulk</unitdate>
+         <abstract id="aspace_86f61e5a8d18dcf74b11e5aafde38b7a">Clippings, correspondence, lists, transcript of event, and two photographs pertaining to the reunion of 11 of the original 21 that was held in Sacramento, California, in November 1973.</abstract>
+      </did>
+      <accessrestrict id="aspace_7ed57d388d01ae0566d8addd86b56500">
+         <head>Information about Access</head>
+         <p>This collection is open for research.</p>  
+      </accessrestrict>
+      <userestrict id="aspace_07ccd2d7461b57d620f2c6cb2d61a6e8">
+         <head>Ownership &amp; Copyright</head>
+         <p>All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Special Collections and University Archives, Stanford University Libraries, Stanford, California 94304-6064. Consent is given on behalf of Special Collections as the owner of the physical items and is not intended to include or imply permission from the copyright owner. Such permission must be obtained from the copyright owner, heir(s) or assigns. See: http://library.stanford.edu/depts/spc/pubserv/permissions.html.</p>
+         <p>Restrictions also apply to digital representations of the original materials. Use of digital files is restricted to research and educational purposes.</p>  
+      </userestrict>
+      <prefercite id="aspace_02f90307b9dda412da2762889f25b373">
+         <head>Cite As</head>
+         <p>Immortal 21 Reunion Collection (SC0744). Dept. of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>  
+      </prefercite>
+      <bioghist id="aspace_cd37878c629a565303b278715c34c5eb">
+         <head>Biographical/Historical Sketch</head>
+         <p>The Stanford students who regained the Stanford Axe from UC Berkeley students in 1930 were known as The Immortal 21</p>  
+      </bioghist>
+      <scopecontent id="aspace_f6d457ee8ce94320b229b6cb927c514d">
+         <head>Description of the Collection</head>
+         <p>Clippings, correspondence, lists, transcript of event, and two photographs pertaining to the reunion of 11 of the original 21 that was held in Sacramento, California, in November 1973.</p>  
+      </scopecontent>
+      <controlaccess id="controlaccess-1.2.7">
+         <corpname rules="dacs" source="naf">Stanford University. Department of Athletics</corpname>
+         <corpname rules="dacs" source="naf">Stanford University -- General subdivision--Sports.; </corpname>
+         <corpname rules="dacs" source="naf">Stanford University. Department of Athletics</corpname>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.8">
+         <c01 id="aspace_ref8_b0x" level="series">
+            <did>
+               <unittitle>Records</unittitle>
+               <container id="aspace_e1fc00876b5aa8e4529946711310f97a" type="box">1</container>
+               <dao audience="internal"
+                    actuate="onrequest"
+                    href="http://purl.stanford.edu/bc489pj3844"
+                    show="new"
+                    title="Records">
+                  <daodesc>
+                     <p>Records</p>
+                  </daodesc>
+               </dao>
+            </did>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

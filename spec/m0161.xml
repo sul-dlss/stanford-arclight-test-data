@@ -1,0 +1,718 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  
+  
+  
+  
+  
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" repositoryencoding="iso15511" findaidstatus="unverified-full-draft" langencoding="ISO_639"><eadid countrycode="us" identifier="ark:/13030/tf2s2002h2" mainagencycode="CSt" publicid="PUBLIC &quot;-//Stanford University::Libraries::Dept. of Special Collections::Manuscripts Division//TEXT (US::CSt::M161::United Railroads of San Francisco Records)//EN&quot; &quot;m0161.sgm&quot;">m0161.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Guide to the United Railroads of San Francisco Records, 
+<date calendar="gregorian" era="ce">1866-1951</date></titleproper><titleproper type="filing">United Railroads of San Francisco Records</titleproper>
+        <author>Processed by Special Collections staff; machine-readable finding aid created by Patricia White</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Department of Special Collections</publisher>
+        <address>
+          <addressline>Green Library</addressline>
+          <addressline>Stanford University Libraries</addressline>
+          <addressline>Stanford, CA 94305-6004 </addressline>
+          <addressline>Phone: (650) 725-1022</addressline>
+          <addressline>Email: specialcollections@stanford.edu</addressline>
+          <addressline>URL: http://library.stanford.edu/spc</addressline>
+        </address>
+        <date calendar="gregorian" era="ce">&#xA9; 1997</date>
+        <p>The Board of Trustees of Stanford University. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc><profiledesc>
+      <creation>Machine-readable finding aid derived from paper by means of scanning and OCR; OCR file edited for typographical errors before encoding. Date of source: 
+<date calendar="gregorian" era="ce">January 1965.</date></creation>
+      <langusage>Finding aid is written in 
+<language>English.</language></langusage>
+    </profiledesc><revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//Stanford University::Libraries::Dept. of Special Collections::Manuscripts Division//TEXT (US::CSt::M161::United Railroads of San Francisco Records)//EN" "m0161.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Guide to the United Railroads of San Francisco Records, 
+<date calendar="gregorian" era="ce">1866-1951</date></titleproper>
+      <num>Collection number: M161</num>
+      <publisher>Department of Special Collections and University Archives
+<lb/>Stanford University Libraries 
+<lb/>Stanford, California</publisher>
+      <list type="simple">
+        <head>Contact Information</head>
+        <item>Department of Special Collections</item>
+        <item>Green Library</item>
+        <item>Stanford University Libraries</item>
+        <item>Stanford, CA 94305-6004 </item>
+        <item>Phone: (650) 725-1022</item>
+        <item>Email: specialcollections@stanford.edu</item>
+        <item>URL: http://library.stanford.edu/spc</item>
+      </list>
+      <list type="deflist">
+        <defitem>
+          <label>Processed by:</label>
+          <item>Special Collections staff</item>
+        </defitem>
+        <defitem>
+          <label>Date Completed:</label>
+          <item>January 1965</item>
+        </defitem>
+        <defitem>
+          <label>Encoded by:</label>
+          <item>Patricia White</item>
+        </defitem>
+      </list>
+      <p>&#xA9; 1997 The Board of Trustees of Stanford University. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection">
+    <did id="did-1.8.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">United Railroads of San Francisco Records, 
+</unittitle><unitdate calendar="gregorian" era="ce" type="inclusive">1866-1951</unitdate>
+      <unitid label="Collection number">Special Collections M161</unitid>
+      <origination label="Creator">
+        <corpname>United Railroads of San Francisco</corpname>
+      </origination>
+      <physdesc label="Extent">
+        <extent>19 linear ft.</extent>
+      </physdesc>
+      <repository label="Repository">
+        <corpname>Stanford University. Libraries. Dept. of Special Collections and University Archives.</corpname>
+      </repository>
+      <langmaterial label="Language">
+        <language langcode="en">English.</language>
+      </langmaterial>
+    </did>
+    <descgrp id="descgrp-1.8.2" type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict>
+        <head>Access Restrictions:</head>
+        <p>None.</p>
+      </accessrestrict>
+      <userestrict>
+        <head>Publication Rights:</head>
+        <p>Property rights reside with the repository. Literary rights reside with the creators of the documents or their heirs. To obtain permission to publish or reproduce, please contact the Public Services Librarian of the Dept. of Special Collections.</p>
+      </userestrict>
+      <custodhist>
+        <head>Provenance:</head>
+        <p>Found among the Hopkins Transportation Library manuscripts.</p>
+      </custodhist>
+      <prefercite>
+        <head>Preferred Citation:</head>
+        <p>[Identification of item] United Railroads of San Francisco Records, M161, Dept. of Special Collections, Stanford University Libraries, Stanford, Calif.</p>
+      </prefercite>
+    </descgrp>
+    <bioghist id="bioghist-1.8.3">
+      <head>Historical Note</head>
+      <p>The United Railroads of San Francisco, as well as the Market Street Railway Company and the Municipal Railway Co., were all aggregations of smaller street railway lines that provided urban transportation for San Francisco. Among these street railways were the following: Sutter Sreet Railway Co., Sutro Railway Co., San Francisco &amp; Alameda R.R. Co., and the South San Francisco Railroad and Power Co.</p>
+      <p>The United Railroads of San Francisco was organized in March, 1902, with authorized capital stock of 40 million dollars mostly owned by California Rail &amp; Power Co. Because of its inability to pay matured indebtedness and interest on outstanding indebtedness, it sold out to Market Street Cable Railway Co. in 1921. In 1944, the Municipal Railway of San Francisco (Muni) bought the capital of the Market Street Railway Co.</p>
+    </bioghist>
+    <scopecontent id="scopecontent-1.8.4">
+      <head>Scope and Content</head>
+      <p>The collection includes record books, business and legal papers, financial papers, clippings, stock records, statistics, ledgers, and so forth, of the above railway companies. It also includes annual reports of the Municipal Railway Co. for the years 1949-50 and 1950-51.</p>
+    </scopecontent>
+    <controlaccess id="controlaccess-1.8.5">
+      <head>Added Entries</head>
+      <corpname>Market Street Railway Co.</corpname>
+      <corpname>Sutter Street Railway Co.</corpname>
+      <corpname>South San Francisco Railroad and Power Co.</corpname>
+      <corpname>San Francisco and Alameda Railroad Co.</corpname>
+      <corpname>Sutro Railway Co.</corpname>
+      <corpname>San Francisco Electric Railroad.</corpname>
+      <corpname>San Francisco Municipal Railway.</corpname>
+      <corpname>San Francisco and San Mateo Railway Co.</corpname>
+    </controlaccess>
+    <dsc id="dsc-1.8.6" type="in-depth">
+      <head>Container List</head>
+      <c01 id="c01-1.8.6.2">
+        <did>
+          <unittitle>United Railroads of San Francisco</unittitle>
+        </did>
+        <c02 id="c02-1.8.6.2.2">
+          <did>
+            <container label="Volume" type="Volume">1</container>
+            <unittitle>Daily Records of Passenger Earnings, 
+<unitdate calendar="gregorian" era="ce">March, 1907 -September, 1907.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.3">
+          <did>
+            <container label="Volume" type="Volume">2.</container>
+            <unittitle>Daily Records of Passenger Earnings, 
+<unitdate calendar="gregorian" era="ce">October, 1907 -March, 1908.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.4">
+          <did>
+            <container label="Volume" type="Volume">3.</container>
+            <unittitle>Daily Records of Passenger Earnings, 
+<unitdate calendar="gregorian" era="ce">April, 1908 -September, 1908.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.5">
+          <did>
+            <container label="Volume" type="Volume">4.</container>
+            <unittitle>Daily Records of Passenger Earnings, 
+<unitdate calendar="gregorian" era="ce">October, 1910 -March, 1911.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.6">
+          <did>
+            <container label="Volume" type="Volume">5.</container>
+            <unittitle>Daily Records of Passenger Earnings, 
+<unitdate calendar="gregorian" era="ce">April, 1911 -September, 1911.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.7">
+          <did>
+            <container label="Volume" type="Volume">6.</container>
+            <unittitle>Daily Records of Passenger Earnings, 
+<unitdate calendar="gregorian" era="ce">October, 1911 -March, 1912.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.8">
+          <did>
+            <container label="Volume" type="Volume">7.</container>
+            <unittitle>Daily Records of Passenger Earnings, 
+<unitdate calendar="gregorian" era="ce">April, 1912 -September, 1912.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.9">
+          <did>
+            <container label="Volume" type="Volume">8.</container>
+            <unittitle>Daily Records of Passenger Earnings, 
+<unitdate calendar="gregorian" era="ce">October, 1912 -March, 1913.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.10">
+          <did>
+            <container label="Volume" type="Volume">9.</container>
+            <unittitle>Daily Records of Passenger Earnings, 
+<unitdate calendar="gregorian" era="ce">April, 1913 -September, 1913.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.11">
+          <did>
+            <container label="Volume" type="Volume">10</container>
+            <unittitle>Daily Records of Passenger Earnings, 
+<unitdate calendar="gregorian" era="ce">October, 1913 -April, 1914.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.12">
+          <did>
+            <container label="Volume" type="Volume">11.</container>
+            <unittitle>Daily Records of Passenger Earnings, 
+<unitdate calendar="gregorian" era="ce">April, 1914 -September, 1914.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.13">
+          <did>
+            <container label="Volume" type="Volume">12</container>
+            <unittitle>Daily Records of Passenger Earnings, 
+<unitdate calendar="gregorian" era="ce">October, 1914 -March, 1915.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.14">
+          <did>
+            <container label="Volume" type="Volume">13.</container>
+            <unittitle>Daily Records of Passenger Earnings, 
+<unitdate calendar="gregorian" era="ce">April, 1915 -September, 1915.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.15">
+          <did>
+            <container label="Volume" type="Volume">14.</container>
+            <unittitle>Daily Records of Passenger Earnings, 
+<unitdate calendar="gregorian" era="ce">September, 1915 -December, 1915.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.16">
+          <did>
+            <container label="Volume" type="Volume">15.</container>
+            <unittitle>Daily Records of Passenger Earnings, 
+<unitdate calendar="gregorian" era="ce">July, 1916 -December, 1916,</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.17">
+          <did>
+            <container label="Volume" type="Volume">16.</container>
+            <unittitle>Daily Records of Passenger Earnings, 
+<unitdate calendar="gregorian" era="ce">January, 1919 -June, 1919.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.18">
+          <did>
+            <container label="Volume" type="Volume">17.</container>
+            <unittitle>Recapitulation, 
+<unitdate calendar="gregorian" era="ce">1903 -1920.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.19">
+          <did>
+            <container label="Volume" type="Volume">18.</container>
+            <unittitle>Monthly record, 
+<unitdate calendar="gregorian" era="ce">1903 -1918.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.20">
+          <did>
+            <container label="Volume" type="Volume">19.</container>
+            <unittitle>Daily Records of Passenger Earnings, 
+<unitdate calendar="gregorian" era="ce">January, 1924 -June, 1924.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.21">
+          <did>
+            <container label="Volume" type="Volume">20.</container>
+            <unittitle>Outstanding first preferred stock dividend warrants, series A - F, odd share certificates.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.22">
+          <did>
+            <container label="Volume" type="Volume">21.</container>
+            <unittitle>Outstanding first preferred stock dividend warrants, series A - X, 10 share certificates.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.23">
+          <did>
+            <container label="Volume" type="Volume">22.</container>
+            <unittitle>First preferred stock, # 1 - 250.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.24">
+          <did>
+            <container label="Box" type="Box">23.</container>
+            <unittitle>a) Common stock, # 1 - 250.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.25">
+          <did>
+            <container label="Box" type="Box">23.</container>
+            <unittitle>b) Plan for reorganization, 
+<unitdate calendar="gregorian" era="ce">1916 -1920.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.26">
+          <did>
+            <container label="Box" type="Box">23.</container>
+            <unittitle>c) Lawyer's register of actions 
+<unitdate calendar="gregorian" era="ce">(1908 -1910).</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.27">
+          <did>
+            <container label="Box" type="Box">23.</container>
+            <unittitle>d) Register of (court) actions 
+<unitdate calendar="gregorian" era="ce">(1910 -1911).</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.28">
+          <did>
+            <container label="Box" type="Box">23.</container>
+            <unittitle>e) Diary of Court Actions, 
+<unitdate calendar="gregorian" era="ce">1908.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.29">
+          <did>
+            <container label="Box" type="Box">23.</container>
+            <unittitle>f) Ford King reminiscence of employment, 
+<unitdate calendar="gregorian" era="ce">1904 -1907.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.30">
+          <did>
+            <container label="Box" type="Box">24-25.</container>
+            <unittitle>Legal files regarding damage suits 
+<unitdate calendar="gregorian" era="ce">(1906 -1909).</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.31">
+          <did>
+            <container label="Box" type="Box">26.</container>
+            <unittitle>Diaries of Court Actions, 
+<unitdate calendar="gregorian" era="ce">1911, 1917, 1919 &amp; 1920.</unitdate><lb/>Platform men entering and leaving service, 
+<unitdate calendar="gregorian" era="ce">1908.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.32">
+          <did>
+            <container label="Box" type="Box">27.</container>
+            <unittitle>Supplemental Reports, earnings and other related financial information, 
+<unitdate calendar="gregorian" era="ce">1905 -1914.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.33">
+          <did>
+            <container label="Volume" type="Volume">28.</container>
+            <unittitle>Clippings, strike of 1917.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.34">
+          <did>
+            <container label="Volume" type="Volume">29-31.</container>
+            <unittitle>U.R.R. of S.F. Time sheets, 
+<unitdate calendar="gregorian" era="ce">1908.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.35">
+          <did>
+            <container label="Volume" type="Volume">32.</container>
+            <unittitle>(Engineer's) Report, part II, 
+<unitdate calendar="gregorian" era="ce">1905,</unitdate>includes Market Street Railway Co., Sutter St. Railway Co., San Francisco and San Mateo Electric Railway Co., Sutro Railway Co., South San Francisco Railroad and Power Co., and other subsidiary companies.</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.8.6.3">
+        <did>
+          <unittitle>MARKET STREET RAILROAD</unittitle>
+        </did>
+        <c02 id="c02-1.8.6.3.2">
+          <did>
+            <container label="Volume" type="Volume">33.</container>
+            <unittitle>Stock ledger 
+<unitdate calendar="gregorian" era="ce">(1894 -1899).</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.3.3">
+          <did>
+            <container label="Volume" type="Volume">34.</container>
+            <unittitle>Stock ledger, A - L, 
+<unitdate calendar="gregorian" era="ce">1900 -1902.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.3.4">
+          <did>
+            <container label="Volume" type="Volume">35.</container>
+            <unittitle>Stock ledger, M - Z, 
+<unitdate calendar="gregorian" era="ce">1900 -1902.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.3.5">
+          <did>
+            <container label="Volume" type="Volume">36.</container>
+            <unittitle>Stock and Transfer book 
+<unitdate calendar="gregorian" era="ce">(1893 -1898).</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.3.6">
+          <did>
+            <container label="Volume" type="Volume">37.</container>
+            <unittitle>Stock transfer book 
+<unitdate calendar="gregorian" era="ce">(1899 -1902).</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.3.7">
+          <did>
+            <container label="Volume" type="Volume">38-40.</container>
+            <unittitle>Legal diaries, 
+<unitdate calendar="gregorian" era="ce">1917, 1918 &amp; 1922.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.3.8">
+          <did>
+            <container label="Volume" type="Volume">41.</container>
+            <unittitle>1) Market Street payroll, 
+<unitdate calendar="gregorian" era="ce">1938.</unitdate><lb/>2) Report on Present Value, 
+<unitdate calendar="gregorian" era="ce">1942.</unitdate><lb/>3) Report on Results of Operation, 
+<unitdate calendar="gregorian" era="ce">1922-1942.</unitdate><lb/>4) Tables &amp; Charts re: Manpower and Service, 
+<unitdate calendar="gregorian" era="ce">1943.</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.8.6.4">
+        <did>
+          <unittitle>SUTTER STREET RAILWAY COMPANY</unittitle>
+        </did>
+        <c02 id="c02-1.8.6.4.2">
+          <did>
+            <container label="Volume" type="Volume">42.</container>
+            <unittitle>Cash Journal, 
+<unitdate calendar="gregorian" era="ce">1909 -1924.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.3">
+          <did>
+            <container label="Volume" type="Volume">43.</container>
+            <unittitle>Vouchers entered, 
+<unitdate calendar="gregorian" era="ce">1902.</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.8.6.5">
+        <did>
+          <unittitle>SOUTH SAN FRANCISCO RAILROAD &amp; POWER CO.</unittitle>
+        </did>
+        <c02 id="c02-1.8.6.5.2">
+          <did>
+            <container label="Volume" type="Volume">44.</container>
+            <unittitle>Journal, 
+<unitdate calendar="gregorian" era="ce">1904 -1923.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.5.3">
+          <did>
+            <container label="Volume" type="Volume">45.</container>
+            <unittitle>Voucher records, 
+<unitdate calendar="gregorian" era="ce">1904 -1923.</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.8.6.6">
+        <did>
+          <unittitle>SAN FRANCISCO AND ALAMEDA RAILROAD CO.</unittitle>
+        </did>
+        <c02 id="c02-1.8.6.6.2">
+          <did>
+            <container label="Volume" type="Volume">46.</container>
+            <unittitle>Journal, 
+<unitdate calendar="gregorian" era="ce">1866 -1868.</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.8.6.7">
+        <did>
+          <unittitle>SAN FRANCISCO ELECTRIC RAILROAD</unittitle>
+        </did>
+        <c02 id="c02-1.8.6.7.2">
+          <did>
+            <container label="Volume" type="Volume">47.</container>
+            <unittitle>Cash, 
+<unitdate calendar="gregorian" era="ce">1909 -1921.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.7.3">
+          <did>
+            <container label="Volume" type="Volume">48.</container>
+            <unittitle>Journal., 
+<unitdate calendar="gregorian" era="ce">1909 -1921.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.7.4">
+          <did>
+            <container label="Volume" type="Volume">49.</container>
+            <unittitle>"PAY AS YOU ENTER" ledger (no further identification).</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.7.5">
+          <did>
+            <container label="Volume" type="Volume">50.</container>
+            <unittitle>Oversized volume. Samples of Southern Pacific stationary.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.7.6">
+          <did>
+            <container label="Volume" type="Volume">51.</container>
+            <unittitle>Clipping book prepared by the staff of the U.R. of S.F; subject emphasis: the graft trials: 
+<unitdate calendar="gregorian" era="ce">April, 1906 -August, 1906.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.7.7">
+          <did>
+            <container label="Volume" type="Volume">52.</container>
+            <unittitle>Clipping book prepared by the staff of the U.R. of S.F; subject emphasis: the graft trials: 
+<unitdate calendar="gregorian" era="ce">January -April, 1907.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.7.8">
+          <did>
+            <container label="Volume" type="Volume">53.</container>
+            <unittitle>Clipping book prepared by the staff of the U.R. of S.F; subject emphasis: the graft trials: 
+<unitdate calendar="gregorian" era="ce">June -September, 1908.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.7.9">
+          <did>
+            <container label="Volume" type="Volume">54.</container>
+            <unittitle>Clipping book prepared by the staff of the U.R. of S.F; subject emphasis: the graft trials: 
+<unitdate calendar="gregorian" era="ce">October -November, 1908</unitdate>(on cover, "MISCELLLANEOUS").</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.7.10">
+          <did>
+            <container label="Volume" type="Volume">55.</container>
+            <unittitle>Clipping book prepared by the staff of the U.R. of S.F; subject emphasis: the graft trials: 
+<unitdate calendar="gregorian" era="ce">March -November, 1909.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.7.11">
+          <did>
+            <container label="Volume" type="Volume">56.</container>
+            <unittitle>Clipping book prepared by the staff of the U.R. of S.F; subject emphasis: the graft trials: 
+<unitdate calendar="gregorian" era="ce">November, 1909 -April., 1910</unitdate>(on cover, "MISCELLLANEOUS")</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.7.12">
+          <did>
+            <container label="Volume" type="Volume">57.</container>
+            <unittitle>Clipping book prepared by the staff of the U.R. of S.F; subject emphasis: the graft trials: 
+<unitdate calendar="gregorian" era="ce">January -May, 1909.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.7.13">
+          <did>
+            <container label="Volume" type="Volume">58.</container>
+            <unittitle>Clipping book prepared by the staff of the U.R. of S.F; subject emphasis: the graft trials: 
+<unitdate calendar="gregorian" era="ce">March, 1909 -August, 1911</unitdate>(on cover, "Patrick Calhoun").</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.7.14">
+          <did>
+            <container label="Volume" type="Volume">59.</container>
+            <unittitle>Clipping book prepared by the staff of the U.R. of S.F; subject emphasis: the graft trials: 
+<unitdate calendar="gregorian" era="ce">April -November, 1910.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.7.15">
+          <did>
+            <container label="Volume" type="Volume">60.</container>
+            <unittitle>Clipping book prepared by the staff of the U.R. of S.F; subject emphasis: the graft trials: 
+<unitdate calendar="gregorian" era="ce">November 1909 -January, 1910.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.7.16">
+          <did>
+            <container label="Volume" type="Volume">61.</container>
+            <unittitle>Clipping book prepared by the staff of the U.R. of S.F; subject emphasis: the graft trials: 
+<unitdate calendar="gregorian" era="ce">October -November, 1909</unitdate>(on cover, "Ford').</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.7.17">
+          <did>
+            <container label="Volume" type="Volume">62.</container>
+            <unittitle>Clipping book prepared by the staff of the U.R. of S.F; subject emphasis: the graft trials: 
+<unitdate calendar="gregorian" era="ce">April -June, 1910.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.7.18">
+          <did>
+            <container label="Volume" type="Volume">63.</container>
+            <unittitle>Clipping book prepared by the staff of the U.R. of S.F; subject emphasis: the graft trials: 
+<unitdate calendar="gregorian" era="ce">July -September, 1910.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.7.19">
+          <did>
+            <container label="Volume" type="Volume">64.</container>
+            <unittitle>Clipping book prepared by the staff of the U.R. of S.F; subject emphasis: the graft trials: 
+<unitdate calendar="gregorian" era="ce">February -March, 1911.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.7.20">
+          <did>
+            <container label="Volume" type="Volume">65.</container>
+            <unittitle>Clipping book prepared by the staff of the U.R. of S.F; subject emphasis: the graft trials: 
+<unitdate calendar="gregorian" era="ce">March -August, 1911.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.7.21">
+          <did>
+            <container label="Volume" type="Volume">66.</container>
+            <unittitle>Clipping book prepared by the staff of the U.R. of S.F; subject emphasis: the graft trials: 
+<unitdate calendar="gregorian" era="ce">September -November, 1911.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.7.22">
+          <did>
+            <container label="Volume" type="Volume">67.</container>
+            <unittitle>Clipping book prepared by the staff of the U.R. of S.F; subject emphasis: the graft trials: 
+<unitdate calendar="gregorian" era="ce">March -September, 1911</unitdate>(on cover, "Campaign of 1911").</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.7.23">
+          <did>
+            <container label="Volume" type="Volume">68.</container>
+            <unittitle>Clipping book prepared by the staff of the U.R. of S.F; subject emphasis: the graft trials: 
+<unitdate calendar="gregorian" era="ce">July, 1941 -January, 1942.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.7.24">
+          <did>
+            <container label="Volume" type="Volume">69.</container>
+            <unittitle>Misc. Purchase &amp; Job Order Book, 
+<unitdate calendar="gregorian" era="ce">1907.</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.8.6.8">
+        <did>
+          <unittitle>MUNICIPAL RAILWAY OF SAN FRANCISCO</unittitle>
+        </did>
+        <c02 id="c02-1.8.6.8.2">
+          <did>
+            <container label="Box" type="Box">70</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle>Extracts from Mott Survey, 1931.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.8.3">
+          <did>
+            <container label="Box" type="Box">70</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle>Annual Report of Municipal Railway Co., Fiscal Year Ended June 30, 1950</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.8.4">
+          <did>
+            <container label="Box" type="Box">70</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle>Annual Report of Municipal Railway Co., Fiscal Year Ended June 30, 1951</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.8.6.9">
+        <did>
+          <unittitle>UNITED RAILROADS ARBITRATION</unittitle>
+        </did>
+        <c02 id="c02-1.8.6.9.2">
+          <did>
+            <container label="Box" type="Box">70</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle>Transcript of Case Vol. 2.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.9.3">
+          <did>
+            <container label="Box" type="Box">71</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle>Transcript of Case Vol. 3.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.9.4">
+          <did>
+            <container label="Box" type="Box">71</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle>Transcript of Case Vol. 4.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.9.5">
+          <did>
+            <container label="Box" type="Box">71</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle>Transcript of Case Vol. 7.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.9.6">
+          <did>
+            <container label="Box" type="Box">71</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle>Transcript of Case Vol. 8.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.9.7">
+          <did>
+            <container label="Volume" type="Volume">72</container>
+            <unittitle>Transcript of Case Vol. 9.</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

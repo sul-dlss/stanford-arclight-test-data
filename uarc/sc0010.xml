@@ -1,0 +1,1781 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[Stanford family library collection])//EN"
+             identifier="ark:/13030/kt3n39s0qw">sc0010.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Stanford Family Library Collection
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Stanford Family Library Collection</titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2010-10">October 2010</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC0010</unitid>
+         <origination label="Creator:">
+            <famname rules="aacr" source="ingest">Stanford family.</famname>
+         </origination>
+         <unittitle label="Title:">Stanford family library collection</unittitle>
+         <unitdate normal="1795/1902"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1795-1902</unitdate>
+         <unitdate normal="1834/1897"
+                   type="bulk"
+                   label="Bulk Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation"> 1834-1897</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>16 Linear feet</extent>
+         </physdesc>
+         <abstract label="Summary:">A sampling of the books contained in the libraries of Jane Lathrop Stanford, Leland Stanford, and their son, Leland Stanford, Jr. Included are books inscribed by Mrs. Stanford to Leland, Jr., books annotated by Leland, Jr., and books of Thomas Welton Stanford (brother of Leland Stanford). Included are Bibles, religious publications, children's stories, a number of adventure series for boys, history books, travel essays, tourist guides, and novels.</abstract>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <descgrp type="provenance" id="prov">
+            <head>Provenance</head>
+            <acqinfo id="ref3">
+               <p>Administrative transfer, Stanford Museum, 1950.</p>
+            </acqinfo>
+         </descgrp>
+         <accessrestrict id="ref4">
+            <head>Information about Access</head>
+            <p>This collection is open for research.</p>
+         </accessrestrict>
+         <userestrict id="ref5">
+            <head>Ownership &amp; Copyright</head>
+            <p>All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Special Collections and University Archives, Stanford University Libraries, Stanford, California 94304-6064. Consent is given on behalf of Special Collections as the owner of the physical items and is not intended to include or imply permission from the copyright owner. Such permission must be obtained from the copyright owner, heir(s) or assigns. See: http://library.stanford.edu/depts/spc/pubserv/permissions.html.</p>
+            <p>Restrictions also apply to digital representations of the original materials. Use of digital files is restricted to research and educational purposes.</p>
+         </userestrict>
+         <prefercite id="ref6">
+            <head>Cite As</head>
+            <p>Stanford Family Library Collection (SC0010). Dept. of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <scopecontent id="ref7">
+         <head>Description of the Collection</head>
+         <p>A sampling of the books contained in the libraries of Jane Lathrop Stanford, Leland Stanford, and their son, Leland Stanford, Jr. Included are books inscribed by Mrs. Stanford to Leland, Jr., books annotated by Leland, Jr., and books of Thomas Welton Stanford (brother of Leland Stanford). Included are Bibles, religious publications, children's stories, a number of adventure series for boys, history books, travel essays, tourist guides, and novels.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <famname rules="aacr" source="ingest">Stanford family.</famname>
+         <persname rules="aacr" source="lcnaf">Stanford, Jane Lathrop, 1828-1905.</persname>
+         <persname rules="aacr" source="lcnaf">Stanford, Leland, 1824-1893.</persname>
+         <persname rules="aacr" source="lcnaf">Stanford, Leland, 1868-1884.</persname>
+         <persname rules="aacr" source="ingest">Stanford, Thomas Welton, 1832-1918.</persname>
+         <subject source="LCSH">Private libraries</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.5">
+         <head>Collection Contents</head>
+         <c01 id="ref8" level="series">
+            <did>
+               <unittitle>Papers</unittitle>
+            </did>
+            <c02 id="ref9" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>"Tommy Hickup; or, A Pair of Black Eyes" by Rosa Abbott. Boston: Lee &amp; Shepard</unittitle>
+                  <unitdate>1870</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref10" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>"Upside Down; or Will and Work" by Rosa Abbott. Boston: Lee &amp; Shepard</unittitle>
+                  <unitdate>1870</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref11" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>"The Wolf-Boy of China; or Incidents and Adventures in the Life of Lyu-Payo. New Edition" by William Dalton. London: E. Marlborough &amp; Co.</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref12" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>"A Theoretical and Practical Grammar of the French Tongue. 31st edition" by M. De Levizac. Paris: Baudry's European Library</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref13" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>"Imitation of Christ" by Thomas A. Kempis</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref14" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>"Biblioteca de Educacion. Historia Moderna. Tomo II." by Don Antonio Rosales (translator). Madrid: Boix</unittitle>
+                  <unitdate>1844</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref15" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>"A Word to Christian Teachers and Students for the Ministry, 3rd edition" by Samuel B. Schieffelin. New York: Board of Publication of the Reformed Church in America</unittitle>
+                  <unitdate>1878</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref16" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>"The Child's First History of Rome, New Edition" by Miss (?) Sewell. London: Longmans, Green and Co.</unittitle>
+                  <unitdate>1849</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref17" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>"Around the World in Eighty Days" by Jules Verne. Translated by Geo. M. Towle. Boston: James R. Osgood and Company, Late Ticknor &amp; Fields, and Fields, Osgood, &amp; Co.</unittitle>
+                  <unitdate>1874</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref18" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>"Here A Little and There A Little: Or, Scripture Facts" Philadelphia: Claxton, Remsen &amp; Haffelfinger</unittitle>
+                  <unitdate>1877</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref19" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>"The Nursery, A Magazine for the Youngest Readers" Boston: John L. Shorey (stereotyped and printed by Rand, Avery, &amp; Co.)</unittitle>
+                  <unitdate>1870</unitdate>
+               </did>
+               <scopecontent>
+                  <p>Bound book includes two volumes of the magazine</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref21" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>"Frank at Don Carlos' Racho. The Rocky Mountain Series." by Harrry Castlemon. Philadelphia: Porter &amp; Coates (and) Cincinnati, Ohio: R. W. Carroll &amp; Co.</unittitle>
+                  <unitdate>1871</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref22" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>"History of My Pets" by Grace Greenwood. Boston: James R. Osgood and Company, Late Ticknor &amp; Fields, and Fields Osgood &amp; Co.</unittitle>
+                  <unitdate>1871</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref23" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>"Recollections of My Childhood and Other Stories" by Grace Greenwood. Boston: James R. Osgood and Company, Late Ticknor &amp; Fields, and Fields Osgood &amp; Co.</unittitle>
+                  <unitdate>1871</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref24" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>"Appletons' School Readers, the Fourth Reader" by William T. Harris, Andrew J. Rickoff and Mark Bailey. New York, Boston and Chicago: D. Appleton and Company</unittitle>
+                  <unitdate>1878</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref25" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>"The Mission of the Black Rifle; or, On the Trail. The Forest Glen Series" by Elijah Kellogg. Boston: Lee &amp; Shepard (and) New York: Charles T. Dillingham</unittitle>
+                  <unitdate>1876</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref26" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>"The English Reader: Or, Pieces in Prose and Verse, from the Best Writers; Designed to Assist Young Persons to Read with Propriety and Effect; Improve Their Language and Sentiments; and to Inculcate the most Important Principles of Piety and Virtue. With a Few Preliminary Observations on the Principles of Good Reading." by Lindley Murray. Elizabeth Town, NJ: T. O. Sayre (stereotyped by H. and H. Wallis, New York)</unittitle>
+                  <unitdate>1834</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref27" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>"Studien Und Plaudereien. First Series, Eight Edition Revised with Grammatical Tables" by Sigmon M. Stern. New York: Henry Hold and Company (and) F. W. Christern (and) Boston: Carl Schenhof</unittitle>
+                  <unitdate>1879</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref28" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>"Peep-Show. Amusement and Instruction for the Young. With 300 Pictures and a Coloured Frontspiece (Red Binding) London: Strahan &amp; Co. (and) New York: Lovell, Adam &amp; Company</unittitle>
+                  <unitdate>circa 1876</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref29" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>"Peep-Show. Amusement and Instruction for the Young. With 330 (Blue Binding) London: Strahan &amp; Co. (and) New York: Thomas Nelson &amp; Sons</unittitle>
+                  <unitdate>circa 1875</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref30" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>"Wild Life Under the Equator. Narrated for Young People." by Paul Du Chaillu. New York: Harper &amp; Brothers</unittitle>
+                  <unitdate>1875</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref31" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>"Life and Times of Apollonius of Tyana. Rendered into English from the Greek of Philostratus the Elder. Stanford University Publications University Series Language and Literature Volume II Number 1" by Charles P. Eells. Stanford, California: Stanford University Press</unittitle>
+                  <unitdate>1923</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref32" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>"Cast Away in the Cold: An Old Man's Story of a Young Man's Adventures, As Related by Captain Hohn Hardy, Mariner" by Isaac I. Hayes. Boston: lee and Shepard (and) New York: Charles T. Dillingham</unittitle>
+                  <unitdate>1877</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref33" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>"Out of Darkness Into Light" by Mary A. Lathbury. Boston: D. Lothrop and Company</unittitle>
+                  <unitdate>1878</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref34" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>"Holy Bible Containing Old and new Teftaments Tranflated out of the Original Tongues: And with the Former Translations Diligently Compared and Revifed, by His Majesty's Special Command. Appointed to be Read in Churches. To the Most High and Mighty Prince James, by teh Grace of God, King of Great Britain, France and Ireland, Defender of the Faith, &amp;c." Oxford: clarendon Press, William Jackson and William Dawson, Printers to the University: And fold at the Oxford Bible warehoufe, in Paternofter Row, London</unittitle>
+                  <unitdate>1795</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref35" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>"The Fifth Reader" by E. A. Sheldon. New York: Charles Scribner's Sons, Successors to Scribner, Armstrong &amp; Co.</unittitle>
+                  <unitdate>1875</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref36" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>"Sammlung historisch-beruhmter Autographen, oder Facsimiles von Handschriften ausgezeichneter Personen alter und neuer Zeit. Erste Serie." Stuggart: Bechers.</unittitle>
+                  <unitdate>1846</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref37" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>"The Child's Picture Book of Wild Animals." London: George Routledge &amp; Sons (and) printed by J. Ogden and Co.</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref38" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>"The Pulpit Reporter: A Religious Volume, Containing Over Sixty Sermons, Recently Delivered by Eminent Living Divines, in Various Parts of the United States. Also: Portraits and Biographical Sketches of Several Prominent Living Clergymen; Skeleton Sermons, etc." New York: Holbrook, Buckingham &amp; company</unittitle>
+                  <unitdate>1850</unitdate>
+               </did>
+               <scopecontent>
+                  <p>a collection of weekly pamphlets published Dec. 1 1849 - June 1, 1850</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref40" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>"Vues de Versailles. Le Chateau, Le Parc, Le Petit et Le Grand Trianon"</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref41" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>"Man on the Ocean. A Book About Boats and Ships." by R. M. Ballantyne. London, Edinburgh and New York: T. Nelson and Sons</unittitle>
+                  <unitdate>1874</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref42" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>"Of the Imitation of Christ. Four Books by Thomas A. Kempis with an Introduction by the Rev. Frederic W. Farrar." by Thomas A. Kempis. New York: E. P. Dutton &amp; Company</unittitle>
+                  <unitdate>1891</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref43" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>"The Flag of Distress: A Tale of the South Sea (illustrated)" by Capt. Maine Reid. New York: James Miller</unittitle>
+                  <unitdate>1878</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref44" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>"A Smaller History of Greece, From the Earliest Time to the Roman Conquest" by William Smith. New York: Harper &amp; Brothers</unittitle>
+                  <unitdate>1858</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref45" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>"On the Track" by Jules Verne. London: Ward, Lock and Tyler</unittitle>
+                  <unitdate>circa 1880</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref46" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>"The English at the North Pole. Voyages and Adventures of Captain Hatteras. The Jules Verne Library." by Jules Verne. London: Ward, Lock &amp; Tyler</unittitle>
+                  <unitdate>circa 1880</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref47" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>"The Steam House (Part II): Tigers and Traitors. Illustrated." by Jules Verne. Translated by Agnes D. Kingston. New York: Charles Scribner's Sons</unittitle>
+                  <unitdate>1881</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref48" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>"A Little Album Containing the Most Interesting Views of Our City" Venise: Candiani &amp; Sondermann Verres artistiques-Mosaiques</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref49" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>"Album of the Lakes of Killarney. 12 Views." by W. Lawrence. Dublin: W. Lawrence, Photographer, Publisher</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref50" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>"Album Von Muchen" Frankfurt: Ph. Frey &amp; Co.</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref51" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>"Neuestes Rhein Panorama Don Ph. Fren &amp; Co. in Frankfurt" Frankfurt: Fren &amp; Co.</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref52" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>"Ricordo Di Firenze" Venezia: C. Kirchmayr &amp; F. Scozzi</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref53" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>"Ricordo Di Milano" Milano: Flli Tensi-Editori</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref54" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>"Ricordo Di Roma. I." Roma: Luigi Monti. Edicola Piazza Colonna.</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref55" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>"Ricordo Di Roma. II." Roma: Luigi Monti. Edicola Piazza Colonna.</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref56" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>"Ricordo Di Venezia" Trieste (and) Venezia: Presso Colombo Coen e Figlio Editori</unittitle>
+                  <unitdate>1875 or later</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref57" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>"Ricordo Di. Venezia. N. 1" Venezia: C. Kirchmayr &amp; F. Scozzi</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref58" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>"Ricordo Di. Venezia. N. 2" Venezia: C. Kirchmayr &amp; F. Scozzi</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref59" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>"Ricordo Di. Venezia. N. 3" Venezia: C. Kirchmayr &amp; F. Scozzi</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref60" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>"Souvenir de L'Oberland Bernois"</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref61" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>"Souvenir de Lucerne" Lucerne: C, F. P. Rell</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref62" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>"Strassburn. (Or) Strakburg"</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref63" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>"The New Album of London"</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref64" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>"Half-Hours with the Early Explores. With Numerous Illustrations." by Thomas Frost. London, Paris, &amp; New York: Cassell, Petter &amp; Galpin, Belle Sauvage Works</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref65" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>"Colonial Days. Being Stories and Ballads for Young Patriots, as Recounted by Five Boys and Five Girls in 'Around the Yule Log', 'Aboard the Mavis' and 'On the Edge of Winter'. Illustrated" by Richard Markham. New York: Dodd Mead &amp; Company</unittitle>
+                  <unitdate>1879 - 1881</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref66" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>"Stella. Fifth Edition." by Mary B. M. Toland. New York: James Miller</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref67" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>"Five Weeks in a Balloon. The Jules Verne Library." by Jules Verne. London: Ward, Lock and Tyler</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref68" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>"The Boy Voyagers Or The Pirates of the East. Every Boy's Library." by Anne Bowman. London: George Routledge and Sons</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref69" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>"Biblioteca de Educacion. Manual de Logica que contiene lo sustancial que en esta asignatura deben aprender los estudiantes del primer ano de filosofi, por el Presbitero Don Juan Diaz de Baeza." by Don Juan Diaz de Baeza (multiple other authors). Madrid: Boix</unittitle>
+                  <unitdate>1842</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref70" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>"Fasquelle's French Course on the Plan of Woodbury's Method with German. A New Method of Learning the French Langugae; Embracing Both the Analytic and Synthetic Modes of Instruction; Being A Plain and Practical Way of Acquiring the Art of Reading, Speaking, and Composing French. Revised and Improved. American Educational Series." by Louis Fasquelle. New York: Ivison, Phinney &amp; Company (and) Chicago: S. C. Griggs &amp; Company</unittitle>
+                  <unitdate>circa 1860</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref71" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>"History of Education in California. Thmese presented by the class in American Education at Stanford University, April and May 1894, under the charge of Will S. Monroe." by Will S. Monroe. Palo Alto</unittitle>
+                  <unitdate>1894</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref72" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>"The Pinks and Blues; Or, The Orphan Asylum. Illustrated. Rosa Abbott Stories." by Rosa Abbott. Boston: Lee &amp; Shepard (and) New York: Lee, Shepard &amp; Dillingham</unittitle>
+                  <unitdate>circa 1870</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref73" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>"The Story of A Bad Boy. Sixteenth Thousand Illustrated." by Thomas Bailey Aldrich. Boston: Houghton, Mifflin and Company (and) Cambridge: The Riverside Press</unittitle>
+                  <unitdate>circa 1869 &amp; 1877</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref74" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>"Ungava: A Tale of Esquimaux-Land. With Illustrations by the Author. A Tale for Boys. The Boys' Own Library." by Robert Michael Ballantyne. London, edinburgh and new York: Thomas Nelson and Sons</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref75" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>"A New Conversation Grammar of the German Language Adapted to the Use of Schools and Private Instruciton After the Practical and Theoretical Method of Robertson. Part I." by Dr. Augustus Boltz. Berlin: R. Gaertner (and) London: Asher &amp; Co.</unittitle>
+                  <unitdate>1872</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref76" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>"Louis' School Days: A Story of Boys" by E. J. May. New York: D. Appleton &amp; Company</unittitle>
+                  <unitdate>1852</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref77" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>"Fighting Joe; Or, The Fortunes of a Staff Officer. A Story of the Great Rebellion." by Oliver Optic (William T. Adams). Boston: Lee and Shepard (and) New York: Lee, Shepard &amp; Dillingham</unittitle>
+                  <unitdate>circa 1865</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref78" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>"Seek and Find; Or, The Adventures of a Smart Boy. Oliver Optic's Starry Flag Series." by Oliver Optic (William T. Adams). Boston: Lee and Shepard (and) New York: Lee, Shepard &amp; Dillingham</unittitle>
+                  <unitdate>circa 1867</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref79" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>"Biblioteca de Educacion. Historia de la Edad Media. Tomo I." by Don Antonion Rosales (translator) (multiple other authors) Madrid: Boix</unittitle>
+                  <unitdate>1844</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref80" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>"Album von Frankfurt AM Main" Frankfurt: Ph. Frey &amp; Co.</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref81" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>"Baden Baden; von L. Meder, Kunst Verlag" Heidelberg</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref82" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>"Ricordo Di Roma III." Roma: Luigi Monti. Edicola Piazza Colonna.</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref83" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>"Souvenir D'Amsterdam"</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref84" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>"Souvenir de Geneve" Geneve: F. Charnaux</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref85" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>"The Locomotive Engineers' Journal and Proceedings. Vol. 3" by Brotherhood of Locomotive Engineers. Fort Wayne, IN: Jones &amp; Sons, Steam Book &amp; Job Printers</unittitle>
+                  <unitdate>1869</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref86" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>"Thor Valdsens Arbeider I." by Frue Kirke. E. V. Harboe, Kiobenhavn</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref87" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>"The Boy Travellers in the Far East. Part Third. Adventures of Two Youths in a Journey to Ceylon and India with Descriptions of Borneo, the Philippine Islands and Burmah. Illustrated." by Thomas W. Knox. New York: Harper &amp; Brothers</unittitle>
+                  <unitdate>circa 1881</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref88" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>"A Voice of Warning, and Instruction to All People Or, an Introduction to the Faith and Doctrine of the Church of Jesus Christ of Latter-Day Saints. Eighth Edition." by Parley P. Pratt. Liverpool: F. D. Richards</unittitle>
+                  <unitdate>1854</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref89" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>"Jerusalem" by M. W. Shapira. The British Museum</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref90" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>"The Book of Docrine and Covenants of the Church of the Jesus Christ of Latter-Day Saints; Selected from The Revelations of God. Fifth European Edition. Stereotyped." by Joseph Smith. Liverpool: Brigham Young</unittitle>
+                  <unitdate>1866</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref91" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>"Jungle, Peak, and Plain: A Boy's Book of Adventure. Illustrated." by Gordon Stables. London, Paris &amp; New York: Cassell Petter &amp; Galpin</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref92" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>"Round-About Rambles in Lands of Fact and Fancy" by Frank R. Stockton. New York: Scribner, Armstrong &amp; Co.</unittitle>
+                  <unitdate>1872</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref93" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>"The Wings of Courage. Stories for American Boys and Girls." by Marie E. Field (Illustrations by Lucy G. Morse) New York: G. P. Putnam's Sons</unittitle>
+                  <unitdate>circa 1877</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref94" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>"Young Folks' History of the United States. Illustrated." by Thomas Wentworth Higginson. Boston: Lee &amp; Shepard (and) New York: Charles T. Dillingham</unittitle>
+                  <unitdate>circa 1875</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref95" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>"Elementos de Higiene Publica o Arte de Conservar la Salud de los Pueblos. Volume I. Segunda Edicion Revista, Aumentada con un Compendio de la Legislacion Sanitaria de Espana, y adornada con dos laminas finas (los planos de los lazaretos de Mahon y Vigo)" by D. Pedro Felipe Monlau. Madrid: Imprenta y Estereotipia de M. Rivadeneyra</unittitle>
+                  <unitdate>1862</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref96" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>"Elementos de Higiene Publica o Arte de Conservar la Salud de los Pueblos. Volume II. Segunda Edicion Revista, Aumentada con un Compendio de la Legislacion Sanitaria de Espana, y adornada con dos laminas finas (los planos de los lazaretos de Mahon y Vigo)" by D. Pedro Felipe Monlau. Madrid: Imprenta y Estereotipia de M. Rivadeneyra</unittitle>
+                  <unitdate>1862</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref97" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>"Elementos de Higiene Publica o Arte de Conservar la Salud de los Pueblos. Volume III. Segunda Edicion Revista, Aumentada con un Compendio de la Legislacion Sanitaria de Espana, y adornada con dos laminas finas (los planos de los lazaretos de Mahon y Vigo)" by D. Pedro Felipe Monlau. Madrid: Imprenta y Estereotipia de M. Rivadeneyra</unittitle>
+                  <unitdate>1862</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref98" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>"Compendio de la Historia de Egipto, Desde los Tiempos Fabulosos Hasta Nuestros Dias." by M. Dey-Dussueil (translated from French to Spanish by D. Geronimo de la Escosura) Madrid: Imprenta de Don Vicente de Lalama</unittitle>
+                  <unitdate>1842</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref99" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>"Words from the Poets. New Edition." by C. M. Vaugh. London: Macmillan and Co.</unittitle>
+                  <unitdate>1877</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref100" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>"The Dog Crusoe and His Master. A Story of Adventure in the Western Prairies. A Tale for Boys. The Boy's Own Library." by R. M. Ballentyne. London, Edinburgh, and New York: Thomas Nelson and Sons.</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref101" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>"Goat Land. A Story of Country Life. With Fifty-Two Illustrations." by the author of "The Life of A Bear" New York: Thomas Nelson and Sons (and) London and Aylesbury: Watson and Hazell, Printers</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref102" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>"Geography for Beginners. Dr. Cornwell's Educational Series. Forty-Seventh Edition." by James Cornwell. London: Simpkin, Marshall &amp; Co.; Hamilton, Adams, and Co. (and) Edinburgh: Oliver and Boyd</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref103" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>"The Book of Common Prayer, and Administration of Sacraments, and other Rites and Ceremonies of the Church, According to the Use of the Protestant Episcopal Church in the United States of America: Together with the Psalter, or Psalms of David." by The Episcopal Church. Philadelphia: J. B. Lippincott &amp; Co.</unittitle>
+                  <unitdate>1857</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref104" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>"Science Primers. VI. Physiology. With Illustrations." by M. Foster (edited by Professors Huxley, Roscoe and Balfour Stewart). New York: D. Appleton and Company</unittitle>
+                  <unitdate>1876</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref105" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>"Peter the Whaler: His Early Life and Adventures in the Arctic Regions. Sixth Edition. With Illustrations by C. Duncan.) by William H. G. Kingston. London: Griffith and Farran, Successors to Newbery and Harris (and) Edinburgh: Murray and Gibb, Printers to Her Majesty's Stationery Officer.</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref106" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>"St. John, the Prisoner of Patmos" by Bishop Newman. New York: Hunt and Eaton</unittitle>
+                  <unitdate>1896</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref107" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>"Prairie Days; Or the Girls and Boys of Osego" by Mary B. Sleight. New York: E. P. Dutton &amp; Co.</unittitle>
+                  <unitdate>circa 1878</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref108" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>"Mothers and Daughters: Practical Studies for the Conservation of the Health of Girls" by Tullio Suzzara Verdi. New York: J. B. Ford &amp; Company</unittitle>
+                  <unitdate>circa 1876</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref109" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>"Routledge's Every Boy's Annual" by Various Authors</unittitle>
+                  <unitdate>1875</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref110" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>"The Young Yachtsmen; Or, The Wreck of the Gipsy. A New Edition." by Anne Bowman. London and New York: George Routledge and Sons</unittitle>
+                  <unitdate>1879 or later</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref111" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>"Travels in Abyssinia and Nubia 1768-1773 to Discover the Source of the Nile. Second Edition, with Map and Illustrations." by James Bruce (James Bruce of Kinnaird, F.R.S.) Reduced from the Original Work by J. Illustrated by C. (?) A. Doyle. Edinburgh: Adam and Charles Black</unittitle>
+                  <unitdate>1873</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref112" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>"The Story of Liberty. Illustrated." by Charles Carleton Coffin. New York: Harper &amp; Brothers</unittitle>
+                  <unitdate>circa 1878</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref113" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>"Fairy Land, and Other Sketches for Youth: By the Author of Peter Parley's Tales." by S. G. Goodrich. Boston: James Munroe and Company</unittitle>
+                  <unitdate>1844</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref114" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>"Young Folks' History of the United States. Illustrated." by Thomas Wentworth Higginson. Boston: Lee &amp; Shepard (and) New York: Charles T. Dillingham</unittitle>
+                  <unitdate>circa 1875</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref115" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>"Lawrence's Adventures Among the Ice-Cutters, Glass-Makers, Coal-Minders, Iron-men, and Ship-Builders" by J. T. Trowbridge. Boston: Fields, Osgood &amp; Co.</unittitle>
+                  <unitdate>circa 1870</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref116" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <unittitle>"Frank Before Vicksburg. The Gun-Boat Series. Books for Boys, by a Gunboat Boy." by Harry Castlemon. Philadelphia: Porter &amp; Coates (and Cincinnati, OH: R. W. Carroll &amp; Co.</unittitle>
+                  <unitdate>circa 1864</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref117" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <unittitle>"Frank in the Woods. The Gun-Boat Series. Books for Boys, by a Gunboat Boy." by Harry Castlemon. Philadelphia: Porter &amp; Coates (and Cincinnati, OH: R. W. Carroll &amp; Co.</unittitle>
+                  <unitdate>circa 1865</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref118" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <unittitle>"Frank on a Gun-Boat. The Gun-Boat Series. Books for Boys, by a Gunboat Boy." by Harry Castlemon. Philadelphia: Porter &amp; Coates (and Cincinnati, OH: R. W. Carroll &amp; Co.</unittitle>
+                  <unitdate>circa 1864</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref119" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <unittitle>"Frank on the Lower Mississippi. The Gun-Boat Series. Books for Boys, by a Gunboat Boy." by Harry Castlemon. Philadelphia: Porter &amp; Coates (and Cincinnati, OH: R. W. Carroll &amp; Co.</unittitle>
+                  <unitdate>circa 1867</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref120" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <unittitle>"Frank on the Prairie. The Gun-Boat Series. Books for Boys, by a Gunboat Boy." by Harry Castlemon. Philadelphia: Porter &amp; Coates (and Cincinnati, OH: R. W. Carroll &amp; Co.</unittitle>
+                  <unitdate>circa 1867</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref121" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <unittitle>"Frank the Young Naturalist. The Gun-Boat Series. Books for Boys, by a Gunboat Boy." by Harry Castlemon. Philadelphia: Porter &amp; Coates (and Cincinnati, OH: R. W. Carroll &amp; Co.</unittitle>
+                  <unitdate>circa 1864</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref122" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <unittitle>"Cross and Crescent; Or, Young America in Turkey and Greece. A Story of Travel and Adventure. Young America Abroad - Second Series." by Oliver Optic (William T. Adams). Boston: Lee and Shepard (and) New York: Lee, Shepard &amp; Dillingham</unittitle>
+                  <unitdate>circa 1872</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref123" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <unittitle>"Money-Maker; Or, The Victory of the Bsilisk. The Yacht Club Series. With Thirteen Illustrations." by Oliver Optic (William T. Adams). Boston: Lee and Shepard (and) New York: Lee, Shepard &amp; Dillingham</unittitle>
+                  <unitdate>circa 1873</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref124" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <unittitle>"Les Deux Petits Robinsons de la Grande-Chartreuse. Ouvrage Illustre de 69 Vignettes Sur pois par E. Bayard et H. Clerget. Cinquieme Edition. Bibliotheque Rose Illustree." by Jules Taulier. Paris: Librairie Hachette et C.</unittitle>
+                  <unitdate>1879</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref125" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <unittitle>"Alexis the Runaway; Or, Afloat in the World. Rosa Abbott Stories. Illustrated." by Rosa Abbott (Mrs. Rosa Abbott Parker). Boston: Lee &amp; Shepard</unittitle>
+                  <unitdate>circa 1867</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref126" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <unittitle>"Jack of All Trades. Rosa Abbott Stories. Illustrated." by Rosa Abbott (Mrs. Rosa Abbott Parker). Boston: Lee &amp; Shepard</unittitle>
+                  <unitdate>circa 1867</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref127" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <unittitle>"Frank Among the Rancheros. The Rocky Mountain Series." by Harry Castlemon. Philadelphia: Porter &amp; Coates (and Cincinnati, OH: R. W. Carroll &amp; Co.</unittitle>
+                  <unitdate>circa 1871</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref128" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <unittitle>"Frank in the Mountains. The Rocky Mountain Series." by Harry Castlemon. Philadelphia: Porter &amp; Coates (and Cincinnati, OH: R. W. Carroll &amp; Co.</unittitle>
+                  <unitdate>circa 1868</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref129" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <unittitle>"Tales of the Sea. With Six Full-Page Illustrations." by William H. G. Kingston. Edinburgh and London: Gall &amp; Inglis</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref130" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <unittitle>"The Sixth Reader." by Lewis B. Monroe. Philadelphia: Cowperthwait &amp; Co.</unittitle>
+                  <unitdate>1872</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref131" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <unittitle>"A Day of Fate." by E. P. Roe. Dodd, Mead and Company</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref132" level="file">
+               <did>
+                  <container type="Box">16</container>
+                  <unittitle>"The Holy Bible Containing the Old and New Testaments Translated Out of the Original Tongues Being the Version Set Forth A.D. 1611 Compared with the Most Ancient Authorities and Revised. Self-Pronouncing Edition with Reference. Clear Type Edition." New York: International Bible Agency</unittitle>
+                  <unitdate>after 1885</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref133" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <unittitle>"Holy Bible"</unittitle>
+                  <unitdate>circa 1840</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref134" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <unittitle>"The Wise King. Written for the American Sunday-School Union, and Revised by the Committee of Publication." by American Sunday-School Union. Philadelphia: American Sunday-School Union</unittitle>
+                  <unitdate>1835</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref135" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <unittitle>"A Manual of Law, for the Use of Business Men: Containing, Alphabetically Arranged, the Legal Principles of Most Frequent Application to Ordinary Business Transactions, Together with References to the Authorities Sustaining Them." by Amos Dean. Albany: WM. &amp; A. Gould &amp; Co. (and) New York: Gould, Banks &amp; Co.</unittitle>
+                  <unitdate>1838</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref136" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <unittitle>"The World Beyond: Presenting Some of the Faces, Laws and Phenomena of the Great Hereafter, New-Church Popular Series No. 1" by John Doughty. Philadelphia: Swedenborg Publishing Association</unittitle>
+                  <unitdate>1882</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref137" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <unittitle>"A History of the United States of America, On a Plan Adapted to the Capacity of Youth, and Designed to Aid the Memory by Systematic Arrangement and Interesting Associations, Revised and Enlarged from the One Hundredth Edition. Boston School Book Depository." by Charles A. Goodrich. Boston: Jenks &amp; Palmer</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref138" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <unittitle>"Hiram Golf's Religion, Or, the 'Shoemaker by the Grace of God' 29th Thousand. God is Love." by George H. Hepworth. New York: E. P. Dutton &amp; Company</unittitle>
+                  <unitdate>circa 1893</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref139" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <unittitle>"They Met in Heaven" by George H. Hepworth. New York: E. P. Dutton &amp; Company</unittitle>
+                  <unitdate>circa 1894</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref140" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <unittitle>"Thoughts on Religion, and Other Subjects. By Blaise Pascal. A New Translation, and a Memoir of His Life, by the Rev. Edward Craig, A. M. Oxon. Member of the Wernerian Society. To Which are Added Introductory and Other Notices. First American Edition." by Blaise Pascal. Amherst, MA: J. S. and C. Adams</unittitle>
+                  <unitdate>1829</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref141" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <unittitle>"The Rule and Exercises of Holy Dying: In Which Are Described the Means and Instruments of Preparing Ourselves and Others Respectively for a Blessed Death; and the Remedies Against Evils and Temptations Proper to the State of Sickness; Together with Prayers and Acts of Virtue to Be Used by Sick and Dying Persons or by Others Standing in Their Attendance. And Rules for the Visitation of the Sick, and Offices Proper for That Ministry. To Which is Added, the Golden Grove. First American, from the twenty-seventh London edition." by Jer. Taylor (edited by Thomas Thirlwall). Philadelphia: W. W. Woodward</unittitle>
+                  <unitdate>1811</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref142" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <unittitle>"The Beautiful City in Song, and Other Poems" by Dwight Williams. New York: Phillips &amp; Hunt</unittitle>
+                  <unitdate>1887</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref143" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <unittitle>"Orator's Own Book; compiled by the editor of Waldie's Library" Philadelphia: Crissy, Waldie &amp; Co.</unittitle>
+                  <unitdate>1835</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref144" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <unittitle>"Tracts" New York: The Protestant Episcopal Tract Society</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref145" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <unittitle>"Philosophy of Eating" by Albert J. Bellows. New York: Hurd and Houghton</unittitle>
+                  <unitdate>1868</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref146" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <unittitle>"Fair Maid of Connaught and Other Tales for Catholic Youth" by Kate Duval Hughes. New York: P. J. Kennedy</unittitle>
+                  <unitdate>1889</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref147" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <unittitle>"Life Beyond" by George H. Hepworth. New York: E. P. Dutton &amp; Company</unittitle>
+                  <unitdate>1896</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref148" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <unittitle>"Imitation of Christ" by Thomas A. Kempis. New York: E. P. Dutton &amp; Company</unittitle>
+                  <unitdate>1891</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref149" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <unittitle>"Wells of Baca, Or, Solaces of the Christian Mourner . . .; from the 30th London edition." by J. R. Macduff. New York: Robert Carter and Brothers</unittitle>
+                  <unitdate>1879</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref150" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <unittitle>"Wells of Baca, Or, Solaces of the Christian Mourner . . .; 34th edition." by J. R. Macduff. London: James Nisbet &amp; Co.</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref151" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <unittitle>"Little Mother" by M. L. Shepard. Boston: James H. Earle</unittitle>
+                  <unitdate>1887</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref152" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <unittitle>"Sermons" by T. De Witt Talmage. New York: Harper &amp; Brothers</unittitle>
+                  <unitdate>1872</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref153" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <unittitle>"Holy Bible" New York: American Bible Society</unittitle>
+                  <unitdate>1860</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref154" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <unittitle>"Address delivered before the young men's state association of the state of New York at their first annual meeting, at Geneva, September 2, 1841" by Amos Dean. Albany: J. Munsell</unittitle>
+                  <unitdate>1841</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref155" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <unittitle>"Pinnock's improved edition of Dr. Goldsmith's History of Greece" by Oliver Goldsmith. Philadelphia: Thomas, Cowperthwait &amp; Co.</unittitle>
+                  <unitdate>1847</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref156" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <unittitle>"Crown our heroes and other poems: by Mary E. Kail. Washington, D.C.: Judd &amp; Detweiler</unittitle>
+                  <unitdate>1887</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref157" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <unittitle>"Solitude sweetened, or, Miscellaneous meditations, on various religious subjects" by James Meikle. Hartford: S. Andrus and Son</unittitle>
+                  <unitdate>1844</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref158" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <unittitle>"System of Logic, Ratiocinative and Inductive" by John Stuart Mill. New York: Harper &amp; Brothers, Publishers</unittitle>
+                  <unitdate>1864</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref159" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <unittitle>"Stepping Heavenward" by E. Prentiss. New York: Anson D. F. Randolph &amp; Company</unittitle>
+                  <unitdate>1880</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref160" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <unittitle>"John Eax, and Mamelon; or, The South without the shadow" by Albion W. Tourgie. New York: Fords, Howard, &amp; Hulbert</unittitle>
+                  <unitdate>1882</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref161" level="file">
+               <did>
+                  <container type="Box">20</container>
+                  <unittitle>"At the Beautiful Gate and other religious poems" New York: Anson D. F. Randolph &amp; Company</unittitle>
+                  <unitdate>1883</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref162" level="file">
+               <did>
+                  <container type="Box">20</container>
+                  <unittitle>"Holy Bible" New York: E. Duyckinck, Smith and Forman, Collins and Co. J. Tiebout, S. A. Burtus, and B. Crane</unittitle>
+                  <unitdate>1812</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref163" level="file">
+               <did>
+                  <container type="Box">20</container>
+                  <unittitle>"Holy Bible" Cambridge, printed by C. J. Clay, M.A. &amp; Son for the New York Bible and Common Prayer Book Society</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref164" level="file">
+               <did>
+                  <container type="Box">20</container>
+                  <unittitle>"Memorial of Ambrose Spencer" Albany: Joel Munsell</unittitle>
+                  <unitdate>1849</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref165" level="file">
+               <did>
+                  <container type="Box">20</container>
+                  <unittitle>"Mormon Country. A Summer with the Latter-Day Saints" by John Codman. New York ,: United States Publishing Company</unittitle>
+                  <unitdate>1874</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref166" level="file">
+               <did>
+                  <container type="Box">20</container>
+                  <unittitle>"Noontide at Sychar" by J. R. Macduff. London: James Nisbet &amp; Co.</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref167" level="file">
+               <did>
+                  <container type="Box">20</container>
+                  <unittitle>"Stepping Heavenward" by E. Prentiss. New York: Anson D. F. Randolph &amp; Company</unittitle>
+                  <unitdate>1869</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref168" level="file">
+               <did>
+                  <container type="Box">21</container>
+                  <unittitle>"Divine Word Opened" by Jonathan Bayley. London: James Speirs</unittitle>
+                  <unitdate>1887</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref169" level="file">
+               <did>
+                  <container type="Box">21</container>
+                  <unittitle>"Moral Philosophy including Theoretical and Practical Ethics" by Jospeh Haven. Boston: Gould and Lincoln; New York: Sheldon and Company</unittitle>
+                  <unitdate>1873</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref170" level="file">
+               <did>
+                  <container type="Box">21</container>
+                  <unittitle>"Elements of Geometry and Trigonometry" by A. M. Legendre. New York and Chicago, A. S. Barnes &amp; Company</unittitle>
+                  <unitdate>1872</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref171" level="file">
+               <did>
+                  <container type="Box">21</container>
+                  <unittitle>"New Treatise on Surveying and Navigation" by Oren Root. New York: Ivison, Phinney, Blakeman &amp; Co.; Chicago: S. C. Griggs &amp; Co.</unittitle>
+                  <unitdate>1864</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref172" level="file">
+               <did>
+                  <container type="Box">21</container>
+                  <unittitle>"Fourteen weeks in natural philosophy" by J. Dorman Steele. New York and Chicago : A. S. Barnes &amp; Co.</unittitle>
+                  <unitdate>1872</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref173" level="file">
+               <did>
+                  <container type="Box">21</container>
+                  <unittitle>"Scholar's Guide to the History of the Bible" by T. Strong. Greenfield, Clark &amp; Tylex, Denio &amp; Phelps, Printers.</unittitle>
+                  <unitdate>1822</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref174" level="file">
+               <did>
+                  <container type="Box">21</container>
+                  <unittitle>"Word-analysis: a graded class-book of English derivative words" by William Swinton. New York and Chicago: Ivison, Blakeman, Taylor and Company</unittitle>
+                  <unitdate>1874</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref175" level="file">
+               <did>
+                  <container type="Box">21</container>
+                  <unittitle>"People's money" by W. L. Trenholm. New York, Charles Scribner's Sons</unittitle>
+                  <unitdate>1893</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref176" level="file">
+               <did>
+                  <container type="Box">22</container>
+                  <unittitle>"Holy Bible containing the Old &amp; New Testaments" Brattleborough, VT: printed for Holbrook &amp; Fessenden</unittitle>
+                  <unitdate>1824</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref177" level="file">
+               <did>
+                  <container type="Box">23</container>
+                  <unittitle>"New Bryant and Stratton's Common School Book Keeping" New York: Smith &amp; McDougal, Electrotypers</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref178" level="file">
+               <did>
+                  <container type="Box">23</container>
+                  <unittitle>"Vine and Olive; or Young America in Spain and Portugal" by William T. Adams. Boston :Lee and Shepard</unittitle>
+                  <unitdate>1876</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref179" level="file">
+               <did>
+                  <container type="Box">23</container>
+                  <unittitle>"Black's Guide to Killarney and the South of Ireland" by Adam and Charles Black. Edinburgh : Adam and Charles Black</unittitle>
+                  <unitdate>1879</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref180" level="file">
+               <did>
+                  <container type="Box">23</container>
+                  <unittitle>"A typical American ; or, Incidents in the Life of Dr. John Swinburne of Albany" by The Citizen's Association. Albany, NY: Issued from the Citizen office</unittitle>
+                  <unitdate>1885</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref181" level="file">
+               <did>
+                  <container type="Box">23</container>
+                  <unittitle>"Lost in the Jungle" by Paul Du Chaillu. New York: Harper &amp; Brothers</unittitle>
+                  <unitdate>1874</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref182" level="file">
+               <did>
+                  <container type="Box">23</container>
+                  <unittitle>"Rudiments of written Arithmetic" by Daniel W. Fish. New York and Chicago: Ivison, Blakeman, Taylor &amp; Co.</unittitle>
+                  <unitdate>1877</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref183" level="file">
+               <did>
+                  <container type="Box">23</container>
+                  <unittitle>"The destiny of man viewed in the light of his origin" by John Fiske. Boston: Houghton, Mifflin and Company; New York : The Riverside Press</unittitle>
+                  <unitdate>1887</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref184" level="file">
+               <did>
+                  <container type="Box">23</container>
+                  <unittitle>"Chinese and English phrase book, with the Chinese pronunciation indicated in English" by Benoni Lanctot. San Francicso: A. Roman &amp; Company</unittitle>
+                  <unitdate>1867</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref185" level="file">
+               <did>
+                  <container type="Box">23</container>
+                  <unittitle>"The harp of Zion, a collection of poems, &amp;c." by John Lyon. Liverpool: S. W. Richards</unittitle>
+                  <unitdate>1853</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref186" level="file">
+               <did>
+                  <container type="Box">23</container>
+                  <unittitle>"Key to the science of theology" by Parley P. Pratt. Liverpool: S. W. Richards</unittitle>
+                  <unitdate>1863</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref187" level="file">
+               <did>
+                  <container type="Box">23</container>
+                  <unittitle>"Catholocity, Protestantism and Infidelity" by F. X. Weninger. New York &amp; Cincinnati: Benziger brothers printers to the Holy Apostolic See</unittitle>
+                  <unitdate>1871</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref188" level="file">
+               <did>
+                  <container type="Box">24</container>
+                  <unittitle>"Book of Mormon: an account written by the hand of Mormon upon plates taken from the plates of Nephi." Translated by Joseph Smith. Liverpool: Brigham Young</unittitle>
+                  <unitdate>1866</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref189" level="file">
+               <did>
+                  <container type="Box">24</container>
+                  <unittitle>"Great shipwrecks: a record of perils and disasters at sea -1544 to 1877" London: Thomas Nelson and Sons, Paternoster Row</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref190" level="file">
+               <did>
+                  <container type="Box">24</container>
+                  <unittitle>"Moral education: its laws and methods" by Joseph Rodes Buchanan. New York, printed for the author by S. W. Green's son</unittitle>
+                  <unitdate>circa 1882</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref191" level="file">
+               <did>
+                  <container type="Box">24</container>
+                  <unittitle>"History of the conflict between religion and science; The International Scientific Series Vol XII" by John William Draper. New York: D. Appleton and Company</unittitle>
+                  <unitdate>1875</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref192" level="file">
+               <did>
+                  <container type="Box">24</container>
+                  <unittitle>"Rousseau" by John Morley. New York: Scribner and Welford</unittitle>
+                  <unitdate>1878</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref193" level="file">
+               <did>
+                  <container type="Box">24</container>
+                  <unittitle>"Elements of political economy" by Arthur Latham Perry. New York : Charles Scribner's Sons</unittitle>
+                  <unitdate>1873</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref194" level="file">
+               <did>
+                  <container type="Box">24</container>
+                  <unittitle>"Tips and toe-weights; a natural and plain method of horse-shoeing" by Joseph Cairn Simpson. San Francisco</unittitle>
+                  <unitdate>1883</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref195" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <unittitle>"Wonder stories told for children" by Hans Christian Anderson. New York : Hurd &amp; Houghton</unittitle>
+                  <unitdate>1872</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref196" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <unittitle>"Cast Up by the Sea" by Samuel W. Baker. Philadelphia: J. B. Lippincott &amp; Co</unittitle>
+                  <unitdate>1875</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref197" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <unittitle>"Rifle and the Houndin Ceylon" by Samuel W. Baker. Philadelphia: J. B. Lippincott &amp; Co</unittitle>
+                  <unitdate>1875</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref198" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <unittitle>"Burgh's dignity of human nature, to which is added, the proper method of preserving health" by Lewis Cornaro. Philadelphia: Thomas Stokes</unittitle>
+                  <unitdate>1851</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref199" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <unittitle>"Old-Fashoned Boy" by Martha Farquharson. Philadelphia: Stephen T. Souder</unittitle>
+                  <unitdate>1878</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref200" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <unittitle>"In the eastern seas, or the regions of the bird of paradise" by W. H. G. Kingston. London: T. Nelson and sons</unittitle>
+                  <unitdate>1876</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref201" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <unittitle>"New Elementary Algebra" by Horatio N. Robinson. New York: Ivison, Blakeman, Taylor &amp; Co.</unittitle>
+                  <unitdate>1872</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref202" level="file">
+               <did>
+                  <container type="Box">26</container>
+                  <unittitle>"My apingi kingdom: with life in the great sahara and sketches of the chase of the ostrich, hyena, etc." by Paul Du Chaillu. New York: Harper &amp; Brothers</unittitle>
+                  <unitdate>1876</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref203" level="file">
+               <did>
+                  <container type="Box">26</container>
+                  <unittitle>"Stories of the gorilla country" by Paul Du Chaillu. New York: Harper &amp; Brothers</unittitle>
+                  <unitdate>1875</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref204" level="file">
+               <did>
+                  <container type="Box">26</container>
+                  <unittitle>"The country of the dwarfs" by Paul Du Chaillu. New York: Harper &amp; Brothers</unittitle>
+                  <unitdate>1876</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref205" level="file">
+               <did>
+                  <container type="Box">26</container>
+                  <unittitle>"Evidences of Christianity. Lectures before the Lowell Institute January, 1844." by Mark Hopkins. Boston: T. R. Marvin &amp; son</unittitle>
+                  <unitdate>1886</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref206" level="file">
+               <did>
+                  <container type="Box">26</container>
+                  <unittitle>"Prayers for the use of families; or the domestic minister's assistant" by William Jay. New York: M. W. Dodd</unittitle>
+                  <unitdate>1853</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref207" level="file">
+               <did>
+                  <container type="Box">26</container>
+                  <unittitle>"Catskill Fairies" by Virginia W. Johnson. London: C. Kegan Paul &amp; Co.</unittitle>
+                  <unitdate>1881</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref208" level="file">
+               <did>
+                  <container type="Box">26</container>
+                  <unittitle>"Golden Robin, for the use of juvenile classes, public schools &amp; seminaries" by W. O. Perkins. Boston: Oliver Ditson company; New York: C. H. Ditson &amp; Co.</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref209" level="file">
+               <did>
+                  <container type="Box">26</container>
+                  <unittitle>"The log of an ancient mariner being the life and adventures of Captain Edgar Wakeman" by Edgar Wakeman. San Francisco: A. L. Bancroft</unittitle>
+                  <unitdate>1878</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref210" level="file">
+               <did>
+                  <container type="Box">27</container>
+                  <unittitle>"A Contrast between Christianity and Calvinism by a Western Clergyman" Fredonia, NY: H. C. Frisbee</unittitle>
+                  <unitdate>1824</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref211" level="file">
+               <did>
+                  <container type="Box">27</container>
+                  <unittitle>"General Register of the Society of Colonial Wars 1899-1902" New York: Author of the General Assembly</unittitle>
+                  <unitdate>1902</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref212" level="file">
+               <did>
+                  <container type="Box">27</container>
+                  <unittitle>"Pacific Coast First Reader; revised edition" San Francisco: A. L. Bancroft &amp; Company</unittitle>
+                  <unitdate>1874</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref213" level="file">
+               <did>
+                  <container type="Box">27</container>
+                  <unittitle>"A Course of the French Language" by Louis Fasquelle. New York: Ivison, Blakeman, Taylor &amp; Co.</unittitle>
+                  <unitdate>1870</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref214" level="file">
+               <did>
+                  <container type="Box">27</container>
+                  <unittitle>"Fourth Reader" by William Torrey Harris, Andrew J. Rickoff and Mark Bailey. New York, Boston, and Chicago: D. Appleton and Company</unittitle>
+                  <unitdate>1880</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref215" level="file">
+               <did>
+                  <container type="Box">27</container>
+                  <unittitle>"Lineage Book, National Society of the Daughters ofthe American Revolution" by Susan Riviere Hetzel. Washington,DC: Harrisburg Publishing Company</unittitle>
+                  <unitdate>1902</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref216" level="file">
+               <did>
+                  <container type="Box">27</container>
+                  <unittitle>"My first voyage to southern seas : a book for boys" by William Henry Giles Kingston. London: T. Nelson and sons, Paternoster Row</unittitle>
+                  <unitdate>1874</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref217" level="file">
+               <did>
+                  <container type="Box">27</container>
+                  <unittitle>"Christian Remebrancer, or Short Reflections upon the Faith, Life, and Conduct of a Real Christian" by Jonathan Youmans. New York: Sleight and Robinson</unittitle>
+                  <unitdate>1830</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref218" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>"For Family Worship, Part I - Scripture Readings, Part II - Family Prayers" by Lyman Abott. New York: Dodd, Mead &amp; Company</unittitle>
+                  <unitdate>1883</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref219" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>"The beauties of the British poets, with a few introductory observations" by George Croly. New York: C. Wells</unittitle>
+                  <unitdate>1831</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref220" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>"Magnolia" edited by Henry W. Herpert. New York: A. &amp; C. B. Edwards</unittitle>
+                  <unitdate>1841</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref221" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>"The railroad as an element in education" by Alexander Hogg. Louisville, printed for the author.</unittitle>
+                  <unitdate>1887</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref222" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>"Christianity vindicated in seven discourses on the external evidences of the New Testament" by John Henry Hopkins. Burlington: Edward Smith</unittitle>
+                  <unitdate>1833</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref223" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>"Education in its relation to manual industry" by Arthur MacArthur. New York: D. Appleton and Company</unittitle>
+                  <unitdate>1884</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref224" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>""Mitchell's primary geography, an easy introduction to the study of geography, designed for the instruction of children in schools and families." by S. Augustus Mitchell. Philadelphia: Thomas, Cowperthwait</unittitle>
+                  <unitdate>1853</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref225" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>"The Gates Ajar" by Elizabeth Stuart Phelps. Boston: Houghton, Mifflin and Co., The Riverside Press, Cambridge</unittitle>
+                  <unitdate>1884</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref226" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>"An I.D.B. in South Africa" by Louise Vescelius Sheldon. New York: John W. Lovell Company</unittitle>
+                  <unitdate>1888</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref227" level="file">
+               <did>
+                  <container type="Box">29</container>
+                  <unittitle>"Aids to Devotion, in three parts including Watt's guide to prayer" Boston: Licoln and Edmands, etc</unittitle>
+                  <unitdate>1831</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref228" level="file">
+               <did>
+                  <container type="Box">29</container>
+                  <unittitle>"Principles of Christian Philosophy" by John Burns. Philadelphia: Carey, Lea and Blanchard</unittitle>
+                  <unitdate>1833</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref229" level="file">
+               <did>
+                  <container type="Box">29</container>
+                  <unittitle>"Twenty-ninth Annual Report of the Superintendent of Public Schools for the School Year Ending June 30th, 1882" by Dept. of Public Schools, City and County of San Francisco. San Francisco: Barry, Baird &amp; Co., Book and Job Printers</unittitle>
+                  <unitdate>1882</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref230" level="file">
+               <did>
+                  <container type="Box">29</container>
+                  <unittitle>"Greatest Thing in the World" by Henry Drummond. New York: James Pott &amp; Co.</unittitle>
+                  <unitdate>1891</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref231" level="file">
+               <did>
+                  <container type="Box">29</container>
+                  <unittitle>"Eternal Hope: five sermons preached in Westminster Abbey, November and December, 1877" by Frederic William Farrar. New York: E. P. Dutton &amp; Company</unittitle>
+                  <unitdate>1885</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref232" level="file">
+               <did>
+                  <container type="Box">29</container>
+                  <unittitle>"One Angel More in Heaven" by Saint Francis de Sales. New York, Cincinnati, and Chicago: Benziger Brothers</unittitle>
+                  <unitdate>1885</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref233" level="file">
+               <did>
+                  <container type="Box">29</container>
+                  <unittitle>"How to see Jesus with Fulness of Joy and Peace" by James William Kimball. Boston: James William Kimball</unittitle>
+                  <unitdate>1880</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref234" level="file">
+               <did>
+                  <container type="Box">29</container>
+                  <unittitle>"Supremacy of Law" by John P. Newman. New York: Hunt &amp; Eaton; Cincinnati: Cranston &amp; Stowe</unittitle>
+                  <unitdate>1890</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref235" level="file">
+               <did>
+                  <container type="Box">29</container>
+                  <unittitle>"Gates Ajar" by Elizabeth Stuart Phelps. Boston: Fields, Osgood, &amp; Co.</unittitle>
+                  <unitdate>1869</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref236" level="file">
+               <did>
+                  <container type="Box">29</container>
+                  <unittitle>"Voice Culture and Elocution" by William T. Rose. San Francisco: Payot, Upham &amp; Co.</unittitle>
+                  <unitdate>1886</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref237" level="file">
+               <did>
+                  <container type="Box">30</container>
+                  <unittitle>"Constitutional Guide; comprising the constitution of the United States" New York: G. C. Carvill &amp; Co., Halstead &amp; Voorhies etc.</unittitle>
+                  <unitdate>1834</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref238" level="file">
+               <did>
+                  <container type="Box">30</container>
+                  <unittitle>"Nouveau Dictionnaire Anglais-Francais, et Francais-Anglais" Paris: Baudry, Librairie Europeenne</unittitle>
+                  <unitdate>1875</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref239" level="file">
+               <did>
+                  <container type="Box">30</container>
+                  <unittitle>"Farm Ballads" by William Carleton. New York: Harper &amp; Brothers</unittitle>
+                  <unitdate>1873</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref240" level="file">
+               <did>
+                  <container type="Box">30</container>
+                  <unittitle>"Hearts and homes; or Social distinction" by Mrs. [Sarah Stickney] Ellis. New York: D. Appleton and Company</unittitle>
+                  <unitdate>1866</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref241" level="file">
+               <did>
+                  <container type="Box">30</container>
+                  <unittitle>"A Thousand and One Gems of Poetry" by Charles Mackay. London, George Routledge &amp; Sons</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref242" level="file">
+               <did>
+                  <container type="Box">30</container>
+                  <unittitle>"Dick Sands, the Boy Captain" by Jules Verne. London: Sampson Low, Marston, Searle, &amp; Rivington</unittitle>
+                  <unitdate>1881</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref243" level="file">
+               <did>
+                  <container type="Box">31</container>
+                  <unittitle>"The young detective, or, Which won?" by Rosa Abbott. Boston : Lee and Shepard</unittitle>
+                  <unitdate>1871</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref244" level="file">
+               <did>
+                  <container type="Box">31</container>
+                  <unittitle>"After death-what? or hell and salvation considered in the light of science and philosophy" by W. H. Platt. San Francisco: A. Roman &amp; Co.</unittitle>
+                  <unitdate>1878</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref245" level="file">
+               <did>
+                  <container type="Box">31</container>
+                  <unittitle>"Young man's book of knowledge" by Thomas Tegg. New York: J. P. Peaslee</unittitle>
+                  <unitdate>1834</unitdate>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

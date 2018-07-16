@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[Stanford University, Information Technology Services, audiovisual materials])//EN"
+             identifier="ark:/13030/kt4000360v">sc1075.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Stanford University, Information Technology Services, Audiovisual Materials
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Stanford University, Information Technology Services, Audiovisual Materials</titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2011-11">November 2011</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC1075</unitid>
+         <origination label="Creator:">
+            <corpname rules="dacs" source="naf">Stanford University. Information Technology Services</corpname>
+         </origination>
+         <unittitle label="Title:">Stanford University, Information Technology Services, audiovisual materials</unittitle>
+         <unitdate normal="1980/1995"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1980-1995</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>0.25 Linear feet (2 videotapes-VHS)</extent>
+         </physdesc>
+         <abstract label="Summary:">Audio and video recordings of committee proceedings, panel discussions, and research.</abstract>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <accessrestrict id="ref8">
+            <head>Information about Access</head>
+            <p>The materials are open for research use. Audio-visual materials are not available in original format, and must be reformatted to a digital use copy.</p>
+         </accessrestrict>
+         <userestrict id="ref9">
+            <head>Ownership &amp; Copyright</head>
+            <p>All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Special Collections and University Archives, Stanford University Libraries, Stanford, California 94304-6064. Consent is given on behalf of Special Collections as the owner of the physical items and is not intended to include or imply permission from the copyright owner. Such permission must be obtained from the copyright owner, heir(s) or assigns. See: http://library.stanford.edu/depts/spc/pubserv/permissions.html.</p>
+            <p>Restrictions also apply to digital representations of the original materials. Use of digital files is restricted to research and educational purposes.</p>
+         </userestrict>
+         <prefercite id="ref10">
+            <head>Cite As</head>
+            <p>[identification of item], Stanford University, Information Technology Services, Audiovisual Materials (SC1075). Dept. of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <scopecontent id="ref12">
+         <head>Scope and Contents</head>
+         <p>The materials consist of Audio and video recordings of committee proceedings, panel discussions, and research.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <persname rules="aacr" source="naf">Engelbart, D. C., 1925-</persname>
+         <persname rules="aacr" source="ingest">Etchemendy, John, 1952-</persname>
+         <persname rules="aacr" source="lcnaf">Marcus, Jane Ellen.</persname>
+         <persname rules="aacr" source="local">Rogers, Everett.</persname>
+         <corpname rules="dacs" source="naf">Stanford University. Information Technology Services</corpname>
+         <subject source="LCSH">Education, Higher--Effect of technological innovations on.</subject>
+         <subject source="ingest">Information services</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.5">
+         <head>Collection Contents</head>
+         <c01 id="ref1" level="file">
+            <did>
+               <unittitle>Committee on Office Systems Technology (COST)</unittitle>
+               <unitdate>1980</unitdate>
+            </did>
+            <c02 id="ref5" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unitid>1.1</unitid>
+                  <unittitle>
+                     <persname>Rogers, Everett</persname>, "Inventing and Using; respondent: Martin</unittitle>
+                  <unitdate>1980</unitdate>
+                  <physdesc>
+                     <extent>1 audiocassette(s)</extent>
+                  </physdesc>
+                  <dao linktype="simple"
+                       actuate="onrequest"
+                       title="Rogers, Everett, &#34;Inventing and Using; respondent: Martin (Side B)"
+                       role="Audio-Streaming"
+                       href="https://sul-streaming.stanford.edu/collections/sc1075/yy181wp4498_b_sl.html"
+                       show="new">
+                     <daodesc>
+                        <p>Rogers, Everett, "Inventing and Using; respondent: Martin (Side B), 1980 </p>
+                     </daodesc>
+                  </dao>
+                  <dao linktype="simple"
+                       actuate="onrequest"
+                       title="Rogers, Everett, &#34;Inventing and Using; respondent: Martin (Side A)"
+                       role="Audio-Streaming"
+                       href="https://sul-streaming.stanford.edu/collections/sc1075/yy181wp4498_a_sl.html"
+                       show="new">
+                     <daodesc>
+                        <p>Rogers, Everett, "Inventing and Using; respondent: Martin (Side A), 1980 </p>
+                     </daodesc>
+                  </dao>
+               </did>
+            </c02>
+            <c02 id="ref6" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unitid>1.2</unitid>
+                  <unittitle>Lodahl: Org. Functions of Text; respondent: 
+                            <persname>Engelbart, Douglas C.</persname>
+                  </unittitle>
+                  <unitdate>1980</unitdate>
+                  <physdesc>
+                     <extent>1 audiocassette(s)</extent>
+                  </physdesc>
+                  <dao linktype="simple"
+                       actuate="onrequest"
+                       title="Lodahl: Org. Functions of Text; respondent: Englebart, Douglas (side A)"
+                       role="Audio-Streaming"
+                       href="https://sul-streaming.stanford.edu/collections/sc1075/tj983st7391_a_sl.html"
+                       show="new">
+                     <daodesc>
+                        <p>Lodahl: Org. Functions of Text; respondent: Englebart, Douglas (side A), 1980 </p>
+                     </daodesc>
+                  </dao>
+                  <dao linktype="simple"
+                       actuate="onrequest"
+                       title="Lodahl: Org. Functions of Text; respondent: Englebart, Douglas (Side B)"
+                       role="Audio-Streaming"
+                       href="https://sul-streaming.stanford.edu/collections/sc1075/tj983st7391_b_sl.html"
+                       show="new">
+                     <daodesc>
+                        <p>Lodahl: Org. Functions of Text; respondent: Englebart, Douglas (Side B), 1980 </p>
+                     </daodesc>
+                  </dao>
+               </did>
+            </c02>
+            <c02 id="ref7" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unitid>1.3</unitid>
+                  <unittitle>Bye: User Needs; respondent: Johannsen</unittitle>
+                  <unitdate>1980</unitdate>
+                  <physdesc>
+                     <extent>1 audiocassette(s)</extent>
+                  </physdesc>
+                  <dao linktype="simple"
+                       actuate="onrequest"
+                       title="Bye: User Needs; respondent: Johannsen (side B)"
+                       role="Audio-Streaming"
+                       href="https://sul-streaming.stanford.edu/collections/sc1075/kf537dy3180_b_sl.html"
+                       show="new">
+                     <daodesc>
+                        <p>Bye: User Needs; respondent: Johannsen (side B), 1980 </p>
+                     </daodesc>
+                  </dao>
+                  <dao linktype="simple"
+                       actuate="onrequest"
+                       title="Bye: User Needs; respondent: Johannsen (side A)"
+                       role="Audio-Streaming"
+                       href="https://sul-streaming.stanford.edu/collections/sc1075/kf537dy3180_a_sl.html"
+                       show="new">
+                     <daodesc>
+                        <p>Bye: User Needs; respondent: Johannsen (side A), 1980 </p>
+                     </daodesc>
+                  </dao>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref4" level="file">
+            <did>
+               <container type="Box">1</container>
+               <unitid>1.4</unitid>
+               <unittitle>"Computer Based Text Systems: Four User Reports"</unittitle>
+               <unitdate>1982 Jan 27</unitdate>
+               <physdesc>
+                  <extent>1 videotape(s) (U-matic)</extent>
+               </physdesc>
+               <dao linktype="simple"
+                    actuate="onrequest"
+                    title="&#34;Computer Based Text Systems: Four User Reports&#34;"
+                    role="Audio-Streaming"
+                    href="https://sul-streaming.stanford.edu/collections/sc1075/ff429vg1720_web.html"
+                    show="new">
+                  <daodesc>
+                     <p>"Computer Based Text Systems: Four User Reports", 1982 Jan 27 </p>
+                  </daodesc>
+               </dao>
+            </did>
+         </c01>
+         <c01 id="ref2" level="file">
+            <did>
+               <container type="Box">1</container>
+               <unitid>1.5</unitid>
+               <unittitle>Commission on Technology in Teaching and Learning (CTTL), Professor 
+                        <persname>Etchemendy, John</persname>
+               </unittitle>
+               <unitdate>1995</unitdate>
+               <physdesc>
+                  <extent>1 videotape(s) (VHS)</extent>
+               </physdesc>
+               <dao linktype="simple"
+                    actuate="onrequest"
+                    title="Commission on Technology in Teaching and Learning (CTTL), Professor John Etchemendy"
+                    role="Audio-Streaming"
+                    href="https://sul-streaming.stanford.edu/collections/sc1075/vy581vp1537_web.html"
+                    show="new">
+                  <daodesc>
+                     <p>Commission on Technology in Teaching and Learning (CTTL), Professor John Etchemendy, 1995 </p>
+                  </daodesc>
+               </dao>
+            </did>
+         </c01>
+         <c01 id="ref3" level="file">
+            <did>
+               <container type="Box">1</container>
+               <unitid>1.6</unitid>
+               <unittitle>
+                  <persname>Rogers, Everett</persname>, "Diffusion of Innovation" (NCHE)</unittitle>
+               <unitdate>1995</unitdate>
+               <physdesc>
+                  <extent>1 videotape(s) (VHS)</extent>
+               </physdesc>
+               <dao linktype="simple"
+                    actuate="onrequest"
+                    title="Rogers, Everett, &#34;Diffusion of Innovation&#34; (NCHE)"
+                    role="Audio-Streaming"
+                    href="https://sul-streaming.stanford.edu/collections/sc1075/jf701kp3329_web.html"
+                    show="new">
+                  <daodesc>
+                     <p>Rogers, Everett, "Diffusion of Innovation" (NCHE), 1995 </p>
+                  </daodesc>
+               </dao>
+            </did>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

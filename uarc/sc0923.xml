@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[Cooper Medical College collection])//EN"
+             identifier="ark:/13030/kt1k40353c">sc0923.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Cooper Medical College Collection
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Cooper Medical College Collection</titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University Libraries.</publisher>
+            <publisher>Dept. of Special Collections &amp; University Archives.</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2011-05">May 2011</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date normal="2014-12">December 2014</date>
+            <item/>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC0923</unitid>
+         <origination label="Creator:">
+            <corpname rules="dacs" source="naf" role="Other (oth)">Stanford University</corpname>
+         </origination>
+         <unittitle label="Title:">Cooper Medical College collection</unittitle>
+         <unitdate normal="1857/1974"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1857-1974</unitdate>
+         <unitdate normal="1857/1894"
+                   type="bulk"
+                   label="Bulk Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation"> 1857-1894</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>0.75 Linear feet</extent>
+         </physdesc>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <physloc label="Physical Location:">Special Collections and University Archives materials are stored offsite and must be paged 36-48 hours in advance. For more information on paging collections, see the department's website: 
+                <extref href="http://library.stanford.edu/spc"
+                    linktype="simple"
+                    actuate="onrequest"
+                    show="new">http://library.stanford.edu/spc</extref>.</physloc>
+         <repository label="Repository:">
+            <corpname>Dept. of Special Collections &amp; University Archives.</corpname>
+            <address>
+               <addressline>Stanford University Libraries.</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: speccollref@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <prefercite id="ref2">
+            <head>Cite As</head>
+            <p>[identification of item], Cooper Medical College Collection (SC0923). Dept. of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+         <prefercite id="ref38">
+            <head>Cite As</head>
+            <p>[identification of item], Cooper Medical College Collection (SC0923). Dept. of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <bioghist id="ref3">
+         <head>Biographical/Historical note</head>
+         <p>The Medical Department of the University of the Pacific was the first medical school on the West Coast, founded in San Francisco in 1858 by Dr. Elias Samuel Cooper. Following the death of Dr. Cooper in 1862, the program was suspended. In 1864, Dr. Hugh Huger Toland founded Toland Medical College in San Francisco, which later became the medical department of the University of California. By 1872 the Medical Department of the University of the Pacific was reorganized as the Medical College of the Pacific in affiliation with University (City) College. In 1882 Dr. Levi Cooper Lane generously donated a state of the art building to the medical school and the name of the school was subsequently changed from the Medical College of the Pacific to Cooper Medical College in honor of Dr. Lane's uncle, Dr. Elias Samuel Cooper. In 1908, Dr. Lane granted permission for the equipment and properties of Cooper Medical College to be transferred to Stanford University. Instruction by Stanford University began in 1909 and continued in San Francisco until 1959, at which time the Stanford School of Medicine opened on the Stanford campus.</p>
+      </bioghist>
+      <scopecontent id="ref4">
+         <head>Scope and Contents note</head>
+         <p>The Cooper Medical College collection consists primarily of ephemeral material such as commencement invitations, programs, and addresses from Cooper Medical College and its predecessors, the Medical College of the Pacific, and Toland Medical College. Also included are several printed lectures from the Medical College of the Pacific, 1861-1879, annual reports, medical publications, faculty handbooks, clippings, and an alumni directory.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <corpname rules="dacs" source="ingest">Cooper Medical College.</corpname>
+         <persname rules="aacr" source="ingest" role=" ">Cooper, Elias Samuel, 1820-1862.</persname>
+         <persname rules="aacr" source="ingest">Lane, Levi Cooper, 1833-1902.</persname>
+         <corpname rules="dacs" source="ingest">Medical College of the Pacific (San Francisco, Calif.)</corpname>
+         <corpname rules="dacs" source="ingest">Toland Medical College.</corpname>
+         <corpname rules="dacs" source="ingest">University of the Pacific. Medical Dept.</corpname>
+         <subject source="ingest">Medicine--California</subject>
+         <subject source="ingest">Medicine--History</subject>
+         <subject source="LCSH">Medicine--Study and teaching--California --Stanford.</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.6">
+         <head>Collection Contents</head>
+         <c01 id="ref5" level="series">
+            <did>
+               <unittitle>Collection items</unittitle>
+            </did>
+            <c02 id="ref33" level="subseries">
+               <did>
+                  <unittitle>Toland Medical College</unittitle>
+               </did>
+               <c03 id="ref6" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Toland Medical College-Opening Address</unittitle>
+                     <unitdate>1866</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref7" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Toland Medical College-Valedictory Address</unittitle>
+                     <unitdate>1869</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref8" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Toland Medical College-Annual Announcement of Lectures</unittitle>
+                     <unitdate>1871</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref9" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Toland Medical College-History from: Thompson, William Benbow. The Story of the Professorship of Obstetrics at the University of California. Reprinted from: Portland, Or: Western Journal of Surgery Pub. Co</unittitle>
+                     <unitdate>1950</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref34" level="subseries">
+               <did>
+                  <unittitle>Medical College of the Pacific</unittitle>
+               </did>
+               <c03 id="ref36" level="file">
+                  <did>
+                     <unittitle>Announcement of the Medical Department of the University of the Pacific</unittitle>
+                  </did>
+                  <scopecontent>
+                     <p>The present pamphlet indicates that while the school was established in 1858, it did not begin normal operation until the spring of the following year. "The regular Annual Course of Lectures in this Institution will commence on the first Monday in May, 1859, and be continued for eighteen weeks" (p. 8). The pamphlet also includes a brief outline of the courses offered and a schedule of fees.</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="ref10" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Medical College of the Pacific-Lectures</unittitle>
+                     <unitdate>1861-1879</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref11" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Medical College of the Pacific-Annual Announcements</unittitle>
+                     <unitdate>1872-1882</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref12" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Medical College of the Pacific-Commencement Programs</unittitle>
+                     <unitdate>1871-1879</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref13" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">8</container>
+                  <unittitle>
+                     <persname>Cooper, Elias Samuel</persname>-publications, addresses, biographical</unittitle>
+                  <unitdate normal="1856/1938" type="inclusive">1856-1938</unitdate>
+               </did>
+               <bioghist>
+                  <p>Elias S. Cooper, founder of California's (and the West Coast's) first medical school, came to San Francisco in May 1855 and immediatelyembarked on an ambitious program to advance the status of medicine in the state. He not only established his own medical and surgical practice in the city (which he promoted vigorously, to the dismay of some of his rivals), but also began his own private medical teaching program), agitated for improvements in the teaching of anatomy, helped to found both the San Francisco County Medico-Chirurgical Association and the California State Medical Society, began publishing the prestigious Pacific Medical and Surgical Journal, and in the fall of 1858 founded California's first medical school, attached to the University of the Pacific. The medical school's faculty originally consisted of Cooper and six others; Cooper's nephew, Levi Cooper Lane, joined the faculty in 1859. Cooper served as professor of anatomy and surgery at the school from its inception until his death eight years later. After Cooper's death the school went into decline, being eclipsed by the foundation in 1864 of the rival Toland Medical College, ancestor of the University of California's medical school. In 1870 Cooper's school was revived by Levi Cooper Lane and Henry Gibbons; in 1882 it was renamed Cooper Medical College after its founder. After several decades of independent existence, Cooper Medical College was acquired by Stanford University; Stanford University'sSchool of Medicine thus can trace its ancestry back to the first medical school founded on the West Coast.</p>
+               </bioghist>
+            </c02>
+            <c02 id="ref14" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">9</container>
+                  <unittitle>
+                     <persname>Lane, Levi Cooper</persname>-dissertation, publications</unittitle>
+                  <unitdate>1876-1891, undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref15" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">10</container>
+                  <unittitle>
+                     <persname>Thorne, W. S.</persname>-"Report on Surgery"</unittitle>
+                  <unitdate>1885</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref35" level="subseries">
+               <did>
+                  <unittitle>Cooper Medical College</unittitle>
+               </did>
+               <c03 id="ref16" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Cooper Medical College-Annual Announcement</unittitle>
+                     <unitdate>1885</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref17" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">12</container>
+                     <unittitle>Cooper Medical College-Annual Report (Morse Dispensary)</unittitle>
+                     <unitdate>1884-1890</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref18" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">13</container>
+                     <unittitle>Cooper Medical College-Annual Report (Dispensary)</unittitle>
+                     <unitdate>1891-1893</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref19" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">14</container>
+                     <unittitle>Cooper Medical College-Annual Report of Clinics</unittitle>
+                     <unitdate>1894</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref20" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">15</container>
+                     <unittitle>Cooper Medical College-Commencement Invitations and Programs</unittitle>
+                     <unitdate>1883-1912</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref21" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">16</container>
+                     <unittitle>Cooper Medical College-Commencement Addresses</unittitle>
+                     <unitdate>1884-1888</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref22" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">17</container>
+                     <unittitle>Cooper Medical College-Commencement Addresses</unittitle>
+                     <unitdate>1889</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref23" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">18</container>
+                     <unittitle>Cooper Medical College-Commencement Addresses</unittitle>
+                     <unitdate>1890</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref24" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">19</container>
+                     <unittitle>Cooper Medical College-Commencement Addresses</unittitle>
+                     <unitdate>1890</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref41" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">20</container>
+                     <unittitle>Cooper Medical College-Announcement of Lectures</unittitle>
+                     <unitdate>1859</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref42" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">21</container>
+                     <unittitle>Cooper Medical College-
+                                <title render="doublequote" linktype="simple">Anatomical and Surgical Lectures</title> (advertisement); 
+                                <title render="doublequote" linktype="simple">To the Medical Profession</title> (advertisement).</unittitle>
+                     <unitdate>1856, 01858</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref25" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Cooper Medical College-Building-Dedication</unittitle>
+                     <unitdate>1882</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref26" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Cooper Medical College-Building: Shuman, Ronald. Portraits: The Cooper Medical Building, the Lane Hospital Building. San Francisco: Pacific Medical Center</unittitle>
+                     <unitdate>1974</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref27" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Cooper Medical College-Rules for the Government of the Faculty of Cooper Medical College</unittitle>
+                     <unitdate>1891</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref28" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Cooper Medical College-Stanford University, and J. H. Wythe. Faculty of the Cooper Medical College, Successor to the Medical College of the Pacific, San Francisco, 1882-1912. [Palo Alto]: Stanford University, School of Medicine</unittitle>
+                     <unitdate>1969</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref29" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Cooper Medical College-Letter to Alumni</unittitle>
+                     <unitdate>1911</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref30" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Cooper Medical College-Alumni Directory, 1859-1912. San Francisco, CA: Cooper Medical College</unittitle>
+                     <unitdate>1916</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref31" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Cooper Medical College-Barkan, Hans. Cooper Medical College, Founded by Levi Cooper Lane; an Historical Sketch. San Francisco, Ca: Stanford Medical Bulletin</unittitle>
+                     <unitdate>1954</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref32" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Cooper Medical College-Clippings</unittitle>
+                     <unitdate>1973</unitdate>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,575 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  
+  
+  
+  
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" repositoryencoding="iso15511" findaidstatus="unverified-full-draft" langencoding="iso639-2b"><eadid countrycode="us" identifier="ark:/13030/tf6199n7rn" mainagencycode="CSt-H" publicid="PUBLIC &quot;-//Stanford University::Hoover Institution Archives//TEXT&#10;(US::CSt-H::::Harley C. Stevens Papers)//EN&quot; &quot;stevensh.sgm&quot;">stevensh.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Preliminary Inventory of the Harley C. Stevens Papers, <date calendar="gregorian" era="ce">1901-1961</date></titleproper><titleproper type="filing">Stevens (Harley C.) Papers</titleproper>
+        <author>Processed by The Hoover Institution staff; machine-readable finding aid created by
+Brooke Dykman Dockter</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Hoover Institution Archives</publisher>
+        <address>
+          <addressline>Stanford University</addressline>
+          <addressline>Stanford, California 94305-6010</addressline>
+          <addressline>Phone: (650) 723-3563</addressline>
+          <addressline>Fax: (650) 725-3445</addressline>
+          <addressline>Email: hooverarchives@stanford.edu</addressline>
+        </address>
+        <date calendar="gregorian" era="ce">&#xA9; 2000</date>
+        <p>Hoover Institution Archives. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc>
+<profiledesc>
+      <creation>Machine-readable finding aid derived from MS Word.</creation>
+<langusage>Description is in <language langcode="eng" scriptcode="latn">English</language></langusage>
+    </profiledesc>
+<revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//Stanford University::Hoover Institution Archives//TEXT
+(US::CSt-H::::Harley C. Stevens Papers)//EN" "stevensh.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+     <change>
+      <date calendar="gregorian" era="ce" normal="20120730">July 30, 2012</date>
+      <item>Revised to update encoding and add unitid by Jill Golden</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Preliminary Inventory of the Harley C. Stevens Papers, <date calendar="gregorian" era="ce">1901-1961</date></titleproper>
+      <publisher>Hoover Institution Archives
+<lb/>Stanford University
+<lb/>Stanford, California</publisher>
+      <list type="simple">
+        <head>Contact Information</head>
+        <item>Hoover Institution Archives</item>
+        <item>Stanford University</item>
+        <item>Stanford, California 94305-6010</item>
+        <item>Phone: (650) 723-3563</item>
+        <item>Fax: (650) 725-3445</item>
+        <item>Email: hooverarchives@stanford.edu</item>
+      </list>
+      <list type="deflist">
+        <defitem>
+          <label>Processed by: </label>
+          <item>The Hoover Institution staff</item>
+        </defitem>
+        <defitem>
+          <label>Encoded by: </label>
+          <item>Brooke Dykman Dockter</item>
+        </defitem>
+      </list>
+      <p>&#xA9; 2000 Hoover Institution Archives. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection">
+    <did id="did-1.7.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">Harley C. Stevens Papers, </unittitle><unitdate calendar="gregorian" era="ce" type="inclusive">1901-1961</unitdate>
+<unitid label="Collection number" repositorycode="CSt-H" countrycode="US">69031</unitid>
+      <origination label="Creator">
+        <persname>Stevens, Harley C.</persname>
+      </origination>
+      <physdesc label="Collection Size" encodinganalog="300$a">
+		<extent>3 manuscript boxes</extent>
+		<extent>1.2 linear feet)</extent>
+	</physdesc>
+      <repository label="Repository">
+        <corpname>Hoover Institution Archives</corpname>
+        <address>
+          <addressline>Stanford, California 94305-6010</addressline>
+        </address>
+      </repository>
+      <abstract label="Abstract">Texts of treaties, concessions, and agreements between various oil companies and governments of the Middle East, relating to Middle Eastern oil concessions.</abstract>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <descgrp id="descgrp-1.7.2" type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict>
+        <head>Access</head>
+        <p>Collection open for research.</p>
+<p>The Hoover Institution Archives only allows access to <emph render="italic">copies</emph> of audiovisual items. To listen to sound recordings or to view videos or films during your visit, please contact the Archives at least two working days before your arrival. We will then advise you of the accessibility of the material you wish to see or hear. Please note that not all audiovisual material is immediately accessible.</p>
+      </accessrestrict>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>For copyright status, please contact
+the Hoover Institution Archives.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Harley C. Stevens Papers, [Box no.], Hoover Institution
+Archives.</p>
+      </prefercite>
+<acqinfo encodinganalog="541">
+ <head>Acquisition Information</head>
+ <p>Acquired by the Hoover Institution Archives in 1969.</p>
+</acqinfo>
+
+<accruals encodinganalog="525"><head>Accruals</head>
+<p>Materials may have been added to the collection since this finding aid was prepared. To determine if this has occurred, find the collection in Stanford University's online catalog at <extref linktype="simple" href="http://searchworks.stanford.edu/" actuate="onrequest" show="new"> http://searchworks.stanford.edu/</extref>. Materials have been added to the collection if the number of boxes listed in the online catalog is larger than the number of boxes listed in this finding aid.</p>
+</accruals>
+
+
+    </descgrp>
+    <controlaccess id="controlaccess-1.7.3">
+      <head>Access Points</head>
+      <corpname>American Independent Oil Company.</corpname>
+      <subject>Petroleum industry and trade--Middle East.</subject>
+      <geogname>Middle East.</geogname>
+      <geogname>United States--Foreign relations.</geogname>
+    </controlaccess>
+    <dsc id="dsc-1.7.4" type="in-depth">
+      <head>Container List</head>
+      <c01 id="c01-1.7.4.2">
+        <did>
+          <container type="Box">1</container>
+          <unittitle>Confidential agreement between Saudi-Arabian government and ARAMCO (Arabian-American Oil Co.) containing concessions pertaining to royalty obligations and loans to Saudi Arabia, <unitdate calendar="gregorian" era="ce">1933 May 29. </unitdate>Typescript, 6pp (a)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.3">
+        <did>
+          <unittitle>Memorandum of an agreement between the Anglo-Iranian Oil Company of Great Britain and Gulf Exploration Co. of Delaware, USA, a subsidiary of Gulf Oil of Pennsylvania, <unitdate calendar="gregorian" era="ce">1933 December 14. </unitdate>Typescript, 6pp (b)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.4">
+        <did>
+          <unittitle>Copy of a letter from British Under Secretary of State for Foreign Affairs Vansittart to U.S. Ambassador Mellon, regarding rights to oil concessions in Kuwait, <unitdate calendar="gregorian" era="ce">1922 November 23. </unitdate>Typescript, 2pp (c)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.5">
+        <did>
+          <unittitle>Copy of a letter from British Secretary of State Simon to the U.S. charg&#xE9; d'affaires Atherton, regarding oil concessions in Kuwait, <unitdate calendar="gregorian" era="ce">1932 April 9. </unitdate>Typescript, 3pp (d)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.6">
+        <did>
+          <unittitle>Convention between the U.K. government and Turkey respecting the Persian Gulf and adjacent territories (with maps), London, <unitdate calendar="gregorian" era="ce">1913 July 29. </unitdate>Photocopy of print, 21pp, 2 copies (e)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.7">
+        <did>
+          <unittitle>Map showing limits of Kuwait and adjacent country. Photocopy (f)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.8">
+        <did>
+          <unittitle>Anglo-Iranian Oil Co., Iranian oil agreement. Bill before Majlis. Typescript extract from <title render="italic">Times </title>(London,) <unitdate calendar="gregorian" era="ce">1949 July 20, </unitdate>1p (g)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.9">
+        <did>
+          <unittitle>Comparative table of royalty provisions (for petroleum) in Near Eastern oil concessions. Typescript, 1p (h)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.10">
+        <did>
+          <unittitle>Text of petroleum development concessions between Sheik Abdullah bin Quasim Al Thani, ruler of Quatr, and Anglo-Persian Oil Co., <unitdate calendar="gregorian" era="ce">1935 May 17. </unitdate>Typescript, 10pp. With accompanying letter from Fauzi el-Hoss to Ralph K. Davies, 1949 August 10 (i)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.11">
+        <did>
+          <unittitle>Text of agreement between ruler of Quatr and Sir Hugh Weightman, on behalf of the Central Mining Investment Co., and Robert M. Alpen, Jr., on behalf of Superior Oil Co., <unitdate calendar="gregorian" era="ce">1949 August 5. </unitdate>Typescript, 9pp (j)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.12">
+        <did>
+          <unittitle>Petroleum concessions convention between the governments of Syria and Lebanon as approved by legislative order #47, dated <unitdate calendar="gregorian" era="ce">1940 March 25. </unitdate>Photocopy, 27pp, in French (k)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.13">
+        <did>
+          <unittitle>Text of agreement between the Shah of Persia and William Knox d'Arcy representing the Anglo-Iranian Oil Co., <unitdate calendar="gregorian" era="ce">1901 May 28. </unitdate>Typescript, 5pp (l)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.14">
+        <did>
+          <unittitle>Text of Turko-Persian frontier agreement between the Ottoman government and ambassadors of Great Britain, Russia and Persia in Constantinople, <unitdate calendar="gregorian" era="ce">1913 November. </unitdate>Typescript, 2pp (l)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.15">
+        <did>
+          <unittitle>Text of agreement between the government of Iraq and the Anglo-Iranian Oil Co., <unitdate calendar="gregorian" era="ce">1925 August 30. </unitdate>Typescript, 6pp (l)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.16">
+        <did>
+          <unittitle>Text of law approving agreement between the government of Iraq and the Anglo-Iranian Oil Co. (Law #58,) <unitdate calendar="gregorian" era="ce">1926 May 24. </unitdate>Typescript, 1p (l)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.17">
+        <did>
+          <unittitle>Text of agreement between the government of Iraq and the Anglo-Iranian Oil Co., <unitdate calendar="gregorian" era="ce">1926 May 24. </unitdate>Typescript, 5pp (l)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.18">
+        <did>
+          <unittitle>Text of Bahrein oil concession, a lease between Sheik Hamad bin Issa al Khalifa and the Bahrein Petroleum Co., <unitdate calendar="gregorian" era="ce">1940 June 19, </unitdate>21pp (m)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.19">
+        <did>
+          <unittitle>Text of agreement between the British government and the Kuwait Oil Co., <unitdate calendar="gregorian" era="ce">1934 March 5. </unitdate>Typescript, 13pp (n)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.20">
+        <did>
+          <unittitle>Text of agreement between the Anglo-Iranian Oil Co. and the Gulf Oil Corporation of Kuwait, <unitdate calendar="gregorian" era="ce">1934 December 14. </unitdate>Typescript, 8pp (o)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.21">
+        <did>
+          <unittitle>Text of agreement between the Sheik of Kuwait, Ahmed al-Shabir, and the Kuwait Oil Co., <unitdate calendar="gregorian" era="ce">1934 December 23, </unitdate>2 copies. Typescript, 10pp each (p)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.22">
+        <did>
+          <unittitle>Text of private agreement between the Saudi Arabian government and the Standard Oil Co. of California, <unitdate calendar="gregorian" era="ce">1933 May 29 </unitdate>(2 copies). Typescript, 4pp each, with 3pp of typescript insert (q)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.23">
+        <did>
+          <unittitle>Text of contract between the Saudi Arabian government and the Standard Oil Co. of California, covering exploration and development rights in Eastern Saudi Arabia, 1933 May 29, published <unitdate calendar="gregorian" era="ce">1933 July 14, </unitdate>2 copies. Typescript, 19pp (r)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.24">
+        <did>
+          <unittitle>"Legal position of Americans in Saudi Arabia: Draft Agenda for a Discussion," <unitdate calendar="gregorian" era="ce">n.d. </unitdate>Typescript, 4pp (s)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.25">
+        <did>
+          <unittitle>Text of lease between Sheik Hamad bin Issa al Khalifa of Bahrein and the Bahrein Petroleum Co., Ltd., <unitdate calendar="gregorian" era="ce">1934 December 29. </unitdate>Typescript, 10pp (t)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.26">
+        <did>
+          <unittitle>Letter from Sheik Hamad Bin Issa al Khalifa of Bahrein to the Bahrein Petroleum Co. of San Francisco, <unitdate calendar="gregorian" era="ce">1935 January 27. </unitdate>Typescript, 1p (t)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.27">
+        <did>
+          <unittitle>Text of deed between Sheik Hamad Bin Issa al Khalifa and the Bahrein Petroleum Co., Ltd., <unitdate calendar="gregorian" era="ce">1936 June 3. </unitdate>Typescript, 2pp (t)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.28">
+        <did>
+          <unittitle>Text of deed between Sheik Hamad Bin Issa al Khalifa and the Bahrein Petroleum Co., Ltd., <unitdate calendar="gregorian" era="ce">1940 June 19. </unitdate>Typescript, 4pp (t)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.29">
+        <did>
+          <unittitle>Text of "Conditions," <unitdate calendar="gregorian" era="ce">1930 June 12. </unitdate>Typescript, 1p (t)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.30">
+        <did>
+          <unittitle>Text of translation of Royal Decree ratifying oil concessions, <unitdate calendar="gregorian" era="ce">1939 July 7. </unitdate>Transcript, 1p (u)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.31">
+        <did>
+          <unittitle>Text of agreement between Sheik Abdulla Sulaiman al Hamdan, Minister of Finance of Saudi Arabia, and the California Arabian Standard Oil Co., <unitdate calendar="gregorian" era="ce">1939 May 31. </unitdate>Mimeograph, 15pp (v)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.32">
+        <did>
+          <unittitle>Copies of letters between Sheik Abdulla Sulamain al Hamdan, Minister of Finance of Saudi Arabia, and representatives of the California Arabian Standard Oil Co., <unitdate calendar="gregorian" era="ce">1939 May 31, 1939 July 1, and 1947 July 11. </unitdate>The letters from the Saudi Arabian government representatives are noted as "translated." Mimeograph and typescript, 18pp (v)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.33">
+        <did>
+          <unittitle>Partial text of a cable from William J. Lenahan, dated Dharan <unitdate calendar="gregorian" era="ce">1947 July 12, </unitdate>regarding the Saudi Arabian Pipeline Convention being signed; with a copy of convention of <unitdate calendar="gregorian" era="ce">1947 July 11. </unitdate>Typescript, 19pp (w)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.34">
+        <did>
+          <unittitle>Text of agreement of <unitdate calendar="gregorian" era="ce">1930 June 13, </unitdate>between the Sheik of Bahrein and Eastern and General Syndicate and of concession dated <unitdate calendar="gregorian" era="ce">1930 August 1. </unitdate>Typescript, 4pp (x)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.35">
+        <did>
+          <unittitle>Text of agreement between the Saudi Arabian government and the Pacific Western Oil Corporation, <unitdate calendar="gregorian" era="ce">1949 February 20. </unitdate>Copies in English and Arabic. Print, 24pp (y)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.36">
+        <did>
+          <unittitle>Memorandum from Harley C. Stevens for Ralph K. Davies regarding revised concession terms of Iraq and Mosul Petroleum Companies, <unitdate calendar="gregorian" era="ce">1951 September 19. </unitdate>Typescript, 3pp (z)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.37">
+        <did>
+          <unittitle>Text of a listing of considerations paid for Saudi Arabian oil concessions, 1933, with a supplement agreement of 1939. Attached letter from Mr. Moore of Trans-Arabian Pipe Line to "His Majesty," <unitdate calendar="gregorian" era="ce">1947 June 24, </unitdate>3pp (aa)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.38">
+        <did>
+          <unittitle>Text of agreement between the Anglo-Persian Oil Co. and the Gulf Oil Co., <unitdate calendar="gregorian" era="ce">1937 December 14. </unitdate>Typescript, 2pp (bb)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.39">
+        <did>
+          <unittitle>Text of opinion by Professor H. Lauterpacht regarding the concession grante, by the Sheik of Kuwait, <unitdate calendar="gregorian" era="ce">1934 December 23. </unitdate>Typescript, 17pp (cc)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.40">
+        <did>
+          <unittitle>Text of concession agreement between the Sheik of Kuwait and the American Independent Oil Co., <unitdate calendar="gregorian" era="ce">1948 June 28. </unitdate>Mimeograph, 11pp., with a photocopy of Kuwait Concession obligations (dd)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.41">
+        <did>
+          <unittitle>Text of agreement between the U.K. government and the American Independent Oil Co., <unitdate calendar="gregorian" era="ce">1948 June 26. </unitdate>Typescript, 3pp (ee)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.42">
+        <did>
+          <unittitle>Translation of Arabic text of the agreement between the American Independent Oil Co. and the Sheik of Kuwait, <unitdate calendar="gregorian" era="ce">1948 June 28. </unitdate>Typescript, 19pp; with comments on the translation by the translator, Dr. Dorothy Stehle, Library of Congress, <unitdate calendar="gregorian" era="ce">1948 November 2. </unitdate>Typescript, 5pp (ff)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.43">
+        <did>
+          <unittitle>Map of oil concessions in the Middle East, <unitdate calendar="gregorian" era="ce">1960, </unitdate>from <title render="italic">World of Petroleum, </title>New York (gg)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.44">
+        <did>
+          <unittitle>Text of "Summary of Agreement and Documents Comprising Red Line Agreements, a Foreign Office Agreement, 1914, Regarding Arrangements for the Fusion of Interests in Turkish Petroleum Concessions: An Arrangement between the Imperial German Government, the U.K. Government, the National Bank of Turkey, and the Anglo-Saxon Petroleum Co., London, <unitdate calendar="gregorian" era="ce">1914 March 19.</unitdate>" Copies of correspondence related to this matter. Typescript, 25pp; with one map of the Red Line agreement area (hh)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.45">
+        <did>
+          <unittitle>Text of agreement between the National Iranian Oil Co. of Tehran and AGIP Minraria Co. of Milan. Ditto <unitdate calendar="gregorian" era="ce">n.d., 2 </unitdate>copies (copy 14 and 19 of 40,) 26pp (ii)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.46">
+        <did>
+          <unittitle>Text of proclamation of the Sheik of Kuwait regarding off-coast oil drillings, <unitdate calendar="gregorian" era="ce">1949 June 12. </unitdate>Typescript, 1p (jj)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.47">
+        <did>
+          <unittitle>Text of notes regarding concessions. Typescript, 3pp (jj)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.48">
+        <did>
+          <unittitle>Printed copy of change in Kuwait income tax regulations. Sample form of agreement between the Sheik of Kuwait and nn. co. Mimeograph, 41pp (jj)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.49">
+        <did>
+          <unittitle>Text of agreement between Abdul Majid Mahamoud, Minister of Economics of the government of Iraq, and Horace Stephen Gibson, representing: Iraq Petroleum Co., Ltd., Mosul Petroleum Co., Ltd., and Basrah Petroleum Company, <unitdate calendar="gregorian" era="ce">1952 February 3. </unitdate>Typescript, 2 copies, 25pp (kk)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.50">
+        <did>
+          <unittitle>Manuscript of "History of Operations of the Pacific Western Oil Co. in Saudi Arabia - Kuwait Neutral Zone," Vol. I. "Background of the Saudi Arabian - Kuwait Zone," by Edward Hoagland Brown, <unitdate calendar="gregorian" era="ce">1954. </unitdate>Typescript, 125pp (ll)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.51">
+        <did>
+          <unittitle>Agreement between the Saudi Arabian government and the Pacific Oil Corporation, <unitdate calendar="gregorian" era="ce">n.d. </unitdate>Photocopy of typescript, 32pp (mm)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.52">
+        <did>
+          <unittitle>Texts of various oil concessions in the Middle East. Typescript (nn)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.53">
+        <did>
+          <unittitle>Arabian American Oil Co. - Saudi Arabia, <unitdate calendar="gregorian" era="ce">1933 May 29 </unitdate>(nn)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.54">
+        <did>
+          <unittitle>Arabian American Oil Co. - Saudi Arabia, <unitdate calendar="gregorian" era="ce">1939 </unitdate>(nn)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.55">
+        <did>
+          <unittitle>Kuwait Oil Co. - Kuwait, concessions, <unitdate calendar="gregorian" era="ce">1933 December 23 </unitdate>(nn)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.56">
+        <did>
+          <unittitle>Sheik of Bahrein - Bahrein Petroleum Co.; Concessions, <unitdate calendar="gregorian" era="ce">1929 and 1940 </unitdate>(nn)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.57">
+        <did>
+          <unittitle>American Independent Oil Co.; U.K. Concession in Kuwait, <unitdate calendar="gregorian" era="ce">1948 September 21, 1949 </unitdate>(nn)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.58">
+        <did>
+          <unittitle>Western Pacific Concession from Ibn Saud (nn)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.59">
+        <did>
+          <unittitle>American Independent Oil Co. - Pacific Western Oil Corp.; Agreement, <unitdate calendar="gregorian" era="ce">1949 June 30 </unitdate>(nn)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.60">
+        <did>
+          <unittitle>Trans Arabian Oil Co. - Saudi Arabia; Agreement, <unitdate calendar="gregorian" era="ce">1947 July 11 </unitdate>(nn)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.61">
+        <did>
+          <unittitle>Trans Arabian Pipe Line Co. - Trans Jordan. Agreement, <unitdate calendar="gregorian" era="ce">1946 August 8 </unitdate>(nn)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.62">
+        <did>
+          <unittitle>Anglo American Oil Agreement, <unitdate calendar="gregorian" era="ce">1944 August 8 </unitdate>(nn)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.63">
+        <did>
+          <unittitle>Iraq government - Turkish Petroleum Co., <unitdate calendar="gregorian" era="ce">1925 March 14 </unitdate>(nn)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.64">
+        <did>
+          <unittitle>Iraq-Basrah Petroleum Co., <unitdate calendar="gregorian" era="ce">1938 July 29 </unitdate>(nn)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.65">
+        <did>
+          <unittitle>Anglo Persian - Gulf Oil Co., <unitdate calendar="gregorian" era="ce">1933 December 14 </unitdate>(nn)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.66">
+        <did>
+          <unittitle>Trans Jordan - Petroleum Development, <unitdate calendar="gregorian" era="ce">1947 May 10 </unitdate>(nn)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.67">
+        <did>
+          <unittitle>Sheik of Quatr - Anglo Iranian Oil Co., <unitdate calendar="gregorian" era="ce">1935 May 17 </unitdate>(nn)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.68">
+        <did>
+          <unittitle>Quatr Central Mining Co. - Petroleum Development (of Quatr,) <unitdate calendar="gregorian" era="ce">1935 May 17 </unitdate>(nn)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.69">
+        <did>
+          <unittitle>Persian Gulf royalty obligations (nn)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.70">
+        <did>
+          <container type="Box">2</container>
+          <unittitle>Iraq Petroleum Co. Ltd. Pipeline: "Employment Regulations," Lebanon, <unitdate calendar="gregorian" era="ce">1946 December 1. </unitdate>Mimeograph, 17pp (a)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.71">
+        <did>
+          <unittitle>"Labour Law" (279) translated from the <title render="italic">Syrian Official Journal, </title>No. 25, <unitdate calendar="gregorian" era="ce">1946 June 13. </unitdate>Typescript, 57pp (b)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.72">
+        <did>
+          <unittitle>Palestine. Status of the Anglo Iranian Oil Co., <unitdate calendar="gregorian" era="ce">1938 </unitdate>(pipeline concessions #4). Photocopy, 27pp. Index (c)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.73">
+        <did>
+          <unittitle>Oil Mining Ordinance No. 25, <unitdate calendar="gregorian" era="ce">1938: </unitdate>"An Ordinance to Regulate the Mining of Oil." Typescript, 9pp (d)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.74">
+        <did>
+          <unittitle>"Political Agreement between his Majesty's Government in the U.K. and the American Independent Oil Co., a California Corporation, Regarding the Oil Concession Covering the Islands of Kubr, Qaru and Umm-al-Maradim," <unitdate calendar="gregorian" era="ce">1949 September 21. </unitdate>Typescript, 5pp (e)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.75">
+        <did>
+          <unittitle>Agreement between the British government and the Kuwait Oil Co., <unitdate calendar="gregorian" era="ce">1934 March 5. </unitdate>Typescript, 4pp (f)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.76">
+        <did>
+          <unittitle>Agreement between the Sheik of Kuwait and the Kuwait Oil Co., <unitdate calendar="gregorian" era="ce">1934 December 23. </unitdate>Typescript, 10pp (g)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.77">
+        <did>
+          <unittitle>Agreement between the Anglo Iranian Oil Co. and the Gulf Oil Co., <unitdate calendar="gregorian" era="ce">1933 December 14. </unitdate>Typescript, 2pp (h)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.78">
+        <did>
+          <unittitle>Political agreement between U.K. government and the Kuwait Oil Co., <unitdate calendar="gregorian" era="ce">1934 March 5. </unitdate>Typescript, 7pp (i)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.79">
+        <did>
+          <unittitle>Agreement between the governments of Iran and Turkey relating to a pipeline system through Turkish territory (National Iranian Oil Co.,) Ankara. Photocopy, 6pp (j)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.80">
+        <did>
+          <unittitle>Agreement between the government of Iran and the Anglo Persian Oil Co., Teheran, <unitdate calendar="gregorian" era="ce">1933 April 29. </unitdate>Photocopy, 11pp (k)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.81">
+        <did>
+          <unittitle>Letters and reports regarding Arabic translations of texts of agreements between Standard Oil Co. of California and the Saudi Arabian government. Various letters from H. R. Ballantyne, Snourk Hurgronje, and M. W. Vane, <unitdate calendar="gregorian" era="ce">1933 June, August. </unitdate>Photocopy, 11pp (l)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.82">
+        <did>
+          <unittitle>Agreements between the Saudi Arabian government and the Arabian American Oil Co. Printed text and related correspondence, <unitdate calendar="gregorian" era="ce">1933-1956, </unitdate>in English and Arabic. English text, 99pp. Published in Cairo, 1958 (m)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.83">
+        <did>
+          <unittitle>Map of oil concessions in the Near East, Dept. of State, U.S. GPO., <unitdate calendar="gregorian" era="ce">1947 July </unitdate>(n)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.84">
+        <did>
+          <unittitle>Chart listing various Pacific Western and Aminoil concessions (o)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.85">
+        <did>
+          <unittitle>Binder containing agreements and related documents of the Iranian Oil Consortium. Not sequentially numbered (p)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.86">
+        <did>
+          <unittitle>Printed documents pertaining to agreement between Esso Trading Co. of Iran (New York City,) Iran California Oil Co. (San Francisco), The Texas Company (Iran), Socony-Vacuum Oil Co. (New York City), Gulf International Co. (Pittsburgh), as Transferors, and American Independent Oil Co. (San Francisco) and seven other U.S. companies. Agreement dated <unitdate calendar="gregorian" era="ce">1955 April 29. </unitdate>Five printed pamphlets (q)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.87">
+        <did>
+          <container type="Box">3</container>
+          <unittitle>Papers, drafts, news releases concerning the meetings of representatives of various oil companies and other interests concerned with the erection of a Trans-Arabian pipeline, London, <unitdate calendar="gregorian" era="ce">1957 March 18-20 and May 13-16 </unitdate>(a)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.88">
+        <did>
+          <unittitle>Papers, drafts, news releases, newspaper articles, magazine clippings about the first Arab Petroleum Congress and exhibition held in Cairo, Egypt, <unitdate calendar="gregorian" era="ce">1959 April 15-22 </unitdate>(b)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.89">
+        <did>
+          <unittitle>Papers, reports and articles on technical and university education available in various Arab countries, <unitdate calendar="gregorian" era="ce">1958-1961 </unitdate>(c)</unittitle>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

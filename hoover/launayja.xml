@@ -1,0 +1,501 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  
+  
+  
+  
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" repositoryencoding="iso15511" findaidstatus="edited-full-draft" langencoding="iso639-2b"><eadid countrycode="us" identifier="ark:/13030/tf0x0n97pz" mainagencycode="CSt-H" publicid="PUBLIC &quot;-//Stanford University::Hoover Institution Archives//TEXT&#10;(US::CSt-H::::Jacques de Launay Papers)//EN&quot; &quot;launayja.sgm&quot;">launayja.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Register of the Jacques de Launay Papers, <date calendar="gregorian" era="ce">1914-1993</date></titleproper><titleproper type="filing">Launay (Jacques de) Papers</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Hoover Institution Archives</publisher>
+        <address>
+          <addressline>Stanford University</addressline>
+          <addressline>Stanford, California 94305-6010</addressline>
+          <addressline>Phone: (650) 723-3563</addressline>
+          <addressline>Fax: (650) 725-3445</addressline>
+          <addressline>Email: hooverarchives@stanford.edu</addressline>
+        </address>
+        <date calendar="gregorian" era="ce">&#xA9; 1999</date>
+        <p>Hoover Institution Archives. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc><profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data Services,
+<date calendar="gregorian" era="ce">March 1999.</date>
+Supplementary encoding and revision supplied by Michael C. Conkin.</creation>
+      <langusage>Description is in <language langcode="eng" scriptcode="latn">English</language></langusage>
+    </profiledesc><revisiondesc>
+     <change>
+      <date calendar="gregorian" era="ce" normal="20111020">October 20, 2011</date>
+      <item>Revised to update encoding and add unitid by Elizabeth Phillips</item>
+      </change>
+      <change>
+
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//Stanford University::Hoover Institution Archives//TEXT
+(US::CSt-H::::Jacques de Launay Papers)//EN" "launayja.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Register of the Jacques de Launay Papers, <date calendar="gregorian" era="ce">1914-1993</date></titleproper>
+      <publisher>Hoover Institution Archives
+<lb/>Stanford University
+<lb/>Stanford, California</publisher>
+      <list type="simple">
+        <head>Contact Information</head>
+        <item>Hoover Institution Archives</item>
+        <item>Stanford University</item>
+        <item>Stanford, California 94305-6010</item>
+        <item>Phone: (650) 723-3563</item>
+        <item>Fax: (650) 725-3445</item>
+        <item>Email: hooverarchives@stanford.edu</item>
+      </list>
+      <p>&#xA9; 1999 Hoover Institution Archives. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection">
+    <did id="did-1.7.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">Jacques de Launay Papers, </unittitle><unitdate calendar="gregorian" era="ce" type="inclusive" normal="1914/1993">1914-1993</unitdate>
+<unitid label="Collection number" repositorycode="CSt-H" countrycode="US">75013</unitid>
+      <origination label="Creator">
+        <persname rules="aacr2">Launay, Jacques de</persname>
+      </origination>
+      <physdesc label="Collection Size" encodinganalog="300$a">
+	<extent>13 manuscript boxes, 4 phonotape reels, 2 phonorecords.</extent>
+	<extent>(5.6 linear feet)</extent>
+</physdesc>
+
+      <repository label="Repository">
+        <corpname>Hoover Institution Archives</corpname>
+        <address>
+          <addressline>Stanford, California 94305-6010</addressline>
+        </address>
+      </repository>
+      <abstract label="Abstract">Correspondence, writings, clippings, and other printed matter, relating to various aspects of twentieth-century European history, and especially to Romania and Belgium during World War II; the Little Entente; the relationship between Adolf Hitler and Lord Rothermere, 1933-1939; the Walloon Legion during World War II; and education in Europe.  Includes sound recordings of interviews by J. de Launay of Tadeusz Komorowski, Andre Francois-Poncet, Georges Bonnet, and Jules Moch.</abstract>
+<physloc label="Physical Location">Hoover Institution Archives</physloc>
+      <langmaterial label="Language">
+        <language langcode="fre">French.</language>
+      </langmaterial>
+    </did>
+    <descgrp id="descgrp-1.7.2" type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict>
+        <head>Access</head>
+        <p>Collection open for research.</p>
+<p>The Hoover Institution Archives only allows access to <emph render="italic">copies</emph> of audiovisual items. To listen to sound recordings or to view videos or films during your visit, please contact the Archives at least two working days before your arrival. We will then advise you of the accessibility of the material you wish to see or hear. Please note that not all audiovisual material is immediately accessible.
+</p>
+      </accessrestrict>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>For copyright status, please contact
+the Hoover Institution Archives.</p>
+<p>One folder in Box 3 may not be quoted without permission of J. de Launay.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Jacques de Launay Papers, [Box no.], Hoover Institution
+Archives.</p>
+      </prefercite>
+<acqinfo encodinganalog="541">
+ <head>Acquisition Information</head>
+ <p>Acquired by the Hoover Institution Archives in 1975.</p>
+</acqinfo>
+
+<accruals encodinganalog="525"><head>Accruals</head>
+<p>Materials may have been added to the collection since this finding aid was prepared. To determine if this has occurred, find the collection in Stanford University's online catalog at <extref linktype="simple" href="http://searchworks.stanford.edu/" actuate="onrequest" show="new"> http://searchworks.stanford.edu/</extref>. Materials have been added to the collection if the number of boxes listed in the online catalog is larger than the number of boxes listed in this finding aid.</p>
+</accruals>
+
+
+    </descgrp>
+    <controlaccess id="controlaccess-1.7.3">
+      <head>Access Points</head>
+      <persname rules="aacr2">Hitler, Adolf, 1889-1945.</persname>
+      <persname rules="aacr2">Rothermere, Harold Sidney Harmsworth, 1st viscount, 1868-1940.</persname>
+      <corpname>Waffen-SS. Legion Wallonie.</corpname>
+      <subject>Little Entente, 1920-1939.</subject>
+      <subject>Education.</subject>
+      <subject>Education--Europe.</subject>
+      <subject>World War, 1939-1945.</subject>
+      <subject>World War, 1939-1945--Belgium.</subject>
+      <subject>World War, 1939-1945--Germany.</subject>
+      <subject>World War, 1939-1945--Romania.</subject>
+      <geogname>Belgium.</geogname>
+      <geogname>Europe.</geogname>
+      <geogname>Germany.</geogname>
+      <geogname>Germany--Foreign relations--Great Britain.</geogname>
+      <geogname>Great Britain.</geogname>
+      <geogname>Great Britain--Foreign relations--Germany.</geogname>
+      <geogname>Romania.</geogname>
+      <geogname>Romania--History.</geogname>
+      <genreform source="lcsh">Phonotapes.</genreform>
+      <genreform source="lcsh">Phonorecords.</genreform>
+    </controlaccess>
+    <dsc id="dsc-1.7.4" type="in-depth">
+      <head>Container List</head>
+      <c01 id="c01-1.7.4.2" level="series">
+        <did>
+          <unittitle>CORRESPONDENCE, <unitdate calendar="gregorian" era="ce">1943, 1945-46</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.4.2.2">
+          <did>
+            <container type="Box">1</container>
+            <unittitle>Colson, General, <unitdate calendar="gregorian" era="ce">1946</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.2.3">
+          <did>
+            <unittitle>Corap, General, <unitdate calendar="gregorian" era="ce">1943, 1945-46</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.2.4">
+          <did>
+            <unittitle>Georges, General Andr&#xE9;, <unitdate calendar="gregorian" era="ce">1946</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.4.3" level="series">
+        <did>
+          <unittitle>SUBJECT FILE, <unitdate calendar="gregorian" era="ce">1919-1947</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.4.3.2">
+          <did>
+            <container type="Box">1</container>
+            <unittitle>Avramovski, A., "An Attempt to Transform the `Petite Entente' Into a Pact of Mutual Assistance Against All Aggression" (in French)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.3.3">
+          <did>
+            <unittitle>Batowski, Henryk</unittitle>
+          </did>
+          <c03 id="c03-1.7.4.3.3.2">
+            <did>
+              <unittitle>"Central Europe in the Policy of Great Powers in the Period 1919-1939/41", Warsaw, <unitdate calendar="gregorian" era="ce">1970</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.3.3.3">
+            <did>
+              <unittitle>"Joseph Beck's Voyage in Romania in October 1938" (in French), Polish Institute for International Affairs, Warsaw, <unitdate calendar="gregorian" era="ce">1960</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.4.3.4">
+          <did>
+            <unittitle>Campus, Eliza</unittitle>
+          </did>
+          <c03 id="c03-1.7.4.3.4.2">
+            <did>
+              <unittitle>"The Position of the `Petite Entente' in Relation to the Austro-German Tariff Union Plan" (in French), reprint, <title render="italic">Nouvelles Etudes D'Histoire </title>(Bucharest), <unitdate calendar="gregorian" era="ce">1965</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.3.4.3">
+            <did>
+              <unittitle>"The Fight to Achieve Romanian National Unity (1914-1918)" (in French), reprint, <title render="italic">Revue Roumaine D'Histoire </title>(Bucharest), Vol. IV, No. 4, <unitdate calendar="gregorian" era="ce">1965</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.3.4.4">
+            <did>
+              <unittitle>"Nicolae Titulescu and the Politics for the Maintenance of Romanian Territorial Integrity" (in French), reprint, <title render="italic">Revue Roumaine D'Histoire </title>(Bucharest), Vol. V, No. 3, <unitdate calendar="gregorian" era="ce">1966</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.4.3.5">
+          <did>
+            <unittitle>Deutsch, R.</unittitle>
+          </did>
+          <c03 id="c03-1.7.4.3.5.2">
+            <did>
+              <unittitle>"The Foreign Policy of Romania and the Dynamics of Peace, <unitdate calendar="gregorian" era="ce">1932-1936</unitdate>", reprint, <title render="italic">Revue Roumaine D'Historie </title>(Bucharest), Vol. 1, No. 1, <unitdate calendar="gregorian" era="ce">1966</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.3.5.3">
+            <did>
+              <unittitle>"Romania and the Problem of the Straits at Montreux in 1936" (in French), reprint, <title render="italic">Revue Roumaine D'Histoire </title>(Bucharest), Vol, VI, No 1, <unitdate calendar="gregorian" era="ce">1967</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.4.3.6">
+          <did>
+            <unittitle>Goy, R., de, "The Walloon Legion, <unitdate calendar="gregorian" era="ce">1941-1945</unitdate>" (in French)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.3.7">
+          <did>
+            <unittitle>Matthys, Victor, an appeal (in French) before the Charleroi War Council, <unitdate calendar="gregorian" era="ce">July 4, 1946</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.3.8">
+          <did>
+            <unittitle>Radesco, General Nicolae, report (in French) on the events of October 13 and December 7 at Bucharest, <unitdate calendar="gregorian" era="ce">August 26, 1947</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.3.9">
+          <did>
+            <unittitle>Verschaeve, Cyriel, last appeal (in German), <unitdate calendar="gregorian" era="ce">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.3.10">
+          <did>
+            <unittitle>Walloon Legion (Legion Wallonie), <unitdate calendar="gregorian" era="ce">1941-44,</unitdate>
+clippings</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.4.3.11">
+          <did>
+            <unittitle>WRITINGS, <unitdate calendar="gregorian" era="ce">1959, 1975</unitdate></unittitle>
+          </did>
+          <c03 id="c03-1.7.4.3.11.2">
+            <did>
+              <unittitle>"The Future and Professional Education of Youth in Europe" (in French), Brussels, <unitdate calendar="gregorian" era="ce">1959</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.3.11.3">
+            <did>
+              <unittitle>"Secret Stories of Belgium, <unitdate calendar="gregorian" era="ce">1935-1945" </unitdate>(in French), Part III, with annotations by Leon Degrelle, Paris, <unitdate calendar="gregorian" era="ce">1975</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.4.4" level="series">
+        <did>
+          <unittitle>INCREMENT, <unitdate calendar="gregorian" era="ce">1975</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.4.4.2" level="subseries">
+          <did>
+            <unittitle>SUBJECT FILE</unittitle>
+          </did>
+          <c03 id="c03-1.7.4.4.2.2">
+            <did>
+              <container type="Box">1</container>
+              <unittitle>Launay, Jacques de: "La Correspondence secrete Hitler-Rothermere," <unitdate calendar="gregorian" era="ce">1933-1939.</unitdate>
+(Unpublished study of the most important correspondence between Lord Rothermere, editor of the <title render="italic">Daily Mail, </title>London, and Adolf Hitler, mainly concerning German-English and German-French relations in the 1930's, etc.</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.4.5" level="series">
+        <did>
+          <unittitle>INCREMENT, <unitdate calendar="gregorian" era="ce">1978</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.4.5.2" level="subseries">
+          <did>
+            <unittitle>SUBJECT FILE</unittitle>
+          </did>
+          <c03 id="c03-1.7.4.5.2.2">
+            <did>
+              <container type="Box">2</container>
+              <unittitle>Besse, Fernand</unittitle>
+            </did>
+            <c04 id="c04-1.7.4.5.2.2.2">
+              <did>
+                <unittitle>"Position des travailleurs Chretiens en matiere d'Apprentissage" (in French), mimeographed, <title render="italic">Journees europeennes d'information sur la formation professionnelle de jeunes, </title>n.p., <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.4.5.2.3">
+            <did>
+              <unittitle>Bureau European de la Jeunesse</unittitle>
+            </did>
+            <c04 id="c04-1.7.4.5.2.3.2">
+              <did>
+                <unittitle>"Extraits de presse obtenus et en Belgique a partir du 15 Mai 1962" (in French), newspaper clippings, <title render="italic">La Lanterne, </title>and other newspapers, <unitdate calendar="gregorian" era="ce">1962</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.4.5.2.4">
+            <did>
+              <unittitle>Bureau European de la Jeunesse et de l'enfance</unittitle>
+            </did>
+            <c04 id="c04-1.7.4.5.2.4.2">
+              <did>
+                <unittitle>Documents (in French), published, (Bruxelles), <unitdate calendar="gregorian" era="ce">1952-1956.</unitdate>
+Printed copies.</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.4.5.2.5">
+            <did>
+              <unittitle>Chaudieu, Georges</unittitle>
+            </did>
+            <c04 id="c04-1.7.4.5.2.5.2">
+              <did>
+                <unittitle>"Une experience de formation humaine dans une ecole professionnelle" (in French), <title render="italic">Journees Europeennes sur la formation professionnelle des jeunnes </title>(Geneve), <unitdate calendar="gregorian" era="ce">Juillet 1950. </unitdate>Printed copy.</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.4.5.2.6">
+            <did>
+              <unittitle>Commission Europeenne de la Formation Professionnelle de Jeunes</unittitle>
+            </did>
+            <c04 id="c04-1.7.4.5.2.6.2">
+              <did>
+                <unittitle>"Dans une ecole neuve un nouveau programme d'enseignement general" (in French), n.p., <unitdate calendar="gregorian" era="ce">n.d.</unitdate>
+Printed copy.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.4.5.2.6.3">
+              <did>
+                <unittitle>"La formation professionnelle des jeunes filles dans les metiers industriels" (in French), n.p., <unitdate calendar="gregorian" era="ce">n.d.</unitdate>
+Printed copy.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.4.5.2.6.4">
+              <did>
+                <unittitle>Sepe, Giovanni. "La formation professionnelle des jeunes dans l'artisanat en Italie" (in French), (Roma), <unitdate calendar="gregorian" era="ce">n.d.</unitdate>
+Printed copy.</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.4.5.2.7">
+            <did>
+              <unittitle>Coseil National du Patronat Francais. Commission d'Apprentissage.</unittitle>
+            </did>
+            <c04 id="c04-1.7.4.5.2.7.2">
+              <did>
+                <unittitle>"Organisation professionnelle de l'Apprentissage - enquete 1949" (in French), n.p., <unitdate calendar="gregorian" era="ce">n.d.</unitdate>
+Printed copy.</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.4.5.2.8">
+            <did>
+              <unittitle>L'Europe, Congres de</unittitle>
+            </did>
+            <c04 id="c04-1.7.4.5.2.8.2">
+              <did>
+                <unittitle>"Provisional programme; "Rapport politique" (in English and French), The Hague, <unitdate calendar="gregorian" era="ce">1948.</unitdate>
+Printed copy.</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.4.5.2.9">
+            <did>
+              <unittitle>Falkenhausen, General von - Interrogations, <unitdate calendar="gregorian" era="ce">1946</unitdate>
+(in French), photoreproduction of 9 typewritten pages translation of the original German text, <unitdate calendar="gregorian" era="ce">May 28, 1946.</unitdate>
+Photocopy (positive typescript)</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.5.2.10">
+            <did>
+              <unittitle>"Le Federalisme" (in French), <title render="italic">La Federation, </title>Paris, <unitdate calendar="gregorian" era="ce">n.d.</unitdate>
+Printed copy.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.5.2.11">
+            <did>
+              <unittitle>"Les forces armees de la Federation Europeenne" (in French), n.p., <unitdate calendar="gregorian" era="ce">n.d.</unitdate>
+Printed copy.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.5.2.12">
+            <did>
+              <unittitle>Guebriant, M. de,</unittitle>
+            </did>
+            <c04 id="c04-1.7.4.5.2.12.2">
+              <did>
+                <unittitle>"La formation professionnelle agricole" (in French), Supplement, <title render="italic">Chambres d'Agriculture, </title><unitdate calendar="gregorian" era="ce">Septembre-Octobre 1952</unitdate>
+(Fontaineblau). Printed copy.</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.4.5.2.13">
+            <did>
+              <unittitle>Hitler, Adolf</unittitle>
+            </did>
+            <c04 id="c04-1.7.4.5.2.13.2">
+              <did>
+                <unittitle>Babtisme de Feu de Adolf Hitler (in German), correspondence (in English and German) related to the battles in August 1914, in which Hitler participated as a volunteer. The correspondence took place between Col. Earl, British Armed Forces and Dr. Otto Schwend, German Officer, photostat copies except for one original letter. Includes 5 photographs, <unitdate calendar="gregorian" era="ce">1914-1970</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.4.5.2.13.3">
+              <did>
+                <unittitle>Adolf Hitler's letter to Joseph Popp (in German), photograph, with a typewritten French translation, <unitdate calendar="gregorian" era="ce">1914.</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.4.5.2.13.4">
+              <did>
+                <unittitle>"Localisation des aquarelles de Hitler" (in French), 6 photographs and 2 xerox copies of Hitler's paintings; 12 photographs of people, houses, scenes. A newspaper clipping (in French), showing and with information relative to one of Hitler's paintings "Houbourdin," <unitdate calendar="gregorian" era="ce">January 16, 1976</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.4.5.2.14">
+            <did>
+              <unittitle>International Labour Conference, Conference internationale du Travail, "Recommendation 87," 32d session, <unitdate calendar="gregorian" era="ce">July 1, 1949</unitdate>
+(in English and French), n.p., <unitdate calendar="gregorian" era="ce">n.d.</unitdate>
+Printed copy.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.5.2.15">
+            <did>
+              <unittitle>Launay, Jacques de, and Bourgeois, Henri. "L'utilisation des gaz asphyxiants 1914-1918" (in French), a typewritten list.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.5.2.16">
+            <did>
+              <unittitle>Lousse, Emile. A resume (in French), <unitdate calendar="gregorian" era="ce">n.d.</unitdate>
+Typewritten copy.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.5.2.17">
+            <did>
+              <unittitle>Mouvement Francais pour les Etats-Unis d'Europe. "Note d'information" (in French), Lille, <unitdate calendar="gregorian" era="ce">n.d.</unitdate>
+Printed copy.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.5.2.18">
+            <did>
+              <unittitle>"L'Orientation professionnelle en France" (in French), <title render="italic">La Documentation Francaise. Notes et etudes documentaires. </title>(Paris), <unitdate calendar="gregorian" era="ce">12 Septembre 1950</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.5.2.19">
+            <did>
+              <unittitle>Principaux traits caracteristiques de l'apprentissage en Italie" (in French), <title render="italic">Fournees Europeennes d'Information sur la Formation Professionnelle des Jeunnes, </title><unitdate calendar="gregorian" era="ce">Avril 1950.</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.5.2.20">
+            <did>
+              <unittitle>Union Europeenne des Federalistes, 2e annuel Congres de, (in French), Rome, <unitdate calendar="gregorian" era="ce">6-11 Novembre 1948,</unitdate>
+printed &amp; mimeographed, programs, motions, resolutions, <unitdate calendar="gregorian" era="ce">1948.</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.4.5.2.21">
+            <did>
+              <unittitle>Venlo, L'Incident de, (in French), photostat, n.p., <unitdate calendar="gregorian" era="ce">n.d.</unitdate>
+Photocopy (typescript).</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+    <dsc id="dsc-1.7.5" type="in-depth">
+      <head>Sound Recording Tapes</head>
+      <c01 id="c01-1.7.5.2">
+        <did>
+          <container type="Reel">A</container>
+          <unittitle>BOR-KOMOROVSKI, General - "L'Insurrection de Varsovie", Enregistrement r&#xE9;alis&#xE9; &#xE0; Londres par J. de Launay, <unitdate calendar="gregorian" era="ce">13 Decembre 1960.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.5.3">
+        <did>
+          <container type="Reel">B</container>
+          <unittitle>FRAN&#xC7;OIS-PONCET, A. - "Ma Mission Aupr&#xE8;s du Duce (1938-39)", Enregistrement r&#xE9;alis&#xE9; chez M. Fran&#xE7;ois-Poncet, Paris, <unitdate calendar="gregorian" era="ce">1 Mars 1958.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.5.4">
+        <did>
+          <container type="Reel">C</container>
+          <unittitle>BONNET, Georges - "La Periode 1933-39 - Souvenirs", Enregistrement r&#xE9;alis&#xE9; &#xE0; Bergneustadt (RFA) par J. de Launay, <unitdate calendar="gregorian" era="ce">26 Avril 1957.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.5.5">
+        <did>
+          <container type="Reel">D</container>
+          <unittitle>MOCH, Jules - "La Naissance du Front Populaire 1936", Enregistrement r&#xE9;alis&#xE9; &#xE0; Lausanne par J. de Launay, <unitdate calendar="gregorian" era="ce">1 avril 1959.</unitdate></unittitle>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

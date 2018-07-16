@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+  <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              findaidstatus="edited-full-draft"
+              langencoding="iso639-2b"
+              repositoryencoding="iso15511">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             url="http://www.oac.cdlib.org/findaid/ark:/13030/c8js9s44"
+             identifier="ark:/13030/c8js9s44">pc0157.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="filing">Webster (David L.) X-Ray Slides</titleproper>
+            <titleproper>Guide to the David L. Webster X-Ray Slides <num>PC0157</num>
+            </titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <p>
+               <date>November 2013</date>
+            </p>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford 94305-6064</addressline>
+               <addressline>specialcollections@stanford.edu</addressline>
+               <addressline>URL: <extptr href="http://library.stanford.edu/spc"
+                          show="new"
+                          title="http://library.stanford.edu/spc"
+                          linktype="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2016-03-31 14:28:27
+          -0700</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+  </eadheader>
+  <archdesc audience="internal" level="collection" id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <langmaterial>
+            <language langcode="eng">No linguistic content; Not applicable</language>
+         </langmaterial>
+         <repository>
+            <corpname>Department of Special Collections and University Archives</corpname>
+         </repository>
+         <unittitle>David L. Webster x-ray slides</unittitle>
+         <origination label="creator">
+            <persname rules="aacr" source="ingest">Webster, David Locke</persname>
+         </origination>
+         <unitid>PC0157</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1888/1976" type="inclusive">1888-1976</unitdate>
+      </did>
+      <accessrestrict id="aspace_28ed977c3d8193e3ef29b42756b83952">
+         <head>Access to Collection</head>
+         <p>The materials are open for research use. Audio-visual materials are not available in
+        original format, and must be reformatted to a digital use copy.</p>
+      </accessrestrict>
+      <userestrict id="aspace_6cb682e88a3fd5241370a15afc5fdfcd">
+         <head>Publication Rights</head>
+         <p>All requests to reproduce, publish, quote from, or otherwise use collection materials must
+        be submitted in writing to the Head of Special Collections and University Archives, Stanford
+        University Libraries, Stanford, California 94305-6064. Consent is given on behalf of Special
+        Collections as the owner of the physical items and is not intended to include or imply
+        permission from the copyright owner. Such permission must be obtained from the copyright
+        owner, heir(s) or assigns. See:
+        http://library.stanford.edu/spc/using-collections/permission-publish. </p>
+         <p>Restrictions also apply to digital representations of the original materials. Use of
+        digital files is restricted to research and educational purposes.</p>
+      </userestrict>
+      <prefercite id="aspace_a1dda1390d8d7de1677fbe51d54dcf98">
+         <head>Preferred Citation</head>
+         <p>[identification of item], David L. Webster X-Ray Slides (PC0157). Dept. of Special
+        Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+      </prefercite>
+      <controlaccess id="controlaccess-1.2.5">
+         <genreform source="aat">Slides.</genreform>
+         <persname rules="aacr" source="ingest">Webster, David Locke</persname>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.6">
+         <c01 id="aspace_ref1_tzp" level="series">
+            <did>
+               <unittitle>Slides </unittitle>
+            </did>
+            <c02 id="aspace_ref3_glc" level="file">
+               <did>
+                  <unittitle>X-Ray Slides </unittitle>
+                  <unitdate normal="1933/1933" type="inclusive">1933</unitdate>
+                  <container id="aspace_722d803cc5ecae50ead8f5ac4ca35105" type="box">1</container>
+               </did>
+               <scopecontent id="aspace_3061ff32f0762cafe1dde4d11836113e">
+                  <head>Scope and Contents</head>
+                  <p>Slides on L-series intensities from gold leaf DLW, LTP, &amp; PK - Phys Rev 44, 130A
+              (1933) Figures were NOT published</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref4_4nv" level="file">
+               <did>
+                  <unittitle>X-Ray Slides </unittitle>
+                  <unitdate normal="1888/1976" type="inclusive">1888-1976</unitdate>
+                  <container id="aspace_0e07b71af4df679a4ace6af91b8223b8" type="box">1</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+  </archdesc>
+</ead>

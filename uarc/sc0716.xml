@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[Jesse Lincoln Myers scrapbook])//EN"
+             identifier="ark:/13030/kt2r29r8xr">sc0716.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Jesse Lincoln Myers Scrapbook
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Myers (Jesse Lincoln) Scrapbook</titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC0716</unitid>
+         <origination label="Creator:">
+            <persname rules="aacr" source="local">Myers, Jesse Lincoln.</persname>
+         </origination>
+         <unittitle label="Title:">Jesse Lincoln Myers scrapbook</unittitle>
+         <unitdate normal="1905/1958"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1905-1958</unitdate>
+         <unitdate normal="1913/1915"
+                   type="bulk"
+                   label="Bulk Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation"> 1913-1915</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>1.5 Linear feet (1 volume)</extent>
+         </physdesc>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <descgrp type="provenance" id="prov">
+            <head>Provenance</head>
+            <acqinfo id="ref2">
+               <p>Gift of Jesse L. Myers, 1958.</p>
+            </acqinfo>
+         </descgrp>
+      </descgrp>
+      <bioghist id="ref3">
+         <head>Biographical/Historical note</head>
+         <p>Jesse L. Myers attended Stanford 1913-15 and then earned his mechanical engineering degree at Cornell University in 1920.</p>
+      </bioghist>
+      <scopecontent id="ref4">
+         <head>Scope and Contents note</head>
+         <p>Scrapbook largely pertains to his two years at Stanford and includes postcards (some depicting Stanford in 1905), photographs, programs, tickets, and issues of the Daily Palo Alto, 1913-1915; there are also postcards of San Francisco, San Diego, Los Angeles, and Yosemite. Loose items from the scrapbook include assorted items from his student life at Cornell; additional Stanford postcards; and a letter from Pete Allen (Stanford News Service), 1958, thanking him for the gift of the scrapbook, which was sent to the University Archives.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <subject source="lcsh">Postcards--California.</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.6">
+         <head>Collection Contents</head>
+         <c01 id="ref5" level="file">
+            <did>
+               <container type="Box">1</container>
+               <unittitle>Scrapbook</unittitle>
+            </did>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

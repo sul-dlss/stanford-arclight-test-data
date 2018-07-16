@@ -1,0 +1,1111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[Lowell Turrentine papers])//EN"
+             identifier="ark:/13030/kt65803937">sc0057.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Lowell Turrentine Papers
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Turrentine (Lowell) Papers</titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2010-10">October 2010</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC0057</unitid>
+         <origination label="Creator:">
+            <persname rules="aacr" source="ingest">Turrentine, Lowell.</persname>
+         </origination>
+         <unittitle label="Title:">Lowell Turrentine papers</unittitle>
+         <unitdate normal="1913/1956"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1913-1956</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>4 Linear feet</extent>
+         </physdesc>
+         <abstract label="Summary:">Collection pertains largely to his professional life at Stanford University and contains correspondence, both business and personal; his master's thesis; materials for lectures; degrees, awards, and certificates; and a Turrentine genealogy. General correspondence concerns financial investments, legal issues (including estate issues), law curriculum, publication of his articles and books, placement of law students, and personal affairs such as his health, offers of other teaching posts, and Princeton and Harvard reunions. There is a substantial amount of correspondence and memoranda from his work as a Compliance Commissioner for the War Production Board, 1942-44. Other topics include the Stanford Law Veterans Memorial Scholarship, the death of Allene Lamson, Laisne v. State Board of Optometry, and the effect of World War II on the Law School. Correspondents include Warren Christopher, Felix Frankfurter, Charles A. Beardsley, John S. Bradway, Elliott E. Cheatham, Juan Enrique Geigel, Erwin N. Griswold, Moffatt Hancock, Marion R. Kirkwood, Ray B. Lyon, Philbrick McCoy, D. O. McGovney, Roscoe Pound, Owen J. Roberts, Malcolm P. Sharp, Fred Ames Weller, and Richard Wicks.</abstract>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <descgrp type="provenance" id="prov">
+            <head>Provenance</head>
+            <acqinfo id="ref3">
+               <p>Gift of Lowell Turrentine, 1969.</p>
+            </acqinfo>
+         </descgrp>
+         <accessrestrict id="ref4">
+            <head>Information about Access</head>
+            <p>This collection is open for research.</p>
+         </accessrestrict>
+         <userestrict id="ref5">
+            <head>Ownership &amp; Copyright</head>
+            <p>All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Special Collections and University Archives, Stanford University Libraries, Stanford, California 94304-6064. Consent is given on behalf of Special Collections as the owner of the physical items and is not intended to include or imply permission from the copyright owner. Such permission must be obtained from the copyright owner, heir(s) or assigns. See: http://library.stanford.edu/depts/spc/pubserv/permissions.html.</p>
+            <p>Restrictions also apply to digital representations of the original materials. Use of digital files is restricted to research and educational purposes.</p>
+         </userestrict>
+         <prefercite id="ref6">
+            <head>Cite As</head>
+            <p>Lowell Turrentine Papers (SC0057). Department of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <bioghist id="ref7">
+         <head>Biographical/Historical Sketch</head>
+         <p>Lowell Turrentine earned his undergraduate degree at Princeton in 1917 and his law degrees at Harvard in 1922 and 1929. He practiced law in Cleveland and New York City and was involved in the prosecution of the Elk Hills and Teapot Dome scandal, before joining the faculty of the Stanford Law School in the fall of 1929. During World War II he served as compliance commissioner for the War Production Board. He was acting dean of the law school in 1945-46; in 1958 he became the first holder of the Marion Rice Kirkwood Professorship in Law. He retired in 1961 and died in 1992.</p>
+      </bioghist>
+      <scopecontent id="ref8">
+         <head>Description of the Collection</head>
+         <p>Collection pertains largely to his professional life at Stanford University and contains correspondence, both business and personal; his master's thesis; materials for lectures; degrees, awards, and certificates; and a Turrentine genealogy. General correspondence concerns financial investments, legal issues (including estate issues), law curriculum, publication of his articles and books, placement of law students, and personal affairs such as his health, offers of other teaching posts, and Princeton and Harvard reunions. There is a substantial amount of correspondence and memoranda from his work as a Compliance Commissioner for the War Production Board, 1942-44. Other topics include the Stanford Law Veterans Memorial Scholarship, the death of Allene Lamson, Laisne v. State Board of Optometry, and the effect of World War II on the Law School. Correspondents include Warren Christopher, Felix Frankfurter, Charles A. Beardsley, John S. Bradway, Elliott E. Cheatham, Juan Enrique Geigel, Erwin N. Griswold, Moffatt Hancock, Marion R. Kirkwood, Ray B. Lyon, Philbrick McCoy, D. O. McGovney, Roscoe Pound, Owen J. Roberts, Malcolm P. Sharp, Fred Ames Weller, and Richard Wicks.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <persname rules="aacr" source="ingest">Beardsley, Charles Alexander, 1882-1963.</persname>
+         <persname rules="aacr" source="ingest">Bradway, John S. (John Saeger), 1890-1985</persname>
+         <persname rules="aacr" source="ingest">Cheatham, Elliott Evans, 1888-1972.</persname>
+         <persname rules="aacr" source="ingest">Christopher, Warren.</persname>
+         <persname rules="aacr" source="ingest">Frankfurter, Felix, 1882-1965.</persname>
+         <persname rules="aacr" source="ingest">Geigel, Juan Enrique.</persname>
+         <persname rules="aacr" source="ingest">Griswold, Erwin N. (Erwin Nathaniel), 1904-</persname>
+         <persname rules="aacr" source="ingest">Hancock, Moffatt.</persname>
+         <persname rules="aacr" source="ingest">Kirkwood, Marion Rice, 1887-1978.</persname>
+         <persname rules="aacr" source="naf">Kreps, Theodore J. (Theodore John ), b. 1897</persname>
+         <persname rules="aacr" source="ingest">Lamson, Allene.</persname>
+         <persname rules="aacr" source="ingest">McCoy, Philbrick, 1897-</persname>
+         <persname rules="aacr" source="ingest">McGovney, Dudley O. (Dudley Odell), 1877-1947.</persname>
+         <persname rules="aacr" source="ingest">Pound, Roscoe, 1870-1964.</persname>
+         <persname rules="aacr" source="ingest">Roberts, Owen J. (Owen Josephus), 1875-1955.</persname>
+         <persname rules="aacr" source="ingest">Sharp, Malcolm Pitman, 1897-</persname>
+         <corpname rules="dacs" source="ingest">Stanford University. School of Law--Faculty.</corpname>
+         <persname rules="aacr" source="ingest">Turrentine, Julian.</persname>
+         <persname rules="aacr" source="ingest">Turrentine, Lawrence N.</persname>
+         <persname rules="aacr" source="ingest">Turrentine, Lowell.</persname>
+         <corpname rules="dacs" source="ingest">United States. War Production Board.</corpname>
+         <persname rules="aacr" source="ingest">Weller, Fred Ames.</persname>
+         <persname rules="aacr" source="ingest">Wicks, Richard.</persname>
+         <subject source="LCSH">Law --Study and teaching.</subject>
+         <subject source="LCSH">Universities and colleges--Faculty.</subject>
+         <subject source="lcsh">World War, 1939-1945--California--Stanford. </subject>
+         <subject source="LCSH">World War, 1939-1945--Economic aspects--United States.</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.6">
+         <head>Collection Contents</head>
+         <c01 id="ref9" level="series">
+            <did>
+               <unittitle>Papers</unittitle>
+            </did>
+            <c02 id="ref10" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Correspondence, 1928</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref11" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Correspondence, 1929</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref12" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Correspondence, 1930</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref13" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Correspondence, 1931</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref14" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Correspondence, 1932</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref15" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Correspondence, 1933</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref16" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Correspondence, 1934</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref17" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Correspondence, 1935</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref18" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Correspondence, 1936</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref19" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Correspondence, 1937</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref20" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Correspondence, 1938</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref21" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Correspondence, 1939</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref22" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Correspondence, 1940</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref23" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Correspondence, 1941</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref24" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Correspondence, 1942 Jan. – Mar.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref25" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Correspondence, 1942 Apr. – June</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref26" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Correspondence, 1942 July – Sept.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref27" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Correspondence, 1942 Oct. – Dec.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref28" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Correspondence, 1943 Jan. – Mar.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref29" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Correspondence, 1943 Apr. – June</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref30" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Correspondence, 1943 July – Sept.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref31" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Correspondence, 1943 Oct. – Dec.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref32" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Correspondence, 1944 Jan. – Mar.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref33" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Correspondence, 1944 Apr. – June</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref34" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Correspondence, 1944 July – Oct.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref35" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Correspondence, 1944 Nov. – Dec.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref36" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Correspondence, 1945 Jan. – June</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref37" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Correspondence, 1945 July – Dec.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref38" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Correspondence, 1946 Jan. – May</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref39" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Correspondence, 1946 June – Dec.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref40" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Correspondence, 1947</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref41" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Correspondence, 1948</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref42" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Correspondence, 1949</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref43" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Correspondence, 1950 Jan. – Mar.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref44" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Correspondence, 1950 April – June</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref45" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Correspondence, 1950 July – Dec.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref46" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Correspondence, 1951 Jan. – June</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref47" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Correspondence, 1951 July – Dec.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref48" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Correspondence, 1952 Jan. – May</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref49" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Correspondence, 1952 June – Dec.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref50" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Correspondence, 1953 Jan. – March</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref51" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Correspondence, 1953 Apr. – June</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref52" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Correspondence, 1953 July – Dec.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref53" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Correspondence, 1954 Jan. – June</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref54" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Correspondence, 1954 July – Dec.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref55" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Correspondence, 1955 Jan. – June</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref56" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Correspondence, 1955 July – Dec.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref57" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Correspondence, 1956</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref58" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Correspondence with Benjamin F. Crump re Standard Equities Corp. stock, 1936-43</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref59" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Correspondence with Philbrick McCoy re law handbook co-authorship, 1935-36; includes outline of book and contract</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref60" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Correspondence re law scholarship committee, 1948-50</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref61" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Law Library minutes, 1932 May and October</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref62" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Correspondence with Raymond F. Lillie, 1938-42, with a few letters from Gilberta Lillie</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref63" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Correspondence re Practicing Law Institute, 1941-46</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref64" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Correspondence re class on social legislation, 1941-46; correspondents include Walter P. Armstrong and Ray B. Lyon</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref65" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Directed research papers by students, 1933-1949</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref66" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Genealogy of Turrentine family and clippings</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref67" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Historical jurisprudence – mimeographed typescript, pp. 1-69</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref68" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Historical jurisprudence – mimeographed typescript, pp. 70-158</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref69" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Historical jurisprudence – mimeographed typescript, pp. 159-213</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref70" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Bessie Manuel papers (estate matter), 1944-46</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref71" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Master's thesis, "'Separable Controversy' as a Ground for Removal to the Federal Courts of Certain Types of Cases Involving Interests in Land," 1929</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref72" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Material re state constitution amendment #9, 1940</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref73" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Personal correspondence and papers, 1913-1918</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref74" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Personal correspondence and papers, 1924-1929</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref75" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Personal correspondence, Felix Frankfurter, 1938-41</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref76" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Personal correspondence and papers, 1930-1938</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref77" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Personal correspondence and papers, 1941-1949</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref78" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Personal correspondence and papers, undated</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref79" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Pound, Roscoe: Readings in Roman Law, Second Edition Part I, 1914; Outlines of Lectures on Jurisprudence, Fourth Edition, 1928</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref80" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Degrees, awards, certificates, 1922-1950Degrees, awards, certificates, 1922-1950</unittitle>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+      <odd id="ref81" type="appendix">
+         <head>General correspondence index (not inclusive)</head>
+         <table>
+            <tgroup cols="4">
+               <thead>
+                  <row>
+                     <entry>Name</entry>
+                     <entry>Box(es)</entry>
+                     <entry>Folder(s)</entry>
+                     <entry>Date(s)</entry>
+                  </row>
+               </thead>
+               <tbody>
+                  <row>
+                     <entry>Beardsley, Charles A.</entry>
+                     <entry>1</entry>
+                     <entry>4-6</entry>
+                     <entry>1931-33</entry>
+                  </row>
+                  <row>
+                     <entry>Bradway, John S.</entry>
+                     <entry>1</entry>
+                     <entry>6-8</entry>
+                     <entry>1933-35</entry>
+                  </row>
+                  <row>
+                     <entry>Bradway, John S.</entry>
+                     <entry>5</entry>
+                     <entry>3</entry>
+                     <entry>1953 Dec.</entry>
+                  </row>
+                  <row>
+                     <entry>Carmen, W. B., Jr.</entry>
+                     <entry>2</entry>
+                     <entry>4</entry>
+                     <entry>1942 Apr.</entry>
+                  </row>
+                  <row>
+                     <entry>Christopher, Warren [to George Grimes]</entry>
+                     <entry>4</entry>
+                     <entry>2</entry>
+                     <entry>1949</entry>
+                  </row>
+                  <row>
+                     <entry>Cranston, John M.</entry>
+                     <entry>4</entry>
+                     <entry>4-5</entry>
+                     <entry>1950 May, Nov.</entry>
+                  </row>
+                  <row>
+                     <entry>Cranston, John M.</entry>
+                     <entry>4</entry>
+                     <entry>8</entry>
+                     <entry>1952 Feb.</entry>
+                  </row>
+                  <row>
+                     <entry>Crothers, George E.</entry>
+                     <entry/>
+                     <entry/>
+                     <entry>1952-53 (4/8 – 5/3)</entry>
+                  </row>
+                  <row>
+                     <entry>Curran, J. E. [re son James B. Curran]</entry>
+                     <entry>3</entry>
+                     <entry>5</entry>
+                     <entry>1945 Feb.,</entry>
+                  </row>
+                  <row>
+                     <entry>Curran, J. E. [re son James B. Curran]</entry>
+                     <entry>4</entry>
+                     <entry>1</entry>
+                     <entry>1948 Feb.</entry>
+                  </row>
+                  <row>
+                     <entry>Curran, James B. (former student in Armed Services)</entry>
+                     <entry>2</entry>
+                     <entry>5-6</entry>
+                     <entry>1942 Sept., Dec.</entry>
+                  </row>
+                  <row>
+                     <entry>Chandler, George G.</entry>
+                     <entry>1</entry>
+                     <entry>2</entry>
+                     <entry>1929</entry>
+                  </row>
+                  <row>
+                     <entry>Cheatham, Elliott E. </entry>
+                     <entry>4</entry>
+                     <entry>3</entry>
+                     <entry>1950 Jan.;</entry>
+                  </row>
+                  <row>
+                     <entry>Cheatham, Elliott E. </entry>
+                     <entry>5</entry>
+                     <entry>6-7</entry>
+                     <entry>1955</entry>
+                  </row>
+                  <row>
+                     <entry>Doty, William S. </entry>
+                     <entry>1</entry>
+                     <entry>12</entry>
+                     <entry>1939</entry>
+                  </row>
+                  <row>
+                     <entry>Ervin, John W.</entry>
+                     <entry>4</entry>
+                     <entry>3</entry>
+                     <entry>1950 Jan.</entry>
+                  </row>
+                  <row>
+                     <entry>Fletcher, Robert L.</entry>
+                     <entry>5</entry>
+                     <entry>6-8</entry>
+                     <entry>1955-56</entry>
+                  </row>
+                  <row>
+                     <entry>Frankfurter, Felix</entry>
+                     <entry>2</entry>
+                     <entry>3</entry>
+                     <entry>1942 Jan.</entry>
+                  </row>
+                  <row>
+                     <entry>Frankfurter, Felix</entry>
+                     <entry>2</entry>
+                     <entry>7</entry>
+                     <entry>1943 Jan.</entry>
+                  </row>
+                  <row>
+                     <entry>Geigel, Juan Enrique</entry>
+                     <entry>8-9</entry>
+                     <entry>1935-1936,</entry>
+                  </row>
+                  <row>
+                     <entry>Geigel, Juan Enrique</entry>
+                     <entry>2</entry>
+                     <entry>5</entry>
+                     <entry>1942 (Sept.)</entry>
+                  </row>
+                  <row>
+                     <entry>Genser, Joseph (former student in Armed Services)</entry>
+                     <entry>2</entry>
+                     <entry>6</entry>
+                     <entry>1942 Dec.,</entry>
+                  </row>
+                  <row>
+                     <entry>Genser, Joseph (former student in Armed Services)</entry>
+                     <entry>2</entry>
+                     <entry>8</entry>
+                     <entry>1943 Apr.</entry>
+                  </row>
+                  <row>
+                     <entry>Griswold, Erwin N.</entry>
+                     <entry>1</entry>
+                     <entry>41038</entry>
+                     <entry>1932-36</entry>
+                  </row>
+                  <row>
+                     <entry>Griswold, Erwin N.</entry>
+                     <entry>1</entry>
+                     <entry>12</entry>
+                     <entry>1939</entry>
+                  </row>
+                  <row>
+                     <entry>Griswold, Erwin N.</entry>
+                     <entry>2</entry>
+                     <entry>7</entry>
+                     <entry>1943 (Feb.)</entry>
+                  </row>
+                  <row>
+                     <entry>Griswold, Erwin N.</entry>
+                     <entry>4</entry>
+                     <entry>8</entry>
+                     <entry>1952 Feb.</entry>
+                  </row>
+                  <row>
+                     <entry>Griswold, Erwin N.</entry>
+                     <entry>5</entry>
+                     <entry>1</entry>
+                     <entry>1953 Mar.</entry>
+                  </row>
+                  <row>
+                     <entry>Griswold, Erwin N.</entry>
+                     <entry>5</entry>
+                     <entry>5</entry>
+                     <entry>1954 Dec.</entry>
+                  </row>
+                  <row>
+                     <entry>Hahn, Herbert L.</entry>
+                     <entry>5</entry>
+                     <entry>1-7</entry>
+                     <entry>1953-55</entry>
+                  </row>
+                  <row>
+                     <entry>Hancock, Moffatt</entry>
+                     <entry>5</entry>
+                     <entry>1</entry>
+                     <entry>1953 Mar.</entry>
+                  </row>
+                  <row>
+                     <entry>Kirkwood, Marion R.</entry>
+                     <entry>1</entry>
+                     <entry>4</entry>
+                     <entry>1931</entry>
+                  </row>
+                  <row>
+                     <entry>Kreps, Theodore J.</entry>
+                     <entry>2</entry>
+                     <entry>1</entry>
+                     <entry>1940</entry>
+                  </row>
+                  <row>
+                     <entry>Lyon, Ray B.</entry>
+                     <entry>3</entry>
+                     <entry>1-2</entry>
+                     <entry>1942 Jan., June</entry>
+                  </row>
+                  <row>
+                     <entry>Lyon, Ray B.</entry>
+                     <entry>4</entry>
+                     <entry>8</entry>
+                     <entry>1952 Apr.</entry>
+                  </row>
+                  <row>
+                     <entry>Lyon, Ray B.</entry>
+                     <entry>5</entry>
+                     <entry>4</entry>
+                     <entry>1954 Feb</entry>
+                  </row>
+                  <row>
+                     <entry>Lyon, Ray B.</entry>
+                     <entry>5</entry>
+                     <entry>41067</entry>
+                     <entry>1955 June, Dec.</entry>
+                  </row>
+                  <row>
+                     <entry>Lyon, Ray B.</entry>
+                     <entry>5</entry>
+                     <entry>8</entry>
+                     <entry>1956 June</entry>
+                  </row>
+                  <row>
+                     <entry>McCoy, Philbrick (with tss "The Law Student and Professional Standards")</entry>
+                     <entry>5</entry>
+                     <entry>1</entry>
+                     <entry>1953 Jan.</entry>
+                  </row>
+                  <row>
+                     <entry>McCoy, Philbrick</entry>
+                     <entry>6</entry>
+                     <entry>2</entry>
+                     <entry/>
+                  </row>
+                  <row>
+                     <entry>McGovney, D. O. </entry>
+                     <entry>2</entry>
+                     <entry>2</entry>
+                     <entry>1941</entry>
+                  </row>
+                  <row>
+                     <entry>McGovney, D. O. </entry>
+                     <entry>2</entry>
+                     <entry>3-4, 6</entry>
+                     <entry>1942 (Mar., May, June, Oct.)</entry>
+                  </row>
+                  <row>
+                     <entry>Pound, Roscoe</entry>
+                     <entry>4</entry>
+                     <entry>2</entry>
+                     <entry>1949</entry>
+                  </row>
+                  <row>
+                     <entry>Roberts, Owen J.</entry>
+                     <entry>1</entry>
+                     <entry>4-5, 9, 12</entry>
+                     <entry/>
+                  </row>
+                  <row>
+                     <entry>Roberts, Owen J.</entry>
+                     <entry/>
+                     <entry/>
+                     <entry>1942 Feb.</entry>
+                  </row>
+                  <row>
+                     <entry>Root, Clark, Buckner &amp; Ballantine (law firm)</entry>
+                     <entry>1</entry>
+                     <entry>4-9</entry>
+                     <entry>1931-36</entry>
+                  </row>
+                  <row>
+                     <entry>Alyea, Ethan</entry>
+                     <entry>1</entry>
+                     <entry>8-9</entry>
+                     <entry>1935-36</entry>
+                  </row>
+                  <row>
+                     <entry>Alyea, Ethan</entry>
+                     <entry>4</entry>
+                     <entry>4-5</entry>
+                     <entry>1950 (May, Nov)</entry>
+                  </row>
+                  <row>
+                     <entry>Alyea, Ethan </entry>
+                     <entry>4</entry>
+                     <entry>8</entry>
+                     <entry>1952 (Feb., May)</entry>
+                  </row>
+                  <row>
+                     <entry>Alyea, Ethan </entry>
+                     <entry>5</entry>
+                     <entry>1-8</entry>
+                     <entry>1953-Jan. 56</entry>
+                  </row>
+                  <row>
+                     <entry>Laporte, Lloyd</entry>
+                     <entry>1</entry>
+                     <entry>12</entry>
+                     <entry>1939</entry>
+                  </row>
+                  <row>
+                     <entry>Root, Elihu, Jr.</entry>
+                     <entry>2</entry>
+                     <entry>1</entry>
+                     <entry>1940</entry>
+                  </row>
+                  <row>
+                     <entry>Sharp, Malcolm P.</entry>
+                     <entry>2</entry>
+                     <entry>6</entry>
+                     <entry>1942 Oct.</entry>
+                  </row>
+                  <row>
+                     <entry>Sharp, Malcolm P.</entry>
+                     <entry>5</entry>
+                     <entry>7-8</entry>
+                     <entry>1955 Dec.; 1956 Jan.</entry>
+                  </row>
+                  <row>
+                     <entry>Turrentine, Julian</entry>
+                     <entry>1</entry>
+                     <entry>2-3</entry>
+                     <entry>1929-30</entry>
+                  </row>
+                  <row>
+                     <entry>Turrentine, Lawrence N.</entry>
+                     <entry>1</entry>
+                     <entry>9</entry>
+                     <entry>1936</entry>
+                  </row>
+                  <row>
+                     <entry>War Production Board</entry>
+                     <entry>2 &amp; 3</entry>
+                     <entry/>
+                     <entry>1942-1945</entry>
+                  </row>
+                  <row>
+                     <entry>Weller, Fred Ames [also of Root firm]</entry>
+                     <entry>1</entry>
+                     <entry>4-9</entry>
+                     <entry>1931-36</entry>
+                  </row>
+                  <row>
+                     <entry>Wicks, Richard</entry>
+                     <entry>5</entry>
+                     <entry>4-7</entry>
+                     <entry>1954-55</entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </odd>
+      <odd id="ref82" type="appendix">
+         <head>Outgoing Letters of Note</head>
+         <table>
+            <tgroup cols="4">
+               <thead>
+                  <row>
+                     <entry>Name</entry>
+                     <entry>Box(es)</entry>
+                     <entry>Folder(s)</entry>
+                     <entry>Date(s)</entry>
+                  </row>
+               </thead>
+               <tbody>
+                  <row>
+                     <entry>Christian Science, refuting its approach to medicine</entry>
+                     <entry>1</entry>
+                     <entry>4</entry>
+                     <entry>1931</entry>
+                  </row>
+                  <row>
+                     <entry>Father's 70th birthday (Rev. Francis M. Turrentine)</entry>
+                     <entry>1</entry>
+                     <entry>4</entry>
+                     <entry>1931</entry>
+                  </row>
+                  <row>
+                     <entry>Death of Allene Lamson [evidence refutes accident]</entry>
+                     <entry>1</entry>
+                     <entry>7</entry>
+                     <entry>1934</entry>
+                  </row>
+                  <row>
+                     <entry>World War II, effect on Law School</entry>
+                     <entry>2</entry>
+                     <entry>3-6</entry>
+                     <entry>1942</entry>
+                  </row>
+                  <row>
+                     <entry>Evacuation of Japanese &amp; Japanese Americans</entry>
+                     <entry>2</entry>
+                     <entry>3-6</entry>
+                     <entry>1942</entry>
+                  </row>
+                  <row>
+                     <entry>SU's Civilian Defense Plan</entry>
+                     <entry>2</entry>
+                     <entry>4</entry>
+                     <entry>1942 May</entry>
+                  </row>
+                  <row>
+                     <entry>To Mrs. Morie Takasuka and her son Kazuo Takasuka (while in relocation camps)</entry>
+                     <entry>2</entry>
+                     <entry>6-7</entry>
+                     <entry>1942 Oct. – 1943 Mar.</entry>
+                  </row>
+                  <row>
+                     <entry>Report on his work as Compliance Commissioner</entry>
+                     <entry>3</entry>
+                     <entry>5</entry>
+                     <entry>1945 May</entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </odd>
+      <odd id="ref83" type="appendix">
+         <head>Other topics of note:</head>
+         <table>
+            <tgroup cols="2">
+               <thead>
+                  <row>
+                     <entry>Topic</entry>
+                     <entry>Date(s)</entry>
+                  </row>
+               </thead>
+               <tbody>
+                  <row>
+                     <entry>Report on his work as Compliance Commissioner</entry>
+                     <entry>1945 May</entry>
+                  </row>
+                  <row>
+                     <entry>Laisne v. State Board of Optometry</entry>
+                     <entry>1942</entry>
+                  </row>
+                  <row>
+                     <entry>Stanford Law Veterans Memorial Scholarship</entry>
+                     <entry>1945</entry>
+                  </row>
+                  <row>
+                     <entry>AAUP matters (national and at SU)</entry>
+                     <entry>1953 May</entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </odd>
+   </archdesc>
+</ead>

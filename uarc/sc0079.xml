@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[Stanford University, Office of Summer Session, records])//EN"
+             identifier="ark:/13030/kt9c6040nv">sc0079.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Stanford University, Office of Summer Session, Records
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Stanford University, Office of Summer Session, Records</titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2010-10">October 2010</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC0079</unitid>
+         <origination label="Creator:">
+            <corpname rules="dacs" source="ingest">Stanford University. Office of Summer Session.</corpname>
+         </origination>
+         <unittitle label="Title:">Stanford University, Office of Summer Session, records</unittitle>
+         <unitdate normal="1960/1970"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1960-1970</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>4.5 Linear feet</extent>
+         </physdesc>
+         <abstract label="Summary:">Records of the Director's Office, including budget files, correspondence and mimeographed information sheets, questionnaires sent to summer shool students in order to evaluate the program, and files regarding the Association of University Summer Sessions.</abstract>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <descgrp type="provenance" id="prov">
+            <head>Provenance</head>
+            <acqinfo id="ref3">
+               <p>Administrative transfer, Office of Summer Session, 1970.</p>
+            </acqinfo>
+         </descgrp>
+         <accessrestrict id="ref4">
+            <head>Information about Access</head>
+            <p>The materials are open for research use.</p>
+         </accessrestrict>
+         <userestrict id="ref5">
+            <head>Ownership &amp; Copyright</head>
+            <p>All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Special Collections and University Archives, Stanford University Libraries, Stanford, California 94304-6064. Consent is given on behalf of Special Collections as the owner of the physical items and is not intended to include or imply permission from the copyright owner. Such permission must be obtained from the copyright owner, heir(s) or assigns. See: http://library.stanford.edu/depts/spc/pubserv/permissions.html.</p>
+            <p>Restrictions also apply to digital representations of the original materials. Use of digital files is restricted to research and educational purposes.</p>
+         </userestrict>
+         <prefercite id="ref6">
+            <head>Cite As</head>
+            <p>Stanford University, Office of Summer Session, Records (SC0079). Department of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <scopecontent id="ref7">
+         <head>Description of the Collection</head>
+         <p>Records of the Director's Office, including budget files, correspondence and mimeographed information sheets, questionnaires sent to summer shool students in order to evaluate the program, and files regarding the Association of University Summer Sessions.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <corpname rules="dacs" source="ingest">Stanford University. Office of Summer Session.</corpname>
+         <subject source="lcsh">Universities and colleges--Administration.</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.5">
+         <head>Collection Contents</head>
+         <c01 id="ref8" level="series">
+            <did>
+               <unittitle>Records</unittitle>
+            </did>
+            <c02 id="ref9" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Budget General</unittitle>
+                  <unitdate>1961-1963</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref10" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Budget Commitments</unittitle>
+                  <unitdate>1963-1964</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref11" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Budget General</unittitle>
+                  <unitdate>1963-1964</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref12" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Budget Commitments</unittitle>
+                  <unitdate>1964-1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref13" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Budget General</unittitle>
+                  <unitdate>1964-1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref14" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Budget Commitments</unittitle>
+                  <unitdate>1965-1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref15" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Budget General</unittitle>
+                  <unitdate>1965-1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref16" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Expenditures for Department Brochures</unittitle>
+                  <unitdate>1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref17" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>New Basic Travel Schedule</unittitle>
+                  <unitdate>1965-1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref18" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Travel Commitments</unittitle>
+                  <unitdate>1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref19" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Budget Commitments</unittitle>
+                  <unitdate>1966-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref20" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Department Brochure Expenses</unittitle>
+                  <unitdate>1966-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref21" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Budget Commitments</unittitle>
+                  <unitdate>1967-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref22" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Departmental Brochure Expenses</unittitle>
+                  <unitdate>1967-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref23" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Budget General</unittitle>
+                  <unitdate>1968-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref24" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Financial Aid</unittitle>
+                  <unitdate>1964-1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref25" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Financial Aid</unittitle>
+                  <unitdate>1965-1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref26" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Tuition</unittitle>
+                  <unitdate>1965-1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref27" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Enrollment</unittitle>
+                  <unitdate>1961-1963</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref28" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Enrollment: Course Consumption (Figures for President's Report)</unittitle>
+                  <unitdate>1962-1963</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref29" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Enrollment Tables (Registrar's Office Report)</unittitle>
+                  <unitdate>1962-1963</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref30" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Enrollment Tables</unittitle>
+                  <unitdate>1962-1963</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref31" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Enrollment</unittitle>
+                  <unitdate>1963-1964</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref32" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Enrollment</unittitle>
+                  <unitdate>1964-1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref33" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Course Comparisons: Ten Students or Less</unittitle>
+                  <unitdate>1961-1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref34" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Enrollment</unittitle>
+                  <unitdate>1965-1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref35" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Enrollment</unittitle>
+                  <unitdate>1968-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref36" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Statistics on Faculty and Courses</unittitle>
+                  <unitdate>1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref37" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Faculty Appointments for Summer "A-L"</unittitle>
+                  <unitdate>1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref38" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Faculty Appointments for Summer "M-Z"</unittitle>
+                  <unitdate>1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref39" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Visiting Faculty</unittitle>
+                  <unitdate>1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref40" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Leaves of Absence (Faculty)</unittitle>
+                  <unitdate>1964-1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref41" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Leaves of Absence (Faculty)</unittitle>
+                  <unitdate>1966-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref42" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Faculty Mailing List and Summer Faculty Party</unittitle>
+                  <unitdate>1965-1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref43" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Future Programs</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref44" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Director's Miscellaneous Correspondence</unittitle>
+                  <unitdate>1967-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref45" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Administrative Committee</unittitle>
+                  <unitdate>1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref46" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Provost's Office</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref47" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Dr E. Howard Brooks</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref48" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Timothy Wirth</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref49" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>American History, Institute of (Coe)</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref50" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Business - Graduate School of</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref51" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>East Asian Studies</unittitle>
+                  <unitdate>1960</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref52" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>East Asian Studies</unittitle>
+                  <unitdate>1961-1963</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref53" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Education: Pre-College Guidance and College Admissions</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref54" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>School of Education</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref55" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Engineering-General</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref56" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Geography</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref57" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Geology</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref58" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Hoover Institution</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref59" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>International Center (Bechtel) English Programs</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref60" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>H. and S. Latin American Studies</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref61" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Law, School of</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref62" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>H. and S. Mathematics</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref63" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Men's Physical Education</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref64" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Speech Pathology</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref65" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Western Civilization</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref66" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Women's Physical Education</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref67" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Graduate Special Courses</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref68" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Housing and Residences</unittitle>
+                  <unitdate>1965-1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref69" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Residences and Food Service</unittitle>
+                  <unitdate>1969-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref70" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Letter of Information</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref71" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Summer School Bulletin: Promotional Information</unittitle>
+                  <unitdate>1968-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref72" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Summer School Bulletin</unittitle>
+                  <unitdate>1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref73" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Registration Day</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref74" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Calendar</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref75" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Time Schedule</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref76" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Student Privilege Cards</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref77" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Special Arrangements</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref78" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Promotional Material: Ads</unittitle>
+                  <unitdate>1967-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref79" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Brochures by Stanford: former years</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref80" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Association of Summer School Deans and Directors</unittitle>
+                  <unitdate>1962-1963</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref81" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Association of Summer School Deans and Directors</unittitle>
+                  <unitdate>1963-1964</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref82" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Deans and Directors of Summer Schools, Western Association</unittitle>
+                  <unitdate>1965-1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref83" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Association of University Summer Sessions, Meeting Charlottesville</unittitle>
+                  <unitdate>1969 Oct 14-1?</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref84" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Association of University Summer Sessions</unittitle>
+                  <unitdate>1965-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref85" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Newspapers' Prices</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref86" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Keio-Stanford Exchange Program</unittitle>
+                  <unitdate>1961-1963</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref87" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Keio-Stanford Exchange Program</unittitle>
+                  <unitdate>1963-1964</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref88" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>John Hay Fellows Program</unittitle>
+                  <unitdate>1960</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref89" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Keio-Stanford Exchange Program</unittitle>
+                  <unitdate>1964-1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref90" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>John Hay Fellows Program</unittitle>
+                  <unitdate>1961</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref91" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>John Hay Fellows Program</unittitle>
+                  <unitdate>1962</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref92" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>John Hay Fellows Program</unittitle>
+                  <unitdate>1963</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref93" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>John Hay Fellows Program</unittitle>
+                  <unitdate>1964-1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref94" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>National Science Foundation Physics Institute</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref95" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>National Science Foundation Materials Science</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref96" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>National Science Foundation Mathematics-College</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref97" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>National Science Foundation Mathematics-High School</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref98" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Lisle Fellowships</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref99" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Shell Merit Fellowship Program</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref100" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Report on Shell Merit Program</unittitle>
+                  <unitdate>1962</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref101" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Report on Shell Merit Program</unittitle>
+                  <unitdate>1964</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref102" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Report on Shell Merit Program</unittitle>
+                  <unitdate>1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref103" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Report on Shell Merit Program</unittitle>
+                  <unitdate>1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref104" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>USAR Conference</unittitle>
+                  <unitdate>1965-1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref105" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Project Upward Bound</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref106" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Ford Foundation Seminars in Economics</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref107" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>General Electric Summer Fellowship Program-Economics</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref108" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Questionnaire II: Stanford Summer School</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref109" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Questionnaire Preparatory Material</unittitle>
+                  <unitdate>1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref110" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Questionnaire III</unittitle>
+                  <unitdate>1969 Oct 31</unitdate>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

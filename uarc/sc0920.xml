@@ -1,0 +1,982 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[Herbert Nanney papers])//EN"
+             identifier="ark:/13030/kt3q2nd75h">sc0920.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Herbert Nanney Papers
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Nanney (Herbert) Papers</titleproper>
+            <author>Aimee L. Morgan</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2008">2008</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC0920</unitid>
+         <origination label="Creator:">
+            <persname rules="aacr" source="naf">Nanney, Herbert, 1918-1996</persname>
+         </origination>
+         <unittitle label="Title:">Herbert Nanney papers</unittitle>
+         <unitdate normal="1924/2005"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1924-2005</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>4 Linear feet</extent>
+         </physdesc>
+         <abstract label="Summary:">Programs, news clippings, correspondence, photographs, audio recordings, music scores, and other materials which document Herbert Nanney's tenure as Stanford University professor of music and university organist.</abstract>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <accessrestrict id="ref3">
+            <head>Information about Access</head>
+            <p>Collection is open for research; materials must be requested at least 24 hours in advance of intended use.</p>
+         </accessrestrict>
+         <userestrict id="ref5">
+            <head>Ownership &amp; Copyright</head>
+            <p>Property rights reside with the repository. Literary rights reside with the creators of the documents or their heirs. To obtain permission to publish or reproduce, please contact the Public Services Librarian of the Dept. of Special Collections.</p>
+         </userestrict>
+         <prefercite id="ref7">
+            <head>Cite As</head>
+            <p>[Identification of item], Herbert Nanney papers, SC 920, Stanford University Archives, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <bioghist id="ref9">
+         <head>Biography / Administrative History</head>
+         <p>Herbert Boswell Nanney, university organist and professor of music at Stanford University, was born in Whittier, California in 1918. He began piano lessons at the age of five, and studied organ under UCLA's Alexander Schreiner while a high school student. Nanney received his A.B. in Music from Whittier College in 1940, an Artist's Diploma from the Curtis Institute of Music in Philadelphia in 1947, and his M.A. from Stanford in 1951.</p>
+         <p>Nanney first came to Stanford shortly after receiving his A.B., serving as assistant to university organist William D. Allen. He left Stanford to attend the Curtis Institute of Music in 1941. In August 1942 he was inducted into the Army. While stationed in Paris from 1944-1945, Nanney studied organ with Marcel Dupre at the Paris Conservatory of Music and was organist at the American Cathedral.</p>
+         <p>After his return from Europe, Nanney served as organist and choir director for churches in southern California and Philadelphia before returning to Stanford in 1947 as university organist and a member of the music faculty. In the years that followed he traveled regularly to lecture and perform, and was instrumental in the planning and construction of the Fisk-Nanney organ in Memorial Church, which was dedicated in 1984.</p>
+         <p>Nanney's 1985 retirement was celebrated with a series of concerts on campus, at which 30 of his former students played the works of Bach. He remained in the Bay Area until his death in 1996.</p>
+      </bioghist>
+      <scopecontent id="ref11">
+         <head>Scope and Content of Collection</head>
+         <p>Programs and news clippings related to performances by Nanney comprise the bulk of these papers. For preservation reasons, clippings on newsprint have been placed at the end of each folder and are segregated from other documents with acid-free paper. Also included are several folders of clippings, programs, and other documents related to the construction of the Fisk-Nanney organ at Stanford University's Memorial Church. There are also several tributes to Nanney, including congratulatory letters compiled and presented to him at the time of his retirement; a memorial service address by James Welch; and a program and an original composition from an honorary concert presented by the San Jose Chapter of the American Guild of Organists.</p>
+         <p>Many of the programs, news clippings, and congratulatory letters were originally located in scrapbooks. Due to preservation concerns these items were detached from their scrapbook pages and placed in acid-free folders. Folder titles indicate items that were originally found in scrapbooks.</p>
+         <p>Other correspondence is sparse and consists largely of letters to Nanney from his parents. Two items of particular interest are a 1945 letter of reference from prominent French organist Marcel Dupre and a 1953 letter from Vice President Richard Nixon in response to Nanney's inquiry about the position of Organist and Choirmaster at West Point's Cadet Chapel.</p>
+         <p>There are two recordings of works by Nanney: a CD-R copy of a 1956 baroque music performance in Memorial Church and an LP of Nanney s performance at the 1963 Far West Regional Convention of the American Guild of Organists. The papers also include several original compositions by Nanney, including his Sonata in E Minor for pipe organ and The Creation: A Sacred Cantata for Chorus, Soprano and Baritone Soloists, Full Orchestra, and Organ.</p>
+         <p>Most of the photographs in box 1 are posed portraits of Nanney, but there are a few images of the Memorial Church organ as well as several individual and group photographs of others.</p>
+         <p>The papers were donated to the Stanford University Archives by James Welch, a former Nanney student. Welch's notes on the papers are included in box 5, folder 12. There is also a transcript of Welch's 1991 interview with Nanney, a recording of the interview on audiocassette, and a copy of Welch's piece on Nanney for Stanford magazine's January/February 2003 "The Teacher Who Changed My Life" feature.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <corpname rules="dacs" source="ingest">Stanford University. Department of Music.</corpname>
+         <corpname rules="dacs" source="naf">Stanford University. Memorial Church</corpname>
+         <subject source="ingest">Organists--California.</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.6">
+         <head>Collection Contents</head>
+         <c01 id="ref12" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">1</container>
+               <unittitle>American Guild of Organists San Jose chapter recital in honor of Nanney,</unittitle>
+               <unitdate>1992</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref13" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">2</container>
+               <unittitle>Biographical information,</unittitle>
+               <unitdate>1954, 1992, undated</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref14" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">3</container>
+               <unittitle>Correspondence,</unittitle>
+               <unitdate>1943-1947, 1953</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref15" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">4</container>
+               <unittitle>Correspondence,</unittitle>
+               <unitdate>1963-1964, 1976-1979, undated</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref16" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">5</container>
+               <unittitle>Fisk Organ,</unittitle>
+               <unitdate>1979-1984</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref17" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">6</container>
+               <unittitle>Fisk Organ,</unittitle>
+               <unitdate>1979-1984</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref18" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">7</container>
+               <unittitle>Fisk Organ,</unittitle>
+               <unitdate>1979-1984</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref19" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">8</container>
+               <unittitle>Music, Fantasie,</unittitle>
+               <unitdate>undated</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref20" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">9</container>
+               <unittitle>Music, Fantasie in C Minor,</unittitle>
+               <unitdate>undated</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref21" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">10</container>
+               <unittitle>Music, Holy Holy Holy,</unittitle>
+               <unitdate>undated</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref22" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">11</container>
+               <unittitle>Music, Jehovah Is My Keeper,</unittitle>
+               <unitdate>undated</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref23" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">12</container>
+               <unittitle>Music, Musical Setting for Macbeth, Act IV, Scene I,</unittitle>
+               <unitdate>undated</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref24" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">13</container>
+               <unittitle>Music, Variations Written in Paris,</unittitle>
+               <unitdate>undated</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref25" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">14</container>
+               <unittitle>Music, We Limit Not the Truth of God,</unittitle>
+               <unitdate>undated</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref26" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">15</container>
+               <unittitle>Notes,</unittitle>
+               <unitdate>undated</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref27" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">16</container>
+               <unittitle>Photographs, portraits of Nanney [16 items; several are duplicates],</unittitle>
+               <unitdate>circa 1930s-1980s</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref28" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">17</container>
+               <unittitle>Photographs, portraits of Nanney in Army uniform [5 items; 2 are duplicates],</unittitle>
+               <unitdate>circa 1942-1945</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref29" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">18</container>
+               <unittitle>Photographs, Nanney posed at organ [18 items; several duplicates],</unittitle>
+               <unitdate>circa 1940s-1980s</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref30" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">18</container>
+               <unittitle>Proof sheets, photographs of Nanney posed at organ [3 items],</unittitle>
+               <unitdate>undated</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref31" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">18</container>
+               <unittitle>Photographs, (Memorial Church?) organ [3 items],</unittitle>
+               <unitdate>undated</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref32" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">18</container>
+               <unittitle>Proof sheet, photographs of organ,</unittitle>
+               <unitdate>undated</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref33" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">19</container>
+               <unittitle>Photograh, Nanney with parents and sister?,</unittitle>
+               <unitdate>circa 1920s</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref34" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">19</container>
+               <unittitle>Photograph, Nanney as child with band,</unittitle>
+               <unitdate>circa late 1920s-early 1930s</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref35" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">19</container>
+               <unittitle>Photograph, Nanney at piano with chorus,</unittitle>
+               <unitdate>circa 1940s-1950s</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref36" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">19</container>
+               <unittitle>Photograph, Nanney at organ console with five singers,</unittitle>
+               <unitdate>circa 1950s</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref37" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">19</container>
+               <unittitle>Photograph, Nanney at piano with man playing guitar,</unittitle>
+               <unitdate>circa 1950s-1960s</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref38" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">19</container>
+               <unittitle>Photograph, Nanney at organ console with two men,</unittitle>
+               <unitdate>circa 1960s-1970s</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref39" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">19</container>
+               <unittitle>Photographs, Nanney with two men in Memorial Church, establishment of Herbert Nanney Scholarship in Organ [4 items],</unittitle>
+               <unitdate>1987</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref40" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">19</container>
+               <unittitle>Photograph, Nanney and wife with one other couple outside Memorial Church,</unittitle>
+               <unitdate>circa 1980s</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref41" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">19</container>
+               <unittitle>Photographs, Nanney with former students who performed in Bach tribute [2 identical items],</unittitle>
+               <unitdate>1985</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref42" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">19</container>
+               <unittitle>Photograph, Alexander Schreiner posed at organ, signed to Nanney,</unittitle>
+               <unitdate>1937</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref43" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">19</container>
+               <unittitle>Group photograph of men and women in army uniforms,</unittitle>
+               <unitdate>circa 1940s</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref44" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">19</container>
+               <unittitle>Group photograph of San Francisco Bank Junior Choral Group,</unittitle>
+               <unitdate>1947</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref45" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">19</container>
+               <unittitle>Photograph, Sandor Salgo (professor of music at Stanford),</unittitle>
+               <unitdate>undated</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref46" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">19</container>
+               <unittitle>Photograph, unidentified man at organ with radio microphone,</unittitle>
+               <unitdate>undated</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref47" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">1</container>
+               <unittitle>Programs and clippings,</unittitle>
+               <unitdate>1935-1936</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref48" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">2</container>
+               <unittitle>Programs and clippings,</unittitle>
+               <unitdate>1937</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref49" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">3</container>
+               <unittitle>Programs and clippings,</unittitle>
+               <unitdate>1938</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref50" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">4</container>
+               <unittitle>Programs and clippings,</unittitle>
+               <unitdate>1939</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref51" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">5</container>
+               <unittitle>Programs and clippings,</unittitle>
+               <unitdate>1940</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref52" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">6</container>
+               <unittitle>Programs and clippings,</unittitle>
+               <unitdate>1941</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref53" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">7</container>
+               <unittitle>Programs and clippings,</unittitle>
+               <unitdate>1942-1943</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref54" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">8</container>
+               <unittitle>Programs and clippings,</unittitle>
+               <unitdate>1944-1945</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref55" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">9</container>
+               <unittitle>Programs and clippings,</unittitle>
+               <unitdate>1946</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref56" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">10</container>
+               <unittitle>Programs and clippings,</unittitle>
+               <unitdate>1947-1948</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref57" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">11</container>
+               <unittitle>Programs and clippings,</unittitle>
+               <unitdate>1949</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref58" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">12</container>
+               <unittitle>Programs and clippings,</unittitle>
+               <unitdate>1950</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref59" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">13</container>
+               <unittitle>Programs and clippings,</unittitle>
+               <unitdate>1952</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref60" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">14</container>
+               <unittitle>Programs and clippings,</unittitle>
+               <unitdate>1953</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref61" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">15</container>
+               <unittitle>Programs and clippings,</unittitle>
+               <unitdate>1954-1955</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref62" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">16</container>
+               <unittitle>Programs and clippings,</unittitle>
+               <unitdate>1956-1957</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref63" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">17</container>
+               <unittitle>Programs and clippings,</unittitle>
+               <unitdate>1958-1959</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref64" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">18</container>
+               <unittitle>Programs and clippings,</unittitle>
+               <unitdate>1960-1962</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref65" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">19</container>
+               <unittitle>Programs and clippings,</unittitle>
+               <unitdate>1963</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref66" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">20</container>
+               <unittitle>Programs and clippings,</unittitle>
+               <unitdate>1964</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref67" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">21</container>
+               <unittitle>Programs and clippings,</unittitle>
+               <unitdate>1965</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref68" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">22</container>
+               <unittitle>Programs and clippings,</unittitle>
+               <unitdate>1966</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref69" level="file">
+            <did>
+               <container type="Box">3</container>
+               <container type="Folder">1</container>
+               <unittitle>Programs and clippings,</unittitle>
+               <unitdate>1967</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref70" level="file">
+            <did>
+               <container type="Box">3</container>
+               <container type="Folder">2</container>
+               <unittitle>Programs and clippings,</unittitle>
+               <unitdate>1968</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref71" level="file">
+            <did>
+               <container type="Box">3</container>
+               <container type="Folder">3</container>
+               <unittitle>Programs and clippings,</unittitle>
+               <unitdate>1969</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref72" level="file">
+            <did>
+               <container type="Box">3</container>
+               <container type="Folder">4</container>
+               <unittitle>Programs and clippings,</unittitle>
+               <unitdate>1970</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref73" level="file">
+            <did>
+               <container type="Box">3</container>
+               <container type="Folder">5</container>
+               <unittitle>Programs and clippings,</unittitle>
+               <unitdate>1971</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref74" level="file">
+            <did>
+               <container type="Box">3</container>
+               <container type="Folder">6</container>
+               <unittitle>Programs and clippings,</unittitle>
+               <unitdate>1972</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref75" level="file">
+            <did>
+               <container type="Box">3</container>
+               <container type="Folder">7</container>
+               <unittitle>Programs and clippings,</unittitle>
+               <unitdate>1973</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref76" level="file">
+            <did>
+               <container type="Box">3</container>
+               <container type="Folder">8</container>
+               <unittitle>Programs and clippings,</unittitle>
+               <unitdate>1974</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref77" level="file">
+            <did>
+               <container type="Box">3</container>
+               <container type="Folder">9</container>
+               <unittitle>Programs and clippings,</unittitle>
+               <unitdate>1975</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref78" level="file">
+            <did>
+               <container type="Box">3</container>
+               <container type="Folder">10</container>
+               <unittitle>Programs and clippings,</unittitle>
+               <unitdate>1976</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref79" level="file">
+            <did>
+               <container type="Box">3</container>
+               <container type="Folder">11</container>
+               <unittitle>Programs and clippings,</unittitle>
+               <unitdate>1977</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref80" level="file">
+            <did>
+               <container type="Box">3</container>
+               <container type="Folder">12</container>
+               <unittitle>Programs and clippings,</unittitle>
+               <unitdate>1978</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref81" level="file">
+            <did>
+               <container type="Box">3</container>
+               <container type="Folder">13</container>
+               <unittitle>Programs and clippings,</unittitle>
+               <unitdate>1979</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref82" level="file">
+            <did>
+               <container type="Box">3</container>
+               <container type="Folder">14</container>
+               <unittitle>Programs and clippings,</unittitle>
+               <unitdate>1980</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref83" level="file">
+            <did>
+               <container type="Box">3</container>
+               <container type="Folder">15</container>
+               <unittitle>Programs and clippings,</unittitle>
+               <unitdate>1981</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref84" level="file">
+            <did>
+               <container type="Box">4</container>
+               <container type="Folder">1</container>
+               <unittitle>Programs and clippings,</unittitle>
+               <unitdate>1982</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref85" level="file">
+            <did>
+               <container type="Box">4</container>
+               <container type="Folder">2</container>
+               <unittitle>Programs and clippings,</unittitle>
+               <unitdate>1983-1988</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref86" level="file">
+            <did>
+               <container type="Box">4</container>
+               <container type="Folder">3</container>
+               <unittitle>Programs and clippings,</unittitle>
+               <unitdate>undated</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref87" level="file">
+            <did>
+               <container type="Box">4</container>
+               <container type="Folder">4</container>
+               <unittitle>Programs and clippings [from scrapbook],</unittitle>
+               <unitdate>1924-1930</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref88" level="file">
+            <did>
+               <container type="Box">4</container>
+               <container type="Folder">5</container>
+               <unittitle>Programs and clippings [from scrapbook],</unittitle>
+               <unitdate>1931-1932</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref89" level="file">
+            <did>
+               <container type="Box">4</container>
+               <container type="Folder">6</container>
+               <unittitle>Programs and clippings [from scrapbook],</unittitle>
+               <unitdate>1933-1934</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref90" level="file">
+            <did>
+               <container type="Box">4</container>
+               <container type="Folder">7</container>
+               <unittitle>Programs and clippings [from scrapbook],</unittitle>
+               <unitdate>1935</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref91" level="file">
+            <did>
+               <container type="Box">4</container>
+               <container type="Folder">8</container>
+               <unittitle>Programs and clippings [from scrapbook],</unittitle>
+               <unitdate>1936</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref92" level="file">
+            <did>
+               <container type="Box">4</container>
+               <container type="Folder">9</container>
+               <unittitle>Programs and clippings [from scrapbook],</unittitle>
+               <unitdate>1936</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref93" level="file">
+            <did>
+               <container type="Box">4</container>
+               <container type="Folder">10</container>
+               <unittitle>Programs and clippings [from scrapbook],</unittitle>
+               <unitdate>1937</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref94" level="file">
+            <did>
+               <container type="Box">4</container>
+               <container type="Folder">11</container>
+               <unittitle>Programs and clippings [from scrapbook],</unittitle>
+               <unitdate>1937</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref95" level="file">
+            <did>
+               <container type="Box">4</container>
+               <container type="Folder">12</container>
+               <unittitle>Programs and clippings [from scrapbook],</unittitle>
+               <unitdate>1938</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref96" level="file">
+            <did>
+               <container type="Box">4</container>
+               <container type="Folder">13</container>
+               <unittitle>Programs and clippings [from scrapbook],</unittitle>
+               <unitdate>1938</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref97" level="file">
+            <did>
+               <container type="Box">5</container>
+               <container type="Folder">1</container>
+               <unittitle>Programs and clippings [from scrapbook],</unittitle>
+               <unitdate>1939-1940</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref98" level="file">
+            <did>
+               <container type="Box">5</container>
+               <container type="Folder">2</container>
+               <unittitle>Programs and clippings [from scrapbook],</unittitle>
+               <unitdate>1947-1948</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref99" level="file">
+            <did>
+               <container type="Box">5</container>
+               <container type="Folder">3</container>
+               <unittitle>Programs and clippings [from scrapbook],</unittitle>
+               <unitdate>1947-1948</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref100" level="file">
+            <did>
+               <container type="Box">5</container>
+               <container type="Folder">4</container>
+               <unittitle>Programs and clippings [from scrapbook],</unittitle>
+               <unitdate>1949</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref101" level="file">
+            <did>
+               <container type="Box">5</container>
+               <container type="Folder">5</container>
+               <unittitle>Programs and clippings [from scrapbook],</unittitle>
+               <unitdate>1950-1953</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref102" level="file">
+            <did>
+               <container type="Box">5</container>
+               <container type="Folder">6</container>
+               <unittitle>Programs, postcards, and ephemera from France,</unittitle>
+               <unitdate>1944-1945</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref103" level="file">
+            <did>
+               <container type="Box">5</container>
+               <container type="Folder">7</container>
+               <unittitle>Programs, postcards, and ephemera from France,</unittitle>
+               <unitdate>1944-1945</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref104" level="file">
+            <did>
+               <container type="Box">5</container>
+               <container type="Folder">8</container>
+               <unittitle>Retirement,</unittitle>
+               <unitdate>1984-1985</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref105" level="file">
+            <did>
+               <container type="Box">5</container>
+               <container type="Folder">9</container>
+               <unittitle>Retirement, letters from and photographs of students [from scrapbook],</unittitle>
+               <unitdate>1985</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref106" level="file">
+            <did>
+               <container type="Box">5</container>
+               <container type="Folder">10</container>
+               <unittitle>Retirement, letters from colleagues and photographs from party [from scrapbook],</unittitle>
+               <unitdate>1985</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref107" level="file">
+            <did>
+               <container type="Box">5</container>
+               <container type="Folder">11</container>
+               <unittitle>Welch, James, interview of Nanney. Approximate running time: 1 hour, 23 minutes]</unittitle>
+               <unitdate>1991</unitdate>
+               <physdesc>
+                  <extent>1 optical disc(s) (CD-R)</extent>
+               </physdesc>
+               <dao linktype="simple"
+                    actuate="onrequest"
+                    title="Welch, James, interview of Nanney. Approximate running time: 1 hour, 23 minutes]"
+                    role="Audio-Service"
+                    href="http://purl.stanford.edu/jb663nx4240"
+                    show="new">
+                  <daodesc>
+                     <p>Welch, James, interview of Nanney. Approximate running time: 1 hour, 23 minutes], 1991 </p>
+                  </daodesc>
+               </dao>
+            </did>
+         </c01>
+         <c01 id="ref108" level="file">
+            <did>
+               <container type="Box">5</container>
+               <container type="Folder">12</container>
+               <unittitle>Welch, James, writings on Nanney,</unittitle>
+               <unitdate>1996, 2003, 2005</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref109" level="file">
+            <did>
+               <container type="Box">5</container>
+               <unittitle>Recording of baroque music concert, Memorial Hall [includes insert with complete program listed],</unittitle>
+               <unitdate>1956 Nov 18</unitdate>
+               <physdesc>
+                  <extent>1 optical disc(s) (CD-R)</extent>
+               </physdesc>
+            </did>
+         </c01>
+         <c01 id="ref110" level="file">
+            <did>
+               <unittitle>Oversize retirement card with watercolor sketch of Nanney at organ,</unittitle>
+               <unitdate>1985</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref111" level="file">
+            <did>
+               <unittitle>The Creation: A Sacred Cantata for Chorus, Soprano and Baritone Soloists, Full Orchestra, and Organ, oversize score,</unittitle>
+               <unitdate>undated</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref112" level="file">
+            <did>
+               <unittitle>Nanney's performance at the Far West Regional Convention of the American Guild of Organists,</unittitle>
+               <unitdate>1963</unitdate>
+               <physdesc>
+                  <extent>1 phonograph record(s)</extent>
+               </physdesc>
+            </did>
+         </c01>
+         <c01 id="ref113" level="file">
+            <did>
+               <container type="Folder">1</container>
+               <unittitle>Sonata in E Minor,</unittitle>
+               <unitdate>1939-1940</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref114" level="file">
+            <did>
+               <container type="Folder">1</container>
+               <unittitle>Adagio from Sonata in E Minor, Morningstar Music Publishers, 1993</unittitle>
+            </did>
+         </c01>
+         <c01 id="ref115" level="file">
+            <did>
+               <container type="Folder">2</container>
+               <unittitle>Sonata in E Minor, carbons,</unittitle>
+               <unitdate>1939-1940</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref116" level="file">
+            <did>
+               <container type="Folder">3</container>
+               <unittitle>Oversize photograph of Nanney,</unittitle>
+               <unitdate>circa late 1920s-early 1930s</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref117" level="file">
+            <did>
+               <container type="Folder">3</container>
+               <unittitle>Poster, Recital on the Handel Organ of Holy Trinity Gosport by Herbert Nanney,</unittitle>
+               <unitdate>1981</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref118" level="file">
+            <did>
+               <container type="Folder">3</container>
+               <unittitle>Retirement card with calligraphy on parchment,</unittitle>
+               <unitdate>1985</unitdate>
+            </did>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

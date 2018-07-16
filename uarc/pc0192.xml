@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              findaidstatus="edited-full-draft"
+              langencoding="iso639-2b"
+              repositoryencoding="iso15511">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/" identifier="ark:/13030/c8jm2gzs">pc0192.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="filing">Stanford University Photographs</titleproper>
+            <titleproper>Guide to the Stanford University Photographs <num>PC0192</num>
+            </titleproper>
+            <author>Jenny Johnson</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <p>
+               <date>February 2018</date>
+            </p>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford 94305-6064</addressline>
+               <addressline>specialcollections@stanford.edu</addressline>
+               <addressline>URL: <extptr href="http://library.stanford.edu/spc"
+                          show="new"
+                          title="http://library.stanford.edu/spc"
+                          linktype="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2018-02-09 10:49:01 -0800</date>.</creation>
+         <langusage>Finding aid written in <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc audience="internal" level="collection" id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>Department of Special Collections and University Archives</corpname>
+         </repository>
+         <unittitle>Stanford University Photographs</unittitle>
+         <unitid>PC0192</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">.25 Linear Feet</extent>
+         </physdesc>
+         <unitdate type="inclusive">1939</unitdate>
+         <physloc audience="internal" id="aspace_cb5bb3aea76f99cd1b06b6d8f7964905">Special Collections and University Archives materials are stored offsite and must be paged 48 hours in advance. For more information on paging collections, see the department's website: http://library.stanford.edu/spc.</physloc>
+      </did>
+      <accessrestrict audience="internal" id="aspace_0f84cba4224bf70068a992dbadb09fb8">
+         <head>Conditions Governing Access</head>
+         <p>The materials are open for research use; materials must be requested at least 48 hours in advance of intended use. Audio-visual materials are not available in original format, and must be reformatted to a digital use copy.</p>  
+      </accessrestrict>
+      <userestrict audience="internal" id="aspace_5956a6758b4b052ec24c8268d8a481dc">
+         <head>Conditions Governing Use</head>
+         <p>All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Special Collections and University Archives, Stanford University Libraries, Stanford, California 94304-6064. Consent is given on behalf of Special Collections as the owner of the physical items and is not intended to include or imply permission from the copyright owner. Such permission must be obtained from the copyright owner, heir(s) or assigns. Restrictions also apply to digital representations of the original materials. Use of digital files is restricted to research and educational purposes.</p>  
+      </userestrict>
+      <acqinfo audience="internal" id="aspace_7bb46fd1fe8f8f957083520ebb3171c4">
+         <head>Immediate Source of Acquisition</head>
+         <p>Gift, 2016.</p>  
+      </acqinfo>
+      <prefercite audience="internal" id="aspace_3c15798bccc47414f5deb577db421b37">
+         <head>Preferred Citation</head>
+         <p>[identification of item] Stanford University Photographs (PC0192). Dept. of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>  
+      </prefercite>
+      <scopecontent audience="internal" id="aspace_3ee4ae8f58414184add3b7dacf9b308d">
+         <head>Scope and Contents</head>
+         <p>Images of a football game, Palm Drive, Main Quad, and other campus buildings.</p>  
+      </scopecontent>
+      <controlaccess id="controlaccess-1.2.7">
+         <genreform source="aat">Photoprints.</genreform>
+         <genreform source="aat">Negatives.</genreform>
+         <subject source="ingest">Campus, Scenic Views</subject>
+         <subject source="lcsh">Football -- California.</subject>
+         <corpname source="naf">Stanford University</corpname>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.8">
+         <c01 audience="internal"
+              id="aspace_88753c1bc5efb038d66a4c91434826ab"
+              level="series">
+            <did>
+               <unittitle>Photographs</unittitle>
+               <unitid>Accession ARCH-2017-112</unitid>
+               <physdesc altrender="whole">
+                  <extent altrender="materialtype spaceoccupied">.25 Linear Feet</extent>
+                  <extent altrender="carrier">(1 box)</extent>
+               </physdesc>
+               <unitdate type="inclusive">1939</unitdate>
+               <container id="aspace_4432b8dbecb907c7441e488e88ea9008" type="Box">1</container>
+            </did>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

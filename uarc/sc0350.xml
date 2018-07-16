@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[Gerald L. Pearson papers])//EN"
+             identifier="ark:/13030/c8st7qdn">sc0350.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Gerald L. Pearson Papers
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Pearson (Gerald L.) Papers</titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2010-10">October 2010</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC0350</unitid>
+         <origination label="Creator:">
+            <persname rules="aacr" source="ingest">Pearson, Gerald L., 1905-1987.</persname>
+         </origination>
+         <unittitle label="Title:">Gerald L. Pearson papers</unittitle>
+         <unitdate normal="1934/1987"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1934-1987</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>6.5 Linear feet</extent>
+         </physdesc>
+         <abstract label="Summary:">Correspondence, 1961-1982, research notebooks on optical properties of solids and other subjects, technical reports prepared during his tenure at Bell Telephone Laboratories, reprints, photographs and slides, legal papers relating to patents, transcript of an oral history interview, memorabilia, and other miscellaneous items.</abstract>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <descgrp type="provenance" id="prov">
+            <head>Provenance</head>
+            <acqinfo id="ref3">
+               <p>Gift of Mildred Pearson, 1988 and 1992, and James Harris, 1989.</p>
+            </acqinfo>
+         </descgrp>
+         <accessrestrict id="ref4">
+            <head>Information about Access</head>
+            <p>This collection is open for research.</p>
+         </accessrestrict>
+         <userestrict id="ref5">
+            <head>Ownership &amp; Copyright</head>
+            <p>All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Special Collections and University Archives, Stanford University Libraries, Stanford, California 94304-6064. Consent is given on behalf of Special Collections as the owner of the physical items and is not intended to include or imply permission from the copyright owner. Such permission must be obtained from the copyright owner, heir(s) or assigns. See: http://library.stanford.edu/depts/spc/pubserv/permissions.html.</p>
+            <p>Restrictions also apply to digital representations of the original materials. Use of digital files is restricted to research and educational purposes.</p>
+         </userestrict>
+         <prefercite id="ref6">
+            <head>Cite As</head>
+            <p>Gerald L. Pearson Papers (SC0350). Department of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <bioghist id="ref7">
+         <head>Biographical/Historical Sketch</head>
+         <p>Professor of Electrical Engineering at Stanford University from 1960 to 1987 and Director of Stanford Solid State Electronics Laboratory. Research Physicist at Bell Telephone Laboratories from 1929 to 1960 in the field of solid-state electronics. Co-inventor of the solar cell, Pearson held a total of 34 U.S. patents relating to thermistors, transistors, silicon power diodes, and solar cells.</p>
+      </bioghist>
+      <scopecontent id="ref8">
+         <head>Description of the Collection</head>
+         <p>Correspondence, 1961-1982, research notebooks on optical properties of solids and other subjects, technical reports prepared during his tenure at Bell Telephone Laboratories, reprints, photographs and slides, legal papers relating to patents, transcript of an oral history interview, memorabilia, and other miscellaneous items.</p>
+         <p>The correspondence, dating from 1960 through 1981, consists of letters sent and received while Pearson was a professor of Electrial Engineering at Stanford university. Also included are technical reports for Bell Telephone Labs, reprints, articles and lectures concerning the solar cell, photographs and slides documenting the solar cell, a notebook containing abstracts of papers Pearson presented to the American Physical Society, affidavits and testimony relating to patent trials and four transistor artifacts.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <corpname rules="dacs" source="lcnaf">Bell Telephone Laboratories.</corpname>
+         <persname rules="aacr" source="ingest" role="Depositor (dpt)">Harris, James</persname>
+         <persname rules="aacr" source="ingest">Pearson, Gerald L., 1905-1987.</persname>
+         <corpname rules="dacs" source="ingest">Stanford University. Department of Electrical Engineering. Faculty.</corpname>
+         <corpname rules="dacs" source="ingest">Stanford University. Solid State Electronics Laboratory.</corpname>
+         <subject source="LCSH">Electrical engineering</subject>
+         <occupation source="lcsh">Physicists.</occupation>
+         <subject source="LCSH">Solar cells.</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.6">
+         <head>Collection Contents</head>
+         <c01 id="ref21" level="series">
+            <did>
+               <unittitle>Original Accession</unittitle>
+            </did>
+            <c02 id="ref22" level="subseries">
+               <did>
+                  <unittitle>Correspondence</unittitle>
+               </did>
+               <arrangement>
+                  <p>incoming &amp; outgoing arranged alphabetically</p>
+               </arrangement>
+               <c03 id="ref24" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">1</container>
+                     <unittitle/>
+                     <unitdate>9/60-6/61</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref25" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">2</container>
+                     <unittitle/>
+                     <unitdate>7/61-2/62</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref26" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">3</container>
+                     <unittitle/>
+                     <unitdate>4/62-4-63</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref27" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">4</container>
+                     <unittitle/>
+                     <unitdate>4/63-2/64</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref28" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">5</container>
+                     <unittitle/>
+                     <unitdate>3/64-12/64</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref29" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">6</container>
+                     <unittitle/>
+                     <unitdate>1/65-12/65</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref30" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">7</container>
+                     <unittitle/>
+                     <unitdate>10/65-11/66</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref31" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">8</container>
+                     <unittitle/>
+                     <unitdate>1/67-12/14/67</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref32" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">1</container>
+                     <unittitle/>
+                     <unitdate>1/68-12/68</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref33" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">2</container>
+                     <unittitle/>
+                     <unitdate>1969</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref34" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">3</container>
+                     <unittitle/>
+                     <unitdate>1970</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref35" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">4</container>
+                     <unittitle/>
+                     <unitdate>1971</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref36" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">5</container>
+                     <unittitle/>
+                     <unitdate>1972</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref37" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">6</container>
+                     <unittitle/>
+                     <unitdate>1973</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref38" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">7</container>
+                     <unittitle/>
+                     <unitdate>1974</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref39" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">1</container>
+                     <unittitle/>
+                     <unitdate>1975</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref40" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">2</container>
+                     <unittitle/>
+                     <unitdate>1976</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref41" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">3</container>
+                     <unittitle/>
+                     <unitdate>1977</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref42" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">4</container>
+                     <unittitle/>
+                     <unitdate>1978</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref43" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">5</container>
+                     <unittitle/>
+                     <unitdate>1979</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref44" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">6</container>
+                     <unittitle/>
+                     <unitdate>1980</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref45" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">7</container>
+                     <unittitle/>
+                     <unitdate>1981-1982</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref46" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">1</container>
+                  <unittitle>[James F.] Gibbons</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref47" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">2</container>
+                  <unittitle>[James F.] Gibbons</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref48" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Solid State Electronics in the USSR Report on a lecture tour in the Soviet Union, 9/17-10/16 1971</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref49" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Solar Cells: technical reports, newspaper clippings and photographs</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref50" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Research notebook</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref51" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Pearson technical reports (Bell Telephone Labs) and articles</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref52" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Pearson technical reports (Bell Telephone Labs)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref53" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Pearson reprints, articles and papers presented</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref54" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">9</container>
+                  <unittitle>reprints, technical reports (authors other than Pearson)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref55" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">10</container>
+                  <unittitle>technical reports (Bell Telephone Labs and authors other than Pearson)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref56" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">11</container>
+                  <unittitle>technical reports (Bell Telephone Labs and authors other than Pearson)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref57" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Pearson reprints and technical reports (Bell Telephone Labs, and authors other than Pearson)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref58" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">13</container>
+                  <unittitle>reprints and articles (authors other than Pearson)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref59" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">14</container>
+                  <unittitle>articles (authors other than Pearson)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref60" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">15</container>
+                  <unittitle>Pearson article and accompanying photographs</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref61" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">16</container>
+                  <unittitle>Pearson essay</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref62" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">17</container>
+                  <unittitle>Pearson article and accompanying photographs and negatives</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref63" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">18</container>
+                  <unittitle>Course Description and teaching materials for EE-257 , Experimental Solid State Electronics</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref64" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">19</container>
+                  <unittitle>Lists of Pearson's: Technical Publications, Publications and U. S. Patents by Pearson assigned to Bell Telephone Laboratories</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref65" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">20-23</container>
+                  <unittitle>Awards, memberships in national/ international societies</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref66" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">24</container>
+                  <unittitle>Ephemera: Naval certified citizen Employee Identification, Membership card for the Franklin Institute and rate of pay card</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref67" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">25</container>
+                  <unittitle>Photographs/negatives: Explorer VI, solar-powered satelite, circa August 7, 1959</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref68" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">26</container>
+                  <unittitle>Photographs/negatives: portraits of Gerald Pearson in laboratory</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref69" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">27</container>
+                  <unittitle>Photographs/negatives: laborato:ry equipment, graphs and charts</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref70" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">28</container>
+                  <unittitle>Photographs: solar batteries, crystals, silicon power rectifiers, graphs, charts and diagrams (press releases, articles and tec1mical reports accompany same photographs)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref71" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder"/>
+                  <unittitle>volume containing abstracts of papers Pearson presented to the American Physical Society, 1928-1978</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref72" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder"/>
+                  <unittitle>transcript of Gerald L. Pearson's testimony; Sper:ry-Rand Corporation vs. Bernard J. Rothlein, et aI, 2/18/64</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref73" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder"/>
+                  <unittitle>affidavits for Gerald L. Pearson in patent cases: -Jack st. Clair vs. Robert N. Noyce -Fairchild camera vs. Texas Instruments</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref74" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder"/>
+                  <unittitle>glass slides (approximately 100): charts and diagrams</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref75" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder"/>
+                  <unittitle>35 mm slides (approximately 450): charts and diagrams (student research ?)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref76" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder"/>
+                  <unittitle>artifacts: three [silicon power rectifiers]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref77" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Affidavit of Gerald L. Pearson, in the German Patent Office, re: Application of Fairchild camera and Instrument Corporation No. 1,197,548; Filed: April 26, 1960; Semiconductor Device With One or More PN Junctions and Methcxi to Prcxiuce Them</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref78" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">2</container>
+                  <unittitle>The Transistor and Related Experiments, by J. Bardeen, W.H. Brattain, W. Shockley, G.L. Pearson; Bell Telephone System, Technical Publication, Monograph B-1574</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref79" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Photographs, 5 black and white photographs</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref80" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">4</container>
+                  <unittitle>EE 257 Experiments I to VII (inactive)</unittitle>
+               </did>
+               <scopecontent>
+                  <p>I Conducti vi ty and Hall Effect of Gennanium; II Drift Mobility, Diffusion Length and Lifetime of Holes in Germanium; III Recording Spectometer and its Use in Measuring the Absorption Edge in Silicon Crystals; IV Dielectric Constant Experiment; V Specific Heat Experiment; VI Ferrmagnetic Resonance Experiment; VII Nuclear Magnetic Resonance</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref82" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Alfried Krupp von Bohlen and Halbach Energy Research Prize</unittitle>
+                  <unitdate>1981</unitdate>
+               </did>
+               <scopecontent>
+                  <p>List of Recipients, Addresses, Pearson's address</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref84" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Laboratory Notebook: Optical Properties of Solids</unittitle>
+                  <unitdate>circa 1954-1957</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref85" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Oral History/Biographical Sketch</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref86" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Study of the History of Solid State Physics Correspondence/Memos</unittitle>
+                  <unitdate>circa 1979</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref87" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Miscellany</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref9" level="series">
+            <did>
+               <unitid>Accesion ARCH-1992-135</unitid>
+               <unittitle>Additional Material</unittitle>
+            </did>
+            <c02 id="ref11" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Sperry Rand Corporation v . Bernard J. Rothlein, et. al - legal papers</unittitle>
+                  <unitdate>1964</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref12" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Photographs of Pearson, W. Shockley, and solar cells</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref13" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Solar cells: reprints, technical reports, clipping</unittitle>
+                  <unitdate>1954-55</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref14" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Transistor: Bell Labs press release and reports re: first demonstration</unittitle>
+                  <unitdate>1948</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref15" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Bell Laboratories RECORD (3 issues) and BUSINESS WEEK</unittitle>
+                  <unitdate>1960 Mar 26</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref16" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder"/>
+                  <unittitle>F.J. Biondi, ed., TRANSISTOR TECHNOLOGY, vol. 2</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref17" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder"/>
+                  <unittitle>Examples of solar cells</unittitle>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

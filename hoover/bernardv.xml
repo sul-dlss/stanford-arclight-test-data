@@ -1,0 +1,1721 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  
+  
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" repositoryencoding="iso15511" findaidstatus="edited-full-draft" langencoding="iso639-2b"><eadid countrycode="us" identifier="ark:/13030/tf996nb3hr" mainagencycode="CSt-H" publicid="PUBLIC &quot;-//Stanford University::Hoover Institution Archives//TEXT&#10;(US::CSt-H::::Vitaliano Bernardino Papers)//EN&quot; &quot;bernardv.sgm&quot;">bernardv.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Register of the Vitaliano Bernardino Papers</titleproper><titleproper type="filing">Bernardino (Vitaliano) Papers</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Hoover Institution Archives</publisher>
+        <address>
+          <addressline>Stanford University</addressline>
+          <addressline>Stanford, California 94305-6010</addressline>
+          <addressline>Phone: (650) 723-3563</addressline>
+          <addressline>Fax: (650) 725-3445</addressline>
+          <addressline>Email: hooverarchives@stanford.edu</addressline>
+        </address>
+        <date calendar="gregorian" era="ce">&#xA9; 1999</date>
+        <p>Hoover Institution Archives. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc><profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data Services,
+<date calendar="gregorian" era="ce">February 1999</date></creation>
+      <langusage>Description is in <language langcode="eng" scriptcode="latn">English</language></langusage>
+    </profiledesc><revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20110223">February 23, 2011</date>
+        <item>revised to update encoding and add unitid</item>
+      </change>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//Stanford University::Hoover Institution Archives//TEXT
+(US::CSt-H::::Vitaliano Bernardino Papers)//EN" "bernardv.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Register of the Vitaliano Bernardino Papers, <date calendar="gregorian" era="ce">1966-1979</date></titleproper>
+      <publisher>Hoover Institution Archives
+<lb/>Stanford University
+<lb/>Stanford, California</publisher>
+      <list type="simple">
+        <head>Contact Information</head>
+        <item>Hoover Institution Archives</item>
+        <item>Stanford University</item>
+        <item>Stanford, California 94305-6010</item>
+        <item>Phone: (650) 723-3563</item>
+        <item>Fax: (650) 725-3445</item>
+        <item>Email: hooverarchives@stanford.edu</item>
+      </list>
+      <list type="deflist">
+        <defitem>
+          <label>Prepared by: </label>
+          <item>Elena Schafer</item>
+        </defitem>
+        <defitem>
+          <label>Date Completed: </label>
+          <item>November 1978</item>
+        </defitem>
+      </list>
+      <p>&#xA9; 1999 Hoover Institution Archives. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection">
+    <did id="did-1.7.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">Vitaliano Bernardino Papers, </unittitle>
+	<unitdate calendar="gregorian" era="ce" normal="1966/1979">1966-1979</unitdate>
+	<unitid label="Collection number" repositorycode="CSt-H" countrycode="US">78026</unitid>
+      <origination label="Creator">
+        <persname rules="aacr2">Bernardino, Vitaliano</persname>
+      </origination>
+<physdesc label="Collection Size" encodinganalog="300$a">
+	<extent>12 manuscript boxes, 1 envelope </extent>
+	<extent>(5 linear feet)</extent>
+</physdesc>
+      <repository label="Repository">
+        <corpname>Hoover Institution Archives</corpname>
+        <address>
+          <addressline>Stanford, California 94305-6010</addressline>
+        </address>
+      </repository>
+      <abstract label="Abstract">Writings and printed matter, relating to education in Southeast Asia.</abstract>
+	<physloc label="Physical Location">Hoover Institution Archives</physloc>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <descgrp id="descgrp-1.7.2" type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict>
+        <head>Access</head>
+        <p>Collection open for research.</p>
+      </accessrestrict>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>For copyright status, please contact
+the Hoover Institution Archives.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Vitaliano Bernardino Papers, [Box no.], Hoover Institution
+Archives.</p>
+      </prefercite>
+    </descgrp>
+    <controlaccess id="controlaccess-1.7.3">
+      <head>Access Points</head>
+      <corpname>Southeast Asia Ministers of Education Organization.</corpname>
+      <subject>Education.</subject>
+      <subject>Education--Asia, Southeastern.</subject>
+      <geogname>Asia, Southeastern.</geogname>
+      <geogname>Philippines.</geogname>
+    </controlaccess>
+    <bioghist id="bioghist-1.7.4">
+      <head>Biographical Note</head>
+      <chronlist>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1908, January 26</date>
+          <event>Born, Morong, Rizal, Philippine Islands</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1933</date>
+          <event>B.S.E., National University</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1938</date>
+          <event>M.A., Education and Psychology, University of the Philippines</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1949</date>
+          <event>Administrative and Executive Officer, UNESCO Consultative Educational Mission to the Philippines</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1957</date>
+          <event>Ph.D., University of the Philippines</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">ca. 1960</date>
+          <event>Assistant Director of Public Schools</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">ca. 1966</date>
+          <event>Director of Public Schools</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">ca. 1967</date>
+          <event>Undersecretary of Education</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">ca. 1970</date>
+          <event>Executive Director, Philippine-American Educational Foundation</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1975</date>
+          <event>Director, Southeast Asian Ministers of Education Secretariat</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1979</date>
+          <event>President, Gregorio Araneta University Foundation</event>
+        </chronitem>
+      </chronlist>
+    </bioghist>
+<scopecontent id="a3" encodinganalog="520">
+<head>Scope and Content of Collection</head>
+<p>Writings and printed matter, relating to education in Southeast Asia.</p>
+</scopecontent>
+
+
+
+    <dsc id="dsc-1.7.6" type="in-depth">
+      <head>Container List</head>
+      <c01 id="c01-1.7.6.2" level="series">
+        <did>
+          <unittitle>BIOGRAPHICAL FILE, <unitdate calendar="gregorian" era="ce">1956-1971.</unitdate></unittitle>
+          <container type="Box"> 1</container>
+        </did>
+        <scopecontent>
+          <p>Biographical writings, arranged alphabetically by author, and bibliographies.</p>
+        </scopecontent>
+        <c02 id="c02-1.7.6.2.2">
+          <did>
+            <container type="Box">1</container>
+            <unittitle>Biographical writings</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.2.2.2">
+            <did>
+              <unittitle>Balatbat, Ramon G. and Pat H. Gonzales, <title render="doublequote">Local Book Publishing: A Basic Industry, </title><title render="italic">The Booklover's Bulletin, </title>vol. VII, no. 1, <unitdate calendar="gregorian" era="ce">January 1964,</unitdate>
+p. 4, 27-28, 33. Printed copy. Interview and biographical sketch.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.2.3">
+            <did>
+              <unittitle><title render="doublequote">The Energetic and Dynamic Leader, Vitaliano Bernardino, Division Superintendent of Schools for Pangasinan, </title><title render="italic">The Pangasinan Educator, </title>vol. XI, no. 5, <unitdate calendar="gregorian" era="ce">February - March, 1956,</unitdate>
+p. 6-8. </unittitle>
+              <physdesc altrender="in-line">Printed copy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.2.4">
+            <did>
+              <unittitle>Portugal, Virginia, <title render="doublequote">The Educational Views of Dr. Vitaliano Bernardino, </title>MA thesis, University of the Philippines, <unitdate calendar="gregorian" era="ce">1971. </unitdate></unittitle>
+              <physdesc altrender="in-line">Bound typescript. Bound carbon copy.</physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.2.3">
+          <did>
+            <unittitle>Bibliography of speeches, <unitdate calendar="gregorian" era="ce">1957-1968. </unitdate></unittitle>
+            <physdesc altrender="in-line">Typescript.</physdesc>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.6.3" level="series">
+        <did>
+          <unittitle>SPEECHES AND WRITINGS, <unitdate calendar="gregorian" era="ce">1939-1974.</unitdate></unittitle>
+          <container type="Box"> 1-4</container>
+        </did>
+        <scopecontent>
+          <p>Books, articles, and speeches, arranged alphabectically by title.</p>
+        </scopecontent>
+        <c02 id="c02-1.7.6.3.2">
+          <did>
+            <container type="Box">1</container>
+            <unittitle>Untitled, tribute to Jose Rizal (in Tagalog), <unitdate calendar="gregorian" era="ce">n.d. </unitdate></unittitle>
+            <physdesc altrender="in-line">Typescript.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.3">
+          <did>
+            <unittitle><title render="doublequote">The Asian Educationist and the Development Decade, </title>speech, UNESCO Regional Centre for the Training of Teacher Educators, Manila, <unitdate calendar="gregorian" era="ce">April 26, 1965. </unitdate></unittitle>
+            <physdesc altrender="in-line">Mimeographed copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.4">
+          <did>
+            <unittitle><title render="doublequote">Athletic Activities Deserve Public Support, </title>speech, Central Luzon Athletic Association Meet, <unitdate calendar="gregorian" era="ce">n.d. </unitdate></unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.5">
+          <did>
+            <unittitle>
+              <title render="doublequote">Au Revoir But Not Goodbye, </title>
+              <unitdate calendar="gregorian" era="ce">October 23, 1974. </unitdate>
+            </unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.6">
+          <did>
+            <unittitle>
+              <title render="doublequote">The Bane of Professional Stagnation, </title>
+              <unitdate calendar="gregorian" era="ce">ca. 1968-1969. </unitdate>
+            </unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.7">
+          <did>
+            <unittitle>
+              <title render="doublequote">The Basic Plan of the Philippine Educational System </title>
+              <unitdate calendar="gregorian" era="ce">ca. 1968-1969. </unitdate>
+            </unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.8">
+          <did>
+            <unittitle>
+              <title render="doublequote">The Birth of the Pasay City Chapter, Order of the Knights of Rizal, </title>
+              <unitdate calendar="gregorian" era="ce">ca. 1968-1969. </unitdate>
+            </unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.9">
+          <did>
+            <unittitle><title render="doublequote">A Bold and Decisive Approach to the Language Problem, </title>speech, Benitez Memorial Lecture, <unitdate calendar="gregorian" era="ce">January 10, 1969. </unitdate></unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.10">
+          <did>
+            <unittitle><title render="doublequote">Bold and Imaginative Measures in Education, </title>General Education Journal, vol. II, nr. 4, <unitdate calendar="gregorian" era="ce">1967-1968,</unitdate>
+p. 32-39, 58. </unittitle>
+            <physdesc altrender="in-line">Printed copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.11">
+          <did>
+            <unittitle><title render="doublequote">Boy Scouting and the Rotary, </title>speech, Rotary Club of Manila, <unitdate calendar="gregorian" era="ce">October 31, 1968. </unitdate></unittitle>
+            <physdesc altrender="in-line">Two carbon copies.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.12">
+          <did>
+            <unittitle><title render="doublequote">The Bureau of Public Schools in Community Beautification, </title>speech, <unitdate calendar="gregorian" era="ce">n.d. </unitdate></unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.13">
+          <did>
+            <unittitle><title render="doublequote">The Challenge of Economic Development of Education, </title>speech, Rizal National Oratorical Contest, University of the East, <unitdate calendar="gregorian" era="ce">March 26, 1965. </unitdate></unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.14">
+          <did>
+            <unittitle><title render="doublequote">The Challenge of Nationalism </title>speech, commencement, Dagupan Colleges <unitdate calendar="gregorian" era="ce">March 196, 1960. </unitdate></unittitle>
+            <physdesc altrender="in-line">Three carbon copies.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.15">
+          <did>
+            <unittitle><title render="doublequote">Characteristics of Philippine Education, </title>speech, <unitdate calendar="gregorian" era="ce">ca. 1968. </unitdate></unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.16">
+          <did>
+            <unittitle>
+              <title render="doublequote">The Church and Population Control, </title>
+              <unitdate calendar="gregorian" era="ce">ca. 1974. </unitdate>
+            </unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.17">
+          <did>
+            <unittitle><title render="doublequote">A College Graduate Looks to the Future, </title>commencement address, Central Mindanao Colleges, <unitdate calendar="gregorian" era="ce">April 18, 1969. </unitdate></unittitle>
+            <physdesc altrender="in-line">Two carbon copies.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.18">
+          <did>
+            <unittitle><title render="doublequote">Commencement Address, </title>speech, Fourth Commencement Exercises, Manila Science High School, <unitdate calendar="gregorian" era="ce">ca. 1967. </unitdate></unittitle>
+            <physdesc altrender="in-line">Typescript.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.19">
+          <did>
+            <unittitle><title render="doublequote">Commencement Speech, </title>School for the Deaf and Blind, <unitdate calendar="gregorian" era="ce">April 20, 1968. </unitdate></unittitle>
+            <physdesc altrender="in-line">Typescript and carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.20">
+          <did>
+            <container type="Box">2</container>
+            <unittitle><title render="doublequote">Comments on the SINCO REPORT, </title>submitted to the Board of National Education, Manila, <unitdate calendar="gregorian" era="ce">December 22, 1961. </unitdate></unittitle>
+            <physdesc altrender="in-line">Mimeographed copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.21">
+          <did>
+            <unittitle><title render="doublequote">Community Education: A Social Invention, </title>Speech, Seminar for Adult and Community Education Supervisors, Bayambang, Pangasinan, <unitdate calendar="gregorian" era="ce">February 9, 1960. </unitdate></unittitle>
+            <physdesc altrender="in-line">Mimeographed pamphlet.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.22">
+          <did>
+            <unittitle><title render="doublequote">Coordination of the PNRC Safety Program with those of Schools, Welfare and Civic Organizations, </title>speech, <unitdate calendar="gregorian" era="ce">ca. 1966. </unitdate></unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.23">
+          <did>
+            <unittitle>
+              <title render="doublequote">The Crises in Philippine Education, </title>
+              <unitdate calendar="gregorian" era="ce">ca. 1968-1969. </unitdate>
+            </unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.24">
+          <did>
+            <unittitle><title render="doublequote">Current Trends in Philippine Education </title>speech, <unitdate calendar="gregorian" era="ce">May 11, 1972. </unitdate></unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.25">
+          <did>
+            <unittitle>
+              <title render="doublequote">Developing Moral Values Through Education, </title>
+              <unitdate calendar="gregorian" era="ce">ca. 1974. </unitdate>
+            </unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.26">
+          <did>
+            <unittitle><title render="doublequote">Developments in Philippine Education, </title><title render="italic">UNESCO: Philippines, </title>vol. IV, nr. 10 &amp; 11, <unitdate calendar="gregorian" era="ce">October - November, 1965,</unitdate>
+p. 310-327. </unittitle>
+            <physdesc altrender="in-line">Printed copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.27">
+          <did>
+            <unittitle>
+              <title render="doublequote">The Dilemma of Philippine Education, </title>
+              <title render="italic">Manila Times, </title>
+              <unitdate calendar="gregorian" era="ce">August 13 - 17, 1963. </unitdate>
+            </unittitle>
+            <physdesc altrender="in-line">Newspaper clippings and mimeographed pamphlet.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.28">
+          <did>
+            <unittitle>
+              <title render="doublequote">A Dream Realized, </title>
+              <unitdate calendar="gregorian" era="ce">ca. 1972-1973. </unitdate>
+            </unittitle>
+            <physdesc altrender="in-line">Two carbon copies.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.29">
+          <did>
+            <unittitle><title render="doublequote">Dynamics of Management in School Administration, </title>outline, <unitdate calendar="gregorian" era="ce">n.d. </unitdate></unittitle>
+            <physdesc altrender="in-line">Two carbon copies.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.30">
+          <did>
+            <unittitle>Editorial re modernization of education, <unitdate calendar="gregorian" era="ce">ca. 1972-1973. </unitdate></unittitle>
+            <physdesc altrender="in-line">Two carbon copies.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.31">
+          <did>
+            <unittitle>Editorial re Boy Scouts, <unitdate calendar="gregorian" era="ce">ca. 1972-1973. </unitdate></unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.32">
+          <did>
+            <unittitle><title render="doublequote">Education and Philippine-American Relations, </title>speech, Kent State University, <unitdate calendar="gregorian" era="ce">ca. 1967. </unitdate></unittitle>
+            <physdesc altrender="in-line">Two carbon copies.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.33">
+          <did>
+            <unittitle><title render="doublequote">Education and the New Constitution, </title>speech, Benitez Memoria Lecture Series, University of the Philippines, <unitdate calendar="gregorian" era="ce">September 14, 1974. </unitdate></unittitle>
+            <physdesc altrender="in-line">Annotated typescript, carbon copy of revised version, and press release.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.34">
+          <did>
+            <unittitle>
+              <title render="doublequote">Education Trends: Work Education, </title>
+              <unitdate calendar="gregorian" era="ce">n.d. </unitdate>
+            </unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.35">
+          <did>
+            <unittitle><title render="doublequote">Educational Administration in a Scientific Age, </title>speech, College of Education, University of the Philippines, <unitdate calendar="gregorian" era="ce">September 30, 1967.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.36">
+          <did>
+            <unittitle><title render="doublequote">The Educational Factors of Economic Development, </title>speech, <unitdate calendar="gregorian" era="ce">n.d. </unitdate></unittitle>
+            <physdesc altrender="in-line">Typescript and carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.37">
+          <did>
+            <unittitle>
+              <title render="doublequote">Educational Ideas of Dean Francisco Benitez, </title>
+              <unitdate calendar="gregorian" era="ce">ca. 1972-1973. </unitdate>
+            </unittitle>
+            <physdesc altrender="in-line">Three carbon copies.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.38">
+          <did>
+            <unittitle><title render="doublequote">Educational Planning for National Development, </title>speech, PPSTA Seminar on Educational Planning, Quezon City, <unitdate calendar="gregorian" era="ce">January 17, 1967. </unitdate></unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.39">
+          <did>
+            <unittitle><title render="doublequote">Educational Reforms Under the New Society, </title>four part series of articles, <unitdate calendar="gregorian" era="ce">May 1973. </unitdate></unittitle>
+            <physdesc altrender="in-line">Carbon copies.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.40">
+          <did>
+            <unittitle>
+              <title render="doublequote">An Estimate of My Co-Worker and Friend, Estanislao Lopez, </title>
+              <unitdate calendar="gregorian" era="ce">March 11, 1960. </unitdate>
+            </unittitle>
+            <physdesc altrender="in-line">Carbon copy and cover letter.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.41">
+          <did>
+            <unittitle><title render="doublequote">Excellence in Education (A Keynote Speech), </title>University of the Philippines, <unitdate calendar="gregorian" era="ce">1966. </unitdate></unittitle>
+            <physdesc altrender="in-line">Typescript.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.42">
+          <did>
+            <unittitle><title render="doublequote">Expanding the Dimensions of Education Through the Fulbrighters, </title>speech, <unitdate calendar="gregorian" era="ce">1966. </unitdate></unittitle>
+            <physdesc altrender="in-line">Two carbon copies.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.43">
+          <did>
+            <unittitle><title render="doublequote">The Filipino Women and Adult Education, </title>speech, Annual Convention of the National Federation of Women's Club, <unitdate calendar="gregorian" era="ce">May 5, 1966. </unitdate></unittitle>
+            <physdesc altrender="in-line">Typescript.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.44">
+          <did>
+            <unittitle><title render="doublequote">Financing the Public Schools </title>(with Manuel Lopez), <title render="italic">Education in the Philippines, </title>Chapter IX, edited by Antonio Isidro et al., Manila, University of the Philippines, <unitdate calendar="gregorian" era="ce">1939. </unitdate></unittitle>
+            <physdesc altrender="in-line">Reprint of Chapter IX.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.45">
+          <did>
+            <unittitle>
+              <title render="doublequote">The Future Filipino: A Polyglot, </title>
+              <unitdate calendar="gregorian" era="ce">ca. 1972-1973. </unitdate>
+            </unittitle>
+            <physdesc altrender="in-line">Two carbon copies.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.46">
+          <did>
+            <unittitle>
+              <title render="doublequote">The Future of Philippine Education, </title>
+              <unitdate calendar="gregorian" era="ce">ca. 1972-1973. </unitdate>
+            </unittitle>
+            <physdesc altrender="in-line">Two carbon copies.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.47">
+          <did>
+            <unittitle><title render="doublequote">The Garden Movement and Community Beautification, </title>speech, <unitdate calendar="gregorian" era="ce">1968. </unitdate></unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.48">
+          <did>
+            <unittitle>
+              <title render="doublequote">Goals of the Director and his Staff 1965-1966, </title>
+              <unitdate calendar="gregorian" era="ce">October 1965. </unitdate>
+            </unittitle>
+            <physdesc altrender="in-line">Mimeographed pamphlet.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.49">
+          <did>
+            <unittitle><title render="italic">A Handbook on Teaching Nationalism in the Elementary Grades </title>(with Canuto P. Casim), Niesca Enterprises, Inc., <unitdate calendar="gregorian" era="ce">1962.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.50">
+          <did>
+            <unittitle><title render="doublequote">In-Service Training of Primary School Teachers in the Philippines, </title>speech and bibliography, Symposium on the In-Service Training of Primary School Teachers in Asia, Manila, <unitdate calendar="gregorian" era="ce">July 5 - 19, 1965. </unitdate></unittitle>
+            <physdesc altrender="in-line">Two carbon copies.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.51">
+          <did>
+            <unittitle><title render="doublequote">Integrating Scientific and Technological Manpower Development into the National Economic Development Program in the Philippines, </title>speech, National Science Development Board, <unitdate calendar="gregorian" era="ce">December 11, 1965. </unitdate></unittitle>
+            <physdesc altrender="in-line">Two carbon copies.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.52">
+          <did>
+            <unittitle><title render="doublequote">Issues in Education for Development, </title>speech, Conference on Reforms and Innovations in Education for Development, Philippine Women's University, <unitdate calendar="gregorian" era="ce">September 11, 1973. </unitdate></unittitle>
+            <physdesc altrender="in-line">Mimeographed and carbon copies.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.53">
+          <did>
+            <unittitle>
+              <title render="doublequote">Language Development in the New Society, </title>
+              <unitdate calendar="gregorian" era="ce">ca. 1974. </unitdate>
+            </unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.54">
+          <did>
+            <unittitle>
+              <title render="doublequote">Language in Philippine Education: Past, Present and Future, </title>
+              <unitdate calendar="gregorian" era="ce">ca. 1972-1973. </unitdate>
+            </unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.55">
+          <did>
+            <unittitle><title render="doublequote">Leadership and the Leader, </title>speech outline, <unitdate calendar="gregorian" era="ce">ca. 1968. </unitdate></unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.56">
+          <did>
+            <unittitle><title render="doublequote">Let Us Have Faith in Ourselves, </title>speech, Seminar for Adult and Community Education Supervisors, PUNCTC Bayambang, Pangasinan, <unitdate calendar="gregorian" era="ce">February 9, 1960. </unitdate></unittitle>
+            <physdesc altrender="in-line">Mimeographed pamphlet.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.57">
+          <did>
+            <unittitle><title render="doublequote">Meeting Outside Pressures on Education, </title><title render="italic">Participant Journal, </title>vol. 1, nr. 4, <unitdate calendar="gregorian" era="ce">December 1970,</unitdate>
+p. 34-45. </unittitle>
+            <physdesc altrender="in-line">Printed and carbon copies, cover letter.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.58">
+          <did>
+            <unittitle>Message re agricultural and industrial fair, Province of Bataan, <unitdate calendar="gregorian" era="ce">February 17, 1960. </unitdate></unittitle>
+            <physdesc altrender="in-line">Carbon copy and letter of request.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.59">
+          <did>
+            <unittitle>Message re Bulacan Home Economics Association, <unitdate calendar="gregorian" era="ce">July 8, 1969. </unitdate></unittitle>
+            <physdesc altrender="in-line">Two carbon copies.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.60">
+          <did>
+            <unittitle>Message re Community College (TCMC), <unitdate calendar="gregorian" era="ce">n.d. </unitdate></unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.61">
+          <did>
+            <unittitle>Message re First National Youth Hiking Competition, <unitdate calendar="gregorian" era="ce">April 24, 1968. </unitdate></unittitle>
+            <physdesc altrender="in-line">Two carbon copies and memorandum.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.62">
+          <did>
+            <unittitle>Message re Knights of Rizal Nationwide Educational and Fund Campaign, <unitdate calendar="gregorian" era="ce">ca. 1968. </unitdate></unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.63">
+          <did>
+            <unittitle>Message re Monument to Rizal, <unitdate calendar="gregorian" era="ce">December 9, 1968. </unitdate></unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.64">
+          <did>
+            <unittitle>Message re Seminar on Rizal, <unitdate calendar="gregorian" era="ce">ca. 1968. </unitdate></unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.65">
+          <did>
+            <unittitle>Message re Thirteenth National Conference of the Catholic Education Association of the Philippines, <unitdate calendar="gregorian" era="ce">n.d. </unitdate></unittitle>
+            <physdesc altrender="in-line">Carbon copy</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.66">
+          <did>
+            <unittitle>Message re Villamor High School celebration, <unitdate calendar="gregorian" era="ce">January 25, 1960. </unitdate></unittitle>
+            <physdesc altrender="in-line">Carbon copy and letter of request.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.67">
+          <did>
+            <unittitle>
+              <title render="doublequote">The National College Entrance Examination: A Landmark in Philippine Education, </title>
+              <unitdate calendar="gregorian" era="ce">May 1974. </unitdate>
+            </unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.68">
+          <did>
+            <unittitle>
+              <title render="doublequote">Nationalism, the Call of the Hour, </title>
+              <unitdate calendar="gregorian" era="ce">May 16, 1965. </unitdate>
+            </unittitle>
+            <physdesc altrender="in-line">Three carbon copies.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.69">
+          <did>
+            <unittitle><title render="doublequote">The Need for Rizal Today, </title>speech, <unitdate calendar="gregorian" era="ce">1965. </unitdate></unittitle>
+            <physdesc altrender="in-line">Typescript and two carbon copies.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.70">
+          <did>
+            <unittitle><title render="doublequote">Needed Directions in Secondary Education, </title>speech, Conference of FAO Fellows Association, Cebu City, <unitdate calendar="gregorian" era="ce">May 22, 1969. </unitdate></unittitle>
+            <physdesc altrender="in-line">Two carbon copies.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.71">
+          <did>
+            <unittitle>
+              <title render="doublequote">The New Administrative Structure of Philippine Education, </title>
+              <unitdate calendar="gregorian" era="ce">December 1972. </unitdate>
+            </unittitle>
+            <physdesc altrender="in-line">Two carbon copies.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.72">
+          <did>
+            <unittitle><title render="doublequote">New Concepts in School Education, </title>speech outline, Saint Louis University, Baguio City, <unitdate calendar="gregorian" era="ce">May 12, 1975. </unitdate></unittitle>
+            <physdesc altrender="in-line">Typescript and cover letter.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.73">
+          <did>
+            <unittitle><title render="doublequote">Non-Governmental Organizations and Adult Education in the Philippines, </title>speech, <unitdate calendar="gregorian" era="ce">n.d. </unitdate></unittitle>
+            <physdesc altrender="in-line">Mimeographed copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.74">
+          <did>
+            <unittitle><title render="doublequote">On Educational Leadership, </title>speech, conference, Oroquieta, Misamis Occidental, <unitdate calendar="gregorian" era="ce">April 19, 1965. </unitdate></unittitle>
+            <physdesc altrender="in-line">Mimeographed copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.75">
+          <did>
+            <unittitle><title render="doublequote">Our Educational-Economic Paradox and the Filipino Youth, </title>speech, Union High School, Manila, <unitdate calendar="gregorian" era="ce">May 11, 1966. </unitdate></unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.76">
+          <did>
+            <unittitle>
+              <title render="doublequote">Our Unstable School Language Situation, </title>
+              <unitdate calendar="gregorian" era="ce">ca. 1972-1973. </unitdate>
+            </unittitle>
+            <physdesc altrender="in-line">Two carbon copies.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.77">
+          <did>
+            <unittitle>Outgoing President's Report, 1964-1966, 
+ College of Education Alumni Association, University of the Philippines, <unitdate calendar="gregorian" era="ce">1966. </unitdate></unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.78">
+          <did>
+            <unittitle><title render="doublequote">Outline of Keynote Speech, </title>National Red Cross Convention, <unitdate calendar="gregorian" era="ce">ca. 1968-1969. </unitdate></unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.79">
+          <did>
+            <unittitle><title render="italic">The Philippine Community School, </title>doctoral dissertation, University of the Philippines, Quezon City, <unitdate calendar="gregorian" era="ce">April 1957. </unitdate></unittitle>
+            <physdesc altrender="in-line">Bound carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.80">
+          <did>
+            <unittitle>
+              <title render="doublequote">The Philippine Fulbright Program, </title>
+              <unitdate calendar="gregorian" era="ce">ca. 1972-1973. </unitdate>
+            </unittitle>
+            <physdesc altrender="in-line">Two carbon copies.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.81">
+          <did>
+            <unittitle><title render="doublequote">The Philippine Language Problem Today, </title>speech, First National Convention of the Linguistic Society of the Philippines, <unitdate calendar="gregorian" era="ce">April 24-25, 1970. </unitdate></unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.82">
+          <did>
+            <unittitle><title render="italic">Philippine Social Life </title>(with Sarafin E. Macaraig and Socorro C. Espiritu), Macaraig Publishing Company, Manila, <unitdate calendar="gregorian" era="ce">1956. </unitdate></unittitle>
+            <physdesc altrender="in-line">Printed copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.83">
+          <did>
+            <container type="Box">4</container>
+            <unittitle><title render="doublequote">The Philippine-American Educational Exchange Program, </title>speech, Rotary Club, Mandaluyong, <unitdate calendar="gregorian" era="ce">April 5, 1974. </unitdate></unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.84">
+          <did>
+            <unittitle>
+              <title render="doublequote">The Philippines: An Economic and Educational Paradox, </title>
+              <unitdate calendar="gregorian" era="ce">ca. 1965. </unitdate>
+            </unittitle>
+            <physdesc altrender="in-line">Mimeographed copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.85">
+          <did>
+            <unittitle><title render="doublequote">Points Stressed During the Conference with Supervisors, Principals, Head Teachers at Boac North Central School, </title>speech summary, <unitdate calendar="gregorian" era="ce">August 30, 1965. </unitdate></unittitle>
+            <physdesc altrender="in-line">Mimeographed copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.86">
+          <did>
+            <unittitle>
+              <title render="doublequote">Politics and Education in South Asia, </title>
+              <unitdate calendar="gregorian" era="ce">ca. 1972-1973. </unitdate>
+            </unittitle>
+            <physdesc altrender="in-line">Two carbon copies.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.87">
+          <did>
+            <unittitle>
+              <title render="doublequote">President Marcos, Mrs. Marcos, Fellow Scouters, and Friends of Scouting, </title>
+              <unitdate calendar="gregorian" era="ce">ca. 1972-1973. </unitdate>
+            </unittitle>
+            <physdesc altrender="in-line">Annotated typescript.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.88">
+          <did>
+            <unittitle>Press release re language of instruction in public schools, <unitdate calendar="gregorian" era="ce">n.d. </unitdate></unittitle>
+            <physdesc altrender="in-line">Three mimeographed copies.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.89">
+          <did>
+            <unittitle><title render="doublequote">The Problem of Our Youth Today, </title>speech, NYWCC, <unitdate calendar="gregorian" era="ce">August 8, 1966. </unitdate></unittitle>
+            <physdesc altrender="in-line">Typescript.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.90">
+          <did>
+            <unittitle>
+              <title render="doublequote">The Problem of Public School Financing, </title>
+              <title render="italic">The Manila Times, </title>
+              <unitdate calendar="gregorian" era="ce">March 1972. </unitdate>
+            </unittitle>
+            <physdesc altrender="in-line">Three carbon copies and cover letter.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.91">
+          <did>
+            <unittitle><title render="doublequote">Problems of Physical Education, </title>speech outline, University of the East, Manila, <unitdate calendar="gregorian" era="ce">April 22, 1967. </unitdate></unittitle>
+            <physdesc altrender="in-line">Carbon copy and cover letter.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.92">
+          <did>
+            <unittitle><title render="doublequote">Pupil Dropouts: A Problem and a Challenge, </title>speech, <unitdate calendar="gregorian" era="ce">n.d. </unitdate></unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.93">
+          <did>
+            <unittitle><title render="doublequote">Qualifications of Teachers in Family Life Education, </title>speech Asian Social Institute, Manila, <unitdate calendar="gregorian" era="ce">May 29, 1968. </unitdate></unittitle>
+            <physdesc altrender="in-line">Carbon copy and cover letter.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.94">
+          <did>
+            <unittitle><title render="doublequote">Quality Performance from Quality Teachers, </title>speech, <unitdate calendar="gregorian" era="ce">1965. </unitdate></unittitle>
+            <physdesc altrender="in-line">Typescript.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.95">
+          <did>
+            <unittitle><title render="doublequote">Remarks of the Supreme Commander, </title>speech, Order of the Knights of Rizal, annual meeting, <unitdate calendar="gregorian" era="ce">February 11, 1968. </unitdate></unittitle>
+            <physdesc altrender="in-line">Two mimeographed copies.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.96">
+          <did>
+            <unittitle><title render="doublequote">Responsibility of high School Graduates, </title>speech, <unitdate calendar="gregorian" era="ce">ca. 1968-1969. </unitdate></unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.97">
+          <did>
+            <unittitle>
+              <title render="doublequote">Resuscitate the Philippine Community School, </title>
+              <unitdate calendar="gregorian" era="ce">ca. 1972-1973. </unitdate>
+            </unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.98">
+          <did>
+            <unittitle><title render="doublequote">Revised Educational System and Local Leadership, </title>speech, 47th Annual Convention of School Superintendents, Baguio, <unitdate calendar="gregorian" era="ce">May 11, 1957. </unitdate></unittitle>
+            <physdesc altrender="in-line">Mimeographed copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.99">
+          <did>
+            <unittitle><title render="doublequote">Rizal and Democratic Values, </title>speech, <unitdate calendar="gregorian" era="ce">ca. 1965. </unitdate></unittitle>
+            <physdesc altrender="in-line">Carbon and mimeographed copies.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.100">
+          <did>
+            <unittitle><title render="doublequote">Rizal and Education, </title>speech, Pasay City Chapter, Knights of Rizal, <unitdate calendar="gregorian" era="ce">July 24, 1960. </unitdate></unittitle>
+            <physdesc altrender="in-line">Typescript and carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.101">
+          <did>
+            <unittitle><title render="doublequote">Rizal's Relevance Today, </title>speech, <unitdate calendar="gregorian" era="ce">ca. 1965. </unitdate></unittitle>
+            <physdesc altrender="in-line">Two carbon copies.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.102">
+          <did>
+            <unittitle><title render="doublequote">The Role of Athletics in a Democracy, </title>speech, Southern Tagalog Athletic Association Meet, Pasig, Rizal, <unitdate calendar="gregorian" era="ce">February 6, 1966. </unitdate></unittitle>
+            <physdesc altrender="in-line">Mimeographed copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.103">
+          <did>
+            <unittitle><title render="doublequote">The Role of Civic Organizations in Community Recreations, </title>speech, Symposium on Community Involvement in Recreation, YMCA, Manila, <unitdate calendar="gregorian" era="ce">April 15, 1972. </unitdate></unittitle>
+            <physdesc altrender="in-line">Typescript and carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.104">
+          <did>
+            <unittitle><title render="doublequote">The Role of Education in Rural Development, </title>speech and bibliography, Seminar on Educational Planning for Rural Development in Southeast Asia, Bangkok, <unitdate calendar="gregorian" era="ce">September 7, 1967. </unitdate></unittitle>
+            <physdesc altrender="in-line">Mimeographed and carbon copies.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.105">
+          <did>
+            <unittitle><title render="doublequote">The Role of Public Schools in the Community-School Environmental Sanitation Program, </title>speech, Convention of the League of Public Health Engineers, Manila, <unitdate calendar="gregorian" era="ce">May 3, 1966. </unitdate></unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.106">
+          <did>
+            <unittitle><title render="doublequote">The Rotary Foundation, </title>speech, <unitdate calendar="gregorian" era="ce">ca. 1966. </unitdate></unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.107">
+          <did>
+            <unittitle>
+              <title render="doublequote">The Rotary Foundation Program and We, </title>
+              <unitdate calendar="gregorian" era="ce">ca. 1965. </unitdate>
+            </unittitle>
+            <physdesc altrender="in-line">Two carbon copies.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.108">
+          <did>
+            <unittitle>
+              <title render="doublequote">School Calendar Change Necessary, </title>
+              <title render="italic">The Manila Times, </title>
+              <unitdate calendar="gregorian" era="ce">March 22, 1963. </unitdate>
+            </unittitle>
+            <physdesc altrender="in-line">Newspaper clipping.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.109">
+          <did>
+            <unittitle><title render="doublequote">The School Superintendent and Moral Regeneration, </title>speech, School Superintendents' Convention, <unitdate calendar="gregorian" era="ce">May 12, 1964. </unitdate></unittitle>
+            <physdesc altrender="in-line">Mimeographed copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.110">
+          <did>
+            <unittitle><title render="doublequote">A Searching Look into the Problems of Education, </title>speech, <unitdate calendar="gregorian" era="ce">March 1966. </unitdate></unittitle>
+            <physdesc altrender="in-line">Annotated typescript and cover letter.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.111">
+          <did>
+            <unittitle><title render="doublequote">The Secondary Graduate Looks to the Future, </title>speech, commencement Jose Abad Santos High School, <unitdate calendar="gregorian" era="ce">May 21, 1965,</unitdate>
+Morong High School, <unitdate calendar="gregorian" era="ce">April 17, 1968. </unitdate></unittitle>
+            <physdesc altrender="in-line">Two typescripts and two carbon copies.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.112">
+          <did>
+            <unittitle><title render="doublequote">Significance of the Conference, </title><title render="italic">Directions for Philippine Education in the Seventies: Proceedings and Papers, </title>National Conference on Education, Makati, Rizal, <unitdate calendar="gregorian" era="ce">June 6 - 7, 1970,</unitdate>
+p. 3 - 4. </unittitle>
+            <physdesc altrender="in-line">Printed copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.113">
+          <did>
+            <unittitle><title render="doublequote">Some Imperatives of Public School Administration in the Philippines, </title>speech, Golden Jubilee of the Superintendents Convention, Baguio City, <unitdate calendar="gregorian" era="ce">May 14, 1959. </unitdate></unittitle>
+            <physdesc altrender="in-line">Mimeographed copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.114">
+          <did>
+            <unittitle><title render="doublequote">Speech at the 57th Annual Convention of School Superintendents, </title>Baguio City, <unitdate calendar="gregorian" era="ce">May 23, 1966. </unitdate></unittitle>
+            <physdesc altrender="in-line">Partial mimeographed copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.115">
+          <did>
+            <unittitle>
+              <title render="doublequote">The Status of Philippine Education, </title>
+              <unitdate calendar="gregorian" era="ce">ca. 1967. </unitdate>
+            </unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.116">
+          <did>
+            <unittitle><title render="doublequote">Strategies for the Filipino School Superintendent, </title>speech, Superintendents' Convention, Baguio City, <unitdate calendar="gregorian" era="ce">May 10, 1965. </unitdate></unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.117">
+          <did>
+            <unittitle><title render="doublequote">Strategies of Effective School Management, </title>speech outline, Seminar, Philippine Center for Professional Management, <unitdate calendar="gregorian" era="ce">November 1968. </unitdate></unittitle>
+            <physdesc altrender="in-line">Typescript, carbon copy, and letter of invitation.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.118">
+          <did>
+            <unittitle><title render="italic">Striving for Quality, </title>Manila, Bureau of Public Schools, <unitdate calendar="gregorian" era="ce">1962. </unitdate></unittitle>
+            <physdesc altrender="in-line">Mimeographed copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.119">
+          <did>
+            <unittitle>
+              <title render="doublequote">Teacher Education and the Challenge of the Future, </title>
+              <unitdate calendar="gregorian" era="ce">February 1974. </unitdate>
+            </unittitle>
+            <physdesc altrender="in-line">Two carbon copies.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.120">
+          <did>
+            <unittitle><title render="doublequote">Things I can Do for Education and the Teachers If and When Elected, </title>speech. <unitdate calendar="gregorian" era="ce">1966. </unitdate></unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.121">
+          <did>
+            <unittitle><title render="doublequote">Today's Challegnes to Public School Administrators, </title>speech, Convention of School Superintendents, Baguio City, <unitdate calendar="gregorian" era="ce">April 19, 1958. </unitdate></unittitle>
+            <physdesc altrender="in-line">Mimeographed copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.122">
+          <did>
+            <unittitle>
+              <title render="doublequote">Twenty-Five Years of Education Under the Republic, </title>
+              <unitdate calendar="gregorian" era="ce">July 1972. </unitdate>
+            </unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.123">
+          <did>
+            <unittitle>
+              <title render="doublequote">Universal Literacy and the New Society, </title>
+              <unitdate calendar="gregorian" era="ce">January 1974. </unitdate>
+            </unittitle>
+            <physdesc altrender="in-line">Two carbon copies.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.124">
+          <did>
+            <unittitle>
+              <title render="doublequote">The USEF/P: Agency for Philippine Progress, </title>
+              <unitdate calendar="gregorian" era="ce">1968. </unitdate>
+            </unittitle>
+            <physdesc altrender="in-line">Two carbon copies.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.125">
+          <did>
+            <unittitle><title render="doublequote">Vitalizing the School Program for Character Education, </title>speech, Seminar on Character Education, Manila, <unitdate calendar="gregorian" era="ce">February 5, 1968. </unitdate></unittitle>
+            <physdesc altrender="in-line">Two carbon copies.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.126">
+          <did>
+            <unittitle>Welcome address, Confederation of Government Employees Organizations, <unitdate calendar="gregorian" era="ce">June 23, 1966. </unitdate></unittitle>
+            <physdesc altrender="in-line">Two carbon copies.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.127">
+          <did>
+            <unittitle>Welcome address, Phi Delta Kappa, <unitdate calendar="gregorian" era="ce">March 18, 1968. </unitdate></unittitle>
+            <physdesc altrender="in-line">Three typescript and three carbon copies.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.128">
+          <did>
+            <unittitle><title render="doublequote">What is the Matter with Philippine Education? </title>speech, Ateneo de Naga, <unitdate calendar="gregorian" era="ce">January 7, 1967. </unitdate></unittitle>
+            <physdesc altrender="in-line">Mimeographed and carbon copies.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.129">
+          <did>
+            <unittitle>
+              <title render="doublequote">What is Wrong with Philippine Education, </title>
+              <unitdate calendar="gregorian" era="ce">ca. 1966. </unitdate>
+            </unittitle>
+            <physdesc altrender="in-line">Annotated typescript.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.130">
+          <did>
+            <unittitle>
+              <title render="doublequote">Women in Education in Asia, </title>
+              <unitdate calendar="gregorian" era="ce">ca. 1967. </unitdate>
+            </unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.131">
+          <did>
+            <unittitle><title render="doublequote">Youth and a Better World, </title>speech, ROTC, Fort Magsaysay, Nueva Ecija, <unitdate calendar="gregorian" era="ce">June 9, 1968. </unitdate></unittitle>
+            <physdesc altrender="in-line">Carbon copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.132">
+          <did>
+            <unittitle><title render="doublequote">The Youth and Our Ambivalent Society, </title>speech, <unitdate calendar="gregorian" era="ce">April 7, 1969. </unitdate></unittitle>
+            <physdesc altrender="in-line">Typescript.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.133">
+          <did>
+            <unittitle>Miscellany.</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.6.4" level="series">
+        <did>
+          <unittitle>SUBJECT FILE, <unitdate calendar="gregorian" era="ce">1951-1977.</unitdate></unittitle>
+          <container type="Box"> 5-9</container>
+        </did>
+        <scopecontent>
+          <p>Printed matter, arranged alphabetically by subject.</p>
+        </scopecontent>
+        <c02 id="c02-1.7.6.4.2">
+          <did>
+            <container type="Box">5</container>
+            <unittitle>Community-School Movement of the Philippines</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.4.2.2">
+            <did>
+              <unittitle>Aguilar, Jose, V., <title render="italic">This Is Our Community School, </title>Manila, Bookman, <unitdate calendar="gregorian" era="ce">1951. </unitdate></unittitle>
+              <physdesc altrender="in-line">Printed copy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.2.3">
+            <did>
+              <unittitle>Asuncion, Amparo, et al., <title render="italic">The Philippine Community School, </title>Quezon City, Bookman, <unitdate calendar="gregorian" era="ce">1956. </unitdate></unittitle>
+              <physdesc altrender="in-line">Printed copy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.2.4">
+            <did>
+              <unittitle>Corpuz, Isaac B., Sofronio S. Padre, and Eduardo Q. Dralin, ed., <title render="italic">Evaluating Our Community Schools, </title>Dagupan City: Mendoza, <unitdate calendar="gregorian" era="ce">1957. </unitdate></unittitle>
+              <physdesc altrender="in-line">Printed copy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.2.5">
+            <did>
+              <unittitle>Fleege, Urban H., <title render="italic">The Community School: Potentialities and Needs, </title>Bayambang, Philippine-UNESCO National Community School Training Center, <unitdate calendar="gregorian" era="ce">1956. </unitdate></unittitle>
+              <physdesc altrender="in-line">Bound Mimeographed copy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.2.6">
+            <did>
+              <unittitle>Fresnoza, Florencio, <title render="italic">The Philippine Community School Training Center at Bayambang, </title>Manila, Bureau of Printing, <unitdate calendar="gregorian" era="ce">1956. </unitdate></unittitle>
+              <physdesc altrender="in-line">Two printed copies.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.2.7">
+            <did>
+              <unittitle>Laya, J.C., <title render="italic">Little Democracies, </title>revised edition, Manila, Inang Wika, <unitdate calendar="gregorian" era="ce">1951. </unitdate></unittitle>
+              <physdesc altrender="in-line">Printed copy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.2.8">
+            <did>
+              <unittitle>Laya, J.C., <title render="italic">New Schools (For the Little Democracies), </title>Manila, Inang Wika, <unitdate calendar="gregorian" era="ce">1951. </unitdate></unittitle>
+              <physdesc altrender="in-line">Printed copy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.2.9">
+            <did>
+              <unittitle>Orata, Pedro T., <title render="italic">Community Education Abroad, </title>Manila, UNRSCO Philippine Educational Foundation, <unitdate calendar="gregorian" era="ce">1954. </unitdate></unittitle>
+              <physdesc altrender="in-line">Printed copy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.2.10">
+            <did>
+              <unittitle>Payaual, Rafael B. and Diosdado G. Jimenez, <title render="italic">Folk Schools in Adult Education, </title>Manila, Bureau of Public Schools, <unitdate calendar="gregorian" era="ce">1959. </unitdate></unittitle>
+              <physdesc altrender="in-line">Mimeographed copy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.2.11">
+            <did>
+              <unittitle>Philippine Association of School Superintendents, <title render="italic">Quarterly Bulletin. </title></unittitle>
+              <physdesc altrender="in-line">Printed copies.</physdesc>
+            </did>
+            <c04 id="c04-1.7.6.4.2.11.2">
+              <did>
+                <unittitle><title render="doublequote">Community Development Programmes in the Philippines, </title>vol. IV, nr. 2, <unitdate calendar="gregorian" era="ce">December 1954.</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.4.2.11.3">
+              <did>
+                <unittitle><title render="doublequote">The Community School Program for Economic Development, </title>vol. II, nr. 4, <unitdate calendar="gregorian" era="ce">June 1953.</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.4.2.11.4">
+              <did>
+                <unittitle><title render="doublequote">The Community School Program for Moral and Civic Education, </title>vol. IV, nr. 1, <unitdate calendar="gregorian" era="ce">September 1954.</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.4.2.11.5">
+              <did>
+                <unittitle><title render="doublequote">The Evaluation of Community School Programs, </title>vol. III, nr. 4, <unitdate calendar="gregorian" era="ce">June 1954.</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.4.2.11.6">
+              <did>
+                <unittitle><title render="doublequote">An Evaluation of the Philippine Community School School for the Last Five Years, </title>vol. IV, nr. 4, <unitdate calendar="gregorian" era="ce">June 1955.</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.4.2.11.7">
+              <did>
+                <unittitle><title render="doublequote">The First Philippine National Training Program in Community Education Leadership, </title>vol. IV, nr. 3, <unitdate calendar="gregorian" era="ce">March 1955.</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.4.2.11.8">
+              <did>
+                <container type="Box">6</container>
+                <unittitle><title render="doublequote">Home Economics in the Community-School Program, </title>vol. III, nr. 3, <unitdate calendar="gregorian" era="ce">March 1954.</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.4.2.11.9">
+              <did>
+                <unittitle><title render="doublequote">Learning the Problems of the Community School, </title>vol. I, nr. 1, <unitdate calendar="gregorian" era="ce">September 1951. </unitdate></unittitle>
+                <physdesc altrender="in-line">Two printed copies.</physdesc>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.4.2.12">
+            <did>
+              <unittitle>Philippine Islands, Bureau of Public Schools</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.4.2.12.2">
+              <did>
+                <unittitle><title render="italic">The Community School of the Philippines, </title>Manila, Bureau of Printing, <unitdate calendar="gregorian" era="ce">1957. </unitdate></unittitle>
+                <physdesc altrender="in-line">Printed copy.</physdesc>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.4.2.12.3">
+              <did>
+                <unittitle><title render="italic">Evaluating the Iloilo Community School Program, </title>Manila, Bureau of Printing, <unitdate calendar="gregorian" era="ce">1954. </unitdate></unittitle>
+                <physdesc altrender="in-line">Printed copy.</physdesc>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.4.2.12.4">
+              <did>
+                <unittitle><title render="italic">Improving the Community-School Program: A Report of the Second Educational Work-Conference, </title>Malolos, <unitdate calendar="gregorian" era="ce">1951. </unitdate></unittitle>
+                <physdesc altrender="in-line">Printed copy.</physdesc>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.4.2.12.5">
+              <did>
+                <unittitle><title render="italic">It Can Be Done: Community Schools of the Philippines, </title>Manila, Bureau of Printing, <unitdate calendar="gregorian" era="ce">1954. </unitdate></unittitle>
+                <physdesc altrender="in-line">Printed copy.</physdesc>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.4.2.12.6">
+              <did>
+                <unittitle><title render="italic">Objectives in Adult and Community Education for the School Year 1962-1963, </title>Manila, <unitdate calendar="gregorian" era="ce">1962. </unitdate></unittitle>
+                <physdesc altrender="in-line">Bound mimeographed copy.</physdesc>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.4.2.12.7">
+              <did>
+                <unittitle><title render="italic">The Philippine Community School Bulletin, </title>vol. XIV, nr. 6, <unitdate calendar="gregorian" era="ce">November - December 1956. </unitdate></unittitle>
+                <physdesc altrender="in-line">Printed copy.</physdesc>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.4.2.12.8">
+              <did>
+                <unittitle><title render="italic">The Philippine Community School Bulletin, </title>"Parent Education Issue," vol. XIV, nr. 5, <unitdate calendar="gregorian" era="ce">September - October 1956. </unitdate></unittitle>
+                <physdesc altrender="in-line">Bound mimeographed copy.</physdesc>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.4.2.12.9">
+              <did>
+                <unittitle><title render="italic">The Philippine Folk School, </title>Manila, Bureau of Printing, <unitdate calendar="gregorian" era="ce">1962. </unitdate></unittitle>
+                <physdesc altrender="in-line">Printed copy.</physdesc>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.4.2.12.10">
+              <did>
+                <unittitle>The Role of Physical Education in a Community School, <unitdate calendar="gregorian" era="ce">September 1961. </unitdate></unittitle>
+                <physdesc altrender="in-line">Printed copy.</physdesc>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.4.2.12.11">
+              <did>
+                <unittitle><title render="italic">Strengthening Basic Learnings in the Community School: A Report of the 1960 Educational Work Conference, </title>Ilagan, Isabela, <unitdate calendar="gregorian" era="ce">1960. </unitdate></unittitle>
+                <physdesc altrender="in-line">Printed copy.</physdesc>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.4.2.13">
+            <did>
+              <unittitle>University of the Philippines, Institute on the Community School, <title render="italic">Lectures on the Community School, </title>Manila, <unitdate calendar="gregorian" era="ce">1952. </unitdate></unittitle>
+              <physdesc altrender="in-line">Bound mimeographed copy.</physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.4.3">
+          <did>
+            <container type="Box">7</container>
+            <unittitle>Medicine. Campos, Paulo C., M.D., <title render="doublequote">Challenge and Response in the Health Sciences Field, </title>speech, University of the Philippines, Summer Institute, Baguio City, <unitdate calendar="gregorian" era="ce">July 8, 1966. </unitdate></unittitle>
+            <physdesc altrender="in-line">Mimeographed copy and cover letter.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.4">
+          <did>
+            <unittitle>Phi Delta Kappa. Correspondence, minutes of meetings, and by-laws, <unitdate calendar="gregorian" era="ce">1967-1968, 1973-1974.</unitdate>
+Arranged in chronological order.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.5">
+          <did>
+            <unittitle>Philippine Public Schools</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.4.5.2">
+            <did>
+              <unittitle>Boquiren, Telesforo N., <title render="doublequote">Educational Planning and the Philippine Experience, </title>speech, <unitdate calendar="gregorian" era="ce">n.d. </unitdate></unittitle>
+              <physdesc altrender="in-line">Carbon copy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.3">
+            <did>
+              <unittitle>Pascual, Dolores M., <title render="doublequote">The Education for the Blind in the Philippines, </title>speech, Regional Work Conference, Polo, Bulacan, <unitdate calendar="gregorian" era="ce">November 16, 1965. </unitdate></unittitle>
+              <physdesc altrender="in-line">Mimeographed copy, hand-outs, and cover letter.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.4">
+            <did>
+              <unittitle><title render="italic">Today's Investment in Tommorrow, </title>Manila, <unitdate calendar="gregorian" era="ce">1960. </unitdate></unittitle>
+              <physdesc altrender="in-line">Printed copy.</physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.4.6">
+          <did>
+            <unittitle>Rotary International. <title render="italic">Know Your Community, </title><unitdate calendar="gregorian" era="ce">1960. </unitdate></unittitle>
+            <physdesc altrender="in-line">Printed copy.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.7">
+          <did>
+            <unittitle>Southeast Asian Ministers of Education Organization. Arranged chronologically.</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.4.7.2">
+            <did>
+              <unittitle>
+                <title render="italic">Education: The Challenge and Promise of Southeast Asia / SEAMEO, </title>
+                <unitdate calendar="gregorian" era="ce">n.d. </unitdate>
+              </unittitle>
+              <physdesc altrender="in-line">Printed copy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.7.3">
+            <did>
+              <unittitle><title render="italic">Technical Workshop: Final Report, </title>Southeast Asian Ministers of Education Secretariat, Kuala Lumpur, <unitdate calendar="gregorian" era="ce">July 1966. </unitdate></unittitle>
+              <physdesc altrender="in-line">Bound mimeographed copy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.7.4">
+            <did>
+              <unittitle><title render="italic">Meeting of the Select Committee on The SEAMES Office: Final Report, </title>Southeast Asian Ministers of Education Secretatiat, Bangkok, <unitdate calendar="gregorian" era="ce">October 17 - 21, 1966. </unitdate></unittitle>
+              <physdesc altrender="in-line">Bound mimeographed copy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.7.5">
+            <did>
+              <unittitle><title render="italic">Compendium of Feasibility Team and Task Force Reports, </title>Southeast Asian Ministers of Education Secretariat, Bangkok, <unitdate calendar="gregorian" era="ce">November 1966. </unitdate></unittitle>
+              <physdesc altrender="in-line">Bound mimeographed copy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.7.6">
+            <did>
+              <unittitle><title render="italic">Presentation of the SEAMES Project Proposals, </title>Second Conference, SEAMEO, Manila, <unitdate calendar="gregorian" era="ce">November 25 - 28, 1966. </unitdate></unittitle>
+              <physdesc altrender="in-line">Bound mimeographed copies.</physdesc>
+            </did>
+            <c04 id="c04-1.7.6.4.7.6.2">
+              <did>
+                <unittitle>Copy I.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.4.7.6.3">
+              <did>
+                <unittitle>Copy II.</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.4.7.7">
+            <did>
+              <unittitle><title render="italic">Second Conference of the Southeast Asian Ministers of Education: Draft, Final Report, </title>Manila, <unitdate calendar="gregorian" era="ce">November 25 - 28, 1966. </unitdate></unittitle>
+              <physdesc altrender="in-line">Bound mimeographed copy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.7.8">
+            <did>
+              <unittitle>Second Conference of the Southeast Asian Ministers of Education: Final Report. </unittitle>
+              <physdesc altrender="in-line">Bound mimeographed copies.</physdesc>
+            </did>
+            <c04 id="c04-1.7.6.4.7.8.2">
+              <did>
+                <unittitle>Copy I.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.4.7.8.3">
+              <did>
+                <unittitle>Copy II.</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.4.7.9">
+            <did>
+              <container type="Box">8</container>
+              <unittitle><title render="italic">The First Meeting of the Ministerial Committee on the Premanent SEAMES: Report, </title>Kuala Lumpur, <unitdate calendar="gregorian" era="ce">February 16 - 17, 1967. </unitdate></unittitle>
+              <physdesc altrender="in-line">Mimeographed copy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.7.10">
+            <did>
+              <unittitle><title render="italic">The Second Meeting of the Ministerial Committee on the Permanent SEAMES: Report, </title>Singapore, <unitdate calendar="gregorian" era="ce">May 18 - 19 1967. </unitdate></unittitle>
+              <physdesc altrender="in-line">Bound mimeographed copy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.7.11">
+            <did>
+              <unittitle><title render="italic">Southeast Asian Regional Seminar on Manpower Development and Educational Planning, </title>Bangkok, <unitdate calendar="gregorian" era="ce">September 4 - 9, 1967. </unitdate></unittitle>
+              <physdesc altrender="in-line">Bound mimeographed copy.</physdesc>
+            </did>
+            <c04 id="c04-1.7.6.4.7.11.2">
+              <did>
+                <unittitle>Copy I.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.4.7.11.3">
+              <did>
+                <unittitle>Copy II.</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.4.7.12">
+            <did>
+              <unittitle><title render="italic">Fourth Conference of the Southeast Asian Ministers of Education Council: Final Report, </title>Djakarta, <unitdate calendar="gregorian" era="ce">January 7 - 10, 1969. </unitdate></unittitle>
+              <physdesc altrender="in-line">Bound mimeographed copy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.7.13">
+            <did>
+              <unittitle><title render="italic">Extraordinary Session of the Southeast Asian Ministers of Education Council: Final Report, </title>Bangkok, <unitdate calendar="gregorian" era="ce">May 12 - 14, 1970.</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.7.14">
+            <did>
+              <unittitle><title render="italic">Report of SEAMEO Brainstorming Session, </title>Bangkok, <unitdate calendar="gregorian" era="ce">September 2 - 4, 1970. </unitdate></unittitle>
+              <physdesc altrender="in-line">Printed copy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.7.15">
+            <did>
+              <unittitle><title render="italic">SEAMEO/SEADAG Seminar on Non-Formal Education: Final Report, </title>Penang, <unitdate calendar="gregorian" era="ce">October 11 - 14, 1971. </unitdate></unittitle>
+              <physdesc altrender="in-line">Printed copy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.7.16">
+            <did>
+              <unittitle><title render="italic">Post-War Development of the Lower Mekong Delta, </title>SEARCA, College, Laguna, <unitdate calendar="gregorian" era="ce">November 15, 1973. </unitdate></unittitle>
+              <physdesc altrender="in-line">Mimeographed copy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.7.17">
+            <did>
+              <unittitle><title render="italic">SEAMEO Charter, </title>Bangkok, <unitdate calendar="gregorian" era="ce">September 1973. </unitdate></unittitle>
+              <physdesc altrender="in-line">Printed copy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.7.18">
+            <did>
+              <unittitle><title render="italic">Beyond School Walls: A Study of Non-Formal Education in the SEAMEO Region, </title>Bangkok, <unitdate calendar="gregorian" era="ce">1973-1974. </unitdate></unittitle>
+              <physdesc altrender="in-line">Printed copy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.7.19">
+            <did>
+              <unittitle><title render="italic">Preliminary Meeting on SEAMEO's Role in Post-War Educational Development in Khmer Republic, Laos and the Republic of Viet Nam: Draft, Final Report, </title>Saigon, <unitdate calendar="gregorian" era="ce">January 9 - 11, 1974. </unitdate></unittitle>
+              <physdesc altrender="in-line">Mimeographed copy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.7.20">
+            <did>
+              <unittitle><title render="italic">A Study of Non-Fromal Education in the SEAMEO Region, </title><unitdate calendar="gregorian" era="ce">1973-1974:</unitdate><title render="italic">Summary Report, </title>Bangkok, <unitdate calendar="gregorian" era="ce">October 1974. </unitdate></unittitle>
+              <physdesc altrender="in-line">Printed copy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.7.21">
+            <did>
+              <container type="Box">9</container>
+              <unittitle><title render="italic">Annual Director's Report, </title>SEAMES, <unitdate calendar="gregorian" era="ce">1975. </unitdate></unittitle>
+              <physdesc altrender="in-line">Printed copy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.7.22">
+            <did>
+              <unittitle><title render="italic">Regional Conference on Non-Formal Education: Final Report </title>Bangkok, <unitdate calendar="gregorian" era="ce">August 16 - 21, 1976.</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.7.23">
+            <did>
+              <unittitle><title render="italic">A Report on the External Evaluation of SEAMEO Units, </title>Bangkok, <unitdate calendar="gregorian" era="ce">August, 1976. </unitdate></unittitle>
+              <physdesc altrender="in-line">Bound mimeographed copy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.7.24">
+            <did>
+              <unittitle><title render="italic">Report of the SEAMES Director's 1976 Fund-Raising Mission, </title>Bangkok, <unitdate calendar="gregorian" era="ce">December 1976. </unitdate></unittitle>
+              <physdesc altrender="in-line">Mimeographed copy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.7.25">
+            <did>
+              <unittitle><title render="italic">SEAMES Director's Annual Report, </title>Bangkok, <unitdate calendar="gregorian" era="ce">1976. </unitdate></unittitle>
+              <physdesc altrender="in-line">Bound mimeographed copy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.7.26">
+            <did>
+              <unittitle><title render="italic">Development Plan of SEAMEO Project in Archelogoy and Fine Arts, </title>Bangkok, <unitdate calendar="gregorian" era="ce">1977. </unitdate></unittitle>
+              <physdesc altrender="in-line">Bound mimeographed copy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.7.27">
+            <did>
+              <unittitle><title render="italic">Twelfth Conference of the SEAMEO: Final Report, </title>Djakarta, <unitdate calendar="gregorian" era="ce">March 3 - 7, 1977. </unitdate></unittitle>
+              <physdesc altrender="in-line">Bound mimeographed copy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.7.28">
+            <did>
+              <unittitle><title render="italic">Revised Proposed Development Plan for SEAMEO Programme in </title>Non-Formal Education (SNEP), <unitdate calendar="gregorian" era="ce">September 1977. </unitdate></unittitle>
+              <physdesc altrender="in-line">Mimeographed copy.</physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.4.8">
+          <did>
+            <unittitle>Teacher Trainigs</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.4.8.2">
+            <did>
+              <unittitle>Asian Institute for Teacher Educators (UNESCO), <title render="italic">Regional Symposium on the In-Service Training of Primary School Teachers in Asia: Final Report, </title>University of the Philippines, Quezon City, <unitdate calendar="gregorian" era="ce">July 5 - 19, 1967. </unitdate></unittitle>
+              <physdesc altrender="in-line">Bound mimeographed copy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.8.3">
+            <did>
+              <unittitle>Pines, E.A., Basic Principles of Rural Teacher Training, <unitdate calendar="gregorian" era="ce">n.d. </unitdate></unittitle>
+              <physdesc altrender="in-line">Mimeographed copy.</physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.4.9">
+          <did>
+            <unittitle>Vietnam</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.4.9.2">
+            <did>
+              <unittitle>Republic of Vietnam, Ministry of Education, <title render="italic">Projects for Reconstruction Rehabilitation and Development in Education, </title>Saigon, <unitdate calendar="gregorian" era="ce">1973.</unitdate></unittitle>
+            </did>
+            <c04 id="c04-1.7.6.4.9.2.2">
+              <did>
+                <unittitle>Copy I.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.4.9.2.3">
+              <did>
+                <unittitle>Copy II.</unittitle>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.6.5" level="series">
+        <did>
+          <unittitle>INCREMENT, <unitdate calendar="gregorian" era="ce">1949-1953</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.6.5.2">
+          <did>
+            <container type="Box">9</container>
+            <unittitle>Philippine Islands, Bureau of Public Schools, <title render="italic">Bulletin</title></unittitle>
+          </did>
+          <c03 id="c03-1.7.6.5.2.2">
+            <did>
+              <unittitle>
+                <title render="doublequote">Community Improvement through the Public Schools, </title>
+                <unitdate calendar="gregorian" era="ce">August 3, 1949. </unitdate>
+              </unittitle>
+              <physdesc altrender="in-line">Photocopy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.5.2.3">
+            <did>
+              <unittitle>
+                <title render="doublequote">Leadership Training for Life-Centered Education in Gagayan, </title>
+                <unitdate calendar="gregorian" era="ce">May 29, 1950. </unitdate>
+              </unittitle>
+              <physdesc altrender="in-line">Photocopy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.5.2.4">
+            <did>
+              <unittitle>
+                <title render="doublequote">The Organization and Operation of the Community-Centered School, </title>
+                <unitdate calendar="gregorian" era="ce">September 19, 1950. </unitdate>
+              </unittitle>
+              <physdesc altrender="in-line">Photocopy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.5.2.5">
+            <did>
+              <unittitle>
+                <title render="doublequote">Establishing Community Reading Centers, </title>
+                <unitdate calendar="gregorian" era="ce">October 17, 1950. </unitdate>
+              </unittitle>
+              <physdesc altrender="in-line">Photocopy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.5.2.6">
+            <did>
+              <unittitle>
+                <title render="doublequote">Enriching and Vitalizing the Curriculum for the Improvement of Community Living, </title>
+                <unitdate calendar="gregorian" era="ce">May 3, 1951. </unitdate>
+              </unittitle>
+              <physdesc altrender="in-line">Photocopy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.5.2.7">
+            <did>
+              <unittitle>
+                <title render="doublequote">Report on Adult Education in Action, Theme of the 42nd Annual Convention of Division of Superintendents, </title>
+                <unitdate calendar="gregorian" era="ce">September 28, 1951. </unitdate>
+              </unittitle>
+              <physdesc altrender="in-line">Photocopy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.5.2.8">
+            <did>
+              <unittitle>
+                <title render="doublequote">Fundamental Education through Community-Centered Schools in the Philippines, </title>
+                <unitdate calendar="gregorian" era="ce">October 11, 1951. </unitdate>
+              </unittitle>
+              <physdesc altrender="in-line">Photocopy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.5.2.9">
+            <did>
+              <unittitle>
+                <title render="doublequote">Professional Literature for Teachers, Principals, and Supervisors on the Community-Centered Schools and Related Topics, </title>
+                <unitdate calendar="gregorian" era="ce">September 11, 1952. </unitdate>
+              </unittitle>
+              <physdesc altrender="in-line">Photocopy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.5.2.10">
+            <did>
+              <unittitle>
+                <title render="doublequote">Adult Education - Its Community School Development Program, </title>
+                <unitdate calendar="gregorian" era="ce">September 13, 1952. </unitdate>
+              </unittitle>
+              <physdesc altrender="in-line">Photocopy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.5.2.11">
+            <did>
+              <unittitle>
+                <title render="doublequote">Achievements of the Community School for the School Year 1951-1952, </title>
+                <unitdate calendar="gregorian" era="ce">December 16, 1952. </unitdate>
+              </unittitle>
+              <physdesc altrender="in-line">Photocopy.</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.5.2.12">
+            <did>
+              <unittitle>
+                <title render="doublequote">What the Community School Might Well Emphasize during the School Year 1953-1954, </title>
+                <unitdate calendar="gregorian" era="ce">October 30, 1953. </unitdate>
+              </unittitle>
+              <physdesc altrender="in-line">Photocopy.</physdesc>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.6.6" level="series">
+        <did>
+          <unittitle>AUDIO-VISUAL, <unitdate calendar="gregorian" era="ce">1954.</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.6.6.2">
+          <did>
+            <container type="Box"> 10 A-V</container>
+            <unittitle>1 print of Philippine community school.</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

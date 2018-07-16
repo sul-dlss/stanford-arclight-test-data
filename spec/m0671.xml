@@ -1,0 +1,2833 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  
+  
+  
+  
+  
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" repositoryencoding="iso15511" findaidstatus="unverified-full-draft" langencoding="iso639-2b"><eadid countrycode="us" identifier="ark:/13030/tf1n39n52q" mainagencycode="CSt" publicid="PUBLIC &quot;-//Stanford University::Libraries::Dept. of Special Collections::Manuscripts Division//TEXT (US::CSt::M0671::Charles H. Irby Papers)//EN&quot; &quot;m0671.sgm&quot;">m0671.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Charles H. Irby Papers, 
+<date calendar="gregorian" era="ce">1962-1975</date></titleproper><titleproper type="filing">Irby (Charles H.) Papers</titleproper>
+        <author>Processed by Special Collections staff; machine-readable finding aid created by Steven Mandeville-Gamble</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Department of Special Collections</publisher>
+        <address>
+          <addressline>Green Library</addressline>
+          <addressline>Stanford University Libraries</addressline>
+          <addressline>Stanford, CA 94305-6004 </addressline>
+          <addressline>Phone: (650) 725-1022</addressline>
+          <addressline>Email: specialcollections@stanford.edu</addressline>
+          <addressline>URL: http://library.stanford.edu/spc</addressline>
+        </address>
+        <date calendar="gregorian" era="ce">&#xA9; 1999</date>
+        <p>The Board of Trustees of Stanford University. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc><profiledesc>
+      <creation>Machine-readable finding aid derived from MS Word. Date of source: 
+<date calendar="gregorian" era="ce">1996 Aug..</date></creation>
+      <langusage>Finding aid is written in 
+<language>English.</language></langusage>
+    </profiledesc><revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//Stanford University::Libraries::Dept. of Special Collections::Manuscripts Division//TEXT (US::CSt::M0671::Charles H. Irby Papers)//EN" "m0671.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Guide to the Charles H. Irby Papers, 
+<date calendar="gregorian" era="ce">1962-1975</date></titleproper>
+      <num>Collection number: M0671</num>
+      <publisher>Department of Special Collections and University Archives
+<lb/>Stanford University Libraries 
+<lb/>Stanford, California</publisher>
+      <list type="simple">
+        <head>Contact Information</head>
+        <item>Department of Special Collections</item>
+        <item>Green Library</item>
+        <item>Stanford University Libraries</item>
+        <item>Stanford, CA 94305-6004 </item>
+        <item>Phone: (650) 725-1022</item>
+        <item>Email: specialcollections@stanford.edu</item>
+        <item>URL: http://library.stanford.edu/spc</item>
+      </list>
+      <list type="deflist">
+        <defitem>
+          <label>Processed by:</label>
+          <item>Special Collections staff</item>
+        </defitem>
+        <defitem>
+          <label>Date Completed:</label>
+          <item>1996 Aug.</item>
+        </defitem>
+        <defitem>
+          <label>Encoded by:</label>
+          <item>Steven Mandeville-Gamble</item>
+        </defitem>
+      </list>
+      <p>&#xA9; 1999 The Board of Trustees of Stanford University. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection">
+    <did id="did-1.8.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">Charles H. Irby Papers, 
+</unittitle><unitdate calendar="gregorian" era="ce" type="inclusive">1962-1975</unitdate>
+      <unitid label="Collection number">Special Collections M0671</unitid>
+      <origination label="Creator">
+        <persname>Irby, Charles H.</persname>
+      </origination>
+      <physdesc label="Extent">
+        <extent>4.5 linear ft.</extent>
+      </physdesc>
+      <repository label="Repository">
+        <corpname>Stanford University. Libraries. Dept. of Special Collections and University Archives.</corpname>
+      </repository>
+      <langmaterial label="Language">
+        <language langcode="en">English.</language>
+      </langmaterial>
+    </did>
+    <descgrp id="descgrp-1.8.2" type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict>
+        <head>Access Restrictions</head>
+        <p>None.</p>
+      </accessrestrict>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>Property rights reside with the repository. Literary rights reside with the creators of the documents or their heirs. To obtain permission to publish or reproduce, please contact the Public Services Librarian of the Dept. of Special Collections.</p>
+      </userestrict>
+      <custodhist>
+        <head>Provenance</head>
+        <p>Gift of Charles Irby, 1994.</p>
+      </custodhist>
+      <prefercite>
+        <head>Preferred Citation:</head>
+        <p>[Identification of item] Charles H. Irby Papers, M0671, Dept. of Special Collections, Stanford University Libraries, Stanford, Calif.</p>
+      </prefercite>
+    </descgrp>
+    <scopecontent id="scopecontent-1.8.3">
+      <head>Scope and Content</head>
+      <p>Primarily correspondence, memos, working notes and technical reports from work on ARPANET, Control Meta Language, Modular Programming System and software and interface applications while Irby was at SRI International and Xerox Park.</p>
+    </scopecontent>
+    <controlaccess id="controlaccess-1.8.4">
+      <head>Access Terms</head>
+      <persname>Cotton, Ira.</persname>
+      <persname>Deutsch, L. Peter.</persname>
+      <persname>Dornbush, Charles F.</persname>
+      <persname>Engelbart, Douglas C.</persname>
+      <persname>Kelley, Karl Cornell.</persname>
+      <persname>Lampson, Butler W.</persname>
+      <persname>Liddle, Dave.</persname>
+      <persname>Meyer, Ed.</persname>
+      <persname>Michener, Jim.</persname>
+      <persname>Mitchell, James G.</persname>
+      <persname>Paxton, William Hamilton.</persname>
+      <persname>Victor, Kenneth E.</persname>
+      <persname>Watson, Richard W.</persname>
+      <persname>White, James E.</persname>
+      <corpname>Augmentation Research Center.</corpname>
+      <corpname>Bolt, Beranek and Newman, inc.</corpname>
+      <corpname>National Software Works.</corpname>
+      <corpname>Network Working Group.</corpname>
+      <corpname>SRI International.</corpname>
+      <corpname>Stanford Research Institute. Augmentation Research Center.</corpname>
+      <corpname>United States. Defense Advanced Research Projects Agency Software and Intelligent Systems Technology Office.</corpname>
+      <corpname>University of Southern California. Information Sciences Institute.</corpname>
+      <subject>Control Meta Language.</subject>
+      <subject>Distributed Programming System.</subject>
+      <subject>Information storage and retrieval systems.</subject>
+      <subject>Modular Programming System.</subject>
+      <subject>Operating System Module.</subject>
+      <subject>Science--History.</subject>
+      <subject>Software engineering.</subject>
+      <subject>User interfaces (Computer systems)</subject>
+    </controlaccess>
+    <dsc id="dsc-1.8.5" type="in-depth">
+      <head>Container List</head>
+      <c01 id="c01-1.8.5.2">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">1</container>
+          <unittitle>Invitation to organizational meeting about Management System Technology (MST) from J. Perry and C. Fields. 
+<unitdate calendar="gregorian" era="ce">Jan. 21, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.3">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">1</container>
+          <unittitle>CHI. "Display techniques for interactive text manipulation." National Computer Comference, 
+<unitdate calendar="gregorian" era="ce">1974.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.4">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">1</container>
+          <unittitle>CHI et. al. "A Command meta language for NLS." 
+<unitdate calendar="gregorian" era="ce">June 28, 1974.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.5">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">1</container>
+          <unittitle>JOHNSON, Paul R. and THOMAS, Robert H. BBN-TENEX. "The Maintenance of Duplicate Databases." Network Working Group, RFC #677, NIC #31507. 
+<unitdate calendar="gregorian" era="ce">Jan. 27, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.6">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">2</container>
+          <unittitle>DCE. "Coordinated information services for a discipline of mission-oriented community." Presented at Second Annual Computer Communications Conference in San Jose, CA., Jan. 24, 1973. ARC Journal Accession No.: 12445, ARC Publication Time: 
+<unitdate calendar="gregorian" era="ce">Dec. 12, 1972.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.7">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">2</container>
+          <unittitle>ANDREWS, Donald I. "Line processor - a device for amplification of 
+<unitdate calendar="gregorian" era="ce">display terminal capabilities for text manipulation." National Computer Conference,</unitdate></unittitle>
+          <physdesc>1974.</physdesc>
+        </did>
+        <scopecontent>
+          <p/>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.8.5.8">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">2</container>
+          <unittitle>ANDERSON, Bob. "Informal position paper on office animation." 
+<unitdate calendar="gregorian" era="ce">Jan. 25, 1974.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.9">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">2</container>
+          <unittitle>OESTREICHER, HEAFNER, and ROTHENBERG. "CONNECT, a user-oriented communications service." IA Document 35, Version 5. 
+<unitdate calendar="gregorian" era="ce">Jan. 1974.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.10">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">2</container>
+          <unittitle>PERRY, John S. "Thoughts on the automated office." 
+<unitdate calendar="gregorian" era="ce">Dec. 7, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.11">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">2</container>
+          <unittitle>VEZZA and HAVERTY. "Informal position paper on management system technology." 
+<unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.12">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">2</container>
+          <unittitle>Abstract, paper, and fomulas about impact of emerging augmentation technology and ARC. 
+<unitdate calendar="gregorian" era="ce">Nov. 14, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.13">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>"Reaction to JLP/CF wish list." 
+<unitdate calendar="gregorian" era="ce">Jan. 25, 1974.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.14">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>"Reaction to JPL/CF wish list and ARC/NLS status with respect to it." 
+<unitdate calendar="gregorian" era="ce">Jan. 27, 1974.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.15">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>RWW. "Some higher level issues for the MST meeting." 
+<unitdate calendar="gregorian" era="ce">Jan. 28, 1974.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.16">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>DCE, RWW, and NORTON. "The Augment knowledge workshop." Paper presented at the National Computer Conference, New York City, June 1973.ARC Journal Accession No.: 14724, ARC Publication Time: 
+<unitdate calendar="gregorian" era="ce">March 1, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.17">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>BRESSLER and THOMAS. "Inter-entity communication - an experiment." Network Working Group, RFC #441, NIC #13773, Distribution to include subgroup NDIG. 
+<unitdate calendar="gregorian" era="ce">Jan. 19, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.18">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">4</container>
+          <unittitle>ELLIOT, POTAS, and VANDAM. Unpublished appendix to "Computer-assisted tracing of text evolution." FJCC, 
+<unitdate calendar="gregorian" era="ce">1971.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.19">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">4</container>
+          <unittitle>ELLIOT, POTAS, and VANDAM. "Computer assisted tracing of text evolution." AFIPS Proceedings, Fall Joint Computer Conference, 1971, vol. 39, p. 533-540.</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.20">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">4</container>
+          <unittitle>RWW. "Some factors which a network graphics protocol must consider." Network Working Group, RFC #192, NIC #7137, 
+<unitdate calendar="gregorian" era="ce">July 12, 1971.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.21">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">4</container>
+          <unittitle>Computer program sent to USC-ISIC, 
+<unitdate calendar="gregorian" era="ce">Oct. 14, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.22">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">4</container>
+          <unittitle>Computer program. 
+<unitdate calendar="gregorian" era="ce">July 21, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.23">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">5</container>
+          <unittitle>RWW. "Continuation of national software works developments." Proposal for research SRI No. ISU 75-94. Prepared for Information Processing Techniques Office, Advanced Research Projects Agency, Arlington, VA. 
+<unitdate calendar="gregorian" era="ce">June, 10, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.24">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">6</container>
+          <unittitle>"1st rough draft of the Programmers' guide to writing language modules for the debugger." 
+<unitdate calendar="gregorian" era="ce">Sept. 2, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.25">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">6</container>
+          <unittitle>E-mail re. NSW debugger. 
+<unitdate calendar="gregorian" era="ce">June 19, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.26">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">6</container>
+          <unittitle>E-mail release of Journal document #25056; documentation added to Control Meta Language (CML) to accomodate NSW needs. 
+<unitdate calendar="gregorian" era="ce">Apr. 11, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.27">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">6</container>
+          <unittitle>Defense Advanced Research Projects Agency, Arlington, VA. "Standard DoD high order language." Memorandum for IPTO Principal investigations. Rec'd 
+<unitdate calendar="gregorian" era="ce">May 30, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.28">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">6</container>
+          <unittitle>"Extensions to the L10 programming language for the DEC PDP-10 and DEC PDP-11."</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.29">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">6</container>
+          <unittitle>SCHANTZ, Richard. BBN-TENEX. "Commentary on procedure calling as a network protocol." Network Working Group, RFC 
+<unitdate calendar="gregorian" era="ce">#684, NIC #32252,</unitdate></unittitle>
+          <physdesc>Apr. 15, 1975.</physdesc>
+        </did>
+        <scopecontent>
+          <p/>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.8.5.30">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">7</container>
+          <unittitle>MEYER, N. Dean. "Executive information tools." Draft. 
+<unitdate calendar="gregorian" era="ce">Sept. 11, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.31">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">7</container>
+          <unittitle>CHI. "Command Meta Language -- CML." 
+<unitdate calendar="gregorian" era="ce">Oct. 25, 1974.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.32">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">8</container>
+          <unittitle>ABBOTT, Russell J. "Command language processor for flexible interface design." Information Automation Project, USC-ISI. 
+<unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.33">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">8</container>
+          <unittitle>"Workshop on machine independent graphics." Program from ACM-SIGGRAPH/NBS, held at the National Bureau of Standards, Gaithersburg, MD, 
+<unitdate calendar="gregorian" era="ce">Apr. 22-23, 1974.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.34">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder"/>
+          <unittitle>Black 3-ring binder</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.35">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder"/>
+          <unittitle>Computer program by CHI for USC-ISIB, 
+<unitdate calendar="gregorian" era="ce">Nov. 4, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.36">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder"/>
+          <unittitle>Computer program by CHI for USC-ISIB, 
+<unitdate calendar="gregorian" era="ce">Nov. 4, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.37">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder"/>
+          <unittitle>Computer program by CHI for USC-ISIB, 
+<unitdate calendar="gregorian" era="ce">Oct. 21, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.38">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder"/>
+          <unittitle>Computer program by CHI for USC-ISIB. OSI. 
+<unitdate calendar="gregorian" era="ce">Oct. 16, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.39">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder"/>
+          <unittitle>Computer program by CHI for USC-ISIB. CML. 
+<unitdate calendar="gregorian" era="ce">Oct. 16, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.40">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder"/>
+          <unittitle>Computer program by CHI for USC-ISIB. FEDATA, Writable data. 
+<unitdate calendar="gregorian" era="ce">Oct. 16, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.41">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder"/>
+          <unittitle>Computer program by CHI for USC-ISIB. NSWEXEC-CML. Grammars. 
+<unitdate calendar="gregorian" era="ce">Oct. 16, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.42">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder"/>
+          <unittitle>Computer program by CHI for USC-ISIB. NLSGRAM. Grammars. 
+<unitdate calendar="gregorian" era="ce">Oct. 16, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.43">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder"/>
+          <unittitle>Computer program by CHI for USC-ISIB. NLS-PARSEFUNCTIONS. Grammars. 
+<unitdate calendar="gregorian" era="ce">Oct. 16, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.44">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder"/>
+          <unittitle>Computer program by CHI for USC-ISIB. L1011STGMGT. L10 Runtime. 
+<unitdate calendar="gregorian" era="ce">Oct. 16, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.45">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder"/>
+          <unittitle>Computer program by CHI for USC-ISIB. GRAMLDR. L10 Runtime. 
+<unitdate calendar="gregorian" era="ce">Oct. 16, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.46">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder"/>
+          <unittitle>Computer program by CHI for USC-ISIB. XL10RUNTIME. L10 Runtime. 
+<unitdate calendar="gregorian" era="ce">Oct. 16, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.47">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder"/>
+          <unittitle>Computer program by CHI for USC-ISIB. XL10DATA. L10 Runtime. 
+<unitdate calendar="gregorian" era="ce">Oct. 16, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.48">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">1</container>
+          <unittitle>TNLS-8 Quick reference card. SRI-ARC 1-SEP-74-23753.</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.49">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">1</container>
+          <unittitle>"ARPANET Directory, July 1975." NIC 32992. Prepared by NIC for ARPA, Information Processing Techniques Office. Contract No. F30602-75-C-0123. Report. 
+<unitdate calendar="gregorian" era="ce">Feb. 20, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.50">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">2</container>
+          <unittitle>KRUTAR, R. "Conversational systems programming." Xerox-PARC memo. rec'd by CHI. 
+<unitdate calendar="gregorian" era="ce">May 15, 1972.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.51">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">2</container>
+          <unittitle>"Modular programming." 
+<unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+          <physdesc>2 copies.</physdesc>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.52">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">2</container>
+          <unittitle>WHP. "What are we looking for from MPS?" 
+<unitdate calendar="gregorian" era="ce">June 10, 1971.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.53">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">2</container>
+          <unittitle>JGM. "MPSDATA" Xerox-PARC. 
+<unitdate calendar="gregorian" era="ce">Jan. 25, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.54">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">2</container>
+          <unittitle>LPD . "Full tilt into the heffalump trap." 
+<unitdate calendar="gregorian" era="ce">Apr. 11, 1972.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.55">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>JGM. "Contribution to research report to management." Report to Dave Allison. 
+<unitdate calendar="gregorian" era="ce">Apr. 21, 1972.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.56">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>WHP. "MPL Datatype facility." 
+<unitdate calendar="gregorian" era="ce">May 18, 1972.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.57">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>McCREIGHT, Ed. ""MPL Meeting notes, re. MPL debugger." 
+<unitdate calendar="gregorian" era="ce">June 6, 1972.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.58">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>WHP. "What are we looking for from MPS?" 
+<unitdate calendar="gregorian" era="ce">June 10, 1971.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.59">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>RWW. "development notes." Rec'd by CHI 
+<unitdate calendar="gregorian" era="ce">Dec. 26, 1972.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.60">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>RWW. "mpl" Rec'd by CHI 
+<unitdate calendar="gregorian" era="ce">Dec. 13, 1972.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.61">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">4</container>
+          <unittitle>"Suggested NLS MPS Organization." Flow chart. 
+<unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+          <physdesc>(2 copies)</physdesc>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.62">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">4</container>
+          <unittitle>CFD. "One view of modular programming and MPS."</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.63">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">4</container>
+          <unittitle>WHP. "What are we looking for from MPS?" 
+<unitdate calendar="gregorian" era="ce">June 10, 1971.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.64">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">4</container>
+          <unittitle>"Conversion." Draft of paper about conversion of NLS to run in MPS environment.
+<unitdate calendar="gregorian" era="ce">Feb. 15, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.65">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">4</container>
+          <unittitle>CHI. "Conversion." Draft of paper about conversion of NLS to run in MPS environment. 
+<unitdate calendar="gregorian" era="ce">Feb. 15, 1973.</unitdate></unittitle>
+          <physdesc>marked copy.</physdesc>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.66">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">4</container>
+          <unittitle>LPD. "Control." Memo rec'd by CHI 
+<unitdate calendar="gregorian" era="ce">May 18, 1972.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.67">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">5</container>
+          <unittitle>BWL. "Modular Programming System." 
+<unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.68">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">5</container>
+          <unittitle>LPD. Paper about conversion of NLS to run in MPS environment. 
+<unitdate calendar="gregorian" era="ce">Feb. 26, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.69">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">5</container>
+          <unittitle>LPD. "Software engineering crisis." 
+<unitdate calendar="gregorian" era="ce">Feb. 20, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.70">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">6</container>
+          <unittitle>JGM. "Model for MPS processes and environments, MPS 4.0." Xerox-PARC/SRI. 
+<unitdate calendar="gregorian" era="ce">May 16, 1972.</unitdate></unittitle>
+          <physdesc>(2 copies)</physdesc>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.71">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">6</container>
+          <unittitle>JGM. "Introduction to the Modular Programming System, MPS 2.0." Xerox-PARC/SRI. 
+<unitdate calendar="gregorian" era="ce">May 12, 1972.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.72">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">6</container>
+          <unittitle>CHI. "Command meta language system." SRI. Augment, 27266, 
+<unitdate calendar="gregorian" era="ce">1976.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.73">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">6</container>
+          <unittitle>ANDREWS, Donald I. "Line processor - a device for amplification of display terminal capabilities for text manipulation." SRI. National Computer Conference, 
+<unitdate calendar="gregorian" era="ce">1974.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.74">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">7</container>
+          <unittitle>"Telnet protocol specification." NIC #18639. 
+<unitdate calendar="gregorian" era="ce">August, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.75">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">7</container>
+          <unittitle>DAVIDSON, John. "An Echoing strategy for satellite links." Network Working Group, RFC #357, NIC #10599, 
+<unitdate calendar="gregorian" era="ce">June 26, 1972.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.76">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">7</container>
+          <unittitle>DAVIDSON. "Comments on the RCTE TELNET Option." NWG/RFC #563, NIC #18775, 
+<unitdate calendar="gregorian" era="ce">Aug. 28, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.77">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">7</container>
+          <unittitle>CROCKER, D. and Postal, J. "Remote controlled transmission &amp; echoing TELNET option." Network Working Group, NWG/RFC #560, NIC #18492, 
+<unitdate calendar="gregorian" era="ce">Aug. 20, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.78">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">8</container>
+          <unittitle>RWW. Xerox. "Emerging technical applications in information retrieval." National Science Foundation on Scientific and Technical Information, Washington, DC, 
+<unitdate calendar="gregorian" era="ce">Oct. 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.79">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">8</container>
+          <unittitle>"Towards the design of an online calendar subsystem." rough draft distributed by MJOURNAL.
+<unitdate calendar="gregorian" era="ce">May 20, 1974.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.80">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">8</container>
+          <unittitle>LYNCH. "TENEX system tuning parameters." 
+<unitdate calendar="gregorian" era="ce">Mar. 8, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.81">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">8</container>
+          <unittitle>CLEMENTS, R. BBN. "TENEX extensions for paged files." NWG/RFC #683, NIC #32251, 
+<unitdate calendar="gregorian" era="ce">Apr. 3, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.82">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">9</container>
+          <unittitle>JEW. "Modules and their procedure calls." 
+<unitdate calendar="gregorian" era="ce">Oct. 16, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.83">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">10</container>
+          <unittitle>Collection of papers representing the design documents for the distributed TENEX system on the ARPANET. 
+<unitdate calendar="gregorian" era="ce">Nov. 8, 1972.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.84">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">10</container>
+          <unittitle>EARLEY, Jay and CAIZERGUES, Paul. "Method for incrementally compiling languages with nested statement structure." In Communications of the ACM, vol. 15, no. 12, 
+<unitdate calendar="gregorian" era="ce">Dec. 1972</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.85">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">10</container>
+          <unittitle>PARNAS, D.L. "On the criteria to be used in decomposing systems into modules." In Communications of the ACM, vol. 15, no. 12, 
+<unitdate calendar="gregorian" era="ce">Dec. 1972.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.86">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">10</container>
+          <unittitle>CFD. "Sample use of uniform referent capabilities in MPS." 
+<unitdate calendar="gregorian" era="ce">May 18, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.87">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">10</container>
+          <unittitle>CFD. "Evaluation and automatic deferencing." 
+<unitdate calendar="gregorian" era="ce">May 24, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.88">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">10</container>
+          <unittitle>GOLDBERG, NEUMANN, and WENSLEY. SRI, Computer Science Group. "Survey of fault-tolerant computing systems (revised)." 
+<unitdate calendar="gregorian" era="ce">Aug. 8, 1972.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.89">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">11</container>
+          <unittitle>NEUMANN. SRI. "Hierarchical framework for fault-tolerant computing systems." IEEE Computer Society Conference, San Francisco, 
+<unitdate calendar="gregorian" era="ce">Sept. 1972.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.90">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">11</container>
+          <unittitle>EHS, DDC. "MPS debugger." 
+<unitdate calendar="gregorian" era="ce">Jan. 3, 1972.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.91">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">11</container>
+          <unittitle>RUBIN, S. "Computable command programming." 
+<unitdate calendar="gregorian" era="ce">Dec. 30, 1968.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.92">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">11</container>
+          <unittitle>YOUNGS, Eric A. "Error-proneness in programming." Section of author's UNC psychology thesis. 
+<unitdate calendar="gregorian" era="ce">1969.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.93">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">11</container>
+          <unittitle>CFD. "Overview of the Basic File System." 
+<unitdate calendar="gregorian" era="ce">Jan. 11, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.94">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">11</container>
+          <unittitle>McCARTHY, John. SU-AI. "Arbitrary character sets." NWG/RFC #373, NIC #11058.</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.95">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">11</container>
+          <unittitle>"A Graphics protocol for text handling." 
+<unitdate calendar="gregorian" era="ce">Apr. 25, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.96">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">12</container>
+          <unittitle>DUVALL, W.S. "New character generator editor." 
+<unitdate calendar="gregorian" era="ce">Mar. 1, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.97">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">12</container>
+          <unittitle>BRUNON, Joseph. "Group dynamics and visual thinking."</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.98">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">12</container>
+          <unittitle>"Structure of local and global strings." 
+<unitdate calendar="gregorian" era="ce">Sept. 22, 1971.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.99">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">12</container>
+          <unittitle>DOCMPS. 
+<unitdate calendar="gregorian" era="ce">July 18, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.100">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">13</container>
+          <unittitle>FERRARI, Domenico. "Improving locality by critical working sets." In Communications of the ACM, vol. 17, no. 11 
+<unitdate calendar="gregorian" era="ce">Dec. 1974.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.101">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">13</container>
+          <unittitle>BWL, JGM, and Satterwhite. Xerox PARC. "On the transfer of control between contexts." 
+<unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.102">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">13</container>
+          <unittitle>"MPS debugger." first draft. 
+<unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.103">
+        <did>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">13</container>
+          <unittitle>BWL. Xerox-PARC. "New control transfer mechanism." 
+<unitdate calendar="gregorian" era="ce">Apr. 10, 1972.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.104">
+        <did>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder"/>
+          <unittitle>"CML code"</unittitle>
+          <physdesc>Red 3-ring binder</physdesc>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.105">
+        <did>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder"/>
+          <unittitle>Computer program. L1011, OSI-CLI. 
+<unitdate calendar="gregorian" era="ce">Oct. 24, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.106">
+        <did>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder"/>
+          <unittitle>New CLI divider</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.107">
+        <did>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder"/>
+          <unittitle>Computer program. NSW-SOURCES. 
+<unitdate calendar="gregorian" era="ce">Oct. 21, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.108">
+        <did>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder"/>
+          <unittitle>OSI divider</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.109">
+        <did>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder"/>
+          <unittitle>Computer program. NSW-SOURCE, XOSI-CLI. 
+<unitdate calendar="gregorian" era="ce">Oct. 20, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.110">
+        <did>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder"/>
+          <unittitle>Computer program. L1011, OSI-CLI. 
+<unitdate calendar="gregorian" era="ce">Oct. 20, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.111">
+        <did>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder"/>
+          <unittitle>DATA divider</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.112">
+        <did>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder"/>
+          <unittitle>Computer program. NSW-SOURCES, XFEDATA. 
+<unitdate calendar="gregorian" era="ce">Oct. 16, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.113">
+        <did>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder"/>
+          <unittitle>Compactor divider</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.114">
+        <did>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder"/>
+          <unittitle>Computer program. NSW-SOURCES, CGRAMLDR. 
+<unitdate calendar="gregorian" era="ce">Oct. 16, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.115">
+        <did>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder"/>
+          <unittitle>Computer program. NSW-SOURCES, CGRAM. 
+<unitdate calendar="gregorian" era="ce">Oct. 16, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.116">
+        <did>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder"/>
+          <unittitle>Parse functions divider</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.117">
+        <did>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder"/>
+          <unittitle>Computer program. NSW-SOURCES, XFEROUTINES. 
+<unitdate calendar="gregorian" era="ce">Oct. 16, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.118">
+        <did>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder"/>
+          <unittitle>Computer program. NSW-SOURCES, XNLS-PARSEFUNTIONS. 
+<unitdate calendar="gregorian" era="ce">Oct. 16, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.119">
+        <did>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder">1</container>
+          <unittitle>RWW. "National software works developments." Proposal for research SRI No. ISU 74-132. SIR-ARC 23352. Prepared for Information Processing Techniques Office, ARPA. 
+<unitdate calendar="gregorian" era="ce">July 1, 1974.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.120">
+        <did>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder">1</container>
+          <unittitle>CFD. "Comments on proposed coding standards." 
+<unitdate calendar="gregorian" era="ce">Apr. 17, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.121">
+        <did>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder">1</container>
+          <unittitle>"NLS file structure." 
+<unitdate calendar="gregorian" era="ce">June 6, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.122">
+        <did>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder">2</container>
+          <unittitle>"Xerox meeting notes." Notes from meeting held at Xerox-PARC on Feb. 15, 1972. Rec'd 
+<unitdate calendar="gregorian" era="ce">Feb. 22, 1972.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.123">
+        <did>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder">2</container>
+          <unittitle>"Yet another look at the MPS conversion." 
+<unitdate calendar="gregorian" era="ce">Mar. 29, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.124">
+        <did>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder">2</container>
+          <unittitle>RWW. "Notes to show scope of a software engineering workshop." 
+<unitdate calendar="gregorian" era="ce">July 4, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.125">
+        <did>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder">2</container>
+          <unittitle>WENNERSTROM, Bruce. "Now it's pedal power to fight pollution." In Mechanix Illustrated, 
+<unitdate calendar="gregorian" era="ce">Feb. 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.126">
+        <did>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder">2</container>
+          <unittitle>"Draft design for a text/graphics proposal." 
+<unitdate calendar="gregorian" era="ce">July 13, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.127">
+        <did>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder">2</container>
+          <unittitle>MICHENER, COTTON, KELLEY, LIDDLE, MEYER. "Graphics protocol." Network Working Group, RFC #493, NIC #15358, 
+<unitdate calendar="gregorian" era="ce">Apr. 26, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.128">
+        <did>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>THOMAS, Elaine. BBN. "Proposed network graphics protocol." 
+<unitdate calendar="gregorian" era="ce">Jan. 11, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.129">
+        <did>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>Notes on Thomas' "Proposed network graphics protocol."</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.130">
+        <did>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>"Summary of Display Primitives as of 1 Apr 72 (not a complete set)." DPRIM.</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.131">
+        <did>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>"Graphics protocol for text handling." 
+<unitdate calendar="gregorian" era="ce">July 1, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.132">
+        <did>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder">4</container>
+          <unittitle>DCE. SRI. "Augmenting human intellect: a conceptual framework." AFOSR-3223. Prepared for Director of Information Sciences Air Force Office of Scientific Research. Contract AF 49(638)-1024. 
+<unitdate calendar="gregorian" era="ce">Oct. 1962.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.133">
+        <did>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder">4</container>
+          <unittitle>HAY and RULIFSON. SRI. "MOL940: Preliminary specification for an algol-like machine-oriented language for the SDS 940." Interim technical report 2. Prepared for NASA, Langley Research Center. Contract NAS1-5904. 
+<unitdate calendar="gregorian" era="ce">March, 1968.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.134">
+        <did>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder">5</container>
+          <unittitle>DCE. SRI. "Human intellect augmentation techniques." Final report. Prepared for NASA, Langley Research Center. Contract NAS1-5904. 
+<unitdate calendar="gregorian" era="ce">July, 1968.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.135">
+        <did>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder">5</container>
+          <unittitle>BELLEVILLE, Robert Louis. "Portfolio." 
+<unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.136">
+        <did>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder">6</container>
+          <unittitle>DCE and ARC staff. SRI. "Computer-augmented management-system research and development of augmentation facility." ARPA Order No. 0967. 
+<unitdate calendar="gregorian" era="ce">April 1970.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.137">
+        <did>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">1</container>
+          <unittitle>"Resource Sharing, the ARPANET's goal." First draft. 
+<unitdate calendar="gregorian" era="ce">Sept. 25, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.138">
+        <did>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">1</container>
+          <unittitle>"Resource Sharing, the ARPANET's goal." Second draft. 
+<unitdate calendar="gregorian" era="ce">Oct. 24, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.139">
+        <did>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">1</container>
+          <unittitle>Computer program. 
+<unitdate calendar="gregorian" era="ce">Oct. 16, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.140">
+        <did>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">1</container>
+          <unittitle>Computer program. 
+<unitdate calendar="gregorian" era="ce">Oct. 20, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.141">
+        <did>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">2</container>
+          <unittitle>RETZ, David L. "Overview of the ELF operating system." 
+<unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.142">
+        <did>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>Computer program. 
+<unitdate calendar="gregorian" era="ce">June 2, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.143">
+        <did>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>Computer program. 
+<unitdate calendar="gregorian" era="ce">Nov. 6, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.144">
+        <did>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>"Summary of thoughts on the HELP system." 
+<unitdate calendar="gregorian" era="ce">Oct. 29, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.145">
+        <did>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>EKM. "Description of Form System proposal." 
+<unitdate calendar="gregorian" era="ce">May 24, 1974.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.146">
+        <did>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">4</container>
+          <unittitle>Meeting notes. 
+<unitdate calendar="gregorian" era="ce">Sept. 25, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.147">
+        <did>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">4</container>
+          <unittitle>"National Software Works Developments." Quarterly report. 
+<unitdate calendar="gregorian" era="ce">Sept. 16, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.148">
+        <did>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">4</container>
+          <unittitle>Computer program: procedures to perform externally callable display functions in the NSW frontend, definition of display data structure. 
+<unitdate calendar="gregorian" era="ce">Sept. 18, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.149">
+        <did>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">4</container>
+          <unittitle>Computer program. PCPB8 - Data structure encoding." 
+<unitdate calendar="gregorian" era="ce">Sept. 8, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.150">
+        <did>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">5</container>
+          <unittitle>Notes on PCPB8 data structures... 
+<unitdate calendar="gregorian" era="ce">Sept. 17, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.151">
+        <did>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">5</container>
+          <unittitle>"New CML features for NSW." Journal doc. # 25056. 
+<unitdate calendar="gregorian" era="ce">Jan. 10, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.152">
+        <did>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">5</container>
+          <unittitle>Operating System Module (OSM). Journal doc. #26458. 
+<unitdate calendar="gregorian" era="ce">Sept. 16, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.153">
+        <did>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">5</container>
+          <unittitle>"Frontend status as of 9-Jun-75." 
+<unitdate calendar="gregorian" era="ce">June 9, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.154">
+        <did>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">5</container>
+          <unittitle>RWW. "Standard NSW frontend control functions." Journal doc. #25495. 
+<unitdate calendar="gregorian" era="ce">May 9, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.155">
+        <did>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">5</container>
+          <unittitle>Rome Air Development Center, Grifiss Air Force Base, New York. "Statement of work for NSW frontend, protocols and tools. PR B-5-3324." June 12, 1975.Massachusetts Computer Associates, Inc. "National Software Works: Technical proposal, Proposal Number P - 7014." 
+<unitdate calendar="gregorian" era="ce">Apr. 30, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.156">
+        <did>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">6</container>
+          <unittitle>DPS Processes. Journal doc. # 26282.
+<unitdate calendar="gregorian" era="ce">Sept. 8, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.157">
+        <did>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">6</container>
+          <unittitle>Description of internal structure of DPS process on Tenex. Journal doc. #26170. 
+<unitdate calendar="gregorian" era="ce">July 23, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.158">
+        <did>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">6</container>
+          <unittitle>Conventions used by CLI when interacting via MSG. 
+<unitdate calendar="gregorian" era="ce">Sept. 8, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.159">
+        <did>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">6</container>
+          <unittitle>"Network UNIX." NWG/RFC #681, NIC #32157, 
+<unitdate calendar="gregorian" era="ce">May 14, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.160">
+        <did>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">6</container>
+          <unittitle>RWW. "Estimate of PDP 11 Core Usage and issues it raises." 
+<unitdate calendar="gregorian" era="ce">July 8, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.161">
+        <did>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">6</container>
+          <unittitle>Breakdown of the address space used by the CLI on the PDP-10. Journal doc. #26144. 
+<unitdate calendar="gregorian" era="ce">Aug. 5, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.162">
+        <did>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">6</container>
+          <unittitle>Discussion about HOST name recognition. Journal doc. #32806. 
+<unitdate calendar="gregorian" era="ce">June 30, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.163">
+        <did>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">7</container>
+          <unittitle>Discussion about annotation. Journal doc. #32840. 
+<unitdate calendar="gregorian" era="ce">June 30, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.164">
+        <did>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">7</container>
+          <unittitle>Description of use of NSW. 
+<unitdate calendar="gregorian" era="ce">June 30, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.165">
+        <did>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">7</container>
+          <unittitle>"Notes about running standalone L10 programs. 
+<unitdate calendar="gregorian" era="ce">Apr. 17, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.166">
+        <did>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">8</container>
+          <unittitle>Computer program. 
+<unitdate calendar="gregorian" era="ce">Nov. 3, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.167">
+        <did>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">8</container>
+          <unittitle>Computer program. 
+<unitdate calendar="gregorian" era="ce">Oct. 20, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.168">
+        <did>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">1</container>
+          <unittitle>DCE. "Summary list of unique developments and contributions by ARC." 
+<unitdate calendar="gregorian" era="ce">Oct. 9, 1972.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.169">
+        <did>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">1</container>
+          <unittitle>RIDDLE, Liz. AFDSC. "Comparative study of editing and runoff systems." 
+<unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.170">
+        <did>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">1</container>
+          <unittitle>"ICC Special Project on Networking." Conference program. 
+<unitdate calendar="gregorian" era="ce">Oct. 1972.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.171">
+        <did>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">1</container>
+          <unittitle>RITHCIE and THOMPSON. Bell Labs. "UNIX time-sharing system." 
+<unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.172">
+        <did>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">1</container>
+          <unittitle>USC/ISI. "Video Display requirements." 
+<unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.173">
+        <did>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">1</container>
+          <unittitle>WHP. "MPS segmentation system overview." 
+<unitdate calendar="gregorian" era="ce">Feb. 4, 1972.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.174">
+        <did>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">2</container>
+          <unittitle>BALTZER, Robert. "Software production facility." Re. phone discussion with DCE. 
+<unitdate calendar="gregorian" era="ce">June 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.175">
+        <did>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">2</container>
+          <unittitle>Notes on transfer of control between MPS modules. 
+<unitdate calendar="gregorian" era="ce">July 18, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.176">
+        <did>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">2</container>
+          <unittitle>Network Graphics Group. "Proposed network graphics protocol." 
+<unitdate calendar="gregorian" era="ce">Aug. 28, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.177">
+        <did>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">2</container>
+          <unittitle>BWL. "MPS." 
+<unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.178">
+        <did>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">2</container>
+          <unittitle>Network Graphics Group. "Proposed network graphics protocol." ARPA NIC, SRI. NIC #19933. Note #5. 
+<unitdate calendar="gregorian" era="ce">Oct. 10, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.179">
+        <did>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>Computer program. "MPS Free Storage Package." 
+<unitdate calendar="gregorian" era="ce">Mar. 27, 1974.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.180">
+        <did>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>"Towards the design of an information management system." Journal doc. #17394. 
+<unitdate calendar="gregorian" era="ce">June, 21,1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.181">
+        <did>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>JEW. Journal doc. 
+<unitdate calendar="gregorian" era="ce">July, 30,1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.182">
+        <did>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>POPEK and KLINE. UCLA Computer Science Dept. "Veritable Secure Operating System Software." Published in AFIPS conference proceedings, Vol. 43, 
+<unitdate calendar="gregorian" era="ce">1974.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.183">
+        <did>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>LPD. "WYLBUR and TENEX from another viewpoint." Journal doc. #9919. 
+<unitdate calendar="gregorian" era="ce">Apr. 20, 1972.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.184">
+        <did>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>VALLEE, Jacques. "Preliminary proposal for NLS directory editor." 
+<unitdate calendar="gregorian" era="ce">Apr. 20, 1972.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.185">
+        <did>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>"Proposed NLS code format and documentation standards." 
+<unitdate calendar="gregorian" era="ce">Apr. 13, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.186">
+        <did>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>WHP. Evolving design to allow command backup in NLS. 
+<unitdate calendar="gregorian" era="ce">Feb. 22, 1972.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.187">
+        <did>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">4</container>
+          <unittitle>Computer program. 
+<unitdate calendar="gregorian" era="ce">Nov. 12, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.188">
+        <did>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">4</container>
+          <unittitle>Computer program. 
+<unitdate calendar="gregorian" era="ce">Nov. 12, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.189">
+        <did>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">5</container>
+          <unittitle>Computer program. 
+<unitdate calendar="gregorian" era="ce">Nov. 12, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.190">
+        <did>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">5</container>
+          <unittitle>Computer program. 
+<unitdate calendar="gregorian" era="ce">Nov. 12, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.191">
+        <did>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">5</container>
+          <unittitle>Computer program. 
+<unitdate calendar="gregorian" era="ce">Nov. 12, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.192">
+        <did>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">5</container>
+          <unittitle>Computer program. 
+<unitdate calendar="gregorian" era="ce">Nov. 12, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.193">
+        <did>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">5</container>
+          <unittitle>DCE. Notes on back-delete operations. 
+<unitdate calendar="gregorian" era="ce">Aug. 28, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.194">
+        <did>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">5</container>
+          <unittitle>ALLEN, ASHCROFT, and FLORENTIN. "Inferences from formal language definitions." 
+<unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.195">
+        <did>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">5</container>
+          <unittitle>BURGE. IBM. "Functions for Parsing." 
+<unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.196">
+        <did>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">6</container>
+          <unittitle>LEE. "Vienna definition language: a generalization of instruction definitions." Prepared for the SIGPLAN Symposium on Programming Language Definition." 
+<unitdate calendar="gregorian" era="ce">Apr. 1969.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.197">
+        <did>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">6</container>
+          <unittitle>WEGNER. "Notes for a lecture on 'Theories of Semantics." Symposium on Programming Languages Definition, San Francisco, 
+<unitdate calendar="gregorian" era="ce">August, 1969.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.198">
+        <did>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">7</container>
+          <unittitle>BEALS, LaFRANCE, NORTHCOTE. "Automatic generation of Floyd Production Production Syntactic Analyzers." 
+<unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.199">
+        <did>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">7</container>
+          <unittitle>SCHNEIDER. "Some syntactic methods for specifying extendible programming languages."</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.200">
+        <did>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">7</container>
+          <unittitle>McGOWEN. "On the euivalence of mechanical evaluation strategies." 
+<unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.201">
+        <did>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">8</container>
+          <unittitle>PRATT. "Semantic modeling by hierarchical graphs." 
+<unitdate calendar="gregorian" era="ce">July 1969.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.202">
+        <did>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">8</container>
+          <unittitle>NIEVERGELT and IRLAND. "NUCLEOL as a formal system."</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.203">
+        <did>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">8</container>
+          <unittitle>WHITNEY and MOOERS. "Formal definition of the scan algorith of the TRAC T-64 language." 
+<unitdate calendar="gregorian" era="ce">July 1969.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.204">
+        <did>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">8</container>
+          <unittitle>"Interdata Model 7/32 Processor." Product Bulletin. 
+<unitdate calendar="gregorian" era="ce">1974.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.205">
+        <did>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">8</container>
+          <unittitle>PINE and SCHWEPPE. "Fortran language anticipation and prompting system." Reprinted with permission from the Proceedings ACM73 Annual Conference. 
+<unitdate calendar="gregorian" era="ce">August 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.206">
+        <did>
+          <container label="Box" type="Box">6</container>
+          <container label="Folder" type="Folder">1</container>
+          <unittitle>"MPS free storage package." 
+<unitdate calendar="gregorian" era="ce">Jan. 2, 1974.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.207">
+        <did>
+          <container label="Box" type="Box">6</container>
+          <container label="Folder" type="Folder">1</container>
+          <unittitle>"A Look at the MPS conversion." Revised edition of paper 14928. 
+<unitdate calendar="gregorian" era="ce">Mar. 22, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.208">
+        <did>
+          <container label="Box" type="Box">6</container>
+          <container label="Folder" type="Folder">1</container>
+          <unittitle>JGM. Xerox-PARC/SRI. "MPS Language reference manual. MPS 11.0." 
+<unitdate calendar="gregorian" era="ce">Sept. 4, 1972.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.209">
+        <did>
+          <container label="Box" type="Box">6</container>
+          <container label="Folder" type="Folder">2</container>
+          <unittitle>JGM and Satterthwaite. Xerox-PARC/SRI. "Debugger meetings and specifications." 
+<unitdate calendar="gregorian" era="ce">Sept. 4, 1972.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.210">
+        <did>
+          <container label="Box" type="Box">6</container>
+          <container label="Folder" type="Folder">2</container>
+          <unittitle>"MPS segmentation machinery." 
+<unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.211">
+        <did>
+          <container label="Box" type="Box">6</container>
+          <container label="Folder" type="Folder">2</container>
+          <unittitle>MPS debugger documentation. 
+<unitdate calendar="gregorian" era="ce">Feb. 25, 1974.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.212">
+        <did>
+          <container label="Box" type="Box">6</container>
+          <container label="Folder" type="Folder">2</container>
+          <unittitle>Suggestion for organization of NLS software people. 
+<unitdate calendar="gregorian" era="ce">Dec. 29, 1971.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.213">
+        <did>
+          <container label="Box" type="Box">6</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>MADER. "Network debugging protocol." RFC #643. 
+<unitdate calendar="gregorian" era="ce">July 1974.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.214">
+        <did>
+          <container label="Box" type="Box">6</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>CML documentation. 
+<unitdate calendar="gregorian" era="ce">Nov. 21, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.215">
+        <did>
+          <container label="Box" type="Box">6</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>"Modular Programming Language (MPL)." 
+<unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.216">
+        <did>
+          <container label="Box" type="Box">6</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>Computer program: procedures to perform externally callable display functions in the NSW frontend, definition of display data structure. 
+<unitdate calendar="gregorian" era="ce">Sept. 18, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.217">
+        <did>
+          <container label="Box" type="Box">6</container>
+          <container label="Folder" type="Folder">4</container>
+          <unittitle>DCE. SRI-ARC. "Design considerations for knowledge workshop terminals." ARC journal #14851. Paper submitted for National Computer Conference, NY, June 1973. 
+<unitdate calendar="gregorian" era="ce">Mar. 14, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.218">
+        <did>
+          <container label="Box" type="Box">6</container>
+          <container label="Folder" type="Folder">4</container>
+          <unittitle>DCE. "Coordinated information services for a discipline or mission-oriented community." Computer Communications Conference, Jan. 24, 1973. 
+<unitdate calendar="gregorian" era="ce">Dec. 12,1972.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.219">
+        <did>
+          <container label="Box" type="Box">6</container>
+          <container label="Folder" type="Folder">4</container>
+          <unittitle>RAPHAEL. SRI. "Symbol manipulation by digital computer." Prepared for Encyclopedia of Linguistics, Information, and Control. 
+<unitdate calendar="gregorian" era="ce">Apr.1966.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.220">
+        <did>
+          <container label="Box" type="Box">6</container>
+          <container label="Folder" type="Folder">4</container>
+          <unittitle>RAPHAEL. SRI. "Aspects and applications of symbol manipulation." Proceedings. A.C.M National Meeting, 
+<unitdate calendar="gregorian" era="ce">1966.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.221">
+        <did>
+          <container label="Box" type="Box">6</container>
+          <container label="Folder" type="Folder">5</container>
+          <unittitle>SRI-ARC. "NLS-8 Glossary. 
+<unitdate calendar="gregorian" era="ce">July 16, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.222">
+        <did>
+          <container label="Box" type="Box">6</container>
+          <container label="Folder" type="Folder">6</container>
+          <unittitle>WHITE. SRI-ARC. "Procedure call protocol, version two." 
+<unitdate calendar="gregorian" era="ce">Nov. 22, 1974.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.223">
+        <did>
+          <container label="Box" type="Box">6</container>
+          <container label="Folder" type="Folder">6</container>
+          <unittitle>SRI-ARC. "Output processor user's guide." ARC 32812. 
+<unitdate calendar="gregorian" era="ce">July 28, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.224">
+        <did>
+          <container label="Box" type="Box">6</container>
+          <container label="Folder" type="Folder">7</container>
+          <unittitle>SRI-ARC. "Format library." SRI ARC 25764. 
+<unitdate calendar="gregorian" era="ce">Mar. 6, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.225">
+        <did>
+          <container label="Box" type="Box">6</container>
+          <container label="Folder" type="Folder">7</container>
+          <unittitle>POSTEL. SRI-ARC. "National Software Works Protocols, version 2." 
+<unitdate calendar="gregorian" era="ce">Jan. 1, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.226">
+        <did>
+          <container label="Box" type="Box">6</container>
+          <container label="Folder" type="Folder">7</container>
+          <unittitle>Window user interface documentation. 
+<unitdate calendar="gregorian" era="ce">Jan. 28, 1976.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.227">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">1</container>
+          <unittitle>RWW. "Comments on strategies to support an integrated SPF."
+<unitdate calendar="gregorian" era="ce">July 25, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.228">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">1</container>
+          <unittitle>DCE. Note of interest in collaboration. 
+<unitdate calendar="gregorian" era="ce">June 21, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.229">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">1</container>
+          <unittitle>DCE, RWW, Norton. SRI. "The Augmented knowledge workshop." National Computer Conference, 1973. Journal doc. #14724.</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.230">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">1</container>
+          <unittitle>DCE. "SRI-ARC summary for IPT contractor-meeting." Jan. 11, 1974. Journal doc.#13537.</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.231">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">1</container>
+          <unittitle>Appendix E: Software-engineering augmentation system, from "SRI proposal for research ISU 71-94. 
+<unitdate calendar="gregorian" era="ce">Oct. 18, 1971.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.232">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">2</container>
+          <unittitle>"A Look at the MPS conversion." 
+<unitdate calendar="gregorian" era="ce">Mar. 22, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.233">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">2</container>
+          <unittitle>"Online team environment." SRI-ARC plans. 
+<unitdate calendar="gregorian" era="ce">June 8, 1972.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.234">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">2</container>
+          <unittitle>Announcement for meeting about short-term military use of software.</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.235">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">2</container>
+          <unittitle>"Software production facility conference." Conference notes. 
+<unitdate calendar="gregorian" era="ce">July 25, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.236">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">2</container>
+          <unittitle>Meeting notes for FORUM conference for the Software Production Facility group.</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.237">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">2</container>
+          <unittitle>Network Graphics Group folder:</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.238">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>PADLIPSKY. "Graphics meeting report." NWG/RFC #282, NIC #8164. 
+<unitdate calendar="gregorian" era="ce">Dec. 8, 1971.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.239">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>JGM, COTTON, KELLEY, LIDDLE, MEYER. "Graphics protocol." 
+<unitdate calendar="gregorian" era="ce">Jan. 15, 1972.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.240">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>Letter to JGM, PADLISPSKY from E. Harslam, RAND Corp., re. graphics programs over network.</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.241">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>COTTON. "Network graphic attention-handling." 
+<unitdate calendar="gregorian" era="ce">Apr. 5, 1972.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.242">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">4</container>
+          <unittitle>LPD. Xerox-PARC. "DEC PDP-10 -- IMLAC communcation system." RFC #190, NIC #7135, 
+<unitdate calendar="gregorian" era="ce">July 13, 1971.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.243">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">4</container>
+          <unittitle>PELTAN. Mit-Project MAC. "Hardware status of the MIT MAC - DM/CG/CN IMLAC displays." 
+<unitdate calendar="gregorian" era="ce">Aug. 16, 1971.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.244">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">4</container>
+          <unittitle>MOORER. "DPY - a device independent graphics package." SU-AI. Operating note No. 63. 
+<unitdate calendar="gregorian" era="ce">Nov. 12, 1970.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.245">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">4</container>
+          <unittitle>BAUMGART. "GEOMED - a geometric editor."</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.246">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">4</container>
+          <unittitle>Memo re. "graphics hardware, software, and representations currently in use at SU-AI..." 
+<unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.247">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">4</container>
+          <unittitle>JGM. "Muddle graphics." 
+<unitdate calendar="gregorian" era="ce">June 1971.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.248">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">5</container>
+          <unittitle>Network graphics meeting. Schedule of events.</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.249">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">5</container>
+          <unittitle>CROCKER. "Proposal for a network standard format for a data stream to control graphics display." NWG/RFC #86, NIC 5631, 
+<unitdate calendar="gregorian" era="ce">Jan. 5, 1971.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.250">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">5</container>
+          <unittitle>METCALFF. "Some historic moments in networking." NWG/RFC #89, NIC 5697. 
+<unitdate calendar="gregorian" era="ce">Jan. 19, 1971.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.251">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">5</container>
+          <unittitle>HARSLAM amd HEAFNER. "Some thoughts on network graphics." NWG/RFC #94, NIC 5725, 
+<unitdate calendar="gregorian" era="ce">Feb. 3, 1971.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.252">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">5</container>
+          <unittitle>McCONNELL. "Response to RFC #86, Proposal for network standard format for a graphics data stream." NWG/RFC #125, NIC #5841, 
+<unitdate calendar="gregorian" era="ce">Apr. 18, 1971.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.253">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">5</container>
+          <unittitle>McCONNELL. NWG/RFC #126, NIC #5842. 
+<unitdate calendar="gregorian" era="ce">Apr. 18,1971.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.254">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">5</container>
+          <unittitle>POSTEL and CERF. "UCLA-Computer science graphics overview." NWG/RFC #174, NIC #6799, 
+<unitdate calendar="gregorian" era="ce">June 8, 1971.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.255">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">5</container>
+          <unittitle>McCONNELL. "Device independent graphic display description." NWG/RFC #177, NIC #7102, 
+<unitdate calendar="gregorian" era="ce">June 15, 1971.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.256">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">5</container>
+          <unittitle>McCONNELL. "Modifications to RFC #177." NWG/RFC #181, NIC #7124, 
+<unitdate calendar="gregorian" era="ce">June 27, 1971.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.257">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">6</container>
+          <unittitle>KELLEY. Univ. of Illinois. "Proposed graphic display modes." NWG/RFC #184, NIC #7128, 
+<unitdate calendar="gregorian" era="ce">July 6, 1971.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.258">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">6</container>
+          <unittitle>MICHENER. "A Network graphics leader." NWG/RFC #186, NIC 7130, 
+<unitdate calendar="gregorian" era="ce">July 12, 1971.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.259">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">6</container>
+          <unittitle>"Graphics implementation and conceptualization at ARC." RFC #191, NIC #7136, 
+<unitdate calendar="gregorian" era="ce">July 13, 1971.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.260">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">6</container>
+          <unittitle>RWW. "Some factors which a Network Graphics Protocol must consider." NWG/RFC #192, NIC #7137. 
+<unitdate calendar="gregorian" era="ce">July 12, 1971.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.261">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">6</container>
+          <unittitle>"Video graphic hardware configuation."</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.262">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">7</container>
+          <unittitle>VEZZA. "Network graphics meeting." NWG/RFC #134, NIC #6711, 
+<unitdate calendar="gregorian" era="ce">Apr. 29, 1971.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.263">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">7</container>
+          <unittitle>MEYER. "Graphics on multics." 
+<unitdate calendar="gregorian" era="ce">July 12, 1971.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.264">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">7</container>
+          <unittitle>VEZZA. MIT Project MAC. Bibliography for the Network Graphics Meeting. 
+<unitdate calendar="gregorian" era="ce">July 12, 1971.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.265">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">7</container>
+          <unittitle>MICHENER. "Network graphics leader." NWG/RFC #186, 
+<unitdate calendar="gregorian" era="ce">July 12, 1971.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.266">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">8</container>
+          <unittitle>
+            <unitdate calendar="gregorian" era="ce">ANDREWS, LEHTMAN, and WHP. "Tree Meta -- a metacompiler for the Augmentation Research Center." Preliminary draft.</unitdate>
+          </unittitle>
+          <physdesc>25 March, 1971.</physdesc>
+        </did>
+        <scopecontent>
+          <p/>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.8.5.267">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">8</container>
+          <unittitle>WHP. "L|0, a programming language for the Augmentation Research Center." 
+<unitdate calendar="gregorian" era="ce">May 29, 1971.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.268">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">9</container>
+          <unittitle>"Terminal System Character Generators." 
+<unitdate calendar="gregorian" era="ce">May 19, 1972.</unitdate></unittitle>
+          <physdesc>(2 copies)</physdesc>
+        </did>
+        <scopecontent>
+          <p/>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.8.5.269">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">9</container>
+          <unittitle>FAIRBAIRN. "Terminal system/character generator interfaces." Inter-office memo, Xerox-PARC. 
+<unitdate calendar="gregorian" era="ce">April 4, 1972.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.270">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">9</container>
+          <unittitle>"Experimental character generator." 
+<unitdate calendar="gregorian" era="ce">c1971.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.271">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">10</container>
+          <unittitle>McCRACKEN. "Revolution in an overview." Datamation, vol. 19, no. 12 (Dec. 1973). p. 50-52.</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.272">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">10</container>
+          <unittitle>DONALDSON. "Structured progamming." Datamation, vol. 19, no. 12 (Dec. 1973). p. 52-54.</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.273">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">10</container>
+          <unittitle>MILLER and LINDAMOOD. "Structured programming: top-down approach." Datamation, vol. 19, no. 12 (Dec. 1973). p. 55-59.</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.274">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">10</container>
+          <unittitle>Report on form systems. 
+<unitdate calendar="gregorian" era="ce">Dec. 29, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.275">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">10</container>
+          <unittitle>BWL, JGM, and Satterthwaite. "Abstract for 'On the transfer of control between context.'" 
+<unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.276">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">10</container>
+          <unittitle>"Notes about running standalone L|0 programs." 
+<unitdate calendar="gregorian" era="ce">Oct. 11, 1972.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.277">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">10</container>
+          <unittitle>"CML final report." 
+<unitdate calendar="gregorian" era="ce">Feb. 25, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.278">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">10</container>
+          <unittitle>"TENEX NCP Finite state machine for connections." TENEX memo no. 155. RFC #689, NIC #32656, 
+<unitdate calendar="gregorian" era="ce">May 23, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.279">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">10</container>
+          <unittitle>CLARK. "Linguistic contribution to GOTO-less programming." Datamation, vol. 19, no. 12 (Dec. 1973). p. 62-3.</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.280">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">10</container>
+          <unittitle>WILBUR. "POST - Mail subsystem."
+<unitdate calendar="gregorian" era="ce">Dec. 29, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.281">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">11</container>
+          <unittitle>"TENEX user's guide, TENEX TECO." Jan. 1963. p. 167-176.</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.282">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">11</container>
+          <unittitle>"Appendix C" to unknown document. p. C - 1-9.</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.283">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">11</container>
+          <unittitle>"ISI Video terminal system software porposal." Draft.</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.284">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">11</container>
+          <unittitle>Report re. ARC's envisioned changes and extensions to NLS. 
+<unitdate calendar="gregorian" era="ce">July 25, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.285">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">11</container>
+          <unittitle>STROLLO. "TENEX calendar system." 
+<unitdate calendar="gregorian" era="ce">Mar. 14, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.286">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">11</container>
+          <unittitle>"Preliminary design of new NLS file system..." 
+<unitdate calendar="gregorian" era="ce">Dec. 29, 1971.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.287">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">12</container>
+          <unittitle>"Preliminary design of new NLS file system which allows backlinks, comments, archiving, and serves as a base for implementing sets." 
+<unitdate calendar="gregorian" era="ce">Jan. 20, 1972.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.288">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">12</container>
+          <unittitle>"Statement property lists." An approach to provide a property list data structure with each statement in an NLS file. 
+<unitdate calendar="gregorian" era="ce">June 1, 1971.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.289">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">12</container>
+          <unittitle>WHP. "Basic file system." 
+<unitdate calendar="gregorian" era="ce">Mar. 2, 1972.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.290">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">12</container>
+          <unittitle>"Some basic concepts in software support of graphics consoles in a timesharing system." 
+<unitdate calendar="gregorian" era="ce">May 13, 1971.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.291">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">12</container>
+          <unittitle>DUVALL. "VTS font handling." 
+<unitdate calendar="gregorian" era="ce">Mar. 13, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.292">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">13</container>
+          <unittitle>DUVALL. "Design notes for the Video Terminal System: input/output servicing." 
+<unitdate calendar="gregorian" era="ce">June 26, 1972.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.293">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">13</container>
+          <unittitle>LPD and BWL. "Input protocol." Inter-office memo, XeroxPARC, 
+<unitdate calendar="gregorian" era="ce">July 5, 1972.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.294">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">13</container>
+          <unittitle>DUVALL. "Design notes for the Video Terminal System: processes, process communication, and scheduling." 
+<unitdate calendar="gregorian" era="ce">July 4, 1972.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.295">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">13</container>
+          <unittitle>LPD and BWL. "Design notes for video terminal display (VTS) display software." Inter-office memo, Xerox-PARC, 
+<unitdate calendar="gregorian" era="ce">May 25, 1972.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.296">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">13</container>
+          <unittitle>DUVALL. Memo describing the user characteristics of the VTS. 
+<unitdate calendar="gregorian" era="ce">June 19, 1972.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.297">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">13</container>
+          <unittitle>DUVALL. "Design notes for the Video Terminal System: memory allocation." 
+<unitdate calendar="gregorian" era="ce">July 2, 1972.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.298">
+        <did>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">13</container>
+          <unittitle>DUVALL. "VTS display primitives." 
+<unitdate calendar="gregorian" era="ce">Mar. 13, 1973.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.299">
+        <did>
+          <container label="Box" type="Box">8</container>
+          <container label="Folder" type="Folder">1</container>
+          <unittitle>SRI Intercom. no. 251 
+<unitdate calendar="gregorian" era="ce">(Apr. 11, 1975).</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.300">
+        <did>
+          <container label="Box" type="Box">8</container>
+          <container label="Folder" type="Folder">1</container>
+          <unittitle>"Proposed specification of Inter-site message protocol." 
+<unitdate calendar="gregorian" era="ce">July 8, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.301">
+        <did>
+          <container label="Box" type="Box">8</container>
+          <container label="Folder" type="Folder">1</container>
+          <unittitle>"Network Information Center and computer-augmented team interaction." SRI-ARC. RADC-TR-71-175, 
+<unitdate calendar="gregorian" era="ce">June 1971.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.302">
+        <did>
+          <container label="Box" type="Box">8</container>
+          <container label="Folder" type="Folder">2</container>
+          <unittitle>POSTEL. "New protocols." Version 2. SRI-ARC. 
+<unitdate calendar="gregorian" era="ce">Nov. 22, 1974.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.303">
+        <did>
+          <container label="Box" type="Box">8</container>
+          <container label="Folder" type="Folder">2</container>
+          <unittitle>"Thinking man's computer may revolutionize job habits." SRI Reprints of selected news items. no. 10-1972.</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.304">
+        <did>
+          <container label="Box" type="Box">8</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>ANDREWS, CHI, POGGOI, RWW. SRI-ARC. "User interface system for a computer network marketplace." 
+<unitdate calendar="gregorian" era="ce">Nov. 15, 1976.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.305">
+        <did>
+          <container label="Box" type="Box">8</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>ANDREWS, GARLICK, POGGIO. SRI-ARC. "Frontend system documentation." 
+<unitdate calendar="gregorian" era="ce">Jan. 5, 1977.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.306">
+        <did>
+          <container label="Box" type="Box">8</container>
+          <container label="Folder" type="Folder">4</container>
+          <unittitle>ANDREWS, BOLI, POGGIO." SRI-ARC. "Guide to the command meta language and the command language interpreter." 
+<unitdate calendar="gregorian" era="ce">Jan. 5, 1977.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.307">
+        <did>
+          <container label="Box" type="Box">8</container>
+          <container label="Folder" type="Folder">5</container>
+          <unittitle>ANDREWS, BOLI, POGGIO. SRI-ARC. "Introduction to the frontend." 
+<unitdate calendar="gregorian" era="ce">Jan. 5, 1977.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.308">
+        <did>
+          <container label="Box" type="Box">8</container>
+          <container label="Folder" type="Folder">5</container>
+          <unittitle>"User interface system for a computer network marketplace." 
+<unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.309">
+        <did>
+          <container label="Box" type="Box">8</container>
+          <container label="Folder" type="Folder">5</container>
+          <unittitle>CHI, CFD, KEV. "Command meta language for NLS." 
+<unitdate calendar="gregorian" era="ce">June 28, 1974.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.310">
+        <did>
+          <container label="Box" type="Box">8</container>
+          <container label="Folder" type="Folder">5</container>
+          <unittitle>CHI. SRI-ARC. "Command Language System."</unittitle>
+          <physdesc>(8 copies)</physdesc>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.311">
+        <did>
+          <container label="Box" type="Box">8</container>
+          <container label="Folder" type="Folder">5</container>
+          <unittitle>CHI. Computer program. 
+<unitdate calendar="gregorian" era="ce">July 21, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.312">
+        <did>
+          <container label="Box" type="Box">8</container>
+          <container label="Folder" type="Folder">5</container>
+          <unittitle>Black binder marked "TENEX"</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.313">
+        <did>
+          <container label="Box" type="Box">8</container>
+          <container label="Folder" type="Folder">5</container>
+          <unittitle>BBN. "TENEX JSYS Manual." NIC #19031. 
+<unitdate calendar="gregorian" era="ce">Sept. 1, 1973 (revision).</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.314">
+        <did>
+          <container label="Box" type="Box">8</container>
+          <container label="Folder" type="Folder">5</container>
+          <unittitle>"JSYS 400, Section 9." Downloaded 
+<unitdate calendar="gregorian" era="ce">May 1974.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.315">
+        <did>
+          <container label="Box" type="Box">9</container>
+          <container label="Folder" type="Folder">1</container>
+          <unittitle>Digital Equipment Corporation. "PDP10 reference handbook." 
+<unitdate calendar="gregorian" era="ce">1970.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.316">
+        <did>
+          <container label="Box" type="Box">9</container>
+          <container label="Folder" type="Folder">2</container>
+          <unittitle>SRI-NIC. "ARPANET protocol handbook." Prepared for Defense Communications Agency. NIC 7104. Rev. 1, 
+<unitdate calendar="gregorian" era="ce">Apr. 1976.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.317">
+        <did>
+          <container label="Box" type="Box">9</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>Message Committee. Interim report. 
+<unitdate calendar="gregorian" era="ce">Jan. 30, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.318">
+        <did>
+          <container label="Box" type="Box">9</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>"Command Meta Language." 
+<unitdate calendar="gregorian" era="ce">Oct. 24, 1974.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.319">
+        <did>
+          <container label="Box" type="Box">9</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>"Display techniques for interactive text manipulation." National Computer Conference, 
+<unitdate calendar="gregorian" era="ce">1974.</unitdate></unittitle>
+          <physdesc>(2 copies)</physdesc>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.320">
+        <did>
+          <container label="Box" type="Box">9</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>ANDREWS. "Line processor - a device for amplification of display terminal capabilities fpr text manipulation." National Computer Conference, 
+<unitdate calendar="gregorian" era="ce">1974.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.321">
+        <did>
+          <container label="Box" type="Box">9</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>TNLS-8 Quick Reference. SRI-ARC. 
+<unitdate calendar="gregorian" era="ce">Sept. 1, 1974.</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.322">
+        <did>
+          <container label="Box" type="Box">9</container>
+          <container label="Folder" type="Folder">4</container>
+          <unittitle>Items re. submission of the paper "Command Meta Language System" for 1976 National Computer Conference.</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.323">
+        <did>
+          <container label="Box" type="Box">9</container>
+          <container label="Folder" type="Folder">5-8</container>
+          <unittitle>Information automation project, USC/ISI."Military Message Processing System Design." 
+<unitdate calendar="gregorian" era="ce">Jan. 10, 1975.</unitdate></unittitle>
+        </did>
+      </c01>
+    </dsc>
+    <odd id="odd-1.8.6" type="add">
+      <head>Acronyms and Names</head>
+      <list type="deflist">
+        <head>Acronyms</head>
+        <defitem>
+          <label>ARC</label>
+          <item>Augmentation Research Center at SRI</item>
+        </defitem>
+        <defitem>
+          <label>ARPA</label>
+          <item>Advanced Research Projects Agency</item>
+        </defitem>
+        <defitem>
+          <label>BBN</label>
+          <item>Bolt, Beranek and Newman</item>
+        </defitem>
+        <defitem>
+          <label>CML</label>
+          <item>Control Meta Language</item>
+        </defitem>
+        <defitem>
+          <label>DPS</label>
+          <item>Distributed Programming System</item>
+        </defitem>
+        <defitem>
+          <label>MPS</label>
+          <item>Modular Programming System</item>
+        </defitem>
+        <defitem>
+          <label>NIC</label>
+          <item>Network Information Center at SRI</item>
+        </defitem>
+        <defitem>
+          <label>NSW</label>
+          <item>National Software Works</item>
+        </defitem>
+        <defitem>
+          <label>NWG</label>
+          <item>Network Working Group</item>
+        </defitem>
+        <defitem>
+          <label>OSM</label>
+          <item>Operating System Module</item>
+        </defitem>
+        <defitem>
+          <label>SRI</label>
+          <item>Stanford Research Institute</item>
+        </defitem>
+        <defitem>
+          <label>USC-ISI</label>
+          <item>University of Southern California - Information Sciences Institute</item>
+        </defitem>
+      </list>
+      <list type="deflist">
+        <head>Names</head>
+        <defitem>
+          <label>BWL</label>
+          <item>Butler W. Lampson</item>
+        </defitem>
+        <defitem>
+          <label>CFD</label>
+          <item>Charles F.Dornbush</item>
+        </defitem>
+        <defitem>
+          <label>CHI</label>
+          <item>Charles H. Irby</item>
+        </defitem>
+        <defitem>
+          <label>Cotton</label>
+          <item>Cotton, Ira</item>
+        </defitem>
+        <defitem>
+          <label>DCE</label>
+          <item>D. C. Engelbart</item>
+        </defitem>
+        <defitem>
+          <label>JGM</label>
+          <item>James G. Mitchell</item>
+        </defitem>
+        <defitem>
+          <label>JEW</label>
+          <item>James E. White</item>
+        </defitem>
+        <defitem>
+          <label>Kelley</label>
+          <item>Kelley, Karl</item>
+        </defitem>
+        <defitem>
+          <label>KEV</label>
+          <item>Kenneth E. Victor</item>
+        </defitem>
+        <defitem>
+          <label>Liddle</label>
+          <item>Liddle, Dave</item>
+        </defitem>
+        <defitem>
+          <label>LPD</label>
+          <item>Peter Deutsch</item>
+        </defitem>
+        <defitem>
+          <label>Michener</label>
+          <item>Michener, Jim</item>
+        </defitem>
+        <defitem>
+          <label>Meyer</label>
+          <item>Meyer, Ed</item>
+        </defitem>
+        <defitem>
+          <label>RWW</label>
+          <item>Richard W. Watson</item>
+        </defitem>
+        <defitem>
+          <label>WHP</label>
+          <item>William H. Paxton.</item>
+        </defitem>
+      </list>
+    </odd>
+  </archdesc>
+</ead>

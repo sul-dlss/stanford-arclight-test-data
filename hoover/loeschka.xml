@@ -1,0 +1,649 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  
+  
+  
+  
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" repositoryencoding="iso15511" findaidstatus="edited-full-draft" langencoding="iso639-2b"><eadid countrycode="us" identifier="ark:/13030/tf5d5nb0ns" mainagencycode="CSt-H" publicid="PUBLIC &quot;-//Stanford University::Hoover Institution Archives//TEXT&#10;(US::CSt-H::::Karl Christian Von Loesch Collection)//EN&quot; &quot;loeschka.sgm&quot;">loeschka.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Preliminary Inventory to the Karl Christian Von Loesch Collection, <date calendar="gregorian" era="ce">1918-1944</date></titleproper><titleproper type="filing">Loesch (Karl Christian von) Collection</titleproper>
+        <author>Processed by The Hoover Institution staff; machine-readable finding aid created by
+Xiuzhi Zhou</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Hoover Institution Archives</publisher>
+        <address>
+          <addressline>Stanford University</addressline>
+          <addressline>Stanford, California 94305-6010</addressline>
+          <addressline>Phone: (650) 723-3563</addressline>
+          <addressline>Fax: (650) 725-3445</addressline>
+          <addressline>Email: hooverarchives@stanford.edu</addressline>
+        </address>
+        <date calendar="gregorian" era="ce">&#xA9; 2000</date>
+        <p>Hoover Institution Archives. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc><profiledesc>
+      <creation>Machine-readable finding aid derived from MS Word.
+[Date of source: <date calendar="gregorian" era="ce">.</date>]</creation>
+      <langusage>Description is in <language langcode="eng" scriptcode="latn">English</language></langusage>
+    </profiledesc><revisiondesc>
+     <change>
+      <date calendar="gregorian" era="ce" normal="20111020">October 20, 2011</date>
+      <item>Revised to update encoding and add unitid by Elizabeth Phillips</item>
+      </change>
+      <change>
+
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//Stanford University::Hoover Institution Archives//TEXT
+(US::CSt-H::::Karl Christian Von Loesch Collection)//EN" "loeschka.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Preliminary Inventory to the Karl Christian Von Loesch Collection, <date calendar="gregorian" era="ce">1918-1944</date></titleproper>
+      <publisher>Hoover Institution Archives
+<lb/>Stanford University
+<lb/>Stanford, California</publisher>
+      <list type="simple">
+        <head>Contact Information</head>
+        <item>Hoover Institution Archives</item>
+        <item>Stanford University</item>
+        <item>Stanford, California 94305-6010</item>
+        <item>Phone: (650) 723-3563</item>
+        <item>Fax: (650) 725-3445</item>
+        <item>Email: hooverarchives@stanford.edu</item>
+      </list>
+      <list type="deflist">
+        <defitem>
+          <label>Processed by: </label>
+          <item>The Hoover Institution staff</item>
+        </defitem>
+        <defitem>
+          <label>Encoded by: </label>
+          <item>Xiuzhi Zhou</item>
+        </defitem>
+      </list>
+      <p>&#xA9; 2000 Hoover Institution Archives. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection">
+    <did id="did-1.7.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">Karl Christian Von Loesch Collection, </unittitle><unitdate calendar="gregorian" era="ce" type="inclusive" normal="1918/1944">1918-1944</unitdate>
+<unitid label="Collection number" repositorycode="CSt-H" countrycode="US">46015 </unitid>
+      <origination label="Collector">
+        <persname rules="aacr2">Loesch, Karl Christian von, 1880-</persname>
+      </origination>
+      <physdesc label="Collection Size" encodinganalog="300$a">
+	<extent>9 manuscript boxes</extent>
+	<extent>(3.6 linear feet)</extent>
+</physdesc>
+      <repository label="Repository">
+        <corpname>Hoover Institution Archives</corpname>
+        <address>
+          <addressline>Stanford, California 94305-6010</addressline>
+        </address>
+      </repository>
+      <abstract label="Abstract">Pamphlets, leaflets, newspaper issues, clippings, and writings, relating to politics and elections in Germany and Austria, the German Revolution of 1918-1919, the Kapp Putsch, the Hitler Putsch, the Nazi Party, and the independent Croatian state during World War II.</abstract>
+<physloc label="Physical Location">Hoover Institution Archives</physloc>
+      <langmaterial label="Language">
+        <language langcode="ger">German.</language>
+      </langmaterial>
+    </did>
+    <descgrp id="descgrp-1.7.2" type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict>
+        <head>Access</head>
+        <p>Collection open for research.</p>
+      </accessrestrict>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>For copyright status, please contact
+the Hoover Institution Archives.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Karl Christian Von Loesch Collection, [Box no.], Hoover Institution
+Archives.</p>
+      </prefercite>
+    </descgrp>
+    <controlaccess id="controlaccess-1.7.3">
+      <head>Access Points</head>
+      <corpname>Nationalsozialistische deutsche Arbeiter-Partei.</corpname>
+      <subject>Elections--Germany.</subject>
+      <subject>National socialism.</subject>
+      <subject>World War, 1939-1945.</subject>
+      <subject>World War, 1939-1945--Croatia.</subject>
+      <geogname>Austria.</geogname>
+      <geogname>Austria--Politics and government--1918-1938.</geogname>
+      <geogname>Croatia.</geogname>
+      <geogname>Germany.</geogname>
+      <geogname>Germany--History--Revolution, 1918.</geogname>
+      <geogname>Germany--History--Kapp Putsch, 1920.</geogname>
+      <geogname>Germany--History--Beer Hall Putsch, 1923.</geogname>
+      <geogname>Germany--Politics and government--20th century.</geogname>
+      <geogname>Yugoslavia.</geogname>
+    </controlaccess>
+    <dsc id="dsc-1.7.4" type="in-depth">
+      <head>Container List</head>
+      <c01 id="c01-1.7.4.2">
+        <did>
+          <container type="Box">1.</container>
+          <unittitle>1. <unitdate calendar="gregorian" era="ce">1919 June-December</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.3">
+        <did>
+          <unittitle>2. <unitdate calendar="gregorian" era="ce">1920</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.4">
+        <did>
+          <unittitle>3. <unitdate calendar="gregorian" era="ce">1921</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.5">
+        <did>
+          <unittitle>4. <unitdate calendar="gregorian" era="ce">1922</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.6">
+        <did>
+          <unittitle>5. Deutschv&#xF6;lkischer, Schutz- und Trutzbund, <unitdate calendar="gregorian" era="ce">1919-1922</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.7">
+        <did>
+          <unittitle>6. Deutschbund, <unitdate calendar="gregorian" era="ce">1922-1929</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.8">
+        <did>
+          <unittitle>7. V&#xF6;lkische Bewegung, <unitdate calendar="gregorian" era="ce">1924-1925</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.9">
+        <did>
+          <unittitle>8. <title render="italic">Deutscher Tag, </title>N&#xFC;rnberg, <unitdate calendar="gregorian" era="ce">1923 September 1-2</unitdate>; Koburg, 1923 October 14-15</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.10">
+        <did>
+          <unittitle>9. V&#xF6;lkisches, <unitdate calendar="gregorian" era="ce">1918-1923</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.11">
+        <did>
+          <unittitle>10. Fr. Dannehl, Flugbl&#xE4;tter, <unitdate calendar="gregorian" era="ce">1919</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.12">
+        <did>
+          <unittitle>11. Bilderbogen, <unitdate calendar="gregorian" era="ce">1919</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.13">
+        <did>
+          <unittitle>12. <title render="italic">Das Gewissen </title>(E. Stadtler,) <unitdate calendar="gregorian" era="ce">1919-1920 </unitdate>(Duplicates. For longer file see News. Coll. German Drawer)			</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.14">
+        <did>
+          <container type="Box">2.</container>
+          <unittitle>13. Wirtschafts-polit. Aufbau-Korrespondenz (Scheubner-Richter,) <unitdate calendar="gregorian" era="ce">1923</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.15">
+        <did>
+          <unittitle>14. Reichsflagge, <unitdate calendar="gregorian" era="ce">1925-1926</unitdate>; Elbwacht, 1926</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.16">
+        <did>
+          <unittitle>15. R&#xE4;terepublik, <unitdate calendar="gregorian" era="ce">1919 April 7 </unitdate>- Mitte Mai</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.17">
+        <did>
+          <unittitle>16. Revolution in M&#xFC;nchen, <unitdate calendar="gregorian" era="ce">1918 November 8-1919 April 6</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.18">
+        <did>
+          <unittitle>17. Landtags- und Nationalversammlungswahlen, <unitdate calendar="gregorian" era="ce">1919 January 12-19</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.19">
+        <did>
+          <unittitle>18. Berlin, Wahlen, <unitdate calendar="gregorian" era="ce">1919</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.20">
+        <did>
+          <unittitle>19. Gemeindewahlen, M&#xFC;nchen, <unitdate calendar="gregorian" era="ce">1919 June 15</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.21">
+        <did>
+          <unittitle>20. Reichstags-und Bayr. Landtagswahlen, <unitdate calendar="gregorian" era="ce">1920 June 6</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.22">
+        <did>
+          <unittitle>21. Reichstagswahl, <unitdate calendar="gregorian" era="ce">1924 May 4</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.23">
+        <did>
+          <unittitle>22. Reichstags- und Stadtratswahlen, M&#xFC;nchen, <unitdate calendar="gregorian" era="ce">1924 December 7</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.24">
+        <did>
+          <unittitle>23. Bayr. Volksentscheid, <unitdate calendar="gregorian" era="ce">1924 April 6</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.25">
+        <did>
+          <unittitle>24. Pr&#xE4;sidentenwahl, <unitdate calendar="gregorian" era="ce">1925 March 29-April 26</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.26">
+        <did>
+          <unittitle>25. Volksentscheid, <unitdate calendar="gregorian" era="ce">1926 June 20</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.27">
+        <did>
+          <unittitle>26. Reichstagswahl, <unitdate calendar="gregorian" era="ce">1930 September 14</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.28">
+        <did>
+          <unittitle>27. Bayr. Landtagswahlen, <unitdate calendar="gregorian" era="ce">1932 April 24, </unitdate>Liste 5</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.29">
+        <did>
+          <unittitle>28. Preuss. Landtagswahlen, <unitdate calendar="gregorian" era="ce">1932 April 24, </unitdate>Liste 8</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.30">
+        <did>
+          <unittitle>29. Pr&#xE4;sidentenwahl, <unitdate calendar="gregorian" era="ce">1932 March 13</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.31">
+        <did>
+          <unittitle>30. Pr&#xE4;sidentenwahl, <unitdate calendar="gregorian" era="ce">1932 April 10</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.32">
+        <did>
+          <container type="Box">3.</container>
+          <unittitle>31. Reichstagswahl, <unitdate calendar="gregorian" era="ce">1932 July 31, </unitdate>Liste 2</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.33">
+        <did>
+          <unittitle>32. Reichstagswahl, <unitdate calendar="gregorian" era="ce">1932 July 31, </unitdate>Berlin</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.34">
+        <did>
+          <unittitle>33. Reichstagswahl, <unitdate calendar="gregorian" era="ce">1933 March 5</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.35">
+        <did>
+          <unittitle>34. <unitdate calendar="gregorian" era="ce">1920, February 24</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.36">
+        <did>
+          <unittitle>35. Kapp - Putsch, <unitdate calendar="gregorian" era="ce">1920 March 13-17</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.37">
+        <did>
+          <unittitle>36. Hitler - Putsch</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.38">
+        <did>
+          <unittitle>37. Programm; Satzungen, <unitdate calendar="gregorian" era="ce">1923</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.39">
+        <did>
+          <unittitle>38. N.S.D.A.P. vor <unitdate calendar="gregorian" era="ce">1923 November 9</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.40">
+        <did>
+          <unittitle>39. N.S.D.A.P., <unitdate calendar="gregorian" era="ce">1925 February 26-1935 January 29</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.41">
+        <did>
+          <unittitle>40. Bayer. Mittelpartei (D.M.V.P. in Bayern); N&#xFC;rnberg, <unitdate calendar="gregorian" era="ce">1922-1923</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.42">
+        <did>
+          <unittitle>41. N.S.D.A.P. Parteitag, <unitdate calendar="gregorian" era="ce">1927</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.43">
+        <did>
+          <unittitle>42. N.S.D.A.P. Parteitag, <unitdate calendar="gregorian" era="ce">1929</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.44">
+        <did>
+          <unittitle>43. Sektion Westend, <unitdate calendar="gregorian" era="ce">1929</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.45">
+        <did>
+          <unittitle>44. Mj&#xF6;lnir plakate, <unitdate calendar="gregorian" era="ce">1932</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.46">
+        <did>
+          <unittitle>45. N.S.D.A.P. Hamburg, <unitdate calendar="gregorian" era="ce">1931-1932</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.47">
+        <did>
+          <container type="Box">4.</container>
+          <unittitle>46. N.S.D.A.P. nach <unitdate calendar="gregorian" era="ce">1933 January 30</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.48">
+        <did>
+          <unittitle>47. N.S.D.A.P. Parteitag, <unitdate calendar="gregorian" era="ce">1933</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.49">
+        <did>
+          <unittitle>48. N.S.D.A.P. Parteitag, <unitdate calendar="gregorian" era="ce">1934</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.50">
+        <did>
+          <unittitle>49. N.S.D.A.P. Parteitag, <unitdate calendar="gregorian" era="ce">1936</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.51">
+        <did>
+          <unittitle>50. M&#xFC;nchen, <unitdate calendar="gregorian" era="ce">1938 September 29</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.52">
+        <did>
+          <unittitle>51. Propaganda (vor <unitdate calendar="gregorian" era="ce">1927 April 15)</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.53">
+        <did>
+          <unittitle>52. N.S.D.A.P. Parteiamtliches</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.54">
+        <did>
+          <unittitle>53. <title render="italic">Mein Kampf </title>(clippings)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.55">
+        <did>
+          <unittitle>54. Horst Wessel</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.56">
+        <did>
+          <unittitle>55. Plakat: "Soll Germanen Judas Sklavin sein?"</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.57">
+        <did>
+          <unittitle>56. D. Eckart: Sturm-lied</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.58">
+        <did>
+          <unittitle>57. N.S. Studenten</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.59">
+        <did>
+          <unittitle>58. A. Drexler</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.60">
+        <did>
+          <unittitle>59. Schutzstaffel</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.61">
+        <did>
+          <container type="Box">5.</container>
+          <unittitle>60. N&#xFC;rnberg, <unitdate calendar="gregorian" era="ce">1920-1926</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.62">
+        <did>
+          <unittitle>61. <title render="italic">Arminius</title>; <title render="italic">Frontkrieger</title>; <title render="italic">Volk und Heer</title></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.63">
+        <did>
+          <unittitle>62. <title render="italic">Rutlischwur, </title><unitdate calendar="gregorian" era="ce">1924</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.64">
+        <did>
+          <unittitle>63. Alfred Roth: Sendschreibe an den Deutschen</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.65">
+        <did>
+          <unittitle>64. Hitler-Jugend</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.66">
+        <did>
+          <unittitle>65. <title render="italic">Deutsche Hochschulzeitung </title>(Transferred. See News. Coll. Germany drawer)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.67">
+        <did>
+          <unittitle>66. <title render="italic">Deutsche Herold</title>; Ausschuss f&#xFC;r Volksaufklarung. (Transferred. See S.P. Germany)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.68">
+        <did>
+          <unittitle>67. <title render="italic">Flammenwerfen </title>(Transferrerd. See German Serials Drawer)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.69">
+        <did>
+          <unittitle>68. Einwohnerwehr; Techn. Nothilfe</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.70">
+        <did>
+          <unittitle>69. <title render="italic">Leuchtturm, </title><unitdate calendar="gregorian" era="ce">1921-1922 </unitdate>(Transferred. See German Serials Drawer)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.71">
+        <did>
+          <unittitle>70. Presse Inf. Dienst 1932; "Aufkl&#xE4;rungs und Redner Informationsmaterial", <unitdate calendar="gregorian" era="ce">1935-1938</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.72">
+        <did>
+          <unittitle>71. <title render="italic">Deutsches Wochenblatt, </title>Berlin, <unitdate calendar="gregorian" era="ce">1921 </unitdate>(Transferred. See German Serials Drawer)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.73">
+        <did>
+          <unittitle>72. <title render="italic">Die Trommel, </title><unitdate calendar="gregorian" era="ce">1924 </unitdate>(Duplicates. See German Serials Drawer for longer file)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.74">
+        <did>
+          <unittitle>73. <title render="italic">M&#xFC;nchener Presse, </title><unitdate calendar="gregorian" era="ce">1922-19</unitdate>? (Transferred. See envelope for titles and German Serials Drawer for location)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.75">
+        <did>
+          <unittitle>74. <title render="italic">M&#xFC;nchener Neueste Nachrichten, </title><unitdate calendar="gregorian" era="ce">1923 November 9-11. </unitdate>(Transferred. See News. Coll. Germany Drawer)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.76">
+        <did>
+          <unittitle>75. <title render="italic">V&#xF6;lkische Provinzpresse </title>bis <unitdate calendar="gregorian" era="ce">1924 </unitdate>(Transferred. See envelopes for titles and German Serials Drawer for location)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.77">
+        <did>
+          <unittitle>76. <title render="italic">Berliner Arbeiterzeitung, </title>1927; <title render="italic">Angriff, </title><unitdate calendar="gregorian" era="ce">1927-1929. </unitdate>(Transferred. See News. Coll. Germany Drawer)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.78">
+        <did>
+          <container type="Box">6.</container>
+          <unittitle>77. <title render="italic">Der St&#xFC;rmer, </title><unitdate calendar="gregorian" era="ce">1923-1931 </unitdate>(Duplicates. See German Serials Drawer for longer file)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.79">
+        <did>
+          <unittitle>78. <title render="italic">Auf gut deutsch, </title><unitdate calendar="gregorian" era="ce">February 2-5 </unitdate>(Duplicates. See German Serials Drawer for longer file)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.80">
+        <did>
+          <unittitle>79. <title render="italic">Sontag Morgenpost, </title>M&#xFC;nchen, <unitdate calendar="gregorian" era="ce">1932-1933 </unitdate>(Transferred. See News. Coll. Germany)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.81">
+        <did>
+          <unittitle>80. Dr. Heim; Bayernbund</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.82">
+        <did>
+          <unittitle>81. M&#xFC;nchener Burgerliche Presse, <unitdate calendar="gregorian" era="ce">1921 </unitdate>Deutsche Turnfest, 1923 (Transferred. See News. Coll. Germany)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.83">
+        <did>
+          <unittitle>84. Volk. Provinzpresse, <unitdate calendar="gregorian" era="ce">1926-1932 </unitdate>(Transferred. See envelope for titles and German Serials Drawer for location)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.84">
+        <did>
+          <unittitle>85. Weimar; Dinter; Streiter, <unitdate calendar="gregorian" era="ce">1924</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.85">
+        <did>
+          <unittitle>86. R. Steiner; Dreigliederung, <unitdate calendar="gregorian" era="ce">1920</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.86">
+        <did>
+          <unittitle>87. Deutsch-Sozialistische Partei</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.87">
+        <did>
+          <unittitle>88. <title render="italic">Gayr. K&#xF6;nigsbote, </title><unitdate calendar="gregorian" era="ce">1920</unitdate>; varia</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.88">
+        <did>
+          <unittitle>89. Varia: Bauer, <title render="italic">Der Kompromissgeist</title></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.89">
+        <did>
+          <unittitle>90. Bilderhefte</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.90">
+        <did>
+          <container type="Box">7.</container>
+          <unittitle>91. Bilderhefte III</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.91">
+        <did>
+          <unittitle>92. Braunau</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.92">
+        <did>
+          <unittitle>93. Schachleitner</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.93">
+        <did>
+          <unittitle>94. Oesterreich Presse, Burgerl., <unitdate calendar="gregorian" era="ce">1932-1938 </unitdate>(Transferred. See envelope for titles and German Serials Drawer for location)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.94">
+        <did>
+          <unittitle>95. Oesterreich, V&#xF6;lkische und N.S.D.A.P. Presse (Transferred. See envelope for titles and German Serials Drawer for location)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.95">
+        <did>
+          <unittitle>96. Oesterreich: Plakate bis <unitdate calendar="gregorian" era="ce">1925</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.96">
+        <did>
+          <unittitle>97. Oesterreich, <unitdate calendar="gregorian" era="ce">1926-1938</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.97">
+        <did>
+          <unittitle>98. N.S.B.O. (M&#xFC;nchen), <unitdate calendar="gregorian" era="ce">1931</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.98">
+        <did>
+          <unittitle>99. Oesterreich, <unitdate calendar="gregorian" era="ce">1934</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.99">
+        <did>
+          <unittitle>100. Sudetenland; Oesterreich, <unitdate calendar="gregorian" era="ce">1938</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.100">
+        <did>
+          <unittitle>101. Oesterreich; <title render="italic">Oester Beobachter, </title><unitdate calendar="gregorian" era="ce">1938 </unitdate>(Transferred. See German Serials Drawer)</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.101">
+        <did>
+          <unittitle>102. Oesterreich: N.S.D.A.P.</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.102">
+        <did>
+          <unittitle>103. Oesterreich: kleines propaganda materiel</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.103">
+        <did>
+          <unittitle>104. Oesterreich, Bohmen, S&#xFC;dmark</unittitle>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

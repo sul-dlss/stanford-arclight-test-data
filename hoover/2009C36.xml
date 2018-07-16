@@ -1,0 +1,1965 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+<eadheader id="a0" langencoding="iso639-2b" countryencoding="iso3166-1" repositoryencoding="iso15511" dateencoding="iso8601" scriptencoding="iso15924">
+<eadid countrycode="us" mainagencycode="CSt-H" publicid="PUBLIC &quot;-//Stanford University::Hoover Institution Archives//TEXT(US::CSt-H::2009C36::David Brombart papers//EN&quot; &quot;2009C36.xml&quot;">2009C36.xml</eadid>
+<filedesc>
+	<titlestmt>
+	<titleproper>Register of the David Brombart papers, 1917-2009 </titleproper>
+	<titleproper type="filing">Brombart (David) papers</titleproper>
+<author>Processed by Dale Reed</author>
+</titlestmt>
+	<publicationstmt>
+	<publisher id="Cst-H">Hoover Institution Archives</publisher> 
+	<address> 
+<addressline>Stanford University</addressline> 
+	<addressline>Stanford, California 94305-6010</addressline>
+ 	<addressline>Phone: (650) 723-3563</addressline>
+ 	<addressline>Fax: (650) 725-3445</addressline>
+ 	<addressline>Email: hooverarchives@stanford.edu</addressline>
+ 	</address>
+<date type="Publication" normal="2008">&#x00A9; 2009, 2011</date>
+<p>Hoover Institution Archives. All rights reserved.</p>
+</publicationstmt>
+</filedesc> 
+<profiledesc>
+<creation>Machine-readable finding aid derived from MARC record by David Sun, revisions and container list by Elizabeth Konzak. <date normal="2009">Date of source: 2009</date></creation>
+<langusage>Finding aid is written in <language langcode="eng" scriptcode="latn">English</language></langusage>
+</profiledesc>
+<revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20110204">February 4, 2011</date>
+        <item>Added incremental container list and updated front matter</item>
+      </change>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20100927">September 27, 2010</date>
+        <item>updated extent statement, added container list description note</item>
+      </change>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20100208">February 8, 2010</date>
+        <item>Revision to add register level front matter and container list</item>
+      </change>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20110711">July 11, 2011</date>
+        <item>Revised to reflect increment corrections.</item>
+      </change>
+    </revisiondesc>
+</eadheader>
+<frontmatter>
+<titlepage>
+<titleproper>Register of the David Brombart papers,1917-2009</titleproper>
+<publisher>Hoover Institution Archives<lb/>Stanford University<lb/>Stanford, California</publisher>
+<list type="deflist">
+<defitem>
+<label>Processed by: </label>
+<item>Dale Reed</item>
+</defitem>
+<defitem>
+<label>Date Completed: </label>
+<item>2009, revised 2011</item>
+</defitem>
+<defitem>
+<label>Encoded by: </label>
+<item>Machine-readable finding aid derived from MARC record by David Sun, revisions and container list by Elizabeth Konzak.</item>
+</defitem>
+</list>
+<p>&#x00A9; 2010, 2011 Hoover Institution Archives. All rights reserved.</p>
+</titlepage>
+</frontmatter>
+<archdesc level="collection" id="a19" type="inventory">
+<did id="P2">
+<head>Collection Summary</head>
+	<unittitle label="Title" encodinganalog="245$a">David Brombart papers </unittitle><unitdate label="Dates"  type="inclusive" normal="1917/2009" encodinganalog="245$f">1917-2009</unitdate>
+	<unitid label="Collection Number" countrycode="us" repositorycode="CSt-H" encodinganalog="099">2009C36</unitid>
+<origination label="Creator"><persname source="lcnaf" rules="aacr2">Brombart, David, 1933-</persname></origination>
+<physdesc label="Collection Size" encodinganalog="300$a">
+	<extent>23 manuscript boxes, 4 oversize boxes </extent>
+	<extent>(12.8 linear feet)</extent>
+</physdesc>
+<repository label="Repository">
+	<corpname>Hoover Institution Archives </corpname> <address> <addressline>Stanford, California 94305-6010</addressline> </address></repository>
+<abstract label="Abstract" encodinganalog="520$a">Correspondence, reports, memoranda, conference materials, printed matter, photographs, and memorabilia, relating to the African-American Labor Center, the International Confederation of Free Trade Unions, and American Federation of Labor-Congress of Industrial Organizations participation in the international labor movement.</abstract>
+<physloc label="Physical Location">Hoover Institution Archives</physloc>
+<langmaterial label="Languages" encodinganalog="546$a">
+	<language langcode="eng">English </language>
+</langmaterial>
+</did>
+<descgrp type="admininfo">
+<head>Administrative Information</head>
+<accessrestrict encodinganalog="506">
+<head>Access</head>
+<p>Collection is open for research. </p>
+<p>The Hoover Institution Archives only allows access to <emph render="italic">copies</emph> of audiovisual items. To listen to sound recordings or to view videos or films during your visit, please contact the Archives at least two working days before your arrival. We will then advise you of the accessibility of the material you wish to see or hear. Please note that not all audiovisual material is immediately accessible.</p></accessrestrict>
+<userestrict encodinganalog="540">
+<head>Publication Rights</head>
+<p>For copyright status, please contact the Hoover Institution Archives. </p>
+</userestrict>
+<prefercite encodinganalog="524">
+<head>Preferred Citation</head>
+<p>[Identification of item], David Brombart papers, [Box number], Hoover Institution Archives.</p>
+</prefercite>
+<acqinfo encodinganalog="541">
+ <head>Acquisition Information</head>
+ <p>Acquired by the Hoover Institution Archives in 2009.</p>
+</acqinfo>
+<accruals encodinganalog="525"><head>Accruals</head>
+<p>Materials may have been added to the collection since this finding aid was prepared. To determine if this has occurred, find the collection in Stanford University's online catalog Socrates at <extref linktype="simple" href="http://library.stanford.edu/webcat" actuate="onrequest" show="new"> http://library.stanford.edu/webcat</extref>. Materials have been added to the collection if the number of boxes listed in Socrates is larger than the number of boxes listed in this finding aid.</p>
+</accruals>
+</descgrp>
+<bioghist id="a2" encodinganalog="545">
+<head>Biographical/Historical Note</head> 
+<chronlist>
+<chronitem>
+   <date>1933</date>
+  <event>Born, St. Gilles-les-Bruxelles, Belgium </event>
+</chronitem>
+<chronitem>
+   <date>1954-1958</date>
+  <event>Youth secretary, Parti Socialiste Belge</event>
+</chronitem>
+<chronitem>
+   <date>1958-1964</date>
+  <event>Labor secretary, World Assembly of Youth, Paris and Brussels</event>
+</chronitem>
+<chronitem>
+   <date>1964-1979</date>
+  <event>Assistant to the executive director, AFL-CIO African-American Labor Center, New York</event>
+</chronitem>
+<chronitem>
+   <date>1975-1977</date>
+  <event>Member, United States delegation to the International Labour Organisation</event>
+</chronitem>
+<chronitem>
+   <date>1979-1983</date>
+  <event>AFL-CIO deputy director for international cooperation, London</event>
+</chronitem>
+<chronitem>
+   <date>1983-1986</date>
+  <event>Senior staff member, International Confederation of Free Trade Unions, Brussels</event>
+</chronitem>
+<chronitem>
+   <date>1986-1997</date>
+  <event>Deputy and acting executive director, AFL-CIO African-American Labor Center, Washington, D.C.</event>
+</chronitem>
+<chronitem>
+   <date>1997-2005</date>
+  <event>Senior fellow, Institute of International Studies, Washington, D.C.</event>
+</chronitem>
+</chronlist>
+</bioghist>
+
+
+<scopecontent id="a3" encodinganalog="520">
+<head>Scope and Content of Collection</head>
+<p>The papers of the Belgian-American labor official David Brombart primarily concern the involvement of the American Federation of Labor and Congress of Industrial Organizations (AFL-CIO) in the international labor movement, its opposition to the Communist-affiliated World Federation of Trade Unions (WFTU), and its cooperation with United States government agencies in fostering democratic trade unionism in Africa and elsewhere.  Before joining the AFL-CIO, Brombart worked in the World Assembly of Youth (WAY), an international organization established in opposition to Communist front youth organizations, and funded in part by the United States Central Intelligence Agency.  From its establishment in 1964 until his retirement in 1997, he was actively involved in the AFL-CIO's African-American Labor Center (AALC).  He also represented the American labor movement in the International Labour Organisation (ILO) and in the International Confederation of Free Trade Unions (ICFTU).</p>
+
+<p>The collection is arranged in twelve series.  The first three, <emph render="bold">Personal Documents, Correspondence, and Speeches and Writings</emph>, consist of papers of David Brombart spanning the course of his career.  The next five series document his work in specific capacities.  They include the <emph render="bold">World Assembly of Youth File, International Labour Organization File, International Confederation of Free Trade Unions File, AFL-CIO File,</emph> and <emph render="bold">African-American Labor Center File</emph>.  The <emph render="bold">AFL-CIO File</emph> covers activities of branches of that organization other than the African-American Labor Center.  A <emph render="bold">Subject File</emph> is arranged topically and includes some material that might have been placed elsewhere (especially in the <emph render="bold">African-American Labor Center File</emph>), but that is narrowly focused on specific subjects.  The <emph render="bold">Subject File</emph> also contains material on Islamic countries and other topics with which Brombart was concerned during later years as a fellow at the Institute of International Studies.  The final three series, <emph render="bold">Audiovisual File, Memorabilia</emph>, and <emph render="bold">Oversize File</emph> consist of material that is distinctive because of physical format.  The Audiovisual File includes a large number of photographs documenting activities of the organizations in which Brombart was involved.
+</p>
+</scopecontent>
+
+
+<controlaccess>
+<head>Indexing Terms</head> 
+<p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p> 
+<corpname encodinganalog="610" source="lcnaf">African-American Labor Center.</corpname>
+<corpname encodinganalog="610" source="lcnaf">International Confederation of Free Trade Unions.</corpname>
+<corpname encodinganalog="610" source="lcnaf">AFL-CIO.</corpname>
+<subject encodinganalog="650" source="lcsh">Labor movement.</subject>
+<subject encodinganalog="650" source="lcsh">Labor movement--Africa.</subject>
+<subject encodinganalog="650" source="lcsh">Labor movement--United States.</subject>
+</controlaccess>
+
+<dsc type="combined" id="dsc-1">
+<head>Collection Contents</head>
+
+<c01 level="series" id="c01-1">
+<did>
+<container type="Folder" label="Box/Folder: ">1</container>
+  <unittitle>Personal Documents, </unittitle>
+  <unitdate>1962-2009. </unitdate>
+</did>
+<scopecontent><p> Personal identification cards, passports, certificates, invitations, clippings, and miscellany, </p></scopecontent>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">1 : 1</container>
+  <unittitle>Passports and identification cards, </unittitle>
+  <unitdate>1970-1991</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">1 : 2</container>
+  <unittitle>Certificates, invitations, clippings, and miscellany, </unittitle>
+  <unitdate>1962-2009</unitdate>
+</did>
+</c02>
+</c01>
+<c01 level="series" id="c01-2">
+<did>
+<container type="Box" label="Box: ">1--2</container>
+  <unittitle>Correspondence, </unittitle>
+  <unitdate>1939-2008. </unitdate>
+</did>
+<scopecontent><p> Correspondence, arranged alphabetically by correspondent</p></scopecontent>
+<c02 level="file">
+<did>
+<container type="Box" label="Box: ">1</container>
+  <unittitle>General</unittitle>
+  </did>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">1 : 3</container>
+    <unitdate>1957-1979</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">1 : 4</container>
+    <unitdate>1980-2008</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">1 : 5</container>
+    <unitdate>Undated</unitdate>
+</did>
+</c03>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">1 : 6</container>
+  <unittitle>Attlee, Clement, </unittitle>
+  <unitdate>1956</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">1 : 7</container>
+  <unittitle>Beichman, Arnold, </unittitle>
+  <unitdate>1973-1995</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">1 : 8</container>
+  <unittitle>Blondel, Marc, </unittitle>
+  <unitdate>1997-1999</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">1 : 9</container>
+  <unittitle>Brown, Irving, </unittitle>
+  <unitdate>1964-1976</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">1 : 10</container>
+  <unittitle>Cabral, Amilcar, </unittitle>
+  <unitdate>1963</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Box" label="Box: ">1</container>
+  <unittitle>Freeman, Anthony G.</unittitle>
+  </did>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">1 : 11</container>
+    <unitdate>1996-2005 May</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">1 : 12</container>
+    <unitdate>2005 June-November</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">1 : 13</container>
+    <unitdate>2006</unitdate>
+</did>
+</c03></c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">1 : 14</container>
+  <unittitle>Godson, Roy, </unittitle>
+  <unitdate>1984-2005</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">1 : 15</container>
+  <unittitle>Humphrey, Hubert H., </unittitle>
+  <unitdate>1968</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">1 : 16</container>
+  <unittitle>Kahn, Thomas, </unittitle>
+  <unitdate>1988-1990</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">1 : 17</container>
+  <unittitle>Kemble, Penn, </unittitle>
+  <unitdate>2001</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">1 : 18</container>
+  <unittitle>Kirkland, Lane, </unittitle>
+  <unitdate>1990</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">1 : 19</container>
+  <unittitle>Lovestone, Jay, </unittitle>
+  <unitdate>1967-1983</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">1 : 20</container>
+  <unittitle>Meany, George, </unittitle>
+  <unitdate>1973</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">1 : 21</container>
+  <unittitle>Muskie, Edmund S., </unittitle>
+  <unitdate>1971</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">1 : 22</container>
+  <unittitle>Perkins, Frances, </unittitle>
+  <unitdate>1939</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">1 : 23</container>
+  <unittitle>Rustin, Bayard, </unittitle>
+  <unitdate>1972</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">1 : 24</container>
+  <unittitle>Senser, Robert A., </unittitle>
+  <unitdate>2001-2002</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">2 : 1</container>
+  <unittitle>Simon, Paul, </unittitle>
+  <unitdate>1988-1989</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">2 : 2</container>
+  <unittitle>T&#233;vo&#233;djr&#232;, Albert, </unittitle>
+  <unitdate>1973-1977</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">2 : 3</container>
+  <unittitle>Weiner, Herbert, </unittitle>
+  <unitdate>1981-1983</unitdate>
+</did>
+</c02></c01>
+<c01 level="series" id="c01-3">
+<did>
+<container type="Box" label="Box: ">2--3</container>
+  <unittitle>Speeches and Writings, </unittitle>
+  <unitdate>1966-1997. </unitdate>
+</did>
+<scopecontent><p>Speeches and writings by David Brombart, arranged chronologically</p></scopecontent>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">2 : 4</container>
+  <unittitle>Speech re Africa, typescript notes, </unittitle>
+  <unitdate>1966</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">2 : 5</container>
+  <unittitle>Hypocrisy of Soviet 'Aid' to Developing Countries, <title render="italic">AFL-CIO Free Trade Union News</title>, </unittitle>
+  <unitdate>1970 December. </unitdate>
+</did>
+<scopecontent><p> Printed copy, and printed French and Italian translations</p></scopecontent></c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">2 : 6</container>
+  <unittitle>Brown Cites Principles of International Labor Solidarity, <title render="italic">AALC Reporter</title>, printed copy, </unittitle>
+  <unitdate>1971 July</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">2 : 7</container>
+  <unittitle>Intercontinental Trade Unionism and U.S. Labor, typescript, </unittitle>
+  <unitdate>1973 February 23</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">2 : 8</container>
+  <unittitle>Report on the I.L.O., African-American Labor Center annual staff meeting presentation, typescript, </unittitle>
+  <unitdate>1977 April</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">2 : 9</container>
+  <unittitle>Speech, International Confederation of Free Trade Unions forum, Nouakchott, Mauritania, Typescript (in French), </unittitle>
+  <unitdate>1978 March</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">2 : 10</container>
+  <unittitle>Speech, Union Nationale des Travailleurs du Mali congress, Typescript (in French), </unittitle>
+  <unitdate>1978 July 17</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">2 : 11</container>
+  <unittitle>International Trade Union Gatherings, International Confederation of Free Trade Unions draft document, Typescript,</unittitle>
+  <unitdate>1987</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">2 : 12</container>
+  <unittitle>Arafat Meets the Social Democrats, Interco Press column, </unittitle>
+  <unitdate>1988 November. </unitdate>
+</did>
+<scopecontent><p>Printed Spanish translation only</p></scopecontent></c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">2 : 13</container>
+  <unittitle>Toward Reconciliation in South Africa, Interco Press column, </unittitle>
+  <unitdate>1989 May. </unitdate>
+</did>
+<scopecontent><p> Printed Spanish translation only</p></scopecontent></c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">2 : 14</container>
+  <unittitle>Speech, Union Marocaine du Travail congress, Casablanca, Morocco, Typescripts (in English and French), </unittitle>
+  <unitdate>1989 December</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">2 : 15</container>
+  <unittitle>African Marxism and the Example of Benin, <title render="italic">AFL-CIO Department of International Affairs Bulletin</title>, Printed copy, </unittitle>
+  <unitdate>1990</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">2 : 16</container>
+  <unittitle>Introduction to <title render="italic">AFL-CIO Program of Action in South Africa 1990 </title>(pamphlet), Printed copy, </unittitle>
+  <unitdate>1990</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">2 : 17</container>
+  <unittitle>No Peace Dividend for the International Free Trade Union Movement, Working materials, drafts, and processed copy, </unittitle>
+  <unitdate>1990</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">2 : 18</container>
+  <unittitle>Gorbatchev's Network of Interlocking Fronts Moving West, Conference on Soviet-Controlled Front Organizations in Crisis presentation, Rosslyn, Virginia, </unittitle>
+  <unitdate>1990 June 14. </unitdate>
+</did>
+<scopecontent><p>Draft, processed copy, and conference correspondence and agenda</p></scopecontent></c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">2 : 19</container>
+  <unittitle>England's Most Notorious Pro-Communist Labor Leader, Interco Press column, </unittitle>
+  <unitdate>1990 November. </unitdate>
+</did>
+<scopecontent><p>Printed Spanish and Portuguese translations only</p></scopecontent></c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">2 : 20</container>
+  <unittitle>Somalia's Torn History, Processed, </unittitle>
+  <unitdate>1991</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">2 : 21</container>
+  <unittitle>Zambia: Democracy and the Future of Africa, Interco Press column, Processed, </unittitle>
+  <unitdate>1991</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">2 : 22</container>
+  <unittitle>International Labor Condemns Iraq, Interco Press column, </unittitle>
+  <unitdate>1991 January. </unitdate>
+</did>
+<scopecontent><p>Printed Spanish, Hindi and Bengali translations only</p></scopecontent></c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">2 : 23</container>
+  <unittitle>The Angolan Spring, <title render="italic">AFL-CIO Department of International Affairs Bulletin</title>, Printed copy, </unittitle>
+  <unitdate>1991 February. </unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">2 : 24</container>
+  <unittitle>Liberia: Another African Tragedy, Interco Press column, </unittitle>
+  <unitdate>1991 July. Printed Spanish translation only</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">2 : 25</container>
+  <unittitle>Speech, Hassan Fathy Institute conference, Bal Harbour, Florida, Processed, </unittitle>
+  <unitdate>1992 February 21. </unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">2 : 26</container>
+  <unittitle>Review of Joel Kotek, <title render="italic">Students and the Cold War,</title> Processed draft and correspondence, </unittitle>
+  <unitdate>1997 February 13. </unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">2 : 27</container>
+  <unittitle>Africa and Labour, Typescript (incomplete), </unittitle>
+  <unitdate>undated. </unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">2 : 28</container>
+  <unittitle>African Trade Unionism in Question, Typescript, </unittitle>
+  <unitdate>undated. </unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">2 : 29</container>
+  <unittitle>Speeches, Typescripts (in English and French), </unittitle>
+  <unitdate>undated. </unitdate>
+</did>
+</c02></c01>
+<c01 level="series" id="c01-4">
+<did>
+<container type="Box" label="Box: ">2</container>
+  <unittitle>World Assembly of Youth File, </unittitle>
+  <unitdate>1960-2009. </unitdate>
+</did>
+<scopecontent><p>Correspondence and printed matter by and about the World Assembly of Youth</p></scopecontent>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">2 : 30</container>
+  <unittitle>Operational correspondence, </unittitle>
+  <unitdate>1960-1964. </unitdate>
+</did>
+<scopecontent><p>Mainly with Frank Ferrari</p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">2 : 31</container>
+  <unittitle>World Assembly of Youth issuances, </unittitle>
+  <unitdate>1962-1999. </unitdate>
+</did>
+<scopecontent><p> Includes <title render="italic">New Trends and Development of Trade Unionism,</title> 1963 (pamphlet); <title render="italic">WAY Forum, </title>1969 (special 20th anniversary serial issue); and David Wirmark, <title render="italic">The World Assembly of Youth (WAY) in the 50s and the 60s,</title> 1999 (pamphlet)</p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="Box" label="Box: ">2</container>
+  <unittitle>Retrospective correspondence. Mainly with David Wirmark relating to a history-writing project on the World Assembly of Youth</unittitle>
+</did>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">2 : 32</container>
+    <unitdate>1967-1999</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">2 : 33</container>
+    <unitdate>2000-2009</unitdate>
+</did>
+</c03>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">3 : 1</container>
+  <unittitle>Printed matter, </unittitle>
+  <unitdate>1964-2009. </unitdate>
+</did>
+<scopecontent><p>Bulletins, printed articles, and Internet printout, relating mainly to revelations of U.S. Central Intelligence Agency funding of the World Assembly of Youth. Includes David Maunders, "Controlling Youth for Democracy: The United States Youth Council and the World Assembly of Youth, </p></scopecontent></c02></c01>
+<c01 level="series" id="c01-5">
+<did>
+<container type="Box" label="Box: ">3</container>
+  <unittitle>International Labour Organization File, </unittitle>
+  <unitdate>1975-1980. </unitdate>
+</did>
+<scopecontent><p> Correspondence, personal documents, printed matter, and photographs (in scrapbooks) by and about the International Labour Organisation</p></scopecontent>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">3 : 2</container>
+  <unittitle>General, </unittitle>
+  <unitdate>1975-1980. </unitdate>
+</did>
+<scopecontent><p>Letters, statement, and memoranda, press releases, and printed matter, relating to the withdrawal of the United States from the International Labour Organisation in 1977 and its return in 1980. Includes printed proceedings of several ILO sessions, </p></scopecontent></c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">3 : 3--4</container>
+  <unittitle>Scrapbooks, </unittitle>
+  <unitdate>1975-1977. </unitdate>
+</did>
+<scopecontent><p>Letters, personal documents, printed matter, and photographs, documenting David Brombart's service as a member of the American delegation to the ILO</p></scopecontent></c02></c01>
+<c01 level="series" id="c01-6">
+<did>
+<container type="Box" label="Box: ">3--4</container>
+  <unittitle>International Confederation of Free Trade Unions File, </unittitle>
+  <unitdate>1949-1999. </unitdate>
+</did>
+<scopecontent><p>Internal and public documents of the International Confederation of Free Trade Unions</p></scopecontent>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">3 : 5</container>
+  <unittitle>General, </unittitle>
+  <unitdate>1980-1999. </unitdate>
+</did>
+<scopecontent><p>Memoranda, bulletins, correspondence, lists, and other internal documents emanating from the International Confederation of Free Trade Unions</p></scopecontent></c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">3 : 6</container>
+  <unittitle>May Day Manifesto, </unittitle>
+  <unitdate>1984</unitdate>
+</did>
+<scopecontent><p>Draft manifesto by David Brombart for the International Confederation of Free Trade Unions, working materials, and printed copies (in English, French and Flemish)</p></scopecontent></c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">4 : 1--2</container>
+  <unittitle><title render="italic">International Trade Union News </title>(publication of the International Confederation of Free Trade Unions)</unittitle>
+  <unitdate>1983-1984</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">4 : 3</container>
+  <unittitle>Miscellaneous International Confederation of Free Trade Unions publications, </unittitle>
+  <unitdate>1949-1988. </unitdate>
+</did>
+<scopecontent><p>Bulletins and pamphlets, including report of the preparatory founding conference, 1949; and constitution, 1983 </p></scopecontent>
+</c02>
+</c01>
+<c01 level="series" id="c01-7">
+<did>
+<container type="Box" label="Box: ">4--5</container>
+  <unittitle>AFL-CIO File, </unittitle>
+  <unitdate>1959-2000. </unitdate>
+</did>
+<scopecontent><p> Internal and public documents of the American Federation of Labor and Congress of Industrial Organizations and of its various international institutes other than the African-American Labor Center</p></scopecontent>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">4 : 4</container>
+  <unittitle>General, </unittitle>
+  <unitdate>1965-1996. </unitdate>
+</did>
+<scopecontent><p>Correspondence, memoranda, reports, minutes, planning documents, financial data, and other internal documents emanating from the AFL-CIO, and relating especially to its various international institutes and to their proposed consolidation</p></scopecontent></c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">4 : 5</container>
+  <unittitle>Convention (21st : 1995 : New York). Printed matter from the convention </unittitle>
+  
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">4 : 6</container>
+  <unittitle>American Institute for Free Labor Development, </unittitle>
+  <unitdate>1987-1996. </unitdate>
+</did>
+<scopecontent><p>Correspondence, memoranda, and reports emanating from the American Institute for Free Labor Development</p></scopecontent></c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">4 : 7</container>
+  <unittitle>Asian-American Free Labor Institute, </unittitle>
+  <unitdate>1987-1996. </unitdate>
+</did>
+<scopecontent><p> Memoranda and reports emanating from the Asian-American Free Labor Institute</p></scopecontent></c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">4 : 8</container>
+  <unittitle>Committee on Defense, </unittitle>
+  <unitdate>1987</unitdate>
+</did>
+<scopecontent><p>Report on the Strategic Defense Initiative to the AFL-CIO Executive Council by the AFL-CIO Committee on Defense</p></scopecontent></c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">4 : 9</container>
+  <unittitle>Department of International Affairs, </unittitle>
+  <unitdate>1990</unitdate>
+</did>
+<scopecontent><p> "Across Frontiers: Spreading the Message of Free Trade Unionism: A Report on President Lane Kirkland's Visit to Poland and the USSR and an AFL-CIO Delegation to the Second Miners Congress in the USSR" (report by the AFL-CIO Department of International Affairs)</p></scopecontent></c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">4 : 10</container>
+  <unittitle>Free Trade Union Institute, </unittitle>
+  <unitdate>1992-1994. </unitdate>
+</did>
+<scopecontent><p> Report, memorandum, and brochure emanating from the Free Trade Union Institute</p></scopecontent></c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">5 : 1</container>
+  <unittitle>International Affairs Committee, </unittitle>
+  <unitdate>1994-1995. </unitdate>
+</did>
+<scopecontent><p>Consolidated reports of the various AFL-CIO international institutes to the AFL-CIO International Affairs Committee</p></scopecontent></c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">5 : 2</container>
+  <unittitle>Solidarity Center (American Center for International Labor Solidarity), </unittitle>
+  <unitdate>1999-2000. </unitdate>
+</did>
+<scopecontent><p> Report, brochure and personnel list emanating from the Solidarity Center</p></scopecontent></c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">5 : 3</container>
+  <unittitle>Miscellaneous AFL-CIO publications, </unittitle>
+  <unitdate>1959-1985. </unitdate>
+</did>
+<scopecontent><p>Pamphlets and serial issues, including <title render="italic">Questions and Answers on American Labor and World Affairs,</title> 1959 (pamphlet); and <title render="italic">Wer ist der Imperialist?,</title> </p></scopecontent></c02></c01>
+<c01 level="series" id="c01-8">
+<did>
+<container type="Box" label="Box: ">5--8</container>
+  <unittitle>African-American Labor Center File, </unittitle>
+  <unitdate>1964-1997. </unitdate>
+</did>
+<scopecontent><p>Internal and public documents of the AFL-CIO African American Labor Center, arranged chronologically</p></scopecontent>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">5 : 4</container>
+    <unitdate>1964-1966. </unitdate>
+</did>
+<scopecontent><p> Includes U.S. Department of State and U.S. Agency for International Development grant agreements; and Karl Butler, "Feasibility Study for the Establishment of a Pan-African Cooperative Training Center," 1966</p></scopecontent></c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">5 : 5</container>
+    <unitdate>1967</unitdate>
+</did>
+<scopecontent><p> Includes "Rapport pr&#233;liminaire de la Conf&#233;rence panafricaine coop&#233;rative" (Cotonou, Dahomey); and <title render="italic">AALC Geneva, June 1967 </title>(pamphlet)</p></scopecontent></c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">5 : 6</container>
+    <unitdate>1968-1969. </unitdate>
+</did>
+<scopecontent><p>Includes U.S. Agency for International Development contract and operating procedures; "Second Exchange of Views" at the International Labour Organisation conference, 1968; and report of the Conf&#233;rence R&#233;gionale Economique (Ouagadougou, Upper Volta), 1969 </p></scopecontent></c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">5 : 7</container>
+    <unitdate>1970-1972. </unitdate>
+</did>
+<scopecontent><p>Includes "Report on the Evaluation of Activities of the African-American Labor Center," 1972</p></scopecontent></c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">6 : 1</container>
+    <unitdate>1973-1974. </unitdate>
+</did>
+<scopecontent><p>Includes U.S. Agency for International Development grant and audit; and George R. Martens, "Bibliography of African Trade Unionism," 1973</p></scopecontent></c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">6 : 2</container>
+    <unitdate>1975-1977. </unitdate>
+</did>
+<scopecontent><p>Includes <title render="italic">Africa's Trade Union Press,</title> 1976 (report of Pan-African Colloquium on the Trade Union Press, Lom&#233;, Togo, </p></scopecontent></c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">6 : 3</container>
+    <unitdate>1978-1979. </unitdate>
+</did>
+<scopecontent><p>Includes proceedings of the African-American Trade Union Symposium on Employment and Trade, Abidjan, Côte d'Ivoire, </p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">6 : 4</container>
+    <unitdate>1981-1983. </unitdate>
+</did>
+<scopecontent><p> Includes Georges Martens, "Le syndicalisme en Afrique occidentale d'expression fran&#231;aise de 1945 &#224; 1960," 1982; and "African Trade Unions: A List of African Trade Unions," 1983</p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">6 : 5</container>
+    <unitdate>1985-1986. </unitdate>
+</did>
+<scopecontent><p> Includes AALC report of 1985 activities to its Board of Directors</p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">7 : 1</container>
+    <unitdate>1987</unitdate>
+</did>
+<scopecontent><p>Includes AALC report of 1987 activities to its Board of Directors</p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">7 : 2</container>
+    <unitdate>1988</unitdate>
+</did>
+<scopecontent><p>Includes audit; and grant budget submission to the U.S. Agency for International Development</p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">7 : 3</container>
+    <unitdate>1989</unitdate>
+</did>
+<scopecontent><p>Includes audit; and AALC report of 1989 activities to its Board of Directors</p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">7 : 4</container>
+    <unitdate>1990</unitdate>
+</did>
+<scopecontent><p>Includes audit; AALC report of 1990 activities to its Board of Directors; and project proposal for 1991-1995 submitted to the U.S. Agency for International Development</p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">7 : 5</container>
+    <unitdate>1991-1992. </unitdate>
+</did>
+<scopecontent><p>Includes AALC report of 1992 activities to its Board of Directors </p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">8 : 1</container>
+    <unitdate>1993-1994. </unitdate>
+</did>
+<scopecontent><p>Includes proceedings of Forum on Conditionality for the Defense of Worker Rights in Africa, San Francisco, </p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">8 : 2</container>
+    <unitdate>1995</unitdate>
+</did>
+<scopecontent><p>Includes directory of African trade union federations; program submission for 1996-2001 to the U.S. Agency for International Development; AALC report of 1995 activities to its Board of Directors; and proposed bylaw changes</p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">8 : 3</container>
+    <unitdate>1996-1997. </unitdate>
+</did>
+<scopecontent><p>Includes descriptions of U.S. Agency of International Development program changes</p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">8 : 4</container>
+    <unitdate>Undated. </unitdate>
+</did>
+<scopecontent><p>Includes notes and summaries of unidentified international labor meetings with AALC participation in Geneva, Switzerland </p></scopecontent></c02></c01>
+<c01 level="series" id="c01-9">
+<did>
+<container type="Box" label="Box: ">8--19</container>
+  <unittitle>Subject File, </unittitle>
+  <unitdate>1917-2009. </unitdate>
+</did>
+<scopecontent><p>Correspondence, notes, memoranda, reports, speeches, lists, conference material, grant proposals, bulletins, printed articles, Internet printout, bibliographies, pamphlets, serial issues, clippings, and other printed matter, arranged alphabetically by topic. Includes internal and public documents of the African-American Labor Center relating to specific countries</p></scopecontent>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">8 : 5</container>
+  <unittitle>Africa, </unittitle>
+  <unitdate>1951-1995. </unitdate>
+</did>
+<scopecontent><p>Material on Africa in general, and especially on labor in Africa. Includes <title render="italic">Les peuples d&#233;pendants s'adressent aux Nations Unies: m&#233;moire du Congr&#232;s des peuples, </title> circa 1951 (pamphlet)</p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">8 : 6</container>
+  <unittitle>Algeria, </unittitle>
+  <unitdate>1997-2002. </unitdate>
+</did>
+<scopecontent><p>Relates mainly to the assassination of the Algerian labor leader Abdelhak Benhamouda in 1997</p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">8 : 7</container>
+  <unittitle>Ames, Aldrich (Soviet spy), </unittitle>
+  <unitdate>1994</unitdate>
+</did>
+<scopecontent><p>Photocopy of U.S. Federal Bureau of Investigation affidavit in support of warrant for arrest of Ames and wife on espionage charges</p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">9 : 1</container>
+  <unittitle>Belgium, </unittitle>
+  <unitdate>1917-2006. </unitdate>
+</did>
+<scopecontent><p>Relates mainly to labor and socialist movements in Belgium. Includes Viscount Bryce, <title render="italic">La derni&#232;re phase en Belgique,</title> 1917; <title render="italic">Le cinquanti&#232;me anniversaire du P.O.B. [Parti Ouvrier Belge], 1885-1935: album-souvenir,</title> 1935; Camille Huysmans, About Belgium, </p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">9 : 2</container>
+  <unittitle>Blondel, Marc (secretary-general, Force Ouvri&#232;re [France]), </unittitle>
+  <unitdate>1996</unitdate>
+</did>
+<scopecontent><p>Includes speech by Blondel</p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="Box" label="Box: ">9</container>
+  <unittitle>Brown, Irving (director, AFL-CIO Department of International Affairs)</unittitle>
+  </did>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">9 : 3</container>
+  <unittitle>Personal papers of and writings by Brown, 1945-1980, including passport of Brown; memoranda and printed articles by Brown; "Alternatives to Wars of Attrition: The Role of Democratic Forces in a Political Solution," 1971 (typescript by Brown); "Labor and the Developing World," 1971 (typescript by Brown); and letters to Brown</unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">9 : 4</container>
+  <unittitle>Tributes to Brown and printed matter about him, </unittitle>
+  <unitdate>1946-1988. </unitdate>
+</did>
+<scopecontent><p>Includes French Communist broadside denouncing him </p></scopecontent>
+</c03>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">9 : 5</container>
+  <unittitle>Obituaries of Brown and condolence letters upon his death, </unittitle>
+  <unitdate>1989</unitdate>
+</did>
+</c03>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">9 : 6</container>
+  <unittitle>Burma, </unittitle>
+  <unitdate>1996</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">9 : 7</container>
+  <unittitle>Canada, </unittitle>
+  <unitdate>1989</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">9 : 8</container>
+  <unittitle>Central America, </unittitle>
+  <unitdate>1985-1986. </unitdate>
+</did>
+<scopecontent><p>Includes James McCargar, "El Salvador and Nicaragua: The AFL-CIO Views on the Controversy," 1985 (AFL-CIO Department of International Affairs document); and Tom Barry and Deb Preusch, "AIFLD in Central America: Agents as Organizers," 1986</p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">9 : 9</container>
+  <unittitle>China, </unittitle>
+  <unitdate>1989</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">9 : 10</container>
+  <unittitle>Committee for International Support of Trade Union Rights, </unittitle>
+  <unitdate>1988-1990</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Box" label="Box: ">10</container>
+  <unittitle>Communism. Relates to international communism in general and especially to international Communist front organizations</unittitle>
+  </did>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">10 : 1</container>
+  <unittitle>General, </unittitle>
+  <unitdate>1983-1999</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">10 : 2</container>
+  <unittitle>Report on Communist-Controlled Organisations, 1986-1992; "The Communist Propaganda Network and Perestroika," 1990; W. Spaulding, "World Communism in 1992," 1992; and W. Spaulding, "World Communism: Current Status and Future Prospects," 1993</unittitle>
+  
+</did>
+</c03>
+</c02>
+<c02 level="file">
+<did>
+<container type="Box" label="Box: ">10</container>
+  <unittitle>Communism-United States</unittitle>
+  </did>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">10 : 3</container>
+  <unittitle>General, </unittitle>
+  <unitdate>1987-2002 </unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">10 : 4</container>
+  <unittitle>Dilling, Elizabeth, <title render="italic">The Red Network,</title> 1934 (book)</unittitle>
+  
+</did>
+</c03>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">10 : 5</container>
+  <unittitle>Dahomey, </unittitle>
+  <unitdate>circa 1990. </unitdate>
+</did>
+<scopecontent><p>Ambroise Agboton Padonou, <title render="italic">J'ai surv&#233;cu </title>(pamphlet)</p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">10 : 6</container>
+  <unittitle>Egypt, </unittitle>
+  <unitdate>1993-2000. </unitdate>
+</did>
+<scopecontent><p>Relates mainly to AALC and Solidarity Center programs in Egypt</p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">10 : 7</container>
+  <unittitle>Europe, </unittitle>
+  <unitdate>1993-2002. </unitdate>
+</did>
+<scopecontent><p>Includes Sara-Nathalie Brombart, "Uneasy Partners in Foreign Policy-Making: European Political Cooperation and the European Community," 1993; and Rebecca Gumbrell-McCormick, "The Role of Nordic Trade Unions in the International Labour Movement," 2002</p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">10 : 8</container>
+  <unittitle>France, </unittitle>
+  <unitdate>1940-2003. </unitdate>
+</did>
+<scopecontent><p>Relates mainly to Force Ouvri&#232;re and other labor movements, and to Trotskyism, in France. Includes Pierre Galoni, "Conf&#233;rence Franco-am&#233;ricaine des 14 et 15 janvier 1972," 1972; Diana Pinto, "Hamon and Rotman: La Deuxi&#232;me Gauche," 1983; and Jean-Marie Pernot, "Les relations internationales et les d&#233;buts de la CGT-FO," 2003</p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">11 : 1</container>
+  <unittitle>Freeman, Anthony G. (U.S. Department of State labor affairs officer and International Labour Organisation official), </unittitle>
+  <unitdate>2007</unitdate>
+</did>
+<scopecontent><p>Obituary and related material</p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">11 : 2</container>
+  <unittitle>Funk, Jerry (AFL-CIO and U.S. government official), </unittitle>
+  <unitdate>2002-2004</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">11 : 3</container>
+  <unittitle>Germany, </unittitle>
+  <unitdate>1979-1984. Includes <title render="italic">German-American Trade Union Solidarity in the Struggle against Fascism, 1933-1945: How the American Trade Unions Helped their Persecuted German Colleagues,</title> 1984 (pamphlet)</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">11 : 4</container>
+  <unittitle>Godson, Roy (president, Institute for International Studies), 1975-1995. Mainly printed writings by Godson. Includes his "American Labor's Continuing Involvement in World Affairs," 1975; "The AFL Foreign Policy Making Process from the End of World War II to the Merger," 1975; <title render="italic">The Kremlin and Labor: A Study in National Security Policy, </title> 1977; and <title render="italic">Soviet Active Measures, People-to-People Contacts, and the Helsinki Process,</title> 1986</unittitle>
+  
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">11 : 5</container>
+  <unittitle>Institute for Policy Studies, </unittitle>
+  <unitdate>1981</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">11 : 6</container>
+  <unittitle>Intelligence, </unittitle>
+  <unitdate>1967-2009. </unitdate>
+</did>
+<scopecontent><p>Relates to intelligence operations and espionage in general. Includes several issues of <title render="italic">Political Warfare,</title> 1990-1992; <title render="italic">Of Moles and Molehunters: A Review of Counterintelligence Literature,</title> </p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">11 : 7</container>
+  <unittitle>International Centre for Trade Union Rights, </unittitle>
+  <unitdate>1990-2005</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">11 : 8</container>
+  <unittitle>International Conference on Disarmament, Development and Conversion (1990 : Copenhagen). Conference materials</unittitle>
+  
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">11 : 9</container>
+  <unittitle>International Endowment for Democracy, </unittitle>
+  <unitdate>2006</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">11 : 10</container>
+  <unittitle>International Federation of Trade Unions, </unittitle>
+  <unitdate>1964</unitdate>
+</did>
+<scopecontent><p>Walther Schevenels, <title render="italic">Quarante-cinq ann&#233;es: F&#233;d&#233;ration Syndicale Internationale,</title> </p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">11 : 11</container>
+  <unittitle>International Workers' Conference in Solidarity with the Workers and People of the State of Kuwait (1990 : Cairo). Conference material, relating to the Iraqi invasion of Kuwait, correspondence, and press coverage</unittitle>
+  
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">11 : 12</container>
+  <unittitle>Iraq, </unittitle>
+  <unitdate>1997-2006. </unitdate>
+</did>
+<scopecontent><p>Includes Felix Zorba and Roberto Sarti, "Uprisings and Betrayals: A Brief History of the Left in Iraq," 2003 (Internet article)</p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="Box" label="Box: ">12</container>
+  <unittitle>Islamic countries</unittitle>
+  </did>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">12 : 1</container>
+  <unittitle>General, </unittitle>
+  <unitdate>1993-2006</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="Box" label="Box: ">12</container>
+  <unittitle>Hassan Fathy Institute. Relates to efforts of the Hassan Fathy Institute, in conjunction with the International Construction Institute, to promote democratic construction trade unions in Islamic countries</unittitle>
+  </did>
+<c04 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">12 : 2--3</container>
+
+  <unittitle>Grant proposals to the AFL-CIO Solidarity Center, the U.S. Agency for International Development and the National Endowment for Democracy; concept papers; and correspondence with John T. Joyce, </unittitle>
+  <unitdate>2002-2006 </unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">12 : 4</container>
+  <unittitle>Printed reports, </unittitle>
+  <unitdate>1988-2000, </unitdate>
+</did>
+<scopecontent><p>including <title render="italic">Statement of Principles </title>of the Hassan Fathy Institute; <title render="italic">Early Deaths, Stunted Lives: The Hassan Fathy Project to Help Resolve the Global Housing Crisis </title>(report to the United Nations General Assembly Special Session on Housing); and proceedings of the Hassan Fathy Institute Construction Workers Rights Symposium</p></scopecontent></c04>
+<c04 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">12 : 5</container>
+  <unittitle>Fathy, Hassan, <title render="italic">Architecture for the Poor,</title> (book),</unittitle>
+  <unitdate>1973</unitdate>
+</did>
+</c04></c03>
+<c03 level="file">
+<did>
+<container type="Box" label="Box: ">12</container>
+  <unittitle>Ibn Khaldun Society, </unittitle>
+  <unitdate>1995-2005. </unitdate>
+</did>
+<scopecontent><p>Relates to efforts of the Ibn Khaldun Society, in conjunction with the Institute of International Studies, to promote democracy in Islamic countries. </p></scopecontent>
+<c04 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">12 : 6</container>
+  <unittitle>Correspondence with Khalid Durán, memoranda, and meeting and conference reports, </unittitle>
+  <unitdate>1995-2005</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">13 : 1</container>
+  <unittitle>Grant proposals to the National Endowment for Democracy and the U.S. Institute for Peace, </unittitle>
+  <unitdate>1997-1998 </unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">13 : 2</container>
+  <unittitle>TransState Islam issues, printed writings by Khalid Durán, and press coverage, </unittitle>
+  <unitdate>1995-2001</unitdate>
+</did>
+</c04></c03>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">13 : 3</container>
+  <unittitle>Israel, </unittitle>
+  <unitdate>1965-1991. </unitdate>
+</did>
+<scopecontent><p>Includes Akiva Eger, <title render="italic">The Role of Labour and Co-operation in the Development of Young States,</title> 1965; and <title render="italic">La coop&#233;ration et les travailleurs au service du d&#233;veloppement national,</title> 1968</p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">13 : 4</container>
+  <unittitle>Joyce, John T. (president, International Construction Institute), </unittitle>
+  <unitdate>1991-2006. </unitdate>
+</did>
+<scopecontent><p>Includes correspondence; report to the AFL-CIO Executive Committee on the Persian Gulf War, 1991; and "The Challenge to the American Labor Movement," 2005 (typescript by Joyce)</p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">13 : 5</container>
+  <unittitle>Kahn, Thomas (director, AFL-CIO Department of International Affairs), </unittitle>
+  <unitdate>1960-2004. </unitdate>
+</did>
+<scopecontent><p>Includes <title render="italic">Unfinished Revolution,</title> 1960 (pamphlet by Kahn); memorial material upon the death of Kahn in 1992; and Rachelle Horowitz, "Tom Kahn and the Fight for Democracy: A Political Portrait and Personal Recollection," circa 2004</p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">13 : 6</container>
+  <unittitle>Kenya, </unittitle>
+  <unitdate>2006</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Box" label="Box: ">13</container>
+  <unittitle>Kirkland, Lane (president, AFL-CIO) </unittitle>
+  
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">13 : 7</container>
+  <unittitle>General, </unittitle>
+  <unitdate>1973-2005</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">13 : 8</container>
+  <unittitle>Obituaries and memorial material, </unittitle>
+  <unitdate>1999</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Box" label="Box: ">14</container>
+  <unittitle>Labor. </unittitle>
+  </did><scopecontent><p>Relates to international labor in general and especially to prospects for unification of international labor organizations </p></scopecontent>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">14 : 1</container>
+  <unittitle>General, </unittitle>
+  <unitdate>1954-2007. </unitdate>
+</did>
+<scopecontent><p>Includes Jack Woddis, <title render="italic">The Mask Is Off! </title>1954 (pamphlet); and Anthony Carew, "Free Trade Unionism in the International Context," 2002 (conference paper)</p></scopecontent></c03>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">14 : 2</container>
+  <unittitle>Internet printout, </unittitle>
+  <unitdate>2001-2009</unitdate>
+</did>
+</c03>
+</c02>
+<c02 level="file">
+<did>
+<container type="Box" label="Box: ">14</container>
+  <unittitle>Labor-United States</unittitle>
+  </did>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">14 : 3</container>
+  <unittitle>General, </unittitle>
+  <unitdate>1951-2007. </unitdate>
+</did>
+<scopecontent><p>Mainly printed news stories. Includes joint statement by the American Federation of Labor, the Congress of Industrial Organizations and other unions, <title render="italic">Equal Sacrifice for the Defense of America,</title> 1951 (pamphlet)</p></scopecontent></c03>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">14 : 4</container>
+  <unittitle><title render="italic">Time</title> magazine special issues on American labor, </unittitle>
+  <unitdate>1940-1947</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">14 : 5</container>
+  <unittitle>Cahn, William, <title render="italic"> A Pictorial History of American Labor,</title> (book)</unittitle>
+  <unitdate>1972</unitdate>
+</did>
+</c03>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">15 : 1</container>
+  <unittitle>Labor and intelligence, </unittitle>
+  <unitdate>1974-2004. </unitdate>
+</did>
+<scopecontent><p>Printed matter relating to connections between labor organizations and the U.S. Central Intelligence Agency. Includes <title render="italic">An Analysis of Our AFL-CIO Role in Latin America, or Under the Covers with the CIA,</title> 1974 (pamphlet); and Anthony Carew, "The American Labor Movement in Fizzland: The Free Trade Union Committee and the CIA," 1998 (printed article)</p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">15 : 2</container>
+  <unittitle>Labor diplomacy, </unittitle>
+  <unitdate>1968-2007. </unitdate>
+</did>
+<scopecontent><p>Relates to the labor attach&#233; program of the U.S. Department of State. Includes messages, memoranda and reports of the Department of State and the U.S. Department of Labor; and correspondence and reports of Anthony G. Freeman</p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">15 : 3</container>
+  <unittitle>Labor Research Association, </unittitle>
+  <unitdate>1986</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Box" label="Box: ">15</container>
+  <unittitle>Lovestone, Jay (director, AFL-CIO Department of International Affairs)</unittitle>
+  </did>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">15 : 4</container>
+  <unittitle>General, </unittitle>
+  <unitdate>1953-2001. </unitdate>
+</did>
+<scopecontent><p>Includes photocopy of passport application by Lovestone, 1953; and photocopy of draft chapter from the book by Ted Morgan, <title render="italic">A Covert Life: Jay Lovestone: Communist, Anticommunist, and Spymaster,</title> 1999</p></scopecontent></c03>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">15 : 5</container>
+  <unittitle>Early printed writings by Lovestone, </unittitle>
+  <unitdate>1927-1937. </unitdate>
+</did>
+<scopecontent><p>Includes "America Facing Europe," 1927; <title render="italic">America Prepares the Next War, 1928;</title><title render="italic"> 1928: The Presidential Election and the Workers, </title> 1928; <title render="italic">The Labor Lieutenants of American Imperialism; What Next for American Labor?</title> 1934; <title render="italic">Soviet Foreign Policy and the World Revolution,</title> 1935; <title render="italic">People's Front Illusion: From "Social Fascism" to the "People's Front,"</title> 1937; <title render="italic">The American Labor Movement: Its Past, Present and Future;</title> and <title render="italic">New Frontiers for Labor</title></p></scopecontent></c03>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">15 : 6</container>
+  <unittitle>Maghreb region (North Africa), </unittitle>
+  <unitdate>1989-1993. </unitdate>
+</did>
+<scopecontent><p>Includes <title render="italic">Congr&#232;s Constitutif de l'Union Syndicale des Travailleurs du Maghreb Arabe,</title> 1989; and <title render="italic">Charte des droits sociaux fondamentaux des travailleurs du Maghreb Arabe,</title> 1991</p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">15 : 7</container>
+  <unittitle>Mali, </unittitle>
+  <unitdate>1970-1971. </unitdate>
+</did>
+<scopecontent><p>Includes "Cit&#233; d'Ouvriers Workers Housing Project, Sogoninnko, Mali," (AALC project proposal), 1970</p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">15 : 8</container>
+  <unittitle>Meany, George (president, AFL-CIO), </unittitle>
+  <unitdate>1950-1980</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">15 : 9</container>
+  <unittitle>Morocco, </unittitle>
+  <unitdate>1989-1996. </unitdate>
+</did>
+<scopecontent><p>Includes reports of the national congress of the Union Marocaine du Travail, 1989</p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">16 : 1</container>
+  <unittitle>National Endowment for Democracy, </unittitle>
+  <unitdate>1987-2008. </unitdate>
+</did>
+<scopecontent><p>Includes performance reviews and audit reports</p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">16 : 2</container>
+  <unittitle>Organization of African Trade Union Unity, </unittitle>
+  <unitdate>1965-1986</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">16 : 3</container>
+  <unittitle>Palestine, </unittitle>
+  <unitdate>1977-1996. </unitdate>
+</did>
+<scopecontent><p>Includes report on trade unions in the West Bank and Gaza, 1996</p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">16 : 4</container>
+  <unittitle>Philippines, </unittitle>
+  <unitdate>1993</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">16 : 5</container>
+  <unittitle>Randolph, A. Philip (president, Brotherhood of Sleeping Car Porters), </unittitle>
+  <unitdate>1975-1992</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">16 : 6</container>
+  <unittitle>Ross, Michael (director, AFL-CIO Department of International Affairs), </unittitle>
+  <unitdate>2003-2007</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">16 : 7</container>
+  <unittitle>Rustin, Bayard (president, A. Philip Randolph Institute), </unittitle>
+  <unitdate>1977-1993</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">16 : 8</container>
+  <unittitle>Saudi Arabia. Ahmed Subhy Mansour, "The Religious Sunni Opposition in the Saudi Kingdom in the 20th Century," (holograph), </unittitle>
+  <unitdate>2002</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">16 : 9</container>
+  <unittitle>Shanker, Albert (president, American Federation of Teachers), </unittitle>
+  <unitdate>1997</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">16 : 10</container>
+  <unittitle>Solzhenitsyn, Aleksandr (Soviet dissident novelist), </unittitle>
+  <unitdate>1975</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Box" label="Box: ">16</container>
+  <unittitle>South Africa</unittitle>
+  </did>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">16 : 11</container>
+  <unittitle>AALC internal memoranda and working materials, </unittitle>
+  <unitdate>1975-1996. </unitdate>
+</did>
+<scopecontent><p> Includes <title render="italic">AFL-CIO Program of Action in South Africa,</title> 1990 (AALC report); "Management Assessment and Evaluation Report: South Africa Labor Union Assistance," 1990 (U.S. Agency for International Development report); "Democratic Transition in South Africa," 1991 (draft AFL-CIO Executive Council statement); and evaluation report of AALC programs in South Africa, 1995</p></scopecontent></c03>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">16 : 12</container>
+  <unittitle>Collected material, </unittitle>
+  <unitdate>1985-2007. </unitdate>
+</did>
+<scopecontent><p>Includes <title render="italic">ANC: The Inside Story, </title>circa 1985 (pamphlet); "Conditions in South African Jails," 1986 (International Confederation of Free Trade Unions report); Workers' World, 1993 (International Labour Research and Information Group magazine issues); <title render="italic">Breaking Boundaries,</title> 1994 (Congress of South African Trade Unions pamphlet); and Jani Roberts, "Glitter and Greed: The Diamond Investigation," 2001 (Internet article)</p></scopecontent></c03>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">17 : 1</container>
+  <unittitle>Soviet Union, </unittitle>
+  <unitdate>1980-1999. </unitdate>
+</did>
+<scopecontent><p>Includes Boris Shelomov, <title render="italic">How Soviet Trade Unions Look after Workers' Interests, </title>1982 (Soviet pamphlet); <title render="italic">The International Department of the CC CPSU under Dobrynin,</title> 1988 (U.S. Foreign Service Institute report); and proceedings (in French) of plenary session of the All-Union Central Council of Trade Unions of the Soviet Union, 1989</p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">17 : 2</container>
+  <unittitle>Springer, Maida (African-American labor activist), </unittitle>
+  <unitdate>1999-2000. </unitdate>
+</did>
+<scopecontent><p>Includes Yevette Richards, "Race, Gender, and Anticommunism in the International Labor Movement: The Pan-African Connections of Maida Springer," 1999 (Internet article)</p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">17 : 3</container>
+  <unittitle>Stand, Kurt (East German spy), </unittitle>
+  <unitdate>1997-2000. </unitdate>
+</did>
+<scopecontent><p>Relates to Kurt Stand-Theresa Squillacote-James Clark espionage case</p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">17 : 4</container>
+  <unittitle>Sudan, </unittitle>
+  <unitdate>1990</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">17 : 5</container>
+  <unittitle>Switzerland, </unittitle>
+  <unitdate>1984</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">17 : 6</container>
+  <unittitle>Togo, </unittitle>
+  <unitdate>1987</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Box" label="Box: ">17</container>
+  <unittitle>Tunisia, </unittitle>
+  <unitdate>1959-2006. </unitdate></did>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">17 : 7</container>
+  <unittitle>General. Includes <title render="italic">Le Peuple,</title> 1959 (Union G&#233;n&#233;rale Tunisienne du Travail special magazine issue); Irving Brown memorandum on establishment of an AALC regional office for northern Africa in Tunis, </unittitle>
+  <unitdate>1970; and Juliette Bessis, <title render="italic">Farhat Hached,</title> 1977 (<title render="italic">Jeune Afrique</title> special supplement)</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">17 : 8</container>
+  <unittitle>Tlili, Ahmed. Includes photocopies of letters by Tlili, 1966-1967; and <title render="italic">Lettre &#224; Bourguiba</title>, 1988 (posthumous pamphlet by Tlili) </unittitle>
+  
+</did>
+</c03>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">17 : 9</container>
+  <unittitle>Washington Area Labor Committee on Central America and the Caribbean, </unittitle>
+  <unitdate>1986</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">17 : 10</container>
+  <unittitle>Weiner, Herbert E. (U.S. Department of State labor attach&#233;), </unittitle>
+  <unitdate>1954-2007. </unitdate>
+</did>
+<scopecontent><p>Includes interview transcript, printed article by Weiner, and obituary</p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="Box" label="Box: ">17</container>
+  <unittitle>World Federation of Trade Unions</unittitle>
+  </did>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">17 : 11</container>
+  <unittitle>General, </unittitle>
+  <unitdate>1985-2006. </unitdate>
+</did>
+<scopecontent><p>Includes AFL-CIO and International Confederation of Free Trade Unions internal memoranda and working materials relating to the WFTU</p></scopecontent></c03>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">18 : 1</container>
+  <unittitle>Continuity and Change: The World Federation of Trade Unions and International Labor Unity, 1988 (AFL-CIO Free Trade Union Institute report)</unittitle>
+  
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">18 : 2</container>
+  <unittitle>World Congress (10th : 1982 : Havana). Printed pictorial report</unittitle>
+  
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">18 : 3</container>
+  <unittitle>General Council session (41st : 1988 : New Delhi). Proceedings</unittitle>
+  
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">18 : 4</container>
+  <unittitle>World Congress (12th : 1990 : Moscow). Proceedings</unittitle>
+  
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">18 : 5</container>
+  <unittitle>World Congress (15th : 2005 : Havana). Reports and summaries</unittitle>
+  
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">18 : 6</container>
+  <unittitle><title render="italic">Flashes from the Trade Unions</title> (WFTU publication), </unittitle>
+  <unitdate>1987-1993</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="Box" label="Box: ">18</container>
+  <unittitle><title render="italic">World Trade Union Movement</title> (WFTU publication)</unittitle>
+  </did>
+<c04 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">18 : 7</container>
+    <unitdate>1986</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">19 : 1</container>
+    <unitdate>1987</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">19 : 2</container>
+    <unitdate>1988</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">19 : 3</container>
+    <unitdate>1989</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">19 : 4</container>
+    <unitdate>1990</unitdate>
+</did>
+</c04></c03>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">19 : 5</container>
+  <unittitle>Miscellaneous WFTU issuances, </unittitle>
+  <unitdate>1984-2005. </unitdate>
+</did>
+<scopecontent><p>Includes <title render="italic">African Trade Unions and Foreign Debt,</title> (pamphlet) 1987 </p></scopecontent></c03>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">19 : 6</container>
+  <unittitle>Worldwide Labor Officers' Conference (2005 : Washington). Conference materials. Includes "A Labor Diplomacy Strategy for the Muslim World" (report of the Advisory Committee on Labor Diplomacy)</unittitle>
+  
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">19 : 7</container>
+  <unittitle>Zambia, </unittitle>
+  <unitdate>circa 1991</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">19 : 8</container>
+  <unittitle>Miscellany, </unittitle>
+  <unitdate>1992-2007</unitdate>
+</did>
+</c02></c01>
+<c01 level="series" id="c01-10">
+<did>
+<container type="Box" label="Box: ">20</container>
+  <unittitle>Audiovisual File, </unittitle>
+  <unitdate>circa 1910s-2000s. </unitdate>
+</did>
+<scopecontent><p>Photographs, audiotapes, and videotapes, arranged by physical form</p></scopecontent>
+<c02 level="file">
+<did>
+<container type="Box" label="Box: ">20</container>
+  <unittitle>Photographs. Depicts American, African and other international labor leaders, and scenes at World Assembly of Youth, International Labour Organisation, International Confederation of Free Trade Unions, AFL-CIO, African-American Labor Center, and other events, </unittitle>
+  <unitdate>circa 1910s-2000s</unitdate></did>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">20 : 1</container>
+  <unittitle>Numerically keyed photographs, with individual numbers on the back of each photograph, and keyed individual descriptions arranged by number. Individuals depicted include I. W. Abel, Bella Abzug, Habib Achour, Omer Becu, Mahjoud Benseddik, Bill Bradley, David Brombart, Irving Brown, Abdou Diouf, Enzo Friso, Hubert H. Humphrey, John T. Joyce, Thomas Kahn, Andrew Kailembo, Edward Kennedy, Lane Kirkland, George Meany, Jay Naidoo, Patrick O'Farrell, Yuri Orlov, William Rogers, Maida Springer, Margaret Thatcher, Ahmed Tlili, John Vanderveken, and David Wirmark</unittitle>
+  
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">20 : 2</container>
+  <unittitle>Captioned photographs. Individuals depicted include Cyrille Adoula, David Brombart, Irving Brown, Elmer Cope, Arthur Deakin, Dwight Eisenhower, Alfred Gruenther, Jay Lovestone, George Meany, Robert Murphy, A. Philip Randolph, Walter Reuther, Michael Ross, Walther Schevenels, Aleksandr Solzhenitsyn, and Vincent Tewson</unittitle>
+  
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">20 : 3</container>
+  <unittitle>Captioned photographs. Individuals depicted include David Brombart, George W. Bush, Arthur Deakin, Samuel Gompers, William Green, L&#233;on Jouhaux, Walter Reuther, Franklin D. Roosevelt, Tran Quoc Buu, and Emile Vandervelde</unittitle>
+  
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">20 : 4</container>
+  <unittitle>Uncaptioned photographs of Irving Brown and others. Other individuals depicted include Arnold Beichman, David Brombart, David Dubinsky, Jerry Funk, Jacob Javits, Jay Lovestone, George Meany, Daniel Moynihan, Nguyen Cao Ky, Richard M. Nixon, Walter Reuther, William Rogers, and Maida Springer</unittitle>
+  
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">20 : 5</container>
+  <unittitle>Uncaptioned photographs of George Meany and others. Other individuals depicted include Habib Achour, David Brombart, John F. Kennedy, and Walter Reuther</unittitle>
+  
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">20 : 6</container>
+  <unittitle>Uncaptioned photographs of Lane Kirkland and others. Other individuals depicted include David Brombart, Jay Naidoo, and Yuri Orlov</unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">20 : 7</container>
+  <unittitle>Uncaptioned photographs. Individuals depicted include Kofi Annan, James Baker, Arnold Beichman, David Brombart, Abdou Diouf, David Dubinsky, Jerry Funk, Samuel Gompers, William Green, Hubert H. Humphrey, John T. Joyce, Thomas Kahn, Patrick O'Farrell, Yuri Orlov, Frances Perkins, A. Philip Randolph, Walter Reuther, Franklin D. Roosevelt, Bayard Rustin, and Leonard Woodcock</unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">20 : 8</container>
+  <unittitle>Uncaptioned photographs of David Brombart and others</unittitle>
+  
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">20 : 9</container>
+  <unittitle>World Assembly of Youth photographs, </unittitle>
+  <unitdate>circa 1950s-1960s. </unitdate>
+</did>
+<scopecontent><p>Individuals depicted include David Brombart, Jawaharlal Nehru, and David Wirmark</p></scopecontent></c03>
+<c03 level="file">
+<did>
+<container type="Folder" label="Box/Folder: ">20 : 10</container>
+  <unittitle>Zambian election observation photographs, </unittitle>
+  <unitdate>1991</unitdate>
+</did>
+<scopecontent><p>Individuals depicted include David Brombart and Jimmy Carter</p></scopecontent></c03>
+</c02>
+<c02 level="file">
+<did>
+<container type="Box" label="Box: ">21</container>
+  <unittitle>Audiotapes</unittitle>
+  </did>
+<c03 level="file">
+<did>
+<container type="Box" label="Box: ">21</container>
+  <unittitle>Roosevelt, Franklin D. Speech excerpts, </unittitle>
+  <unitdate>1933-1945</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="Box" label="Box: ">21</container>
+  <unittitle>Kirkland, Lane. Eulogy at George Meany funeral, </unittitle>
+  <unitdate>1980</unitdate>
+</did>
+</c03>
+</c02>
+<c02 level="file">
+<did>
+<container type="Box" label="Box: ">21</container>
+  <unittitle>Videotapes</unittitle>
+  </did>
+<c03 level="file">
+<did>
+<container type="Box" label="Box: ">21</container>
+  <unittitle>Worldnet French-language television program featuring David Brombart, </unittitle>
+  <unitdate>1989</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="Box" label="Box: ">21</container>
+  <unittitle>Force Ouvri&#232;re May Day celebration, Paris, France, featuring Marc Blondel and David Brombart, </unittitle>
+  <unitdate>1996</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="Box" label="Box: ">21</container>
+  <unittitle>Memorial service for Lane Kirkland, Washington, D.C., </unittitle>
+  <unitdate>1999</unitdate>
+</did>
+</c03></c02></c01>
+<c01 level="series" id="c01-11">
+<did>
+<container type="Box" label="Box: ">22-23</container>
+  <unittitle>Memorabilia, </unittitle>
+  <unitdate>undated. </unitdate>
+</did>
+<scopecontent><p>Convention badges, lapel pins, and assorted commemorative items</p></scopecontent></c01>
+<c01 level="series" id="c01-12">
+<did>
+<container type="Box" label="Box: ">24</container>
+  <unittitle>Oversize File, </unittitle>
+  <unitdate>1952-1990. </unitdate>
+</did>
+<scopecontent><p>Oversize memorabilia, serial issues, and photograph</p></scopecontent>
+<c02 level="file">
+<did>
+<container type="Box" label="Box: ">24</container>
+  <unittitle>Framed mementos, </unittitle>
+  <unitdate>1968-1990 </unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Box" label="Box: ">24</container>
+  <unittitle>Oversize serial issues including articles on the American labor movement and Irving Brown, </unittitle>
+  <unitdate>1957-1970</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Box" label="Box: ">25</container>
+  <unittitle>Plaque commemorating International Labour Organisation conference, </unittitle>
+  <unitdate>1976</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Box" label="Box: ">25</container>
+  <unittitle>Fortieth anniversary reproduction of International Confederation of Free Trade Unions manifesto, </unittitle>
+  <unitdate>1989</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Box" label="Box: ">25</container>
+  <unittitle><title render="italic">Revue WAY</title> bound volume, (World Assembly of Youth French-language newspaper), </unittitle>
+  <unitdate>1957-1961</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="Box" label="Box: ">25</container>
+  <unittitle>Oversize photograph of International Confederation of Free Trade Unions dinner, </unittitle>
+  <unitdate>1952</unitdate>
+</did>
+</c02>
+</c01>
+
+<c01 level="series" id="c01-13">
+<did>
+<container type="box" label="Box: ">26</container>
+<unittitle>World Assembly of Youth File II, </unittitle>
+<unitdate>1958-1964</unitdate>
+</did>
+<scopecontent>
+<p>Issuances of the World Assembly of Youth</p>
+</scopecontent>
+
+  <c02 level="file">
+	<did>
+	  <container type="Folder" label="Box/Folder: ">26 : 1 </container>
+	   <unitdate>1958-1964. </unitdate><unittitle>Bound volume of printed reports and resolutions, and issues of <title render="italic">Appel à l'action</title></unittitle>
+ 	   
+	</did>
+ </c02>
+  <c02 level="file">
+	<did>
+	  <container type="Folder" label="Box/Folder: ">26 : 2 </container>
+	    <unitdate>1962. </unitdate><unittitle>Bound volume of reports and conference proceedings</unittitle>
+ 	  
+	</did>
+ </c02>
+  <c02 level="file">
+	<did>
+	  <container type="Folder" label="Box/Folder: ">26 : 3 </container>
+	  <unitdate>1963-1964. </unitdate><unittitle>Bound volume of reports and conference proceedings</unittitle>
+	</did>
+ </c02>
+</c01>
+
+
+<c01 level="series" id="c01-14">
+<did>
+<container type="box" label="Box/Folder: ">27 : 1</container>
+<unittitle>International Labour Organization File II, </unittitle>
+<unitdate>1974</unitdate>
+</did>
+<scopecontent>
+<p>Journal article</p>
+</scopecontent>
+</c01>
+
+
+<c01 level="series" id="c01-15">
+<did>
+<container type="box" label="Box: ">27</container>
+<unittitle>Subject File II, </unittitle>
+<unitdate>1965-2009</unitdate>
+</did>
+<scopecontent>
+<p>Conference proceedings, clippings, printed articles, and serial issues, arranged alphabetically by topic
+</p>
+</scopecontent>
+  <c02 level="otherlevel">
+	<did>
+	   <unittitle>Cuba</unittitle>
+	</did>
+  <c03 level="file">
+	<did>
+	  <container type="Folder" label="Box/Folder: ">27 : 2 </container>
+	   <unittitle>Assisting Independent Trade Unions in Cuba Conference, Washington, D.C.,  Briefing book, </unittitle>
+ 	   <unitdate>2009</unitdate>
+	</did>
+ </c03>
+
+  <c03 level="file">
+	<did>
+	  <container type="Folder" label="Box/Folder: ">27 : 3 </container>
+	   <unittitle><title render="italic">Cuba sindical.</title>  Serial issue, </unittitle>
+ 	   <unitdate>2008</unitdate>
+	</did>
+ </c03>
+</c02>
+  <c02 level="file">
+	<did>
+	  <container type="Folder" label="Box/Folder: ">27 : 4-5 </container>
+	   <unittitle>Labor and intelligence, </unittitle>
+ 	   <unitdate>1965-1969. </unitdate>
+	</did>
+		<scopecontent><p>Clippings and journal articles relating to connections between the AFL-CIO and the U.S. Central Intelligence Agency</p></scopecontent>
+
+ </c02>
+
+  <c02 level="file">
+	<did>
+	  <container type="Folder" label="Box/Folder: ">27 : 6 </container>
+	   <unittitle>Mozambique,  Newspaper issue, </unittitle>
+ 	   <unitdate>1988 </unitdate>
+	</did>
+ </c02>
+</c01>
+</dsc>
+
+
+</archdesc>
+</ead>

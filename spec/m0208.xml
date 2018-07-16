@@ -1,0 +1,926 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  
+  
+  
+  
+  
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" repositoryencoding="iso15511" findaidstatus="unverified-full-draft" langencoding="iso639-2b"><eadid countrycode="us" identifier="ark:/13030/tf0k4000tt" mainagencycode="CSt" publicid="PUBLIC &quot;-//Stanford University::Libraries::Dept. of Special Collections::Manuscripts Division//TEXT (US::CSt::M0208::Herbert C. (Herbert Coffin) Jones Papers )//EN&quot; &quot;m0208.sgm&quot;">m0208.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Herbert C. (Herbert Coffin) Jones Papers , 
+<date calendar="gregorian" era="ce">1921-1944</date></titleproper><titleproper type="filing">Jones (Herbert C.) Papers, 1921-1944</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Department of Special Collections</publisher>
+        <address>
+          <addressline>Green Library</addressline>
+          <addressline>Stanford University Libraries</addressline>
+          <addressline>Stanford, CA 94305-6004 </addressline>
+          <addressline>Phone: (650) 725-1022</addressline>
+          <addressline>Email: specialcollections@stanford.edu</addressline>
+          <addressline>URL: http://library.stanford.edu/spc</addressline>
+        </address>
+        <date calendar="gregorian" era="ce">&#xA9; 1999</date>
+        <p>The Board of Trustees of Stanford University. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc><profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data Services, 
+<date calendar="gregorian" era="ce">1999 May 14.</date>Supplementary encoding and revision supplied by Steven Mandeville-Gamble.</creation>
+      <langusage>Finding aid is written in 
+<language>English.</language></langusage>
+    </profiledesc><revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//Stanford University::Libraries::Dept. of Special Collections::Manuscripts Division//TEXT (US::CSt::M0208::Herbert C. (Herbert Coffin) Jones Papers )//EN" "m0208.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Guide to the Herbert C. (Herbert Coffin) Jones Papers , 
+<date calendar="gregorian" era="ce">1921-1944</date></titleproper>
+      <num>Collection number: M0208</num>
+      <publisher>Department of Special Collections and University Archives
+<lb/>Stanford University Libraries 
+<lb/>Stanford, California</publisher>
+      <list type="simple">
+        <head>Contact Information</head>
+        <item>Department of Special Collections</item>
+        <item>Green Library</item>
+        <item>Stanford University Libraries</item>
+        <item>Stanford, CA 94305-6004 </item>
+        <item>Phone: (650) 725-1022</item>
+        <item>Email: specialcollections@stanford.edu</item>
+        <item>URL: http://library.stanford.edu/spc</item>
+      </list>
+      <list type="deflist">
+        <defitem>
+          <label>Processed by:</label>
+          <item>R.L. Ginns</item>
+        </defitem>
+        <defitem>
+          <label>Date Completed:</label>
+          <item>1971 Apr. 20</item>
+        </defitem>
+      </list>
+      <p>&#xA9; 1999 The Board of Trustees of Stanford University. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection">
+    <did id="did-1.8.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">Herbert C. (Herbert Coffin) Jones Papers , 
+</unittitle><unitdate calendar="gregorian" era="ce" type="inclusive">1921-1944</unitdate>
+      <unitid label="Collection number">Special Collections M0208</unitid>
+      <origination label="Creator">
+        <persname>Jones, Herbert C. (Herbert Coffin), b.1881?</persname>
+      </origination>
+      <physdesc label="Extent">
+        <extent>6 linear ft.</extent>
+      </physdesc>
+      <repository label="Repository">
+        <corpname>Stanford University. Libraries. Dept. of Special Collections and University Archives.</corpname>
+      </repository>
+      <langmaterial label="Language">
+        <language langcode="en">English.</language>
+      </langmaterial>
+    </did>
+    <descgrp id="descgrp-1.8.2" type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict>
+        <head>Access Restrictions</head>
+        <p>None.</p>
+      </accessrestrict>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>Property rights reside with the repository. Literary rights reside with the creators of the documents or their heirs. To obtain permission to publish or reproduce, please contact the Public Services Librarian of the Dept. of Special Collections.</p>
+      </userestrict>
+      <custodhist>
+        <head>Provenance</head>
+        <p>Gift of Mr. and Mrs. H. C. Jones, 1969.</p>
+      </custodhist>
+      <prefercite>
+        <head>Preferred Citation:</head>
+        <p>[Identification of item] Herbert C. (Herbert Coffin) Jones Papers, M0208, Dept. of Special Collections, Stanford University Libraries, Stanford, Calif.</p>
+      </prefercite>
+    </descgrp>
+    <bioghist id="bioghist-1.8.3">
+      <head>Biographical Note</head>
+      <p>Lawyer and state legislator (1913-1934) from San Jose, California.</p>
+    </bioghist>
+    <scopecontent id="scopecontent-1.8.4">
+      <head>Scope and Content</head>
+      <p>Business correspondence, initiatives and referendums, legislation, scrapbooks, maps, newsclippings, and other papers, relating to Jones' career in the California State Senate and to State political activity after his term of office.</p>
+    </scopecontent>
+    <dsc id="dsc-1.8.5" type="in-depth">
+      <head>Container List</head>
+      <c01 id="c01-1.8.5.2">
+        <did>
+          <unittitle>Miscellaneous, including personal business correspondence, calling cards.</unittitle>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">1</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.3">
+        <did>
+          <unittitle>Building and Loan Associations.</unittitle>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">2</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.4">
+        <did>
+          <unittitle>Correspondence with constituents, job seekers, and complaints.</unittitle>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">3</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.5">
+        <did>
+          <unittitle>Cooperatives.</unittitle>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">4</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.6">
+        <did>
+          <unittitle>Income Tax.</unittitle>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">5</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.7">
+        <did>
+          <unittitle>Initiative.</unittitle>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">6</container>
+        </did>
+        <scopecontent>
+          <p>See also Legislation-Direct.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.8.5.8">
+        <did>
+          <unittitle>Initiative: Water.</unittitle>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">7</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.9">
+        <did>
+          <unittitle>Initiative and Referendum: Dept. of Education.</unittitle>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">8</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.10">
+        <did>
+          <unittitle>Initiative and Referendum: Measures.</unittitle>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">9</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.11">
+        <did>
+          <unittitle>Initiative and Referendum: Prize Fights.</unittitle>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">10</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.12">
+        <did>
+          <unittitle>Initiative and Referendum: Riparian Rights.</unittitle>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">11</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.13">
+        <did>
+          <unittitle>Initiative and Referendum: Weight Tax.</unittitle>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">12</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.14">
+        <did>
+          <unittitle>Initiative and Referendum: 
+<unitdate calendar="gregorian" era="ce">1928.</unitdate></unittitle>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">13</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.15">
+        <did>
+          <unittitle>Initiative and Referendum: 
+<unitdate calendar="gregorian" era="ce">1930.</unitdate></unittitle>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">14</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.16">
+        <did>
+          <unittitle>Initiative and Referendum: 
+<unitdate calendar="gregorian" era="ce">1932.</unitdate></unittitle>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">1</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.17">
+        <did>
+          <unittitle>Initiative and Referendum: 
+<unitdate calendar="gregorian" era="ce">1936.</unitdate></unittitle>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">2</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.18">
+        <did>
+          <unittitle>Initiative and Referendum: 
+<unitdate calendar="gregorian" era="ce">1939.</unitdate></unittitle>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">3</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.19">
+        <did>
+          <unittitle>Initiative and Referendum: 
+<unitdate calendar="gregorian" era="ce">1940.</unitdate></unittitle>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">4</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.20">
+        <did>
+          <unittitle>Initiative and Referendum: 
+<unitdate calendar="gregorian" era="ce">1941.</unitdate></unittitle>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">5</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.21">
+        <did>
+          <unittitle>Initiative and Referendum: 
+<unitdate calendar="gregorian" era="ce">1942.</unitdate></unittitle>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">6</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.22">
+        <did>
+          <unittitle>Initiative and Referendum: 
+<unitdate calendar="gregorian" era="ce">1944.</unitdate></unittitle>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">7</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.23">
+        <did>
+          <unittitle>Legal Cases.</unittitle>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">8</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.24">
+        <did>
+          <unittitle>Legal Directory.</unittitle>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">9</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.25">
+        <did>
+          <unittitle>Legal Reform.</unittitle>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">10</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.26">
+        <did>
+          <unittitle>Legion, The American.</unittitle>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">11</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.27">
+        <did>
+          <unittitle>Legislation: Bills.</unittitle>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">12</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.28">
+        <did>
+          <unittitle>Legislation: Correspondence.</unittitle>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">13</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.29">
+        <did>
+          <unittitle>Legislation: Direct.</unittitle>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">14</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.30">
+        <did>
+          <unittitle>Legislation: Financial.</unittitle>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">15</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.31">
+        <did>
+          <unittitle>Legislation: Guild System.</unittitle>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">16</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.32">
+        <did>
+          <unittitle>Legislation: Modern Tendencies.</unittitle>
+          <container label="Box" type="Box">2</container>
+          <container label="Folder" type="Folder">17</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.33">
+        <did>
+          <unittitle>Legislative: General File.</unittitle>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder">1</container>
+        </did>
+        <scopecontent>
+          <p>See also: Special Sessions; Speakership.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.8.5.34">
+        <did>
+          <unittitle>Legislative: After Session 
+<unitdate calendar="gregorian" era="ce">1923.</unitdate></unittitle>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder">2</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.35">
+        <did>
+          <unittitle>Legislative: 
+<unitdate calendar="gregorian" era="ce">1928.</unitdate></unittitle>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder">3</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.36">
+        <did>
+          <unittitle>Legislative: Budget, 
+<unitdate calendar="gregorian" era="ce">1933.</unitdate></unittitle>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder">4</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.37">
+        <did>
+          <unittitle>Legislative: Record.</unittitle>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder">5</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.38">
+        <did>
+          <unittitle>Legislative: Suggestions.</unittitle>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder">6</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.39">
+        <did>
+          <unittitle>Legislative: Suggestions, 
+<unitdate calendar="gregorian" era="ce">1933.</unitdate></unittitle>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder">7</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.40">
+        <did>
+          <unittitle>Legislative: 
+<unitdate calendar="gregorian" era="ce">1935.</unitdate></unittitle>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder">8</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.41">
+        <did>
+          <unittitle>Legislative: 
+<unitdate calendar="gregorian" era="ce">1939.</unitdate></unittitle>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder">9</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.42">
+        <did>
+          <unittitle>Legislative: 
+<unitdate calendar="gregorian" era="ce">1940.</unitdate></unittitle>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder">10</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.43">
+        <did>
+          <unittitle>Legislative: 
+<unitdate calendar="gregorian" era="ce">1943.</unitdate></unittitle>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder">11</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.44">
+        <did>
+          <unittitle>Legislators.</unittitle>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder">12</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.45">
+        <did>
+          <unittitle>Legislature: Intrahouse Organization and Business.</unittitle>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder">13</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.46">
+        <did>
+          <unittitle>Legislature: Procedure.</unittitle>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder">14</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.47">
+        <did>
+          <unittitle>Legislature: 
+<unitdate calendar="gregorian" era="ce">1933.</unitdate></unittitle>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder">15</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.48">
+        <did>
+          <unittitle>Legislature: 
+<unitdate calendar="gregorian" era="ce">1934</unitdate>Special Session.</unittitle>
+          <container label="Box" type="Box">3</container>
+          <container label="Folder" type="Folder">16</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.49">
+        <did>
+          <unittitle>Power Trust.</unittitle>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">1</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.50">
+        <did>
+          <unittitle>Racing.</unittitle>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">2</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.51">
+        <did>
+          <unittitle>Racketeering.</unittitle>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">3</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.52">
+        <did>
+          <unittitle>Railroad.</unittitle>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">4</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.53">
+        <did>
+          <unittitle>Railroad Commission.</unittitle>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">5</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.54">
+        <did>
+          <unittitle>Regulations.</unittitle>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">6</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.55">
+        <did>
+          <unittitle>Relief Administration.</unittitle>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">7</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.56">
+        <did>
+          <unittitle>Relief Commission.</unittitle>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">8</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.57">
+        <did>
+          <unittitle>Religious Instruction.</unittitle>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">9</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.58">
+        <did>
+          <unittitle>Reports.</unittitle>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">10</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.59">
+        <did>
+          <unittitle>Republican Party.</unittitle>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">11</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.60">
+        <did>
+          <unittitle>Revenue Bonds.</unittitle>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">12</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.61">
+        <did>
+          <unittitle>Riley Plan.</unittitle>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">13</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.62">
+        <did>
+          <unittitle>Road Tax.</unittitle>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">14</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.63">
+        <did>
+          <unittitle>Rolph (Governor of California).</unittitle>
+          <container label="Box" type="Box">4</container>
+          <container label="Folder" type="Folder">15</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.64">
+        <did>
+          <unittitle>Salaries of Public Officials.</unittitle>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">1</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.65">
+        <did>
+          <unittitle>Sales Tax.</unittitle>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">2</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.66">
+        <did>
+          <unittitle>Santa Clara Valley Water Conservation District.</unittitle>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">3</container>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">4</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.67">
+        <did>
+          <unittitle>Self-Governing Bar.</unittitle>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">5</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.68">
+        <did>
+          <unittitle>Senatorial Campaign of 1928.</unittitle>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">6</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.69">
+        <did>
+          <unittitle>Senatorship.</unittitle>
+          <container label="Box" type="Box">5</container>
+          <container label="Folder" type="Folder">7</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.70">
+        <did>
+          <unittitle>Shortridge, Senator (Cal.)</unittitle>
+          <container label="Box" type="Box">6</container>
+          <container label="Folder" type="Folder">1</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.71">
+        <did>
+          <unittitle>Single Tax.</unittitle>
+          <container label="Box" type="Box">6</container>
+          <container label="Folder" type="Folder">2</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.72">
+        <did>
+          <unittitle>Soldier Legislation.</unittitle>
+          <container label="Box" type="Box">6</container>
+          <container label="Folder" type="Folder">3</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.73">
+        <did>
+          <unittitle>Special Sessions.</unittitle>
+          <container label="Box" type="Box">6</container>
+          <container label="Folder" type="Folder">4</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.74">
+        <did>
+          <unittitle>Special Session: 
+<unitdate calendar="gregorian" era="ce">1928.</unitdate></unittitle>
+          <container label="Box" type="Box">6</container>
+          <container label="Folder" type="Folder">5</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.75">
+        <did>
+          <unittitle>Speakership.</unittitle>
+          <container label="Box" type="Box">6</container>
+          <container label="Folder" type="Folder">6</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.76">
+        <did>
+          <unittitle>Stamp Tax.</unittitle>
+          <container label="Box" type="Box">6</container>
+          <container label="Folder" type="Folder">7</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.77">
+        <did>
+          <unittitle>Stephens Campaign.</unittitle>
+          <container label="Box" type="Box">6</container>
+          <container label="Folder" type="Folder">8</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.78">
+        <did>
+          <unittitle>Supreme Court (U.S.) - Primarily dealing with 
+<unitdate calendar="gregorian" era="ce">1937</unitdate>enlargement plan of Franklin D. Roosevelt.</unittitle>
+          <container label="Box" type="Box">6</container>
+          <container label="Folder" type="Folder">9</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.79">
+        <did>
+          <unittitle>Syndicalism.</unittitle>
+          <container label="Box" type="Box">6</container>
+          <container label="Folder" type="Folder">10</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.80">
+        <did>
+          <unittitle>Taxation.</unittitle>
+          <container label="Box" type="Box">6</container>
+          <container label="Folder" type="Folder">11</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.81">
+        <did>
+          <unittitle>Taxation.</unittitle>
+          <container label="Box" type="Box">6</container>
+          <container label="Folder" type="Folder">12</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.82">
+        <did>
+          <unittitle>Taxation: 
+<unitdate calendar="gregorian" era="ce">1933.</unitdate></unittitle>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">1</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.83">
+        <did>
+          <unittitle>Taxation: 
+<unitdate calendar="gregorian" era="ce">1935.</unitdate></unittitle>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">2</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.84">
+        <did>
+          <unittitle>Telephone.</unittitle>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">3</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.85">
+        <did>
+          <unittitle>Tenure.</unittitle>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">4</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.86">
+        <did>
+          <unittitle>Text Books.</unittitle>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">5</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.87">
+        <did>
+          <unittitle>3% Contracts.</unittitle>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">6</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.88">
+        <did>
+          <unittitle>Trade Marks.</unittitle>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">7</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.89">
+        <did>
+          <unittitle>Reemployment--Unemployment, Governor's Commission.</unittitle>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">8</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.90">
+        <did>
+          <unittitle>Unemployment.</unittitle>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">9</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.91">
+        <did>
+          <unittitle>Usury.</unittitle>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">10</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.92">
+        <did>
+          <unittitle>Vice.</unittitle>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">11</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.93">
+        <did>
+          <unittitle>Vivisection.</unittitle>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">12</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.94">
+        <did>
+          <unittitle>Voting.</unittitle>
+          <container label="Box" type="Box">7</container>
+          <container label="Folder" type="Folder">13</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.95">
+        <did>
+          <unittitle>Water and Power: 
+<unitdate calendar="gregorian" era="ce">1924.</unitdate></unittitle>
+          <container label="Box" type="Box">8</container>
+          <container label="Folder" type="Folder">1</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.96">
+        <did>
+          <unittitle>Water and Power: 
+<unitdate calendar="gregorian" era="ce">1926.</unitdate></unittitle>
+          <container label="Box" type="Box">8</container>
+          <container label="Folder" type="Folder">2</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.97">
+        <did>
+          <unittitle>Water and Power: Reports and Clippings.</unittitle>
+          <container label="Box" type="Box">8</container>
+          <container label="Folder" type="Folder">3</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.98">
+        <did>
+          <unittitle>Water and Power: 
+<unitdate calendar="gregorian" era="ce">1931</unitdate>Legislative Committee.</unittitle>
+          <container label="Box" type="Box">8</container>
+          <container label="Folder" type="Folder">4</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.99">
+        <did>
+          <unittitle>Wright Act, 
+<unitdate calendar="gregorian" era="ce">1926.</unitdate></unittitle>
+          <container label="Box" type="Box">8</container>
+          <container label="Folder" type="Folder">5</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.100">
+        <did>
+          <unittitle>Young, Sanborn.</unittitle>
+          <container label="Box" type="Box">9</container>
+          <container label="Folder" type="Folder">1</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.101">
+        <did>
+          <unittitle>Young, Sanborn: Dinner.</unittitle>
+          <container label="Box" type="Box">9</container>
+          <container label="Folder" type="Folder">2</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.102">
+        <did>
+          <unittitle>Clippings, Newspaper.</unittitle>
+          <container label="Box" type="Box">9</container>
+          <container label="Folder" type="Folder">3</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.103">
+        <did>
+          <unittitle>Maps.</unittitle>
+          <container label="Box" type="Box">9</container>
+          <container label="Folder" type="Folder">4</container>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.104">
+        <did>
+          <unittitle>Scrapbooks</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.8.5.105">
+        <did>
+          <unittitle>Newspaper clippings On topics in and action of California State Legislature, and the California political scene:</unittitle>
+        </did>
+        <c02 id="c02-1.8.5.105.2">
+          <did>
+            <unittitle>A) 
+<unitdate calendar="gregorian" era="ce">1923: January - April 27.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.105.3">
+          <did>
+            <unittitle>B) 
+<unitdate calendar="gregorian" era="ce">1923: January - May 18.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.105.4">
+          <did>
+            <unittitle>C) 
+<unitdate calendar="gregorian" era="ce">1925: February 23 - April 24.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.105.5">
+          <did>
+            <unittitle>D) 
+<unitdate calendar="gregorian" era="ce">1926: July - September.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.105.6">
+          <did>
+            <unittitle>E) 
+<unitdate calendar="gregorian" era="ce">1931: January - April.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.105.7">
+          <did>
+            <unittitle>F) 
+<unitdate calendar="gregorian" era="ce">1933: January.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.105.8">
+          <did>
+            <unittitle>G) 
+<unitdate calendar="gregorian" era="ce">1933: January 1 -19.</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.8.5.106">
+        <did>
+          <unittitle>2. Copies of Bills Introduced In the Legislature By Senator Jones, 
+<unitdate calendar="gregorian" era="ce">1921.</unitdate></unittitle>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

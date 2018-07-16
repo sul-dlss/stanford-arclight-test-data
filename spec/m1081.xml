@@ -1,0 +1,2052 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  
+  
+  
+  
+  
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" repositoryencoding="iso15511" findaidstatus="unverified-full-draft" langencoding="iso639-2b"><eadid countrycode="us" identifier="ark:/13030/kt6v19n95d" mainagencycode="CSt" publicid="PUBLIC &quot;-//Stanford University::Libraries::Dept. of Special Collections::Manuscripts Division//TEXT (US::CSt::M1081::Robert Creeley, Computer Files)//EN&quot; &quot;m1081.sgm&quot;">m1081.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Robert Creeley Computer Files, <date calendar="gregorian" era="ce">1988-2002</date></titleproper><titleproper type="filing">Creeley (Robert) Computer Files</titleproper>
+        <author>Processed by Special Collections staff.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Department of Special Collections</publisher>
+        <address>
+          <addressline>Green Library</addressline>
+          <addressline>Stanford University Libraries</addressline>
+          <addressline>Stanford, CA 94305-6004 </addressline>
+          <addressline>Phone: (650) 725-1022</addressline>
+          <addressline>Email: specialcollections@stanford.edu</addressline>
+          <addressline>URL: http:/library/stanford.edu/spc/</addressline>
+        </address>
+        <date calendar="gregorian" era="ce">&#xA9; 2002</date>
+        <p>The Board of Trustees of Stanford University. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc><profiledesc>
+      <creation>Machine-readable finding aid derived from FileMaker Pro database.;
+machine-readable finding aid created by
+Michael G. Olson.
+Date of source: <date calendar="gregorian" era="ce">.</date></creation>
+      <langusage>Finding aid is written in <language>English.</language></langusage>
+    </profiledesc><revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//Stanford University::Libraries::Dept. of Special Collections::Manuscripts Division//TEXT (US::CSt::M1081::Robert Creeley, Computer Files)//EN" "m1081.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Guide to the Robert Creeley Computer Files, <date calendar="gregorian" era="ce">1988-2002</date></titleproper>
+      <num>Collection number: M1081</num>
+      <publisher>Department of Special Collections and University Archives
+<lb/>Stanford University Libraries
+<lb/>Stanford, California</publisher>
+      <list type="simple">
+        <head>Contact Information</head>
+        <item>Department of Special Collections</item>
+        <item>Green Library</item>
+        <item>Stanford University Libraries</item>
+        <item>Stanford, CA 94305-6004 </item>
+        <item>Phone: (650) 725-1022</item>
+        <item>Email: specialcollections@stanford.edu</item>
+        <item>URL: http:/library/stanford.edu/spc/</item>
+      </list>
+      <list type="deflist">
+        <defitem>
+          <label>Processed by: </label>
+          <item>Special Collections staff</item>
+        </defitem>
+        <defitem>
+          <label>Encoded by: </label>
+          <item>Michael G. Olson</item>
+        </defitem>
+      </list>
+      <p>&#xA9; 2002 The Board of Trustees of Stanford University. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection">
+    <did id="did-1.8.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">Creeley, Robert, Computer Files, </unittitle><unitdate calendar="gregorian" era="ce" type="inclusive">1988-2002</unitdate>
+      <unitid label="Collection number" countrycode="US" repositorycode="CSt">M1081</unitid>
+      <origination label="Creator">
+        <persname source="lcnaf">Creeley, Robert</persname>
+      </origination>
+      <physdesc label="Extent">
+        <extent>.5 linear ft. (51 floppy disks, 5 Zip Disks, 3 CD-ROMs)</extent>
+      </physdesc>
+      <repository label="Repository">
+        <corpname source="lcnaf">Stanford University. Libraries. Dept. of Special Collections and University Archives.</corpname>
+      </repository>
+      <abstract label="Abstract">Working papers and correspondence (principally outgoing but also incoming email) from the late 1980s through 2002.</abstract>
+      <langmaterial label="Language">
+        <language langcode="en">English.</language>
+      </langmaterial>
+    </did>
+    <descgrp id="descgrp-1.8.2" type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict>
+        <head>Access</head>
+        <p>All medical records for Robert Creeley and his family have been restricted, as have student recommendations and certain financial documents.</p>
+        <p>Electronic access to the Robert Creeley's Computer Files is currently being developed.  Researcher's interested in accessing these materials should direct their requests to Michael Olson, Special Collections Assistant Librarian for Electronic Media Materials at (650) 723-1704 or mgolson@stanford.edu.</p>
+      </accessrestrict>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>Property rights reside with the repository. Literary rights
+reside with the creators of the documents or their heirs. To
+obtain permission to publish or reproduce, please contact the
+Public Services Librarian of the Dept. of Special Collections.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>Robert Creeley, Computer Files. M1081. Dept. of Special Collections, Stanford University Libraries, Stanford, Calif.</p>
+      </prefercite>
+      <acqinfo>
+        <head>Acquisition Information</head>
+        <p>Purchased, 1999.</p>
+      </acqinfo>
+    </descgrp>
+    <bioghist id="bioghist-1.8.3">
+      <head>Biographical note</head>
+      <p>Recognized as a seminal figure of American letters in the second half of the 20th century, Robert White Creeley was born in Arlington, Massachusetts, on May 21, 1926, attended the Holderness School and then Harvard College. He received degrees from The Black Mountain College (B.A., 1956) and the University of New Mexico (M.A., 1960).</p>
+      <p>After serving as an ambulance driver for the American Field Service in India and Burma, then living for a year outside Aix-en-Provence, France, Creeley moved in 1952 to Mallorca, where he founded and edited the Divers Press. Upon his return to the United States and at the invitation of Charles Olson, Creeley moved to North Carolina where he joined the faculty of the Black Mountain College and edited the short-lived but highly influential journal, The Black Mountain Review (1954 -1957). Though he left the college in 1955, Creeley had already established himself as one of the leading figures of the literary avant-garde of the 1950s, establishing with Charles Olson the "Black Mountain School,"one of the most important movements in American letters, the foundation of Projective Verse, a break from the New Criticism and its "insistence on form as extrensic to the poem. He is notable for having established a lasting association with his literary mentors-Pound, Williams, Zukofsky, Bunting, and Dahlberg, among others-as well as those poets, writers and visual artists associated with the experimental arts of Black Mountain and the 1950s avant-garde. Among these are Paul Blackburn, John Chamberlain, Francisco Clemente, Cid Corman, Fielding Dawson, Jim Dine, Elsa Dorfman, Ed Dorn, Robert Duncan, Robert Indiana, R.B. Kitaj, Denise Levertov, Marisol, and especially Charles Olson, with whom Creeley corresponded extensively and collaborated on Mayan Letters (1953). Creeley was also a presence in the San Francisco poetry renaissance, where he formed a life-long association with Barth, Corso, Ginsberg, Kerouac, and McClure. Creeley is currently the SUNY Distinguished Professor of English and holds the Samuel P. Capen Chair of Poetry and Humanities at the State University of New York, Buffalo, a center of innovation and postmodern poetics, particularly that or those of the so-called "L-A-N-G-U-A-G-E" poets.</p>
+      <p>While his oeuvre includes short stories, essays, a novel, as well as criticism, Creeley is known principally as a poet. His friend and fellow poet John Ashbery has said of Creeley and his work, "He is the best we have." He has published over thirty volumes of verse since 1952, including: Words (1967); Pieces (1969); St. Martin's (1971); A Day Book (1972); Thirty Things (1974); Presences : A Text for Marisol (1976); Away (1976); Echoes (1982); Mirrors (1983); Memory Gardens (1986); and Windows (1990). His most recent collections of poems are Echoes (1994), published by New Directions, and Loops (1995), published by Nadja. Among his collections of poems are: For Love : Poems, 1950-1960 (1962); Poems 1950-1965 (1966); The Charm (1971); The Finger : Poems 1966-1969 (1970); The Door : Selected Poems (1975); Selected Poems (1976); The Collected Poems of Robert Creeley, 1945-1975 (1982); and Selected Poems 1945-1990 (1991).</p>
+      <p>Creeley has been awarded numerous literary prizes, including the Horst Bienek Lyrikpreis from the Bavarian Academy of Fine Arts, two Guggenheim Fellowships, a Fulbright Award, and a Rockefeller Grant. He was named New York State Poet Laureate in 1992. Creeley is a member of the American Academy of Arts and Letters.</p>
+      <p>He lives with his wife, Penelope Highton Creeley, and two of his six children in Buffalo, New York.</p>
+    </bioghist>
+    <bioghist id="bioghist-1.8.4">
+      <head>Biographical chronology</head>
+      <chronlist>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1926</date>
+          <event>Robert White Creeley born in Arlington, Massachusetts, May 21 to Oscar Slate and Genevieve Jules Creeley</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1928</date>
+          <event>Left eye injured in accident</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1930</date>
+          <event>Father died. Family moves to West Acton</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1940</date>
+          <event>Entered Holderness School</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1943</date>
+          <event>Entered Harvard College</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1944-1945</date>
+          <event>Served in the American Field Service in India and Burma</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1945</date>
+          <event>Returned to Harvard</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1946</date>
+          <event>First published poem. Married Ann MacKinnon.</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1947</date>
+          <event>Left Harvard without a degree</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1948</date>
+          <event>Son David born</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1948-1951</date>
+          <event>Lived in Littleton, NH where he bred pigeons</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1950</date>
+          <event>Son Thomas born. Began correspondence with Charles Olson. Became American editor for Ranier Gerhardt's Fragmente</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1951</date>
+          <event>Lived outside Aix-en-Province, France</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1952</date>
+          <event>Daughter Charlotte born. Published Le Fou, his first book of poems. Moved to Majorca to establish Divers Press</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1953</date>
+          <event>The Kind of Act of [poems] The Immoral Proposition [poems]</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1954</date>
+          <event>The Gold Diggers [short stories] Taught at Black Mountain College First issue of Black Mountain Review, edited by Creeley, published in March</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1955</date>
+          <event>Divorced from Ann MacKinnon All that is lovely in men [poems]</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1956</date>
+          <event>Left Black Mountain College. If you [poems] Visited San Francisco Moves to Albuquerque Receives B.A. from Black Mountain College</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1957</date>
+          <event>Married Bobbie Hall The Whip [collection of poems] Daughter Sarah born</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1959</date>
+          <event>Daughter Katherine Williams born Moved to Guatemala A Form of Women [poems]</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1960</date>
+          <event>Received M.A. from University of New Mexico Received Levinson Prize Included in The New American Peotry : 1945-1960</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1961</date>
+          <event>Instructor at University of New Mexico</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1962</date>
+          <event>For Love : Poems 1950-1960 Instructor at University of British Columbia</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1963</date>
+          <event>Moved to Placitas, NM Vancouver Poetry Festival The Island [novel]</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1964</date>
+          <event>Received Guggenheim Fellowship Received Oscar Blumenthal Prize</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1965</date>
+          <event>Berkeley Poetry Conference The Gold Diggers and other stories [short stories] Edited with Donald Allen New American Story Words [poems] Received Rockefeller Grant</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1966</date>
+          <event>National Educational Television Film, "Poetry : Robert Creeley"</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1966-1970</date>
+          <event>Visiting Professor at State University of New York, Buffalo</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1967</date>
+          <event>Words [poems] Edited with Donald Allen The New Writing in the USA Colloborated with R.B. Kitaj on A Sight Robert Creeley Reads [recorded reading]</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1967-present</date>
+          <event>Named Professor of English at SUNY, Buffalo</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1968</date>
+          <event>Taught at University of New Mexico The Finger [poems] Numbers [poems]</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1969</date>
+          <event>Pieces [poems] The Charm [poems]</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1970</date>
+          <event>Moved to Bolinas, CA Taught at San Francisco State University A Quick Graph : Collected Notes &amp; Essays [criticism]</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1972</date>
+          <event>A Day Book [journal and poems] Listen [a radio play]</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1973</date>
+          <event>Edited Whitman: Selected Poems Moved to Buffalo His Idea [poems]</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1974</date>
+          <event>Thirty Things [poems]</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1976</date>
+          <event>Presences : a text for Marisol [prose] Away [poems] Selected Poems Divorced Bobbie Hall Creeley</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1977</date>
+          <event>Married Penelope Highton</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1978</date>
+          <event>Boundary 2 published a double issue called Robert Creeley : A Gathering</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1979</date>
+          <event>Later [poems]</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1980</date>
+          <event>First volume of Charles Olson and Robert Creeley : The Complete Correspondence published by Black Sparrow Press</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1981</date>
+          <event>Son William born Awarded Shelley Memorial Award from the Poetry Society of America</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1982</date>
+          <event>NEA Grant</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1983</date>
+          <event>Daughter Hannah born Hello : a journal [poems] DAAD Fellowship in Berlin</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1984</date>
+          <event>Appointed David Gray Professor of Poetry and Letters, SUNY Buffalo</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1985</date>
+          <event>Awarded Leone d'Oro Premio Speziale, Venice</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1987</date>
+          <event>2nd DAAD Fellowship in Berlin Awarded Frost Medal by Poetry Society of America</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1988</date>
+          <event>Robert Creeley's Life and Work published Received Distinguished Fulbright Award as Bicentennial Chair in American Studies, Helsinki University</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1989-1991</date>
+          <event>New York State Poet</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1990</date>
+          <event>Named Capen Professor of Poetry and Humanities, SUNY Buffalo</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1991</date>
+          <event>Autobiography [essay]</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1993</date>
+          <event>Tom Clark's Robert Creeley and the Genius of the American Common Place published Received Horst Bienek Lyrikpreis from Bavarian Academy of Fine Arts Tales out of School : Selected Interviews</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1994</date>
+          <event>Echoes [poems]</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1995</date>
+          <event>Loops : Ten Poems</event>
+        </chronitem>
+      </chronlist>
+    </bioghist>
+    <scopecontent id="scopecontent-1.8.5">
+      <head>Scope and Content</head>
+      <p>Robert Creeley's Computer Files document the life work of a leading American poet of the 20th century, one of the core members of the "Black Mountain School." They also document several important movements in American poetics in the second half of the century. The computer files include Creeley's personal and professional correspondence, journals, business records, personal mementos, games, and other documents generated and collected by him from 1988 to 1997.</p>
+      <p>Wherever Creeley's original arrangement of materials was encountered, his order has been respected. However, in many instances the computer files arrived without any clear indication of Creeley's own intellectual organization and disk numbers were assigned as the floppy disks were preserved. The disk numbers do not refer to the order in which the computer files were created and researcher's should reference the date ranges to determine correct chronological order.</p>
+    </scopecontent>
+    <controlaccess id="controlaccess-1.8.6">
+      <head>Access Terms</head>
+      <p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+      <subject source="lcsh" encodinganalog="650">American literature--20th century.</subject>
+      <genreform source="lcnaf" encodinganalog="655">Computer files.</genreform>
+      <genreform source="lcnaf" encodinganalog="655">Floppy disks.</genreform>
+    </controlaccess>
+    <dsc id="dsc-1.8.7" type="combined">
+      <head>Collection Contents</head>
+      <c01 id="c01-1.8.7.2" level="series">
+        <did>
+          <unittitle>Series 1. Floppy Disks</unittitle>
+          <physdesc>Robert Creeley's Computer Files contain a total of fifty-one 3 1/2 in. floppy disks.  Of these thirty-nine floppy disks have so far been preserved and described in this series.</physdesc>
+        </did>
+        <c02 id="c02-1.8.7.2.2" level="file">
+          <did>
+            <container label="Floppy Disk" type="Folder">1</container>
+            <unittitle>Zip Files, Email 3<unitdate calendar="gregorian" era="ce">1995 Apr 7 - 1996 May 7</unitdate></unittitle>
+            <daogrp linktype="extended">
+              <daoloc linktype="locator" role="thumbnail" show="embed" actuate="auto" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_01_thumb.jpg"/>
+              <daoloc linktype="locator" role="reference" show="embed" actuate="user" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_01.jpg"/>
+            </daogrp>
+            <unitid>M1081_S1_SS0_01_001_OR</unitid>
+            <physdesc>3 1/2" Floppy Disk (PC)</physdesc>
+          </did>
+          <scopecontent>
+            <p>Disk contains five zipped email archives and one loose email message.  Two of the zipped email archives (Email001.zip and Emailold.zip) are corrupt and unreadable.  The remaining email archives primarily consist of Robert Creeley's incoming email from April 1995 through early May 1996.</p>
+          </scopecontent>
+          <c03 id="c03-1.8.7.2.2.3" level="file">
+            <did>
+              <unittitle>Email000.zip</unittitle>
+              <physdesc>Corrupt email archive</physdesc>
+            </did>
+            <scopecontent>
+              <p>This Email archive is corrupt and currently unreadable.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.2.4" level="file">
+            <did>
+              <unittitle>Email001.zip<unitdate calendar="gregorian" era="ce">1995 Apr  7 - 1995 Oct 3</unitdate></unittitle>
+              <physdesc>160 files, 316KB</physdesc>
+            </did>
+            <scopecontent>
+              <p>Zipped email archive primarily consisting of incoming email.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.2.5" level="file">
+            <did>
+              <unittitle>Email002.zip<unitdate calendar="gregorian" era="ce">1995 Sept 11 - 1996 Feb 27</unitdate></unittitle>
+              <physdesc>136 Files, 343KB</physdesc>
+            </did>
+            <scopecontent>
+              <p>Zipped email archive primarily consisting of incoming email.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.2.6" level="file">
+            <did>
+              <unittitle>Email004.zip<unitdate calendar="gregorian" era="ce">1996 Mar 28 - 1996 May 7</unitdate></unittitle>
+              <physdesc>205 Files,  423KB</physdesc>
+            </did>
+            <scopecontent>
+              <p>Zipped email archive primarily consisting of incoming email.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.2.7" level="file">
+            <did>
+              <unittitle>Emailold.zip</unittitle>
+              <physdesc>Corrupt email archive</physdesc>
+            </did>
+            <scopecontent>
+              <p>This Email archive is corrupt and currently unreadable.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.2.8" level="file">
+            <did>
+              <unittitle>Pktmp000.001<unitdate calendar="gregorian" era="ce">1995 Sept 7</unitdate></unittitle>
+              <physdesc>1 File, 722 bytes</physdesc>
+            </did>
+            <scopecontent>
+              <p>Incoming email.</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="c02-1.8.7.2.3" level="file">
+          <did>
+            <container label="Floppy Disk" type="Folder">2</container>
+            <unittitle>Email - Summer '96 fall '96 - Received, Sent<unitdate calendar="gregorian" era="ce">1996 Summer - 1996 Fall</unitdate></unittitle>
+            <daogrp linktype="extended">
+              <daoloc linktype="locator" role="thumbnail" show="embed" actuate="auto" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_02_thumb.jpg"/>
+              <daoloc linktype="locator" role="reference" show="embed" actuate="user" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_02.jpg"/>
+            </daogrp>
+            <unitid>M1081_S1_SS0_01_002_OR</unitid>
+            <physdesc>3 1/2" Floppy Disk (PC)</physdesc>
+          </did>
+          <c03 id="c03-1.8.7.2.3.2" level="file">
+            <did>
+              <container label="Archive" type="Folder">1</container>
+              <unittitle>Email000.zip</unittitle>
+            </did>
+            <scopecontent>
+              <p>This zipped email archive consists of  pirmatily incoming correspondence.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.3.3" level="file">
+            <did>
+              <container label="Archive" type="Folder">2</container>
+              <unittitle>Email001.zip</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.8.7.2.3.4" level="file">
+            <did>
+              <container label="Archive" type="Folder">3</container>
+              <unittitle>In2.zip</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.8.7.2.3.5" level="file">
+            <did>
+              <container label="Archive" type="Folder">4</container>
+              <unittitle>In3.zip</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.8.7.2.3.6" level="file">
+            <did>
+              <container label="Archive" type="Folder">5</container>
+              <unittitle>In4.zip</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.8.7.2.3.7" level="file">
+            <did>
+              <container label="Archive" type="Folder">6</container>
+              <unittitle>MailSnt1.zip</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.8.7.2.3.8" level="file">
+            <did>
+              <container label="Archive" type="Folder">7</container>
+              <unittitle>Sent2.zip</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.8.7.2.3.9" level="file">
+            <did>
+              <container label="Archive" type="Folder">8</container>
+              <unittitle>Sent3.zip</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.8.7.2.3.10" level="file">
+            <did>
+              <container label="Archive" type="Folder">9</container>
+              <unittitle>Sent4.zip</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.8.7.2.4" level="file">
+          <did>
+            <container label="Floppy Disk" type="Folder">3</container>
+            <unittitle>Email 2<unitdate calendar="gregorian" era="ce">1994 July 29 - 1994 Dec 10</unitdate></unittitle>
+            <daogrp linktype="extended">
+              <daoloc linktype="locator" role="thumbnail" show="embed" actuate="auto" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_03_thumb.jpg"/>
+              <daoloc linktype="locator" role="reference" show="embed" actuate="user" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_03.jpg"/>
+            </daogrp>
+            <unitid>M1081_S1_SS0_01_003_OR</unitid>
+            <physdesc>3 1/2" Floppy Disk (PC)</physdesc>
+          </did>
+          <scopecontent>
+            <p>Diskette contains two zipped email archives of received correspondence.</p>
+          </scopecontent>
+          <c03 id="c03-1.8.7.2.4.3" level="file">
+            <did>
+              <container label="Archive" type="Folder">1</container>
+              <unittitle>Email000.zip<unitdate calendar="gregorian" era="ce">1994 July 29 - 1994 Oct 20</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.8.7.2.4.4" level="file">
+            <did>
+              <container label="Archive" type="Folder">2</container>
+              <unittitle>Email0001.zip<unitdate calendar="gregorian" era="ce">1994 Aug 22 - 1994 Dec 10</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.8.7.2.5" level="file">
+          <did>
+            <container label="Floppy Disk" type="Folder">4</container>
+            <unittitle>Chair Files Dec '91<unitdate calendar="gregorian" era="ce">1991 Apr 20 -1991 Nov 21</unitdate></unittitle>
+            <daogrp linktype="extended">
+              <daoloc linktype="locator" role="thumbnail" show="embed" actuate="auto" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_04_thumb.jpg"/>
+              <daoloc linktype="locator" role="reference" show="embed" actuate="user" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_04.jpg"/>
+            </daogrp>
+            <unitid>M1081_S1_SS0_01_004_OR</unitid>
+            <physdesc>3 1/2" Floppy Disk (PC)</physdesc>
+          </did>
+          <scopecontent>
+            <p>Outgoing letters and faxes from Robert Creeley during his tenure as Chair of the Poetics Program at Univeristy of Buffalo /  SUNY.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.8.7.2.6" level="file">
+          <did>
+            <container label="Floppy Disk" type="Folder">5</container>
+            <unittitle>Chair 4 (94-95)</unittitle>
+            <daogrp linktype="extended">
+              <daoloc linktype="locator" role="thumbnail" show="embed" actuate="auto" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_05_thumb.jpg"/>
+              <daoloc linktype="locator" role="reference" show="embed" actuate="user" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_05.jpg"/>
+            </daogrp>
+            <unitid>M1081_S1_SS0_01_005_OR</unitid>
+            <physdesc>3 1/2" Floppy Disk (PC)</physdesc>
+          </did>
+          <c03 id="c03-1.8.7.2.6.2" level="file">
+            <did>
+              <container label="Archive" type="Folder">1</container>
+              <unittitle>Chair000.zip<unitdate calendar="gregorian" era="ce">1993 Nov 24 - 1995 Feb 24</unitdate></unittitle>
+              <physdesc>Zipped Archive</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.8.7.2.6.3" level="file">
+            <did>
+              <container label="Archive" type="Folder">2</container>
+              <unittitle>Chair001.zip<unitdate calendar="gregorian" era="ce">1994 Jan 5 - 1996 Feb 19</unitdate></unittitle>
+              <physdesc>Zipped Archive</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.8.7.2.6.4" level="file">
+            <did>
+              <container label="Archive" type="Folder">3</container>
+              <unittitle>Chair00A.zip<unitdate calendar="gregorian" era="ce">1991 Sept 5 - 1994 Mar 12</unitdate></unittitle>
+              <physdesc>Zipped Archive</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.8.7.2.6.5" level="file">
+            <did>
+              <container label="Archive" type="Folder">4</container>
+              <unittitle>Chair00B.zip<unitdate calendar="gregorian" era="ce">1994 Apr 19 - 1994 Nov 11</unitdate></unittitle>
+              <physdesc>Zipped Archive</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.8.7.2.6.6" level="file">
+            <did>
+              <container label="Archive" type="Folder">5</container>
+              <unittitle>Chair00C.zip<unitdate calendar="gregorian" era="ce">1994 Sept 9 - 1995 May 17</unitdate></unittitle>
+              <physdesc>Zipped Archive</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.8.7.2.6.7" level="file">
+            <did>
+              <container label="Archive" type="Folder">6</container>
+              <unittitle>Pktmp000.rpt<unitdate calendar="gregorian" era="ce">1995 Jan 18</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.8.7.2.7" level="file">
+          <did>
+            <container label="Floppy Disk" type="Folder">6</container>
+            <unittitle>Letters.zip 3</unittitle>
+            <daogrp linktype="extended">
+              <daoloc linktype="locator" role="thumbnail" show="embed" actuate="auto" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_06_thumb.jpg"/>
+              <daoloc linktype="locator" role="reference" show="embed" actuate="user" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_06.jpg"/>
+            </daogrp>
+            <unitid>M1081_S1_SS0_01_006_OR</unitid>
+            <physdesc>3 1/2" Floppy Disk (PC) </physdesc>
+          </did>
+          <c03 id="c03-1.8.7.2.7.2" level="file">
+            <did>
+              <container label="Archive" type="Folder">1</container>
+              <unittitle>Letters1.zip<unitdate calendar="gregorian" era="ce">1994 Apr 12 - 1995 Apr 7</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.8.7.2.7.3" level="file">
+            <did>
+              <container label="Archive" type="Folder">2</container>
+              <unittitle>Letters2.zip<unitdate calendar="gregorian" era="ce">1995 May 21 - 1996 Feb 17</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.8.7.2.7.4" level="file">
+            <did>
+              <container label="Archive" type="Folder">3</container>
+              <unittitle>Letters3.zip<unitdate calendar="gregorian" era="ce">1995 Nov 20 - 1996 Mar 28</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.8.7.2.8" level="file">
+          <did>
+            <container label="Floppy Disk" type="Folder">7</container>
+            <unittitle>Email 4  96</unittitle>
+            <daogrp linktype="extended">
+              <daoloc linktype="locator" role="thumbnail" show="embed" actuate="auto" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_07_thumb.jpg"/>
+              <daoloc linktype="locator" role="reference" show="embed" actuate="user" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_07.jpg"/>
+            </daogrp>
+            <unitid>M1081_S1_SS0_01_007_OR</unitid>
+            <physdesc>3 1/2" Floppy Disk (PC) </physdesc>
+          </did>
+          <scopecontent>
+            <p>Diskette contains 2 folders titled BIZ and LETTERS along with 93 loose files.</p>
+          </scopecontent>
+          <c03 id="c03-1.8.7.2.8.3" level="file">
+            <did>
+              <container label="Folder" type="Folder">1</container>
+              <unittitle>Biz<unitdate calendar="gregorian" era="ce">1996 Mar 19 - 1996 June 14</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.8.7.2.8.4" level="file">
+            <did>
+              <container label="Folder" type="Folder">2</container>
+              <unittitle>Letters<unitdate calendar="gregorian" era="ce">1996 Feb 26 - 1996 June 17</unitdate></unittitle>
+              <physdesc>Contains a zipped email archive and 35 loose files</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.8.7.2.8.5" level="file">
+            <did>
+              <container label="Folder" type="Folder">3</container>
+              <unittitle>[Misc. files]</unittitle>
+              <physdesc>Contains a zipped email archive and 35 loose files</physdesc>
+            </did>
+            <scopecontent>
+              <p>Misc files not associated with an archive or file folder.</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="c02-1.8.7.2.9" level="file">
+          <did>
+            <container label="Floppy Disk" type="Folder">8</container>
+            <unittitle>Email 5 Spring '96<unitdate calendar="gregorian" era="ce">1995 Nov 8 - 1996 Mar 26</unitdate></unittitle>
+            <daogrp linktype="extended">
+              <daoloc linktype="locator" role="thumbnail" show="embed" actuate="auto" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_08_thumb.jpg"/>
+              <daoloc linktype="locator" role="reference" show="embed" actuate="user" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_08.jpg"/>
+            </daogrp>
+            <unitid>M1081_S1_SS0_01_008_OR</unitid>
+            <physdesc>3 1/2" Floppy Disk.  </physdesc>
+          </did>
+          <scopecontent>
+            <p>1 zipped email archive and 1 loose file.</p>
+          </scopecontent>
+          <c03 id="c03-1.8.7.2.9.3" level="file">
+            <did>
+              <container label="Archive" type="Folder">1</container>
+              <unittitle>Email000.zip<unitdate calendar="gregorian" era="ce">1995 Nov 8 - 1996 Mar 26</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.8.7.2.9.4" level="file">
+            <did>
+              <container label="File" type="Folder">2</container>
+              <unittitle>Pktmp000.A06<unitdate calendar="gregorian" era="ce">1995 Nov 8 </unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.8.7.2.10" level="file">
+          <did>
+            <container label="Zip Disk" type="Folder">09</container>
+            <unittitle>This zip disk is described in Series 2 as Disk 09.</unittitle>
+            <physdesc>Zip Disk (PC)</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.7.2.11" level="file">
+          <did>
+            <container label="Zip Disk" type="Folder">10</container>
+            <unittitle>This zip disk is described in Series 2 as Disk 10.</unittitle>
+            <physdesc>Zip Disk (PC)</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.7.2.12" level="file">
+          <did>
+            <container label="Floppy Disk" type="Folder">11</container>
+            <unittitle>Ligeia: MS Drafts Etc.</unittitle>
+            <daogrp linktype="extended">
+              <daoloc linktype="locator" role="thumbnail" show="embed" actuate="auto" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_11_thumb.jpg"/>
+              <daoloc linktype="locator" role="reference" show="embed" actuate="user" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_11.jpg"/>
+            </daogrp>
+            <unitid>M1081_S1_SS0_01_011_OR</unitid>
+            <physdesc>3 1/2" Floppy Disk (PC)</physdesc>
+          </did>
+          <c03 id="c03-1.8.7.2.12.2" level="file">
+            <did>
+              <container label="File" type="Folder">1</container>
+              <unittitle>Ligcol.1<unitdate calendar="gregorian" era="ce">1992 Aug 2</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.8.7.2.12.3" level="file">
+            <did>
+              <container label="File" type="Folder">2</container>
+              <unittitle>Ligeia.col<unitdate calendar="gregorian" era="ce">1992 July 26</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.8.7.2.12.4" level="file">
+            <did>
+              <container label="File" type="Folder">3</container>
+              <unittitle>Ligeia.nte<unitdate calendar="gregorian" era="ce">1992 July 26</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.8.7.2.12.5" level="file">
+            <did>
+              <container label="File" type="Folder">4</container>
+              <unittitle>Ligeia.pf1<unitdate calendar="gregorian" era="ce">1992 Aug 29</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.8.7.2.12.6" level="file">
+            <did>
+              <container label="File" type="Folder">5</container>
+              <unittitle>Ligeia.poe<unitdate calendar="gregorian" era="ce">1991 Nov 25</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.8.7.2.12.7" level="file">
+            <did>
+              <container label="File" type="Folder">6</container>
+              <unittitle>Ligeia.pom<unitdate calendar="gregorian" era="ce">1992 July 30</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Ligeia poem.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.12.8" level="file">
+            <did>
+              <container label="File" type="Folder">7</container>
+              <unittitle>Ligeia.tit<unitdate calendar="gregorian" era="ce">1992 July 30</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Ligeia title page.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.12.9" level="file">
+            <did>
+              <container label="File" type="Folder">8</container>
+              <unittitle>Ligeia.wkg<unitdate calendar="gregorian" era="ce">1992 July 18</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.8.7.2.12.10" level="file">
+            <did>
+              <container label="File" type="Folder">9</container>
+              <unittitle>Ligeia.wms<unitdate calendar="gregorian" era="ce">1992 July 30</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.8.7.2.12.11" level="file">
+            <did>
+              <container label="File" type="Folder">10</container>
+              <unittitle>Ligeia01.rev<unitdate calendar="gregorian" era="ce">1992 Aug 2</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.8.7.2.12.12" level="file">
+            <did>
+              <container label="File" type="Folder">11</container>
+              <unittitle>Ligeia02.rev<unitdate calendar="gregorian" era="ce">1993 Apr 28</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.8.7.2.12.13" level="file">
+            <did>
+              <container label="File" type="Folder">12</container>
+              <unittitle>Ligeia1.wms<unitdate calendar="gregorian" era="ce">1992 July 18</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.8.7.2.12.14" level="file">
+            <did>
+              <container label="File" type="Folder">13</container>
+              <unittitle>Ligeia1.wrk<unitdate calendar="gregorian" era="ce">1992 July 19</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.8.7.2.12.15" level="file">
+            <did>
+              <container label="File" type="Folder">14</container>
+              <unittitle>Ligeia2<unitdate calendar="gregorian" era="ce">1992 Aug 2</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.8.7.2.12.16" level="file">
+            <did>
+              <container label="File" type="Folder">15</container>
+              <unittitle>Ligeia2.wkg<unitdate calendar="gregorian" era="ce">1992 July 30</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.8.7.2.12.17" level="file">
+            <did>
+              <container label="File" type="Folder">17</container>
+              <unittitle>Ligeiaa.wkg<unitdate calendar="gregorian" era="ce">1992 July 20</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.8.7.2.12.18" level="file">
+            <did>
+              <container label="File" type="Folder">16</container>
+              <unittitle>Ligeia2.wms<unitdate calendar="gregorian" era="ce">1992 July 19</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.8.7.2.13" level="file">
+          <did>
+            <container label="Floppy Disk" type="Folder">12</container>
+            <unittitle>Faxes Sent/Received Summer '96 - 1</unittitle>
+            <daogrp linktype="extended">
+              <daoloc linktype="locator" role="thumbnail" show="embed" actuate="auto" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_12_thumb.jpg"/>
+              <daoloc linktype="locator" role="reference" show="embed" actuate="user" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_12.jpg"/>
+            </daogrp>
+            <unitid>M1081_S1_SS0_01_012_OR</unitid>
+            <physdesc>3 1/2" Floppy Disk (PC). </physdesc>
+          </did>
+          <accessrestrict>
+            <p>Access to this floppy disk is restricted.</p>
+          </accessrestrict>
+        </c02>
+        <c02 id="c02-1.8.7.2.14" level="file">
+          <did>
+            <container label="Floppy Disk" type="Folder">13</container>
+            <unittitle>Faxes Sent/Received Summer '96 - 2<unitdate calendar="gregorian" era="ce">1996 July 1 - 1996 Aug 8</unitdate></unittitle>
+            <daogrp linktype="extended">
+              <daoloc linktype="locator" role="thumbnail" show="embed" actuate="auto" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_13_thumb.jpg"/>
+              <daoloc linktype="locator" role="reference" show="embed" actuate="user" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_13.jpg"/>
+            </daogrp>
+            <unitid>M1081_S1_SS0_01_013_OR</unitid>
+            <physdesc>3 1/2" Floppy Disk (PC). Diskette contains 21 FXD and FXR fax files. </physdesc>
+          </did>
+          <scopecontent>
+            <p>Diskette contains sent and recieved faxes.  </p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.8.7.2.15" level="file">
+          <did>
+            <container label="Floppy Disk" type="Folder">14</container>
+            <unittitle>FL Fonts See Readme.txt<unitdate calendar="gregorian" era="ce">1991 May</unitdate></unittitle>
+            <daogrp linktype="extended">
+              <daoloc linktype="locator" role="thumbnail" show="embed" actuate="auto" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_14_thumb.jpg"/>
+              <daoloc linktype="locator" role="reference" show="embed" actuate="user" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_14.jpg"/>
+            </daogrp>
+            <unitid>M1081_S1_SS0_01_014_OR</unitid>
+            <physdesc>3 1/2" Floppy Disk (PC)</physdesc>
+          </did>
+          <scopecontent>
+            <p>Diskette contains font files.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.8.7.2.16" level="file">
+          <did>
+            <container label="Floppy Disk" type="Folder">15</container>
+            <daogrp linktype="extended">
+              <daoloc linktype="locator" role="thumbnail" show="embed" actuate="auto" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_15_thumb.jpg"/>
+              <daoloc linktype="locator" role="reference" show="embed" actuate="user" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_15.jpg"/>
+            </daogrp>
+            <unittitle>Creeley Zipped Files 3/3</unittitle>
+            <unitid>M1081_S1_SS0_01_015_OR</unitid>
+            <physdesc>3 1/2" Floppy Disk (PC)</physdesc>
+          </did>
+          <scopecontent>
+            <p>Diskette contains two zipped archives.</p>
+          </scopecontent>
+          <c03 id="c03-1.8.7.2.16.3" level="file">
+            <did>
+              <container label="File" type="Folder">1</container>
+              <unittitle>Fax000.zip</unittitle>
+              <physdesc>1 zipped archive</physdesc>
+            </did>
+            <scopecontent>
+              <p>Zipped archive of  receieved faxes.  Page images are either corrupt or are unreadible by Quickview Plus emulation software.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.16.4" level="file">
+            <did>
+              <container label="File" type="Folder">2</container>
+              <unittitle>Zip.zip<unitdate calendar="gregorian" era="ce">1994 Jan 27 - 1994 Mar 2</unitdate></unittitle>
+              <physdesc>1 zipped archive</physdesc>
+            </did>
+            <scopecontent>
+              <p>Zipped archive contains sent and received email.</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="c02-1.8.7.2.17" level="file">
+          <did>
+            <container label="Floppy Disk" type="Folder">16</container>
+            <unittitle>Creeley Zipped Files 2/3</unittitle>
+            <daogrp linktype="extended">
+              <daoloc linktype="locator" role="thumbnail" show="embed" actuate="auto" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_16_thumb.jpg"/>
+              <daoloc linktype="locator" role="reference" show="embed" actuate="user" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_16.jpg"/>
+            </daogrp>
+            <unitid>M1081_S1_SS0_01_016_OR</unitid>
+            <physdesc>3 1/2" Floppy Disk (PC)</physdesc>
+          </did>
+          <scopecontent>
+            <p>Diskette contains eleven zipped archives.</p>
+          </scopecontent>
+          <c03 id="c03-1.8.7.2.17.3" level="file">
+            <did>
+              <container label="File" type="Folder">1</container>
+              <unittitle>Add2.zip<unitdate calendar="gregorian" era="ce">1992 Oct 29 - 1994 Dec 16</unitdate></unittitle>
+              <physdesc>1 zipped archive</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.8.7.2.17.4" level="file">
+            <did>
+              <container label="File" type="Folder">2</container>
+              <unittitle>Zizaca.zip<unitdate calendar="gregorian" era="ce">1994 Oct 5 - 1994 Dec 16</unitdate></unittitle>
+              <physdesc>1 zipped archive</physdesc>
+            </did>
+            <scopecontent>
+              <p>Outgoing email.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.17.5" level="file">
+            <did>
+              <container label="File" type="Folder">3</container>
+              <unittitle>Chair001.zip<unitdate calendar="gregorian" era="ce">1991 Sept 5 - 1994 Mar 12</unitdate></unittitle>
+              <physdesc>1 zipped archive</physdesc>
+            </did>
+            <scopecontent>
+              <p>Outgoing emails and faxes.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.17.6" level="file">
+            <did>
+              <container label="File" type="Folder">4</container>
+              <unittitle>Chair00B.zip<unitdate calendar="gregorian" era="ce">1994 May 13 - 1994 Nov 23</unitdate></unittitle>
+              <physdesc>1 zipped archive</physdesc>
+            </did>
+            <scopecontent>
+              <p>Outgoing emails and faxes.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.17.7" level="file">
+            <did>
+              <container label="File" type="Folder">5</container>
+              <unittitle>Fulbrite.zip<unitdate calendar="gregorian" era="ce">1994 July 21 - 1995 May 19</unitdate></unittitle>
+              <physdesc>1 zipped archive</physdesc>
+            </did>
+            <scopecontent>
+              <p>Received and sent emails.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.17.8" level="file">
+            <did>
+              <container label="File" type="Folder">6</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce"/>
+              </unittitle>
+              <physdesc>1 zipped archive</physdesc>
+            </did>
+            <accessrestrict>
+              <p>Access to this zipped archive is restricted.</p>
+            </accessrestrict>
+          </c03>
+          <c03 id="c03-1.8.7.2.17.9" level="file">
+            <did>
+              <container label="File" type="Folder">7</container>
+              <unittitle/>
+              <physdesc>1 zipped archive</physdesc>
+            </did>
+            <accessrestrict>
+              <p>Access to this zipped archive is restricted.</p>
+            </accessrestrict>
+          </c03>
+          <c03 id="c03-1.8.7.2.17.10" level="file">
+            <did>
+              <container label="File" type="Folder">8</container>
+              <unittitle>Letters1.zip<unitdate calendar="gregorian" era="ce">1993 Dec 20 - 1994 Aug 2</unitdate></unittitle>
+              <physdesc>1 zipped archive</physdesc>
+            </did>
+            <scopecontent>
+              <p>Outgoing email correspondence.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.17.11" level="file">
+            <did>
+              <container label="File" type="Folder">9</container>
+              <unittitle>Poetry.zip<unitdate calendar="gregorian" era="ce">1993 Feb 12 - 1994 Apr 23</unitdate></unittitle>
+              <physdesc>1 zipped archive</physdesc>
+            </did>
+            <scopecontent>
+              <p>Poetry zip contains 3 zipped archives of poetry labeled 'out', 'uncollec', and 'pub'.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.17.12" level="file">
+            <did>
+              <container label="File" type="Folder">10</container>
+              <unittitle>Pub.zip<unitdate calendar="gregorian" era="ce">1992 Feb 1 - 1994 Oct 20</unitdate></unittitle>
+              <physdesc>1 zipped archive</physdesc>
+            </did>
+            <scopecontent>
+              <p>Contains four additional zipped archives labeled 'out', 'pend', 'prose', and 'poetry'.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.17.13" level="file">
+            <did>
+              <container label="File" type="Folder">11</container>
+              <unittitle/>
+              <physdesc>1 zipped archive</physdesc>
+            </did>
+            <accessrestrict>
+              <p>Access to this zipped archive is restricted.</p>
+            </accessrestrict>
+          </c03>
+        </c02>
+        <c02 id="c02-1.8.7.2.18" level="file">
+          <did>
+            <container label="Floppy Disk" type="Folder">17</container>
+            <unittitle>Biz 12</unittitle>
+            <daogrp linktype="extended">
+              <daoloc linktype="locator" role="thumbnail" show="embed" actuate="auto" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_17_thumb.jpg"/>
+              <daoloc linktype="locator" role="reference" show="embed" actuate="user" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_17.jpg"/>
+            </daogrp>
+            <unitid>M1081_S1_SS0_01_017_OR</unitid>
+            <physdesc>3 1/2" Floppy Disk (PC)</physdesc>
+          </did>
+          <accessrestrict>
+            <p>Access to this floppy disk is restricted.</p>
+          </accessrestrict>
+        </c02>
+        <c02 id="c02-1.8.7.2.19" level="file">
+          <did>
+            <container label="Floppy Disk" type="Folder">18</container>
+            <unittitle>Biz 11</unittitle>
+            <daogrp linktype="extended">
+              <daoloc linktype="locator" role="thumbnail" show="embed" actuate="auto" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_18_thumb.jpg"/>
+              <daoloc linktype="locator" role="reference" show="embed" actuate="user" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_18.jpg"/>
+            </daogrp>
+            <unitid>M1081_S1_SS0_01_018_OR</unitid>
+            <physdesc>3 1/2" Floppy Disk (PC)</physdesc>
+          </did>
+          <accessrestrict>
+            <p>Access to this floppy disk is restricted.</p>
+          </accessrestrict>
+        </c02>
+        <c02 id="c02-1.8.7.2.20" level="file">
+          <did>
+            <container label="Floppy Disk" type="Folder">19</container>
+            <unittitle>Biz 6 Following Biz 91B</unittitle>
+            <daogrp linktype="extended">
+              <daoloc linktype="locator" role="thumbnail" show="embed" actuate="auto" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_19_thumb.jpg"/>
+              <daoloc linktype="locator" role="reference" show="embed" actuate="user" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_19.jpg"/>
+            </daogrp>
+            <unitid>M1081_S1_SS0_01_019_OR</unitid>
+            <physdesc>3 1/2" Floppy Disk (PC)</physdesc>
+          </did>
+          <accessrestrict>
+            <p>Access to this floppy disk is restricted.</p>
+          </accessrestrict>
+        </c02>
+        <c02 id="c02-1.8.7.2.21" level="file">
+          <did>
+            <container label="Floppy Disk" type="Folder">20</container>
+            <unittitle>Biz IV</unittitle>
+            <daogrp linktype="extended">
+              <daoloc linktype="locator" role="thumbnail" show="embed" actuate="auto" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_20_thumb.jpg"/>
+              <daoloc linktype="locator" role="reference" show="embed" actuate="user" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_20.jpg"/>
+            </daogrp>
+            <unitid>M1081_S1_SS0_01_020_OR</unitid>
+            <physdesc>3 1/2" Floppy Disk (PC)</physdesc>
+          </did>
+          <accessrestrict>
+            <p>Access to this floppy disk is restricted.</p>
+          </accessrestrict>
+        </c02>
+        <c02 id="c02-1.8.7.2.22" level="file">
+          <did>
+            <container label="Floppy Disk" type="Folder">21</container>
+            <unittitle>A: Biz III</unittitle>
+            <daogrp linktype="extended">
+              <daoloc linktype="locator" role="thumbnail" show="embed" actuate="auto" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_21_thumb.jpg"/>
+              <daoloc linktype="locator" role="reference" show="embed" actuate="user" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_21.jpg"/>
+            </daogrp>
+            <unitid>M1081_S1_SS0_01_021_OR</unitid>
+            <physdesc>3 1/2" Floppy Disk (PC)</physdesc>
+          </did>
+          <accessrestrict>
+            <p>Access to this floppy disk is restricted.</p>
+          </accessrestrict>
+        </c02>
+        <c02 id="c02-1.8.7.2.23" level="file">
+          <did>
+            <container label="Floppy Disk" type="Folder">22</container>
+            <unittitle>A: Biz II (including TEACH (88/89)), "Schedule [88/89]"<unitdate calendar="gregorian" era="ce">1988 - 1989</unitdate></unittitle>
+            <daogrp linktype="extended">
+              <daoloc linktype="locator" role="thumbnail" show="embed" actuate="auto" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_22_thumb.jpg"/>
+              <daoloc linktype="locator" role="reference" show="embed" actuate="user" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_22.jpg"/>
+            </daogrp>
+            <unitid>M1081_S1_SS0_01_022_OR</unitid>
+            <physdesc>3 1/2" Floppy Disk (PC)</physdesc>
+          </did>
+          <accessrestrict>
+            <p>Access to this floppy disk is restricted.</p>
+          </accessrestrict>
+        </c02>
+        <c02 id="c02-1.8.7.2.24" level="file">
+          <did>
+            <container label="Floppy Disk" type="Folder">23</container>
+            <unittitle>A: Biz (Storage) I</unittitle>
+            <daogrp linktype="extended">
+              <daoloc linktype="locator" role="thumbnail" show="embed" actuate="auto" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_23_thumb.jpg"/>
+              <daoloc linktype="locator" role="reference" show="embed" actuate="user" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_23.jpg"/>
+            </daogrp>
+            <unitid>M1081_S1_SS0_01_023_OR</unitid>
+            <physdesc>3 1/2" Floppy Disk (PC)</physdesc>
+          </did>
+          <accessrestrict>
+            <p>Access to this floppy disk is restricted.</p>
+          </accessrestrict>
+        </c02>
+        <c02 id="c02-1.8.7.2.25" level="file">
+          <did>
+            <container label="Floppy Disk" type="Folder">24</container>
+            <unittitle>A: Biz. 91B</unittitle>
+            <daogrp linktype="extended">
+              <daoloc linktype="locator" role="thumbnail" show="embed" actuate="auto" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_24_thumb.jpg"/>
+              <daoloc linktype="locator" role="reference" show="embed" actuate="user" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_24.jpg"/>
+            </daogrp>
+            <unitid>M1081_S1_SS0_01_024_OR</unitid>
+            <physdesc>3 1/2" Floppy Disk (PC)</physdesc>
+          </did>
+          <accessrestrict>
+            <p>Access to this floppy disk is restricted.</p>
+          </accessrestrict>
+        </c02>
+        <c02 id="c02-1.8.7.2.26" level="file">
+          <did>
+            <container label="Floppy Disk" type="Folder">25</container>
+            <unittitle>Creeley Zipped Files 1/3, 5/98</unittitle>
+            <daogrp linktype="extended">
+              <daoloc linktype="locator" role="thumbnail" show="embed" actuate="auto" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_25_thumb.jpg"/>
+              <daoloc linktype="locator" role="reference" show="embed" actuate="user" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_25.jpg"/>
+            </daogrp>
+            <unitid>M1081_S1_SS0_01_025_OR</unitid>
+            <physdesc>3 1/2" Floppy Disk (PC)</physdesc>
+          </did>
+          <scopecontent>
+            <p>Diskette contains 8 compressed folders.</p>
+          </scopecontent>
+          <c03 id="c03-1.8.7.2.26.3" level="file">
+            <did>
+              <container label="Folder" type="Folder">1</container>
+              <unittitle>Biz.zip</unittitle>
+            </did>
+            <accessrestrict>
+              <p>Access to this zipped archive is restricted.</p>
+            </accessrestrict>
+          </c03>
+          <c03 id="c03-1.8.7.2.26.4" level="file">
+            <did>
+              <container label="Folder" type="Folder">2</container>
+              <unittitle>Biz89.zip</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.8.7.2.26.5" level="file">
+            <did>
+              <container label="Folder" type="Folder">3</container>
+              <unittitle>Files91.zip</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.8.7.2.26.6" level="file">
+            <did>
+              <container label="Folder" type="Folder">4</container>
+              <unittitle>Letters.zip</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.8.7.2.26.7" level="file">
+            <did>
+              <container label="Folder" type="Folder">5</container>
+              <unittitle>Letters8.zip</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.8.7.2.26.8" level="file">
+            <did>
+              <container label="Folder" type="Folder">6</container>
+              <unittitle>Prose</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.8.7.2.26.9" level="file">
+            <did>
+              <container label="Folder" type="Folder">7</container>
+              <unittitle>Prose89.zip</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.8.7.2.26.10" level="file">
+            <did>
+              <container label="Folder" type="Folder">8</container>
+              <unittitle>Uncollec.zip</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.8.7.2.27" level="file">
+          <did>
+            <container label="Floppy Disk" type="Folder">26</container>
+            <unittitle>Zip Files 1C to be added to direct[ory?] etc): 1. Psitools. 2. CDR(ROM)220.zip. 3. Prose (for Mex. essay). 4. Schedule. 5. [?] (1995). 6. Hurricane (Game)</unittitle>
+            <daogrp linktype="extended">
+              <daoloc linktype="locator" role="thumbnail" show="embed" actuate="auto" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_26_thumb.jpg"/>
+              <daoloc linktype="locator" role="reference" show="embed" actuate="user" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_26.jpg"/>
+            </daogrp>
+            <unitid>M1081_S1_SS0_01_026_OR</unitid>
+            <physdesc>3 1/2" Floppy Disk (PC)</physdesc>
+          </did>
+          <scopecontent>
+            <p>Diskette contains 8 compressed folders.</p>
+          </scopecontent>
+          <c03 id="c03-1.8.7.2.27.3" level="file">
+            <did>
+              <container label="Folder" type="Folder">1</container>
+              <unittitle>CDR220.zip<unitdate calendar="gregorian" era="ce">1990 - 1992</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Zipped Program files for installing CD-ROM.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.27.4" level="file">
+            <did>
+              <container label="Folder" type="Folder">2</container>
+              <unittitle>Home.zip<unitdate calendar="gregorian" era="ce">1989 Dec - 1995 Feb</unitdate></unittitle>
+            </did>
+            <accessrestrict>
+              <p>Access to this zipped archive is restricted.</p>
+            </accessrestrict>
+          </c03>
+          <c03 id="c03-1.8.7.2.27.5" level="file">
+            <did>
+              <container label="Folder" type="Folder">3</container>
+              <unittitle>Hurr101.zip</unittitle>
+            </did>
+            <scopecontent>
+              <p>Hurricane computer game.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.27.6" level="file">
+            <did>
+              <container label="File" type="Folder">4</container>
+              <unittitle>Msav.rpt<unitdate calendar="gregorian" era="ce">1997 Oct 31</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Microsoft Antivirus report.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.27.7" level="file">
+            <did>
+              <container label="Folder" type="Folder">5</container>
+              <unittitle>Prosemex.zip<unitdate calendar="gregorian" era="ce">1990 Nov - 1996 Oct</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Bigraphical notes and prose pieces.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.27.8" level="file">
+            <did>
+              <container label="Folder" type="Folder">6</container>
+              <unittitle>PS1TOOLS.zip<unitdate calendar="gregorian" era="ce">1992</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Assorted software files.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.27.9" level="file">
+            <did>
+              <container label="Folder" type="Folder">7</container>
+              <unittitle>Schedule.zip<unitdate calendar="gregorian" era="ce">1994 - 1996</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Scedules from 1994-1996.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.27.10" level="file">
+            <did>
+              <container label="Folder" type="Folder">8</container>
+              <unittitle>SIMP$$95.zip</unittitle>
+            </did>
+            <scopecontent>
+              <p>Unknown data files possibly generated by anti-virus software.</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="c02-1.8.7.2.28" level="file">
+          <did>
+            <container label="Floppy Disk" type="Folder">27</container>
+            <unittitle>zip files: NZ summer '95, Letters, Chair, Add, Fulbrite, Poetry</unittitle>
+            <daogrp linktype="extended">
+              <daoloc linktype="locator" role="thumbnail" show="embed" actuate="auto" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_27_thumb.jpg"/>
+              <daoloc linktype="locator" role="reference" show="embed" actuate="user" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_27.jpg"/>
+            </daogrp>
+            <unitid>M1081_S1_SS0_01_027_OR</unitid>
+            <physdesc>3 1/2" Floppy Disk (PC)</physdesc>
+          </did>
+          <scopecontent>
+            <p>Floppy disk contains orrespondence,  faxes, and, Histoire de Florida</p>
+          </scopecontent>
+          <c03 id="c03-1.8.7.2.28.3" level="file">
+            <did>
+              <container label="Folder" type="Folder">1</container>
+              <unittitle>Add.zip<unitdate calendar="gregorian" era="ce">1992 Dec 12 - 1995 May 20</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Zipped archive contains faxes, stationary templates and contact addresses.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.28.4" level="file">
+            <did>
+              <container label="Folder" type="Folder">2</container>
+              <unittitle>Biz.zip<unitdate calendar="gregorian" era="ce">1994 July 13 - 1995 May 17</unitdate></unittitle>
+            </did>
+            <accessrestrict>
+              <p>Access to this zipped archive is restricted.</p>
+            </accessrestrict>
+          </c03>
+          <c03 id="c03-1.8.7.2.28.5" level="file">
+            <did>
+              <container label="Folder" type="Folder">3</container>
+              <unittitle>Chair.zip<unitdate calendar="gregorian" era="ce">1994 Nov 23 - 1995 May 17</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Correspondence relating to Robert Creeley's position as chair of the SUNY poetics program.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.28.6" level="file">
+            <did>
+              <container label="Folder" type="Folder">4</container>
+              <unittitle>Fulbrite.zip<unitdate calendar="gregorian" era="ce">1994 July 21 - 1995 May 19</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Correspondence relating to Robert Creeley's Fulbrite  scholarship.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.28.7" level="file">
+            <did>
+              <container label="Folder" type="Folder">5</container>
+              <unittitle>Letters.zip<unitdate calendar="gregorian" era="ce">1994 May 13 - 1995 May 20</unitdate></unittitle>
+            </did>
+            <accessrestrict>
+              <p>Access to this zipped archive is restricted.</p>
+            </accessrestrict>
+          </c03>
+          <c03 id="c03-1.8.7.2.28.8" level="file">
+            <did>
+              <container label="Folder" type="Folder">6</container>
+              <unittitle>Poetry.zip<unitdate calendar="gregorian" era="ce">1993 Feb 12 - 1995 Feb 28</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Zipped Archive contains complete and incomplete drafts of poetry.</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="c02-1.8.7.2.29" level="file">
+          <did>
+            <container label="Floppy Disk" type="Folder">28</container>
+            <unittitle>Chops.zip, Add.zip, Poetry.zip, alex.zip, bookmark.zip, prose.zip</unittitle>
+            <daogrp linktype="extended">
+              <daoloc linktype="locator" role="thumbnail" show="embed" actuate="auto" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_28_thumb.jpg"/>
+              <daoloc linktype="locator" role="reference" show="embed" actuate="user" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_28.jpg"/>
+            </daogrp>
+            <physdesc>3 1/2" Floppy Disk (PC)</physdesc>
+          </did>
+          <c03 id="c03-1.8.7.2.29.2" level="file">
+            <did>
+              <container label="Folder" type="Folder">1</container>
+              <unittitle>Email</unittitle>
+            </did>
+            <scopecontent>
+              <p>This uncompressed folder ontains two further sub-folders for incoming and sent email.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.29.3" level="file">
+            <did>
+              <container label="Folder" type="Folder">2</container>
+              <unittitle>Add.zip<unitdate calendar="gregorian" era="ce">1993 May 24 - 1996 June 19</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Zipped archive contains email addresses.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.29.4" level="file">
+            <did>
+              <container label="Folder" type="Folder">3</container>
+              <unittitle>Alex.zip<unitdate calendar="gregorian" era="ce">1995 Dec 29 -  !995 Dec 30</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Draft of peom titled "Edges".</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.29.5" level="file">
+            <did>
+              <container label="Folder" type="Folder">4</container>
+              <unittitle>Avalenti.pen</unittitle>
+            </did>
+            <scopecontent>
+              <p>Poem titled "A valentine for Pen".</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.29.6" level="file">
+            <did>
+              <container label="Folder" type="Folder">5</container>
+              <unittitle>Bookmark.zip<unitdate calendar="gregorian" era="ce">1996 Apr 5 - 1996 June17</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Folder of five HTML documents containing Robert Creeley's bookmarks.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.29.7" level="file">
+            <did>
+              <container label="Folder" type="Folder">6</container>
+              <unittitle>Chair.zip<unitdate calendar="gregorian" era="ce">1995 Sept 20 - 1996 June 15</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Outgoing email.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.29.8" level="file">
+            <did>
+              <container label="Folder" type="Folder">7</container>
+              <unittitle>Chops.zip<unitdate calendar="gregorian" era="ce">1996 Feb 1 - 1996 May 28</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Zipped Archive contains outgoing email.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.29.9" level="file">
+            <did>
+              <container label="Folder" type="Folder">8</container>
+              <unittitle>Msav.rpt<unitdate calendar="gregorian" era="ce">1997 Oct 31</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Micrsoft Antivirus reposrt.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.29.10" level="file">
+            <did>
+              <container label="Folder" type="Folder">9</container>
+              <unittitle>Poetry.zip<unitdate calendar="gregorian" era="ce">1993 Jan 28 - 1996 Mar 8</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Larged zipped archive containing poetry.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.29.11" level="file">
+            <did>
+              <container label="Folder" type="Folder">10</container>
+              <unittitle>Prose.zip<unitdate calendar="gregorian" era="ce">1994 Nov 11 - 1996 Nov 11</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Zipped Archive contains prose compositions.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.29.12" level="file">
+            <did>
+              <container label="Folder" type="Folder">11</container>
+              <unittitle>Sumnfall.96</unittitle>
+            </did>
+            <scopecontent>
+              <p>Restricted File.</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="c02-1.8.7.2.30" level="file">
+          <did>
+            <container label="Floppy Disk" type="Folder">29</container>
+            <unittitle>Biz96.zip, Chair.zip, chops.zip, email96.zip<unitdate calendar="gregorian" era="ce">1995 Oct 20 - 1996 Dec 23</unitdate></unittitle>
+            <daogrp linktype="extended">
+              <daoloc linktype="locator" role="thumbnail" show="embed" actuate="auto" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_29_thumb.jpg"/>
+              <daoloc linktype="locator" role="reference" show="embed" actuate="user" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_29.jpg"/>
+            </daogrp>
+            <physdesc>3 1/2" Floppy Disk (PC)</physdesc>
+          </did>
+          <scopecontent>
+            <p>Diskette contains 6 zipped email archives.</p>
+          </scopecontent>
+          <c03 id="c03-1.8.7.2.30.3" level="file">
+            <did>
+              <container label="Folder" type="Folder">1</container>
+              <unittitle>Emailin<unitdate calendar="gregorian" era="ce">1996 Mar 28 - 1996 Dec 23</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>This folder contains two zipped archives of received email.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.30.4" level="file">
+            <did>
+              <container label="Folder" type="Folder">2</container>
+              <unittitle>Emailsnt<unitdate calendar="gregorian" era="ce">1996 July 7 - 1996 Dec 18</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>This folder contains a single zipped archive of sentemail.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.30.5" level="file">
+            <did>
+              <container label="Folder" type="Folder">3</container>
+              <unittitle>Biz96000.zip<unitdate calendar="gregorian" era="ce">1995 Nov 2 - 1996 June 11</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Outgoing correspondence.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.30.6" level="file">
+            <did>
+              <container label="Folder" type="Folder">4</container>
+              <unittitle>Chair000.zip<unitdate calendar="gregorian" era="ce">1995 Oct 20 - 1996 May 24</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>This archive contains outgoing correspondence.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.30.7" level="file">
+            <did>
+              <container label="Folder" type="Folder">5</container>
+              <unittitle>Chops000.zip<unitdate calendar="gregorian" era="ce">1995 Sept 14 - 1996 May 28</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Contains correspondence and fax cover letters.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.30.8" level="file">
+            <did>
+              <container label="Folder" type="Folder">6</container>
+              <unittitle>Msav.rpt<unitdate calendar="gregorian" era="ce">1997 Oct 31</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Microsoft Antivirus report.</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="c02-1.8.7.2.31" level="file">
+          <did>
+            <container label="Floppy Disk" type="Folder">30</container>
+            <unittitle>Email 3 - 1997, Chops, Chair, Biz, Letters, Home 97<unitdate calendar="gregorian" era="ce">1996 May 20 - 1997 June 1</unitdate></unittitle>
+            <daogrp linktype="extended">
+              <daoloc linktype="locator" role="thumbnail" show="embed" actuate="auto" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_30_thumb.jpg"/>
+              <daoloc linktype="locator" role="reference" show="embed" actuate="user" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_30.jpg"/>
+            </daogrp>
+            <physdesc>3 1/2" Floppy Disk (PC)</physdesc>
+          </did>
+          <scopecontent>
+            <p>Diskette contains 6 zipped email archives.</p>
+          </scopecontent>
+          <c03 id="c03-1.8.7.2.31.3" level="file">
+            <did>
+              <container label="Folder" type="Folder">1</container>
+              <unittitle>Biz000.zip<unitdate calendar="gregorian" era="ce">1996 Dec 9 - 1997 Jan 21</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>outgoing corrrespondence and faxes.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.31.4" level="file">
+            <did>
+              <container label="Folder" type="Folder">2</container>
+              <unittitle>Chair000.zip<unitdate calendar="gregorian" era="ce">1996 Sept 2 - 1997 Mar 2</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Misc working documents and letters.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.31.5" level="file">
+            <did>
+              <container label="Folder" type="Folder">3</container>
+              <unittitle>Chops000.zip<unitdate calendar="gregorian" era="ce">1996 May 20 - 1996 Dec 19</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Corresondence and misc. poetry files</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.31.6" level="file">
+            <did>
+              <container label="Folder" type="Folder">4</container>
+              <unittitle>Emailin0.zip<unitdate calendar="gregorian" era="ce">1996 June 18 - 1997 Mar 30</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Incoming email.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.31.7" level="file">
+            <did>
+              <container label="Folder" type="Folder">5</container>
+              <unittitle>Restricted Archive</unittitle>
+            </did>
+            <accessrestrict>
+              <p>Access to this floppy disk is restricted.</p>
+            </accessrestrict>
+          </c03>
+          <c03 id="c03-1.8.7.2.31.8" level="file">
+            <did>
+              <container label="Folder" type="Folder">6</container>
+              <unittitle>Restricted File</unittitle>
+            </did>
+            <scopecontent>
+              <p>Access to this zipped archive is restricted.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.31.9" level="file">
+            <did>
+              <container label="Folder" type="Folder">7</container>
+              <unittitle>Letters0.zip<unitdate calendar="gregorian" era="ce">1996 Sept 4 - 1996 Dec 6</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Outgoing correspondence.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.31.10" level="file">
+            <did>
+              <container label="Folder" type="Folder">8</container>
+              <unittitle>Letters1.zip<unitdate calendar="gregorian" era="ce">1997 Jan 3 - 1997 June 1</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Zipped archive containing primarily faxes.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.31.11" level="file">
+            <did>
+              <container label="Folder" type="Folder">9</container>
+              <unittitle>Msav.rpt<unitdate calendar="gregorian" era="ce">1997 Oct 31</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Microsoft Antivirus report.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.31.12" level="file">
+            <did>
+              <container label="Folder" type="Folder">10</container>
+              <unittitle>Restricted File</unittitle>
+            </did>
+            <accessrestrict>
+              <p>Access to this zipped archive is restricted.</p>
+            </accessrestrict>
+          </c03>
+          <c03 id="c03-1.8.7.2.31.13" level="file">
+            <did>
+              <container label="Folder" type="Folder">11</container>
+              <unittitle>Pktmp000.rpt<unitdate calendar="gregorian" era="ce">1997 Feb 5</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Report to Robert Grenier.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.31.14" level="file">
+            <did>
+              <container label="Folder" type="Folder">12</container>
+              <unittitle>Restricted File</unittitle>
+            </did>
+            <accessrestrict>
+              <p>Access to this archive is restricted.</p>
+            </accessrestrict>
+          </c03>
+          <c03 id="c03-1.8.7.2.31.15" level="file">
+            <did>
+              <container label="Folder" type="Folder">13</container>
+              <unittitle>Scroggin.000<unitdate calendar="gregorian" era="ce">1997 Dec 17</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.8.7.2.31.16" level="file">
+            <did>
+              <container label="Folder" type="Folder">14</container>
+              <unittitle>Sent000.zip</unittitle>
+            </did>
+            <scopecontent>
+              <p>Sent Eamil folder.</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="c02-1.8.7.2.32" level="file">
+          <did>
+            <container label="Floppy Disk" type="Folder">31</container>
+            <unittitle>Email zip 1 1997 (also faxes)</unittitle>
+            <daogrp linktype="extended">
+              <daoloc linktype="locator" role="thumbnail" show="embed" actuate="auto" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_31_thumb.jpg"/>
+              <daoloc linktype="locator" role="reference" show="embed" actuate="user" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_31.jpg"/>
+            </daogrp>
+            <physdesc>3 1/2" Floppy Disk.  </physdesc>
+          </did>
+          <scopecontent>
+            <p>Floppy Disk contains email correspondence and faxes</p>
+          </scopecontent>
+          <c03 id="c03-1.8.7.2.32.3" level="file">
+            <did>
+              <container label="Folder" type="Folder">1</container>
+              <unittitle>Emailadd.zip<unitdate calendar="gregorian" era="ce">1993 May 4 - 1996 Sept 26</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Email addreesses.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.32.4" level="file">
+            <did>
+              <container label="Folder" type="Folder">2</container>
+              <unittitle>Emailin.zip<unitdate calendar="gregorian" era="ce">1997 Apr 2 - 1997 may 20</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Incoming email correspondence.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.32.5" level="file">
+            <did>
+              <container label="Folder" type="Folder">3</container>
+              <unittitle>Emailin0.zip<unitdate calendar="gregorian" era="ce">1997 Apr 2 - 1997 May 7</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Incoming email.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.32.6" level="file">
+            <did>
+              <container label="Folder" type="Folder">4</container>
+              <unittitle>Emailsnt.zip<unitdate calendar="gregorian" era="ce">1997 Mar 30 - 1997 May 14</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Outgoing email correspondence.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.32.7" level="file">
+            <did>
+              <container label="Folder" type="Folder">5</container>
+              <unittitle>Faxesin.zip<unitdate calendar="gregorian" era="ce">1995 Sept 11 - 1996 June 19</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Unable to view these faxes using emulation software.</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="c02-1.8.7.2.33" level="file">
+          <did>
+            <container label="Floppy Disk" type="Folder">32</container>
+            <unittitle>Email 1997 (2) zip<unitdate calendar="gregorian" era="ce">1997</unitdate></unittitle>
+            <daogrp linktype="extended">
+              <daoloc linktype="locator" role="thumbnail" show="embed" actuate="auto" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_32_thumb.jpg"/>
+              <daoloc linktype="locator" role="reference" show="embed" actuate="user" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_32.jpg"/>
+            </daogrp>
+            <physdesc>3 1/2" Floppy Disk (PC)</physdesc>
+          </did>
+          <c03 id="c03-1.8.7.2.33.2" level="file">
+            <did>
+              <container label="Folder" type="Folder">1</container>
+              <unittitle>AMPO<unitdate calendar="gregorian" era="ce">1997</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>A single folder containing 10 files and 1 zipped archive.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.33.3" level="file">
+            <did>
+              <container label="Folder" type="Folder">2</container>
+              <unittitle>Email<unitdate calendar="gregorian" era="ce">1997</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Single folder containing 3 zipped archives of email.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.33.4" level="file">
+            <did>
+              <container label="Folder" type="Folder">3</container>
+              <unittitle>Msav.rpt<unitdate calendar="gregorian" era="ce">1997 Oct 31</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Microsoft Antivirus Report.</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="c02-1.8.7.2.34" level="file">
+          <did>
+            <container label="Floppy Disk" type="Folder">33</container>
+            <unittitle>Chops.zip '97, Bookmark zip, zukconf.zip, Poetry.zip, add.zip,  Prose.zip<unitdate calendar="gregorian" era="ce">1996 Sept 12 - 1997 June 12</unitdate></unittitle>
+            <daogrp linktype="extended">
+              <daoloc linktype="locator" role="thumbnail" show="embed" actuate="auto" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_33_thumb.jpg"/>
+              <daoloc linktype="locator" role="reference" show="embed" actuate="user" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_33.jpg"/>
+            </daogrp>
+            <physdesc>3 1/2" Floppy Disk (PC)</physdesc>
+          </did>
+          <c03 id="c03-1.8.7.2.34.2" level="file">
+            <did>
+              <container label="Folder" type="Folder">1</container>
+              <unittitle>Biz.zip<unitdate calendar="gregorian" era="ce">1997 Feb 2 - 1997 June 12</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Outgoing faxes and correspondence.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.34.3" level="file">
+            <did>
+              <container label="Folder" type="Folder">2</container>
+              <unittitle>Bookmark.zip<unitdate calendar="gregorian" era="ce">1996 Apr 20 - 1997 Apr 3</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Robert Creeley's browser bookmarkds.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.34.4" level="file">
+            <did>
+              <container label="Folder" type="Folder">3</container>
+              <unittitle>Chair.zip<unitdate calendar="gregorian" era="ce">1996 Sept 12 - 1997 June 7</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.8.7.2.34.5" level="file">
+            <did>
+              <container label="Folder" type="Folder">4</container>
+              <unittitle>Chops.zip<unitdate calendar="gregorian" era="ce">1996 Nov 12 - 1997 June 3</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Miscellanious outgoing correspondence.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.34.6" level="file">
+            <did>
+              <container label="Folder" type="Folder">5</container>
+              <unittitle>Msav.rpt<unitdate calendar="gregorian" era="ce">1997 Oct 31</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Microsoft Antivirus Report.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.34.7" level="file">
+            <did>
+              <container label="Folder" type="Folder">6</container>
+              <unittitle>Poetry.zip<unitdate calendar="gregorian" era="ce">1997 Mar 25 - 1997 June 5</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>This zipped archive contains Robert Creeley poetry and cannot be opened using emulation software.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.34.8" level="file">
+            <did>
+              <container label="Folder" type="Folder">7</container>
+              <unittitle>Poetryad.zip<unitdate calendar="gregorian" era="ce">1997 Jan 17 - 1997 Feb 9</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Zipped archive containing Robert Creeley Poetry.  This archive cannot be viewed using emulation softare.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.34.9" level="file">
+            <did>
+              <container label="Folder" type="Folder">8</container>
+              <unittitle>Prose.zip<unitdate calendar="gregorian" era="ce">1997 Jan 22 - 1997 June 11</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Zipped archive contains micellanious prose work.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.34.10" level="file">
+            <did>
+              <container label="Folder" type="Folder">9</container>
+              <unittitle>Zukconf.zip<unitdate calendar="gregorian" era="ce">1997 Mar 28 - 1997 May 13</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Working files related to the Louis Zukofsky Conference held at the University at Buffalo, SUNY.</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="c02-1.8.7.2.35" level="file">
+          <did>
+            <container label="Floppy Disk" type="Folder">34</container>
+            <unittitle>Letters 1<unitdate calendar="gregorian" era="ce">1988 July 11 - 1992 Feb 24</unitdate></unittitle>
+            <daogrp linktype="extended">
+              <daoloc linktype="locator" role="thumbnail" show="embed" actuate="auto" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_34_thumb.jpg"/>
+              <daoloc linktype="locator" role="reference" show="embed" actuate="user" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_34.jpg"/>
+            </daogrp>
+            <physdesc>3 1/2" Floppy Disk (PC)</physdesc>
+          </did>
+          <scopecontent>
+            <p>Floppy disk contains personal correspondence.</p>
+          </scopecontent>
+          <c03 id="c03-1.8.7.2.35.3" level="file">
+            <did>
+              <container label="Folder" type="Folder">1</container>
+              <unittitle>Letters1.zip<unitdate calendar="gregorian" era="ce">1988 July 11 - 1989 June 22</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Personal Correspondeece.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.35.4" level="file">
+            <did>
+              <container label="Folder" type="Folder">2</container>
+              <unittitle>Letters2.zip<unitdate calendar="gregorian" era="ce">1989 May 14 - 1992 Feb 24</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Personal correspondence.</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="c02-1.8.7.2.36" level="file">
+          <did>
+            <container label="Floppy Disk" type="Folder">35</container>
+            <unittitle>inzip but should be Fax (sent).zip 1/3 Summer '97</unittitle>
+            <daogrp linktype="extended">
+              <daoloc linktype="locator" role="thumbnail" show="embed" actuate="auto" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_35_thumb.jpg"/>
+              <daoloc linktype="locator" role="reference" show="embed" actuate="user" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_35.jpg"/>
+            </daogrp>
+            <physdesc>3 1/2" Floppy Disk (PC)</physdesc>
+          </did>
+          <scopecontent>
+            <p>Floppy disk contains incoming and outgoing faxes.</p>
+          </scopecontent>
+          <c03 id="c03-1.8.7.2.36.3" level="file">
+            <did>
+              <container label="Folder" type="Folder">1</container>
+              <unittitle>Faxsent.zip<unitdate calendar="gregorian" era="ce">1997 July 15 - 1997 Aug 5</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Personal correspondence.</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="c02-1.8.7.2.37" level="file">
+          <did>
+            <container label="Floppy Disk" type="Folder">36</container>
+            <unittitle>Faxes Summer 97 #5<unitdate calendar="gregorian" era="ce">1997</unitdate></unittitle>
+            <daogrp linktype="extended">
+              <daoloc linktype="locator" role="thumbnail" show="embed" actuate="auto" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_36_thumb.jpg"/>
+              <daoloc linktype="locator" role="reference" show="embed" actuate="user" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_36.jpg"/>
+            </daogrp>
+            <physdesc>3 1/2" Floppy Disk (PC)</physdesc>
+          </did>
+          <scopecontent>
+            <p>Floppy disk contains faxes.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.8.7.2.38" level="file">
+          <did>
+            <container label="Floppy Disk" type="Folder">37</container>
+            <unittitle>Faxes Summer '97 #4<unitdate calendar="gregorian" era="ce">1997</unitdate></unittitle>
+            <daogrp linktype="extended">
+              <daoloc linktype="locator" role="thumbnail" show="embed" actuate="auto" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_37_thumb.jpg"/>
+              <daoloc linktype="locator" role="reference" show="embed" actuate="user" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_37.jpg"/>
+            </daogrp>
+            <physdesc>3 1/2" Floppy Disk (PC) </physdesc>
+          </did>
+          <scopecontent>
+            <p>Floppy disk contains faxes.</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.8.7.2.39" level="file">
+          <did>
+            <container label="Floppy Disk" type="Folder">38</container>
+            <unittitle>Fax(Received) 3/3 Summer '97<unitdate calendar="gregorian" era="ce">1997 July 15 - 1997 Oct 31</unitdate></unittitle>
+            <daogrp linktype="extended">
+              <daoloc linktype="locator" role="thumbnail" show="embed" actuate="auto" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_38_thumb.jpg"/>
+              <daoloc linktype="locator" role="reference" show="embed" actuate="user" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_38.jpg"/>
+            </daogrp>
+            <physdesc>3 1/2" Floppy Disk (PC)</physdesc>
+          </did>
+          <scopecontent>
+            <p>Floppy disk contains incoming faxes.</p>
+          </scopecontent>
+          <c03 id="c03-1.8.7.2.39.3" level="file">
+            <did>
+              <container label="Folder" type="Folder">1</container>
+              <unittitle>Faxsent.zip<unitdate calendar="gregorian" era="ce">1997 July 15 - 1997 August 6</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Received faxes.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.8.7.2.39.4" level="file">
+            <did>
+              <container label="Folder" type="Folder">2</container>
+              <unittitle>Msav.rpt<unitdate calendar="gregorian" era="ce">1997 Oct 31</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Microsoft antivirus report.</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="c02-1.8.7.2.40" level="file">
+          <did>
+            <container label="Floppy Disk" type="Folder">39</container>
+            <unittitle>Fax(Sent).zip 2/3 Summer '97<unitdate calendar="gregorian" era="ce">1997 July 16 - 1997 Aug 6</unitdate></unittitle>
+            <daogrp linktype="extended">
+              <daoloc linktype="locator" role="thumbnail" show="embed" actuate="auto" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_39_thumb.jpg"/>
+              <daoloc linktype="locator" role="reference" show="embed" actuate="user" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_39.jpg"/>
+            </daogrp>
+            <physdesc>3 1/2" Floppy Disk (PC)</physdesc>
+          </did>
+          <c03 id="c03-1.8.7.2.40.2" level="file">
+            <did>
+              <container label="Folder" type="Folder">1</container>
+              <unittitle>Faxsent.zip<unitdate calendar="gregorian" era="ce">1988 July 13 </unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Zipped folder contains outgoing faxes.</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="c02-1.8.7.2.41" level="file">
+          <did>
+            <container label="Zip Disk" type="Folder">40</container>
+            <unittitle>This zip disk is described in Series 2 as Disk 40.</unittitle>
+            <physdesc>Zip Disk (PC)</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.7.2.42" level="file">
+          <did>
+            <container label="Floppy Disk" type="Folder">41</container>
+            <unittitle>Chair 1</unittitle>
+            <daogrp linktype="extended">
+              <daoloc linktype="locator" role="thumbnail" show="embed" actuate="auto" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_41_thumb.jpg"/>
+              <daoloc linktype="locator" role="reference" show="embed" actuate="user" href="http://www-sul.stanford.edu/depts/spc/images/mss/creeley/Disk_41.jpg"/>
+            </daogrp>
+            <physdesc>3 1/2" Floppy Disk (PC). Error in File Allocation Table repaired using GetDataBack. </physdesc>
+          </did>
+          <scopecontent>
+            <p>Chair correspondence.</p>
+          </scopecontent>
+          <c03 id="c03-1.8.7.2.42.3" level="file">
+            <did>
+              <container label="Folder" type="Folder">1</container>
+              <unittitle>Restricted Folder.</unittitle>
+            </did>
+            <accessrestrict>
+              <p>Access to this folder is restricted.</p>
+            </accessrestrict>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="c01-1.8.7.3" level="series">
+        <did>
+          <unittitle>Series 2. Zip Disks</unittitle>
+        </did>
+        <scopecontent>
+          <p>Robert Creeley's zip disks are currently unprocessed.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.8.7.4" level="series">
+        <did>
+          <unittitle>Series 3. CD-ROMS</unittitle>
+        </did>
+        <scopecontent>
+          <p>Robert Creeley's CD-ROMS are currently unprocessed.</p>
+        </scopecontent>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

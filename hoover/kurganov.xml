@@ -1,0 +1,3004 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  
+  
+  
+  
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" repositoryencoding="iso15511" findaidstatus="unverified-full-draft" langencoding="iso639-2b"><eadid countrycode="us" identifier="ark:/13030/kt2f59q08n" mainagencycode="CSt-H" publicid="PUBLIC &quot;-//Stanford University::Hoover Institution Archives//TEXT&#10;(US::CSt-H::::Ivan Alekseevich Kurganov Papers)//EN&quot; &quot;kurganov.xml&quot;">kurganov.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Register of the Ivan Alekseevich Kurganov Papers</titleproper><titleproper type="filing">Kurganov (Ivan Alekseevich) Papers</titleproper>
+        <author>Prepared by Ronald Bulatoff</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Hoover Institution Archives</publisher>
+        <address>
+          <addressline>Stanford University</addressline>
+          <addressline>Stanford, California 94305-6010</addressline>
+          <addressline>Phone: (650) 723-3563</addressline>
+          <addressline>Fax: (650) 725-3445</addressline>
+          <addressline>Email: hooverarchives@stanford.edu</addressline>
+        </address>
+        <date calendar="gregorian" era="ce">&#xA9; 2003</date>
+        <p>Hoover Institution Archives. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc><profiledesc>
+      <creation>Machine-readable finding aid created by OAC finding aid conversion service.
+Date of source: <date calendar="gregorian" era="ce">2003.</date></creation>
+      <langusage encodinganalog="546">Description is in <language langcode="eng" scriptcode="latn">English</language></langusage>
+    </profiledesc><revisiondesc>
+     <change>
+      <date calendar="gregorian" era="ce" normal="20111020">October 20, 2011</date>
+      <item>Revised to update encoding and add unitid by Elizabeth Phillips</item>
+      </change>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//Stanford University::Hoover Institution Archives//TEXT
+(US::CSt-H::::Ivan Alekseevich Kurganov Papers)//EN" "kurganov.xml" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Register of the Ivan Alekseevich Kurganov Papers</titleproper>
+      <publisher>Hoover Institution Archives
+<lb/>Stanford University
+<lb/>Stanford, California</publisher>
+      <list type="simple">
+        <head>Contact Information</head>
+        <item>Hoover Institution Archives</item>
+        <item>Stanford University</item>
+        <item>Stanford, California 94305-6010</item>
+        <item>Phone: (650) 723-3563</item>
+        <item>Fax: (650) 725-3445</item>
+        <item>Email: hooverarchives@stanford.edu</item>
+      </list>
+      <list type="deflist">
+        <defitem>
+          <label>Prepared by:</label>
+          <item>Ronald Bulatoff</item>
+        </defitem>
+        <defitem>
+          <label>Date Completed:</label>
+          <item>2003</item>
+        </defitem>
+        <defitem>
+          <label>Encoded by:</label>
+          <item>ByteManagers using OAC finding aid conversion service specifications</item>
+        </defitem>
+      </list>
+      <p>&#xA9; 2003 Hoover Institution Archives. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection">
+    <did id="did-1.7.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">I. A. Kurganov papers, </unittitle><unitdate calendar="gregorian" era="ce" type="inclusive" normal="1940/1980">1940-1980</unitdate>
+      <unitid label="Collection number" repositorycode="CSt-H" countrycode="US">2001C74</unitid>
+      <origination encodinganalog="100" label="Creator">
+        <persname source="lcnaf">Kurganov, I. A. (Ivan Alekseevich)</persname>
+      </origination>
+      <physdesc encodinganalog="300" label="Extent">
+        <extent>27 manuscript boxes, 3 card file boxes</extent>
+        <extent>(12.5 linear feet)</extent>
+      </physdesc>
+      <repository label="Repository">
+        <corpname source="lcnaf">Hoover Institution on War, Revolution, and Peace</corpname>
+        <address>
+          <addressline>Stanford, California 94305-6010</addressline>
+        </address>
+      </repository>
+      <abstract label="Abstract" encodinganalog="520">Writings, correspondence, card files, and printed matter, relating to economics, anti-communist movements, and Russian &#xE9;migr&#xE9; affairs. Includes records of the Koordinatsionnyi TSentr Antibol'shevistskoi Bor'by and some papers of Aleksandr Kerensky.</abstract>
+<physloc label="Physical Location">Hoover Institution Archives</physloc>
+      <langmaterial label="Language">
+        <language langcode="rus">Russian.</language>
+      </langmaterial>
+    </did>
+    <descgrp id="descgrp-1.7.2" type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict>
+        <head>Access</head>
+        <p>Collection is open for research.</p>
+      </accessrestrict>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>For copyright status, please contact the Hoover Institution Archives.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], I. A. Kurganov papers, [Box no.], Hoover Institution Archives.</p>
+      </prefercite>
+      <acqinfo>
+        <head>Acquisition Information</head>
+        <p>Acquired in 2001.</p>
+      </acqinfo>
+      <accruals encodinganalog="525">
+        <head>Accruals</head>
+        <p>Increments may have been received since this finding aid was prepared. Please check Stanford University's online catalog Socrates at <extref linktype="simple" href="http://library.stanford.edu/webcat" actuate="onrequest" show="new">http://library.stanford.edu/webcat</extref> to find the full extent of the collection.</p>
+      </accruals>
+    </descgrp>
+    <bioghist id="bioghist-1.7.3" encodinganalog="545">
+      <head>Biographical Note</head>
+      <chronlist>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1895, January 14</date>
+          <event>Born, Russia</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1914-1920</date>
+          <event>Officer in the Russian Imperial Army during World War I and served with the anti-Bolshevik forces under Admiral Kolchak in Siberia. Captured by the Red Army, imprisoned and eventually released</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1924-1930</date>
+          <event>Lectured at Leningrad University</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1930-1942</date>
+          <event>Lectured at the Leningrad Financial-Economic Institute</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1934</date>
+          <event>Became Professor of Economics</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1935-1941</date>
+          <event>Held chair at the Institute of Soviet Cooperative Trade in Moscow</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1939</date>
+          <event>Ph.D. in Economics</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1942</date>
+          <event>Evacuated from Leningrad with the Financial-Economic Institute to the North Caucasus</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1943</date>
+          <event>Arrived in Berlin, Germany</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1950</date>
+          <event>Emigrated to the United States</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1951-1956</date>
+          <event>Held a leading position and presided over the Coordinating Center of Anti-Bolshevik Struggle</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1958</date>
+          <event>Author, <emph render="underline">Reformizm v SSSR</emph>, <emph render="underline">Sel'skoe khoziaistvo na novom etape</emph>, <emph render="underline">Sovremennoe polozhenie vlasti v SSSR</emph></event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1961</date>
+          <event>Author, <emph render="underline">Natsii SSSR i russkii vopros</emph></event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1967</date>
+          <event>Author, <emph render="underline">Sem'ia v SSSR, 1917-1967</emph></event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1968</date>
+          <event>Author, <emph render="underline">Zhenshchiny i kommunizm</emph></event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1971</date>
+          <event>Author, <emph render="underline">Women in the USSR</emph></event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1980</date>
+          <event>Died</event>
+        </chronitem>
+      </chronlist>
+    </bioghist>
+    <scopecontent id="scopecontent-1.7.4">
+      <head>Scope and Content Note</head>
+      <p>The papers of Ivan Alekseevich Kurganov, acquired in 2001, consist of correspondence, published and unpublished writings, including manuscripts of books and articles, reports, and memoranda. These materials document the political and intellectual life of Professor Kurganov and his contemporaries from the early 1950s through the late 1970s. Kurganov's associates included well-known Russian &#xE9;migr&#xE9;s such as Sergei P. Mel'gunov, Mikhail Karpovich, V. Orekhov, Vladmir Samarin, and many others. The most important correspondent was Alexander Kerensky.</p>
+      <p>After World War II, Kurganov worked as a journalist for the Russian &#xE9;migr&#xE9; press. His work as a journalist is reflected in the speeches and writings series. Between the years 1959 and 1980 Professor Kurganov published several books, and many articles and pamphlets, also included in the series.</p>
+      <p>Included in the Kurganov collection are the records of the Coordinating Center of Anti-Bolshevik Struggle (Munich), which sought to unify the political activities of various anti-Soviet Russian &#xE9;migr&#xE9; organizations. From 1951 to 1956, Professor Kurganov held a leading position in and later presided over the Center. During this time, he worked closely with Alexander Kerensky and Sergei P. Mel'gunov. The records of the Coordinating Center provide a wealth of information on anti-Soviet activities in the Russian &#xE9;migr&#xE9; community during the 1950s. Of great interest are Alexander Kerensky's letters on his anti-Soviet political activities, relations with a new generation of Russian &#xE9;migr&#xE9;s (displaced persons), and his stance on many other issues.</p>
+    </scopecontent>
+    <controlaccess id="controlaccess-1.7.5">
+      <head>Indexing Terms</head>
+      <p>The following terms have been used to index the description of this collection in the repository's online public access catalog.</p>
+      <controlaccess>
+        <head>Subjects</head>
+        <subject source="lcsh" encodinganalog="650">Anti-communist movements.</subject>
+        <subject source="lcsh" encodinganalog="650">Russians--Germany.</subject>
+        <subject source="lcsh" encodinganalog="650">Communism.</subject>
+        <subject source="lcsh" encodinganalog="650">Economics.</subject>
+        <geogname source="lcsh" encodinganalog="651">Soviet Union.</geogname>
+        <geogname source="lcsh" encodinganalog="651">Russia (Federation)</geogname>
+        <geogname source="lcsh" encodinganalog="651">Germany.</geogname>
+      </controlaccess>
+      <controlaccess>
+        <head>Occupations</head>
+        <occupation source="lcsh" encodinganalog="656">Economists.</occupation>
+      </controlaccess>
+      <controlaccess>
+        <head>Other Index Terms Related to this Collection</head>
+        <persname source="lcnaf" encodinganalog="700">Kerensky, Aleksandr Fyodorovich, 1881-1970.</persname>
+        <corpname source="lcnaf" encodinganalog="710">Koordinatsionnyi tsentr antibol'shevistskoi bor'by.</corpname>
+      </controlaccess>
+    </controlaccess>
+    <dsc id="dsc-1.7.6" type="analyticover">
+      <head>Series Description</head>
+      <c01 id="c01-1.7.6.2" level="series">
+        <did>
+          <container type="Box" label="box">1</container>
+          <unittitle>Biographical File, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1940/1996">1940-1996</unitdate>.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Certificates, curriculum vitae, books, identification cards, immigration documents, and other materials relating to the life and career of I. A. Kurganov</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.6.3" level="series">
+        <did>
+          <container type="Box" label="box">1-4</container>
+          <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1943/1980">1943-1980</unitdate>.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Letters to and from various individuals and organizations. Arranged alphabetically by name of correspondent</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.6.4" level="series">
+        <did>
+          <container type="Box" label="box">4-14</container>
+          <unittitle>Speeches and Writings, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1945/1976">1945-1976</unitdate>.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Book manuscripts, essays, reports, studies, speeches, and other writings by I. A. Kurganov. Arranged chronologically by title</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.6.5" level="series">
+        <did>
+          <container type="Box" label="box">15-21</container>
+          <unittitle>Koordinatsionnyi Tsentr Anti-Bol'shevistskoi Bor'by (Coordinating Center of Anti-Bolshevik Struggle), <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1948/1980">1948-1980</unitdate>.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Announcement, clippings, correspondence, reports, and subject file relating to the activities of the Koordinatsionnyi Tsentr, collected by I. A. Kurganov. Arranged alphabetically by physical form</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.6.6" level="series">
+        <did>
+          <container type="Box" label="box">21-24</container>
+          <unittitle>Writings by Others, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1917/1974">1917-1974</unitdate>.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Typescripts and printed copies of writings by authors associated with I. A. Kurganov. Arranged alphabetically by name of author</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.6.7" level="series">
+        <did>
+          <container type="Box" label="box">24-27</container>
+          <unittitle>Clippings, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1949/1980">1949-1980</unitdate>.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Clippings from various newspapers, serials, and other printed publications, relating to 
+events and conditions in the Soviet Union, the Russian emigration in Europe and the United States, collected by I. A. Kurganov for his research. Arranged alphabetically by subject</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.6.8" level="series">
+        <did>
+          <container type="Box" label="box">28-30</container>
+          <unittitle>Card File, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1940/1980">n.d.</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Reference cards to sources relating to a variety of subjects used by I. A. Kurganov for his research</p>
+        </scopecontent>
+      </c01>
+    </dsc>
+    <dsc id="dsc-1.7.7" type="in-depth">
+      <head>Container List</head>
+      <c01 id="c01-1.7.7.2" level="file">
+        <did>
+          <container type="Box" label="Box">1</container>
+          <unittitle>BIOGRAPHICAL FILE, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1940/1996">1940-1996</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.7.2.2" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 1</container>
+            <unittitle>Certificates of academic standing and organizational status, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1940/1957">1940-1957</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.2.3" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 2</container>
+            <unittitle>Curriculum vitae, <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.2.4" level="file">
+          <did>
+            <unittitle>Family file - Neratova, Rimma (daughter)</unittitle>
+          </did>
+          <c03 id="c03-1.7.7.2.4.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">1 : 3</container>
+              <unittitle><emph render="underline">V dni voiny: Semeinaia khronika</emph>, St. Petersburg, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1996">1996</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.2.4.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">1 : 4</container>
+              <unittitle><emph render="underline">Politicheskaia ekonomiia</emph>, Akademiia Nauk SSSR, Institut Ekonomiki, Moscow, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1954">1954</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Inserted note by Rimma Neratova regarding I. A. Kurganov as being chief editor of this book</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.7.2.5" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 5</container>
+            <unittitle>Identification cards, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1957/1961">1957-1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.2.6" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 6</container>
+            <unittitle>Immigration documents to the United States, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1950">1950</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.2.7" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 7</container>
+            <unittitle>Miscellany</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.7.3" level="file">
+        <did>
+          <unittitle>CORRESPONDENCE, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1943/1980">1943-1980</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.7.3.2" level="file">
+          <did>
+            <unittitle>General</unittitle>
+          </did>
+          <c03 id="c03-1.7.7.3.2.2" level="file">
+            <did>
+              <unittitle>Correspondence with various publishers</unittitle>
+            </did>
+            <c04 id="c04-1.7.7.3.2.2.2" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">1 : 8</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1957/1968">1957-1968</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.3.2.2.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">1 : 9</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1969/1974">1969-1974</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.7.3.2.3" level="file">
+            <did>
+              <container type="Box-folder" label="Box/Folder">2 : 1</container>
+              <unittitle>Letters from various libraries and organizations ordering books by I. A. Kurganov, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1967/1969">1967-1969</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.7.3.3" level="file">
+          <did>
+            <unittitle>Unidentified</unittitle>
+          </did>
+          <c03 id="c03-1.7.7.3.3.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">2 : 2</container>
+              <unittitle>General, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1957/1974">1957-1974</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.3.3.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">2 : 3</container>
+              <unittitle>Anatolii Vasil'evich, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1958/1972">1958-1972</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.3.3.4" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">2 : 4</container>
+              <unittitle>Fedor Ivanovich, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1966/1974">1966-1974</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.3.3.5" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">2 : 5</container>
+              <unittitle>Georgii Al'bertovich, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1961">1961</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.3.3.6" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">2 : 6</container>
+              <unittitle>Gerhard Berngardovich, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1958">1958</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.3.3.7" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">2 : 7</container>
+              <unittitle>Igor Arturovich, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1962">1962</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.3.3.8" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">2 : 8</container>
+              <unittitle>Iurii Pavlovich, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1964">1964</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.3.3.9" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">2 : 9</container>
+              <unittitle>Izrail' Grigor'evich, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1968">1968</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.3.3.10" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">2 : 10</container>
+              <unittitle>Mikhail Vasil'evich, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1970">1970</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.3.3.11" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">2 : 11</container>
+              <unittitle>Mikhail Vladimirovich, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1971">1971</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.3.3.12" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">2 : 12</container>
+              <unittitle>Nikolai Ivanovich, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1972">1972</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.3.3.13" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">2 : 13</container>
+              <unittitle>Nikolai Nikolaevich, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1969/1972">1969-1972</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.3.3.14" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">2 : 14</container>
+              <unittitle>Sergei Evgen'evich, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1961">1961</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.3.3.15" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">2 : 15</container>
+              <unittitle>Valentina Konstantinovna, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1974">1974</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.3.3.16" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">2 : 16</container>
+              <unittitle>Vladimir Dimitrievich, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1971">1971</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.3.3.17" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">2 : 17</container>
+              <unittitle>Vladimir Ivanovich, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1971">1971</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.3.3.18" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">2 : 18</container>
+              <unittitle>Vladimir Sergeevich, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1969/1970">1969-1970</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.3.3.19" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">2 : 19</container>
+              <unittitle>Vladimir Vladimirovich, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1970">1970</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.7.3.4" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 20</container>
+            <unittitle>Afanasieff, V., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1962">1962</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.5" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 21</container>
+            <unittitle>American Committee for Liberation, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1962">1962</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.6" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 22</container>
+            <unittitle>Anatolii, A., <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.7" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 23</container>
+            <unittitle>Argus, Mikhail K., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1969">1969</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.8" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 24</container>
+            <unittitle>Arnol'd, Fedor T., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1961">1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.9" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 25</container>
+            <unittitle>Aronson, Grigorii, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1967/1968">1967-1968</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.10" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 26</container>
+            <unittitle>Artemov, Aleksandr, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1962/1973">1962-1973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.11" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 27</container>
+            <unittitle>Association of Russian-American Scholars in the United States of America (Konstantin G. Belousov), <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1971/1975">1971-1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.12" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 28</container>
+            <unittitle>Avtorkhanov, Aleksandr A., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1961/1972">1961-1972</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.13" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 29</container>
+            <unittitle>Bakhmeteff, B. A., <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.14" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 30</container>
+            <unittitle>Balakshin, Aleksandr N., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1970/1973">1970-1973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.15" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 31</container>
+            <unittitle>Balmashev, Mikhail V., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1962/1978">1962-1978</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.16" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 32</container>
+            <unittitle>Barmin, Aleksandr G., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1971/1973">1971-1973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.17" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 33</container>
+            <unittitle>Baxter, Ian, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1971">1971</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.18" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 34</container>
+            <unittitle>Belopol'skii, A., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1961">1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.19" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 35</container>
+            <unittitle>Belosel'skii-Belozerskii, Sergei S., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1961/1966">1961-1966</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.20" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 36</container>
+            <unittitle>Berezhetskii, G., <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.21" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 37</container>
+            <unittitle>Bilimovich, Aleksandr D., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1961">1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.22" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 38</container>
+            <unittitle>Bobrinskii, A., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1958">1958</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.23" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 39</container>
+            <unittitle>Bodleian Library, Oxford University, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1970">1970</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.24" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 40</container>
+            <unittitle>Bogatyrchuk, Fedor P., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1961/1972">1961-1972</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.25" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 41</container>
+            <unittitle>Boldyrev, Konstantin V., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1967/1972">1967-1972</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.26" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 42</container>
+            <unittitle>Bol'shukhin, Iurii, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1961/1962">1961-62</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.27" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 43</container>
+            <unittitle>Borman, Arkadii, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1971">1971</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.28" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 44</container>
+            <unittitle>Budanov, Iakov V., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1967/1973">1967-1973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.29" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 45</container>
+            <unittitle>Central Association of Political Emigrants from the USSR (Munich), <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1961">1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.30" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 46</container>
+            <unittitle>Dallin, David, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1957">1957</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.31" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 47</container>
+            <unittitle>De Bransbourgh, Wadim, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1965">1965</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.32" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 48</container>
+            <unittitle>Deriuzhinskaia, Nataliia S., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1968">1968</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.33" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 49</container>
+            <unittitle>Dmitrieva, Elena, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1972">1972</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.34" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 50</container>
+            <unittitle>Dneprov, Andrei P., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1957/1958">1957-1958</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.35" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 51</container>
+            <unittitle>Domogatskii, Boris S., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1967">1967</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.36" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 52</container>
+            <unittitle>Ermolaev, G., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1968">1968</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.37" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 53</container>
+            <unittitle>Fillipov, Boris A., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1967/1973">1967-1973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.38" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 54</container>
+            <unittitle>Fon-Lampe, A. A., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1958">1958</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.39" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 55</container>
+            <unittitle>Fotiev, Kirill, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1973">1973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.40" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 56</container>
+            <unittitle>Four Continent Book Corporation, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1969/1971">1969-1971</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.41" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 57</container>
+            <unittitle>Galai, Nikolai, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1960/1963">1960-1963</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.42" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 58</container>
+            <unittitle>Garanin, Evgenii I., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1973">1973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.43" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 59</container>
+            <unittitle>Gintse, D. M., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1974">1974</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.44" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 60</container>
+            <unittitle>Gol'dvin, F. I., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1971/1972">1971-1972</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.45" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 61</container>
+            <unittitle>Guins, George, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1968">1968</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.46" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 62</container>
+            <unittitle>Ialymova, Maria N., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1961">1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.47" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 63</container>
+            <unittitle>Institute of Political Psychology in Communist Studies, Brooklyn, New York, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1961">1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.48" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 64</container>
+            <unittitle>Iurasov, Vladimir I., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1969">1969</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.49" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 65</container>
+            <unittitle>Karpovich, Mikhail M., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1958">1958</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.50" level="file">
+          <did>
+            <unittitle>Kerensky, Alexander</unittitle>
+          </did>
+          <c03 id="c03-1.7.7.3.50.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">2 : 66</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1953/1954">1953-1954</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.3.50.3" level="file">
+            <did>
+              <container type="Box-folder" label="Box/Folder">3 : 1</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1955/1960">1955-1960</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.7.3.51" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 2</container>
+            <unittitle>Khomiakov, Gennadii A., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1961/1967">1961-1967</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.52" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 3</container>
+            <unittitle>Kiselev, Aleksandr, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1969/1973">1969-1973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.53" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 4</container>
+            <unittitle>Kishner, Andrei L., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1958">1958</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.54" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 5</container>
+            <unittitle>Kongress za prava i svobodu v Rossii, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1957">1957</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.55" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 6</container>
+            <unittitle>Konstantinovskii, Boris A., <unitdate calendar="gregorian" era="ce" normal="1972">1972</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.56" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 7</container>
+            <unittitle>Kovalev, D., <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.57" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 8</container>
+            <unittitle>Krestinskaia, M., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1962/1967">1962-1967</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.58" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 9</container>
+            <unittitle>Kungurtsev, Vadim A., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1963">1963</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.59" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 10</container>
+            <unittitle>Kuz'mov, Ivan, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1944">1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.60" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 11</container>
+            <unittitle>Kuznetsov, Anatolii, <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.61" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 12</container>
+            <unittitle>Lebedev, F., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1961">1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.62" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 13</container>
+            <unittitle>Lermolo, Mikhail P., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1970/1974">1970-1974</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.63" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 14</container>
+            <unittitle>Levchenko, Vladimir A., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1957/1958">1957-1958</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.64" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 15</container>
+            <unittitle>Losskii, N., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1959">1959</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.65" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 16</container>
+            <unittitle>Maiorova, Ekaterina I., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1965">1965</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.66" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 17</container>
+            <unittitle>Maksimov, Nikolai M., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1958">1958</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.67" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 18</container>
+            <unittitle>Mansyrev, Mr., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1964">1964</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.68" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 19</container>
+            <unittitle>Marin, Iu., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1972">1972</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.69" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 20</container>
+            <unittitle>Martianov, Nikolai N., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1967/1968">1967-1968</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.70" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 21</container>
+            <unittitle>Mel'gunov, Sergei P., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1954/1955">1954-1955</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.71" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 22</container>
+            <unittitle>Mikhailovskii, Anatolii I., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1962">1962</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.72" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 23</container>
+            <unittitle>Morschen, N., <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.73" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 24</container>
+            <unittitle>Narokov, Nikolai V., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1955/1969">1955-1969</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.74" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 25</container>
+            <unittitle>Natov, Anatol, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1968">1968</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.75" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 26</container>
+            <unittitle>Nicolaevsky, Boris, <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.76" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 27</container>
+            <unittitle><emph render="underline">Novoe russkoe slovo</emph> (A. Poliakov), <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1962/1974">1962-1974</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.77" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 28</container>
+            <unittitle>Obol'ianina, Sof'ia A., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1968">1968</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.78" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 29</container>
+            <unittitle>Okolovich, Georgii S., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1967/1968">1967-1968</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.79" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 30</container>
+            <unittitle>Orekhov, Vasilii V., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1961/1972">1961-1972</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.80" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 31</container>
+            <unittitle>Osipov, Nikolai I., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1961">1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.81" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 32</container>
+            <unittitle>Ostrovskaia, Evgeniia A., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1962/1965">1962-1965</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.82" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 33</container>
+            <unittitle>Ostrovskii, Evgenii R., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1961/1972">1961-1972</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.83" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 34</container>
+            <unittitle>Pashin, Nikolai S., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1955/1974">1955-1974</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.84" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 35</container>
+            <unittitle>Perekrestov, Oleg V., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1972/1974">1972-1974</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.85" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 36</container>
+            <unittitle>Perov, Nikolai, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1971/1972">1971-1972</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.86" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 37</container>
+            <unittitle>Petrov, Pavel, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1964">1964</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.87" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 38</container>
+            <unittitle>Pirozhkova, Vera A., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1969">1969</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.88" level="file">
+          <did>
+            <container type="Box-folder" label="Box/Folder">4 : 1</container>
+            <unittitle>Poltoratzky, Nikolai, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1967">1967</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.89" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 2</container>
+            <unittitle>Pomerantsev, Nikolai P., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1967">1967</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.90" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 3</container>
+            <unittitle>Poremskaia, T., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1961">1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.91" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 4</container>
+            <unittitle>Poremskii, Vladimir D., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1967/1973">1967-1973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.92" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 5</container>
+            <unittitle><emph render="underline">Posev</emph> (Frankfurt), <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1970/1974">1970-1974</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.93" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 6</container>
+            <unittitle>Pozdniakova, Nina S., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1974">1974</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.94" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 7</container>
+            <unittitle>Pushkarev, Sergei G., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1964/1972">1964-1972</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.95" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 8</container>
+            <unittitle>Radlova, Maria G., <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.96" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 9</container>
+            <unittitle>Rafal'skii, Sergei M., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1970">1970</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.97" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 10</container>
+            <unittitle>Rar, Gleb A., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1974">1974</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.98" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 11</container>
+            <unittitle>Rar, Lev A., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1974">1974</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.99" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 12</container>
+            <unittitle>Rod, A., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1958">1958</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.100" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 13</container>
+            <unittitle><emph render="underline">Rossiia</emph> (New York), <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1970/1971">1970-1971</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.101" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 14</container>
+            <unittitle>Rostow, Mr., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1963">1963</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.102" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 15</container>
+            <unittitle>Roy, V. S., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1972">1972</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.103" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 16</container>
+            <unittitle>Rozhdestvenskii, Serafim P., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1969/1973">1969-1973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.104" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 17</container>
+            <unittitle>Russian &#xC9;migr&#xE9; Society of Boston, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1966">1966</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.105" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 18</container>
+            <unittitle>Russkaia Akademicheskaia Gruppa v SShA, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1970">1970</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.106" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 19</container>
+            <unittitle>Russkii Obshchevoinskii Soiuz, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1967">1967</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.107" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 20</container>
+            <unittitle>Sabov, Suvans, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1971">1971</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.108" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 21</container>
+            <unittitle>Saint Seraphim's Foundation, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1970/1973">1970-1973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.109" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 22</container>
+            <unittitle>Sedykh, Andrei, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1974">1974</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.110" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 23</container>
+            <unittitle>Sergievskii, Boris, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1958">1958</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.111" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 24</container>
+            <unittitle>Shalakhovskii, P., <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.112" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 25</container>
+            <unittitle>Shefler, L., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1972">1972</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.113" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 26</container>
+            <unittitle>Sheglovskii, Valentin, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1973">1973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.114" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 27</container>
+            <unittitle>Shimanovskaia, V., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1974">1974</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.115" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 28</container>
+            <unittitle>Shtam, Grigorii, <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.116" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 29</container>
+            <unittitle>Shteppa, Valentina, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1961">1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.117" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 30</container>
+            <unittitle>Skriabina, Elena A., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1971/1972">1971-1972</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.118" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 31</container>
+            <unittitle>Skriabina, Raia, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1972">1972</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.119" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 32</container>
+            <unittitle>Slavonic Bazaar, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1969">1969</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.120" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 33</container>
+            <unittitle>Sokolov, V., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1980">1980</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.121" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 34</container>
+            <unittitle>Srechinskii, Iurii S., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1969/1971">1969-1971</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.122" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 35</container>
+            <unittitle>Stolypin, Arkadii, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1972">1972</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.123" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 36</container>
+            <unittitle>Struve, Petr B., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1943">1943</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.124" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 37</container>
+            <unittitle>Svet, Gershon, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1961">1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.125" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 38</container>
+            <unittitle>Svetlanin, Andrei V., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1961/1965">1961-1965</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.126" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 39</container>
+            <unittitle><emph render="underline">Svoboda</emph> (Jersey City), <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1961">1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.127" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 40</container>
+            <unittitle>Svobodnaia Rossiia, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1972">1972</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.128" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 41</container>
+            <unittitle><emph render="underline">Swoboda</emph> (Munich), <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1958">1958</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.129" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 42</container>
+            <unittitle>Tarasova, Nataliia B., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1972">1972</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.130" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 43</container>
+            <unittitle>Taylor, Pauline B., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1968">1968</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.131" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 44</container>
+            <unittitle>Timashev, Nikolai S., <unitdate calendar="gregorian" era="ce" normal="1961">1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.132" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 45</container>
+            <unittitle>Tolstoy, Alexandra L., <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.133" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 46</container>
+            <unittitle>Ul'ianov, Nikolai I., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1961/1970">1961-1970</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.134" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 47</container>
+            <unittitle>Ul'ianova, Nataliia, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1972">1972</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.135" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 48</container>
+            <unittitle>Veinbaum, Mark E., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1965/1972">1965-1972</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.136" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 49</container>
+            <unittitle>Viktor Kamkin Bookstore, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1967/1980">1967-1980</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.137" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 50</container>
+            <unittitle>Volga Bookstore, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1970">1970</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.138" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 51</container>
+            <unittitle>Volianskaia, Liudmila, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1974/1975">1974-1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.139" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 52</container>
+            <unittitle>Vol'skii, Nikolai, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1949">1949</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.140" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 53</container>
+            <unittitle>Weil, Boris, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1980">1980</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.141" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 54</container>
+            <unittitle>Zavalishin, Viacheslav K., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1970/1972">1970-1972</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.7.4" level="file">
+        <did>
+          <unittitle>SPEECHES AND WRITINGS, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1945/1976">1945-1976</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.7.4.2" level="file">
+          <did>
+            <unittitle>General</unittitle>
+          </did>
+          <c03 id="c03-1.7.7.4.2.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 55</container>
+              <unittitle>Miscellaneous drafts and notes, <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.4.2.3" level="file">
+            <did>
+              <unittitle>Printed copies of articles from various publications</unittitle>
+            </did>
+            <c04 id="c04-1.7.7.4.2.3.2" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">4 : 56</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1948/1958">1948-1958</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.4.2.3.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">4 : 57</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1960/1972">1960-1972</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.7.4.2.4" level="file">
+            <did>
+              <container type="Box-folder" label="Box/Folder">5 : 1</container>
+              <unittitle>Titles, outlines, and tables of contents of selected writings by I. A. Kurganov, <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Holographs and typescripts</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.7.4.3" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 2</container>
+            <unittitle>"Berlinskie siluety," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.4" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 3</container>
+            <unittitle>"Bibliografiia," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.5" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 4</container>
+            <unittitle>"Biografiia I. A. Kurganova, izlozhennaia im samim," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.6" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 5</container>
+            <unittitle>"Bitva za khleb," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.7" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 6-7</container>
+            <unittitle>"Burzhuaznaia intelligentsiia," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Research materials, holograph, and typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.8" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 8</container>
+            <unittitle>"Communist Strategy for World Domination," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.9" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 9</container>
+            <unittitle>"Deti v SSSR," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.10" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 10</container>
+            <unittitle>"Diplomaticheskie epizody," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.11" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 11-12</container>
+            <unittitle>"Dogovor Stalina i Gitlera," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Research materials, notes, holograph, and typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.12" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">6 : 1-2</container>
+            <unittitle>"Doktriny," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Research notes, holograph, and typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.13" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">6 : 3</container>
+            <unittitle>"Ekonomicheskoe nastuplenie kommunizma," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.14" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">6 : 4</container>
+            <unittitle>"Ekonomika i russkii vopros," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph and clippings</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.15" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">6 : 5</container>
+            <unittitle>"Ekonomika kapitalizma," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.16" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">6 : 6</container>
+            <unittitle>"Evropa, diplomatiia, strategiia," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph and typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.17" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">6 : 7</container>
+            <unittitle>"Faktory i kommunisticheskaia revoliutsiia v Rossii," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.18" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">6 : 8-9</container>
+            <unittitle>"Filosofiia i politika SSSR," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph and typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.19" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">6 : 10</container>
+            <unittitle>"Golgofa rossiiskogo naroda," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.20" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">6 : 11</container>
+            <unittitle>"Ideologiia kolonializma," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.21" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">6 : 12</container>
+            <unittitle>"Inostrannye uchastniki kommunisticheskoi revoliutsii v Rossii," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.22" level="file">
+          <did>
+            <container type="Box-folder" label="Box/Folder">7 : 1</container>
+            <unittitle>"K perspektive," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Research notes and holograph</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.23" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">7 : 2</container>
+            <unittitle>"K strategii," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.24" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">7 : 3-4</container>
+            <unittitle>"Kazakhstan," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph and typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.25" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">7 : 5</container>
+            <unittitle>"Khristianstvo i politika," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.26" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">7 : 6</container>
+            <unittitle>"Klassovaia struktura sovetskogo obshchestva," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.27" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">7 : 7</container>
+            <unittitle>"Klassy," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph and typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.28" level="file">
+          <did>
+            <unittitle>"Klassy v SSSR," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <c03 id="c03-1.7.7.4.28.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">7 : 8</container>
+              <unittitle>"Burzhuaziia."</unittitle>
+            </did>
+            <scopecontent>
+              <p>Holograph</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.4.28.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">7 : 9</container>
+              <unittitle>"Intelligentsiia."</unittitle>
+            </did>
+            <scopecontent>
+              <p>Holograph</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.4.28.4" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">7 : 10</container>
+              <unittitle>"Rabochii klass."</unittitle>
+            </did>
+            <scopecontent>
+              <p>Holograph and typescript</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.4.28.5" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">7 : 11</container>
+              <unittitle>"Teoriia."</unittitle>
+            </did>
+            <scopecontent>
+              <p>Holograph</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.7.4.29" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">7 : 12</container>
+            <unittitle>"Kommunisticheskie metody perestroiki obhshchestva," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.30" level="file">
+          <did>
+            <container type="Box-folder" label="Box/Folder">8 : 1</container>
+            <unittitle>"Kommunizm i diplomatiia," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Research notes, holograph, and typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.31" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">8 : 2</container>
+            <unittitle>"KPK i KPSS - Doktrina Mao," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph and typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.32" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">8 : 3</container>
+            <unittitle>"Migratsiia i dvizhenie Rossii na vostok," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph and typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.33" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">8 : 4</container>
+            <unittitle>"Molchalivoe bol'shinstvo," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.34" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">8 : 5</container>
+            <unittitle>"Narodniki," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph. Includes clippings relating to this subject</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.35" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">8 : 6</container>
+            <unittitle>"Nine Questions," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.36" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">8 : 7</container>
+            <unittitle>"Obshchestvo, partiia, natsii, raznoe," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph and typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.37" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">8 : 8</container>
+            <unittitle>"Pereselenie krest'ian v Rossii," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.38" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">8 : 9</container>
+            <unittitle>"Pobeda menshinstva," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.39" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">8 : 10</container>
+            <unittitle>"Port Artur," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.40" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">8 : 11</container>
+            <unittitle>"Prichiny i revoliutsiia v Rossii," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph and typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.41" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">8 : 12</container>
+            <unittitle>"Religiia," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.42" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">8 : 13</container>
+            <unittitle>"Rossiia pered I-oi mirovoi voinoi i revoliutsiei," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.43" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">8 : 14</container>
+            <unittitle>"Russkii vopros - Strategiia kommunizma v bor'be za mirovoe gospodstvo," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.44" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">8 : 15</container>
+            <unittitle>"Sbornik statei," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript and printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.45" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">9 : 1</container>
+            <unittitle>"Sem'ia i deti," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.46" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">9 : 2</container>
+            <unittitle>"Sovetskii narod - Kollektivizm," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.47" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">9 : 3</container>
+            <unittitle>"Sovremennaia strategiia kommunizma," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript and printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.48" level="file">
+          <did>
+            <unittitle>"SSSR i Pol'sha," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <c03 id="c03-1.7.7.4.48.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">9 : 4</container>
+              <unittitle>Holograph</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.4.48.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">9 : 5-6</container>
+              <unittitle>Typescript</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.7.4.49" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">9 : 7</container>
+            <unittitle>"Statistika," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.50" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">9 : 8</container>
+            <unittitle>"Strategiia kommunizma," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.51" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">9 : 9</container>
+            <unittitle>"Strategiia voennoi ekonomiki," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.52" level="file">
+          <did>
+            <container type="Box-folder" label="Box/Folder">10 : 1</container>
+            <unittitle>"Ves' mir na koleniakh," <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.53" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">10 : 2</container>
+            <unittitle>"Vypiska iz knigi Vitte <emph render="underline">Vospominaniia</emph> (o Mendeleeve), <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.54" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">10 : 3</container>
+            <unittitle>"SSSR," Emden, Germany, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1945">1945</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.55" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">10 : 4</container>
+            <unittitle>"SSSR v epokhu voin i revoliutsii," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1946/1947">1946-1947</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.56" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">10 : 5</container>
+            <unittitle>"Christianity and Politics," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1947">1947</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.57" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">10 : 6</container>
+            <unittitle>"Velikaia bor'ba dvukh system mira," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1948">1948</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.58" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">10 : 7</container>
+            <unittitle>"Prinuditel'nyi detskii trud v SSSR ili gosudarstvennye trudovye resursy," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1950">1950</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph and typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.59" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">10 : 8</container>
+            <unittitle>"The National Problem in the Soviet Union," <emph render="underline">The Russian Review</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1951">1951</unitdate>, volume 10, no. 4.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.60" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">10 : 9</container>
+            <unittitle>"Natsionalnaia problema v Rossii," <emph render="underline">Novyi zhurnal</emph> (New York), <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1951">1951</unitdate>, Volume XXV.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.61" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">10 : 10</container>
+            <unittitle>"Vtoromu plenumu piati rossiiskikh organizatsii," report, Wiesbaden, Germany, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1951">1951</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph and typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.62" level="file">
+          <did>
+            <container type="Box-folder" label="Box/Folder">11 : 1</container>
+            <unittitle>"Krest'ianstvo v Rossii," <emph render="underline">Sud'by Rossii</emph> (New York), <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1957">1957</unitdate>, no. 1.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.63" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">11 : 2</container>
+            <unittitle>"Emigratsiia i Kongress za prava i svobodu v Rossii," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1975-09-16">1975 September 16</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.64" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">11 : 3</container>
+            <unittitle>"O Reformizme i narodnykh trebovaniakh," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1958">1958</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy. Includes correspondence, notes, and press reviews relating to this and other related works by I. A. Kurganov</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.65" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">11 : 4</container>
+            <unittitle>"KPSS - Doklad o sovremmenom polozhenii vlasti v SSSR," Kongress za prava i svobodu v Rossii, The Hague, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1958-04-25">1958 April 25</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.66" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">11 : 5</container>
+            <unittitle>Report to the 10th Conference of the Institute for the Study of the USSR, Munich, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1958-07-25">1958 July 25</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.67" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">11 : 6</container>
+            <unittitle>"Reformizm v SSSR," <emph render="underline">Informatsionnyi biulleten' Komiteta za prava i svobodu v Rossii</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1958-07/1958-09">1958 July/September</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.68" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">11 : 7</container>
+            <unittitle>"Perekhodnyi period mirovoi istorii," <emph render="underline">Posev</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1960">1960</unitdate>, no. 41/42.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Clippings</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.69" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">11 : 8</container>
+            <unittitle>"Sovremennaia strategiia kommunizma," <emph render="underline">Nashi dni</emph> (Frankfurt am Main), <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1960">1960</unitdate>, no. 2.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.70" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">11 : 9</container>
+            <unittitle>"Ekonomika SSSR v natsional'nom razreze," <emph render="underline">Nashi Dni</emph> (Frankfurt am Main), <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1960">1960</unitdate>, no. 7.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.71" level="file">
+          <did>
+            <unittitle><emph render="underline">Natsii SSSR i russkii vopros</emph>, Frankfurt/Main, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1961">1961</unitdate></unittitle>
+          </did>
+          <c03 id="c03-1.7.7.4.71.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">11 : 10</container>
+              <unittitle>Printed copy</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.4.71.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">11 : 11</container>
+              <unittitle>Press reviews, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1961/1962">1961-1962</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.4.71.4" level="file">
+            <did>
+              <container type="Box-folder" label="Box/Folder">12 : 1</container>
+              <unittitle>Press reviews, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1961/1962">1961-1962</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.7.4.72" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">12 : 2</container>
+            <unittitle>"Strategiia kommunizma," report to the Committee for Rights and Freedom in Russia, Paris, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1961-03-26">1961 March 26</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.73" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">12 : 3</container>
+            <unittitle>"Ekonomika i russkii vopros: O knige professora V. V. Rostou <emph render="underline">Stadii ekonomicheskogo rosta</emph>," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1962-11">1962 November</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.74" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">12 : 4</container>
+            <unittitle>"Sotsialisticheskie gosudarstva i natsional-kommunizm," <emph render="underline">Mosty</emph> (Munich), <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1963">1963</unitdate>, no. 10.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.75" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">12 : 5</container>
+            <unittitle>"Tri tsifry," <emph render="underline">Novoe russkoe slovo</emph> (New York), <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1964-12-12">1964 December 12</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript and printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.76" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">12 : 6</container>
+            <unittitle>"Pereselenie krest'ian v Rossii," <emph render="underline">Grani</emph> (Frankfurt/Main), <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1965-06">1965 June</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.77" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">12 : 7</container>
+            <unittitle>"Demograficheskaia katastrofa," <emph render="underline">Novoe russkoe slovo</emph> (New York), <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1965-09">1965 September</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph and clippings</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.78" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">12 : 8</container>
+            <unittitle>"Kommunisticheskaia revoliutsiia v Rossii," <emph render="underline">Grani</emph> (Frankfurt/Main), no. 63, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1967">1967</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.79" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">12 : 9</container>
+            <unittitle>"Kommunisticheskie metody perestroiki obshchestva," <emph render="underline">Grani</emph> (Frankfurt/Main), no. 64, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1967">1967</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.80" level="file">
+          <did>
+            <unittitle><emph render="underline">Sem'ia v SSSR</emph>, New York, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1967">1967</unitdate></unittitle>
+          </did>
+          <c03 id="c03-1.7.7.4.80.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">12 : 10</container>
+              <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1961/1967">1961-1967</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.4.80.3" level="file">
+            <did>
+              <container type="Box-folder" label="Box/Folder">13 : 1</container>
+              <unittitle>Printed copy, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1967">1967</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.4.80.4" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">13 : 2</container>
+              <unittitle>Correspondence and press reviews, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1967/1968">1967-1968</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.7.4.81" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">13 : 3</container>
+            <unittitle>"Kapitalizm i klassovaia teoriia Marksa," <emph render="underline">Posev</emph> (Frankfurt/Main), no. 2, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1968">1968</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph, typescript, and printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.82" level="file">
+          <did>
+            <unittitle><emph render="underline">Zhenshchiny i kommunizm</emph>, New York, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1968">1968</unitdate></unittitle>
+          </did>
+          <c03 id="c03-1.7.7.4.82.2" level="file">
+            <did>
+              <unittitle>Correspondence</unittitle>
+            </did>
+            <c04 id="c04-1.7.7.4.82.2.2" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">13 : 4</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1962/1970">1962-1970</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.4.82.2.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">13 : 5</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1969/1974">1969-1974</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.7.4.82.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">13 : 6</container>
+              <unittitle>Correspondence and press reviews, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1968/1969">1968-1969</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.4.82.4" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">13 : 7-8</container>
+              <unittitle>Typescript</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.4.82.5" level="file">
+            <did>
+              <container type="Box-folder" label="Box/Folder">14 : 1</container>
+              <unittitle>Galley proof with annotations</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.4.82.6" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">14 : 2</container>
+              <unittitle>Printed copy</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.7.4.83" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">14 : 3</container>
+            <unittitle>"Inostrannye uchastniki kommunisticheskoi revoliutsii v Rossii," <emph render="underline">Zapiski russkoi akademicheskoi gruppy v SSHA</emph>, New York, volume IV, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1970">1970</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.84" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">14 : 4</container>
+            <unittitle>"Interv'iu dannoe I. A. Kurganovym," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1970-09">1970 September</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph and typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.85" level="file">
+          <did>
+            <unittitle><emph render="underline">Women in the USSR</emph>, London/Ontario, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1971">1971</unitdate></unittitle>
+          </did>
+          <c03 id="c03-1.7.7.4.85.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">14 : 5</container>
+              <unittitle>Printed copy</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.4.85.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">14 : 6</container>
+              <unittitle>Correspondence and press reviews, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1971/1972">1971-1972</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.7.4.86" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">14 : 7</container>
+            <unittitle>"Khrushchev i destalinizatsiia," <emph render="underline">Posev</emph> (Frankfurt/Main), <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1971-11">1971 November</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.87" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">14 : 8</container>
+            <unittitle>"Inostrantsy v russkoi revoliutsii," <emph render="underline">Posev</emph> (Frankfurt/Main), <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1972-04">1972 April</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.88" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">14 : 9</container>
+            <unittitle>"Sovetsko-pol'skaia voina 1920g.," <emph render="underline">Zapiski russkoi akademicheskoi gruppy v SSHA</emph>, New York, Volume X, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1976">1976</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.7.5" level="file">
+        <did>
+          <container type="Box" label="Box">15</container>
+          <unittitle>KOORDINATSIONNYI TSENTR ANTI-BOL'SHEVISTSKOI BOR'BY (Coordinating Center of Anti-Bolshevik Struggle), <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1948/1980">1948-1980</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.7.5.2" level="file">
+          <did>
+            <unittitle>General</unittitle>
+          </did>
+          <c03 id="c03-1.7.7.5.2.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">15 : 1</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1949/1951">1949-1951</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.5.2.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">15 : 2</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1954">1954</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.5.2.4" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">15 : 3</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1955">1955</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.7.5.3" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">15 : 4</container>
+            <unittitle>Announcement of establishment of the Center, Munich, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1952-09-16">1952 September 16</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.5.4" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">15 : 5</container>
+            <unittitle>Bulletin. <emph render="underline">Vestnik koordinatsionnogo tsentra antibol'shevistskoi bor'by</emph> (Munich), no. 2, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1953-09">1953 September</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.5.5" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+          </did>
+          <c03 id="c03-1.7.7.5.5.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">15 : 6</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1953">1953</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.5.5.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">15 : 7</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1953/1954">1953-1954</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.5.5.4" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">15 : 8</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1955">1955</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.5.5.5" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">15 : 9</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1955/1956">1955-1956</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.5.5.6" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">15 : 10</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1956">1956</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.7.5.6" level="file">
+          <did>
+            <container type="Box" label="Box">16</container>
+            <unittitle>Correspondence</unittitle>
+          </did>
+          <c03 id="c03-1.7.7.5.6.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">16 : 1</container>
+              <unittitle>General, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1955/1956">1955-1956</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.5.6.3" level="file">
+            <did>
+              <unittitle>Kerensky, Alexander</unittitle>
+            </did>
+            <c04 id="c04-1.7.7.5.6.3.2" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">16 : 2</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1951/1952">1951-1952</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.5.6.3.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">16 : 3</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1952">1952</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.5.6.3.4" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">16 : 4</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1952/1955">1952-1955</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.5.6.3.5" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">16 : 5</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1953/1955">1953-1955</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.5.6.3.6" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">16 : 6</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1953/1957">1953-1957</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.5.6.3.7" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">16 : 7-8</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1955">1955</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.5.6.3.8" level="file">
+              <did>
+                <container type="Box-folder" label="Box/Folder">17 : 1</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1956">1956</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.5.6.3.9" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">17 : 2</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1958/1960">1958-1960</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.5.6.3.10" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">17 : 3</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1961/1966">1961-1966</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.7.5.6.4" level="file">
+            <did>
+              <unittitle>Komitet za prava i svobodu v Rossii</unittitle>
+            </did>
+            <c04 id="c04-1.7.7.5.6.4.2" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">17 : 4</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1957/1958">1957-1958</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.5.6.4.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">17 : 5</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1957/1962">1957-1962</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.7.5.6.5" level="file">
+            <did>
+              <unittitle>Mel'gunov, Sergei P.</unittitle>
+            </did>
+            <c04 id="c04-1.7.7.5.6.5.2" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">17 : 6</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1952/1954">1952-1954</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.5.6.5.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">17 : 7</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1954">1954</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.7.5.6.6" level="file">
+            <did>
+              <unittitle>Pozdniakov, Vladimir V.</unittitle>
+            </did>
+            <c04 id="c04-1.7.7.5.6.6.2" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">17 : 8</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1961/1969">1961-1969</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.5.6.6.3" level="file">
+              <did>
+                <container type="Box-folder" label="Box/Folder">18 : 1</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1970/1973">1970-1973</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.7.5.6.7" level="file">
+            <did>
+              <unittitle>Rossiiskoe narodnoe dvizhenie</unittitle>
+            </did>
+            <c04 id="c04-1.7.7.5.6.7.2" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">18 : 2</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1948/1951">1948-1951</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.5.6.7.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">18 : 3-6</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1952">1952</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.5.6.7.4" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">18 : 7</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1953">1953</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.7.5.6.8" level="file">
+            <did>
+              <container type="Box" label="Box">19</container>
+              <unittitle>Samarin, Vladimir D.</unittitle>
+            </did>
+            <c04 id="c04-1.7.7.5.6.8.2" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">19 : 1</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1961/1968">1961-1968</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.5.6.8.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">19 : 2</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1969/1972">1969-1972</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.5.6.8.4" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">19 : 3</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1973/1980">1973-1980</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.7.5.7" level="file">
+          <did>
+            <unittitle>Reports</unittitle>
+          </did>
+          <c03 id="c03-1.7.7.5.7.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">19 : 4</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1953">1953</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.5.7.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">19 : 5</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1953/1954">1953-1954</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.5.7.4" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">20 : 1</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1954">1954</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.5.7.5" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">20 : 2</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1954/1955">1954-1955</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.7.5.8" level="file">
+          <did>
+            <unittitle>Subject file</unittitle>
+          </did>
+          <c03 id="c03-1.7.7.5.8.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">20 : 3</container>
+              <unittitle>Gul', Roman, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1949/1952">1949-1952</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.5.8.3" level="file">
+            <did>
+              <unittitle>Rossiiskoe narodnoe dvizhenie</unittitle>
+            </did>
+            <c04 id="c04-1.7.7.5.8.3.2" level="file">
+              <did>
+                <unittitle>General</unittitle>
+              </did>
+              <c05 id="c05-1.7.7.5.8.3.2.2" level="file">
+                <did>
+                  <container type="Folder" label="Box/Folder">20 : 4</container>
+                  <unittitle>
+                    <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1948/1951">1948-1951</unitdate>
+                  </unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.7.5.8.3.2.3" level="file">
+                <did>
+                  <container type="Folder" label="Box/Folder">20 : 5</container>
+                  <unittitle>
+                    <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1951/1957">1951-1957</unitdate>
+                  </unittitle>
+                </did>
+              </c05>
+            </c04>
+            <c04 id="c04-1.7.7.5.8.3.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">20 : 6</container>
+                <unittitle><emph render="underline">Za Svobodu</emph> (Munich), <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1952/1953">1952-1953</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.7.5.8.4" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">20 : 7</container>
+              <unittitle><emph render="underline">Sud'by Rossii</emph> (New York), <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1955/1957">1955-1957</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.5.8.5" level="file">
+            <did>
+              <container type="Box-folder" label="Box/Folder">21 : 1</container>
+              <unittitle><emph render="underline">Sud'by Rossii</emph> (New York), <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1955/1957">1955-1957</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.5.8.6" level="file">
+            <did>
+              <unittitle>Wiesbaden Conference, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1951-11">1951 November</unitdate></unittitle>
+            </did>
+            <c04 id="c04-1.7.7.5.8.6.2" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">21 : 2</container>
+                <unittitle>General</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.5.8.6.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">21 : 3-5</container>
+                <unittitle>Stenographic reports of meetings</unittitle>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.7.6" level="file">
+        <did>
+          <unittitle>WRITINGS BY OTHERS, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1917/1974">1917-1974</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.7.6.2" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">21 : 6</container>
+            <unittitle>Artem'ev, Viacheslav, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1956">1956</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.6.3" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">21 : 7</container>
+            <unittitle>Avtorkhanov, A., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1951">1951</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.6.4" level="file">
+          <did>
+            <container type="Box-folder" label="Box/Folder">22 : 1</container>
+            <unittitle>Bilimovich, A. D., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1955/1960">1955-1960</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.6.5" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">22 : 2</container>
+            <unittitle>Chernov, Victor, <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.6.6" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">22 : 3</container>
+            <unittitle>Fedorov, L., <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.6.7" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">22 : 4</container>
+            <unittitle>Filipov, Boris, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1969/1974">1969-1974</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.6.8" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">22 : 5</container>
+            <unittitle>Jasny, Naum, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1951">1951</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.6.9" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">22 : 6</container>
+            <unittitle>Mel'gunov, Sergei P., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1917/1948">1917-1948</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.6.10" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">22 : 7</container>
+            <unittitle>Pegov, G., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1952">1952</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.6.11" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">22 : 8</container>
+            <unittitle>Perov, Pavel, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1970">1970</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.6.12" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">22 : 9</container>
+            <unittitle>Poremskii, V., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1968">1968</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.6.13" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">22 : 10</container>
+            <unittitle>Pushkarev, Sergei, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1967/1970">1967-1970</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.6.14" level="file">
+          <did>
+            <container type="Box-folder" label="Box/Folder">23 : 1</container>
+            <unittitle>Rutich, N., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1960">1960</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.6.15" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">23 : 2</container>
+            <unittitle>Saaruni, Grigor, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1951">1951</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.6.16" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">23 : 3-4</container>
+            <unittitle>Samarin, Vladimir, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1968/1974">1968-1974</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.6.17" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">23 : 5</container>
+            <unittitle>Sorokin, Pitirim, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1959/1961">1959-1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.6.18" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">23 : 6</container>
+            <unittitle>Srechinskii, Iu., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1974">1974</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.6.19" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">23 : 7</container>
+            <unittitle>Stepun, Fedor, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1962">1962</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.6.20" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">23 : 8</container>
+            <unittitle>Troitskii, Nikolai, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1972/1973">1972-1973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.6.21" level="file">
+          <did>
+            <container type="Box-folder" label="Box/Folder">24 : 1</container>
+            <unittitle>Ul'ianov, N., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1972">1972</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.6.22" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">24 : 2</container>
+            <unittitle>Vysheslavtsev, B. P., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1957">1957</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.7.7" level="file">
+        <did>
+          <unittitle>CLIPPINGS, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1953/1980">1953-1980</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.7.7.2" level="file">
+          <did>
+            <unittitle>General</unittitle>
+          </did>
+          <c03 id="c03-1.7.7.7.2.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">24 : 3</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1977/1979">1977-1979</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.7.2.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">24 : 4</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1979">1979</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.7.2.4" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">24 : 5</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1980">1980</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.7.7.3" level="file">
+          <did>
+            <unittitle>Akademiia nauk SSSR</unittitle>
+            <note>
+              <p>SEE Scientists</p>
+            </note>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.7.4" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">24 : 6</container>
+            <unittitle>American Committee for the Liberation of the Peoples of Russia, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1961">1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.7.5" level="file">
+          <did>
+            <unittitle>Authors, Soviet</unittitle>
+          </did>
+          <c03 id="c03-1.7.7.7.5.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">24 : 7</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1962/1968">1962-1968</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.7.5.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">24 : 8</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1970/1974">1970-1974</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.7.7.6" level="file">
+          <did>
+            <unittitle>Citizenship</unittitle>
+          </did>
+          <c03 id="c03-1.7.7.7.6.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">24 : 9</container>
+              <unittitle>Soviet Union, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1979">1979</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.7.6.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">24 : 10</container>
+              <unittitle>United States of America, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1957/1980">1957-1980</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.7.7.7" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">24 : 11</container>
+            <unittitle>Intellectuals</unittitle>
+          </did>
+          <c03 id="c03-1.7.7.7.7.2" level="file">
+            <did>
+              <unittitle>Europe, Eastern - Political activity, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1967/1969">1967-1969</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.7.7.3" level="file">
+            <did>
+              <container type="Box" label="Box">25</container>
+              <unittitle>Soviet Union.</unittitle>
+              <note>
+                <p>See also Europe, Eastern</p>
+              </note>
+            </did>
+            <c04 id="c04-1.7.7.7.7.3.2" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">25 : 1-2</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1949/1974">1949-1974</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.7.7.3.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">25 : 3-4</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1968">1968</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.7.7.3.4" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">25 : 5-7</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1969/1970">1969-1970</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.7.7.7.4" level="file">
+            <did>
+              <container type="Box-folder" label="Box/Folder">26 : 1</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1969/1970">1969-1970</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.7.7.8" level="file">
+          <did>
+            <unittitle>Russians in foreign countries</unittitle>
+          </did>
+          <c03 id="c03-1.7.7.7.8.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">26 : 2</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1957/1958">1957-1958</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.7.8.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">26 : 3</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1958/1959">1958-1959</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.7.7.9" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">26 : 4</container>
+            <unittitle>Scientists - Soviet Union and Akademiia nauk SSSR - Membership, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1962/1968">1962-1968</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.7.10" level="file">
+          <did>
+            <container type="Box-folder" label="Box/Folder">27 : 1</container>
+            <unittitle>Solzhenitsyn, Aleksandr, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1973/1975">1973-1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.7.11" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">27 : 2</container>
+            <unittitle>Soviet Union, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1966/1968">1966-1968</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.7.8" level="file">
+        <did>
+          <container type="Box" label="Box">28-30</container>
+          <unittitle>CARD FILE, <unitdate calendar="gregorian" era="ce" normal="1940/1980">n.d.</unitdate></unittitle>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

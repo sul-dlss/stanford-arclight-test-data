@@ -1,0 +1,616 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  
+  
+  
+  
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" repositoryencoding="iso15511" findaidstatus="unverified-full-draft" langencoding="iso639-2b"><eadid countrycode="us" identifier="ark:/13030/tf0h4n979n" mainagencycode="CSt-H" publicid="PUBLIC &quot;-//Stanford University::Hoover Institution Archives//TEXT&#10;(US::CSt-H::::Leften S. Stavrianos Papers )//EN&quot; &quot;stavrils.sgm&quot;">stavrils.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Register of the Leften S. Stavrianos Papers , <date calendar="gregorian" era="ce">1942-1963</date></titleproper><titleproper type="filing">Stavrianos (Leften S.) Papers</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Hoover Institution Archives</publisher>
+        <address>
+          <addressline>Stanford University</addressline>
+          <addressline>Stanford, California 94305-6010</addressline>
+          <addressline>Phone: (650) 723-3563</addressline>
+          <addressline>Fax: (650) 725-3445</addressline>
+          <addressline>Email: hooverarchives@stanford.edu</addressline>
+        </address>
+        <date calendar="gregorian" era="ce">&#xA9; 1999</date>
+        <p>Hoover Institution Archives. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc><profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data Services,
+<date calendar="gregorian" era="ce">May, 1999.</date>
+Supplementary encoding and revision supplied by James Ryan.</creation>
+<langusage>Description is in <language langcode="eng" scriptcode="latn">English</language></langusage>
+    </profiledesc><revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//Stanford University::Hoover Institution Archives//TEXT
+(US::CSt-H::::Leften S. Stavrianos Papers )//EN" "stavrils.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+     <change>
+      <date calendar="gregorian" era="ce" normal="20120730">July 30, 2012</date>
+      <item>Revised to update encoding and add unitid by Jill Golden</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Register of the Leften S. Stavrianos Papers , <date calendar="gregorian" era="ce">1942-1963</date></titleproper>
+      <publisher>Hoover Institution Archives
+<lb/>Stanford University
+<lb/>Stanford, California</publisher>
+      <list type="simple">
+        <head>Contact Information</head>
+        <item>Hoover Institution Archives</item>
+        <item>Stanford University</item>
+        <item>Stanford, California 94305-6010</item>
+        <item>Phone: (650) 723-3563</item>
+        <item>Fax: (650) 725-3445</item>
+        <item>Email: hooverarchives@stanford.edu</item>
+      </list>
+      <p>&#xA9; 1999 Hoover Institution Archives. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection">
+    <did id="did-1.7.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">Leften S. Stavrianos Papers, </unittitle><unitdate calendar="gregorian" era="ce" type="inclusive" normal="1942/1963">1942-1963</unitdate>
+<unitid label="Collection number" repositorycode="CSt-H" countrycode="US">73088</unitid>
+      <origination label="Creator">
+        <persname>Stavrianos, Leften Stavros</persname>
+      </origination>
+      <physdesc label="Collection Size" encodinganalog="300$a">
+		<extent>5 manuscript boxes</extent>
+		<extent>2.1 linear feet)</extent>
+	</physdesc>
+      <repository label="Repository">
+        <corpname>Hoover Institution Archives</corpname>
+        <address>
+          <addressline>Stanford, California 94305-6010</addressline>
+        </address>
+      </repository>
+      <abstract label="Abstract">Writings, press releases, press translations and digests, reports, memoranda, clippings, and pamphlets, relating to political and military developments in Greece and Cyprus, especially during the Greek civil war period, 1944-1949. Includes material collected by a member of the Allied Mission for Observing Greek Elections of March 31, 1946</abstract>
+      <langmaterial label="Language">
+        <language langcode="eng">English</language> and 
+	<language langcode="gre">Greek.</language>
+      </langmaterial>
+    </did>
+    <descgrp id="descgrp-1.7.2" type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict>
+        <head>Access</head>
+        <p>Collection open for research.</p>
+<p>The Hoover Institution Archives only allows access to <emph render="italic">copies</emph> of audiovisual items. To listen to sound recordings or to view videos or films during your visit, please contact the Archives at least two working days before your arrival. We will then advise you of the accessibility of the material you wish to see or hear. Please note that not all audiovisual material is immediately accessible.</p>
+      </accessrestrict>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>For copyright status, please contact
+the Hoover Institution Archives.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Leften Stavros Stavrianos Papers, [Box no.], Hoover Institution
+Archives.</p>
+      </prefercite>
+<acqinfo encodinganalog="541">
+ <head>Acquisition Information</head>
+ <p>Acquired by the Hoover Institution Archives in 1973.</p>
+</acqinfo>
+
+<accruals encodinganalog="525"><head>Accruals</head>
+<p>Materials may have been added to the collection since this finding aid was prepared. To determine if this has occurred, find the collection in Stanford University's online catalog at <extref linktype="simple" href="http://searchworks.stanford.edu/" actuate="onrequest" show="new"> http://searchworks.stanford.edu/</extref>. Materials have been added to the collection if the number of boxes listed in the online catalog is larger than the number of boxes listed in this finding aid.</p>
+</accruals>
+    </descgrp>
+    <controlaccess id="controlaccess-1.7.3">
+      <head>Access Points</head>
+      <subject>Elections--Greece</subject>
+      <subject>Trade-unions--Greece</subject>
+      <geogname>Cyprus</geogname>
+      <geogname>Cyprus--Politics and government</geogname>
+      <geogname>Greece</geogname>
+      <geogname>Greece--Foreign relations--United States</geogname>
+      <geogname>Greece--History--Civil War, 1944-1949</geogname>
+      <geogname>Greece--Politics and government--1935-1967</geogname>
+      <geogname>United States--Foreign relations</geogname>
+      <geogname>United States--Foreign relations--Greece</geogname>
+    </controlaccess>
+    <bioghist id="bioghist-1.7.4">
+      <head>Biographical Note</head>
+      <chronlist>
+        <head>Stavrianos, Leften Stavros 1913-</head>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1913, Feb. 5</date>
+          <event>Born, Vancouver, B.C., Canada</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1937</date>
+          <event>Ph.D., Clark University</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1937-38</date>
+          <event>Lecturer, Queens University</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1939</date>
+          <event>Royal Society of Canada traveling fellow</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1939-1946</date>
+          <event>Instructor, then Assistant Professor, Smith College</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1944</date>
+          <event>Author, <emph render="italic">Balkan Federation</emph></event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1944-1945</date>
+          <event>Research and analysis branch, Office of Strategic Services</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1946-1956</date>
+          <event>Associate Professor, Northwestern University</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1951-1952</date>
+          <event>Guggenheim Fellow</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1952</date>
+          <event>Author, <emph render="italic">Greece: American Dilemma and Opportunity</emph></event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1953-1954</date>
+          <event>Ford Faculty Fellow</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1956-1973</date>
+          <event>Professor of History, Northwestern University</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1958</date>
+          <event>Author, <emph render="italic">The Balkans Since 1453</emph></event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1962</date>
+          <event>Author, <emph render="italic">A Global History of Man</emph></event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1966</date>
+          <event>Author, <emph render="italic">The World Since 1500</emph></event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1970</date>
+          <event>Author, <emph render="italic">The World to 1500</emph></event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1971</date>
+          <event>Author, <emph render="italic">Man's Past and Present</emph></event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1971-1972</date>
+          <event>Fellow, East-West Center, Hawaii</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1972-1973</date>
+          <event>Fellow, Center for Advanced Study in the Behavioral Sciences</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1973-</date>
+          <event>Professor of History, Emeritus, Northwestern University</event>
+        </chronitem>
+      </chronlist>
+    </bioghist>
+    <dsc id="dsc-1.7.5" type="analyticover">
+      <head>Series Description</head>
+      <c01 id="c01-1.7.5.2" level="series">
+        <did>
+          <unittitle>Writings, <unitdate calendar="gregorian" era="ce">1948-1957.</unitdate></unittitle>
+          <container type="Box">Box No. 1.</container>
+        </did>
+        <scopecontent>
+          <p>Drafts and printed copies of writings arranged alphabetically by title.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.5.3" level="series">
+        <did>
+          <unittitle>Subject File, <unitdate calendar="gregorian" era="ce">1942-1963.</unitdate></unittitle>
+          <container type="Box">Box No. 1 -4.</container>
+        </did>
+        <scopecontent>
+          <p>Press releases, press translations and digests, reports, memoranda, clippings, pamphlets, election material, minutes, and correspondence, arranged alphabetically by subject.</p>
+        </scopecontent>
+      </c01>
+    </dsc>
+    <dsc id="dsc-1.7.6" type="in-depth">
+      <head>Container List</head>
+      <c01 id="c01-1.7.6.2" level="series">
+        <did>
+          <unittitle>Writings, <unitdate calendar="gregorian" era="ce">1948-1957.</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.6.2.2">
+          <did>
+            <container type="Box">1.</container>
+            <unittitle><title render="italic">Antecedents to the Balkan revolutions of the Ninteenth Century,</title> published article, <unitdate calendar="gregorian" era="ce">December 1957.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.3">
+          <did>
+            <unittitle><title render="italic">Bibliographical article; present-day Greece,</title> published article, <unitdate calendar="gregorian" era="ce">June 1948.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.4">
+          <did>
+            <unittitle>Book reviews, general.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.5">
+          <did>
+            <unittitle><title render="italic">Greek National Liberation Front (EAM): a study in resistance organization and administration,</title> published article, <unitdate calendar="gregorian" era="ce">March 1952.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.6">
+          <did>
+            <unittitle><title render="italic">Jews of Greece,</title> published article, <unitdate calendar="gregorian" era="ce">October 1948.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.7">
+          <did>
+            <unittitle><title render="italic">Mutiny in the Greek armed forces, April, 1944,</title> published article, <unitdate calendar="gregorian" era="ce">December 1950.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.8">
+          <did>
+            <unittitle><title render="italic">Political Significance of the Working Class Movement in Greece,</title> manuscript draft.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.9">
+          <did>
+            <unittitle><emph render="italic">Price of Freedom, </emph>book review.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.10">
+          <did>
+            <unittitle>
+              <title render="italic">Two points of view; The immediate origins of the Battle of Athens,</title>
+              <emph render="italic">American Slavic and East European Review, </emph>
+              <unitdate calendar="gregorian" era="ce">December 1949.</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.11">
+          <did>
+            <unittitle><title render="italic">United States and Greece; the Truman doctrine in historical perspective,</title> published article.</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.6.3" level="series">
+        <did>
+          <unittitle>Subject File, <unitdate calendar="gregorian" era="ce">1942-1963.</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.6.3.2">
+          <did>
+            <container type="Box">1.</container>
+            <unittitle>Allied Mission for Observing Greek Elections (AMFOGE), <unitdate calendar="gregorian" era="ce">March 1946 </unitdate>(materials collected by American observer Peter Topping).</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.3.2.2">
+            <did>
+              <unittitle>Issuances of.</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.3.2.2.2">
+              <did>
+                <unittitle>Instructions, forms and information for observing the elections.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.2.2.3">
+              <did>
+                <unittitle>Press releases.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.2.2.4">
+              <did>
+                <unittitle>Press section, Athens. Extracts from the Greek press.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.2.2.5">
+              <did>
+                <unittitle>Translations from the local press (Northern Greece).</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.3.2.3">
+            <did>
+              <unittitle>Reports, memoranda received by, from various individuals and groups.</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.3.2.3.2">
+              <did>
+                <unittitle>National Liberation Front (EAM).</unittitle>
+              </did>
+              <c05 id="c05-1.7.6.3.2.3.2.2">
+                <did>
+                  <unittitle>Central Committee, Athens.</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.2.3.2.3">
+                <did>
+                  <unittitle>Units in Northern Greece.</unittitle>
+                </did>
+              </c05>
+            </c04>
+            <c04 id="c04-1.7.6.3.2.3.3">
+              <did>
+                <unittitle>Miscellaneous.</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.3.2.4">
+            <did>
+              <container type="Box">2.</container>
+              <unittitle>Miscellaneous material collected by.</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.3.2.4.2">
+              <did>
+                <unittitle>Great Britain. Consulate General, Salonika Press Department. Salonika Press Review.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.2.4.3">
+              <did>
+                <unittitle>Great Britain. Embassy, Athens. Press Department. Athens Press Summary.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.2.4.4">
+              <did>
+                <unittitle>Greek government, various agencies.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.2.4.5">
+              <did>
+                <unittitle>Map of Bulgaria and Northern Greece.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.2.4.6">
+              <did>
+                <unittitle>Miscellaneous election material.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.2.4.7">
+              <did>
+                <unittitle>National Liberal Party.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.2.4.8">
+              <did>
+                <unittitle>National Liberation Front (EAM).</unittitle>
+              </did>
+              <c05 id="c05-1.7.6.3.2.4.8.2">
+                <did>
+                  <unittitle>Foreign Press Section. Daliy press review.</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.2.4.8.3">
+                <did>
+                  <unittitle>Foreign Press Section. Weekly press review.</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.2.4.8.4">
+                <did>
+                  <unittitle>Miscellaneous.</unittitle>
+                </did>
+              </c05>
+            </c04>
+            <c04 id="c04-1.7.6.3.2.4.9">
+              <did>
+                <unittitle>National Party of Greece.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.2.4.10">
+              <did>
+                <unittitle>National Political Union Party.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.2.4.11">
+              <did>
+                <unittitle>Populist Party.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.2.4.12">
+              <did>
+                <unittitle>United Nations Relief and Rehabilitation Administration (UNRRA), Greece Mission, Office of Public Information. Daily news digest.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.2.4.13">
+              <did>
+                <unittitle>United States Information Service (USIS), Athens. Press review.</unittitle>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.3.3">
+          <did>
+            <unittitle>American Council for a Democratic Greece, <unitdate calendar="gregorian" era="ce">1944-1947.</unitdate></unittitle>
+          </did>
+          <c03 id="c03-1.7.6.3.3.2">
+            <did>
+              <unittitle>General.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.3.3.3">
+            <did>
+              <unittitle>Press releases.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.3.4">
+          <did>
+            <container type="Box">3.</container>
+            <unittitle>Balkans, historical background.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.5">
+          <did>
+            <unittitle>Biographical material.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.6">
+          <did>
+            <unittitle>Civil war in Greece, <unitdate calendar="gregorian" era="ce">1944-1949.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.7">
+          <did>
+            <unittitle>Communist Party of Greece (KKE).</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.8">
+          <did>
+            <unittitle>Concentration camps in Greece.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.9">
+          <did>
+            <unittitle>Cyprus, <unitdate calendar="gregorian" era="ce">1946-1958.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.10">
+          <did>
+            <unittitle>Economic conditions in Greece, <unitdate calendar="gregorian" era="ce">1953-1960.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.11">
+          <did>
+            <unittitle>Economic, political and social conditions in Greece, <unitdate calendar="gregorian" era="ce">1943-1954.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.12">
+          <did>
+            <unittitle>Espionage trials in Greece, <unitdate calendar="gregorian" era="ce">1952-1960.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.13">
+          <did>
+            <unittitle>Foreign journalists in Greece during the Civil War.</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.3.13.2">
+            <did>
+              <unittitle>George Polk case.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.3.13.3">
+            <did>
+              <unittitle>Suppression of news.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.3.14">
+          <did>
+            <unittitle>Foreign support for the Greek rebels, <unitdate calendar="gregorian" era="ce">1948.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.15">
+          <did>
+            <unittitle>German documents (in English) on the German occupation of Greece, <unitdate calendar="gregorian" era="ce">1943-1944.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.16">
+          <did>
+            <unittitle>Gluecksburg monarchy in Greece.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.17">
+          <did>
+            <container type="Box">4.</container>
+            <unittitle>Greek children during and after the Civil War.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.18">
+          <did>
+            <unittitle>Greek Orthodox Church, <unitdate calendar="gregorian" era="ce">1948.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.19">
+          <did>
+            <unittitle>Jews in Greece.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.20">
+          <did>
+            <unittitle>Labor movement in Greece, <unitdate calendar="gregorian" era="ce">1944-1950.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.21">
+          <did>
+            <unittitle>Land reform in Greece.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.22">
+          <did>
+            <unittitle>League for Democracy in Greece.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.23">
+          <did>
+            <unittitle>Macedonia.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.24">
+          <did>
+            <unittitle>Miscellaneous.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.25">
+          <did>
+            <unittitle>National Liberation Front, Greece (EAM).</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.3.25.2">
+            <did>
+              <unittitle>Foreign Press Section, <unitdate calendar="gregorian" era="ce">March 1947.</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.3.25.3">
+            <did>
+              <unittitle>Miscellaneous documents.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.3.26">
+          <did>
+            <unittitle>National Mutual Aid, Greece (EA).</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.27">
+          <did>
+            <unittitle>Politics and government in Greece, <unitdate calendar="gregorian" era="ce">1942-1948, 1958-1963.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.28">
+          <did>
+            <unittitle>Provisional Democratic Government of Greece, formation of, <unitdate calendar="gregorian" era="ce">December 1947.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.29">
+          <did>
+            <unittitle>United Nations aid to Greece, <unitdate calendar="gregorian" era="ce">1945-1947.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.30">
+          <did>
+            <unittitle>United States aid to Greece, <unitdate calendar="gregorian" era="ce">1947-1956.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.31">
+          <did>
+            <unittitle>United States foreign and strategic policy, <unitdate calendar="gregorian" era="ce">1947-1951.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.32">
+          <did>
+            <unittitle>World War II, Greece.</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

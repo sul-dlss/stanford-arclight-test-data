@@ -1,0 +1,1945 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  
+  
+  
+  
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" repositoryencoding="iso15511" findaidstatus="unverified-full-draft" langencoding="iso639-2b"><eadid countrycode="us" identifier="ark:/13030/kt1q2nc2n8" mainagencycode="CSt-H" publicid="PUBLIC &quot;-//Stanford University::Hoover Institution Archives//TEXT&#10;(US::CSt-H::::Pierre Lanneret Papers)//EN&quot; &quot;lanneret.xml&quot;">lanneret.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Register of the Pierre Lanneret Papers</titleproper><titleproper type="filing">Lanneret (Pierre) Papers</titleproper>
+        <author>Prepard by David Jacobs</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Hoover Institution Archives</publisher>
+        <address>
+          <addressline>Stanford University</addressline>
+          <addressline>Stanford, California 94305-6010</addressline>
+          <addressline>Phone: (650) 723-3563</addressline>
+          <addressline>Fax: (650) 725-3445</addressline>
+          <addressline>Email: hooverarchives@stanford.edu</addressline>
+        </address>
+        <date calendar="gregorian" era="ce">&#xA9; 2003</date>
+        <p>Hoover Institution Archives. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc><profiledesc>
+      <creation>Machine-readable finding aid created by OAC finding aid conversion service.
+Date of source: <date calendar="gregorian" era="ce">2003</date></creation>
+      <langusage encodinganalog="546">Description is in <language langcode="eng" scriptcode="latn">English</language></langusage>
+    </profiledesc><revisiondesc>
+     <change>
+      <date calendar="gregorian" era="ce" normal="20111020">October 20, 2011</date>
+      <item>Revised to update encoding and add unitid by Elizabeth Phillips</item>
+      </change>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//Stanford University::Hoover Institution Archives//TEXT
+(US::CSt-H::::Pierre Lanneret Papers)//EN" "lanneret.xml" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Register of the Pierre Lanneret Papers</titleproper>
+      <publisher>Hoover Institution Archives
+<lb/>Stanford University
+<lb/>Stanford, California</publisher>
+      <list type="simple">
+        <head>Contact Information</head>
+        <item>Hoover Institution Archives</item>
+        <item>Stanford University</item>
+        <item>Stanford, California 94305-6010</item>
+        <item>Phone: (650) 723-3563</item>
+        <item>Fax: (650) 725-3445</item>
+        <item>Email: hooverarchives@stanford.edu</item>
+      </list>
+      <list type="deflist">
+        <defitem>
+          <label>Prepared by:</label>
+          <item>David Jacobs</item>
+        </defitem>
+        <defitem>
+          <label>Date Completed:</label>
+          <item>2003</item>
+        </defitem>
+        <defitem>
+          <label>Encoded by:</label>
+          <item>ByteManagers using OAC finding aid conversion service specifications</item>
+        </defitem>
+      </list>
+      <p>&#xA9; 2003 Hoover Institution Archives. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection">
+    <did id="did-1.7.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">Pierre Lanneret papers, </unittitle><unitdate calendar="gregorian" era="ce" type="inclusive" normal="1902/1994">1902-1994</unitdate>
+      <unitid label="Collection number" repositorycode="CSt-H" countrycode="US">93032</unitid>
+      <origination encodinganalog="100" label="Creator">
+        <persname source="lcnaf">Lanneret, Pierre, 1921-1993</persname>
+      </origination>
+      <physdesc encodinganalog="300" label="Extent">
+        <extent>17 manuscript boxes, 1 oversize box</extent>
+        <extent>(7.4 linear feet)</extent>
+      </physdesc>
+      <repository label="Repository">
+        <corpname source="lcnaf">Hoover Institution on War, Revolution, and Peace</corpname>
+        <address>
+          <addressline>Stanford, California 94305-6010</addressline>
+        </address>
+      </repository>
+      <abstract label="Abstract" encodinganalog="520">Writings, notes, correspondence, serial issues, pamphlets, leaflets, internal bulletins, and photographs, relating to left-wing resistance activities in France during World War II, and to libertarian socialist and communist movements in France, the United States and elsewhere.</abstract>
+<physloc label="Physical Location">Hoover Institution Archives</physloc>
+      <langmaterial label="Languages">
+        <language langcode="eng">English, </language>
+        <language langcode="fre">and French.</language>
+      </langmaterial>
+    </did>
+    <descgrp id="descgrp-1.7.2" type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict>
+        <head>Access</head>
+        <p>Collection is open for research.</p>
+      </accessrestrict>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>For copyright status, please contact the Hoover Institution Archives.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Pierre Lanneret papers, [Box no.], Hoover Institution Archives.</p>
+      </prefercite>
+<acqinfo encodinganalog="541">
+ <head>Acquisition Information</head>
+ <p>Acquired by the Hoover Institution Archives in 1993.</p>
+</acqinfo>
+<accruals encodinganalog="525"><head>Accruals</head>
+<p>Materials may have been added to the collection since this finding aid was prepared. To determine if this has occurred, find the collection in Stanford University's online catalog at <extref linktype="simple" href="http://searchworks.stanford.edu/" actuate="onrequest" show="new"> http://searchworks.stanford.edu/</extref>. Materials have been added to the collection if the number of boxes listed in the online catalog is larger than the number of boxes listed in this finding aid.</p>
+</accruals>
+
+    </descgrp>
+    <bioghist id="bioghist-1.7.3" encodinganalog="545">
+      <head>Biographical Note</head>
+      <chronlist>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1921</date>
+          <event>Born, Auxerre, France</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1938</date>
+          <eventgrp>
+            <event>Becomes employed as a typesetter</event>
+            <event>Joins La Jeunesse Revolutionnaire Socialiste, a Trotskyist group</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1942-1943</date>
+          <event>Sent to Germany as a laborer under the terms of la Service du Travail Obligatoire</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1943</date>
+          <event>Joins the Groupe R&#xE9;volutionnaire Prol&#xE9;tarien, a clandestine group of "revolutionary internationalists," in Paris</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1946-1950</date>
+          <event>Active in the Bordigist group, la Fraction Fran&#xE7;aise de la Gauche Communiste</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1950</date>
+          <event>Joins Socialisme ou Barbarie</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1951</date>
+          <event>Emigrates to Canada</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1958</date>
+          <event>Moves to San Francisco, becoming member of the Typographical Union</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1970-1975</date>
+          <event>Member, International Socialists</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1976-1979</date>
+          <event>Member, A World to Win</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1985</date>
+          <event>
+            <emph render="underline">Third Camp Internationalists in France during World War II</emph>
+          </event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1993</date>
+          <event>Dies</event>
+        </chronitem>
+      </chronlist>
+    </bioghist>
+    <scopecontent id="scopecontent-1.7.4">
+      <head>Scope and Content Note</head>
+      <p>Acquired in 1987, with a significant increment received in 2001, the Pierre Lanneret papers in the Hoover Institution Archives provide a window on the history of 20th century French working-class radicalism, and in particular, on the life of small but influential groups whose politics were situated well to the left of the French Communist Party. It also documents the activities of similar groups in the United States and the United Kingdom.</p>
+      <p>Having entered the labor force as an adolescent in France, Lanneret worked in the printing trades as a typesetter and composer until his retirement in 1984. At the same time, he devoted a life's work and intellectual effort to revolutionary politics, participating as a militant in several organizations, and conducting an extensive correspondence with a number of like-minded individuals, a connection which in many cases endured long after any period of formal organizational collaboration.</p>
+      <p>Lanneret's first political engagement was with a Trotskyist youth group in his native Auxerre, but by the time of the Second World War, his views had shifted in the direction of a revolutionary internationalist perspective, which did not view the Soviet Union as socialist, and which opposed both Nazi Germany and the Allied powers, seeing the war as the expression of imperialist rivalries, not as an anti-fascist crusade.</p>
+      <p>At considerable personal risk, Lanneret evaded obligatory labor service in Germany during the Nazi occupation of France and went underground in Paris, joining a small resistance group, the Groupe R&#xE9;volutionnaire Prol&#xE9;tarien, which also espoused a "third camp internationalist" perspective. This clandestine group engaged in limited propaganda work and some direct action. Its history, along with that of other similar groups, is described in Lanneret's work, <emph render="underline">Third Camp Internationalists in France during World War II</emph>, various editions of which are found in the collection, along with extensive research materials consulted in the preparation of this monograph (see SPEECHES AND WRITINGS series). A German translation of the joint autobiography of Paul (Pavel) and Clara Thalman, which also discusses the activities of the Groupe R&#xE9;volutionnaire Prol&#xE9;tarien, is included in the WRITINGS BY OTHERS series in the collection.</p>
+      <p>After the war, Lanneret was an early member of the group Socialisme ou Barbarie, whose ideas on modern revolution and the nature of bureaucracy were later to exert a considerable influence on the anti-authoritarian currents of the student and worker revolt in France during May-June 1968. Although he emigrated to North America, living first in Canada and then in San Francisco, Lanneret continued to meet and correspond with his former associates in the French revolutionary milieu.</p>
+      <p>Among these was the philosopher Cornelius Castoriadis, the principal theorist of Socialisme ou Barbarie. The collection contains Castoriadis's correspondence with Lanneret, translations made by Lanneret of some of Castoriadis's writings, and an extensive selection of those writings in the original French (See TRANSLATIONS and WRITINGS BY OTHERS series). There are also copies of the review, <emph render="underline">Socialisme ou barbarie</emph>, in which can be found articles by Castoriadis, Claude Lefort, and others (see PRINTED MATTER series).</p>
+      <p>The PRINTED MATTER series in the collection also contains a number of rare or fugitive pamphlets and serial issues from political groups in France, the United States, and the United Kingdom. There are extensive materials from the British Solidarity group, which was highly influenced by Socialisme ou Barbarie, and from the French councilist group Informations Correspondance Ouvri&#xE8;res, an offshoot of Socialisme ou Barbarie. In addition, there is a considerable number of publications from fairly obscure leftist groups in the United States in the 1930s, and from Trotskyist and Maoist groups in France in the post-1968 period. There is a considerable amount of publications from groups identified with the Bordigist tendency in revolutionary Marxist politics.</p>
+      <p>The collection also contains some serial issues relating specifically to the May-June 1968 events in France (see OVERSIZE MATERIALS), and recordings of songs associated with the Paris Commune, 1871.</p>
+      <p>A feature of the political movements in which Lanneret was involved was the common use of pseudonyms, both as a practice imposed by conditions of wartime clandestinity and as a habit continued afterward. Where appropriate, these pseudonyms have been given in the case of deceased individuals to aid in the identification of writings and correspondence.</p>
+    </scopecontent>
+    <controlaccess id="controlaccess-1.7.5">
+      <head>Indexing Terms</head>
+      <p>The following terms have been used to index the description of this collection in the repository's online public access catalog.</p>
+      <controlaccess>
+        <head>Subjects</head>
+        <subject source="lcsh" encodinganalog="650">Fourth International.</subject>
+        <subject source="lcsh" encodinganalog="650">Anarchism--France.</subject>
+        <subject source="lcsh" encodinganalog="650">Communism.</subject>
+        <subject source="lcsh" encodinganalog="650">Communism--United States.</subject>
+        <subject source="lcsh" encodinganalog="650">World War, 1939-1945--Underground movements.</subject>
+        <subject source="lcsh" encodinganalog="650">World War, 1939-1945--France.</subject>
+        <subject source="lcsh" encodinganalog="650">World War, 1939-1945.</subject>
+        <subject source="lcsh" encodinganalog="650">Socialism--United States.</subject>
+        <subject source="lcsh" encodinganalog="650">Socialism--France.</subject>
+        <subject source="lcsh" encodinganalog="650">French--United States.</subject>
+        <subject source="lcsh" encodinganalog="650">Communism--France.</subject>
+        <geogname source="lcsh" encodinganalog="651">United States--Politics and government.</geogname>
+        <geogname source="lcsh" encodinganalog="651">France.</geogname>
+      </controlaccess>
+    </controlaccess>
+    <dsc id="dsc-1.7.6" type="analyticover">
+      <head>Series Description</head>
+      <c01 id="c01-1.7.6.2" level="series">
+        <did>
+          <container type="Box" label="box">1</container>
+          <unittitle>Biographical File, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1993/1994">1993-1994</unitdate>.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Biographies and inventory, arranged by physical form</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.6.3" level="series">
+        <did>
+          <container type="Box" label="box">1</container>
+          <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1969/1992">1969-1992</unitdate>.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Letters and enclosures, arranged alphabetically by name of correspondent</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.6.4" level="series">
+        <did>
+          <container type="Box" label="box">2-3</container>
+          <unittitle>Speeches and Writings, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1977/2003">1977-2003</unitdate>.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Article, lecture, monograph, notes, outlines, research materials, and translations, arranged chronologically</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.6.5" level="series">
+        <did>
+          <container type="Box" label="box">3</container>
+          <unittitle>Translations, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1974/1982">1974-1982</unitdate>.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Translations of articles by Cornelius Castoriadis, arranged chronologically</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.6.6" level="series">
+        <did>
+          <container type="Box" label="box">3</container>
+          <unittitle>Notebooks, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1930/1950">1930s-1950s</unitdate>.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Notebooks, arranged alphabetically by major theme</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.6.7" level="series">
+        <did>
+          <container type="Box" label="box">4</container>
+          <unittitle>World to Win File, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1976/1979">1976-1979</unitdate>.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Correspondence, internal documents and position papers, notebook, and publication, arranged alphabetically by physical form</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.6.8" level="series">
+        <did>
+          <container type="Box" label="box">4-5</container>
+          <unittitle>Subject File, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927/2002">1927-2002</unitdate>.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Clippings, monographs, obituaries, pamphlets, and serial issues, largely relating to revolutionary movements and individuals, arranged alphabetically by subject</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.6.9" level="series">
+        <did>
+          <container type="Box" label="box">5-7</container>
+          <unittitle>Writings by Others, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1950/1982">1950-1982</unitdate>.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Articles, pamphlets, and papers, arranged alphabetically by author</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.6.10" level="series">
+        <did>
+          <container type="Box" label="box">8-17</container>
+          <unittitle>Printed Matter, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1936/1995">1936-1995</unitdate>.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Pamphlets and serial issues, arranged by physical form and therein alphabetically by name of organization or title</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.6.11" level="series">
+        <did>
+          <container type="Box" label="box">18</container>
+          <unittitle>Oversize Materials, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1902/1984">1902-1984</unitdate>.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Phonotapes, photographs, poster, and serial issues, arranged alphabetically by physical form</p>
+        </scopecontent>
+      </c01>
+    </dsc>
+    <dsc id="dsc-1.7.7" type="in-depth">
+      <head>Container List</head>
+      <c01 id="c01-1.7.7.2" level="file">
+        <did>
+          <container type="Folder" label="Box/Folder">1</container>
+          <unittitle>BIOGRAPHICAL FILE, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1993/1994">1993-1994</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.7.2.2" level="file">
+          <did>
+            <unittitle>Biographies</unittitle>
+          </did>
+          <c03 id="c03-1.7.7.2.2.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">1 : 1</container>
+              <unittitle>"Pierre Lanneret: Biographical Details," <unitdate calendar="gregorian" era="ce" normal="1902/1994">n.d.</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Holograph notes</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.2.2.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">1 : 2</container>
+              <unittitle>Cohen, Larry, "Pierre Remembered," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1993">1993</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.2.2.4" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">1 : 3</container>
+              <unittitle>Simon, Henri, "Pierre Lanneret, alias Camille," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1994">1994</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript. Includes accompanying letter, 1994 May 5</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.7.2.3" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 4</container>
+            <unittitle>Inventory of serial issues in personal library, <unitdate calendar="gregorian" era="ce" normal="1902/1994">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.7.3" level="file">
+        <did>
+          <unittitle>CORRESPONDENCE, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1969/1992">1969-1992</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.7.3.2" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 5</container>
+            <unittitle>Unidentified, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1976">1976</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Letter from Margaret, with reference to Maximilien Rubel</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.3.3" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 6</container>
+            <unittitle>Alexander, Robert J., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1991/1992">1991-1992</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.4" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 7</container>
+            <unittitle>Castoriadis, Cornelius, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1975/1991">1975-1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.5" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 8</container>
+            <unittitle>Cohen, Larry, <unitdate calendar="gregorian" era="ce" normal="1902/1994">n.d.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.6" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 9</container>
+            <unittitle>Davoust, Gaston (pseudonym, Henri Chaz&#xE9;), <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1969/1984">1969-1984</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.7" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 10</container>
+            <unittitle>Goldner, Loren, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1987/1988">1987-1988</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.8" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 11</container>
+            <unittitle>Gontarbert, Sania, <unitdate calendar="gregorian" era="ce" normal="1902/1994">n.d.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.9" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 12</container>
+            <unittitle>Jacobs, David, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1987/1992">1987-1992</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.10" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 13</container>
+            <unittitle>Klein, Stephanie, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1989/1981">1989-1981</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.11" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 14</container>
+            <unittitle>Lefievre, M., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1983">1983</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.12" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 15</container>
+            <unittitle>Martine, J., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1989/1991">1989-1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.13" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 16</container>
+            <unittitle>Rubel, Maximilien, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1969/1991">1969-1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.14" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 17</container>
+            <unittitle>Thalman, Clara, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1980/1986">1980-1986</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.7.4" level="file">
+        <did>
+          <container type="Box" label="Box">2</container>
+          <unittitle>SPEECHES AND WRITINGS, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1977/2003">1977-2003</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.7.4.2" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 1</container>
+            <unittitle>Comments on<emph render="underline"> La revoluci&#xF3;n en cuesti&#xF3;n(es)</emph>, <unitdate calendar="gregorian" era="ce" normal="1902/1994">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.3" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 2</container>
+            <unittitle>"Marx and the State," lecture, <unitdate calendar="gregorian" era="ce" normal="1902/1994">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.4" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 3</container>
+            <unittitle>Notes on France, <unitdate calendar="gregorian" era="ce" normal="1902/1994">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.5" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 4</container>
+            <unittitle>Notes on Hegel and Marx, <unitdate calendar="gregorian" era="ce" normal="1902/1994">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.6" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 5</container>
+            <unittitle>Notes on the history of revolutionary movements in France, <unitdate calendar="gregorian" era="ce" normal="1902/1994">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Holograph</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.7" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 6</container>
+            <unittitle>Notes on the Russian Revolution, <unitdate calendar="gregorian" era="ce" normal="1902/1994">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.8" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 7</container>
+            <unittitle>"Notes on <emph render="underline">The GPU in the Trotskyist Movement</emph> by Georges Vereeken," <unitdate calendar="gregorian" era="ce" normal="1902/1994">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.9" level="file">
+          <did>
+            <unittitle>Writings on "the national question," <unitdate calendar="gregorian" era="ce" normal="1902/1994">n.d.</unitdate></unittitle>
+          </did>
+          <c03 id="c03-1.7.7.4.9.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">2 : 8</container>
+              <unittitle>Clippings, pamphlets, and other research materials</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.4.9.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">2 : 9</container>
+              <unittitle>Holograph notes</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.4.9.4" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">2 : 10</container>
+              <unittitle>Lecture outlines.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Holograph and typescript</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.7.4.10" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 11</container>
+            <unittitle>"The Basque Question," lecture outline, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1977">1977</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.11" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 12</container>
+            <unittitle>"Probl&#xE8;mes du syndicalisme dans le Livre en Am&#xE9;rique du Nord," <emph render="underline">Tribune libre</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1984">1984(?)</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.12" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 13</container>
+            <unittitle>Response to "Appel pour une Union mondiale des tendances r&#xE9;volutionnaires," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1984-02">1984 February</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy of brochure, with Lanneret's text attributed to "P.L."</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.13" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 14</container>
+            <unittitle>"Nicaragua: Quelques impressions de voyage," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1986-11">1986 November</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.14" level="file">
+          <did>
+            <unittitle><emph render="underline">Third Camp Internationalists in France during World War II</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1987">1987</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Originally published under the pseudonym Ernest Rayner</p>
+          </scopecontent>
+          <c03 id="c03-1.7.7.4.14.3" level="file">
+            <did>
+              <unittitle>Research materials, arranged by organization</unittitle>
+            </did>
+            <c04 id="c04-1.7.7.4.14.3.2" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">2 : 15</container>
+                <unittitle>General. Bibliographies, clippings, and pamphlets, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1939/1987">1939-1987</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.4.14.3.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">2 : 16</container>
+                <unittitle>Centre International de Recherches sur l'Anarchisme. <emph render="underline">Les Anarchistes et la R&#xE9;sistance</emph>, volumes 1 and 2, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1984/1985">1984-1985</unitdate>.</unittitle>
+              </did>
+              <scopecontent>
+                <p>Printed copy</p>
+              </scopecontent>
+            </c04>
+            <c04 id="c04-1.7.7.4.14.3.4" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">2 : 17</container>
+                <unittitle>Comit&#xE9; Ex&#xE9;cutif Europ&#xE9;en de la IVe Internationale. <emph render="underline">IVe Internationale</emph>, no. 4, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1944-02">1944 February</unitdate>.</unittitle>
+              </did>
+              <scopecontent>
+                <p>Printed copy</p>
+              </scopecontent>
+            </c04>
+            <c04 id="c04-1.7.7.4.14.3.5" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">2 : 18</container>
+                <unittitle>Groupe R&#xE9;volutionnaire Prol&#xE9;tarien. <emph render="underline">Le R&#xE9;veil prol&#xE9;tarien</emph>, nos. 2, 3, 15, and two unnumbered issues, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1943/1945">1943-1945</unitdate>.</unittitle>
+              </did>
+              <scopecontent>
+                <p>Printed copies. Also includes printed copy of manifesto, "Le Groupe R&#xE9;volutionnaire: Aux travailleurs, aux exploit&#xE9;s, aux r&#xE9;volutionnaires," 1943</p>
+              </scopecontent>
+            </c04>
+            <c04 id="c04-1.7.7.4.14.3.6" level="file">
+              <did>
+                <container type="Box-folder" label="Box/Folder">3 : 1</container>
+                <unittitle>Parti Communiste Internationaliste. <emph render="underline">La lutte des trotskystes sous la terreur nazie</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1945">1945</unitdate>.</unittitle>
+              </did>
+              <scopecontent>
+                <p>Printed copy</p>
+              </scopecontent>
+            </c04>
+            <c04 id="c04-1.7.7.4.14.3.7" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">3 : 2</container>
+                <unittitle>Parti Ouvrier Internationaliste. <emph render="underline">La V&#xE9;rit&#xE9;</emph>, nos. 44 and 50 (supplement), <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1943">1943</unitdate>.</unittitle>
+              </did>
+              <scopecontent>
+                <p>Printed copies</p>
+              </scopecontent>
+            </c04>
+            <c04 id="c04-1.7.7.4.14.3.8" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">3 : 3</container>
+                <unittitle>Revolution&#xE4;ren Kommunisten Deutschlands. <emph render="underline">Spartakus</emph>, no. 1, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1943-05-01">1943 May 1</unitdate>.</unittitle>
+              </did>
+              <scopecontent>
+                <p>Printed copy</p>
+              </scopecontent>
+            </c04>
+            <c04 id="c04-1.7.7.4.14.3.9" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">3 : 4</container>
+                <unittitle>Union Communiste. Printed copies of two leaflets, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1935/1936">1935-1936</unitdate>, and typescript of an internal bulletin, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1935-12">1935 December</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.4.14.3.10" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">3 : 5</container>
+                <unittitle>Union des Communistes Internationalistes. <emph render="underline">La Flamme</emph>, nos. 1-2, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1946">1946</unitdate>.</unittitle>
+              </did>
+              <scopecontent>
+                <p>Also includes printed copy of leaflet, 1944 October</p>
+              </scopecontent>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.7.4.14.4" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">3 : 6</container>
+              <unittitle>Holograph notes</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.4.14.5" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">3 : 7</container>
+              <unittitle>Proofs</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.4.14.6" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">3 : 8</container>
+              <unittitle>Printed copy</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.4.14.7" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">3 : 9</container>
+              <unittitle>Abridged version published in <emph render="underline">&#xC9;changes</emph>, no. 74/75, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1994">1994</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Also includes obituary of Lanneret. Printed copy</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.4.14.8" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">3 : 10</container>
+              <unittitle>Second edition, Phoenix Press, London, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1995">1995</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Includes biography of Lanneret. Photocopy</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.4.14.9" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">3 : 11</container>
+              <unittitle>French translation (incomplete), <unitdate calendar="gregorian" era="ce" normal="1902/1994">n.d.</unitdate></unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.4.14.10" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">3 : 12</container>
+              <unittitle>Italian translation, <emph render="underline">Gli internazionalisti del terzo fronte</emph>.
+							</unittitle>
+            </did>
+            <scopecontent>
+              <p>Printout from internet resource, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="2003">2003</unitdate></p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.7.4.15" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 13</container>
+            <unittitle>Notes on China, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1989">1989</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.16" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 14</container>
+            <unittitle>"Notes sur le Guatemala," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1990">1990</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.7.5" level="file">
+        <did>
+          <container type="Box" label="Box">3</container>
+          <unittitle>TRANSLATIONS, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1974/1982">1974-1982</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.7.5.2" level="file">
+          <did>
+            <unittitle>Castoriadis, Cornelius</unittitle>
+          </did>
+          <c03 id="c03-1.7.7.5.2.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">3 : 15</container>
+              <unittitle>"Proletariat and Organization," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1974">1974(?)</unitdate>. Translation of "Prol&#xE9;tariat et organization," <emph render="underline">Socialisme ou barbarie</emph>, nos. 27-28, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1959">1959</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.5.2.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">3 : 16</container>
+              <unittitle>"The Power at the End of the Tank," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1982">1982</unitdate>. Translation of an interview with Castoriadis, <emph render="underline">Nouvel observateur</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1982-01-02">1982 January 2</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.7.6" level="file">
+        <did>
+          <unittitle>NOTEBOOKS, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1930/1950">1930s-1950s</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.7.6.2" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 17</container>
+            <unittitle>Marx and Engels, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1930">1930s</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.6.3" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 18</container>
+            <unittitle>Political economy, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1930">1930s</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.6.4" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 19</container>
+            <unittitle>Proudhon, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1930">1930s</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.6.5" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 20</container>
+            <unittitle>Russian Revolution, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1930">1930s</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.6.6" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 21</container>
+            <unittitle>Trotsky, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1930">1930s</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.6.7" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 22</container>
+            <unittitle>Miscellaneous, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1950">1950s</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.7.7" level="file">
+        <did>
+          <container type="Box" label="Box">4</container>
+          <unittitle>WORLD TO WIN FILE, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1976/1979">1976-1979</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.7.7.2" level="file">
+          <did>
+            <unittitle>Correspondence.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Does not include letters either to or from Lanneret</p>
+          </scopecontent>
+          <c03 id="c03-1.7.7.7.2.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 1</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1976/1977">1976-1977</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.7.2.4" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 2</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1978/1979">1978-1979</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.7.7.3" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 3-4</container>
+            <unittitle>Internal documents and position papers, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1976">1976</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.7.4" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 5</container>
+            <unittitle>Notebook, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1977">1977</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.7.5" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 6</container>
+            <unittitle>Publication. <emph render="underline">Now and After</emph>, nos. 1-3, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1977/1978">1977-1978</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copies</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.7.8" level="file">
+        <did>
+          <unittitle>SUBJECT FILE, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927/2002">1927-2002</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.7.8.2" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 7</container>
+            <unittitle>Anarchism, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1970/1989">1970-1989</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Includes printed copy of an article by Noam Chomsky</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.8.3" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 8</container>
+            <unittitle>Bordiga, Amadeo, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1932/1987">1932-1987</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Includes notes by Lanneret on Bordiga and his followers</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.8.4" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 9</container>
+            <unittitle>Castoriadis, Cornelius, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1997">1997</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copies of three obituaries</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.8.5" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 10</container>
+            <unittitle>China-History, 1949-1989, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1960/1969">1960-1969</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Includes articles from <emph render="underline">Socialisme ou barbarie</emph> on China and Maoism</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.8.6" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 11</container>
+            <unittitle>Colombia-Social conditions, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1982">1982</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.8.7" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 12</container>
+            <unittitle>Communism, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1970/1990">1970-1990</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.8.8" level="file">
+          <did>
+            <container type="Box-folder" label="Box/Folder">5 : 1</container>
+            <unittitle>Davoust, Gaston (pseudonym, Henri Chaz&#xE9;), <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1984">1984</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copies of two obituaries</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.8.9" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 2</container>
+            <unittitle>Draper, Hal, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1990">1990</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Includes typescript of obituary</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.8.10" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 3</container>
+            <unittitle>Eastern Europe, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1989">1989</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Includes general analyses of perestroika era</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.8.11" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 4</container>
+            <unittitle>Education-France, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1989">1989</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copies of articles relating to the status of lay education in France</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.8.12" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 5</container>
+            <unittitle>Faucier, Nicolas, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1992">1992</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copies of two obituaries</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.8.13" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 6</container>
+            <unittitle>Giraud, Marius, <unitdate calendar="gregorian" era="ce" normal="1902/1994">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy of obituary</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.8.14" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 7</container>
+            <unittitle>Guillor&#xE9;, Raymond, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1989">1989</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy of obituary</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.8.15" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 8</container>
+            <unittitle>Humanist Party (California), <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1989">1989</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.8.16" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 9</container>
+            <unittitle>Lefeuvre, Ren&#xE9;, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1988">1988</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy of obituary</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.8.17" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 10</container>
+            <unittitle>Maitron, Jean, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1993">1993</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.8.18" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 11</container>
+            <unittitle>Martinet, Marcel, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1989">1989</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.8.19" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 12</container>
+            <unittitle>Marxism, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1948/1992">1948-1992</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Includes reviews of the works of the Marx scholar, Maximilien Rubel</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.8.20" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 13</container>
+            <unittitle>Mas&#xF3;, Albert (pseudonym, Albert Vega), <unitdate calendar="gregorian" era="ce" type="inclusive" normal="2002">2002</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy of obituary</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.8.21" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 14</container>
+            <unittitle>Miasnikov, G. T, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1984">1984</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.8.22" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 15</container>
+            <unittitle>Montseny, Frederica, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1989">1989</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.8.23" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 16</container>
+            <unittitle>Nicaragua-History, 1979- , <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1986">1986</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.8.24" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 17</container>
+            <unittitle>Pacifism, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1985">1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.8.25" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 18</container>
+            <unittitle>Persian Gulf War, 1991, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1991">1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.8.26" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 19</container>
+            <unittitle>Portugal-Revolution, 1975, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1975">1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.8.27" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 20</container>
+            <unittitle>Sauli&#xE8;re, Jean (pseudonym, Andr&#xE9; Arru), <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1995">1995</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.8.28" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 21</container>
+            <unittitle>Soviet Union-History, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1917/1991">1917-1991</unitdate>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1989/1990">1989-1990</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.8.29" level="file">
+          <did>
+            <unittitle>Trade unions</unittitle>
+          </did>
+          <c03 id="c03-1.7.7.8.29.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">5 : 22</container>
+              <unittitle>France, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1974/1976">1974-1976</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Includes clipping relating to the Lip strike and occupation, Besan&#xE7;on, 1974</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.8.29.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">5 : 23</container>
+              <unittitle>Spain, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1986">1986</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.7.8.30" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 24</container>
+            <unittitle>Trotsky, Leon, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927/1991">1927-1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.8.31" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 25</container>
+            <unittitle>Vali&#xE8;re, Marcel, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1975">1975</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy of biographical pamphlet</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.8.32" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 26</container>
+            <unittitle>Willis, Lillian, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1989">1989</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy of obituary</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.8.33" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 27</container>
+            <unittitle>Workers Revolutionary Party, <unitdate calendar="gregorian" era="ce" normal="1902/1994">n.d.</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.7.9" level="file">
+        <did>
+          <unittitle>WRITINGS BY OTHERS, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1950/1982">1950-1982</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.7.9.2" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 28</container>
+            <unittitle>Brendel, Cajo, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1975/1981">1975-1981</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.9.3" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 29-30</container>
+            <unittitle>Castoriadis, Cornelius (pseudonyms, Paul Cardan, Pierre Chaulieu), <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1950/1958">1950-1958</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.9.4" level="file">
+          <did>
+            <container type="Box-folder" label="Box/Folder">6 : 1-5</container>
+            <unittitle>Castoriadis, Cornelius, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1961/1998">1961-1998</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.9.5" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">6 : 6</container>
+            <unittitle>Davoust, Gaston (pseudonym, Henri Chaz&#xE9;), <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1978">1978</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.9.6" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">6 : 7</container>
+            <unittitle>Glaberman, Martin, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1969">1969</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.9.7" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">6 : 8</container>
+            <unittitle>Goldner, Loren, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1977/1990">1977-1990</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.9.8" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">6 : 9</container>
+            <unittitle>Gontarbert, Sania, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1989">1989</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.9.9" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">6 : 10</container>
+            <unittitle>Jacobs, David, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1975/1991">1975-1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.9.10" level="file">
+          <did>
+            <container type="Box-folder" label="Box/Folder">7 : 1</container>
+            <unittitle>Korsch, Karl, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1971">1971</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.9.11" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">7 : 2</container>
+            <unittitle>Martine, J., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1989">1989</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.9.12" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">7 : 3</container>
+            <unittitle>Rothbart, Ron, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1975/1981">1975-1981</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.9.13" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">7 : 4-7</container>
+            <unittitle>Rubel, Maximilien, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1951/1991">1951-1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.9.14" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">7 : 8</container>
+            <unittitle>Seidman, Michael, <unitdate calendar="gregorian" era="ce" normal="1902/1994">n.d.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.9.15" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">7 : 9</container>
+            <unittitle>Simon, Henri, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1977">1977</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.9.16" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">7 : 10-11</container>
+            <unittitle>Thalman, Paul (Pavel) and Clara, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1977">1977</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.9.17" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">7 : 12</container>
+            <unittitle>Zerzan, John, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1975">1975</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.7.10" level="file">
+        <did>
+          <container type="Box" label="Box">8</container>
+          <unittitle>PRINTED MATTER, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1936/1995">1936-1995</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.7.10.2" level="file">
+          <did>
+            <unittitle>Pamphlets, arranged by issuing organization</unittitle>
+          </did>
+          <c03 id="c03-1.7.7.10.2.2" level="file">
+            <did>
+              <unittitle>Courant Communiste International (International Communist Current)</unittitle>
+            </did>
+            <c04 id="c04-1.7.7.10.2.2.2" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">8 : 1</container>
+                <unittitle>In English, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1975/1976">1975-1976</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.10.2.2.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">8 : 2-3</container>
+                <unittitle>In French, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1988">1988</unitdate>.</unittitle>
+              </did>
+              <scopecontent>
+                <p>Includes a history of the Bordigist movement in Italy, France, and Belgium</p>
+              </scopecontent>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.7.10.2.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">8 : 4</container>
+              <unittitle>&#xC9;changes et Mouvement, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1975/1978">1975-1978</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.10.2.4" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">8 : 5</container>
+              <unittitle>International Socialists (United States), <unitdate calendar="gregorian" era="ce" normal="1902/1994">n.d.</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.10.2.5" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">8 : 6</container>
+              <unittitle>Leninist League, U.S.A., <unitdate calendar="gregorian" era="ce" normal="1902/1994">n.d.</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.10.2.6" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">8 : 7</container>
+              <unittitle>News and Letters, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1976">1976</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.10.2.7" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">8 : 8</container>
+              <unittitle>Programme Communiste, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1972">1972</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.10.2.8" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">8 : 9</container>
+              <unittitle>Revolutionary Workers League, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1938/1948">1938-1948</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.10.2.9" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">8 : 10</container>
+              <unittitle>Revolutionary Workers Party, <unitdate calendar="gregorian" era="ce" normal="1902/1994">n.d.</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.10.2.10" level="file">
+            <did>
+              <unittitle>Solidarity (United Kingdom)</unittitle>
+            </did>
+            <c04 id="c04-1.7.7.10.2.10.2" level="file">
+              <did>
+                <container type="Box-folder" label="Box/Folder">9 : 1-3</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" normal="1902/1994">Undated</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.10.2.10.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">9 : 4</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1970/1977">1970-1977</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.7.10.2.11" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">9 : 5</container>
+              <unittitle>Solidarity (United States), <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1974">1974</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.10.2.12" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">9 : 6</container>
+              <unittitle>Union des Travailleurs Communistes, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1975">1975</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.7.10.3" level="file">
+          <did>
+            <unittitle>Serial issues, arranged by title</unittitle>
+          </did>
+          <c03 id="c03-1.7.7.10.3.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">9 : 7</container>
+              <unittitle><emph render="underline">A: Rivista anarchica</emph>, vol. 8, nos. 9-10, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1978/1979">1978-1979</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.10.3.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">9 : 8</container>
+              <unittitle><emph render="underline">&#xC0; Contre-courant</emph>, no. 0, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1988-02">1988 February</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.10.3.4" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">9 : 9</container>
+              <unittitle><emph render="underline">Alarme</emph>, no. 39, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1988-01/1988-03">1988 January-March</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.10.3.5" level="file">
+            <did>
+              <unittitle><emph render="underline">The Bulletin</emph>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Published by the Workers League for a Revolutionary Party, identified with the political tendency of George Marlen</p>
+            </scopecontent>
+            <c04 id="c04-1.7.7.10.3.5.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">9 : 10</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1941-06/1943-12">1941 June-1943 December</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.10.3.5.4" level="file">
+              <did>
+                <container type="Box-folder" label="Box/Folder">10 : 1</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1944-05/1949-05/1949-06">1944 May - 1949 May-June</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.7.10.3.6" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">10 : 2</container>
+              <unittitle><emph render="underline">Cause du peuple</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1971/1975">1971-1975</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.10.3.7" level="file">
+            <did>
+              <unittitle><emph render="underline">Class Struggle</emph>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Published by the Communist League of Struggle (Internationalist-Communist), identified with the political tendency of Albert Weisbord</p>
+            </scopecontent>
+            <c04 id="c04-1.7.7.10.3.7.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">10 : 3</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1934-11/1936-12">1934 November-1936 December</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.10.3.7.4" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">10 : 4</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1937-03/1937-09">1937 March-September</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.7.10.3.8" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">10 : 5</container>
+              <unittitle><emph render="underline">Communist Program</emph>, no. 66, nos. 1-3 (new series), <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1975/1977">1975-1977</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Published by the International Communist Party</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.10.3.9" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">10 : 6</container>
+              <unittitle><emph render="underline">Connexions</emph>, no. 5, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1982">1982 summer</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.10.3.10" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">10 : 7</container>
+              <unittitle><emph render="underline">Critique</emph>, no. 1, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1973">1973 spring</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.10.3.11" level="file">
+            <did>
+              <container type="Box-folder" label="Box/Folder">11 : 1</container>
+              <unittitle><emph render="underline">&#xC9;changes</emph>, nos. 11, 25, 58, 59, 76/77, 78/79, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1981/1995">1981-1995</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Published by &#xC9;changes et mouvement</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.10.3.12" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">11 : 2</container>
+              <unittitle><emph render="underline">The Fighting Worker</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1937-03-20/1940-01-15">1937 March 20-1940 January 15</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Published by the Revolutionary Workers League</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.10.3.13" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">11 : 3</container>
+              <unittitle><emph render="underline">Fourth International</emph>, volume 3, no. 10, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1938-06">1938 June</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Published by the Revolutionary Workers League</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.10.3.14" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">11 : 4</container>
+              <unittitle><emph render="underline">Front rouge</emph>, nos. 101, 103, 107, 110, 122, 124, 135, 139, 166, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1974-01-31/1975-09-15">1974 January 31-1975 September 15</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Published by the Parti Communiste R&#xE9;volutionnaire (marxiste-l&#xE9;niniste)</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.10.3.15" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">11 : 5</container>
+              <unittitle><emph render="underline">L'Humanit&#xE9; rouge</emph>, nos. 207-208, 211, 213, 215-216, 221, 225, 238, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1973-11-29/1974-07-24">1973 November 29-1974 July 24</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.10.3.16" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">11 : 6</container>
+              <unittitle><emph render="underline">In Defense of Bolshevism</emph>, volume 1, nos. 5 and 8, volume 2, nos. 1-2, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1938-05/1939-02/1939-03">1938 May-1939 February-March</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Published by the Leninist League, U.S.A.</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.10.3.17" level="file">
+            <did>
+              <container type="Box" label="Box">12</container>
+              <unittitle>
+                <emph render="underline">Informations correspondance ouvri&#xE8;res</emph>
+              </unittitle>
+            </did>
+            <c04 id="c04-1.7.7.10.3.17.2" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">12 : 1</container>
+                <unittitle>Nos. 42, 71 (supplement), 72 (supplement), 85-90, 93-94, 97/98-99, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1965/1970">1965-1970</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.10.3.17.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">12 : 2</container>
+                <unittitle>Nos. 103/104-112/113, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1971/1972">1971-1972</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.10.3.17.4" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">12 : 3</container>
+                <unittitle>Nos. 114-123, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1972/1973">1972-1973</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.7.10.3.18" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">12 : 4</container>
+              <unittitle><emph render="underline">International Bulletin</emph>, nos. 6 and 8, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1948/1949">1948-1949</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Published by American Fraction, Left Communist International</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.10.3.19" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">12 : 5</container>
+              <unittitle><emph render="underline">International News</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1939-09/1945-11">1939 September-1945 November</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Published by the Revolutionary Workers League</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.10.3.20" level="file">
+            <did>
+              <unittitle><emph render="underline">International Review</emph>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Published by the International Communist Current</p>
+            </scopecontent>
+            <c04 id="c04-1.7.7.10.3.20.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">12 : 6</container>
+                <unittitle>Nos. 5, 7, 12-16, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1976/1979">1976-1979</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.10.3.20.4" level="file">
+              <did>
+                <container type="Box-folder" label="Box/Folder">13 : 1</container>
+                <unittitle>Nos. 17-25, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1979/1981">1979-1981</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.10.3.20.5" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">13 : 2</container>
+                <unittitle>Nos. 26-31, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1981/1982">1981-1982</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.7.10.3.21" level="file">
+            <did>
+              <unittitle><emph render="underline">Internationalism</emph>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Published by the American affiliate of the International Communist Current</p>
+            </scopecontent>
+            <c04 id="c04-1.7.7.10.3.21.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">13 : 3</container>
+                <unittitle>Nos. 2, 4-5, 7, 9, 14, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1973/1978">1973-1978</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.10.3.21.4" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">13 : 4</container>
+                <unittitle>Nos. 15, 18-27, 38, 54, 62, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1978/1989">1978-1989</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.7.10.3.22" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">13 : 5</container>
+              <unittitle><emph render="underline">L'Internationaliste</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1947-11">1947 November</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Published by the Fraction Fran&#xE7;aise de la Gauche Communiste Internationale</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.10.3.23" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">13 : 6</container>
+              <unittitle><emph render="underline">Labor Front</emph>, volume 3, nos. 4-5, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1936-09/1936-11">1936 September-November</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Published by the League for a Revolutionary Workers Party</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.10.3.24" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">13 : 7</container>
+              <unittitle><emph render="underline">Lutte communiste</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1975-10-24">1975 October 24</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Published by the Parti Communiste R&#xE9;volutionnaire (Trotskiste)</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.10.3.25" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">13 : 8</container>
+              <unittitle><emph render="underline">The Marxist</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1939-04/1939-08">1939 April-August</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Published by the Revolutionary Workers League</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.10.3.26" level="file">
+            <did>
+              <container type="Box-folder" label="Box/Folder">14 : 1</container>
+              <unittitle><emph render="underline">New International Bulletin</emph>, vol. 1, no. 5, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1936-12">1936 December</unitdate>; vol. 2, no. 1, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1937-03">1937 March</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Published by the League for a Revolutionary Workers Party</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.10.3.27" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">14 : 2</container>
+              <unittitle><emph render="underline">News and Letters</emph>, vol. 24, no. 10, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1979-12">1979 December</unitdate>; vol. 28, no. 8, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1983-10">1983 October</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.10.3.28" level="file">
+            <did>
+              <unittitle>
+                <emph render="underline">Problems of Communism</emph>
+              </unittitle>
+            </did>
+            <c04 id="c04-1.7.7.10.3.28.2" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">14 : 3</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1967-09/1967-10/1967-11/1967-12">1967 September/October-November/December</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.10.3.28.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">14 : 4</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1972-11/1972-12">1972 November/December</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.7.10.3.29" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">14 : 5</container>
+              <unittitle><emph render="underline">Programma communista</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1977-04-08/1978-04-29">1977 April 8&#x2013;1978 April 29</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Published by the Italian section of the Partito comunista internationale</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.10.3.30" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">14 : 6</container>
+              <unittitle><emph render="underline">Prol&#xE9;taire</emph>, miscellaneous issues, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1971/1975">1971-1975</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Published by the Parti communiste international</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.10.3.31" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">14 : 7</container>
+              <unittitle><emph render="underline">Quotidien du peuple</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1975-09-30">1975 September 30</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.10.3.32" level="file">
+            <did>
+              <unittitle><emph render="underline">Revolt</emph>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Published by the Revolutionary Workers League</p>
+            </scopecontent>
+            <c04 id="c04-1.7.7.10.3.32.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">14 : 8</container>
+                <unittitle>Volume 1, nos. 2, 4-5, 7, 10-13, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1938">1938</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.10.3.32.4" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">14 : 9</container>
+                <unittitle>Volume 2, nos. 2-6, 8-10, 17-18, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1939">1939</unitdate>; volume 3, no. 1, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1940">1940</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.7.10.3.33" level="file">
+            <did>
+              <container type="Box" label="Box">15</container>
+              <unittitle>
+                <emph render="underline">Socialisme ou barbarie</emph>
+              </unittitle>
+            </did>
+            <c04 id="c04-1.7.7.10.3.33.2" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">15 : 1</container>
+                <unittitle>Nos. 11, 18, 21, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1952/1957">1952-1957</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.10.3.33.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">15 : 2</container>
+                <unittitle>Nos. 22, 23, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1957/1958">1957-1958</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.10.3.33.4" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">15 : 3</container>
+                <unittitle>Nos. 25, 26, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1958">1958</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.10.3.33.5" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">15 : 4</container>
+                <unittitle>Nos. 29, 31-32, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1959/1961">1959-1961</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.10.3.33.6" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">15 : 5</container>
+                <unittitle>Nos. 33-35, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1961/1964">1961-1964</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.10.3.33.7" level="file">
+              <did>
+                <container type="Box-folder" label="Box/Folder">16 : 1</container>
+                <unittitle>Nos. 36-38, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1964">1964</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.10.3.33.8" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">16 : 2</container>
+                <unittitle>Nos. 39-40, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1965">1965</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.7.10.3.34" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">16 : 3</container>
+              <unittitle><emph render="underline">Solidarity</emph>, no. 2, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1976">1976</unitdate>; no. 9, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1985">1985</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Published by the Solidarity group, United Kingdom</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.10.3.35" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">16 : 4</container>
+              <unittitle><emph render="underline">Solidarity for Social Revolution</emph>, nos. 1-10, and 15, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1978/1981">1978-1981</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Published by the Solidarity group, United Kingdom</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.10.3.36" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">16 : 5</container>
+              <unittitle><emph render="underline">Solidarity for Workers' Power</emph>, vol. 7, nos. 8 and 12, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1973/1974">1973-1974</unitdate>; vol. 8, nos. 1-4 and 7, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1975/1977">1975-1977</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Published by the Solidarity group, United Kingdom</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.10.3.37" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">16 : 6</container>
+              <unittitle><emph render="underline">Solidarity Motor Bulletin</emph>, nos. 1-8, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1973/1978">1973-1978</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Published by the Solidarity group, United Kingdom</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.10.3.38" level="file">
+            <did>
+              <unittitle>
+                <emph render="underline">Textures</emph>
+              </unittitle>
+            </did>
+            <c04 id="c04-1.7.7.10.3.38.2" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">16 : 7</container>
+                <unittitle>No. 7/8, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1970">1970</unitdate>; no. 1, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1971">1971</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.10.3.38.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">16 : 8</container>
+                <unittitle>No. 6/7, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1973">1973</unitdate>; no. 10/11, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1975">1975</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.7.10.3.39" level="file">
+            <did>
+              <container type="Box-folder" label="Box/Folder">17 : 1</container>
+              <unittitle><emph render="underline">Tout le pouvoir aux travailleurs</emph>, nos. 00, 2, 5, 13, 16, 18, 21, 25-26, 30, 34, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1976/1980">1976-1980</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Published by the Union des Travailleurs Communistes Libertaires</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.10.3.40" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">17 : 2</container>
+              <unittitle><emph render="underline">Workers' Voice</emph>, vol. 4, nos. 3 and 8, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1937">1937</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Published by the League for a Revolutionary Workers' Party</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.10.3.41" level="file">
+            <did>
+              <unittitle><emph render="underline">World Revolution</emph>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Published by the British affiliate of the International Communist Current</p>
+            </scopecontent>
+            <c04 id="c04-1.7.7.10.3.41.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">17 : 3</container>
+                <unittitle>Nos. 1-2, 7, 17-22, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1974/1979">1974-1979</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.10.3.41.4" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">17 : 4</container>
+                <unittitle>Nos. 23-33, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1979/1980">1979-1980</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.10.3.41.5" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">17 : 5</container>
+                <unittitle>Nos. 35-54, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1981/1982">1981-1982</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.7.10.3.42" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">17 : 6</container>
+              <unittitle><emph render="underline">Young Worker</emph>, vol. 1, no. 2, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1939-04">1939 April</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Published by the Young Workers League, youth organization of the Revolutionary Workers League</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.10.3.43" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">17 : 7</container>
+              <unittitle><emph render="underline">Zerowork</emph>, no. 2, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1977">1977 fall</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.7.11" level="file">
+        <did>
+          <container type="Box" label="Box">18</container>
+          <unittitle>OVERSIZE MATERIALS, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1902/1984">1902-1984</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.7.11.2" level="file">
+          <did>
+            <unittitle>Phonotapes, <unitdate calendar="gregorian" era="ce" normal="1902/1994">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Sound recordings of songs associated with the Paris Commune, 1871</p>
+          </scopecontent>
+          <c03 id="c03-1.7.7.11.2.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">18 : 1</container>
+              <unittitle>One compact audio cassette containing the recording, "Les Quatre Barbus chantent la Commune de Paris"</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.11.2.4" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">18 : 2</container>
+              <unittitle>One compact audio cassette containing the recording, "Marc Ogeret chante autour de la Commune, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1846/1888">1846-1888</unitdate>"</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.7.11.3" level="file">
+          <did>
+            <unittitle>Photographs</unittitle>
+          </did>
+          <c03 id="c03-1.7.7.11.3.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">18 : 3</container>
+              <unittitle>One print depicting Harry Bridges on a picket line, San Francisco, <unitdate calendar="gregorian" era="ce" normal="1902/1994">n.d.</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.11.3.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">18 : 4</container>
+              <unittitle>Two prints depicting Pavel Thalman, and one print depicting Pavel and Clara Thalman, <unitdate calendar="gregorian" era="ce" normal="1902/1994">n.d.</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.11.3.4" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">18 : 5</container>
+              <unittitle>One framed print depicting Maximilien Rubel, <unitdate calendar="gregorian" era="ce" normal="1902/1994">n.d.</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.11.3.5" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">18 : 6</container>
+              <unittitle>Three prints depicting Pierre Lanneret at a party in honor of his retirement from the San Francisco Newspaper Co., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1984">1984</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.7.11.4" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">18 : 7</container>
+            <unittitle>Poster, <unitdate calendar="gregorian" era="ce" normal="1902/1994">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Visual aid showing the locations of the artillery positions of the Paris Commune, 1871, prepared by Lanneret for a lecture on the subject of the Commune</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.11.5" level="file">
+          <did>
+            <unittitle>Serial issues, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1902/1968">1902-1968</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copies</p>
+          </scopecontent>
+          <c03 id="c03-1.7.7.11.5.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">18 : 8</container>
+              <unittitle><emph render="underline">Le pioupiou de l'Yonne</emph>, no. 4, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1902">1902</unitdate>; no. 2, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1904">1904</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.11.5.4" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">18 : 9</container>
+              <unittitle><emph render="underline">Action</emph>, nos. 3, 5, 8-9, 11-14, 16-17, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1968">1968</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Published by the Service des Comit&#xE9;s d'Action during the student and worker revolt in France, 1968 May-June</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.11.5.5" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">18 : 10</container>
+              <unittitle><emph render="underline">L'Express</emph>, unnumbered supplement, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1968">1968</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Special issue relating to the May 1968 revolt in France</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.11.5.6" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">18 : 11</container>
+              <unittitle><emph render="underline">France-soir</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1968-05-12/1968-05-13">1968 May 12-13</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Special issue devoted to rioting in the Latin Quarter in Paris</p>
+            </scopecontent>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

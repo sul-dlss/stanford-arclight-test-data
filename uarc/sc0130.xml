@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[George E. Crothers papers])//EN"
+             identifier="ark:/13030/kt3m3nf2c0">sc0130.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the George E.Crothers Papers
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Crothers (George E.) Papers</titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2010-10">October 2010</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC0130</unitid>
+         <origination label="Creator:">
+            <persname rules="aacr" source="ingest">Crothers, George E. (George Edward), 1870-1957.</persname>
+         </origination>
+         <unittitle label="Title:">George E. Crothers papers</unittitle>
+         <unitdate normal="1905/1957"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1905-1957</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>16.5 Linear feet</extent>
+         </physdesc>
+         <abstract label="Summary:">Correspondence (1905-1957), speeches, articles, legal documents, photographs, newsclippings and scrapbooks. Major subjects include Stanford University, Republican Party activities (1909-1930), California State Normal Schools, United States monetary policy and U.S. relations with the Republic of China (1920-1940). Correspondents include persons prominent in educational and political affairs in the U.S. as well as many leading California lawyers and educators. Also includes correspondence between Crothers and his brother T. G. Crothers relating to Stanford Board of Trustees matters and University legal problems, minutes of the Board (April 1905, May-June 1907), a typescript description of the founding grant and an anonymous diary (1895-1902).</abstract>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <descgrp type="provenance" id="prov">
+            <head>Provenance</head>
+            <acqinfo id="ref3">
+               <p>Gift of George Crothers to the Stanford Library, 1962; transferred to University Archives, 1975.</p>
+            </acqinfo>
+         </descgrp>
+         <accessrestrict id="ref4">
+            <head>Information about Access</head>
+            <p>This collection is open to researchers with permission of the Stanford University Archives.</p>
+         </accessrestrict>
+         <userestrict id="ref5">
+            <head>Ownership &amp; Copyright</head>
+            <p>All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Special Collections and University Archives, Stanford University Libraries, Stanford, California 94304-6064. Consent is given on behalf of Special Collections as the owner of the physical items and is not intended to include or imply permission from the copyright owner. Such permission must be obtained from the copyright owner, heir(s) or assigns. See: http://library.stanford.edu/depts/spc/pubserv/permissions.html.</p>
+            <p>Restrictions also apply to digital representations of the original materials. Use of digital files is restricted to research and educational purposes.</p>
+         </userestrict>
+         <prefercite id="ref6">
+            <head>Cite As</head>
+            <p>George E. Crothers Papers (SC0130). Department of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+         <separatedmaterial id="ref99">
+            <head>Separated Materials</head>
+            <p>Five framed items were labelled and shelved with the picture collection in the Department of Special Collections:</p>
+            <list numeration="arabic" type="ordered">
+               <item>Photograph or Painting of Jane L. Stanford</item>
+               <item>Photograph or Painting of George Crothers</item>
+               <item>Photograph or Painting of Thomas G. Crothers</item>
+               <item>Printed note to Crothers from student residents of Crothers Hall, Nov. 17, 1951</item>
+               <item>Letter from Herbert Hoover, copies of which can be found in the Crothers Papers (in "Related correspondence," filed under "Hoover")</item>
+            </list>
+            <p>These five items were removed in 1962 at the time the collection was first arranged.</p>
+            <p>In May 1966 Ralph Hansen removed all the Trustee Minutes from the collection (formerly in boxes 17 and 18). These Minutes were added to the group of Trustee Minutes in the University Archives (#1011). Rather than renumber the rest of the boxes in the collection, a note simply was made that Boxes 17 and 18 no longer existed. (For an exact list of the Minutes transferred, see the original 1962 Register filed in the "Crothers" correspondence file in the general files of University Archives.)</p>
+         </separatedmaterial>
+      </descgrp>
+      <bioghist id="ref7">
+         <head>Biographical/Historical Sketch</head>
+         <p>Judge and member of the Stanford Board of Trustees (1902-1912). He served as attorney to Jane Lathrop Stanford and was part donor of two graduate dormitories at Stanford University.</p>
+         <chronlist>
+            <chronitem>
+               <date>1870</date>
+               <eventgrp>
+                  <event>Born (May 27), Wapello, Iowa; son of John and Margaret Jane (Fair) Crothers.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1883</date>
+               <eventgrp>
+                  <event>Family moved to San Jose, California. Crothers attends San Jose HighSchool.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1895</date>
+               <eventgrp>
+                  <event>Received A.B., Stanford University (in "Pioneer Class").</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1896</date>
+               <eventgrp>
+                  <event>Received A.M. (in law), Stanford University. Admitted to California Bar.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1897</date>
+               <eventgrp>
+                  <event>Formed partnership With brother in San Francisco law practice.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1898</date>
+               <eventgrp>
+                  <event>Retained by Mrs. Jane Stanford to write amendment to California State Constitution for purpose of reducing tax burden on University.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1899</date>
+               <eventgrp>
+                  <event>Began serving as attorney in Fair Trust case (to 1902). Became president, General Alumni Association of Stanford University. Elected to membership, Golden Gate Commandery # 16, Masonic order. Received Order of Red Cross, Masonic order.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1900</date>
+               <eventgrp>
+                  <event>Received Order of Temple, Masonic order.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1902</date>
+               <eventgrp>
+                  <event>Became first alumnus to serve on Stanford Univ. Board of Trustees.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1904</date>
+               <eventgrp>
+                  <event>Formulated By-Laws &amp; Rules of Order for board of trustees. Devised articles of faculty organization adopted by board of trustees, March 31, 1904</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1905</date>
+               <eventgrp>
+                  <event>Acted as attorney for board of trustees on death of Jane Stanford. Recomnended establishment of Jewel Fund for acquisition of library books for Stanford University. As chairman, committee on medical education, brought about association of Cooper Medical College with Stanford University.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1909</date>
+               <eventgrp>
+                  <event>Became chairman, independent Republican movement, San Francisco. Represented Theodore Roosevelt in urging California Governor &amp; legislators not to undertake land legislation against Orientals.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1911</date>
+               <eventgrp>
+                  <event>Married Elizabeth Mills (March 23). Became chairman, Board of Trustees, San Francisco State Normal School. (to 1921)</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1912</date>
+               <eventgrp>
+                  <event>Became chairman, Republican County Committee (to 1913).</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1913</date>
+               <eventgrp>
+                  <event>Appointed judge of Superior Court of San Francisco.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1915</date>
+               <eventgrp>
+                  <event>Elected to succeed himself on bench by highest vote ever accorded by San Francisco Bar Association.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1916</date>
+               <eventgrp>
+                  <event>Resigned as chairman of Republican County Committee.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1919</date>
+               <eventgrp>
+                  <event>Served as presiding judge of Superior Court.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1920</date>
+               <eventgrp>
+                  <event>Wife, Elizabeth, died (August 18).</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1921</date>
+               <eventgrp>
+                  <event>Returned to active practice of law.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1924</date>
+               <eventgrp>
+                  <event>Made a summer tour of Europe.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1932</date>
+               <eventgrp>
+                  <event>Published article, "Outline of History of Founding of Stanford University".</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1933</date>
+               <eventgrp>
+                  <event>Delivered speech, "Educational Ideals of Jane Lathrop Stanford"</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1946</date>
+               <eventgrp>
+                  <event>Announced he would help to finance building of graduate dormitory for law students to be called "Crothers Hall"•</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1948</date>
+               <eventgrp>
+                  <event>Completion and dedication of Crothers Hall.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1951</date>
+               <eventgrp>
+                  <event>Two new wings added to Crothers Hall.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1953</date>
+               <eventgrp>
+                  <event>Announced he would help to finance building of graduate dormitory for engineering students to be dedicated to his mother, Margaret Jane Fair Crothers, and to be called "Crothers Memorial Hall".</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1955</date>
+               <eventgrp>
+                  <event>Completion and dedication of Crothers Memorial Hall.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1957</date>
+               <eventgrp>
+                  <event>Died, May 16.</event>
+               </eventgrp>
+            </chronitem>
+         </chronlist>
+         <p>Memberships: California Historical Society, American Law Institute, American Political Science Association, Schoolmaster's Club of California, Stanford Faculty Club, Commercial Club, Commonwealth Club, Marin Country Club, Pacific Union Club, University Club of San Francisco, Monterey Peninsula Country Club, American Historical Association, Sigma Nu, Phi Delta Phi, Burlingame Country Club, San Francisco Opera Guild, American Geographic Society.</p>
+         <p>Honorary trustee, San Francisco Boys Club.</p>
+         <p>Director, Western States Life Insurance Company.</p>
+         <p>Life trustee, Leland Stanford Junior Kindergarten Trust.</p>
+         <p>For further reference see Container # 13 for biographical data concerning George Crothers.</p>
+      </bioghist>
+      <scopecontent id="ref11">
+         <head>Description of the Collection</head>
+         <p>The Crothers Papers contain George Crothers' correspondence dated from 1905-1957. The bulk of the outgoing correspondence was written between 1930 and 1955. The collection also includes manuscript and typescript copies of Crothers' speeches, articles, legal documents, photographs, newsclippings and scrapbooks and memoranda, as well as printed matter collected by Crothers.</p>
+         <p>Of primary interest are Crothers' writings on his alma mater, Stanford University, which he served as attorney for Jane Stanford, as member of the university 's Board of Trustees, and as part-donor of two graduate dormitories. The collection also includes materials concerning United States relations with the Republic of China, c. 1920-1940; Republican party activities, c. 1909-1930; California State Normal Schools; and United States economic affairs and monetary policy, c. 1920-40.</p>
+         <p>Correspondents include persons prominent in educational and political affairs in the United States, as well as a large number of leading California lawyers and educators. Also includes correspondence between Crothers and his brother T. G. Crothers relating to Stanford Board of Trustees matters and University legal problems, minutes of the Board (April 1905, May-June 1907), a typescript description of the founding grant and an anonymous diary (1895-1902).A partial list of the correspondents is included in the Register.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <persname rules="aacr" source="ingest">Abbott, Nathan, 1854-1941</persname>
+         <persname rules="aacr" source="ingest">Boynton, Albert E.</persname>
+         <persname rules="aacr" source="ingest">Burk, Frederic, 1862-1924.</persname>
+         <persname rules="aacr" source="ingest">Carpenter, Thomas P.</persname>
+         <persname rules="aacr" source="ingest">Chandler, Harry.</persname>
+         <persname rules="aacr" source="ingest">Considine, John W.</persname>
+         <persname rules="aacr" source="ingest">Coolidge, Calvin, 1872-1933.</persname>
+         <persname rules="aacr" source="naf">Cowley, W. H. (William Harold), 1899-1978</persname>
+         <persname rules="aacr" source="ingest">Crothers, George E. (George Edward), 1870-1957.</persname>
+         <persname rules="aacr" source="naf">Cubberley, Ellwood Patterson, 1868-1941</persname>
+         <persname rules="aacr" source="ingest">Cutler, Leland W. (Leland Whitman), 1885-1959.</persname>
+         <persname rules="aacr" source="ingest">Dailey, M. E.</persname>
+         <persname rules="aacr" source="naf">Davis, Horace, 1831-1916</persname>
+         <persname rules="aacr" source="ingest">Dern, George T.</persname>
+         <persname rules="aacr" source="ingest">Dinkelspiel, Lloyd W.</persname>
+         <persname rules="aacr" source="ingest">Downs, Winfield Scott, 1895-</persname>
+         <persname rules="aacr" source="ingest">Dunn, Francis.</persname>
+         <persname rules="aacr" source="ingest">Edwards, Paul C.,  (Paul Carroll), 1882-1962.</persname>
+         <persname rules="aacr" source="ingest">Eells, Walter C.</persname>
+         <persname rules="aacr" source="naf">Elliott, Orrin Leslie, 1860-1940</persname>
+         <persname rules="aacr" source="ingest">Eurich, Alvin C.,  (Alvin Christian), 1902-1987.</persname>
+         <persname rules="aacr" source="ingest">French, Will J. (Will John), b. 1871</persname>
+         <persname rules="aacr" source="ingest">Fuller, W. Palmer.</persname>
+         <persname rules="aacr" source="ingest">Gerberding, Elizabeth.</persname>
+         <persname rules="aacr" source="ingest">Gunst, Morgan.</persname>
+         <persname rules="aacr" source="ingest">Hassett, William D., 1880-1965.</persname>
+         <persname rules="aacr" source="ingest">Hayes, J. O.</persname>
+         <persname rules="aacr" source="naf">Hoover, Herbert, 1874-1964</persname>
+         <persname rules="aacr" source="ingest">Hopkins, Timothy, 1859-1937.</persname>
+         <persname rules="aacr" source="ingest">Howe, Louis M. (Louis McHenry), 1871-1936.</persname>
+         <persname rules="aacr" source="ingest">Hughes, Charles Evans, 1862-1948.</persname>
+         <persname rules="aacr" source="naf">James, William, 1842-1910</persname>
+         <persname rules="aacr" source="naf">Johnson, Hiram, 1866-1945</persname>
+         <persname rules="aacr" source="ingest">Jones, Herbert C. (Herbert Coffin), 1881-1970.</persname>
+         <persname rules="aacr" source="naf">Jordan, David Starr, 1851-1931</persname>
+         <persname rules="aacr" source="naf">Keesling, Francis V. (Francis Valentine), 1877-1963</persname>
+         <persname rules="aacr" source="ingest">Kefauver, Grayson Neikirk, 1900-1946.</persname>
+         <persname rules="aacr" source="ingest">Kirkwood, Marion.</persname>
+         <persname rules="aacr" source="ingest">Lane, Arthur Bliss.</persname>
+         <persname rules="aacr" source="ingest">Lane, Franklin K.</persname>
+         <persname rules="aacr" source="ingest">Leib, Samuel F. 1848-1924.</persname>
+         <persname rules="aacr" source="ingest">Lillick, Ira.</persname>
+         <persname rules="aacr" source="ingest">Lurie, Louis R.</persname>
+         <persname rules="aacr" source="ingest">MacArthur, Walter.</persname>
+         <persname rules="aacr" source="ingest">Morell, George, 1786-1845.</persname>
+         <persname rules="aacr" source="ingest">Neylan, John Francis.</persname>
+         <persname rules="aacr" source="ingest">Norman, R. S.</persname>
+         <persname rules="aacr" source="ingest">Older, Fremont, Mrs., 1875-1968</persname>
+         <persname rules="aacr" source="ingest">Osborne, George.</persname>
+         <persname rules="aacr" source="ingest">Reid, Whitelaw, 1837-1912.</persname>
+         <corpname rules="dacs" source="ingest">Republican Party (U.S.)</corpname>
+         <persname rules="aacr" source="naf">Robinson, Edgar Eugene, 1887-1977</persname>
+         <persname rules="aacr" source="ingest">Rogers, Frederick Rand, 1894-</persname>
+         <persname rules="aacr" source="ingest">Roseberry, L. H.</persname>
+         <persname rules="aacr" source="ingest">Shortridge, Samuel Morgan, b. 1861.</persname>
+         <persname rules="aacr" source="ingest">Simpson, Sidney Post, 1898-1949.</persname>
+         <persname rules="aacr" source="naf">Sinclair, Upton, 1878-1968</persname>
+         <persname rules="aacr" source="ingest">Spaeth, Carl B.</persname>
+         <persname rules="aacr" source="ingest">Spreckels, Rudolph.</persname>
+         <persname rules="aacr" source="ingest">Sproul, Robert Gordon.</persname>
+         <corpname rules="dacs" source="ingest">Stanford University. Board of Trustees.</corpname>
+         <corpname rules="dacs" source="ingest">Stanford University. Crother's Hall.</corpname>
+         <persname rules="aacr" source="lcnaf">Stanford, Jane Lathrop, 1828-1905.</persname>
+         <persname rules="aacr" source="ingest">Stanford, Thomas Welton, 1832-1918.</persname>
+         <persname rules="aacr" source="ingest">Stephens, William D.</persname>
+         <persname rules="aacr" source="naf">Sterling, J. E. Wallace,  (John Ewart Wallace), 1906-1985</persname>
+         <persname rules="aacr" source="ingest">Stone, Harlan Fiske, 1872-1946.</persname>
+         <persname rules="aacr" source="ingest">Swain, Robert E. (Robert Eccles), 1875-1961.</persname>
+         <persname rules="aacr" source="naf">Terman, Frederick Emmons, 1900-1982</persname>
+         <persname rules="aacr" source="naf">Tresidder, Donald Bertrand, 1894-1948</persname>
+         <persname rules="aacr" source="ingest">Warren, Earl, 1891-1974.</persname>
+         <persname rules="aacr" source="ingest">White, Andrew Dickson,, 1832-1918.</persname>
+         <persname rules="aacr" source="ingest">Wilbur, Curtis D.</persname>
+         <persname rules="aacr" source="naf">Wilbur, Ray L.,  (Ray Lyman), 1875-1949</persname>
+         <genreform source="aat">Articles.</genreform>
+         <geogname source="lcsh">China--Foreign relations--United States</geogname>
+         <occupation source="lcsh">Judges.</occupation>
+         <occupation source="lcsh">Lawyers.</occupation>
+         <subject source="LCSH">Monetary policy --United States.</subject>
+         <genreform source="aat">Newsclippings.</genreform>
+         <genreform source="aat">Photoprints.</genreform>
+         <genreform source="aat">Scrapbooks</genreform>
+         <genreform source="aat">Speeches.</genreform>
+         <geogname source="lcsh">United States--Foreign relations</geogname>
+         <geogname source="lcsh">United States--Foreign relations--China</geogname>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.6">
+         <head>Collection Contents</head>
+         <c01 id="ref12" level="series">
+            <did>
+               <unitid>Series I</unitid>
+               <unittitle>Correspondence</unittitle>
+            </did>
+            <scopecontent>
+               <p>Boxes 1-4. Outgoing correspondence. Yellow tabs; in 95 folders. Letters of George Crothers; arranged chronologically, April, 1905- April, 1957.</p>
+               <p>Boxes 5-8. Incoming correspondence. Blue tabs; in 95 folders. Letters to George Crothers; arranged alphabetically by author of item and chronologically under each signer.</p>
+               <p>Box 8. Related correspondence. Red tabs; in 12 folders. Letters neither sent by Crothers nor sent to him. Filed alphabetically by author of item.</p>
+               <p>Box 9. Form letters. White tabs; in 13 folders. Mimeographed, dittoed or printed letters received by Crothers although not directed to Crothers alone. Filed alphabetically by author of item or by title of company, etc.</p>
+               <p>Boxes 9-12. Multiple copies of outgoing correspondence. Yellow tabs marked "copies"; in 73 folders. These letters are merely duplicates of letters found in Containers #l-4</p>
+               <p>Box 12. Multiple copies of incoming correspondence. Blue tabs marked "copies"; in 15 folders. These letters are merely duplicates of letters found in Containers #5-8</p>
+               <p>Box 12. Multiple copies of related correspondence. Red tabs marked "copies"; in 4 folders. These letters are merely duplicates of letters in folders with red tabs found in Container #8.</p>
+            </scopecontent>
+            <c02 id="ref13" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Correspondence, out-going.</unittitle>
+                  <unitdate>1905 Apr - 1923 Dec</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref14" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Correspondence, out-going.</unittitle>
+                  <unitdate>1924 Jan - 1939 Dec</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref15" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Correspondence, out-going.</unittitle>
+                  <unitdate>1940 Feb - 1947 Dec</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref16" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Correspondence, out-going.</unittitle>
+                  <unitdate>1948 Jan - 1957 Apr</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref17" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Correspondence, in-coming. A - G</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref18" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Correspondence, in-coming. H - M</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref19" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Correspondence, in-coming. N - Sterling</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref20" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Correspondence, in-coming. Stillman - Z.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref21" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Correspondence, related. A - Y</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref22" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Correspondence, in-coming (form letters) A - Y</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref23" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Correspondence, multiple copies of out-going.</unittitle>
+                  <unitdate>1905-30</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref24" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Correspondence, multiple copies of out- going.</unittitle>
+                  <unitdate>1931-44</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref25" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Correspondence, multiple copies of out-going.</unittitle>
+                  <unitdate>1945-50</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref26" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Correspondence, multiple copies of out-going.</unittitle>
+                  <unitdate>1951-56</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref27" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Correspondence, multiple copies of in-coming. A - Y</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref28" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Correspondence, multiple copies of related. A - W</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref30" level="series">
+            <did>
+               <unitid>Series II</unitid>
+               <unittitle>Biographical Data</unittitle>
+            </did>
+            <scopecontent>
+               <p>White tabs; in 16 folders. Manuscript and typescript material containing biographical data concerning Nathan Abbott, Elizabeth Mills Crothers, George Crothers, William Filmer, Timothy Hopkins, Jane and Leland Stanford, Leland Stanford, Jr. and Ray Lyman Wilbur. Arranged in alphabetical order under the subject personality.</p>
+            </scopecontent>
+            <c02 id="ref31" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Biographical data; Abbott - Willbur.</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref33" level="series">
+            <did>
+               <unitid>Series III</unitid>
+               <unittitle>Speeches</unittitle>
+            </did>
+            <scopecontent>
+               <p>Green tabs; in 68 folders. Manuscript, typescript, and, in a few cases, printed versions of speeches composed by George Crothers, Herbert Hoover, Jane Stanford and others. The speeches are filed first alphabetically by the name of the author-speaker and then chronologically by date of speech. The bulk of the section contains copies of Crothers' speeches between 1907 and 1951. Many speeches concern the founding of Stanford University and the school's early years. See also published addresses included in section entitled "printed matter."</p>
+            </scopecontent>
+            <c02 id="ref34" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Speeches: Branner - Crothers</unittitle>
+                  <unitdate>to 1910</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref35" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <unittitle>Speeches: Crothers</unittitle>
+                  <unitdate>1911-46</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref36" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <unittitle>Speeches: Crothers - Stanford, Jane</unittitle>
+                  <unitdate>1948 - undated</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref38" level="series">
+            <did>
+               <unitid>Series IV</unitid>
+               <unittitle>Articles</unittitle>
+            </did>
+            <scopecontent>
+               <p>Red tabs; in 20 folders. Manuscript and typescript copies of articles by Crothers and others. Filed alphabetically by author and then chronologically by year of the article. Eight folders contain various drafts, copies and outlines of an article by Crothers on the legal history surrounding the early years of Stanford University.</p>
+            </scopecontent>
+            <c02 id="ref39" level="file">
+               <did>
+                  <container type="Box">16</container>
+                  <unittitle>Articles: Crothers - Smith</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref41" level="series">
+            <did>
+               <unitid>Series V</unitid>
+               <unittitle>Stanford University Board of Trustees. Transactions.</unittitle>
+            </did>
+            <scopecontent>
+               <p>Blue tabs; in 28 folders. Manuscript and typescript versions of memoranda, committee reports, lists of degrees, etc., pertinent to the work of the Stanford Board of Trustees during the years from 1903 to 1912. Arranged alphabetically by the subject of the material. A large bulk of the section deals with data collected by Crothers and compiled in 1908 as a study of entrance requirements in colleges and universities throughout the United States.</p>
+            </scopecontent>
+            <c02 id="ref42" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <unittitle>Stanford Board of Trustees transactions.</unittitle>
+               </did>
+               <scopecontent>
+                  <p>Subjects covered: Alumni - Stanford, Jane.</p>
+               </scopecontent>
+            </c02>
+         </c01>
+         <c01 id="ref45" level="series">
+            <did>
+               <unitid>Series VI</unitid>
+               <unittitle>Memoranda regarding Stanford University.</unittitle>
+            </did>
+            <scopecontent>
+               <p>Orange tabs; in 52 folders. Manuscript and typescript versions of memoranda written by Crothers and others concerning Stanford University. Arranged alphabetically by subject. Contains reminiscenses concerning campus life, notes on religion at Stanford, and financial data and notes on Crothers and Crothers Memorial Halls.</p>
+            </scopecontent>
+            <c02 id="ref46" level="file">
+               <did>
+                  <container type="Box">20</container>
+                  <unittitle>Stanford University, memoranda re.</unittitle>
+               </did>
+               <scopecontent>
+                  <p>Subjects covered: Administration - Founding Grant.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref48" level="file">
+               <did>
+                  <container type="Box">21</container>
+                  <unittitle>Stanford University, memoranda re.</unittitle>
+               </did>
+               <scopecontent>
+                  <p>Subjects covered: Harrison, Benjamin - Tuition.</p>
+               </scopecontent>
+            </c02>
+         </c01>
+         <c01 id="ref51" level="series">
+            <did>
+               <unitid>Series VII</unitid>
+               <unittitle>General Memoranda.</unittitle>
+            </did>
+            <scopecontent>
+               <p>Green tabs; in 15 folders. Manuscript or typescript versions of memoranda written by or collected by George Crothers. Arranged alphabetically by subject. Folder #11 contains office memoranda. Folders #12-#15 contain fragmentary memoranda.</p>
+            </scopecontent>
+            <c02 id="ref52" level="file">
+               <did>
+                  <container type="Box">21</container>
+                  <unittitle>General memoranda.</unittitle>
+               </did>
+               <scopecontent>
+                  <p>Subjects covered: Education - US political affairs.</p>
+               </scopecontent>
+            </c02>
+         </c01>
+         <c01 id="ref55" level="series">
+            <did>
+               <unitid>Series VIII</unitid>
+               <unittitle>Organizational Data.</unittitle>
+            </did>
+            <scopecontent>
+               <p>Yellow tabs; in 13 folders. Manuscript and typescript material re. organizations to which Crothers belonged. Arranged alphabetically by type of data (e.g., legislation, minutes).</p>
+            </scopecontent>
+            <c02 id="ref56" level="file">
+               <did>
+                  <container type="Box">22</container>
+                  <unittitle>Organization data</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref58" level="series">
+            <did>
+               <unitid>Series IX</unitid>
+               <unittitle>Legal Material.</unittitle>
+            </did>
+            <scopecontent>
+               <p>White tabs; in 16 folders. Manuscript and typescript data of a strictly legal nature. Arranged alphabetically by type of document (e.g., case studies, leases). Most of the documents in this section concern Stanford University. Included is a photostatic copy of Jane Stanford's will.</p>
+            </scopecontent>
+            <c02 id="ref59" level="file">
+               <did>
+                  <container type="Box">22</container>
+                  <unittitle>legal material</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref61" level="series">
+            <did>
+               <unitid>Series X</unitid>
+               <unittitle>Extracts.</unittitle>
+            </did>
+            <scopecontent>
+               <p>Orange tabs; in 21 folders. Manuscript and typescript excerpts from various books, documents, speeches, etc., written by Crothers and others. Arranged alphabetically by type of data (e.g., books) from which excerpts are drawn.</p>
+            </scopecontent>
+            <c02 id="ref62" level="file">
+               <did>
+                  <container type="Box">23</container>
+                  <unittitle>Extracts</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref64" level="series">
+            <did>
+               <unitid>Series XI</unitid>
+               <unittitle>Miscellaneous Data.</unittitle>
+            </did>
+            <scopecontent>
+               <p>Green tabs; in 18 folders. Material of a miscellaneous nature. Includes bills, receipts, certificates, etc.</p>
+            </scopecontent>
+            <c02 id="ref65" level="file">
+               <did>
+                  <container type="Box">23</container>
+                  <unittitle>Miscellaneous data</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref67" level="series">
+            <did>
+               <unitid>Series XII</unitid>
+               <unittitle>Plans &amp; Designs.</unittitle>
+            </did>
+            <scopecontent>
+               <p>Yellow tabs; in 13 folders. Various architectural plans and artistic designs. Filed alphabetically by type of data. The bulk of the section contains designs for Crothers Hall and Crothers Hemorial Hall at Stanford University.</p>
+            </scopecontent>
+            <c02 id="ref68" level="file">
+               <did>
+                  <container type="Box">24</container>
+                  <unittitle>Architectural plans and designs.</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref70" level="series">
+            <did>
+               <unitid>Series XIII</unitid>
+               <unittitle>Photographs.</unittitle>
+            </did>
+            <scopecontent>
+               <p>Red tabs; in 21 folders. First 8 folders contain photographic portraits and snapshots with one person as subject. Filed alphabetically by name of subject. Folders #9-12 contain photographs of large groups or snapshots at memorable occasions. Filed chronologically by date of photo. Folders #13-19 contain general photographs and pictures of landscapes and buildings. Filed alphabetically by subject of photograph. In the last section much of the material concerns Crothers Hall and Crothers Memorial Hall. Folder #20 contains miscellaneous negatives.</p>
+            </scopecontent>
+            <c02 id="ref71" level="file">
+               <did>
+                  <container type="Box">24</container>
+                  <unittitle>Personal photographs</unittitle>
+               </did>
+               <scopecontent>
+                  <p>Arranged alphabetically by subject: Crothers - Stanford.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref73" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <unittitle>Group photographs; general photographs; negatives</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref75" level="series">
+            <did>
+               <unitid>Series XIV</unitid>
+               <unittitle>Newspaper Clippings.</unittitle>
+            </did>
+            <scopecontent>
+               <p>Blue tabs; in 38 folders. Divided into two sections: 1) clippings re Stanford University, 2) general clippings. All of the clippings are arranged alphabetically by subject.</p>
+            </scopecontent>
+            <c02 id="ref76" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <unittitle>Newspaper clippings re. Stanford University.</unittitle>
+               </did>
+               <scopecontent>
+                  <p>Subjects, arranged alphabetically: Administration - Presidents.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref78" level="file">
+               <did>
+                  <container type="Box">26</container>
+                  <unittitle>Newspaper clippings re. Stanford University.</unittitle>
+               </did>
+               <scopecontent>
+                  <p>Subjects, arranged alphabetically: Religion - student affairs.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref80" level="file">
+               <did>
+                  <container type="Box">26</container>
+                  <unittitle>Newspaper clippings on general subjects.</unittitle>
+               </did>
+               <scopecontent>
+                  <p>Subjects, arranged alphabetically: California - World Affairs.</p>
+               </scopecontent>
+            </c02>
+         </c01>
+         <c01 id="ref83" level="series">
+            <did>
+               <unitid>Series XV</unitid>
+               <unittitle>Printed Matter.</unittitle>
+            </did>
+            <scopecontent>
+               <p>Orange tabs. Folders are not numbered consecutively, because material is often too large to permit storage in file folders.</p>
+               <p>Box 27. Books, booklets, bound articles,legal data.</p>
+               <p>Box 28. Unbound articles, published addresses, directories, reports, pamphlets.</p>
+               <p>Box 29. Periodicals, magazines, bulletins.</p>
+               <p>Box 30. Commemorative data (e.g., programs, invitations) and miscellaneous.</p>
+            </scopecontent>
+            <c02 id="ref84" level="file">
+               <did>
+                  <container type="Box">27</container>
+                  <unittitle>Printed matter: Books, booklets, bound articles, legal data.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref85" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>Printed matter: unbound articles, addresses, pamphlets, directories.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref86" level="file">
+               <did>
+                  <container type="Box">29</container>
+                  <unittitle>Printed matter: periodicals, magazines, bulletins.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref87" level="file">
+               <did>
+                  <container type="Box">30</container>
+                  <unittitle>Printed matter: commemorative data and newspapers.</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref89" level="series">
+            <did>
+               <unitid>Series XVI</unitid>
+               <unittitle>Scrapbooks &amp; Albums.</unittitle>
+            </did>
+            <scopecontent>
+               <p>This material is not boxed. Container numbers run consecutively from one bound volume to the next.</p>
+            </scopecontent>
+            <c02 id="ref90" level="file">
+               <did>
+                  <container type="Box">31</container>
+                  <unittitle>Scrapbook of miscellaneous news clippings</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref91" level="file">
+               <did>
+                  <container type="Box">32</container>
+                  <unittitle>Scrapbook containing clippings of "The Story of Stanford University"</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref92" level="file">
+               <did>
+                  <container type="Box">33</container>
+                  <unittitle>Scrapbook containing further clippings of "The Story of Stanford University"</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref93" level="file">
+               <did>
+                  <container type="Box">34</container>
+                  <unittitle>Album of photographs concerning the construction of Crothers Hall</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref94" level="file">
+               <did>
+                  <container type="Box">35</container>
+                  <unittitle>Notebook containing photostatic copy of memoirs concerning Battle of Santiago, 1898</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref96" level="series">
+            <did>
+               <unitid>Series XVII</unitid>
+               <unittitle>Oversized Materials.</unittitle>
+            </did>
+            <c02 id="ref97" level="file">
+               <did>
+                  <container type="Box">36</container>
+                  <unittitle>Wrapped package</unittitle>
+               </did>
+               <scopecontent>
+                  <p>Stored in wrapping paper. Contains printed copies of 1) Statute for Permanent Court of International Justice, 2) "The Christmas Wasp"; photographs of G. E. Crothers, Herbert Hoover, Charles G. Lathrop, David Starr Jordan, George Osborne and Crothers Hall; various awards and certificates.</p>
+               </scopecontent>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

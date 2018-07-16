@@ -1,0 +1,628 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  
+  
+  
+  
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" repositoryencoding="iso15511" findaidstatus="unverified-full-draft" langencoding="iso639-2b"><eadid countrycode="us" identifier="ark:/13030/kt7489p6qd" mainagencycode="CSt-H" publicid="PUBLIC &quot;-//Stanford University::Hoover Institution Archives//TEXT&#10;(US::CSt-H::::Sergei Stepanovich Chazov Papers)//EN&quot; &quot;chazov.xml&quot;&#10;">chazov.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Register of the Sergei Stepanovich Chazov Papers</titleproper><titleproper type="filing">Chazov (Sergei Stepanovich) Papers</titleproper>
+        <author>Prepared by Anatol Shmelev</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Hoover Institution Archives</publisher>
+        <address>
+          <addressline>Stanford University</addressline>
+          <addressline>Stanford, California 94305-6010</addressline>
+          <addressline>Phone: (650) 723-3563</addressline>
+          <addressline>Fax: (650) 725-3445</addressline>
+          <addressline>Email: hooverarchives@stanford.edu</addressline>
+        </address>
+        <date calendar="gregorian" era="ce">&#xA9; 2003</date>
+        <p>Hoover Institution Archives. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc><profiledesc>
+      <creation>Machine-readable finding aid created by OAC finding aid conversion service.
+Date of source: <date calendar="gregorian" era="ce">2000.</date></creation>
+      <langusage encodinganalog="546">Description is in <language langcode="eng" scriptcode="latn">English</language></langusage>
+    </profiledesc><revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20110321">March 21, 2011</date>
+        <item>revised to update encoding and add unitid</item>
+      </change>
+
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//Stanford University::Hoover Institution Archives//TEXT
+(US::CSt-H::::Sergei Stepanovich Chazov Papers)//EN" "chazov.xml"
+ converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Register of the Sergei Stepanovich Chazov Papers</titleproper>
+      <publisher>Hoover Institution Archives
+<lb/>Stanford University
+<lb/>Stanford, California</publisher>
+      <list type="simple">
+        <head>Contact Information</head>
+        <item>Hoover Institution Archives</item>
+        <item>Stanford University</item>
+        <item>Stanford, California 94305-6010</item>
+        <item>Phone: (650) 723-3563</item>
+        <item>Fax: (650) 725-3445</item>
+        <item>Email: hooverarchives@stanford.edu</item>
+      </list>
+      <list type="deflist">
+        <defitem>
+          <label>Prepared by:</label>
+          <item>Anatol Shmelev</item>
+        </defitem>
+        <defitem>
+          <label>Date Completed:</label>
+          <item>2000</item>
+        </defitem>
+        <defitem>
+          <label>Encoded by:</label>
+          <item>ByteManagers using OAC finding aid conversion service specifications</item>
+        </defitem>
+      </list>
+      <p>&#xA9; 2003 Hoover Institution Archives. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection">
+    <did id="did-1.7.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">Sergei Stepanovich Chazov papers, </unittitle>
+	<unitdate calendar="gregorian" era="ce" type="inclusive" normal="1944/1957">1944-1957</unitdate>
+      <unitid label="Collection number" repositorycode="CSt-H" countrycode="US">2000C100</unitid>
+      <origination encodinganalog="100" label="Creator">
+        <persname source="aacr2">Chazov, Sergei Stepanovich</persname>
+      </origination>
+      <physdesc encodinganalog="300" label="Extent">
+        <extent>5 microfilm reels.</extent>
+		<extent>(0.75 linear feet)</extent>
+	</physdesc>
+      <repository label="Repository">
+        <corpname source="lcnaf">Hoover Institution on War, Revolution, and Peace</corpname>
+        <address>
+          <addressline>Stanford, California 94305-6010</addressline>
+        </address>
+      </repository>
+      <abstract label="Abstract" encodinganalog="520">Play scripts, and lists of Russian refugees evacuated from China.</abstract>
+	<physloc label="Physical Location">Hoover Institution Archives</physloc>
+      <langmaterial label="Language">
+        <language langcode="rus">Russian.</language>
+      </langmaterial>
+    </did>
+    <descgrp id="descgrp-1.7.2" type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict>
+        <head>Access</head>
+        <p>Collection is open for research.</p>
+      </accessrestrict>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>For copyright status, please contact the Hoover Institution Archives.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Sergei Stepanovich Chazov Papers, [Box no.], Hoover Institution Archives.</p>
+      </prefercite>
+      <acqinfo>
+        <head>Acquisition Information</head>
+        <p>Acquired.</p>
+      </acqinfo>
+      <altformavail encodinganalog="535">
+        <head>Location of Originals</head>
+        <p>Originals in: Museum of Russian Culture, San Francisco.</p>
+      </altformavail>
+    </descgrp>
+    <bioghist id="bioghist-1.7.3" encodinganalog="545">
+      <head>Biographical Note</head>
+      <p>Russian-American journalist and playwright.</p>
+    </bioghist>
+    <scopecontent id="scopecontent-1.7.4">
+      <head>Scope and Content Note</head>
+      <p>S. S. Chazov was a playwright and editor of the San Francisco newspaper <emph render="italic">Russkaia zhizn'</emph> in the mid-1950s. The papers contain primarily his plays, as well as rolls of Russian Russians evacuated from China, sent to him as newspaper editor by the World Council of Churches. These rolls are located in the Russian refugees file.</p>
+      <p>Detailed processing and preservation microfilming for these materials were made possible by a generous grant from the National Endowment for the Humanities and by matching funds from the Hoover Institution and Museum of Russian Culture. The grant also provides depositing a microfilm copy in the Hoover Institution Archives. The original materials remain in the Museum of Russian Culture, San Francisco as its property. A transfer table indicating corresponding box and reel numbers is available at the Hoover Institution Archives.</p>
+      <p>The Hoover Institution assumes all responsibility for notifying users that they must comply with the copyright law of the United States (Title 17 United States Code) and Hoover Rules for the Use and Reproduction of Archival Materials.</p>
+    </scopecontent>
+    <controlaccess id="controlaccess-1.7.5">
+      <head>Indexing Terms</head>
+      <p>The following terms have been used to index the description of this collection in the repository's online public access catalog.</p>
+      <controlaccess>
+        <head>Subjects</head>
+        <subject source="lcsh" encodinganalog="650">Russian literature.</subject>
+        <subject source="lcsh" encodinganalog="650">Russians--China.</subject>
+        <subject source="lcsh" encodinganalog="650">Russians--United States.</subject>
+        <subject source="lcsh" encodinganalog="650">Refugees.</subject>
+        <geogname source="lcsh" encodinganalog="651">Russia.</geogname>
+        <geogname source="lcsh" encodinganalog="651">China.</geogname>
+        <geogname source="lcsh" encodinganalog="651">United States.</geogname>
+      </controlaccess>
+    </controlaccess>
+    <dsc id="dsc-1.7.6" type="analyticover">
+      <head>Series Description</head>
+      <c01 id="c01-1.7.6.2" level="series">
+        <did>
+          <container type="Box" label="box">1-5</container>
+          <unittitle>Writings, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1944/1957">1944-1957 and undated</unitdate>.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Plays, screenplays, and operettas, arranged chronologically by title</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.6.3" level="series">
+        <did>
+          <container type="Box" label="box">5</container>
+          <unittitle>Russian Refugees File, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1953/1956">1953-1956</unitdate>.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Rolls of Russian refugees evacuated from China</p>
+        </scopecontent>
+      </c01>
+    </dsc>
+    <dsc id="dsc-1.7.7" type="in-depth">
+      <head>Container List</head>
+      <c01 id="c01-1.7.7.2" level="file">
+        <did>
+          <container type="Box" label="Box">1</container>
+          <unittitle>WRITINGS, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1944/1957">1944-1957 and undated</unitdate>.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Plays, screenplays, and operettas, arranged chronologically by title</p>
+        </scopecontent>
+        <c02 id="c02-1.7.7.2.3" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 1</container>
+            <unittitle>"Nakazannyi Don Zhuan," <unitdate calendar="gregorian" era="ce" normal="1944/1957">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.4" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 2</container>
+            <unittitle>"Okhotniki," <unitdate calendar="gregorian" era="ce" normal="1944/1957">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.5" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 3</container>
+            <unittitle>"Ruka," <unitdate calendar="gregorian" era="ce" normal="1944/1957">n.d.</unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.6" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 4</container>
+            <unittitle>"Dva vystrela," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1944">1944</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.7" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 5</container>
+            <unittitle>"Eliksir molodosti," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1944">1944</unitdate>.
+						</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.8" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 6</container>
+            <unittitle>"Tania," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1944-02">1944 February</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.9" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 7</container>
+            <unittitle>"Kusochek schast'ia," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1944-10">1944 October</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.10" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 8</container>
+            <unittitle>"Prodannyi rebenok," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1944-11">1944 November</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.11" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 9</container>
+            <unittitle>"Tragediia v dramie," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1944-12">1944 December</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.12" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 10</container>
+            <unittitle>"3 druga i chetvertyi Atlant," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1944-12">1944 December</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.13" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 11</container>
+            <unittitle>"Diadiushka iz tetiushei," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1945-01">1945 January</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript and holograph notes and diagrams on stage decorations and make-up</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.14" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 12</container>
+            <unittitle>"Molodye poryvy," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1945-01">1945 January</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.15" level="file">
+          <did>
+            <container type="Box-folder" label="Box/Folder">2 : 1</container>
+            <unittitle>"Sopernitsy," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1945-01">1945 January</unitdate>.
+						</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.16" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 2</container>
+            <unittitle>"Oshibka," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1945-02">1945 February</unitdate>.
+						</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript and diagrams of stage decorations</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.17" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 3</container>
+            <unittitle>"Bielaia ruka," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1945-04">1945 April</unitdate>.
+						</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.18" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 4</container>
+            <unittitle>"K novoi zhizni," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1945-11">1945 November</unitdate>.
+						</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.19" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 5</container>
+            <unittitle>"Kak oni razoshlis'," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1946">1946</unitdate>.
+						</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.20" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 6</container>
+            <unittitle>"Soviest'," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1947-08">1947 August</unitdate>.
+						</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.21" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 7</container>
+            <unittitle>"K novym beregam," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1949">1949</unitdate>.
+						</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.22" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 8</container>
+            <unittitle>"Kogda govorili orudiia," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1949">1949</unitdate>.
+						</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript. Includes English translation entitled "When the Cannons Spoke"</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.23" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 9</container>
+            <unittitle>"Liubov' v universal'nom magazinie," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1949">1949</unitdate>.
+						</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.24" level="file">
+          <did>
+            <container type="Box-folder" label="Box/Folder">3 : 1</container>
+            <unittitle>"Ave Maria," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1949-06">1949 June</unitdate>.
+						</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript. Includes English translation</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.25" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 2</container>
+            <unittitle>"W5," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1950-02">1950 February</unitdate>.
+						</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript. Includes English translation</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.26" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 3</container>
+            <unittitle>"Dva painta krovi," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1950-03">1950 March</unitdate>.
+						</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.27" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 4</container>
+            <unittitle>"Zhit' stalo luchshe... Zhit' stalo veseliei," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1950-04">1950 April</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.28" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 5</container>
+            <unittitle>"Pod serdtsem Gimalaev," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1950-06">1950 June</unitdate>.
+						</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.29" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 6</container>
+            <unittitle>"'Kim Suim': Koreiskaia Mata Khari," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1950-09">1950 September</unitdate>.
+						</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript. Includes English translation</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.30" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 7</container>
+            <unittitle>"Domik za roshchei," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1950-12">1950 December</unitdate>.
+						</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.31" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">3 : 8</container>
+            <unittitle>"Serenada," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1951-06">1951 June</unitdate>.
+						</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.32" level="file">
+          <did>
+            <container type="Box-folder" label="Box/Folder">4 : 1</container>
+            <unittitle>"Operatsiia 'Ke-Em'," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1955-03">1955 March</unitdate>.
+						</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.33" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 2</container>
+            <unittitle>"Ego putevodnaia zvezda," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1955-05">1955 May</unitdate>.
+						</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.34" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 3</container>
+            <unittitle>"Oni za rabotoi," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1955-05">1955 May</unitdate>.
+						</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.35" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 4</container>
+            <unittitle>"Po tu storonu shirmy," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1955-05">1955 May</unitdate>.
+						</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.36" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 5</container>
+            <unittitle>"Printsessa Zaula," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1955-05">1955 May</unitdate>.
+						</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.37" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 6</container>
+            <unittitle>"Kto ubiitsa," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1955-11">1955 November</unitdate>.
+						</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.38" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 7</container>
+            <unittitle>"Pis'mo k Bozhen'ke," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1956-06">1956 June</unitdate>.
+						</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.39" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 8</container>
+            <unittitle>"Gorstochka rodnoi zemli," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1956-07">1956 July</unitdate>.
+						</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.40" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 9</container>
+            <unittitle>"Starye, novye, noveishie," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1956-07">1956 July</unitdate>.
+						</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.41" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 10</container>
+            <unittitle>"Strashno!" <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1956-07">1956 July</unitdate>.
+						</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.42" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 11</container>
+            <unittitle>"Printsessa Meriam," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1956-08">1956 August</unitdate>.
+						</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.43" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 1</container>
+            <unittitle>"Vse sluchaetsia," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1956-08">1956 August</unitdate>.
+						</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.44" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 2</container>
+            <unittitle>"Istoriia s tremia kliuchami," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1956-09">1956 September</unitdate>.
+						</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.45" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 3</container>
+            <unittitle>"Kak oni spasli mir," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1956-09">1956 September</unitdate>.
+						</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.46" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 4</container>
+            <unittitle>"Na putiakh nashei zhizni," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1957">1957</unitdate>.
+						</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.47" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 5</container>
+            <unittitle>"Avantiura -- akt miloserdiia," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1957-05">1957 May</unitdate>.
+						</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.7.3" level="file">
+        <did>
+          <container type="Folder" label="Box/Folder">5 : 6-7</container>
+          <unittitle>RUSSIAN REFUGEES FILE, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1953/1956">1953-1956</unitdate>.
+						</unittitle>
+        </did>
+        <scopecontent>
+          <p>Lists of names of Russians evacuated from China and attached correspondence</p>
+        </scopecontent>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

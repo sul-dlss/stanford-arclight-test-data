@@ -1,0 +1,1250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[Samuel Brooks Morris papers])//EN"
+             identifier="ark:/13030/c8v69h0z">sc0172.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Samuel Brooks Morris Papers
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Morris (Samuel Brooks) Papers</titleproper>
+            <author>Daniel Hartwig &amp; Jenny Johnson</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2010-10">October 2010</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date normal="2012-04">April 2012</date>
+            <item/>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC0172</unitid>
+         <origination label="Creator:">
+            <persname rules="aacr" source="ingest">Morris, Samuel Brooks, 1890-1962.</persname>
+         </origination>
+         <unittitle label="Title:">Samuel Brooks Morris papers</unittitle>
+         <unitdate normal="1934/1940"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1934-1940</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>8 Linear feet (6 boxes)</extent>
+         </physdesc>
+         <abstract label="Summary:">Correspondence, memos, notes, minutes, reports, bulletins, and maps from his work for the National Resources Committee and the National Resources Planning Board pertaining to the water flow of District 11 (Washington, Wyoming, Idaho, Montana, and Northern California). Correspondents include Donald M. Baker and F. H. Fowler.</abstract>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <langmaterial label="Language(s):">The material is in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <descgrp type="provenance" id="prov">
+            <head>Provenance</head>
+            <acqinfo id="ref3">
+               <p>Administrative transfer, School of Engineering, 1977.</p>
+            </acqinfo>
+         </descgrp>
+         <accessrestrict id="ref4">
+            <head>Information about Access</head>
+            <p>This collection is open for research.</p>
+         </accessrestrict>
+         <userestrict id="ref5">
+            <head>Ownership &amp; Copyright</head>
+            <p>All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Special Collections and University Archives, Stanford University Libraries, Stanford, California 94304-6064. Consent is given on behalf of Special Collections as the owner of the physical items and is not intended to include or imply permission from the copyright owner. Such permission must be obtained from the copyright owner, heir(s) or assigns. See: http://library.stanford.edu/depts/spc/pubserv/permissions.html.</p>
+            <p>Restrictions also apply to digital representations of the original materials. Use of digital files is restricted to research and educational purposes.</p>
+         </userestrict>
+         <prefercite id="ref6">
+            <head>Cite As</head>
+            <p>Morris, Samuel Brooks, Papers (SC0172). Department of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+         <separatedmaterial id="ref10">
+            <head>Separated Materials</head>
+            <p>A box of duplicate material has been removed from the collection.</p>
+         </separatedmaterial>
+      </descgrp>
+      <bioghist id="ref7">
+         <head>Biographical/Historical Sketch</head>
+         <p>Professor of civil engineering, Head of Civil Engineering Department (1935-1944) and Dean of the School of Engineering (1936-1945) at Stanford.</p>
+      </bioghist>
+      <scopecontent id="ref8">
+         <head>Description of the Collection</head>
+         <p>Correspondence, memos, notes, minutes, reports, bulletins, and maps from his work for the National Resources Committee and the National Resources Planning Board pertaining to the water flow of District 11 (Washington, Wyoming, Idaho, Montana, and Northern California). Correspondents include Donald M. Baker and F. H. Fowler.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <persname rules="aacr" source="ingest">Baker, Donald M. (Donald McCord), 1890-</persname>
+         <persname rules="aacr" source="ingest">Fowler, Frederick Hall.</persname>
+         <persname rules="aacr" source="ingest">Morris, Samuel Brooks, 1890-1962.</persname>
+         <corpname rules="dacs" source="ingest">Stanford University. Department of Civil Engineering.</corpname>
+         <corpname rules="dacs" source="ingest">Stanford University. School of Engineering. Faculty..</corpname>
+         <corpname rules="dacs" source="ingest">United States. National Resources Committee. District Number Eleven.</corpname>
+         <corpname rules="dacs" source="ingest">United States. National Resources Planning Board.</corpname>
+         <subject source="LCSH">Rivers --Northwest, Pacific.</subject>
+         <subject source="LCSH">Water-supply --Northwest, Pacific.</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.6">
+         <head>Collection Contents</head>
+         <c01 id="ref11" level="series">
+            <did>
+               <unitid>Original Accession</unitid>
+               <unittitle>Papers</unittitle>
+               <unitdate normal="1934/1940" type="inclusive">1934-1940</unitdate>
+            </did>
+            <arrangement>
+               <p>This series contains one sub-series: 1. Reports, 1936-1938.</p>
+            </arrangement>
+            <c02 id="ref19" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">1</container>
+                  <unittitle>NRPB-Water Regimen</unittitle>
+                  <unitdate>1940</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref23" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Water resources committee-NRC Dramag Basin Comm-meeting</unittitle>
+                  <unitdate>1939 Jun 21</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref171" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Weather Bureau</unittitle>
+                  <unitdate>1936</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref72" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Willamette V</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref172" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Willamette 7</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref173" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Willamete VIII</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref174" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Abel Wolman, Water Facilities NRPB</unittitle>
+                  <unitdate>1939-1940</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref33" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Bulletins and instructions</unittitle>
+                  <unitdate>1937-1938</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref175" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">9</container>
+                  <unittitle>WPA Tabulations</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref176" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">10</container>
+                  <unittitle>WPA Working Copy</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref177" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">11</container>
+                  <unittitle>File Copy WPA Programs</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref178" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">12</container>
+                  <unittitle>FROM: WPA and PW</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref179" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Wyoming-Utah</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref180" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">14</container>
+                  <unittitle>NRC Reports</unittitle>
+                  <unitdate>1937</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref181" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">15</container>
+                  <unittitle>Maps</unittitle>
+                  <unitdate>1936</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref182" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">16</container>
+                  <unittitle>Maps</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref183" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">17</container>
+                  <unittitle>Index-Photostat Cards</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref184" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">18</container>
+                  <unittitle>NRC-General Correspondence</unittitle>
+                  <unitdate>1936 May-Nov</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref43" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">19</container>
+                  <unittitle>NRC-General</unittitle>
+                  <unitdate>1937</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref21" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">20</container>
+                  <unittitle>NRPB-3 party agreement (maps, correspondence and info.)</unittitle>
+                  <unitdate>1939-1940</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref185" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">21</container>
+                  <unittitle>Misc. Reports and Correspondence</unittitle>
+                  <unitdate>1936</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref186" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">22</container>
+                  <unittitle>Correspondence</unittitle>
+                  <unitdate>1936 Aug</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref16" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">23</container>
+                  <unittitle>NRC: Eliot; Executive Officer/Drane; Secretary. Correspondence.</unittitle>
+                  <unitdate>1935-1936</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref187" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">24</container>
+                  <unittitle>To Morris in field. Correspondence.</unittitle>
+                  <unitdate>1936</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref188" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">25</container>
+                  <unittitle>Correspondence-Employees</unittitle>
+                  <unitdate>1936</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref189" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">26</container>
+                  <unittitle>Maps and Charts-Miscellaneous</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref190" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">27</container>
+                  <unittitle>Report: Study of the Resources of the Columbia River Basin in Wyoming. Snake River.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref194" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">28</container>
+                  <unittitle>Report: Water Resources of Columbia River Basin in Wyoming. Snake River.</unittitle>
+                  <unitdate>1938-</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref192" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">29</container>
+                  <unittitle>Forest Service Report to Water Regimen Subcommittee. Facilities and Activities Related to Water in Pacific Northwest. Pacific Northwest Forest Experiment Station.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref193" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">30</container>
+                  <unittitle>U.S. Engineer Department. Report on Water Regimen Data for the Pacific Northwest.</unittitle>
+                  <unitdate>1940 Jun 30</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref191" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">31</container>
+                  <unittitle>Correspondence</unittitle>
+                  <unitdate>circa 1940</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref195" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">32</container>
+                  <unittitle>Correspondence</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref253" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Bureau of Reclamation-Abstracts</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref206" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Bureau of Reclamation</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref207" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Bureau of Reclamation</unittitle>
+                  <unitdate>1936</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref58" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Snake River Drainiage, Report on Teton Reservoir and other Dam Sites</unittitle>
+                  <unitdate>1932 Nov</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref208" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Resettlement Administration</unittitle>
+                  <unitdate>1936</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref209" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Snake River Basin (Washington D.C.)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref69" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Snake 4</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref76" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Snake general</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref77" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Snake IV</unittitle>
+                  <unitdate>1936</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref210" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Soil Conservation Service</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref211" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Planning consultants</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref40" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">12</container>
+                  <unittitle>NRC-Washington D.C.</unittitle>
+                  <unitdate>1937-1938</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref212" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">13</container>
+                  <unittitle>NRC-Washington D.C.; Wolman, Eliot, etc.</unittitle>
+                  <unitdate>1938-1939</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref30" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">14</container>
+                  <unittitle>National Resources Planning Board (correspondence and info.)</unittitle>
+                  <unitdate>1939 Jul</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref74" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">15</container>
+                  <unittitle>Wash Pac II</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref67" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">16</container>
+                  <unittitle>Washington Pacific 2</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref213" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">17</container>
+                  <unittitle>Washington Pacific</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref39" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">18</container>
+                  <unittitle>NRC-Washington State</unittitle>
+                  <unitdate>1937</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref214" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">19</container>
+                  <unittitle>Washington State I</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref27" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">20</container>
+                  <unittitle>N.R.C. Washington State Planning Commission Ben Kiser, P. Hetherton, Ross Tiffany, Tyler, (correspondence)</unittitle>
+                  <unitdate>1938-1939 Jun</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref152" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">21</container>
+                  <unittitle>Wash. State-employment (correspondence between C. E. Dorisy, P. Hetherton, Putman, Fowler, etc.)</unittitle>
+                  <unitdate>1935 Nov 1-1936 Sep 11</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref150" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">22</container>
+                  <unittitle>Wash. State II (correspondence between J.D. Ross, P. Hetherton, R.G. Tyler and more)</unittitle>
+                  <unitdate>1936 Aug 4-Nov 30</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref98" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">23</container>
+                  <unittitle>Project list at Washington</unittitle>
+                  <unitdate>1936 Oct</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref215" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Oregon</unittitle>
+                  <unitdate>1938-1939</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref216" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Oregon, State Planning Board</unittitle>
+                  <unitdate>1936</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref217" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Nevada</unittitle>
+                  <unitdate>1936</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref218" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Montana</unittitle>
+                  <unitdate>1935-1936</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref219" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Montana, State Planning Board</unittitle>
+                  <unitdate>1937 Aug-Dec</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref140" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Oregon II (correspondence and Info.)</unittitle>
+                  <unitdate>1936 Sep</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref220" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Oregon-Newspaper Clippings</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref35" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">8</container>
+                  <unittitle>NRC-Oregon</unittitle>
+                  <unitdate>1937</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref75" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Ore Pac III</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref68" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Oregon Pacific 3</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref221" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Oregon-Pacific Basin</unittitle>
+                  <unitdate>1936</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref141" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Oregon III (correspondence)</unittitle>
+                  <unitdate>1936 Oct-Nov</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref142" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Oregon-employment (correspondence)</unittitle>
+                  <unitdate>1936</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref143" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Pacific Northwest Regional (correspondence and info.)</unittitle>
+                  <unitdate>1936</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref144" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">15</container>
+                  <unittitle>P.N.W. Regional II (correspondence)</unittitle>
+                  <unitdate>1936</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref145" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">16</container>
+                  <unittitle>P.N.W. Regional III (correspondence)</unittitle>
+                  <unitdate>1936</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref146" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">17</container>
+                  <unittitle>P.N.W. Regional IV (correspondence)</unittitle>
+                  <unitdate>1936</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref147" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">18</container>
+                  <unittitle>P.N.W. Regional employment (correspondence)</unittitle>
+                  <unitdate>1936</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref222" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">19</container>
+                  <unittitle>Pacific Northwest</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref24" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">20</container>
+                  <unittitle>N.R.C. Land</unittitle>
+                  <unitdate>1939</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref49" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">21</container>
+                  <unittitle>California-Portland + cement assoc.</unittitle>
+                  <unitdate>1936-1937</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref223" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">22</container>
+                  <unittitle>PWA forms</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref56" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">23</container>
+                  <unittitle>Puget Sound</unittitle>
+                  <unitdate>1936</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref66" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">24</container>
+                  <unittitle>Puget Sound 1</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref73" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">25</container>
+                  <unittitle>Puget Sound I</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref84" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">26</container>
+                  <unittitle>Applications-general (job info. applications etc.)</unittitle>
+                  <unitdate>1936</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref159" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">27</container>
+                  <unittitle>Army Engr. reports (correspondence)</unittitle>
+                  <unitdate>1936 Aug-Sep 9</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref224" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">28</container>
+                  <unittitle>Army</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref225" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">29</container>
+                  <unittitle>Army, List of reports on rivers; Agrigultural Engineering, Bureau of (U.S. Department of Agriculture)</unittitle>
+                  <unitdate>1936</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref167" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">30</container>
+                  <unittitle>Baker Library record (misc.)</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref226" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">31</container>
+                  <unittitle>Bessey, Roy F., Pacific Northwest Regional Planning Commission</unittitle>
+                  <unitdate>1397 Aug-Sep</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref227" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Bessey, Roy F., Pacific Northwest Regional Planning Commission</unittitle>
+                  <unitdate>1937 Oct-Nov</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref228" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Bessey, Roy F., Pacific Northwest Regional Planning Commission</unittitle>
+                  <unitdate>1937 Oct-1938 Feb</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref229" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Bessey, Roy F., Pacific Northwest Regional Planning Commission (Folder 1)</unittitle>
+                  <unitdate>1939</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref230" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Bessey, Roy F., Pacific Northwest Regional Planning Commission (Folder 2)</unittitle>
+                  <unitdate>1939</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref231" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Bessey, Roy F., Pacific Northwest Regional Planning Commission</unittitle>
+                  <unitdate>1939 Jan-May</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref153" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Biological Survey</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref131" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Fowler memos (extra)</unittitle>
+                  <unitdate>1936</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref232" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Columbia, Middle Columbia Basin Report</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref233" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Columbia, Middle-Public Work Administration Forms, Reports</unittitle>
+                  <unitdate>1936</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref234" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Columbia, Upper Columbia Basin Report</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref235" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Columbia, Upper-Public Works Administration Forms, Reports</unittitle>
+                  <unitdate>1936</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref236" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Columbia, Upper-Public Works Administration Forms, Reports</unittitle>
+                  <unitdate>1936</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref237" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Drainage Basin Study, records</unittitle>
+                  <unitdate>1936</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref238" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Drainage Basin Study, records</unittitle>
+                  <unitdate>1936</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref239" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Drainage Basin Study (tentative outline of revised report)</unittitle>
+                  <unitdate>1936</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref240" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">15</container>
+                  <unittitle>Drainage Basin Study (misc. tables, charts, memos)</unittitle>
+                  <unitdate>1936</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref241" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">16</container>
+                  <unittitle>Drainage Basin Study (tentative outline of revised drainage basin report #4)</unittitle>
+                  <unitdate>1937 Sep 11</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref242" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">17</container>
+                  <unittitle>Drainage Basin Study ("Drainage Basin Problems and Programs")</unittitle>
+                  <unitdate>1937 Oct 28</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref243" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">18</container>
+                  <unittitle>Drainage Basin Study ("Revisions of Drainage Basin Problems and Programs")</unittitle>
+                  <unitdate>1937 Oct 28</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref244" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">19</container>
+                  <unittitle>Drainage Basin Study ("Drainage Basin Problems and Programs"), second report, revisions to text</unittitle>
+                  <unitdate>1937</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref245" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">20</container>
+                  <unittitle>Drainage Basin Study ("Drainage Basin Problems and Programs"), second report</unittitle>
+                  <unitdate>1937</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref246" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">21</container>
+                  <unittitle>Drainage Basin Study ("Revision of 1937 report for Pacific Northwest Basins")</unittitle>
+                  <unitdate>1937</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref247" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">22</container>
+                  <unittitle>Drainage Basin Study "Drainage Basin Problems and Programs" (Columbia, Snake)</unittitle>
+                  <unitdate>1937</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref248" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">23</container>
+                  <unittitle>Drainage Basin Study "Drainage Basin Problems and Programs" (Upper, Middle Columbia)</unittitle>
+                  <unitdate>1937</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref249" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">24</container>
+                  <unittitle>Drainage Basin Study "Drainage Basin Problems and Programs" (Lower Columbia, Puget Sound)</unittitle>
+                  <unitdate>1937</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref250" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">25</container>
+                  <unittitle>Drainage Basin Study "Drainage Basin Problems and Programs" (Washington and Oregon Coasts)</unittitle>
+                  <unitdate>1937</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref252" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">27</container>
+                  <unittitle>Drainage Basin Committee-Progress Report (Folder 2)</unittitle>
+                  <unitdate>1940</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref251" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">26</container>
+                  <unittitle>Drainage Basin Committee-Progress Report (Folder 1)</unittitle>
+                  <unitdate>1940</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref105" level="subseries">
+               <did>
+                  <unittitle>National Resources Committee Bulletin</unittitle>
+                  <unitdate>1939 Jan-Nov</unitdate>
+               </did>
+               <c03 id="ref196" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">1</container>
+                     <unittitle>National Resources Committee Bulletin</unittitle>
+                     <unitdate>1939 Feb</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref197" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">2</container>
+                     <unittitle>National Resources Committee Bulletin</unittitle>
+                     <unitdate>1939 Mar</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref198" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">3</container>
+                     <unittitle>National Resources Committee Bulletin</unittitle>
+                     <unitdate>1939 Apr</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref199" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">4</container>
+                     <unittitle>National Resources Committee Bulletin</unittitle>
+                     <unitdate>1939 May</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref200" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">5</container>
+                     <unittitle>National Resources Committee Bulletin</unittitle>
+                     <unitdate>1939 Jun</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref201" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">6</container>
+                     <unittitle>National Resources Committee Bulletin</unittitle>
+                     <unitdate>1939 Jul</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref202" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">7</container>
+                     <unittitle>National Resources Committee Bulletin</unittitle>
+                     <unitdate>1939 Aug</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref203" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">8</container>
+                     <unittitle>National Resources Committee Bulletin</unittitle>
+                     <unitdate>1939 Sep</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref204" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">9</container>
+                     <unittitle>National Resources Committee Bulletin</unittitle>
+                     <unitdate>1939 Oct</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref205" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">10</container>
+                     <unittitle>National Resources Committee Bulletin</unittitle>
+                     <unitdate>1939 Nov</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref106" level="subseries">
+               <did>
+                  <unittitle>Reports</unittitle>
+                  <unitdate normal="1936/1938" type="inclusive">1936-1938</unitdate>
+               </did>
+               <c03 id="ref107" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <unittitle>1936 Sep</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref108" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <unittitle>1936 Nov</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref109" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <unittitle>1936 Dec</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref110" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <unittitle>1937 Apr</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref111" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <unittitle>1937 May</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref112" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <unittitle>1937 Jun</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref113" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <unittitle>1937 Sep</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref114" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <unittitle>1937 Oct</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref115" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <unittitle>1937 Nov</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref116" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <unittitle>1938 Jan</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref117" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <unittitle>1938 Feb</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref118" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <unittitle>1938 Mar</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref119" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <unittitle>1938 Apr</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref120" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <unittitle>1938 May</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref121" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <unittitle>1938 Jun</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref122" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <unittitle>1938 Jul</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref123" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <unittitle>1938 Aug</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref124" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <unittitle>1938 Sep</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref125" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <unittitle>1938 Oct</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref126" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <unittitle>1938 Nov</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref127" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <unittitle>1938 Dec</unittitle>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

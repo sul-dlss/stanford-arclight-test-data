@@ -1,0 +1,1778 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  
+  
+  
+  
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" repositoryencoding="iso15511" findaidstatus="unverified-full-draft" langencoding="iso639-2b"><eadid countrycode="us" identifier="ark:/13030/kt7s2020x3" mainagencycode="CSt-H" publicid="PUBLIC &quot;-//Stanford University::Hoover Institution Archives//TEXT&#10;(US::CSt-H::::Felikss Cielens Papers)//EN&quot; &quot;cielensf.xml&quot;">cielensf.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Register of the Felikss Cielens Papers</titleproper><titleproper type="filing">Cielens (Felikss) Papers</titleproper>
+        <author>Prepared by David Jacobs</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Hoover Institution Archives</publisher>
+        <address>
+          <addressline>Stanford University</addressline>
+          <addressline>Stanford, California 94305-6010</addressline>
+          <addressline>Phone: (650) 723-3563</addressline>
+          <addressline>Fax: (650) 725-3445</addressline>
+          <addressline>Email: hooverarchives@stanford.edu</addressline>
+        </address>
+        <date calendar="gregorian" era="ce">&#xA9; 2003</date>
+        <p>Hoover Institution Archives. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc><profiledesc>
+      <creation>Machine-readable finding aid created by OAC finding aid conversion service.
+Date of source: <date calendar="gregorian" era="ce">2003</date></creation>
+      <langusage encodinganalog="546">Description is in <language langcode="eng" scriptcode="latn">English</language></langusage>
+    </profiledesc><revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//Stanford University::Hoover Institution Archives//TEXT
+(US::CSt-H::::Felikss Cielens Papers)//EN" "cielensf.xml" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Register of the Felikss Cielens Papers</titleproper>
+      <publisher>Hoover Institution Archives
+<lb/>Stanford University
+<lb/>Stanford, California</publisher>
+      <list type="simple">
+        <head>Contact Information</head>
+        <item>Hoover Institution Archives</item>
+        <item>Stanford University</item>
+        <item>Stanford, California 94305-6010</item>
+        <item>Phone: (650) 723-3563</item>
+        <item>Fax: (650) 725-3445</item>
+        <item>Email: hooverarchives@stanford.edu</item>
+      </list>
+      <list type="deflist">
+        <defitem>
+          <label>Prepared by:</label>
+          <item>David Jacobs</item>
+        </defitem>
+        <defitem>
+          <label>Date Completed:</label>
+          <item>2003</item>
+        </defitem>
+        <defitem>
+          <label>Encoded by:</label>
+          <item>ByteManagers using OAC finding aid conversion service specifications</item>
+        </defitem>
+      </list>
+      <p>&#xA9; 2004 Hoover Institution Archives. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection">
+    <did id="did-1.7.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">Felikss Cielens papers, </unittitle>
+	<unitdate calendar="gregorian" era="ce" type="inclusive" normal="1913/1960">1913-1960</unitdate>
+      <unitid label="Collection number" repositorycode="CSt-H" countrycode="US">66003</unitid>
+      <origination encodinganalog="100" label="Creator">
+        <persname source="lcnaf">Cielens, Felikss</persname>
+      </origination>
+      <physdesc encodinganalog="300" label="Extent">
+        <extent>5 manuscript boxes</extent>
+		<extent>(2 linear feet)</extent>
+	</physdesc>
+      <repository label="Repository">
+        <corpname source="lcnaf">Hoover Institution on War, Revolution, and Peace</corpname>
+        <address>
+          <addressline>Stanford, California 94305-6010</addressline>
+        </address>
+      </repository>
+      <abstract label="Abstract" encodinganalog="520">Memoirs, writings, correspondence, memoranda, and printed matter, relating to Latvian foreign relations and political conditions.</abstract>
+	<physloc label="Physical Location">Hoover Institution Archives</physloc>
+      <langmaterial label="Languages">
+        <language langcode="lav">Latvian, </language>
+        <language langcode="eng">and English.</language>
+      </langmaterial>
+    </did>
+    <descgrp id="descgrp-1.7.2" type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict>
+        <head>Access</head>
+        <p>Collection is open for research.</p>
+      </accessrestrict>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>For copyright status, please contact the Hoover Institution Archives.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Felikss Cielens papers, [Box no.], Hoover Institution Archives.</p>
+      </prefercite>
+      <acqinfo>
+        <head>Acquisition Information</head>
+        <p>Acquired.</p>
+      </acqinfo>
+      <accruals encodinganalog="525">
+        <head>Accruals</head>
+        <p>Increments may have been received since this finding aid was prepared. Please check Stanford University's online catalog Socrates at <extref linktype="simple" href="http://library.stanford.edu/webcat" actuate="onrequest" show="new">http://library.stanford.edu/webcat</extref> to find the full extent of the collection.</p>
+      </accruals>
+    </descgrp>
+    <bioghist id="bioghist-1.7.3" encodinganalog="545">
+      <head>Biographical Note</head>
+      <chronlist>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1888</date>
+          <event>Born, Latvia</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1905</date>
+          <event>Participates in revolution against Czarist rule</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1906-1909</date>
+          <event>Studies law in St. Petersburg</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1910</date>
+          <event>Emigrates to Paris</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1919</date>
+          <event>Returns to Latvia, and is elected to the Saeima (parliament) as a member of the Latvian Social Democratic Party</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1926-1928</date>
+          <event>Latvian Minister of Foreign Affairs</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1933-1934</date>
+          <event>Latvian Minister to France, Spain, and Portugal</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1934-1940</date>
+          <event>Lives in exile in Paris</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1940</date>
+          <event>Returns to Latvia</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1944</date>
+          <event>Flees occupied Latvia to Sweden</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1961-1964</date>
+          <event><emph render="italic">Laikmetu mai&#x146;&#x101;</emph>, memoirs, published in three volumes</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1964</date>
+          <event>Died, Stockholm</event>
+        </chronitem>
+      </chronlist>
+    </bioghist>
+    <scopecontent id="scopecontent-1.7.4">
+      <head>Scope and Content Note</head>
+      <p>Acquired in 1966, with increments received in 1979 and 1984, the Felikss Cielens papers in the Hoover Institution Archives comprise a small but comprehensive set of materials relating to the career of an important twentieth-century Latvian political figure. Nearly all of Cielens's extant writings, both literary and political, are to be found in the collection, as are documents pertaining to his tenure as Latvian Minister of Foreign Affairs in the 1920s.</p>
+      <p>Like many Latvians, Cielens was swept up in the turbulent events of the 1905 revolution against Czarist rule in the Russian empire, which then included the Baltic peoples. The failure of the revolution, and the subsequent severe repression by Czarist forces, drove many activists into exile, including Cielens. Although a Social Democrat and an opponent of the Bolsheviks, Cielens came into personal contact with many leading personalities of the Russian revolutionary milieu, including Lenin. His impressions of this time are contained in his memoirs and a lengthy unpublished novel set in the period of the 1917 Russian Revolution and its aftermath; both works are to be found in the SPEECHES AND WRITINGS series.</p>
+      <p>A strong advocate of Latvian independence, Cielens rose to prominence in the Social Democratic party in the new Latvia of the 1920s, and served as the country's Minister of Foreign Affairs at the end of that decade. The FOREIGN MINISTRY FILE series contains materials relating to Cielens's ministerial activities; there are also press interviews from this time in the INTERVIEWS AND PRESS CONFERENCES series.</p>
+      <p>During 1933-1934, Cielens served as Latvian Minister to France. There is unfortunately little record of this period in the collection. The emergence of the authoritarian Ulmanis regime in Latvia in the mid-1930s, and the loss of Latvian independence in 1940, effectively ended Cielens's political career within Latvia. Leaving occupied Latvia for Sweden in 1944, Cielens continued to be active both as a writer and as an &#xE9;migr&#xE9; spokesman. Immediately upon his arrival in Sweden, he wrote a number of reports on the situation in occupied Latvia for the American embassy in Stockholm. These form a separate series in the collection.</p>
+      <p>Cielens's interests included Latvian literature, and he published a number of studies on the subject, including a short work on Latvian drama that is included among the papers. He wrote prolifically until the end of his life, and the collection assembles the articles he wrote for Latvian &#xE9;migr&#xE9; publications, principally in Sweden. The majority of the documents in the collection are in Latvian, but there are also materials in French, English, Swedish, and Russian.</p>
+    </scopecontent>
+    <controlaccess id="controlaccess-1.7.5">
+      <head>Indexing Terms</head>
+      <p>The following terms have been used to index the description of this collection in the repository's online public access catalog.</p>
+      <controlaccess>
+        <head>Subjects</head>
+        <geogname source="lcsh" encodinganalog="651">France.</geogname>
+        <geogname source="lcsh" encodinganalog="651">France--Foreign relations--Latvia.</geogname>
+        <geogname source="lcsh" encodinganalog="651">Latvia.</geogname>
+        <geogname source="lcsh" encodinganalog="651">Latvia--Foreign relations.</geogname>
+        <geogname source="lcsh" encodinganalog="651">Latvia--Foreign relations--France.</geogname>
+        <geogname source="lcsh" encodinganalog="651">Latvia--Politics and government.</geogname>
+      </controlaccess>
+      <controlaccess>
+        <head>Occupations</head>
+        <occupation source="lcsh" encodinganalog="656">Diplomats--Latvia.</occupation>
+        <occupation source="lcsh" encodinganalog="656">Statesmen--Latvia.</occupation>
+      </controlaccess>
+    </controlaccess>
+
+    <dsc id="dsc-1.7.7" type="in-depth">
+      <head>Container List</head>
+      <c01 id="c01-1.7.7.2" level="series">
+        <did>
+          <container type="Box" label="box">1</container>
+          <unittitle>Biographical File, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1963/1966">1963-1966</unitdate>.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Correspondence and printed matter, arranged alphabetically by physical form</p>
+        </scopecontent>
+        <c02 id="c02-1.7.7.2.2" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 1</container>
+            <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1966">1966</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Fragment of a letter from Cielens's widow, Maija Cielena, and a descriptive note from Witold Sworakowski</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.2.3" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 2</container>
+            <unittitle>Printed matter, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1963">1963</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copies of two biographical articles published on the occasion of Cielens's seventy-fifth birthday</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.7.3" level="series">
+        <did>
+          <container type="Box" label="box">1</container>
+          <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1923/1963">1923-1963</unitdate>.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Letters and enclosures, arranged alphabetically by name of correspondent</p>
+        </scopecontent>
+        <c02 id="c02-1.7.7.3.2" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 3</container>
+            <unittitle>Unidentified, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1923/1929">1923-1929</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.3" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 4</container>
+            <unittitle>Attlee, Clement, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1945">1945</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.4" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 5</container>
+            <unittitle>Auriol, Vincent, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1951">1951</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.5" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 6</container>
+            <unittitle>Berends, K., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1963">1963</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.6" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 7</container>
+            <unittitle>Bevin, Ernest, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1947">1947</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.7" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 8</container>
+            <unittitle>Byrnes, James F., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1946">1946</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.8" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 9</container>
+            <unittitle>&#x10C;akste, Janis, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1946">1946</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.9" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 10</container>
+            <unittitle>Grosvalds, O., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1946">1946</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.10" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 11</container>
+            <unittitle>Hansson, Albin, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1944">1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.11" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 12</container>
+            <unittitle>International Conference of Social Democratic Parties, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1946">1946</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.12" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 13</container>
+            <unittitle>Kennedy, John F., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1960">1960</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.13" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 14</container>
+            <unittitle>Kr&#x113;sli&#x146;&#x161;, M., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1934">1934</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.14" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 15</container>
+            <unittitle>Liepi&#x146;&#x161;, Robert, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1948">1948</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.15" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 16</container>
+            <unittitle>Palkavnieks, [?], <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1934">1934</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.16" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 17</container>
+            <unittitle>Rei, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1933-08">August, 1933</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.17" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 18</container>
+            <unittitle>Rusk, Dean, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1961">1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.3.18" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 19</container>
+            <unittitle>Salnais, Voldem&#x101;rs, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1944">1944</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.7.4" level="series">
+        <did>
+          <container type="Box" label="box">1-3</container>
+          <unittitle>Speeches and Writings, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1914/1964">1914-1964</unitdate>.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Articles, monographs, and unpublished writings, arranged chronologically by title</p>
+        </scopecontent>
+        <c02 id="c02-1.7.7.4.2" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 20</container>
+            <unittitle>"Latwijas autonomijas projekta galwenas - t&#x113;zes," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1915">1915</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.3" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 21</container>
+            <unittitle><emph render="italic">V&#x113;stures tiesa par mui&#x17E;n&#x12B;ec&#x12B;bu</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1924">1924</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.4" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 22</container>
+            <unittitle>"Great Britain, the Baltic States and Russia," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1924-02">1924 February</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.5" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 23</container>
+            <unittitle>Article on Latvian foreign policy, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927">1927</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.6" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 24</container>
+            <unittitle>"Vozniknet li novaia mirovaia voina iz-za dal'ne-vostochnykh sobytii?" <emph render="italic">Segodnia vecherom</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1931-12-03">1931 December 3</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.7" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 25</container>
+            <unittitle>"Latvijas vald&#x12B;bas t&#x113;zes atbru&#x146;o&#x161;an&#x101;s konferenc&#x113;," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1932">1932</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.8" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 26</container>
+            <unittitle>"Le trio germano-italo-russe sur les cr&#xEA;tes des Balkans," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1939">1939</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.4.9" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 27</container>
+            <unittitle>"La trag&#xE9;die de la Pologne," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1940">1940</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.10" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 28</container>
+            <unittitle>"The Drama of the North," <emph render="italic">Europe</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1940-04">1940 April</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.11" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 29</container>
+            <unittitle>"La situation en Lettonie et les devoirs actuels du peuple letton," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1943">1943</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.12" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 30</container>
+            <unittitle>"Statement on the Situation in Latvia and in the Other Baltic States," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1943">1943</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.13" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 31</container>
+            <unittitle>Appeal by Latvian intellectuals, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1944-04">1944 April</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.14" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 32</container>
+            <unittitle>"Nordens stora drama," <emph render="italic">Svensk Tidskrift</emph>, no. 5, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1944-05">1944 May</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.15" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 33</container>
+            <unittitle>"Tyskarna i Balticum," <emph render="italic">Morgon-Tidningen</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1944-07-07">1944 July 7</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.16" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 34</container>
+            <unittitle>"The Baltic States: Europe Cannot Be Free if the Baltic Peoples Are Enslaved," <emph render="italic">New Leader</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1945-04-14">1945 April 14</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy of anonymous article to which Cielens contributed</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.17" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 35</container>
+            <unittitle>"The Baltic Problem," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1945-06-28">1945 June 28</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.18" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 36</container>
+            <unittitle><emph render="italic">Latvia and the Other Baltic States and Their International Case</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1946">1946</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.19" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 37</container>
+            <unittitle>"Latvijas starptautiskais st&#x101;voklis," <emph render="italic">Latvju Zi&#x146;as</emph>, no. 76, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1946">1946</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.20" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 38</container>
+            <unittitle><emph render="italic">La Lettonie et les autres &#xE9;tats baltes dans la politique internationale</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1946">1946</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy in French and typescript of Latvian original</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.21" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 39</container>
+            <unittitle>Memorandum on Latvian politics, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1946">1946</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.22" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 40</container>
+            <unittitle>"Kad Dievs sv&#x113;t&#x12B;s Latviju?" <emph render="italic">Latvju Zi&#x146;as</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1946-11-16">1946 November 16</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.23" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 41</container>
+            <unittitle>"Eine konsentrierte gemeinsame Aktion f&#xFC;r die Selbst&#xE4;ndigkeit der baltischen Staaten," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1947-01">1947 January</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.24" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 42</container>
+            <unittitle>"Baltijas valstu starptautiskais st&#x101;voklis un m&#x16B;su uzdevumi," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1947-02-22">1947 February 22</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.25" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 43</container>
+            <unittitle>"Maskavas konferences neveiksme," <emph render="italic">Latvju Zi&#x146;as</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1947-05-03">1947 May 3</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.26" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 44</container>
+            <unittitle>"Maskavas un Va&#x161;ingtonas ofens&#x12B;vas un pretofens&#x12B;vas," <emph render="italic">Latvju Zi&#x146;as</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1947-06-18">1947 June 18</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.27" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 45</container>
+            <unittitle><emph render="italic">N&#x101;ves pav&#x113;n&#x12B;</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1948">1948</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.28" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 46</container>
+            <unittitle>"Rietumu bloks," <emph render="italic">Latvju Zi&#x146;as</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1948-01-28">1948 January 28</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.29" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">1 : 47</container>
+            <unittitle>"Par br&#x12B;v&#x12B;bu," <emph render="italic">Latvju Zi&#x146;as</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1948-02-07">1948 February 7</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.30" level="file">
+          <did>
+            <container type="Box-folder" label="Box/Folder">2 : 1</container>
+            <unittitle>"Jauni v&#x113;ji Balk&#x101;nos," <emph render="italic">Latvju Zi&#x146;as</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1948-07-03">1948 July 3</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.31" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 2</container>
+            <unittitle>"Starptautiskais rakstnieku kongress," <emph render="italic">Latvju Zi&#x146;as</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1948-06-16">1948 June 16</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.32" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 3</container>
+            <unittitle>"Starptautiskais rakstnieku kongress," <emph render="italic">Latvju Zi&#x146;as</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1948-06-19">1948 June 19</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.33" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 4</container>
+            <unittitle>"Ideolo&#x11F;iskas p&#x101;rdomas," <emph render="italic">Br&#x12B;v&#x12B;ba</emph>, no. 1, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1948-08">1948 August</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.34" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 5</container>
+            <unittitle>"Voldem&#x101;ru Salno pieminot," <emph render="italic">Latvju Zi&#x146;as</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1948-08-07">1948 August 7</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.35" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 6</container>
+            <unittitle>"The Strategic Importance of Northern Europe in World War III," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1949-03-12">1949 March 12</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.36" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 7</container>
+            <unittitle><emph render="italic">The Latvian Drama</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1950">1950</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.37" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 8</container>
+            <unittitle>"18. Novembra p&#x101;rdomas," <emph render="italic">Latvju Zi&#x146;as</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1950-11-16">1950 November 16</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.38" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 9-11</container>
+            <unittitle>"The Red Inquisitor General: A Historical Novel," c. <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1952">1952</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.4.39" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 12</container>
+            <unittitle>"15. maija mor&#x101;le," <emph render="italic">Latvju Zi&#x146;as</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1952-03-13">1952 March 13</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.40" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 13</container>
+            <unittitle>"Politikas un rakstniec&#x12B;bas satuve Francij&#x101;," <emph render="italic">Ce&#x13C;a Z&#x12B;mes</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1952-07">1952 July</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.41" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 14</container>
+            <unittitle>"Padomju imperijas vald&#x12B;&#x161;ana Baltijas j&#x16B;r&#x101;," <emph render="italic">Dzimtenes Balss</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1952-09">1952 September</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.42" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 15</container>
+            <unittitle>"Revolution I faraonernas rike," <emph render="italic">G&#xF6;teborgs Handels-Och Sj&#xF6;farts-Tidning</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1952-09-04">1952 September 4</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.43" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 16</container>
+            <unittitle>"Nacion&#x101;l&#x101; vien&#x12B;ba," <emph render="italic">Latvju Zi&#x146;as</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1952-09-18">1952 September 18</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.44" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 17</container>
+            <unittitle>"ASV prezidenta v&#x113;l&#x113;sanas," <emph render="italic">Dzimtenes Balss</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1952-10">1952 October</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.45" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 18</container>
+            <unittitle>"ASV pasaules politika," <emph render="italic">Latvie&#x161;u Almanachs</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1953">1953</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.46" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 19</container>
+            <unittitle>"Varas l&#x101;sts," <emph render="italic">Ce&#x13C;a Z&#x12B;mes</emph>, no. 18, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1954-03">1954 March</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.47" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 20</container>
+            <unittitle>"V&#x113;stures trad&#x12B;ciju noz&#x12B;me," <emph render="italic">Ce&#x13C;a Z&#x12B;mes</emph>, no. 29, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1956">1956</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.48" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 21</container>
+            <unittitle>"V&#x113;stures trad&#x12B;ciju noz&#x12B;me," <emph render="italic">Ce&#x13C;a Z&#x12B;mes</emph>, no. 30, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1956">1956</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.49" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 22</container>
+            <unittitle>"The International Baltic Problem: The European Importance of the Free Baltic Sea," <emph render="italic">Labour's Call</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1957-04">1957 April</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript and printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.50" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 23</container>
+            <unittitle>"Latvijas valsts idejas pamatojums," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1960">1960</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.51" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 24</container>
+            <unittitle>"Baltijas valstu savien&#x12B;ba," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1960-01">1960 January</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.4.52" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">2 : 25</container>
+            <unittitle>"Mana divkauja ar Trocki pie Volgas 1918. g. august&#x101;," <emph render="italic">Ce&#x13C;a Z&#x12B;mes</emph>, no. 39, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1961">1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.7.4.53" level="file">
+          <did>
+            <container type="Box" label="Box">3</container>
+            <unittitle><emph render="italic">Laikmetu mai&#x146;&#x101;</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1961/1964">1961-1964</unitdate></unittitle>
+          </did>
+          <c03 id="c03-1.7.7.4.53.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">3 : 1</container>
+              <unittitle>Typescript errata</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.4.53.3" level="file">
+            <did>
+              <unittitle>Printed copies</unittitle>
+            </did>
+            <c04 id="c04-1.7.7.4.53.3.2" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">3 : 2</container>
+                <unittitle>Brochure announcing publication</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.4.53.3.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">3 : 3</container>
+                <unittitle>Volume one</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.4.53.3.4" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">3 : 4</container>
+                <unittitle>Volume two</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.7.4.53.3.5" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">3 : 5</container>
+                <unittitle>Volume three</unittitle>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.7.5" level="series">
+        <did>
+          <container type="Box" label="box">4</container>
+          <unittitle>Foreign Ministry File, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1923/1933">1923-1933</unitdate>.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Correspondence, memoranda, and reports, arranged alphabetically by physical form</p>
+        </scopecontent>
+        <c02 id="c02-1.7.7.5.2" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+          </did>
+          <c03 id="c03-1.7.7.5.2.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 1</container>
+              <unittitle>General. Circular letters to Latvian envoys, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927">1927</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.5.2.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 2</container>
+              <unittitle>Unidentified, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927">1927</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.5.2.4" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 3</container>
+              <unittitle>Balodis, A., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927">1927</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.5.2.5" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 4</container>
+              <unittitle>Bilmanis, Roberts, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927">1927</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.5.2.6" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 5</container>
+              <unittitle>Duzmans, K., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927">1927</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.5.2.7" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 6</container>
+              <unittitle>Krasts, E., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927">1927</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.5.2.8" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 7</container>
+              <unittitle>L&#xF6;fgren, Eliel, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927">1927</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.5.2.9" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 8</container>
+              <unittitle>MacDonald, Ramsay, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927">1927</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.5.2.10" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 9</container>
+              <unittitle>Ozols, K., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927">1927</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.5.2.11" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 10</container>
+              <unittitle>S&#x113;ja, P., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927">1927</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.5.2.12" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 11</container>
+              <unittitle>Seskis, J., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927">1927</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.5.2.13" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 12</container>
+              <unittitle>Sventorzecki, M., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927">1927</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.5.2.14" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 13</container>
+              <unittitle>Vanderveld, &#xC9;mile, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1925">1925</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.5.2.15" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 14</container>
+              <unittitle>Vecozols, Julijs, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927">1927</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.5.2.16" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 15</container>
+              <unittitle>Vesmans, Fridrichs, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927">1927</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.5.2.17" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 16</container>
+              <unittitle>Zari&#x146;&#x161;, K., <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927/1933">1927-1933</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.7.5.3" level="file">
+          <did>
+            <unittitle>Memoranda written by Cielens</unittitle>
+          </did>
+          <c03 id="c03-1.7.7.5.3.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 17</container>
+              <unittitle>"Le trait&#xE9; de commerce avec l'Union des R.S.S.," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927">1927</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.5.3.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 18</container>
+              <unittitle>"Latvijas &#x101;r&#x113;j&#x101; saimniecisk&#x101; politika," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927-02-11">1927 February 11</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.5.3.4" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 19</container>
+              <unittitle>"Tirdzniec&#x12B;bas l&#x12B;gums ar Grie&#x137;iju," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927-02-26">1927 February 26</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.5.3.5" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 20</container>
+              <unittitle>"Latvijas un Igaunijas &#x101;rlietu ministru aspriede Tallin&#x101; 28. februar&#x12B; un 1. mart&#x101;," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927-03-02">1927 March 2</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript fragment</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.5.3.6" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 21</container>
+              <unittitle>"Negotiations with SSSR [<emph render="italic">sic</emph>] about the Treaty of Non-Agression [<emph render="italic">sic</emph>]," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927-03-10">1927 March 10</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.5.3.7" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 22</container>
+              <unittitle>"Die internationale Lage der baltischen Staaten und die Aufgaben der Aussenpolitk Lettlands," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927-03-28">1927 March 28</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.5.3.8" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 23</container>
+              <unittitle>"Par saimniecisko l&#x12B;gumu ar Padomju Krieviju," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927-08-29">1927 August 29</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.7.5.4" level="file">
+          <did>
+            <unittitle>Reports</unittitle>
+          </did>
+          <c03 id="c03-1.7.7.5.4.2" level="file">
+            <did>
+              <unittitle>Written by Cielens</unittitle>
+            </did>
+            <c04 id="c04-1.7.7.5.4.2.2" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">4 : 24</container>
+                <unittitle>"Pausales ekonomiskais st&#x101;voklis," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927">1927</unitdate>.</unittitle>
+              </did>
+              <scopecontent>
+                <p>Typescript</p>
+              </scopecontent>
+            </c04>
+            <c04 id="c04-1.7.7.5.4.2.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">4 : 25</container>
+                <unittitle>"Austrumu noda&#x13C;as darbibas p&#x101;rskats p&#x101;r 1927 g.," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1928">1928</unitdate>.</unittitle>
+              </did>
+              <scopecontent>
+                <p>Typescript</p>
+              </scopecontent>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.7.5.4.3" level="file">
+            <did>
+              <unittitle>Written by others</unittitle>
+            </did>
+            <c04 id="c04-1.7.7.5.4.3.2" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">4 : 26</container>
+                <unittitle>Report on Polish military, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1923">1923</unitdate>.</unittitle>
+              </did>
+              <scopecontent>
+                <p>Typescript</p>
+              </scopecontent>
+            </c04>
+            <c04 id="c04-1.7.7.5.4.3.3" level="file">
+              <did>
+                <container type="Folder" label="Box/Folder">4 : 27</container>
+                <unittitle>Ozols, K., "10 gadi lielniecisma Krievij&#x101;," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927-11-07">1927 November 7</unitdate>.</unittitle>
+              </did>
+              <scopecontent>
+                <p>Typescript</p>
+              </scopecontent>
+            </c04>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.7.6" level="series">
+        <did>
+          <container type="Box" label="box">4</container>
+          <unittitle>Reports Written By Cielens For the American Embassy in Stockholm, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1944/1945">1944-1945</unitdate>.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Arranged chronologically by title</p>
+        </scopecontent>
+        <c02 id="c02-1.7.7.6.2" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 28</container>
+            <unittitle>"Die Trag&#xF6;die Finnlands," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1944-06-16">1944 June 16</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.6.3" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 29</container>
+            <unittitle>"Das grosse Drama des Nordens," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1944-06-29">1944 June 29</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.6.4" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 30</container>
+            <unittitle>"Die internationale Bedeutung der baltischen Staaten," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1944-07-12">1944 July 12</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.6.5" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 31</container>
+            <unittitle>"Die gegenw&#xE4;rtige milit&#xE4;rische und politische Lage in Lettland," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1944-08-15">1944 August 15</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.6.6" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 32</container>
+            <unittitle>"Der Kampf der Sowjetgrossmacht um die Vernichtung des unabh&#xE4;ngigen polnischen Staates und dessen internationale Bedeutung," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1944-09-15">1944 September 15</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.6.7" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 33</container>
+            <unittitle>"Der aussenpolitische Drang der russischen Sowjet-Grossmacht," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1944-10-01">1944 October 1</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.6.8" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 34</container>
+            <unittitle>"Der Entscheidungskampf zwischen den Russen und den Deutschen um die Herrschaft in der Ostsee," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1944-10-01">1944 October 1</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.6.9" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 35</container>
+            <unittitle>"Die politische Bedeutung des Kampfes um Balticum," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1944-10-01">1944 October 1</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.6.10" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 36</container>
+            <unittitle>"Der Drang Russlands nach Balkan und Konstantinopel," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1944-10-14">1944 October 14</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.6.11" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 37</container>
+            <unittitle>"Ist die Sowjetisierung Deutschlands unvermeidlich?" <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1944-11-01">1944 November 1</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.6.12" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 38</container>
+            <unittitle>"Will Moskau seine Japanpolitik &#xE4;ndern?" <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1944-11-15">1944 November 15</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.6.13" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 39</container>
+            <unittitle>"Die innenpolitische Lage in Lettland am Ende des vierten Jahres der fremden Okkupation," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1944-12">1944 December </unitdate></unittitle>
+          </did>
+          <scopecontent>
+            <p>typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.6.14" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 40</container>
+            <unittitle>"Was ist das Russland von heute?" <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1944-12">1944 December</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.6.15" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 41</container>
+            <unittitle>"Die Schrecken und Grausamkeiten des Krieges in Lettland," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1944-12-01">1944 December 1</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.6.16" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 42</container>
+            <unittitle>"Die Uneinigkeit der alliierten M&#xE4;chte und der Verstress Russlands in Europa," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1944-12-14">1944 December 14</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.6.17" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 43</container>
+            <unittitle>"Die russische Politik Polnen gegen&#xFC;ber," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1944-12-30">1944 December 30</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.6.18" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 44</container>
+            <unittitle>"Die russische Sowjet-Grossmacht," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1945">1945</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.6.19" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 45</container>
+            <unittitle>"Nachrichten &#xFC;ber Lettland," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1945-01-15">1945 January 15</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.6.20" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 46</container>
+            <unittitle>"Der Panslavismus und die orthodoxale Kirche im Dienste der Sowjetgrossmacht" <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1945-03">1945 March</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.6.7" level="series">
+        <did>
+          <container type="Box" label="box">4</container>
+          <unittitle>Interviews and Press Conferences Given By Cielens, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1924/1933">1924-1933</unitdate>.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Articles and transcripts, arranged chronologically</p>
+        </scopecontent>
+        <c02 id="c02-1.7.7.7.2" level="file">
+          <did>
+            <unittitle>Interviews</unittitle>
+          </did>
+          <c03 id="c03-1.7.7.7.2.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 47</container>
+              <unittitle><emph render="italic">Jaun&#x101;k&#x101;s Zi&#x146;as</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1924-07-11">1924 July 11</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Printed copy</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.7.2.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 48</container>
+              <unittitle><emph render="italic">Segodnia Vecherom</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1926-12-21">1926 December 21</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Printed copy</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.7.2.4" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 49</container>
+              <unittitle><emph render="italic">Rigasche Rundschau</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1926-12-21">1926 December 21</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Printed copy</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.7.2.5" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 50</container>
+              <unittitle><emph render="italic">Vossische Zeitung</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927">1927</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.7.2.6" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 51</container>
+              <unittitle><emph render="italic">Segodnia</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927-01-15">1927 January 15</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Printed copy</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.7.7.3" level="file">
+          <did>
+            <unittitle>Press conferences</unittitle>
+          </did>
+          <c03 id="c03-1.7.7.7.3.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 52</container>
+              <unittitle><unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927-02">1927 February</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.7.3.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 53</container>
+              <unittitle><unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927-02-07">1927 February 7</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.7.3.4" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 54</container>
+              <unittitle><unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927-02-11">1927 February 11</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.7.7.4" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 55</container>
+            <unittitle>Interview, <emph render="italic">Vald&#x12B;bas V&#x113;stnesis</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927-02-12">1927 February 12</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.7.5" level="file">
+          <did>
+            <unittitle>Press conferences</unittitle>
+          </did>
+          <c03 id="c03-1.7.7.7.5.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 56</container>
+              <unittitle><unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927-03-10">1927 March 10</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.7.5.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 57</container>
+              <unittitle><unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927-04-23">1927 April 23</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.7.5.4" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 58</container>
+              <unittitle><unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927-05-23">1927 May 23</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.7.5.5" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 59</container>
+              <unittitle><unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927-06-04">1927 June 4</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.7.5.6" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 60</container>
+              <unittitle><unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927-06-09">1927 June 9</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.7.5.7" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 61</container>
+              <unittitle><unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927-07">1927 July</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.7.7.6" level="file">
+          <did>
+            <unittitle>Interviews</unittitle>
+          </did>
+          <c03 id="c03-1.7.7.7.6.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 62</container>
+              <unittitle><emph render="italic">Leipziger neueste Nachrichten</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927-07-08">1927 July 8</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.7.6.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 63</container>
+              <unittitle><emph render="italic">Lieutuva</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927-08-04">1927 August 4</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.7.6.4" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 64</container>
+              <unittitle>Wolff Agency, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927-08-15">1927 August 15</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.7.6.5" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 65</container>
+              <unittitle><emph render="italic">Baltische Presse</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927-08-19">1927 August 19</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Printed copy</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.7.7.7" level="file">
+          <did>
+            <unittitle>Press conferences</unittitle>
+          </did>
+          <c03 id="c03-1.7.7.7.7.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 66</container>
+              <unittitle><unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927-08-19">1927 August 19</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.7.7.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 67</container>
+              <unittitle><unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927-08-26">1927 August 26</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.7.7.8" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 68</container>
+            <unittitle>Interview, Bogholm Agency, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927-08-29">1927 August 29</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.7.9" level="file">
+          <did>
+            <unittitle>Press conferences</unittitle>
+          </did>
+          <c03 id="c03-1.7.7.7.9.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 69</container>
+              <unittitle><unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927-09-02">1927 September 2</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.7.9.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 70</container>
+              <unittitle><unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927-09-12">1927 September 12</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.7.7.10" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">4 : 71</container>
+            <unittitle>Interview, <emph render="italic">Izvestia</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927-09-23">1927 September 23</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.7.11" level="file">
+          <did>
+            <unittitle>Press conferences</unittitle>
+          </did>
+          <c03 id="c03-1.7.7.7.11.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 72</container>
+              <unittitle><unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927-09-27">1927 September 27</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.7.11.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 73</container>
+              <unittitle><unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927-09-29">1927 September 29</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.7.11.4" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 74</container>
+              <unittitle><unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927-10-12">1927 October 12</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.7.11.5" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 75</container>
+              <unittitle><unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927-11-05">1927 November 5</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.7.11.6" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 76</container>
+              <unittitle><unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927-11-16">1927 November 16</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.7.11.7" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 77</container>
+              <unittitle><unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927-11-17">1927 November 17</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.7.11.8" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 78</container>
+              <unittitle><unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927-11-26">1927 November 26</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.7.11.9" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 79</container>
+              <unittitle><unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927-12-06">1927 December 6</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.7.11.10" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 80</container>
+              <unittitle><unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927-12-23">1927 December 23</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.7.7.12" level="file">
+          <did>
+            <unittitle>Interviews</unittitle>
+          </did>
+          <c03 id="c03-1.7.7.7.12.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 81</container>
+              <unittitle><emph render="italic">Dnia</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1933-03-19">1933 March 19</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Printed copy</p>
+            </scopecontent>
+          </c03>
+          <c03 id="c03-1.7.7.7.12.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">4 : 82</container>
+              <unittitle><emph render="italic">Jaunakas Zi&#x146;as</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1933-03-27">1933 March 27</unitdate>.</unittitle>
+            </did>
+            <scopecontent>
+              <p>Typescript</p>
+            </scopecontent>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.6.8" level="series">
+        <did>
+          <container type="Box" label="box">5</container>
+          <unittitle>Miscellany, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1918/1946">1918-1946</unitdate>.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Printed fragment and typescripts, arranged chronologically</p>
+        </scopecontent>
+        <c02 id="c02-1.7.7.8.2" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 1</container>
+            <unittitle>"Latviesu Pagaidu Nacion&#x101;l&#x101;s Padomes Darb&#x12B;bas P&#x101;rskats no 10. Oktobera lidz 5. Decembrim 1918 gad&#x101;," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1918-12">1918 December</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.8.3" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 2</container>
+            <unittitle>List of Latvian prime ministers, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1940">c. 1940</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.8.4" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 3</container>
+            <unittitle>"The Atlantic Charter: What It Means to the Baltic Peoples," Baltic Committee for Studies and Cooperation, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1944-05">1944 May</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Printed copy (incomplete)</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.8.5" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 4</container>
+            <unittitle>"Apkartraksts: Orrtskommandanta r&#x12B;kojums," <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1944-12-20">1944 December 20</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.7.7.8.6" level="file">
+          <did>
+            <container type="Folder" label="Box/Folder">5 : 5</container>
+            <unittitle>Excerpt from <emph render="italic">Journal officiel</emph>of speech by Edouard Daladier, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1946-07-19">1946 July 19</unitdate>.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.6.9" level="series">
+        <did>
+          <container type="Box" label="box">5</container>
+          <unittitle>Printed Matter, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1919/1964">1919-1964</unitdate>.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Monographs and serials issues, arranged by physical form and therein chronologically</p>
+        </scopecontent>
+        <c02 id="c02-1.7.7.9.2" level="file">
+          <did>
+            <unittitle>Monographs</unittitle>
+          </did>
+          <c03 id="c03-1.7.7.9.2.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">5 : 6</container>
+              <unittitle><emph render="italic">Protection of Minorities in Latvia</emph>, League of Nations, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1922">1922</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.9.2.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">5 : 7</container>
+              <unittitle>Herbert Schroeder, <emph render="italic">Russland und die Ostsee</emph>, Riga, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1927">1927</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.9.2.4" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">5 : 8</container>
+              <unittitle><emph render="italic">Itogi Latviisko-Sovetskogo torgovogo dogovora</emph>, Riga, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1929">1929</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.9.2.5" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">5 : 9</container>
+              <unittitle>Birger Newman, et al., <emph render="italic">Balticums R&#xE4;tt</emph>, Uppsala, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1944">1944</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.9.2.6" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">5 : 10</container>
+              <unittitle>August Rei, <emph render="italic">Have the Baltic Countries Voluntarily Renounced Their Freedom?</emph> New York, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1944">1944</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.9.2.7" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">5 : 11</container>
+              <unittitle><emph render="italic">The International Post-War Settlement</emph>, Labour Party, London, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1944-06-29">1944 June 29</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.9.2.8" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">5 : 12</container>
+              <unittitle><emph render="italic">Nazi-Soviet Conspiracy and the Baltic States: Diplomatic Documents and Other Evidence</emph>, London, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1948">1948</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.9.2.9" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">5 : 13</container>
+              <unittitle>Arveds Schwabe, <emph render="italic">The Story of Latvia: A Historical Survey</emph>, Stockholm, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1949">1949</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.9.2.10" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">5 : 14</container>
+              <unittitle>Kl&#x101;ra Kalni&#x146;a, <emph render="italic">Liesmainie Gadi</emph>, Stockholm, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1964">1964</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.7.9.3" level="file">
+          <did>
+            <unittitle>Serial issues</unittitle>
+          </did>
+          <c03 id="c03-1.7.7.9.3.2" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">5 : 15</container>
+              <unittitle><emph render="italic">Brihwais Latwis</emph>, nos. 3 and 4, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1919-04-19/1919-04-26">1919 April 19-26</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.9.3.3" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">5 : 16</container>
+              <unittitle><emph render="italic">Segodniia</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1929-02-28">1929 February 28</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.9.3.4" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">5 : 17</container>
+              <unittitle><emph render="italic">Le Temps</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1939-09-29">1939 September 29</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.9.3.5" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">5 : 18</container>
+              <unittitle><emph render="italic">Revue parlementaire</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1948-04-15">1948 April 15</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.7.9.3.6" level="file">
+            <did>
+              <container type="Folder" label="Box/Folder">5 : 19</container>
+              <unittitle><emph render="italic">Asto&#x146;padsmitais Novembris</emph>, <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1944-11-18">1944 November 18</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

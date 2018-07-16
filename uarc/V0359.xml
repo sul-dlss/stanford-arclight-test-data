@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Dept. of Special Collections &amp; University Archives//TEXT (US::CSt::::[LISP and natural language processing [videorecording]])//EN"
+             identifier="ark:/13030/c8cj8gjf">v0359.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the LISP and Natural Language Processing [videorecording]
+                    </titleproper>
+            <titleproper type="filing" audience="internal">LISP and Natural Language Processing [videorecording]</titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University Libraries.</publisher>
+            <publisher>Dept. of Special Collections &amp; University Archives.</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2011-09">September 2011</date>
+            <p>Copyright © <date type="copyright" normal="2014">2014</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">V0359</unitid>
+         <origination label="Creator:">
+            <corpname rules="dacs" source="naf" role=" ">American Association for Artificial Intelligence</corpname>
+         </origination>
+         <origination label="Creator:">
+            <corpname rules="dacs" source="ingest" role=" ">Association for Computational Linguistics.</corpname>
+         </origination>
+         <origination label="Creator:">
+            <persname rules="aacr" source="ingest" role=" ">Kay, Martin.</persname>
+         </origination>
+         <origination label="Creator:">
+            <corpname rules="dacs" source="ingest" role=" ">Linguistic Institute.</corpname>
+         </origination>
+         <origination label="Creator:">
+            <corpname rules="dacs" source="ingest" role=" ">Linguistic Society of America.</corpname>
+         </origination>
+         <origination label="Creator:">
+            <corpname rules="dacs" source="ingest" role=" ">Morgan Kaufmann Publishers..</corpname>
+         </origination>
+         <origination label="Creator:">
+            <corpname rules="dacs" source="naf" role=" ">Stanford University</corpname>
+         </origination>
+         <unittitle label="Title:">LISP and natural language processing [videorecording]</unittitle>
+         <unitdate normal="1987/1987"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1987</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>3.2 Linear feet 23 videotapes ( 8 VHS) &amp; (15 U-Matic_</extent>
+         </physdesc>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <physloc label="Physical Location:">Special Collections and University Archives materials are stored offsite and must be paged 36-48 hours in advance. For more information on paging collections, see the department's website: http://library.stanford.edu/depts/spc/spc.html.</physloc>
+         <repository label="Repository:">
+            <corpname>Dept. of Special Collections &amp; University Archives.</corpname>
+            <address>
+               <addressline>Stanford University Libraries.</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: speccollref@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <accessrestrict id="ref5">
+            <head>Information about Access</head>
+            <p>The materials are open for research use.</p>
+         </accessrestrict>
+         <prefercite id="ref7">
+            <head>Cite As</head>
+            <p>LISP and Natural Language Processing (V0359). Dept. of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <scopecontent id="ref6">
+         <head>Scope and Contents note</head>
+         <p>Sixteen lectures on 8 cassettes comprise a full-length course presented at the 1987 Linguistic Institute held at Stanford University .</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <subject source="lcsh">LISP (Computer program language)</subject>
+         <subject source="lcsh">Natural language processing (Computer science)</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.5">
+         <head>Collection Contents</head>
+         <c01 id="ref9" level="file">
+            <did>
+               <container type="Box">1</container>
+               <unitid>1.1</unitid>
+               <unittitle>Parts 1-2</unittitle>
+               <unitdate>1987</unitdate>
+               <physdesc>
+                  <extent>1 videotape(s) (VHS)</extent>
+               </physdesc>
+               <dao linktype="simple"
+                    actuate="onrequest"
+                    title="Parts 1-2"
+                    role="Audio-Streaming"
+                    href="https://sul-streaming.stanford.edu/collections/v0359/mp910mr7508_web.html"
+                    show="new">
+                  <daodesc>
+                     <p>Parts 1-2, 1987 </p>
+                  </daodesc>
+               </dao>
+            </did>
+         </c01>
+         <c01 id="ref10" level="file">
+            <did>
+               <container type="Box">1</container>
+               <unitid>1.2</unitid>
+               <unittitle>Parts 3-4</unittitle>
+               <unitdate>1987</unitdate>
+               <physdesc>
+                  <extent>1 videotape(s) (VHS)</extent>
+               </physdesc>
+               <dao linktype="simple"
+                    actuate="onrequest"
+                    title="Parts 3-4"
+                    role="Audio-Streaming"
+                    href="https://sul-streaming.stanford.edu/collections/v0359/st402fn3459_web.html"
+                    show="new">
+                  <daodesc>
+                     <p>Parts 3-4, 1987 </p>
+                  </daodesc>
+               </dao>
+            </did>
+         </c01>
+         <c01 id="ref11" level="file">
+            <did>
+               <container type="Box">1</container>
+               <unitid>1.3</unitid>
+               <unittitle>Parts 5-6</unittitle>
+               <unitdate>1987</unitdate>
+               <physdesc>
+                  <extent>1 videotape(s) (VHS)</extent>
+               </physdesc>
+               <dao linktype="simple"
+                    actuate="onrequest"
+                    title="Parts 5-6"
+                    role="Audio-Streaming"
+                    href="https://sul-streaming.stanford.edu/collections/v0359/mv797wb8889_web.html"
+                    show="new">
+                  <daodesc>
+                     <p>Parts 5-6, 1987 </p>
+                  </daodesc>
+               </dao>
+            </did>
+         </c01>
+         <c01 id="ref12" level="file">
+            <did>
+               <container type="Box">1</container>
+               <unitid>1.4</unitid>
+               <unittitle>Parts 7-8</unittitle>
+               <unitdate>1987</unitdate>
+               <physdesc>
+                  <extent>1 videotape(s) (VHS)</extent>
+               </physdesc>
+               <dao linktype="simple"
+                    actuate="onrequest"
+                    title="Parts 7-8"
+                    role="Audio-Streaming"
+                    href="https://sul-streaming.stanford.edu/collections/v0359/hj319gd0547_web.html"
+                    show="new">
+                  <daodesc>
+                     <p>Parts 7-8, 1987 </p>
+                  </daodesc>
+               </dao>
+            </did>
+         </c01>
+         <c01 id="ref13" level="file">
+            <did>
+               <container type="Box">2</container>
+               <unitid>2.1</unitid>
+               <unittitle>Parts 9-10</unittitle>
+               <unitdate>1987</unitdate>
+               <physdesc>
+                  <extent>1 videotape(s) (VHS)</extent>
+               </physdesc>
+               <dao linktype="simple"
+                    actuate="onrequest"
+                    title="Parts 9-10"
+                    role="Audio-Streaming"
+                    href="https://sul-streaming.stanford.edu/collections/v0359/kw558wy7581_web.html"
+                    show="new">
+                  <daodesc>
+                     <p>Parts 9-10, 1987 </p>
+                  </daodesc>
+               </dao>
+            </did>
+         </c01>
+         <c01 id="ref14" level="file">
+            <did>
+               <container type="Box">2</container>
+               <unitid>2.2</unitid>
+               <unittitle>Parts 11-12</unittitle>
+               <unitdate>1987</unitdate>
+               <physdesc>
+                  <extent>1 videotape(s) (VHS)</extent>
+               </physdesc>
+               <dao linktype="simple"
+                    actuate="onrequest"
+                    title="Parts 11-12"
+                    role="Audio-Streaming"
+                    href="https://sul-streaming.stanford.edu/collections/v0359/tz113xf6017_web.html"
+                    show="new">
+                  <daodesc>
+                     <p>Parts 11-12, 1987 </p>
+                  </daodesc>
+               </dao>
+            </did>
+         </c01>
+         <c01 id="ref15" level="file">
+            <did>
+               <container type="Box">2</container>
+               <unitid>2.3</unitid>
+               <unittitle>Parts 13-14</unittitle>
+               <unitdate>1987</unitdate>
+               <physdesc>
+                  <extent>1 videotape(s) (VHS)</extent>
+               </physdesc>
+               <dao linktype="simple"
+                    actuate="onrequest"
+                    title="Parts 13-14"
+                    role="Audio-Streaming"
+                    href="https://sul-streaming.stanford.edu/collections/v0359/wf192hr6088_web.html"
+                    show="new">
+                  <daodesc>
+                     <p>Parts 13-14, 1987 </p>
+                  </daodesc>
+               </dao>
+            </did>
+         </c01>
+         <c01 id="ref16" level="file">
+            <did>
+               <container type="Box">2</container>
+               <unitid>2.4</unitid>
+               <unittitle>Parts 15-16</unittitle>
+               <unitdate>1987</unitdate>
+               <physdesc>
+                  <extent>1 videotape(s) (VHS)</extent>
+               </physdesc>
+               <dao linktype="simple"
+                    actuate="onrequest"
+                    title="Parts 15-16"
+                    role="Audio-Streaming"
+                    href="https://sul-streaming.stanford.edu/collections/v0359/mq370dk9816_web.html"
+                    show="new">
+                  <daodesc>
+                     <p>Parts 15-16, 1987 </p>
+                  </daodesc>
+               </dao>
+            </did>
+         </c01>
+         <c01 id="ref17" level="file">
+            <did>
+               <container type="Box">3</container>
+               <unittitle>Parts 1-9, 11-16</unittitle>
+               <physdesc>
+                  <extent>15 videotape(s) (U-matic)</extent>
+                  <extent>(1 box)</extent>
+               </physdesc>
+            </did>
+         </c01>
+      </dsc>
+      <odd id="ref1" type="appendix">
+         <head>Stamp description</head>
+         <p>San Mateo, CA :, Distributed by Morgan Kaufmann Publishers, Inc.,</p>
+      </odd>
+      <odd id="ref2" type="appendix">
+         <head>General Note</head>
+         <p>Lecturer: Martin Kay (Xerox Parc and Stanford University).</p>
+      </odd>
+      <odd id="ref4" type="appendix">
+         <head>General Note</head>
+         <p>Linguistic Institute Videotapes.</p>
+      </odd>
+   </archdesc>
+</ead>

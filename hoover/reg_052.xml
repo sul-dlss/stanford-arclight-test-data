@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+    <eadheader findaidstatus="edited-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-CSt-H">reg_052.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Register of the French subject collection, 
+                    <date calendar="gregorian" era="ce">1665-2011</date>
+                </titleproper>
+                <titleproper type="filing">French subject collection</titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Processed by Linda Bernard and Olga Verhovskoy Dunlop; machine-readable finding aid created by James Lake</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Hoover Institution Archives</publisher>
+                <address>
+                    <addressline>434 Galvez Mall</addressline>
+                    <addressline>Stanford University</addressline>
+                    <addressline>Stanford, CA, 94305-6010</addressline>
+                    <addressline>(650) 723-3563</addressline>
+                    <addressline>hooverarchives@stanford.edu</addressline>
+                </address>
+                <date>© 1997</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2014-01-15T13:57-0800</date>
+            </creation>
+            <langusage>Description is in 
+                <language langcode="eng">English.</language></langusage>
+        </profiledesc>
+<revisiondesc>
+<change>
+      <date calendar="gregorian" era="ce" normal="20120806">August 6, 2012</date>
+      <item>Revised to update encoding by Samira Bozorgi</item>
+      </change>
+
+      <change>
+        <date calendar="gregorian" era="ce" normal="20100510">May 12, 2010</date>
+        <item>Updated container list to reflect rehousing and updated code to OAC best practices by Elizabeth Konzak</item>
+      </change>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//Stanford University::Hoover Institution Archives//TEXT
+(US::CSt-H::::French subject collection )//EN" "reg_052.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20110713">July 13, 2011</date>
+        <item>Revised to reflect increment corrections.</item>
+      </change>
+    </revisiondesc>
+
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>French subject collection,</unittitle>
+            <unitdate normal="1665/2011" type="inclusive">1665-2011</unitdate>
+            <unitid label="Collection Number" countrycode="US" repositorycode="CSt-H">XX746</unitid>
+            <repository>
+                <corpname>Hoover Institution Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="fre"/>
+            </langmaterial>
+            <physdesc>
+<extent>104 manuscript boxes, 17 microfilm reels, 8 phonotape reels, 9 phonotape cassettes, 13 videotape cassettes</extent>
+                <extent>(48.4 linear feet)</extent>
+            </physdesc>
+
+            <abstract id="ref2" label="Abstract">Pamphlets, leaflets, clippings, serial issues, election campaign literature, and other printed matter, relating to political, social and economic conditions in France, especially during the Fifth Republic; elections; socialist and communist movements; radicalism, especially student radicalism, during the events of 1968; freemasonry; and miscellaneous aspects of pre-twentieth-century French history.</abstract>
+            <physloc id="ref3" label="Physical Location">Hoover Institution Archives</physloc>
+        </did>
+        <accessrestrict id="ref5">
+            <head>Access</head>
+            <p>Collection is open for research.</p>
+            <p>The Hoover Institution Archives only allows access to 
+                <emph render="italic">copies</emph> of audiovisual items. To listen to sound recordings or to view videos or films during your visit, please contact the Archives at least two working days before your arrival. We will then advise you of the accessibility of the material you wish to see or hear. Please note that not all audiovisual material is immediately accessible.</p>
+        </accessrestrict>
+        <userestrict id="ref6">
+            <head>Publication Rights</head>
+            <p>For copyright status, please contact the Hoover Institution Archives</p>
+        </userestrict>
+        <prefercite id="ref7">
+            <head>Preferred Citation</head>
+            <p>[Identification of item], French subject collection, [Box no.], Hoover Institution Archives.</p>
+        </prefercite>
+        <accruals id="ref8">
+            <head>Accruals</head>
+            <p>Materials may have been added to the collection since this finding aid was prepared. To determine if this has occurred, find the collection in Stanford University's online catalog at 
+                <extref show="new" href="http://searchworks.stanford.edu/"> http://searchworks.stanford.edu/</extref>. Materials have been added to the collection if the number of boxes listed in the online catalog is larger than the number of boxes listed in this finding aid.</p>
+        </accruals>
+        <scopecontent id="ref9">
+            <head>Scope and Content of Collection</head>
+            <p>Pamphlets, leaflets, clippings, serial issues, election campaign literature, and other printed matter, relating to political, social and economic conditions in France, especially during the Fifth Republic; elections; socialist and communist movements; radicalism, especially student radicalism, during the events of 1968; freemasonry; and miscellaneous aspects of pre-twentieth-century French history.</p>
+        </scopecontent>
+        <controlaccess>
+            <corpname source="ingest">Freemasons--France.</corpname>
+            <subject source="ingest">Communism--France.</subject>
+            <subject source="lcsh">Elections--France.</subject>
+            <geogname source="ingest">France--History.</geogname>
+            <geogname source="lcsh">France--Politics and government--20th century.</geogname>
+            <subject source="ingest">General Strike, France, 1968.</subject>
+            <genreform source="lcsh">Phonotapes.</genreform>
+            <subject source="ingest">Radicalism--France.</subject>
+            <subject source="lcsh">Socialism--France.</subject>
+            <subject source="ingest">Student movements--France.</subject>
+            <genreform source="lcsh">Video tapes.</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref10" level="series">
+                <did>
+                    <unittitle>Subject File,</unittitle>
+                    <container id="cid2129028" type="Box" label="Boxes: ">1-99</container>
+                    <unitdate>1665-1994</unitdate>
+                </did>
+                <scopecontent id="ref71">
+                    <head>Scope and Contents note</head>
+                    <p>Pamphlets, leaflets, clippings, serial issues, campaign literature, and other printed matter, relating to political conditions and elections in France, especially during the Fifth Republic; socialist and communist movements in France; French radicalism, especially student radicalism during the events of 1968; freemasonry in France; and miscellaneous aspects of pre-twentieth-century French history.</p>
+                </scopecontent>
+                <c02 id="ref11" level="subseries">
+                    <did>
+                        <unittitle>General</unittitle>
+                        <container id="cid2129059" type="Box" label="Box: ">1</container>
+                    </did>
+                    <c03 id="ref12" level="otherlevel">
+                        <did>
+                            <unittitle>Miscellany</unittitle>
+                        </did>
+                        <c04 id="ref13" level="otherlevel">
+                            <did>
+                                <unittitle></unittitle>
+                                <unitdate>1665-1871</unitdate>
+                            </did>
+                            <c05 id="ref14" level="otherlevel">
+                                <did>
+                                    <unittitle>Correspondence, decrees, maps, drawings, and printed matter, relating to miscellaneous aspects of French governmental administration under the Bourbon and Orleanist monarchies and to the Paris Commune of 1871. Includes original decrees issued by Louis XIV, Louis XV, and Louis Philippe. In French</unittitle>
+                                    <unitdate>1665-1871,</unitdate>
+                                </did>
+                            </c05>
+                        </c04>
+                        <c04 id="ref15" level="otherlevel">
+                            <did>
+                                <unittitle></unittitle>
+                                <unitdate>1912-1947</unitdate>
+                            </did>
+                            <c05 id="ref16" level="otherlevel">
+                                <did>
+                                    <unittitle>Bulletins, newspaper issues, and printed matter, relating to various social and cultural conditions in France. Includes copies of the statutes of the Federation Nationale des Syndicats Maritimes, and of the annual report of the Chambre Consultative des Associations Ouvrieres de Production, Mainly in French</unittitle>
+                                    <unitdate>1912, 1925.</unitdate>
+                                </did>
+                            </c05>
+                        </c04>
+                    </c03>
+                    <c03 id="ref17" level="otherlevel">
+                        <did>
+                            <unittitle>Freemasons. Clippings, serial issues, pamphlets, bulletins, and election campaign material, relating to Freemasonry in France, Freemasons in politics, French politics and international relations in the 1920s and 1930s, the Popular Front, rightist movements in France, and occupied France during World War II. In French</unittitle>
+                            <container id="cid2129062" type="Box" label="Box: ">2-21 </container>
+                            <unitdate>1807-1947,</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref18" level="otherlevel">
+                        <did>
+                            <unittitle>Socialism. Clippings, newspaper and periodical issues, bulletins, pamphlets and leaflets, issued by communist, socialist, syndicalist and trade-union organizations in France, relating to the international and French communist, socialist, syndicalist and trade-union movements. Includes resolutions of the third national congress of Syndicats et Groupes Corporatifs Ouvriers de France, In French</unittitle>
+                            <container id="cid2129061" type="Box" label="Box: ">22-30 </container>
+                            <unitdate>1888-1947, 1888.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref19" level="otherlevel">
+                        <did>
+                            <unittitle>Communism. Articles from leftist French newspapers, relating to the movement for a Third International and to the mutiny of French sailors in the Black Sea. Translations of articles from French and Russian newspapers, relating to the development of a French communist party and to its adherence to the Third International</unittitle>
+                            <container id="cid2129060" type="Box" label="Box: ">30, 103 </container>
+                            <unitdate>1917-1919, 1919-1920,</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref20" level="subseries">
+                    <did>
+                        <unittitle></unittitle>
+                        <unitdate>1870-1940</unitdate>
+                    </did>
+                    <c03 id="ref21" level="otherlevel">
+                        <did>
+                            <unittitle>Post World War I reparations. Table, 1924, indicating French war reparation expenditures and internal and foreign debt for and budget for 1924</unittitle>
+                            <container id="cid2129058" type="Box" label="Box: ">30</container>
+                            <unitdate>1923,</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref22" level="otherlevel">
+                        <did>
+                            <unittitle>Souvarine, Boris. Photocopies of Jeannine Verdes-Leroux's articles on Boris Souvarine and reviews of her book 
+                                <title render="italic">A ContreCourant, Ecrits 1925-1939, </title></unittitle>
+                            <container id="cid2129057" type="Box" label="Box: ">89</container>
+                            <unitdate>1983-1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref23" level="otherlevel">
+                        <did>
+                            <unittitle>Miscellany</unittitle>
+                            <container id="cid2129056" type="Box" label="Box: ">97</container>
+                        </did>
+                        <c04 id="ref24" level="otherlevel">
+                            <did>
+                                <unittitle>Flyer scattered over Paris by airplane, urging Frenchmen to subscribe to defense bonds. In French</unittitle>
+                                <unitdate>October 1938,</unitdate>
+                            </did>
+                        </c04>
+                        <c04 id="ref25" level="otherlevel">
+                            <did>
+                                <unittitle>Sheet music of song written for French reservists, In French</unittitle>
+                                <unitdate>1939.</unitdate>
+                            </did>
+                        </c04>
+                    </c03>
+                </c02>
+                <c02 id="ref26" level="subseries">
+                    <did>
+                        <unittitle></unittitle>
+                        <unitdate>1945-1958</unitdate>
+                    </did>
+                    <c03 id="ref27" level="otherlevel">
+                        <did>
+                            <unittitle>Communist Party</unittitle>
+                        </did>
+                        <c04 id="ref28" level="otherlevel">
+                            <did>
+                                <unittitle>Speech delivered by Secretary Jacques Duclos at the Marigny Theater, Paris, on English translation</unittitle>
+                                <unitdate>March 20, 1946.</unitdate>
+                            </did>
+                        </c04>
+                        <c04 id="ref29" level="otherlevel">
+                            <did>
+                                <unittitle>Anti-American flyer, In French</unittitle>
+                                <unitdate>1951.</unitdate>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref30" level="otherlevel">
+                        <did>
+                            <unittitle>Elections - Flyers, leaflets, postcards, ballots, and stamps put out by "Paix et Liberte" and the "Parti republicain radical et radical-socialiste" for the 1956 general elections</unittitle>
+                            <container id="cid2129055" type="Box" label="Box: ">94</container>
+                            <unitdate>1956.</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref31" level="subseries">
+                    <did>
+                        <unittitle></unittitle>
+                        <unitdate>1958-</unitdate>
+                    </did>
+                    <c03 id="ref32" level="otherlevel">
+                        <did>
+                            <unittitle>General. Miscellaneous election leaflets, pamphlets, newspapers, magazines, and government documents, relating to political conditions in France. In French</unittitle>
+                            <container id="cid2129054" type="Box" label="Box: ">31-83, 98</container>
+                            <unitdate>1958-1981,</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref33" level="otherlevel">
+                        <did>
+                            <unittitle>Bi-Centennial celebration of the Revolution of 1789. Correspondence, articles, flyers, circulars, newsletters, and stickers, issued by the Association 15 Août 1989 and relating to the demonstration held in Paris on August 15, 1989, protesting the celebration of the French Revolution. In French</unittitle>
+                            <container id="cid2129053" type="Box" label="Box: ">96</container>
+                            <unitdate>1989,</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref34" level="otherlevel">
+                        <did>
+                            <unittitle>Economy. Booklet by Morvan Duhamel, relating to the French industry since 1955. In French</unittitle>
+                            <container id="cid2129052" type="Box" label="Box: ">97</container>
+                            <unitdate>1987,</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref35" level="otherlevel">
+                        <did>
+                            <unittitle>Education</unittitle>
+                            <container id="cid2129050" type="Box" label="Box: ">89</container>
+                        </did>
+                        <c04 id="ref36" level="otherlevel">
+                            <did>
+                                <unittitle>Leaflets and stickers denouncing the government's education policies, gathered at a demonstration which took place at Versailles on March 4, 1984</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="ref37" level="otherlevel">
+                            <did>
+                                <unittitle>Newsletters and flyers, issued by various education syndicates</unittitle>
+                                <container id="cid2129051" type="Box" label="Box: ">97</container>
+                                <unitdate>1989-1991,</unitdate>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref38" level="otherlevel">
+                        <did>
+                            <unittitle>Elections</unittitle>
+                        </did>
+                        <c04 id="ref39" level="otherlevel">
+                            <did>
+                                <unittitle>Material relating to the general elections of June in Toulouse</unittitle>
+                                <container id="cid2129049" type="Box" label="Box: ">89</container>
+                                <unitdate>1968.</unitdate>
+                            </did>
+                        </c04>
+                        <c04 id="ref40" level="otherlevel">
+                            <did>
+                                <unittitle>Miscellany relating to the Presidential election of May 5</unittitle>
+                                <container id="cid2129048" type="Box" label="Box: ">97</container>
+                                <unitdate>1974.</unitdate>
+                            </did>
+                        </c04>
+                        <c04 id="ref41" level="otherlevel">
+                            <did>
+                                <unittitle>Material relating to the local elections of March</unittitle>
+                                <container id="cid2129047" type="Box" label="Box: ">89</container>
+                                <unitdate>1985.</unitdate>
+                            </did>
+                        </c04>
+                        <c04 id="ref42" level="otherlevel">
+                            <did>
+                                <unittitle>Material relating to the legislative and regional elections of March 16</unittitle>
+                                <container id="cid2129046" type="Box" label="Box: ">90-94 </container>
+                                <unitdate>1986.</unitdate>
+                            </did>
+                        </c04>
+                        <c04 id="ref43" level="otherlevel">
+                            <did>
+                                <unittitle>Material relating to the Presidential elections of April 24 and May 8, and to the legislative elections of June 5 and 12</unittitle>
+                                <container id="cid2129045" type="Box" label="Box: ">95-96 </container>
+                                <unitdate>1988.</unitdate>
+                            </did>
+                        </c04>
+                        <c04 id="ref44" level="otherlevel">
+                            <did>
+                                <unittitle>Material relating to the local and regional elections of March 22</unittitle>
+                                <container id="cid2129044" type="Box" label="Box: ">98-99 </container>
+                                <unitdate>1992.</unitdate>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref45" level="otherlevel">
+                        <did>
+                            <unittitle>Immigration</unittitle>
+                        </did>
+                        <c04 id="ref46" level="otherlevel">
+                            <did>
+                                <unittitle>General. Study on the immigration question in France, and racist and xenophobic newsletters, magazines, and flyers, In French</unittitle>
+                                <container id="cid2129043" type="Box" label="Box: ">96</container>
+                                <unitdate>n.d., 1990.</unitdate>
+                            </did>
+                        </c04>
+                        <c04 id="ref47" level="otherlevel">
+                            <did>
+                                <unittitle>Nationality code. Pamphlet, In French</unittitle>
+                                <container id="cid2129042" type="Box" label="Box: ">97</container>
+                                <unitdate>1987.</unitdate>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref48" level="otherlevel">
+                        <did>
+                            <unittitle>Miscellany. Brochures, relating to economic development in the island of La Reunion. In French</unittitle>
+                            <unitdate>1983-1990,</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref49" level="otherlevel">
+                        <did>
+                            <unittitle>Political parties</unittitle>
+                        </did>
+                        <c04 id="ref50" level="otherlevel">
+                            <did>
+                                <unittitle>General. Broadsides, leaflets, and election campaign material, consisting of electoral and other propaganda from various political parties. In French</unittitle>
+                                <unitdate>1950-1961,</unitdate>
+                            </did>
+                            <c05 id="ref51" level="otherlevel">
+                                <did>
+                                    <unittitle></unittitle>
+                                    <container id="cid2129041" type="Box" label="Box: ">89</container>
+                                    <unitdate>1950-1961</unitdate>
+                                </did>
+                            </c05>
+                            <c05 id="ref52" level="otherlevel">
+                                <did>
+                                    <unittitle></unittitle>
+                                    <container id="cid2129040" type="Box" label="Box: ">98</container>
+                                    <unitdate>1993</unitdate>
+                                </did>
+                            </c05>
+                        </c04>
+                        <c04 id="ref53" level="otherlevel">
+                            <did>
+                                <unittitle>Communist Party</unittitle>
+                                <container id="cid2129039" type="Box" label="Box: ">97, 98 </container>
+                            </did>
+                            <c05 id="ref54" level="otherlevel">
+                                <did>
+                                    <unittitle>General. Brochures and leaflets,</unittitle>
+                                    <unitdate>1990.</unitdate>
+                                </did>
+                            </c05>
+                            <c05 id="ref55" level="otherlevel">
+                                <did>
+                                    <unittitle>Excerpt from the resolution of the 27th Congress of the Communist Party, published in 
+                                        <title render="italic">l'Humanite </title>of</unittitle>
+                                    <unitdate>December 26, 1990</unitdate>
+                                </did>
+                            </c05>
+                        </c04>
+                        <c04 id="ref56" level="otherlevel">
+                            <did>
+                                <unittitle>Generation Ecologie. Miscellany,</unittitle>
+                                <container id="cid2129038" type="Box" label="Box: ">99</container>
+                                <unitdate>1990-1991</unitdate>
+                            </did>
+                        </c04>
+                        <c04 id="ref57" level="otherlevel">
+                            <did>
+                                <unittitle>Front National. Five posters issued as part of the Front National's two-phase propaganda campaign launched in February 1991, with the message "Le Pen, fast" written in French, Hebrew, Arabic, Chinese, and Russian.</unittitle>
+                                <container id="cid2129037" type="Box" label="Box: ">97</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref58" level="otherlevel">
+                            <did>
+                                <unittitle>Mouvement des Democrates. Miscellany,</unittitle>
+                                <container id="cid2129036" type="Box" label="Box: ">99</container>
+                                <unitdate>1993</unitdate>
+                            </did>
+                        </c04>
+                        <c04 id="ref59" level="otherlevel">
+                            <did>
+                                <unittitle>Socialist Party</unittitle>
+                            </did>
+                            <c05 id="ref60" level="otherlevel">
+                                <did>
+                                    <unittitle>General. Printed matter,</unittitle>
+                                    <unitdate>1993</unitdate>
+                                </did>
+                            </c05>
+                            <c05 id="ref61" level="otherlevel">
+                                <did>
+                                    <unittitle>Stickers,</unittitle>
+                                    <container id="cid2129035" type="Box" label="Box: ">89</container>
+                                    <unitdate>1968</unitdate>
+                                </did>
+                            </c05>
+                            <c05 id="ref62" level="otherlevel">
+                                <did>
+                                    <unittitle>Newsletter and ephemera, In French</unittitle>
+                                    <container id="cid2129034" type="Box" label="Box: ">96</container>
+                                    <unitdate>1990.</unitdate>
+                                </did>
+                            </c05>
+                        </c04>
+                        <c04 id="ref63" level="otherlevel">
+                            <did>
+                                <unittitle>Union Pour la Democratie Francaise. Miscellany,</unittitle>
+                                <container id="cid2129033" type="Box" label="Box: ">99</container>
+                                <unitdate>1993</unitdate>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref64" level="otherlevel">
+                        <did>
+                            <unittitle>Public opinion - Gulf War of 1991. Correspondence, newsletters, and flyers, relating to the Gulf War of 1991 and mostly calling for demonstrations against it</unittitle>
+                            <container id="cid2129032" type="Box" label="Box: ">97</container>
+                            <unitdate>1991,</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref65" level="otherlevel">
+                        <did>
+                            <unittitle>Student Revolt,</unittitle>
+                            <container id="cid2129029" type="Box" label="Box: ">84-88, 98 </container>
+                            <unitdate>1968</unitdate>
+                        </did>
+                        <c04 id="ref66" level="otherlevel">
+                            <did>
+                                <unittitle>General. Pamphlets, leaflets, and serial issues relating to the student-worker revolt of May 1968. In French</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="ref67" level="otherlevel">
+                            <did>
+                                <unittitle>Miscellany relating to the student-worker revolt of May 1968. In French</unittitle>
+                                <container id="cid2129031" type="Box" label="Box: ">89</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref68" level="otherlevel">
+                            <did>
+                                <unittitle>Photocopies of political tracts, flyers, and broadsides relating to the student-worker revolt at the University of Toulouse in May-June 1968. In French</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="ref69" level="otherlevel">
+                            <did>
+                                <unittitle>Postcards reproducing posters and slogans of the student-worker revolt gathered in booklet form,</unittitle>
+                                <container id="cid2129030" type="Box" label="Box: ">97</container>
+                                <unitdate>1988</unitdate>
+                            </did>
+                        </c04>
+                        <c04 id="ref70" level="otherlevel">
+                            <did>
+                                <unittitle>Circulars and newsletters issued by various student organizations during the student-worker revolt of 1968</unittitle>
+                            </did>
+                        </c04>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref72" level="series">
+                <did>
+                    <unittitle>Audi-Visual Material,</unittitle>
+                    <unitdate>1958-1988.</unitdate>
+                </did>
+                <scopecontent id="ref94">
+                    <head>Scope and Contents note</head>
+                    <p>Video and phonotapes, microfilms and cassettes relating to the French Fifth Republic, the Student Revolt of 1968 and the elections of 1988. See also the Hoover Institution Library for 54 microfilm reels of daily French newspapers for the period May 2-July 3, 1968, and 3 microfilm reels of weekly French newspapers for the period April 20-July 4, 1968, covering the student uprising and the June parliamentary elections.</p>
+                </scopecontent>
+                <c02 id="ref73" level="otherlevel">
+                    <did>
+                        <unittitle>8 phonotapes of interviews of personalities involved in the events of May 1968; 2 videotapes relating to the legislative elections of June 5 and 12, 1988</unittitle>
+                        <container id="cid2129027" type="tape-cabinet" label=" ">Tape cabinet</container>
+                    </did>
+                </c02>
+                <c02 id="ref74" level="otherlevel">
+                    <did>
+                        <unittitle>8 phonotape cassettes of interviews of various political personalities, conducted by Radio France,</unittitle>
+                        <container id="cid2129018" type="Cassette-cabinet" label=" ">Cassette cabinet</container>
+                        <unitdate>1970-1978</unitdate>
+                    </did>
+                    <c03 id="ref75" level="item">
+                        <did>
+                            <unittitle>Radio France interview of Edgar Fauve</unittitle>
+                            <container id="cid2129026" type="Cassette-cabinet" label=" ">Cassette cabinet</container>
+                            <unitdate>06 May 1970</unitdate>
+                        </did>
+                        <accessrestrict id="ref76">
+                            <head>Access</head>
+                            <p>Use copy reference number: xx746_a_0009667</p>
+                        </accessrestrict>
+                    </c03>
+                    <c03 id="ref77" level="item">
+                        <did>
+                            <unittitle>Radio France interview of Jacques Chirac</unittitle>
+                            <container id="cid2129025" type="Cassette-cabinet" label=" ">Cassette cabinet</container>
+                            <unitdate>12 December 1977</unitdate>
+                        </did>
+                        <accessrestrict id="ref78">
+                            <head>Access</head>
+                            <p>Use copy reference number: xx746_a_0009660</p>
+                        </accessrestrict>
+                    </c03>
+                    <c03 id="ref79" level="item">
+                        <did>
+                            <unittitle>Radio France interview of Jacques Duclos</unittitle>
+                            <container id="cid2129024" type="Cassette-cabinet" label=" ">Cassette cabinet</container>
+                            <unitdate>03 April 1970</unitdate>
+                        </did>
+                        <accessrestrict id="ref80">
+                            <head>Access</head>
+                            <p>Use copy reference number: xx746_a_0009664</p>
+                        </accessrestrict>
+                    </c03>
+                    <c03 id="ref81" level="item">
+                        <did>
+                            <unittitle>Radio France interview of Jean Lecanuet</unittitle>
+                            <container id="cid2129023" type="Cassette-cabinet" label=" ">Cassette cabinet</container>
+                            <unitdate>26 December 1977</unitdate>
+                        </did>
+                        <accessrestrict id="ref82">
+                            <head>Access</head>
+                            <p>Use copy reference number: xx746_a_0009676</p>
+                        </accessrestrict>
+                    </c03>
+                    <c03 id="ref83" level="item">
+                        <did>
+                            <unittitle>Radio France interview of Michel Rocard</unittitle>
+                            <container id="cid2129022" type="Cassette-cabinet" label=" ">Cassette cabinet</container>
+                            <unitdate>16 February 1978</unitdate>
+                        </did>
+                        <accessrestrict id="ref84">
+                            <head>Access</head>
+                            <p>Use copy reference number: xx746_a_0009670</p>
+                        </accessrestrict>
+                    </c03>
+                    <c03 id="ref85" level="item">
+                        <did>
+                            <unittitle>Radio France interview of Pierre Mendès France</unittitle>
+                            <container id="cid2129021" type="Cassette-cabinet" label=" ">Cassette cabinet</container>
+                            <unitdate>02 February 1973</unitdate>
+                        </did>
+                        <accessrestrict id="ref86">
+                            <head>Access</head>
+                            <p>Use copy reference number: xx746_a_0009682</p>
+                        </accessrestrict>
+                    </c03>
+                    <c03 id="ref87" level="item">
+                        <did>
+                            <unittitle>Radio France interview of Rene Levesque</unittitle>
+                            <container id="cid2129020" type="Cassette-cabinet" label=" ">Cassette cabinet</container>
+                            <unitdate>04 February 1977</unitdate>
+                        </did>
+                        <accessrestrict id="ref88">
+                            <head>Access</head>
+                            <p>Use copy reference number: xx746_a_0009679</p>
+                        </accessrestrict>
+                    </c03>
+                    <c03 id="ref89" level="item">
+                        <did>
+                            <unittitle>Radio France interview of Simone Veil</unittitle>
+                            <container id="cid2129019" type="Cassette-cabinet" label=" ">Cassette cabinet</container>
+                            <unitdate>06 May 1975</unitdate>
+                        </did>
+                        <accessrestrict id="ref90">
+                            <head>Access</head>
+                            <p>Use copy reference number: xx746_a_0009673</p>
+                        </accessrestrict>
+                    </c03>
+                </c02>
+                <c02 id="ref91" level="item">
+                    <did>
+                        <unittitle>1 phonotape cassette relating to the legislative elections of June 5 and 12, 1988</unittitle>
+                    </did>
+                    <accessrestrict id="ref92">
+                        <head>Access</head>
+                        <p>Use copy reference number: xx746_a_0009659</p>
+                    </accessrestrict>
+                </c02>
+                <c02 id="ref93" level="otherlevel">
+                    <did>
+                        <unittitle>17 microfilm reels of newspaper issues from the French and Algerian press analyzing the legislative elections of 1958</unittitle>
+                        <container id="cid2129017" type="Microfilm-cabinet" label=" ">Microfilm cabinet</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref95" level="series">
+                <did>
+                    <unittitle>Incremental Materials 2000-2007,</unittitle>
+                    <container id="cid2129010" type="Folder" label="Box: ">101-102</container>
+                    <unitdate>1918-2007</unitdate>
+                </did>
+                <c02 id="ref96" level="otherlevel">
+                    <did>
+                        <unittitle>Newsletters,</unittitle>
+                        <container id="cid2129016" type="Folder" label="Box: ">101</container>
+                        <unitdate>1997-2000</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref97" level="otherlevel">
+                    <did>
+                        <unittitle>Newsletters,</unittitle>
+                        <container id="cid2129015" type="Folder" label="Box: ">101</container>
+                        <unitdate>2000</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref98" level="otherlevel">
+                    <did>
+                        <unittitle>Election campaign literature,</unittitle>
+                        <container id="cid2129014" type="Folder" label="Box: ">101</container>
+                        <unitdate>2001-2002</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref99" level="otherlevel">
+                    <did>
+                        <unittitle>Printed matter and memorabilia (4 folders)</unittitle>
+                        <container id="cid2129013" type="Folder" label="Box: ">102</container>
+                        <unitdate>1918 and n.d.</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref100" level="otherlevel">
+                    <did>
+                        <unittitle>Election campaign literature (17 folders),</unittitle>
+                        <container id="cid2129012" type="Folder" label="Box: ">102</container>
+                        <unitdate>2005-2007</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref101" level="otherlevel">
+                    <did>
+                        <unittitle>Election campaign literature,</unittitle>
+                        <container id="cid2129011" type="Folder" label="Box: ">102</container>
+                        <unitdate>2007</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref102" level="series">
+                <did>
+                    <unittitle>Incremental Materials</unittitle>
+                    <container id="cid2129009" type="Box" label="Box: ">103-104</container>
+                </did>
+                <scopecontent id="ref103">
+                    <head>Scope and Contents note</head>
+                    <p>This addition to the collection has not yet been described. Please let the Hoover Institution Archives know if you would like to see this material described. Contact us at 
+                        <extref href="mailto:hooverarchivesinfo@stanford.edu">hooverarchivesinfo@stanford.edu</extref></p>
+                </scopecontent>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

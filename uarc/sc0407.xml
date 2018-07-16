@@ -1,0 +1,3853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[Stanford University, Office of Undergraduate Admissions, records])//EN"
+             identifier="ark:/13030/kt9n39s2b1">sc0407.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Stanford University, Office of Undergraduate Admissions, Records
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Stanford University, Office of Undergraduate Admissions, Records</titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2010-10">October 2010</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date normal="2014-04">April 2014</date>
+            <item/>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC0407</unitid>
+         <origination label="Creator:">
+            <corpname rules="dacs" source="ingest">Stanford University. Office of Undergraduate Admissions.</corpname>
+         </origination>
+         <unittitle label="Title:">Stanford University, Office of Undergraduate Admissions, records</unittitle>
+         <unitdate normal="1962/1985"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1962-1985</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>18.5 Linear feet</extent>
+         </physdesc>
+         <abstract label="Summary:">General office files containing correspondence, memoranda, policies, surveys, reports, speeches, minutes, articles, and other records pertaining to policies and procedures, academic planning, housing, recruitment, financial aid, legislation, and other issues. Persons represented in the files include deans Fred A. Hargadon and Jean H. Fetter; assistant provost Raymond F. Bacchetti; and G. Robert Hamrdla of the undergraduate studies office.</abstract>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <descgrp type="provenance" id="prov">
+            <head>Provenance</head>
+            <acqinfo id="ref3">
+               <p>Administrative transfer, 1987.</p>
+            </acqinfo>
+         </descgrp>
+         <accessrestrict id="ref4">
+            <head>Information about Access</head>
+            <p>Restricted: for more information, contact the University Archivist.</p>
+         </accessrestrict>
+         <userestrict id="ref5">
+            <head>Ownership &amp; Copyright</head>
+            <p>All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Special Collections and University Archives, Stanford University Libraries, Stanford, California 94304-6064. Consent is given on behalf of Special Collections as the owner of the physical items and is not intended to include or imply permission from the copyright owner. Such permission must be obtained from the copyright owner, heir(s) or assigns. See: http://library.stanford.edu/depts/spc/pubserv/permissions.html.</p>
+            <p>Restrictions also apply to digital representations of the original materials. Use of digital files is restricted to research and educational purposes.</p>
+         </userestrict>
+         <prefercite id="ref6">
+            <head>Cite As</head>
+            <p>Stanford University, Office of Undergraduate Admissions, Records (SC0407). Department of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <scopecontent id="ref7">
+         <head>Description of the Collection</head>
+         <p>General office files containing correspondence, memoranda, policies, surveys, reports, speeches, minutes, articles, and other records pertaining to policies and procedures, academic planning, housing, recruitment, financial aid, legislation, and other issues. Persons represented in the files include deans Fred A. Hargadon and Jean H. Fetter; assistant provost Raymond F. Bacchetti; and G. Robert Hamrdla of the undergraduate studies office.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <persname rules="aacr" source="ingest">Bacchetti, Raymond F., 1934-</persname>
+         <persname rules="aacr" source="ingest">Fetter, Jean H.</persname>
+         <persname rules="aacr" source="ingest">Hamrdla, G. Robert.</persname>
+         <corpname rules="dacs" source="ingest">Stanford University. Office of Undergraduate Admissions.</corpname>
+         <subject source="LCSH">Universities and colleges--Admission.</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.5">
+         <head>Collection Contents</head>
+         <c01 id="ref8" level="series">
+            <did>
+               <unittitle>Records</unittitle>
+            </did>
+            <c02 id="ref9" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Donald Kennedy memos, January 21, 1981</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref10" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">2</container>
+                  <unittitle>President Lyman correspondence, 1971-79</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref11" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Speeches - Richard Lyman, 1973-77</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref12" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Jean Fetter memo re: alumni children and admissions, Dec. 13, 1978</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref13" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Fred Glover re: Linda Clever memo on newspaper articles, May 4, 1976</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref14" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Bob Hamrdla - article from METAS, publication of Aspira of American, Inc., Sept. 24, 1980</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref15" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Memos from assistants to the President - Stone, Nogales, Simmons, Shaw, 1972-74</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref16" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Robert R. Ausburger - VP for business and financial, August 1975</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref17" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Bienenstock News Reports, 1975-76</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref18" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">10</container>
+                  <unittitle>IRS admissions policies - business &amp; financial services, 1970</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref19" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">11</container>
+                  <unittitle>University relations - Melinda Howe memos, 1975</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref20" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Provost's Office - Keith Smith - Personnel reqs., July 14, 1982</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref21" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Al Hastorf-Acting Provost memo re: self-evaluation survey: programs for physically limited, Feb. 5, 1981</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref22" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">14</container>
+                  <unittitle>William Massey - Vice Provost memos, 1974-77</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref23" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">15</container>
+                  <unittitle>William Miller - Vice President &amp; Provost, 1971-78</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref24" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">16</container>
+                  <unittitle>Ray Bacchetti - Vice Provost memos, 197-78</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref25" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">17</container>
+                  <unittitle>Budget Adjustment Program - remarks by R. Bacchetti at Student Talk Series, 1971</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref26" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">18</container>
+                  <unittitle>Transfer credit - Ray Bacchetti, 1972-73</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref27" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">19</container>
+                  <unittitle>Center for Interdisciplinary Research - Massey, 1972</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref28" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">20</container>
+                  <unittitle>Edward E. Shaw - Assoc. Provost memos, 1971-78</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref29" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">21</container>
+                  <unittitle>E.E. Shaw - Academic Goal, 1971</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref30" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">22</container>
+                  <unittitle>Ombudsman - proposal for, May, 1969</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref31" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">23</container>
+                  <unittitle>AIC - Bob Hamrdla, 1972-76</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref32" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">24</container>
+                  <unittitle>AIC, 1978-79</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref33" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">25</container>
+                  <unittitle>AIC - senior survey, 1976</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref34" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">26</container>
+                  <unittitle>AIC -Survey of future academic plans of graduating students - class of 1974</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref35" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">27</container>
+                  <unittitle>Survey of future academic plans for graduating students - class of 1973</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref36" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">28</container>
+                  <unittitle>"The Senior Survey 1975"</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref37" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">29</container>
+                  <unittitle>Senior survey, 1971-72</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref38" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">30</container>
+                  <unittitle>Pre-meds at Stanford - Prof. S.A. Rosenberg, 1981-86</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref39" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">31</container>
+                  <unittitle>Academic planning, 1976-77</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref40" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">32</container>
+                  <unittitle>- survey A/NC analysis, 1974-75</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref41" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">33</container>
+                  <unittitle>reports, 1972-73</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref42" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">34</container>
+                  <unittitle>research II, 1972</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref43" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">35</container>
+                  <unittitle>, 1971</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref44" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">36</container>
+                  <unittitle>NCHEMS guide to data resources, 1975</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref45" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">37</container>
+                  <unittitle>James Lyons, Dean of Student Affairs, 4/73-9/85</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref46" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">38</container>
+                  <unittitle>Student affairs - DOSA - annual report, 1973-74</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref47" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">39</container>
+                  <unittitle>On campus student employment policies - Dean of Student's Office, 1972</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref48" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">40</container>
+                  <unittitle>Larry Horton - Assoc. Dean of Student Affairs, 8-9/76</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref49" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">41</container>
+                  <unittitle>Survey of commuting students at Stanford, 1975</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref50" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">42</container>
+                  <unittitle>Housing - Student Affairs Office, 1972-74</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref51" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">43</container>
+                  <unittitle>Room and board rates, March 22, 1985</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref52" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">44</container>
+                  <unittitle>Study of residential life, 1971</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref53" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">45</container>
+                  <unittitle>Summer session, Feb. 11, 1985</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref54" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">46</container>
+                  <unittitle>David Fulton - development office, 1978 and 1985</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref55" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">47</container>
+                  <unittitle>George T. Gregory - legal - GSO, Aug. 26, 1975</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref56" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">48</container>
+                  <unittitle>GSO general correspondence, 1977 and 1979</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref57" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">49</container>
+                  <unittitle>Gift program, 1971</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref58" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">50</container>
+                  <unittitle>University progress fund, June 28. 1971</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref59" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">51</container>
+                  <unittitle>Alumni Association, 1972 and 1976</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref60" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">52</container>
+                  <unittitle>Non-matriculated students - Tom Rhue, Asst. Dean of Graduate Studies, May 30, 1972</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref61" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">53</container>
+                  <unittitle>Review of Graduate Division, 1972</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref62" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">54</container>
+                  <unittitle>Stanford Daily - JHF interview questions by Charlie Gofen, May 4, 1985</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref63" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Stanford admissions seminar in LA area, Spring 1975</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref64" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Alumni admissions seminar - LA, May 1974</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref65" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Introduce Pres. Lyman, freshman orientation program, Sept. 26, 1975</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref66" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Academy Arts &amp; Sciences university governance meeting (NYC), June 19, 1970</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref67" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Admissions &amp; Guidance Institute, July 18, 1974</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref68" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Bishop school address, Fall 1969</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref69" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">7</container>
+                  <unittitle>CERAS conference for education writers, Jan. 20, 1980</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref70" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Eastern alumni meetings, Sept. 8-18, 1976</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref71" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Fund raisers talk, 4/15/77</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref72" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Harvard summer institute, July 25, 1979</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref73" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Seminar for administrators for Japanese private universities, Sept. 10, 1975</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref74" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Journalism fellows seminar, Oct. 27, 1977</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref75" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Speech - Katharine Branson Chapter - the cum laude society, Jan. 8, 1968</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref76" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Menlo School Mothers Club, Menlo School, May 11, 1976</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref77" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">15</container>
+                  <unittitle>NACAC conference workshop, Feb. 21, 1974</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref78" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">16</container>
+                  <unittitle>NACAC - Chicago - equal opportunity &amp; academic freedom, June 30, 1969</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref79" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">17</container>
+                  <unittitle>Parent's league speech (The Search for a College), ca. 1971</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref80" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">18</container>
+                  <unittitle>Sierra Camp (FAH as guest speaker), July 20-27, 1977</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref81" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">19</container>
+                  <unittitle>Simulated admissions process - Sierra camp, July 1971</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref82" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">20</container>
+                  <unittitle>U.C. Irvine meeting, 1976</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref83" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">21</container>
+                  <unittitle>Volunteer conference, 1976</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref84" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">22</container>
+                  <unittitle>Swarthmore-talks on admissions to alumni, etc., 1968</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref85" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">23</container>
+                  <unittitle>The Recruitment Function at Stanford - report to C-UAFA, June 1976</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref86" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">24</container>
+                  <unittitle>For distribution from FAH - memos on various subjects, 1974</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref87" level="file">
+               <did>
+                  <unittitle>Reports &amp; Surveys</unittitle>
+               </did>
+               <c03 id="ref88" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">25</container>
+                     <unittitle>Admissions data - general, March 1973</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref89" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">26</container>
+                     <unittitle>"Survey of Athletes" by Undergraduate Studies, 1972</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref90" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">27</container>
+                     <unittitle>Report of the University Comm. on Athletics and Physical Education, 1971</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref91" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">28</container>
+                     <unittitle>Report: faculty self-discipline, Jan. 1971</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref92" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">29</container>
+                     <unittitle>Professor McDonald - GSB - faculty tenure, 1974</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref93" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">30</container>
+                     <unittitle>Freshmen applications to four-year institutions (3/1/72 &amp; one year earlier)-survey by CEEB, 1972</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref94" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">31</container>
+                     <unittitle>Harvard minority overlap study, 1973</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref95" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">32</container>
+                     <unittitle>Harvard overlap college admissions study, 1966-69</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref96" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">33</container>
+                     <unittitle>Report on the influence of financial aid factors on freshman enrollment...by Conway, Verducci, Hopkins, Massey, 1978</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref97" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">34</container>
+                     <unittitle>Jasper Ridge biological preserve - a unviersity policy statement submitted by Bio Sci (copy), August 1974</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref98" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">35</container>
+                     <unittitle>Thomas C. Moser, English Dept. - jobs for Ph.D's, October 15, 1973</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref99" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">36</container>
+                     <unittitle>Lewis, John - Report on sabbatical year, 1971</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref100" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">37</container>
+                     <unittitle>Survey of off-campus students - housing, 1977</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref101" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">38</container>
+                     <unittitle>PROJECT INFO - progress report, April 1972</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref102" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">39</container>
+                     <unittitle>Report on financing alternative for public events - Tam Bacchetti, 1973</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref103" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">40</container>
+                     <unittitle>Report of the Ad Hoc Committee on Residential Education, 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref104" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">41</container>
+                     <unittitle>Student housing needs at Stanford, Jan. 1979</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref105" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">42</container>
+                     <unittitle>Student traits: survey (Saunders), 1958</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref106" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">43</container>
+                     <unittitle>Summary of degrees granted, 1975-76</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref107" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">44</container>
+                     <unittitle>Task force on tenure/teaching quality, 1977</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref108" level="file">
+               <did>
+                  <unittitle>Legislation</unittitle>
+               </did>
+               <c03 id="ref109" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">45</container>
+                     <unittitle>Legislation to watch, 1978</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref110" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">46</container>
+                     <unittitle>SB 2005 Truth in Testing, 1978</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref111" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">47</container>
+                     <unittitle>H.R. 10076-"Omnibus Right to Privacy Act," 1977</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref112" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">48</container>
+                     <unittitle>Guidelines to Buckley Amendment, 1975</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref113" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">1</container>
+                     <unittitle>HR69 - "Rights and Privacy" Amendment to Higher Education Bill - Buckley, 1975</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref114" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">2</container>
+                     <unittitle>O'Hara bill - HR3471 - to amend title IV of higher education act of 1965, 1975</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref115" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">3</container>
+                     <unittitle>HEW Title IX of Ed. amendment-proposed regulations, 1974-75</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref116" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">4</container>
+                     <unittitle>California fair employment practice act, May, 1974</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref117" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Cross lawsuit, 1971 and 1973</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref118" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Courts and universities - Supreme Court ruling, 1972</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref119" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Higher education act (Effective July 1972), Sept. 15, 1972</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref120" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">8</container>
+                     <unittitle>AB 3862 &amp; AB 1770, 1974 and 1973</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref121" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Rehabilitation act 1973 - 504 nondiscrimination on basis of handicap, 1977</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref122" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">10</container>
+                     <unittitle>Legal advisor to the president, James V. Siena, Jan. 28, 1974</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref123" level="file">
+               <did>
+                  <unittitle>Privacy - Student Records - Lists - Etc.</unittitle>
+               </did>
+               <c03 id="ref124" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Principles of privacy in university, 1972</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref125" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">12</container>
+                     <unittitle>Report of the Ad Hoc Committee on Protection of Privacy of Information at Stanford, 1972</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref126" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">13</container>
+                     <unittitle>Privacy and student records, 1970</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref127" level="file">
+               <did>
+                  <unittitle>Rights &amp; Responsibilities</unittitle>
+               </did>
+               <c03 id="ref128" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">14</container>
+                     <unittitle>"Rights &amp; Responsibilities" - sent to incoming freshmen, 1972</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref129" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">15</container>
+                     <unittitle>Regulations governing student conduct &amp; procedures for their enforcement, 1973</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref130" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">16</container>
+                     <unittitle>Grading practices, March 11, 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref131" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">17</container>
+                     <unittitle>McClenahan, June 17, 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref132" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">18</container>
+                     <unittitle>Kenneth S. Pitzer memo on safety of S.U. buildings, May 4, 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref133" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">19</container>
+                     <unittitle>Chicano Asst. Directors, 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref134" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">20</container>
+                     <unittitle>Ray Bacchetti memo &amp; cc of Earlham College letter, 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref135" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">21</container>
+                     <unittitle>Helen Kmetovic - Transfer suggestions</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref136" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">22</container>
+                     <unittitle>Richard Lyman, acting president memos, 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref137" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">23</container>
+                     <unittitle>Rick Turner, Asst. Director, UAO memos, 1970-71</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref138" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">24</container>
+                     <unittitle>John Lewis, special associate letter, Sept. 17, 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref139" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">25</container>
+                     <unittitle>Frannie Robinson</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref140" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">26</container>
+                     <unittitle>Howard Brooks, vice provost memos, 1971</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref141" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">27</container>
+                     <unittitle>B.Y.U. correspondence, 1969-70</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref142" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">28</container>
+                     <unittitle>Former personnel, 1969-70</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref143" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">29</container>
+                     <unittitle>Recommendations, 1969-70</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref144" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">30</container>
+                     <unittitle>Gil Chavez, 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref145" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">31</container>
+                     <unittitle>Caroline Audrich, 1972</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref146" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">32</container>
+                     <unittitle>Douglas Walker - student visiting program, 1969</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref147" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">33</container>
+                     <unittitle>NATIONAL NORMS FOR ENTERING COLLEGE FRESHMEN-FALL 1968, Dec. 3, 1968</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref148" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">34</container>
+                     <unittitle>Student-alumni associates &amp; their addresses, Nov. 1969</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref149" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">35</container>
+                     <unittitle>Hoglund recruitment program, 1969</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref150" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">36</container>
+                     <unittitle>Student visitor responses, Sept. 25, 1969</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref151" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">37</container>
+                     <unittitle>Upward Bound Program, 1967</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref152" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">38</container>
+                     <unittitle>Task Force Students admitted 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref153" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">39</container>
+                     <unittitle>B-M-A Indian (minority admission), 1969-70</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref154" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">40</container>
+                     <unittitle>Alumni Association memos &amp; correspondence, 1968-70</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref155" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">41</container>
+                     <unittitle>1967-68 freshman prediction formula, based on two-year experience, 1965-66, 1966-67</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref156" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">42</container>
+                     <unittitle>Overseas studies, 1978</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref157" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">43</container>
+                     <unittitle>ASSU oversears studies task force, 1977</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref158" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">44</container>
+                     <unittitle>Presidential commission on overseas campuses, 1973</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref159" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">45</container>
+                     <unittitle>Overseas campuses Observer article, 1972</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref160" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">46</container>
+                     <unittitle>Public affairs, 1985</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref161" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">47</container>
+                     <unittitle>Registrar - Sally Mahoney, 1974</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref162" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">48</container>
+                     <unittitle>Grading - Stanford - Mahoney, 1975</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref163" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">49</container>
+                     <unittitle>Student service system, 1975</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref164" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">50</container>
+                     <unittitle>Registrar - search, 1973</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref165" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">51</container>
+                     <unittitle>Katchadourian, 1978</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref166" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">52</container>
+                     <unittitle>Commission on Undergraduate Studies, 1979-80</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref167" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">53</container>
+                     <unittitle>James Gibbs, 1972</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref168" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">54</container>
+                     <unittitle>Undergraduate studies report, 1970-72</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref169" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">55</container>
+                     <unittitle>A Stanford Education, 1972</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref170" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">56</container>
+                     <unittitle>Robert Freelen, 1976</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref171" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">57</container>
+                     <unittitle>Admission commission discussion topics, 1970-71</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref172" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">58</container>
+                     <unittitle>MacKinnon speech, 1962</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref173" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">59</container>
+                     <unittitle>Admission Commission - documents, 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref174" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">60</container>
+                     <unittitle>- correspondence, 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref175" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">61</container>
+                     <unittitle>- Financial Aid, 1971</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref176" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Admission Commission - minutes, 1971</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref177" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">2</container>
+                     <unittitle>- makeup, 1971</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref178" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Quad statement, 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref179" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">4</container>
+                     <unittitle>ACT/SAT tables, 1968</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref180" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Bates college case, 1969</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref181" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Transfer admission, 1971</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref182" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Enrollment projections, 1971</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref183" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">8</container>
+                     <unittitle>ACT, 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref184" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Data processing - admissions, 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref185" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">10</container>
+                     <unittitle>Coding sheets, 1970-71</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref186" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Admissions - general correspondence, 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref187" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">12</container>
+                     <unittitle>Affidavits - Cross case, 1971</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref188" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">13</container>
+                     <unittitle>Admissions - Faculty - Staff children</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref189" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">14</container>
+                     <unittitle>"A" letter program - letter to alumni, 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref190" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">15</container>
+                     <unittitle>Black admission - transfer, 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref191" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">16</container>
+                     <unittitle>Asian/American, 1974</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref192" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">17</container>
+                     <unittitle>Tuition, 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref193" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">18</container>
+                     <unittitle>Room and board, 1971</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref194" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">19</container>
+                     <unittitle>National achievement scholars, 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref195" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">20</container>
+                     <unittitle>SES: admissions, 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref196" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">21</container>
+                     <unittitle>Open admissions - lottery, etc.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref197" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">22</container>
+                     <unittitle>Tuition/grant eligibility, 1969</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref198" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">23</container>
+                     <unittitle>Application fees, 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref199" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">24</container>
+                     <unittitle>Fee waiver: CEEB guidelines, 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref200" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">25</container>
+                     <unittitle>Memo: revision app. forms and process, 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref201" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">26</container>
+                     <unittitle>Independent schools letter, 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref202" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">27</container>
+                     <unittitle>California state scholarships, 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref203" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">28</container>
+                     <unittitle>National Merit scholars - freshman, 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref204" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">29</container>
+                     <unittitle>Jack Black: accept/decline study, 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref205" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">30</container>
+                     <unittitle>Alumni schools comm., 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref206" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">31</container>
+                     <unittitle>Egad statement, 1967</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref207" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">32</container>
+                     <unittitle>APO report, 1984</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref208" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">33</container>
+                     <unittitle>Trustees '85</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref209" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">34</container>
+                     <unittitle>CA State Dept. Ed. Prof. Exam. Matters, 5/11/82</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref210" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">35</container>
+                     <unittitle>Computer application - functional description Stanford student data base system, October 1976</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref211" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">36</container>
+                     <unittitle>Rebuttal to Stanford Daily articles by Fred A. Hargadon, 1971-77</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref212" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">37</container>
+                     <unittitle>Stanford University news service, 1973-75</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref213" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">38</container>
+                     <unittitle>, 1975-76</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref214" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">39</container>
+                     <unittitle>Stanford University Medical Center News Bureau, 1972</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref215" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Athletics, 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref216" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Athletics 1.6 ruling ACT,SAT, etc, 1968-70</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref217" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Letters of Recommendation (Fred A. Hargadon), 1960-74</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref218" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Travel policies &amp; procedures (FAH), 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref219" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">5</container>
+                     <unittitle>FAH speech-Westlake school commencement, 6/7/72</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref220" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Stanford alumni admissions seminar, 5/8/76</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref221" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">7</container>
+                     <unittitle>ABC (A Better Chance, Inc.), 1978</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref222" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Loan reports, 1973-77</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref223" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Univ. student loan program (Larry Hough), 1973</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref224" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">10</container>
+                     <unittitle>AGFAP - CA student aid commission, 1979</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref225" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">11</container>
+                     <unittitle>- Fred A. Hargadon, 2/16/69</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref226" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">12</container>
+                     <unittitle>(Advisory Group on Financial Aid Problems), 3/30/68</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref227" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">13</container>
+                     <unittitle>CA student aid commission - San Diego, 1/11-12/78</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref228" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">14</container>
+                     <unittitle>Agenda-joint meeting of Student Aid Commission Ad Hoc Committee on the Single Common Financial Aid Form &amp; the Advisory Group on Financial Aid Problems, 1/11/78</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref229" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">15</container>
+                     <unittitle>CA student aid commission, 1982</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref230" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">16</container>
+                     <unittitle>AGFAP - CA student aid commission, 1978</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref231" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">17</container>
+                     <unittitle>(Marmaduke), 1977</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref232" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">18</container>
+                     <unittitle>CA student aid commission meeting, 6/7/76</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref233" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">19</container>
+                     <unittitle>College opportunity grant, 1975</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref234" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">20</container>
+                     <unittitle>program, 1974-75</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref235" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">21</container>
+                     <unittitle>advisory committee, June, 1973</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref236" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">22</container>
+                     <unittitle>program, 1970-73</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref237" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">23</container>
+                     <unittitle>program, 1969-70</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref238" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">24</container>
+                     <unittitle>Public service internship program, 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref239" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">25</container>
+                     <unittitle>National achievement scholarship program, 1976-78</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref240" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">26</container>
+                     <unittitle>for outstanding Negro students, 1973</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref241" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">27</container>
+                     <unittitle>Mailing to finalists in national achievement scholarship program (Black), 1973-75</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref242" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">28</container>
+                     <unittitle>National consortium for black professional dev., 1975</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref243" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">29</container>
+                     <unittitle>National merit scholarship corp., 1972</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref244" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">30</container>
+                     <unittitle>Special scholarships: other colleges</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref245" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">31</container>
+                     <unittitle>Youth opportunities foundation (Los Angeles), 1971</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref246" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">32</container>
+                     <unittitle>The S&amp;H foundation, inc., 1971-74</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref247" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">33</container>
+                     <unittitle>Stanford club scholarships, 1971</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref248" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">34</container>
+                     <unittitle>Advanced placement, 1975-77</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref249" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">35</container>
+                     <unittitle>Ad hoc panel on advanced placement, 1974-75</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref250" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">36</container>
+                     <unittitle>Statewide advanced placement committee, 1969-71</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref251" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">37</container>
+                     <unittitle>American college testing programs conversion table to SAT</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref252" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">38</container>
+                     <unittitle>TOEFL test of English as a foreign language</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref253" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">39</container>
+                     <unittitle>CLEP</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref254" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">40</container>
+                     <unittitle>Residence configuration, 1970-71</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref255" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">41</container>
+                     <unittitle>Cluster - house residents, 1970-71</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref256" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">42</container>
+                     <unittitle>Student residential study, 1971</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref257" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">43</container>
+                     <unittitle>Gibbs' informal discussion group, 1971</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref258" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">44</container>
+                     <unittitle>CYFA - make-up, 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref259" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">45</container>
+                     <unittitle>CFYA - agendas, 1970-71</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref260" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">46</container>
+                     <unittitle>CFYA - minutes, 1970-71</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref261" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">47</container>
+                     <unittitle>Freshman orientation committee, 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref262" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">48</container>
+                     <unittitle>CFYA - documents I, 1969-70</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref263" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">49</container>
+                     <unittitle>CFYA - documents II, 1970-71</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref264" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Class registration - by departments, 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref265" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Foreign students, 1969</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref266" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Summer school, 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref267" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Foreign students - Stanford, 1969-70</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref268" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Student special service proposal, 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref269" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Approaching Stanford, 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref270" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Grading systems - college</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref271" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Co-ed dorms, 1969</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref272" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Freshman profiles - other colleges, 1965-69</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref273" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">10</container>
+                     <unittitle>Minorities, 1969</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref274" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Stanford/Howard exchange, 1978-85</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref275" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">12</container>
+                     <unittitle>Bowdoin, 1973, 1979</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref276" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">13</container>
+                     <unittitle>Brown University, 1979</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref277" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">14</container>
+                     <unittitle>CA Institute of Technology, 1978, 1985</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref278" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">15</container>
+                     <unittitle>CA Universities &amp; Colleges, 1972, 1977</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref279" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">16</container>
+                     <unittitle>Claremont Men's College, 1979</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref280" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">17</container>
+                     <unittitle>Cornell</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref281" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">18</container>
+                     <unittitle>Harvard admissions</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref282" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">19</container>
+                     <unittitle>News articles - Harvard</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref283" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">20</container>
+                     <unittitle>Univ. of CA policy/undergrad. adm.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref284" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">21</container>
+                     <unittitle>National Task Force/Fund for Improvement of Postsecondary Education (HEW), 1976</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref285" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">22</container>
+                     <unittitle>CUAFA, 1974-76</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref286" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">23</container>
+                     <unittitle>- annual report, 1975-76</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref287" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">24</container>
+                     <unittitle>Academic advising at Stanford report, 1973</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref288" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">25</container>
+                     <unittitle>University fellows, 1978-79</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref289" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">26</container>
+                     <unittitle>executive committee, 1975-76</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref290" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">27</container>
+                     <unittitle>COFHE, 1979</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref291" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">28</container>
+                     <unittitle>Admissions office survey, 1979</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref292" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">29</container>
+                     <unittitle>COFHE, 1976-78</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref293" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">30</container>
+                     <unittitle>, 1974-75</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref294" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">31</container>
+                     <unittitle>Application forms notes</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref295" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">32</container>
+                     <unittitle>Application forms - Swarthmore</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref296" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">33</container>
+                     <unittitle>Engineering, 1969-71</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref297" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">34</container>
+                     <unittitle>Private schools - USA, 7/10/67</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref298" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">35</container>
+                     <unittitle>Admissions questionnaire (accepted/not enrolled), 8/9/68</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref299" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">36</container>
+                     <unittitle>Workshop (admissions - alumni)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref300" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">37</container>
+                     <unittitle>Less time, more options: education beyond the high school, 12/1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref301" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">38</container>
+                     <unittitle>Heritage fund '71</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref302" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">39</container>
+                     <unittitle>ROTC/NROTC, 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref303" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">40</container>
+                     <unittitle>Alumni Council representative - Haverford College, 91/6/70</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref304" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">41</container>
+                     <unittitle>WACAC list, 2/5/71</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref305" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">42</container>
+                     <unittitle>"Done" - misc. programs (mostly thank-you notes), 1970</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref306" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">43</container>
+                     <unittitle>Fred A. Hargadon talk - R. Lyman dinner, 3/9/71</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref307" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">44</container>
+                     <unittitle>"A" candidate follow-up, 1962-68</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref308" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">45</container>
+                     <unittitle>School visit reports, 1969-70</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref309" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">46</container>
+                     <unittitle>Office procedure and policy, 1969</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref310" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">47</container>
+                     <unittitle>College &amp; univ. environment scales, 1966</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref311" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">48</container>
+                     <unittitle>Student recruiters, 1969</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref312" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Ford Foundation meeting, 5/27/70</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref313" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">2</container>
+                     <unittitle>National Council of Teachers of English, 1/1975</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref314" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Letter to the Editor (Palo Alto Times), 5/10/70</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref315" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Time, 1/17/72</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref316" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Time - ltr to the ed. (Donham letters-women admissions), 3/20/72</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref317" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">6</container>
+                     <unittitle>"Testing" - news items &amp; reports, 1972-73</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref318" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Articles: tests, 1970-72</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref319" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">8</container>
+                     <unittitle>: tuition, 1972</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref320" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">9</container>
+                     <unittitle>: higher education-tutoring, 1973</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref321" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">10</container>
+                     <unittitle>: women, 1970-71</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref322" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">11</container>
+                     <unittitle>: secondary education, 1971-73</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref323" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">12</container>
+                     <unittitle>: higher education, 1966-73</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref324" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">13</container>
+                     <unittitle>: higher education II, 1963-72</unittitle>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="ref415" level="series">
+            <did>
+               <unitid>Accession ARCH-2002-265</unitid>
+               <unittitle>Admissions film outakes</unittitle>
+               <unitdate normal="1984/1985" type="inclusive">circa 1984-1985</unitdate>
+            </did>
+            <c02 id="ref416" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>The Farm -- 4 Jocks/Historical Muybridge Photo/Carla</unittitle>
+                  <unitdate>1980s</unitdate>
+                  <physdesc>
+                     <extent>1 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref417" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Miscellaneous Trimsm Trims- Fine Cut</unittitle>
+                  <unitdate>1980s</unitdate>
+                  <physdesc>
+                     <extent>1 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref418" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Hunger Rally Ext.</unittitle>
+                  <unitdate>1980s</unitdate>
+                  <physdesc>
+                     <extent>1 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref419" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>The Farm -- Hopkins Marine Station</unittitle>
+                  <unitdate>1980s</unitdate>
+                  <physdesc>
+                     <extent>1 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref420" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Don Kennedy -- Frosh Advisee (Wild Sound)</unittitle>
+                  <unitdate>1980s</unitdate>
+                  <physdesc>
+                     <extent>1 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref421" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Mos Jasper Ridge + Ehrlich</unittitle>
+                  <unitdate>1980s</unitdate>
+                  <physdesc>
+                     <extent>1 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref422" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>B. Randolph Sync Interview Mos--Ext. house and class</unittitle>
+                  <unitdate>1980s</unitdate>
+                  <physdesc>
+                     <extent>1 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref423" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Class , J. Adams, Viss Door, Mos</unittitle>
+                  <unitdate>1980s</unitdate>
+                  <physdesc>
+                     <extent>1 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref424" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>R. Helliwell Antartica Fine Cut Trims (1/2)</unittitle>
+                  <unitdate>1980s</unitdate>
+                  <physdesc>
+                     <extent>1 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref425" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>R. Helliewll Antartica Fine Cut Trims (2/2)</unittitle>
+                  <unitdate>1980s</unitdate>
+                  <physdesc>
+                     <extent>1 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref426" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>G. Harrison and Ensemble (Wild Sound) Takes 1-10</unittitle>
+                  <unitdate>1980s</unitdate>
+                  <physdesc>
+                     <extent>1 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref427" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>J. Gibbons</unittitle>
+                  <unitdate>1980s</unitdate>
+                  <physdesc>
+                     <extent>1 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref428" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Painting Class (Not edge coded)</unittitle>
+                  <unitdate>1980s</unitdate>
+                  <physdesc>
+                     <extent>1 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref429" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Wild Sound -- Shinkman-Berstein -- VTSS- Middlebrook</unittitle>
+                  <unitdate>1980s</unitdate>
+                  <physdesc>
+                     <extent>1 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref430" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Ted Kennedy</unittitle>
+                  <unitdate>1980s</unitdate>
+                  <physdesc>
+                     <extent>1 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref431" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>David Kennedy Sync</unittitle>
+                  <unitdate>1980s</unitdate>
+                  <physdesc>
+                     <extent>1 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref432" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Stanford Band</unittitle>
+                  <unitdate>1980s</unitdate>
+                  <physdesc>
+                     <extent>1 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref433" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>D. Scott Take 1-3 also at Daily with K. Olmstead (Wild sound computer at Daily)</unittitle>
+                  <unitdate>1980s</unitdate>
+                  <physdesc>
+                     <extent>1 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref434" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>D. Middlebrook</unittitle>
+                  <unitdate>1980s</unitdate>
+                  <physdesc>
+                     <extent>1 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref435" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Kids at Boat House, Boathouse 2 (Rough Cut, Trims, Wild Sound, Outtakes)</unittitle>
+                  <unitdate>1980s</unitdate>
+                  <physdesc>
+                     <extent>1 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref436" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Admissions Office Take 1 CU Letters; Take 2 MS Letters; Take 3A,B,C Keith Light (Rough Cut)</unittitle>
+                  <unitdate>1980s</unitdate>
+                  <physdesc>
+                     <extent>1 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref437" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Supers -- Original</unittitle>
+                  <unitdate>1980s</unitdate>
+                  <physdesc>
+                     <extent>1 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref438" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Exterior Mos, Barns, Studcuts, Guard, Etc.</unittitle>
+                  <unitdate>1980s</unitdate>
+                  <physdesc>
+                     <extent>1 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref439" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Libraries -- J. Krasner Government Doc, Special Collections -- Mos</unittitle>
+                  <unitdate>1980s</unitdate>
+                  <physdesc>
+                     <extent>1 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref440" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Graduation -- Sync (1/2)</unittitle>
+                  <unitdate>1980s</unitdate>
+                  <physdesc>
+                     <extent>1 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref441" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Graduation -- Mos &amp; Wild sound (2/2)</unittitle>
+                  <unitdate>1980s</unitdate>
+                  <physdesc>
+                     <extent>1 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref442" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Condi and Ali</unittitle>
+                  <unitdate>1980s</unitdate>
+                  <physdesc>
+                     <extent>1 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref443" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Betsy Randolph Dinenr Gootage (2/2)</unittitle>
+                  <unitdate>1980s</unitdate>
+                  <physdesc>
+                     <extent>1 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref444" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Interior Mos</unittitle>
+                  <unitdate>1980s</unitdate>
+                  <physdesc>
+                     <extent>1 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref445" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Stanford Admissions Film Project (Fine Cut)</unittitle>
+                  <unitdate>1980s</unitdate>
+                  <physdesc>
+                     <extent>6 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref446" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Page Konrad stanford Admissions Rolls 20</unittitle>
+                  <unitdate>1980s</unitdate>
+                  <physdesc>
+                     <extent>1 film reel(s) (35mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref447" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Brad Efron - Bart Bernstein -- not edge coded</unittitle>
+                  <unitdate>1980s</unitdate>
+                  <physdesc>
+                     <extent>6 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref448" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>4 Foreign Students (Sync, Mos)</unittitle>
+                  <unitdate>1980s</unitdate>
+                  <physdesc>
+                     <extent>6 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref449" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>The 2 Frat Bros -- Kevin and Chris Interview</unittitle>
+                  <unitdate>1980s</unitdate>
+                  <physdesc>
+                     <extent>6 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref450" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Kathy Olmstead</unittitle>
+                  <unitdate>1980s</unitdate>
+                  <physdesc>
+                     <extent>6 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref451" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Page Konrad Stanford Admissions Roll No. 1</unittitle>
+                  <unitdate>3/7/1985</unitdate>
+                  <physdesc>
+                     <extent>6 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref452" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Page Konrad/Stanford Comm Stanford Admissions' St. Band Roll No. 3</unittitle>
+                  <unitdate>3/11/1985</unitdate>
+                  <physdesc>
+                     <extent>6 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref453" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Page Konrad Stanford Admissions Roll No. 4</unittitle>
+                  <unitdate>3/26/1985</unitdate>
+                  <physdesc>
+                     <extent>6 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref454" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>P. Konrad Stanford Admissions Roll No. 6-0SR 7424</unittitle>
+                  <unitdate>4/4/1985</unitdate>
+                  <physdesc>
+                     <extent>6 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref455" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>P. Konrad Stanford Admissions Roll No. 7-SR 7522</unittitle>
+                  <unitdate>4/4/1985</unitdate>
+                  <physdesc>
+                     <extent>6 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref456" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>P. Konrad Stanford Admissions Roll No. CR 8-CP-13877</unittitle>
+                  <unitdate>5/8/1985</unitdate>
+                  <physdesc>
+                     <extent>6 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref457" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>P. Konrad Stanford Admissions Roll No. 9-SR-7424</unittitle>
+                  <unitdate>5/8/1985</unitdate>
+                  <physdesc>
+                     <extent>6 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref458" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>P. Konrad Stanford Admissions Roll No. 10-SR-7522</unittitle>
+                  <unitdate>5/8/1985</unitdate>
+                  <physdesc>
+                     <extent>6 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref459" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>P. Konrad Stanford Admissions Roll No. 18-SR 7522</unittitle>
+                  <unitdate>4/23/1985</unitdate>
+                  <physdesc>
+                     <extent>6 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref460" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>P. Konrad Stanford Admissions Roll No. 18-A 19</unittitle>
+                  <unitdate>3/10/1985</unitdate>
+                  <physdesc>
+                     <extent>6 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref461" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>P. Konrad Stanford Admissions Roll No. 17-SR 7424</unittitle>
+                  <unitdate>4/23/1985</unitdate>
+                  <physdesc>
+                     <extent>6 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref462" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>P. Konrad Stanford Admissions Roll No. 15-SR-7424</unittitle>
+                  <unitdate>5/16/1985</unitdate>
+                  <physdesc>
+                     <extent>6 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref463" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>P. Konrad Stanford Admissions Roll No. 14-SR-7522</unittitle>
+                  <unitdate>5/6/1985</unitdate>
+                  <physdesc>
+                     <extent>6 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref464" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>P. Konrad Stanford Admissions Roll No. 13-SR-7424</unittitle>
+                  <unitdate>5/11/1985</unitdate>
+                  <physdesc>
+                     <extent>6 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref465" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>P. Konrad Stanford Admissions Roll No. 12-SR-7522</unittitle>
+                  <unitdate>5/11/1985</unitdate>
+                  <physdesc>
+                     <extent>6 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref466" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>P. Konrad Stanford Admissions Roll No. 11-CP-13877</unittitle>
+                  <unitdate>5/9/1985</unitdate>
+                  <physdesc>
+                     <extent>6 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref467" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>P. Konrad Stanford Admissions Roll No. 21</unittitle>
+                  <unitdate>5/23/1985</unitdate>
+                  <physdesc>
+                     <extent>6 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref468" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>P. Konrad Stanford Admissions Roll No. 22</unittitle>
+                  <unitdate>5/23/1985</unitdate>
+                  <physdesc>
+                     <extent>6 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref469" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>P. Konrad Stanford Admissions Roll No. 23 (actually 24)</unittitle>
+                  <unitdate>6/3/1985</unitdate>
+                  <physdesc>
+                     <extent>6 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref470" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>P. Konrad Stanford Admissions Roll No. 25</unittitle>
+                  <unitdate>6/11/1985</unitdate>
+                  <physdesc>
+                     <extent>6 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref471" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>P. Konrad Stanford Admissions Roll No. 29</unittitle>
+                  <unitdate>6/16/1985</unitdate>
+                  <physdesc>
+                     <extent>6 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref472" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>P. Konrad Stanford Admissions Roll No. 31</unittitle>
+                  <unitdate>6/24/1985</unitdate>
+                  <physdesc>
+                     <extent>6 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref473" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>P. Konrad Stanford Admissions Roll No. 32</unittitle>
+                  <unitdate>6/25/1985</unitdate>
+                  <physdesc>
+                     <extent>6 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref474" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>P. Konrad Stanford Admissions Roll No. 33</unittitle>
+                  <unitdate>7/1/1985</unitdate>
+                  <physdesc>
+                     <extent>6 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref475" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>P. Konrad/W. Chan Stanford Admissions CR#2</unittitle>
+                  <unitdate>3/7/1985</unitdate>
+                  <physdesc>
+                     <extent>6 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref476" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>P. Konrad Stanford Admissions CR#23-SR</unittitle>
+                  <unitdate>1985</unitdate>
+                  <physdesc>
+                     <extent>6 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref477" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>P. Konrad/W. Chan Stanford Admissions CR#27-7424</unittitle>
+                  <unitdate>6/15/1985</unitdate>
+                  <physdesc>
+                     <extent>6 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref478" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>P. Konrad/W. Chan Stanford Admissions CR#28</unittitle>
+                  <unitdate>6/16/1985</unitdate>
+                  <physdesc>
+                     <extent>6 film reel(s) (16mm)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref479" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Shinkman Bernstein #1</unittitle>
+                  <unitdate>3/5/1985</unitdate>
+                  <physdesc>
+                     <extent>1 audiotape(s) (reel-to-reel)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref481" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Unidentified</unittitle>
+                  <physdesc>
+                     <extent>1 audiotape(s) (reel-to-reel)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref483" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Unidentified</unittitle>
+                  <physdesc>
+                     <extent>1 audiotape(s) (reel-to-reel)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref485" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Film-Fair "America FC 145"</unittitle>
+                  <unitdate>2/24/1974</unitdate>
+                  <physdesc>
+                     <extent>1 audiotape(s) (reel-to-reel)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref487" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Stanford Chamber Orchestra -- Charles Fergueson</unittitle>
+                  <unitdate>1980s</unitdate>
+                  <physdesc>
+                     <extent>1 audiotape(s) (reel-to-reel)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref489" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Brad Efron Wild Sound Take 1, Ambiance</unittitle>
+                  <unitdate>1980s</unitdate>
+                  <physdesc>
+                     <extent>1 audiotape(s) (reel-to-reel)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref491" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Reel 1 Spruce Studies</unittitle>
+                  <unitdate>1980s</unitdate>
+                  <physdesc>
+                     <extent>1 audiotape(s) (reel-to-reel)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref493" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Ali and Condi Faculty Club</unittitle>
+                  <unitdate>1980s</unitdate>
+                  <physdesc>
+                     <extent>1 audiotape(s) (reel-to-reel)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref495" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Graduation</unittitle>
+                  <unitdate>6/15/1985</unitdate>
+                  <physdesc>
+                     <extent>1 audiotape(s) (reel-to-reel)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref497" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Class Day C. Rice D. Kennedy Garden</unittitle>
+                  <unitdate>6/15/1985</unitdate>
+                  <physdesc>
+                     <extent>1 audiotape(s) (reel-to-reel)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref499" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Chicano Reception, P. Konrad</unittitle>
+                  <unitdate>6/15/1985</unitdate>
+                  <physdesc>
+                     <extent>1 audiotape(s) (reel-to-reel)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref501" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Seniors 2nd Interviews, P. Konrad</unittitle>
+                  <unitdate>6/11/1985</unitdate>
+                  <physdesc>
+                     <extent>1 audiotape(s) (reel-to-reel)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref503" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>P. Konrad, Kathy Olmstead</unittitle>
+                  <unitdate>5/23/1985</unitdate>
+                  <physdesc>
+                     <extent>1 audiotape(s) (reel-to-reel)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref505" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>P. Konrad, Hopkins-Giley Beach Ambiance Painting Class</unittitle>
+                  <unitdate>5/23/1985</unitdate>
+                  <physdesc>
+                     <extent>1 audiotape(s) (reel-to-reel)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref507" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>P. Konrad, Hopkins Marine Station Wave Ambiance, Baxter-Lab</unittitle>
+                  <unitdate>5/23/1985</unitdate>
+                  <physdesc>
+                     <extent>1 audiotape(s) (reel-to-reel)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref509" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>P. Konrad, Stanford Birds Betsy Randolph--Kitchen</unittitle>
+                  <unitdate>5/21/1985</unitdate>
+                  <physdesc>
+                     <extent>1 audiotape(s) (reel-to-reel)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref511" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>P. Konrad, Macefest Foreign Students</unittitle>
+                  <unitdate>5/21/1985</unitdate>
+                  <physdesc>
+                     <extent>1 audiotape(s) (reel-to-reel)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref513" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>P. Konrad, Betsy Randolph--Hoover, Chris and Kelvin</unittitle>
+                  <unitdate>5/21/1985</unitdate>
+                  <physdesc>
+                     <extent>1 audiotape(s) (reel-to-reel)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref515" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>P. Konrad Don and Ted Kennedy Hunger Conf. Kids at Boat House</unittitle>
+                  <unitdate>4/11/1985</unitdate>
+                  <physdesc>
+                     <extent>1 audiotape(s) (reel-to-reel)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref517" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>P. Konrad Betsy Randolph, Paul Erlich</unittitle>
+                  <unitdate>4/11/1985</unitdate>
+                  <physdesc>
+                     <extent>1 audiotape(s) (reel-to-reel)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref519" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>P. Konrad, Opening Hunger Conference</unittitle>
+                  <unitdate>4/8/1985</unitdate>
+                  <physdesc>
+                     <extent>1 audiotape(s) (reel-to-reel)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref521" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>P. Konrad, Daily Admission Directors</unittitle>
+                  <unitdate>4/4/1985</unitdate>
+                  <physdesc>
+                     <extent>1 audiotape(s) (reel-to-reel)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref523" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Jim Adams Daily, Ambiance</unittitle>
+                  <unitdate>4/4/1985</unitdate>
+                  <physdesc>
+                     <extent>1 audiotape(s) (reel-to-reel)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref525" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Stanford Band</unittitle>
+                  <unitdate>3/9/1985</unitdate>
+                  <physdesc>
+                     <extent>1 audiotape(s) (reel-to-reel)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref527" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Middlebrook, Sound Roll 3</unittitle>
+                  <unitdate>3/7/1985</unitdate>
+                  <physdesc>
+                     <extent>1 audiotape(s) (reel-to-reel)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref529" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>VTS Class</unittitle>
+                  <unitdate>3/6/1985</unitdate>
+                  <physdesc>
+                     <extent>1 audiotape(s) (reel-to-reel)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref531" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>P. Konrad, Steven Harrison and Ensemble</unittitle>
+                  <unitdate>3/23/1985</unitdate>
+                  <physdesc>
+                     <extent>1 audiotape(s) (reel-to-reel)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref533" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>P. Konrad, D. Kennedy, Joan Krasner, Music Department</unittitle>
+                  <unitdate>4/23/1985</unitdate>
+                  <physdesc>
+                     <extent>1 audiotape(s) (reel-to-reel)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref535" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>P. Konrad, Gibbons, Kennedy and Freshman</unittitle>
+                  <unitdate>4/11/1985</unitdate>
+                  <physdesc>
+                     <extent>1 audiotape(s) (reel-to-reel)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref537" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Wild Sound -- Memorial Church</unittitle>
+                  <unitdate>4/10/1985</unitdate>
+                  <physdesc>
+                     <extent>1 audiotape(s) (reel-to-reel)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref539" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>P. Konrad, Helliwell Derick Scott</unittitle>
+                  <unitdate>4/9/1985</unitdate>
+                  <physdesc>
+                     <extent>1 audiotape(s) (reel-to-reel)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref541" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Stanford Unviersity Gospel Choir, Fall Quater Musical</unittitle>
+                  <unitdate>11/18/1984</unitdate>
+                  <physdesc>
+                     <extent>1 audiocassette(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref325" level="series">
+            <did>
+               <unitid>Accession ARCH-2005-212</unitid>
+               <unittitle>Records</unittitle>
+            </did>
+            <c02 id="ref326" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>1982 Candidate Review List</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref327" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>1983 Final School Review Binder: Rhode Island – Wyoming</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref328" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>1991 Stanford University Applicant File Binder By High School</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref329" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>1978 Freshman Applicants A-Z Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref330" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>1986 Transfer 2A and Ethnic Reports Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref331" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Transfers 1977-1980 Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref332" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Transfers 1980-1986 Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref333" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Transfer Stats 70s-80s Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref334" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>1975 Freshman Applicants Kwuon – Z Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref335" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>1977 Applicants A – K Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref336" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>1966 Freshman Applicants A – K Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref337" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>1981 Freshman Applicants A – K Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref338" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>1968 Freshman Applicants Status Report By Division Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref339" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>1964-1965/1965-1966 Freshman L – Z Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref340" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Autumn 1978 Admits – Also Ethnic Groups Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref341" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>1975 Candidate Review A – Z Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref342" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Autumn 1979 Admits – Also Ethnic Groups Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref343" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>1975 Admits – Also Applicants By Ethnic Group Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref344" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>1983 Applicants A – K Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref345" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>1982 Applicants L – Z Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref346" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Autumn 1981/1982 Freshman Applicants L – Z Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref347" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>1976 Admits – Also Applicants By Ethnic Group Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref348" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>1971 Freshman Applicants A – K Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref349" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>1983 Freshman Applicants L – Z Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref350" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>1965-1966 Freshmen A – K Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref351" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>1968 Freshmen A – Z Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref352" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Autumn 1977 Admits – Also Ethnic Groups Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref353" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>1991 Freshman Applicants And Ethnic Groups Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref354" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>1991 OH – VI Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref355" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>1982 Admits Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref356" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>1971 Status Report and lists of Minority Applicants Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref357" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>1967-1968/1970-1971 A – K and 1972-1973/1974-1975/1976-1977 A – G Transfers Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref358" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Autumn 1974 Freshman Applicants A – Z Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref359" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>1974 Admits – Also Applicants By Ethnic Group Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref360" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Autumn 1980 Freshman Applicants L – Z Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref361" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>1991 Freshman Applicants RS – ND Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref362" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>1981-82-83-84 Transfer Applicants Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref363" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Autumn 1982 Freshman Applicants A – K Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref364" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>1968-9/1969-70/1970-71 Transfers 3 Year Record Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref365" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>1996 Freshmen L – Z Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref366" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>1968-9/1969-70/1970-1 Freshmen Admissions Ledger P-38 Vol. II Colorado through New Mexico Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref367" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>1991 Freshmen AL – IA Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref368" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>1991 Transfers and Ethnic Groups Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref369" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Autumn 1983 Freshman Admits and Ethnic Groups—All Applicants Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref370" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>1973 Freshman Applicants A – Kyle, James Madison Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref371" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Fall 1979 Freshman Applicants Kyan, Fee Siang – Z Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref372" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>1967/1968/1969/1970/1971 L – Z and 1972/1973/1974/1975/1976/1977 H – Z Transfers Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref373" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Autumn 1975 Freshman Applicants A – Kwong, Raymond P. Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref374" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Autumn 1981 Freshman Admits and Ethnic Groups—All Applicants Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref375" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fall 1979 Freshman Applicants A – Kwong, Yu Hung Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref376" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>1977 Freshman Applicants Kwok, Shui Tat – Z Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref377" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>1970-1979 Transfer Students Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref378" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Alumni Boston Folder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref379" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">2</container>
+                  <unittitle>1987 Pubs Folder (“Pubs” = Publications?)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref380" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">3</container>
+                  <unittitle>1986 Folder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref381" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">4</container>
+                  <unittitle>1985 Folder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref382" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Local College Nights 1985 Folder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref383" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Envelopes, Stationery Fall 1982 and 1983 Folder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref384" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Application Materials Fall 1980 – Copies of What Sent to Press Folder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref385" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">8</container>
+                  <unittitle>1981 Folder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref386" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">9</container>
+                  <unittitle>1978 Folder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref387" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">10</container>
+                  <unittitle>1977 Folder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref388" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">11</container>
+                  <unittitle>1976 Folder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref389" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">12</container>
+                  <unittitle>1975 Folder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref390" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">13</container>
+                  <unittitle>1980 Folder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref391" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">14</container>
+                  <unittitle>1979 Folder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref392" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">15</container>
+                  <unittitle>1974 Folder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref393" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">16</container>
+                  <unittitle>1967 Folder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref394" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">17</container>
+                  <unittitle>1968 Folder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref395" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">18</container>
+                  <unittitle>1969 Folder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref396" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">19</container>
+                  <unittitle>1970 Folder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref397" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">20</container>
+                  <unittitle>1973 Folder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref398" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <container type="Folder">1</container>
+                  <unittitle>1989 Pubs Folder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref399" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <container type="Folder">2</container>
+                  <unittitle>1990 Folder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref400" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <container type="Folder">3</container>
+                  <unittitle>1991 Folder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref401" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <container type="Folder">4</container>
+                  <unittitle>1992 Folder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref402" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <container type="Folder">5</container>
+                  <unittitle>1993 Folder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref403" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <container type="Folder">6</container>
+                  <unittitle>1994 Folder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref404" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <container type="Folder">7</container>
+                  <unittitle>1995 Folder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref405" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <container type="Folder">8</container>
+                  <unittitle>1996 Folder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref406" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <container type="Folder">9</container>
+                  <unittitle>1997 Folder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref407" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <container type="Folder">10</container>
+                  <unittitle>1998 Folder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref408" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <container type="Folder">11</container>
+                  <unittitle>1999 Folder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref409" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Autumn 1980 Freshman Admits and Ethnic Groups – All Applicants Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref410" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>1962-1963/1963-1964 Freshmen L – Z Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref411" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>1963-1964/1964-1965 Freshmen A – K Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref412" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Female Admissions Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref413" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Miscellaneous Stats and Summaries 1960s-1970s and 1980 (loose papers)</unittitle>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

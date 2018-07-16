@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[SPIRES retrospectives by the original developers])//EN"
+             identifier="ark:/13030/kt2m3nf21h">scm0397.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the SPIRES Retrospectives by the Original Developers
+                    </titleproper>
+            <titleproper type="filing" audience="internal">SPIRES Retrospectives by the Original Developers</titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2011-04">April 2011</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SCM0397</unitid>
+         <origination label="Creator:">
+            <persname rules="aacr" source="local">Goes, Harley</persname>
+         </origination>
+         <origination label="Creator:">
+            <persname rules="aacr" source="local">Parker, Bo</persname>
+         </origination>
+         <unittitle label="Title:">SPIRES retrospectives by the original developers</unittitle>
+         <unitdate normal="1991/1991"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">circa 1991</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>0.01 Linear feet 1 optical disc (DVD)</extent>
+         </physdesc>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <descgrp type="provenance" id="prov">
+            <head>Provenance</head>
+            <acqinfo id="ref2">
+               <p>Materials were the gift of the Stanford Historical Society, 2010.</p>
+            </acqinfo>
+         </descgrp>
+         <accessrestrict id="ref3">
+            <head>Information about Access</head>
+            <p>Access: Materials are open for research use.</p>
+         </accessrestrict>
+      </descgrp>
+      <bioghist id="ref4">
+         <head>Biographical/Historical note</head>
+         <p>SPIRES [Stanford Physics Information Retrieval System] was first developed to provide access to preprints of physics research; it then grew to be a broader based data management and retrieval tool, with the acronym meaning Stanford Public Information Retrieval System.</p>
+      </bioghist>
+      <scopecontent id="ref5">
+         <head>Scope and Contents note</head>
+         <p>This collection includes a DVD transfer of the original videorecording done by Harley Goes and Bo Parker and a transcript of the interviews recorded. Interviewees include Ed Parker, Allen Veaner, Hank Epstein, John Schroeder, Tom Martin, Dick Guertin, Bill Kiefer, Louise Addis, and Lennie Stovel.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <persname rules="aacr" source="ingest" role=" ">Addis, Louise.</persname>
+         <persname rules="aacr" source="ingest">Addis, Louise.</persname>
+         <persname rules="aacr" source="ingest" role=" ">Epstein, Hank.</persname>
+         <persname rules="aacr" source="ingest">Epstein, Hank.</persname>
+         <persname rules="aacr" source="ingest" role=" ">Guertin, Richard L.</persname>
+         <persname rules="aacr" source="ingest">Guertin, Richard L.</persname>
+         <persname rules="aacr" source="ingest" role=" ">Kiefer, William.</persname>
+         <persname rules="aacr" source="ingest">Kiefer, William.</persname>
+         <persname rules="aacr" source="ingest">Martin, T. H., (Thomas H.)</persname>
+         <persname rules="aacr" source="ingest" role=" ">Parker, Edwin B.</persname>
+         <persname rules="aacr" source="ingest">Parker, Edwin B.</persname>
+         <persname rules="aacr" source="ingest" role=" ">Schroeder, John.</persname>
+         <persname rules="aacr" source="ingest">Schroeder, John.</persname>
+         <persname rules="aacr" source="ingest" role=" ">Stovel, Lennie.</persname>
+         <persname rules="aacr" source="ingest">Stovel, Lennie.</persname>
+         <persname rules="aacr" source="ingest">Veaner, Allen B., 1929-</persname>
+         <subject source="lcsh">Data structures (Computer science)</subject>
+         <subject source="lcsh">Project Spires.</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.6">
+         <head>Collection Contents</head>
+         <c01 id="ref6" level="series">
+            <did>
+               <container type="Box">1</container>
+               <unittitle>Videorecording</unittitle>
+               <physdesc>
+                  <extent>1 optical disc(s) (DVD)</extent>
+               </physdesc>
+            </did>
+         </c01>
+      </dsc>
+      <odd id="ref8" type="appendix">
+         <head>Additonal Extent Statement</head>
+         <p>1,transcript (21 p.)</p>
+      </odd>
+   </archdesc>
+</ead>

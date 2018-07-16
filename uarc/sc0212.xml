@@ -1,0 +1,1814 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[Ellwood Patterson Cubberley papers])//EN"
+             identifier="ark:/13030/tf7h4nb2pj">sc0212.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Ellwood Patterson Cubberley Papers
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Cubberley (Ellwood Patterson) Papers</titleproper>
+            <author>Processed by Linda Long; machine-readable finding aid created by Patricia White</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="1997">1997</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date normal="2011-06">June 2011</date>
+            <item/>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC0212</unitid>
+         <origination label="Creator:">
+            <persname rules="aacr" source="naf">Cubberley, Ellwood Patterson, 1868-1941</persname>
+         </origination>
+         <unittitle label="Title:">Ellwood Patterson Cubberley papers</unittitle>
+         <unitdate normal="1886/1965"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1886-1965</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>3.25 Linear feet</extent>
+         </physdesc>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <descgrp type="provenance" id="prov">
+            <head>Provenance</head>
+            <custodhist id="ref6">
+               <p>Most of the material in the Cubberley Papers were at one time part of another miscellaneous collection. In 1979 some files from the Cubberley Library were sent to the University Archives. At that time these files were combined with those papers in the miscellaneous collection and were made into an independent collection. The collection was partially processed and a preliminary listing was made. This entire collection was re-processed in 1983. Many of the diplomas and awards are oversize, and for this reason they are kept in the print collection (P205).</p>
+            </custodhist>
+         </descgrp>
+         <accessrestrict id="ref2">
+            <head>Information about Access</head>
+            <p>None.</p>
+         </accessrestrict>
+         <userestrict id="ref4">
+            <head>Ownership &amp; Copyright</head>
+            <p>Property rights reside with the repository. Literary rights reside with the creators of the documents or their heirs. To obtain permission to publish or reproduce, please contact the Public Services Librarian of the Dept. of Special Collections and University Archives.</p>
+         </userestrict>
+         <prefercite id="ref8">
+            <head>Cite As</head>
+            <p>[Identification of item], Ellwood Patterson Cubberley Papers, SC 212, Stanford University Archives, Stanford, Calif.</p>
+         </prefercite>
+         <relatedmaterial id="ref126">
+            <head>Associated Materials</head>
+            <list type="ordered">
+               <item>Champion in Elocution, Antioch Public Schools, 
+                    <unitdate era="ce" calendar="gregorian">1878</unitdate>
+               </item>
+               <item>Indiana University: Bachelor of Arts, in Physics, 
+                    <unitdate era="ce" calendar="gregorian">1891</unitdate>(signed by Indiana president, David Starr Jordan, June 1891)</item>
+               <item>Columbia University, Teachers College: Masters Diploma in Education, 
+                    <unitdate era="ce" calendar="gregorian">1902</unitdate>
+               </item>
+               <item>Columbia University: Masters in art, 
+                    <unitdate era="ce" calendar="gregorian">1902</unitdate>
+               </item>
+               <item>Columbia University, Teachers College: Doctors Diploma in Education, 
+                    <unitdate era="ce" calendar="gregorian">1905</unitdate>
+               </item>
+               <item>Columbia University: Doctor of Philosophy, 
+                    <unitdate era="ce" calendar="gregorian">1905</unitdate>
+               </item>
+               <item>Columbia University: Butler Silver Medal for Competence in Educational Theory, 
+                    <unitdate era="ce" calendar="gregorian">1915</unitdate>
+               </item>
+               <item>Panama-Pacific International Exposition: commemorative medal of bronze for distinguished service, 
+                    <unitdate era="ce" calendar="gregorian">1915</unitdate>
+               </item>
+               <item>Cubberley Anniversary Fund, 
+                    <unitdate era="ce" calendar="gregorian">1923</unitdate>
+               </item>
+               <item>Pi Gamma Mu: membership, 
+                    <unitdate era="ce" calendar="gregorian">1926</unitdate>
+               </item>
+               <item>National Education Association of the United States: Active member for life, 
+                    <unitdate era="ce" calendar="gregorian">1933</unitdate>
+               </item>
+               <item>National Education Association of the United States: Honorary life member, 
+                    <unitdate era="ce" calendar="gregorian">1933</unitdate>
+               </item>
+               <item>Letter, William G. Carr to Jesse B. Sears, 
+                    <unitdate era="ce" calendar="gregorian">13 December 1954</unitdate>re: Cubberley's membership</item>
+               <item>Columbia University: The University Medal, 
+                    <unitdate era="ce" calendar="gregorian">1933</unitdate>
+               </item>
+               <item>Indiana University: Doctor of Laws (honorary), 
+                    <unitdate era="ce" calendar="gregorian">1934</unitdate>
+               </item>
+               <item>State University of Iowa: Doctor of Laws (honorary), 
+                    <unitdate era="ce" calendar="gregorian">1934</unitdate>2 copies (dummy and original)</item>
+            </list>
+         </relatedmaterial>
+      </descgrp>
+      <bioghist id="ref10">
+         <head>BIOGRAPHY</head>
+         <p>Ellwood Patterson Cubberley was born in Andrews, Indiana June 8, 1868. In 1891 Cubberley received an A.B. from Indiana University, where he met David Starr Jordan, who was president of the university. Cubberley received an M.A. in 1902 and a Ph.D. in 1905, both from Columbia University. On June 15, 1892 Cubberley and Helen Van Uxem, a student he had met at the University of Indiana, were married.</p>
+         <p>Between 1891 and 1893 Cubberley served as an instructor in physical sciences at Vincennes University in Indiana. He then became president of Vincennes and served from 1893 to 1896. While President, Cubberley brought the university out of debt and established it as an accredited junior college.</p>
+         <p>From Vincennes Cubberley went to California as the superintendent of the San Diego City Schools. Two years later he accepted an offer from David Starr Jordan, who had become the first president of Stanford University, for the position of assistant professor of education. He became full professor in 1906 and became the dean of the School of Education when it was established in 1917. He served as dean until his retirement in 1933. Cubberley is credited with strengthening the department and building it into an influential School of Education.</p>
+         <p>Throughout his career Cubberley also did much work lecturing and writing, and served as the head of many school district surveys. Cubberley wrote and edited many books, most notably the Riverside Textbooks in Education.</p>
+         <p>In 1934, with money they had saved and invested throughout the years, the Cubberleys created a trust fund which was used for the building of the new School of Education. It was completed in 1938.</p>
+         <p>Cubberley died on September 14, 1941. Helen Cubberley died on January 25, 1952. The Cubberleys did not have children.</p>
+      </bioghist>
+      <scopecontent id="ref12">
+         <head>SCOPE AND CONTENT</head>
+         <p>The collection contains a wide variety of material. This includes correspondence, articles, speeches, clippings, certificates, ephemera, drawings (charts by Cubberley) and other legal and financial documents. This material reflects almost every aspect of Cubberley's life, although the collection is clearly lacking the bulk of Cubberley's office files created while he served as dean of the School of Education.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <persname rules="aacr" source="naf" role=" ">Cubberley, Ellwood Patterson, 1868-1941</persname>
+         <persname rules="aacr" source="ingest" role=" ">Cubberley, Helen Van Uxem, d. 1952.</persname>
+         <persname rules="aacr" source="ingest" role=" ">Sears, Jesse.</persname>
+         <corpname rules="dacs" source="naf" role=" ">Stanford University. Graduate School of Education.</corpname>
+         <subject source="lcsh">Education, Higher.</subject>
+         <subject source="lcsh">Education, Secondary.</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.6">
+         <head>Collection Contents</head>
+         <c01 id="ref13" level="series">
+            <did>
+               <unittitle>CORRESPONDENCE</unittitle>
+            </did>
+            <c02 id="ref14" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">1</container>
+                  <unittitle>General,</unittitle>
+                  <unitdate>1888-1936</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref15" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">2</container>
+                  <unittitle>General,</unittitle>
+                  <unitdate>1937-1950</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref16" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Administrative files,</unittitle>
+                  <unitdate>1898-1910</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref17" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Administrative files,</unittitle>
+                  <unitdate>1912-1920</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref18" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Administrative files,</unittitle>
+                  <unitdate>1921-1927</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref19" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Administrative files,</unittitle>
+                  <unitdate>1928-1933</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref20" level="series">
+            <did>
+               <unittitle>WRITINGS BY CUBBERLEY</unittitle>
+            </did>
+            <c02 id="ref21" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Bibliography</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref22" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Bibliography</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref23" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Essays and Papers,</unittitle>
+                  <unitdate>1886-1890</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref24" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Quotations copied by Cubberley,</unittitle>
+                  <unitdate>1888-1889</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref25" level="file">
+               <did>
+                  <unittitle>Articles</unittitle>
+               </did>
+               <c03 id="ref26" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">11</container>
+                     <unittitle>1. "Syllabus of School Management," Boston: Ginn and Co.,</unittitle>
+                     <unitdate>1901</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref27" level="file">
+                  <did>
+                     <unittitle>2. "The School Situation in San Francisco," Educational Review,</unittitle>
+                     <unitdate>Apr-01</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref28" level="file">
+                  <did>
+                     <unittitle>3. "Address of the Day" (re public schools), The Normal Outlook, Vol. IV, no. 4,</unittitle>
+                     <unitdate>5-Dec-13</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref29" level="file">
+                  <did>
+                     <unittitle>4. "Syllabus Outline on Courses on State School Administration," Stanford University Press,</unittitle>
+                     <unitdate>1914</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref30" level="file">
+                  <did>
+                     <unittitle>5. "Help Backward School Children," Stanford Alumnus,</unittitle>
+                     <unitdate>Apr-14</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref31" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">12</container>
+                     <unittitle>6. "Fundamental Problems in Educational Administration," Educational Administration and Supervision,</unittitle>
+                     <unitdate>Jan-15</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref32" level="file">
+                  <did>
+                     <unittitle>7. "A Declaration of the Principles of the National Educational Association," School and Society, Vol. II, no. 37,</unittitle>
+                     <unitdate>11-Sep-15</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref33" level="file">
+                  <did>
+                     <unittitle>8. "Desirable Reorganizations in American Education," School and Society, Vol. II, no. 38,</unittitle>
+                     <unitdate>18-Sep-15</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref34" level="file">
+                  <did>
+                     <unittitle>9. "Supplemental Report on the Organization of School District Number One in the City and County of Denver," The School Survey Committee, Denver, Colorado,</unittitle>
+                     <unitdate>1916</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref35" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">13</container>
+                     <unittitle>10. "Some Recent Developments in Secondary Education in California," Education, (Boston University College of Liberal Arts).</unittitle>
+                     <unitdate>Oct-16</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref36" level="file">
+                  <did>
+                     <unittitle>11. "Report of the Special Legislative Committee on Education," (Senate Concurrent Resolution no. 21, 43rd Session of the Legislature of California,</unittitle>
+                     <unitdate>1920</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref37" level="file">
+                  <did>
+                     <unittitle>12. "The College of Education and the Superintendent of Schools," School and Society, Vol. XVII, no. 438.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref38" level="file">
+                  <did>
+                     <unittitle>13. "The American School Program From the Standpoint of the Nation," School and Society, Vol. XVIII, no. 449.</unittitle>
+                     <unitdate>4-Aug-23</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref39" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">14</container>
+                     <unittitle>14. "Report of the Reviewing Committee on the Reorganization and Housing Program of the San Francisco Schools,"</unittitle>
+                     <unitdate>5-May-24</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref40" level="file">
+                  <did>
+                     <unittitle>15. "A Distinctive American Achievement," Educational Progress, vol. 5, no. 2,</unittitle>
+                     <unitdate>Jan-26</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref41" level="file">
+                  <did>
+                     <unittitle>16. "The School Textbook Problem," Education Progress, vol. 6, no. 2,</unittitle>
+                     <unitdate>Mar-27</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref42" level="file">
+                  <did>
+                     <unittitle>17. "Outgrown District School System Impedes Educational Progress," The Nevada Tax Review, no. 1S</unittitle>
+                     <unitdate>May-28</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref43" level="file">
+                  <did>
+                     <unittitle>18. "What Should be the Professional Relationship Between Teacher and Principal, Principal and Superintendent, and Teacher and Superintendent' Montana Education, Vol VII, no. 7</unittitle>
+                     <unitdate>Mar-31</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref44" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">15</container>
+                     <unittitle>19. "Measuring Instruction in History"</unittitle>
+                     <unitdate>undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref45" level="file">
+                  <did>
+                     <unittitle>20. "Plan of Supervision of Rural Schools,"</unittitle>
+                     <unitdate>undated</unitdate>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="ref46" level="series">
+            <did>
+               <unittitle>WRITINGS ABOUT CUBBERLEY</unittitle>
+            </did>
+            <c02 id="ref47" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Letters of recommendation</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref48" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Outline of biography by Jesse Sears.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref49" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Clippings,</unittitle>
+                  <unitdate>1891-1952</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref50" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Clippings, miscellaneous</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref51" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Cremin, Lawrence. The Wonderful World of Ellwood Patterson Cubberley. New York: Teachers College, Columbia University, 1965.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref52" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">6</container>
+                  <unittitle>California Quarterly of Secondary Education, commemorative issue,</unittitle>
+                  <unitdate>Apr-33</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref53" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Articles,</unittitle>
+                  <unitdate>1921-1939</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref54" level="series">
+            <did>
+               <unittitle>SUPERINTENDENT OF SAN DIEGO SCHOOLS</unittitle>
+            </did>
+            <c02 id="ref55" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Correspondence,</unittitle>
+                  <unitdate>1896</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref56" level="series">
+            <did>
+               <unittitle>HONORS AND AWARDS</unittitle>
+            </did>
+            <c02 id="ref57" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Butler Silver Medal (Columbia University),</unittitle>
+                  <unitdate>1915</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref58" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Columbia University Silver Medal for Excellence,</unittitle>
+                  <unitdate>1933</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref59" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Phi Delta Kappa, "Greetings",</unittitle>
+                  <unitdate>1923</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref60" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Phi Delta Kappa, Congratulatory letters on 25 years of Service to Stanford University,</unittitle>
+                  <unitdate>1923</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref61" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Phi Delta Theta, Golden Legion Award,</unittitle>
+                  <unitdate>1938</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref62" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Resolutions on Cubberley's retirement,</unittitle>
+                  <unitdate>1933</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref63" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">15</container>
+                  <unittitle>Retirement Dinner,</unittitle>
+                  <unitdate>1933</unitdate>
+               </did>
+               <c03 id="ref64" level="file">
+                  <did>
+                     <unittitle>list of contributors to the Cubberley Program</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref65" level="file">
+                  <did>
+                     <unittitle>Signatures of those present at the dinner</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref66" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">16</container>
+                  <unittitle>Retirement Dinner,</unittitle>
+                  <unitdate>1933</unitdate>
+               </did>
+               <c03 id="ref67" level="file">
+                  <did>
+                     <unittitle>speeches made</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref68" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">17</container>
+                  <unittitle>Retirement Dinner,</unittitle>
+                  <unitdate>1933</unitdate>
+               </did>
+               <c03 id="ref69" level="file">
+                  <did>
+                     <unittitle>correspondence regarding the preparation of the dinner</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref70" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">18</container>
+                  <unittitle>Retirement Dinner,</unittitle>
+                  <unitdate>1933</unitdate>
+               </did>
+               <c03 id="ref71" level="file">
+                  <did>
+                     <unittitle>miscellaneous</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref72" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">19</container>
+                  <unittitle>Testimonial Dinner to Helen Van Uxem Cubberley,</unittitle>
+                  <unitdate>1939</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref73" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Tribute volume, Ellwood P. Cubberley,</unittitle>
+                  <unitdate>1933</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref74" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Tribute volume, Helen Van Uxem Cubberley,</unittitle>
+                  <unitdate>1939</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref75" level="series">
+            <did>
+               <unittitle>RIVERSIDE TEXTBOOKS IN EDUCATION</unittitle>
+            </did>
+            <c02 id="ref76" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Correspondence,</unittitle>
+                  <unitdate>1911-1933</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref77" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Writings about the series, lists of books</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref78" level="series">
+            <did>
+               <unittitle>CUBBERLEY LECTURE FUND</unittitle>
+            </did>
+            <c02 id="ref79" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Correspondence, notes,</unittitle>
+                  <unitdate>1934-1943</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref80" level="series">
+            <did>
+               <unittitle>CUBBERLEY LIBRARY FUND</unittitle>
+            </did>
+            <c02 id="ref81" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Correspondence, notes,</unittitle>
+                  <unitdate>1938-Oct 1941</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref82" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Correspondence, notes,</unittitle>
+                  <unitdate>Nov 1941-1951</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref83" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Riverside Textbook royalties</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref84" level="series">
+            <did>
+               <unittitle>SCHOOL OF EDUCATION BUILDING</unittitle>
+            </did>
+            <c02 id="ref85" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Trust Fund--Board of Trustees Correspondence,</unittitle>
+                  <unitdate>1933-1940</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref86" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Trust Fund--Board of Trustees, A.F. Manspeaker Correspondence,</unittitle>
+                  <unitdate>1936-Nov 1937</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref87" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Trust Fund--Board of Trustees, A.F. Manspeaker Correspondence,</unittitle>
+                  <unitdate>Dec 1937-1939</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref88" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Trust Fund--Letters in reaction to the Cubberley gift,</unittitle>
+                  <unitdate>1934-1940</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref89" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Trust Fund--Securities and Financial Statements,</unittitle>
+                  <unitdate>1933-1936</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref90" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Trust Fund--Securities and Financial Statements,</unittitle>
+                  <unitdate>1937-1941</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref91" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Trust Fund--Securities listings</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref92" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Trust Fund--Legal Agreements</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref93" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Trust Fund--Notations</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref94" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Building Specifications, etc.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref95" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Miscellaneous papers--checks, receipts,</unittitle>
+                  <unitdate>1937-1948</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref96" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Names on the facade of the building--description</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref97" level="series">
+            <did>
+               <unittitle>ESTATE AND WILL RECORDS</unittitle>
+            </did>
+            <c02 id="ref98" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Correspondence,</unittitle>
+                  <unitdate>1941</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref99" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Correspondence,</unittitle>
+                  <unitdate>Jan-Jul 1942</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref100" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Correspondence,</unittitle>
+                  <unitdate>Aug 1942-1944</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref101" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Will of Ellwood P. Cubberley; Will of Helen Van Uxem Cubberley</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref102" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Death certificate of Ellwood P. Cubberley,</unittitle>
+                  <unitdate>14-Sep-41</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref103" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Frank Van Uxem Trust Fund</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref104" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Frank Van Uxem Trust Fund</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref105" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Miscellaneous documents</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref106" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Miscellaneous documents</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref107" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">15</container>
+                  <unittitle>Miscellaneous documents</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref108" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">16</container>
+                  <unittitle>General financial records</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref109" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">x</container>
+                  <unittitle>General financial records, notebooks of accounts,</unittitle>
+                  <unitdate>1909-1941</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref110" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">x</container>
+                  <unittitle>General financial records, cards listing stocks and bonds</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref111" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <container type="Folder">x</container>
+                  <unittitle>General financial records, cards listing stocks and bonds</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref112" level="series">
+            <did>
+               <unittitle>GENEALOGY</unittitle>
+            </did>
+            <c02 id="ref113" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Correspondence,</unittitle>
+                  <unitdate>1907-1936</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref114" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Correspondence,</unittitle>
+                  <unitdate>1937-1967, undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref115" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Writings on the Cubberley family</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref116" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Cubberley, Helen. Newbold Family Notes,</unittitle>
+                  <unitdate>1937</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref117" level="series">
+            <did>
+               <unittitle>MISCELLANEOUS</unittitle>
+            </did>
+            <c02 id="ref118" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Calling cards, poster, resolution of the Faculty of the School of Education on Cubberley's death</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref119" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Resumes, teachers license, registration books for Columbia University</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref120" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Charts by Cubberley:</unittitle>
+               </did>
+               <c03 id="ref121" level="file">
+                  <did>
+                     <unittitle>Political Parties of the United States,</unittitle>
+                     <unitdate>1889</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref122" level="file">
+                  <did>
+                     <unittitle>History of Mathematics,</unittitle>
+                     <unitdate>1890</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref123" level="file">
+                  <did>
+                     <unittitle>Historical Geography,</unittitle>
+                     <unitdate>1891</unitdate>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="ref124" level="series">
+            <did>
+               <unittitle>RIVERSIDE TEXTBOOKS IN EDUCATION</unittitle>
+            </did>
+            <c02 id="ref125" level="file">
+               <did>
+                  <container type="Box">12 (os)</container>
+                  <unittitle>Recordbook of financial data,</unittitle>
+                  <unitdate>1910-1939</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref128" level="series">
+            <did>
+               <unitid>Accession ARCH-2002-060</unitid>
+               <unittitle>Additional Material</unittitle>
+            </did>
+            <scopecontent>
+               <p>This accession pertains to a proposed book by Allen and Cubberley, Everyday School Administration.</p>
+            </scopecontent>
+            <c02 id="ref130" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Letters to Cubberley, possibly selected as source material for the book</unittitle>
+                  <unitdate normal="1917/1930" type="inclusive">1917-1930</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref131" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Book outline and preface</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref133" level="series">
+            <did>
+               <unitid>Accession ARCH-2009-219</unitid>
+               <unittitle>Riverside Textbooks in Education</unittitle>
+            </did>
+            <c02 id="ref134" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>George C. Kyte, How to Supervise</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref135" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>John C. Almack, Research and Thesis Writing</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref136" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Harold Benjamin, An Introduction to Human Problems</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref137" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Clarence R. Stone, Supervision of the Elementary School</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref138" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Albert R. Lang, Modern Methods in Written Examination</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref139" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Ernest W. Tiegs &amp; Claude C. Crawford, Statistics for Teachers</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref140" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Lois Coffey Mossman, Principles of Teaching and Learning in the Elementary School</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref141" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Ellwood P. Cubberley, Public School Administration</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref142" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Fowler D. Brooks, The Psychology of Adolescence</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref143" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Walter Robinson Smith, An Introduction to Educational Sociology</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref144" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Walter Robinson Smith, Principles of Educational Sociology</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref145" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Martin J. Stormzand and Jane W. McKee, The Progressive Primary Teacher</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref146" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Claude C. Crawford, The Technique of Study</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref147" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Lawrence Augustus Averill, The Hygiene of Instruction</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref148" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>John C. Almack and Albert R. Lang, The Beginning Teacher</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref149" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Reginald Stevens Kimball, Current-Events Instruction</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref150" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Charles H. Keene, The Physical Welfare of the School Child</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref151" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Claude C. Crawford and Lois P. McDonald, Modern Methods in Teaching Geography</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref152" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Lewis M. Terman and John C. Almack, The Hygiene of the School Child</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref153" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>William Martin Proctor, Vocations</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref154" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Thomas Cooke McCracken and Helen Etta Lamb, Occupational Information in the Elementary School</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref155" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Ellwood P. Cubberley, The Principal and His School</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref156" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Harlan C. Hines, A Guide to Educational Measurements</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref157" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Charles E. Martz and John A. Kinneman, Social Science for Teachers</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref158" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>John C. Almack, Education for Citizenship</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref159" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>L. A. Pechstein and A. Laura McGregor, Psychology of the Junior High School Pupil</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref160" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Ruby Minor, Principles of Teaching Practically Applied</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref161" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Lawrence Augustus Averill, Elements of Educational Psychology</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref162" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Ellwood P. Cubberley, A Brief History of Education</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref163" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Ellwood P. Cubberley, Rural Life and Education</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref164" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Ellwood P. Cubberley, Public School Administration</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref165" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Arnold Gesell, The Pre-School Child</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref166" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Walter Scott Monroe, An Introduction to the Theory of Educational Measurements</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref167" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Clarence R. Stone, Silent and Oral Reading</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref168" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Frank W. Thomas, Training for Effective Study</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref169" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Lawrence Augustus Averill, Psychology for Normal Schools</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref170" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Ellwood P. Cubberley, Readings in the History of Education</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref171" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Ellwood P. Cubberley, The History of Education</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref172" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Thomas H. Briggs, The Junior High School</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref173" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Hubert Wilbur Nutt, The Supervision of Instruction</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref174" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>N. D. Showalter, A Handbook for Rural School Officers</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref175" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Lewis M. Terman, Condensed Guide for the Stanford Revision of the Binet-Simon Intelligence Tests</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref176" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Lewis M. Terman, The Intelligence of School Children</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref177" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Ellwood P. Cubberley, Public Education in the United States</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref178" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>George Earl Freeland, Roxana Morton Adams and Katharine Hedges Hall, Teaching in the Intermediate Grades</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref179" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Ellwood P. Cubberley, State School Administration</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref180" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Clarence R. Stone, Silent and Oral Reading</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref181" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Aubrey A. Douglass, Secondary Education</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref182" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Jesse B. Sears, Classroom Organization and Control</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref183" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Charles Swain Thomas, The Teaching of English</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref184" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>J. E. Wallace Wallin, Clinical and Abnormal Psychology</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref185" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>John C. Almack and James F. Bursch, The Administration of Consolidated and Village Schools</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref186" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Ralph S. Newcomb, Modern Methods of Teaching Arithmetic</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref187" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Harl R. Douglass, Modern Methods in High School Teaching</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref188" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Lawrence Augustus Averill, Educational Hygiene</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref189" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Frank N. Freeman, Mental Tests</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref190" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>L. A. Pechstein and Frances Jenkins, Psychology of the Kindergarten-Primary Child</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref191" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Frank W. Thomas, Principles and Technique of Teaching</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref192" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>J. Crosby Chapman and George S. Counts, Principles of Education</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref193" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>J. E. Wallace Wallin, The Education of Handicapped Children</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref194" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Walter Scott Monroe, James Clarence DeVoss and Frederick James Kelly, Educational Tests and Measurements</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref195" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Martin J. Stormzand, Progressive Methods of Teaching</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref196" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>J. Harold Williams, Graphic Methods in Education</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref197" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>John C. Almack and Albert R. Lang, Problems of the Teaching Profession</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref198" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Jesse B. Sears, The School Survey</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref199" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Harold Rugg, A Primer of Graphics and Statistics</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref200" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Benjamin Floyd Pittenger, An Introduction to Public School Finance</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref201" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>A. S. Edwards, The Psychology of Elementary Education</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref202" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Ellwood P. Cubberley, An Introduction to the Study of Education and to Teaching</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref203" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>William Martin Proctor, Educational and Vocational Guidance</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref204" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Ellwood P. Cubberley, Miscellaneous Papers I, 1892-1915</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref205" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Ellwood P. Cubberley, Miscellaneous Papers II, 1916-1933</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref206" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Ellwood P. Cubberley, Monroe’s Encyclopedia of Education–Cubberley Articles on School Administration</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref207" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>William Martin Proctor, Charles Gilbert Wrenn and Glidden Ross Benefield, Workbook in Vocations</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref208" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>William Giles Campbell, A Form Book for Thesis Writing</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref209" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Norma E. Cutts and Nicholas Moseley, Practical School Discipline and Mental Hygiene</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref210" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Roy O. Billett, Fundamentals of Secondary-School Teaching with Emphasis on the Unit Method</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref211" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Herbert G. Espy, The Public Secondary School</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref212" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Lewis M. Terman and Maud A. Merrill, Printed Card Material for Revised Stanford-Binet Tests, Form L</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref213" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Lewis M. Terman and Maud A. Merrill, Printed Card Material for Revised Stanford-Binet Tests, Form M</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref214" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Paul McKee, Language in the Elementary School</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref215" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Ernest W. Tiegs, Tests and Measurements in the Improvement of Learning</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref216" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Frank N. Freeman, Mental Tests</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref217" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Aubrey A. Douglass, Modern Secondary Education</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref218" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Lewis M. Terman and Maud A. Merrill, Directions for Administering Forms L and M</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref219" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Edwin J. Brown, Secondary-School Administration</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref220" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Lewis M. Terman and Maud A. Merrill, Measuring Intelligence</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref221" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Ellwood P. Cubberley, The History of Education</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref222" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>John C. Almack, Modern School Administration</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref223" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Joseph S. Butterweck and J. Conrad Seegers, An Orientation Course in Education</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref224" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Norma V. Scheidemann, The Psychology of Exceptional Children</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref225" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Frank W. Thomas and Albert R. Lang, Principles of Modern Education</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref226" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Nelson L. Bossing, Progressive Methods of Teaching in Secondary Schools</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref227" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Ellwood P. Cubberley, Readings in Public Education in the United States</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref228" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>I. L. Kandel, Comparative Education</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref229" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Edwin J. Brown, Everyday Problems in Classroom Management</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref230" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Paul McKee, Reading and Literature in the Elementary School</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref231" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Ellwood P. Cubberley and Walter Crosby Eells, An Introduction to the Study of Education</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref232" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Leo J. Brueckner and Ernest O. Melby, Diagnostic and Remedial Teaching</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref233" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Ernest W. Tiegs, Tests and Measurements for Teachers</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref234" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>William Clark Trow, Educational Psychology</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref235" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Walter Crosby Eells, The Junior College</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref236" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Elbert K. Fretwell, Extra-Curricular Activities in Secondary Schools</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref237" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Norma V. Scheidemann, The Psychology of Exceptional Children</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref238" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>George C. Kyte, Problems in School Supervision</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref239" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Florence M. Baker, The Teaching of French</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref240" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>I. L. Kandel, History of Secondary Education</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref241" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Ellwood P. Cubberley, Public Education in the United States</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref242" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Paul McKee, Language in the Elementary School</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref243" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Harl R. Douglass and Charles W. Boardman, Supervision in Secondary Schools</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref244" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Alexander Inglis, Principles of Secondary Education</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref245" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Lee Emerson Bassett, A Handbook of Oral Reading</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref246" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Gilbert H. Trafton, The Teaching of Science in the Elementary School</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref247" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Frank N. Freeman, How Children Learn</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref248" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Charles W. Waddle, An Introduction to Child Psychology</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref249" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>May Ayres, Jesse F. Williams and Thomas D. Wood, Healthful Schools</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref250" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Calvin N. Kendall and George A. Mirick, How to Teach the Special Subjects</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref251" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Walter Scott Monroe, Measuring the Results of Teaching</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref252" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>J. B. Sears, Classroom Organization and Control</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref253" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Ellwood P. Cubberley, Rural Life and Education</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref254" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Lewis M. Terman, The Hygiene of the School Child</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref255" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Mabel Irene Emerson, The Evolution of the Educational Ideal</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref256" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Ernest Bryant Hoag and Lewis M. Terman, Health Work in the Schools</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref257" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Arthur C. Perry, Jr., Discipline as a School Problem</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref258" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Calvin N. Kendall and George A. Mirick, How to Teach the Fundamental Subjects</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref259" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Emma Miller Bolenius, Teaching Literature in the Grammar Grades and High School</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref260" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Ellwood P. Cubberley, Public School Administration</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref261" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Frank Nugent Freeman, The Psychology of Common Branches</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref262" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Lewis M. Terman, The Measurement of Intelligence</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref263" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Lewis M. Terman, Test Material for the Measurement of Intelligence</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref264" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Frank N. Freeman, Experimental Education</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref265" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>David Snedden, Problems of Secondary Education</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref266" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Walter Robinson Smith, An Introduction to Educational Sociology</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref267" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Charles Swain Thomas, The Teaching of English</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref268" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Thomas Jackson Woofter, Teaching in Rural Schools</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref269" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Walter Scott Monroe, James Clarence DeVoss and Frederick James Kelly, Educational Tests and Measurements</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref270" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Harold O. Rugg, Statistical Methods Applied to Education</unittitle>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,3602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[Stanford University, Office of the Dean of Student Affairs, Residence Division, records])//EN"
+             identifier="ark:/13030/kt3g5037qm">sc0121.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Stanford University, Office of the Dean of Student Affairs, Residence Division, Records
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Stanford University, Office of the Dean of Student Affairs, Residence Division, Records</titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2010-10">October 2010</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC0121</unitid>
+         <origination label="Creator:">
+            <corpname rules="dacs" source="ingest">Stanford University. Office of the Dean of Student Affairs. Residence Division.</corpname>
+         </origination>
+         <unittitle label="Title:">Stanford University, Office of the Dean of Student Affairs, Residence Division, records</unittitle>
+         <unitdate normal="1938/1973"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1938-1973</unitdate>
+         <unitdate normal="1960/1971"
+                   type="bulk"
+                   label="Bulk Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation"> 1960-1971</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>20 Linear feet</extent>
+         </physdesc>
+         <abstract label="Summary:">The collection consists of correspondence, memoranda and other material relating to both the physical management and the social and educational value of student living groups.</abstract>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <descgrp type="provenance" id="prov">
+            <head>Provenance</head>
+            <acqinfo id="ref3">
+               <p>Administrative transfer, Dean of Students Office, Residence Division, 1974.</p>
+            </acqinfo>
+         </descgrp>
+         <accessrestrict id="ref4">
+            <head>Information about Access</head>
+            <p>Restricted: for more information see the archivist.</p>
+         </accessrestrict>
+         <userestrict id="ref5">
+            <head>Ownership &amp; Copyright</head>
+            <p>All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Special Collections and University Archives, Stanford University Libraries, Stanford, California 94304-6064. Consent is given on behalf of Special Collections as the owner of the physical items and is not intended to include or imply permission from the copyright owner. Such permission must be obtained from the copyright owner, heir(s) or assigns. See: http://library.stanford.edu/depts/spc/pubserv/permissions.html.</p>
+            <p>Restrictions also apply to digital representations of the original materials. Use of digital files is restricted to research and educational purposes.</p>
+         </userestrict>
+         <prefercite id="ref6">
+            <head>Cite As</head>
+            <p>Stanford University, Office of the Dean of Student Affairs, Residence Division, Records (SC0121). Department of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <bioghist id="ref7">
+         <head>Biographical/Historical Sketch</head>
+         <p>The Residence Division has charge of all administrative matters relating to Stanford dormitories, row houses, fraternities, sororities and eating clubs.</p>
+      </bioghist>
+      <scopecontent id="ref8">
+         <head>Description of the Collection</head>
+         <p>The collection consists of correspondence, memoranda and other material relating to both the physical management and the social and educational value of student living groups.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <corpname rules="dacs" source="ingest">Stanford University. Office of the Dean of Student Affairs. Residence Division.</corpname>
+         <subject source="LCSH">Dormitories--California--Stanford.</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.6">
+         <head>Collection Contents</head>
+         <c01 id="ref9" level="series">
+            <did>
+               <unittitle>Records</unittitle>
+            </did>
+            <c02 id="ref10" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Alumni Association</unittitle>
+                  <unitdate>1961-1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref11" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Alumni Association</unittitle>
+                  <unitdate>1967-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref12" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Alumni Association</unittitle>
+                  <unitdate>1966-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref13" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Alumni Clubs, A-M</unittitle>
+                  <unitdate>1955-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref14" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Alumni Clubs, N-P</unittitle>
+                  <unitdate>1958-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref15" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Alumni Clubs, Q-Z</unittitle>
+                  <unitdate>1958-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref16" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Alumni College</unittitle>
+                  <unitdate>1966-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref17" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Alumni Complaints</unittitle>
+                  <unitdate>1964</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref18" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Alumni Conferences and Programs</unittitle>
+                  <unitdate>1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref19" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Annual Report - Director</unittitle>
+                  <unitdate>1962-1963</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref20" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Annual Report - Director</unittitle>
+                  <unitdate>1963-1964</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref21" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Annual Report (Draft form)</unittitle>
+                  <unitdate>1972</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref22" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>ASSU: General</unittitle>
+                  <unitdate>1966-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref23" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>ASSU: Policies and Function</unittitle>
+                  <unitdate>1962-1963</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref24" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>ASSU: Registered Activities</unittitle>
+                  <unitdate>1963-1964</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref25" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>ASSU: Social Action</unittitle>
+                  <unitdate>1962-1964</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref26" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>ASSU: Social Procedures</unittitle>
+                  <unitdate>1963</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref27" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>ASSU: Student Review Board</unittitle>
+                  <unitdate>1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref28" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Associated Women Students Board</unittitle>
+                  <unitdate>1962-1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref29" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Buildings and Grounds, Committee on</unittitle>
+                  <unitdate>1965-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref30" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Business Office</unittitle>
+                  <unitdate>1965-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref31" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Counseling and Testing</unittitle>
+                  <unitdate>1957-1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref32" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Campus Religious Programs</unittitle>
+                  <unitdate>1966-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref33" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Century 21</unittitle>
+                  <unitdate>1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref34" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Civil Defense</unittitle>
+                  <unitdate>1963-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref35" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Co-ed Housing</unittitle>
+                  <unitdate>1967-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref36" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Co-ed Symposium</unittitle>
+                  <unitdate>1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref37" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Conferences</unittitle>
+                  <unitdate>1968-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref38" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Conferences on World Youth Movements</unittitle>
+                  <unitdate>1968-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref39" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Correspondence: General</unittitle>
+                  <unitdate>1971-1972</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref40" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Correspondence to Directors</unittitle>
+                  <unitdate>1969-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref41" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Cowell Health Center</unittitle>
+                  <unitdate>1968-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref42" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Dean of Men</unittitle>
+                  <unitdate>1950-1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref43" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Dean of Women</unittitle>
+                  <unitdate>1946-1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref44" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Dedication</unittitle>
+                  <unitdate>1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref45" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Development</unittitle>
+                  <unitdate>1966-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref46" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Director-Expense Reports, Program Allowance</unittitle>
+                  <unitdate>1969-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref47" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Director's Meetings Minutes</unittitle>
+                  <unitdate>1962-1964</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref48" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Director's Meetings Minutes</unittitle>
+                  <unitdate>1963-1964</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref49" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Director's Meetings Minutes</unittitle>
+                  <unitdate>1970-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref50" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Director's Meetings Minutes</unittitle>
+                  <unitdate>1970-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref51" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Director of Residence's Office</unittitle>
+                  <unitdate>1960-1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref52" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Discrimination</unittitle>
+                  <unitdate>1957-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref53" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Encina Commons Dining Room</unittitle>
+                  <unitdate>1965-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref54" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Faculty Advisors</unittitle>
+                  <unitdate>1960-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref55" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Faculty Master's Program</unittitle>
+                  <unitdate>1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref56" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Faculty Residents</unittitle>
+                  <unitdate>1961-1964</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref57" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Faculty Residents</unittitle>
+                  <unitdate>1965-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref58" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Faculty Residents</unittitle>
+                  <unitdate>1969-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref59" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Faculty Residents in Women's Residences</unittitle>
+                  <unitdate>1965-1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref60" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Fallout Shelter Committee</unittitle>
+                  <unitdate>1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref61" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Federal Housing Loan</unittitle>
+                  <unitdate>1968-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref62" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Financial Aid Policies</unittitle>
+                  <unitdate>1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref63" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Fire Safety</unittitle>
+                  <unitdate>1966-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref64" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Firearms</unittitle>
+                  <unitdate>1964-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref65" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Food Complaints</unittitle>
+                  <unitdate>1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref66" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Food Service</unittitle>
+                  <unitdate>1966-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref67" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Foreign Student Associate Program</unittitle>
+                  <unitdate>1965-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref68" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Foreign Student Housing</unittitle>
+                  <unitdate>1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref69" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Foreign Students and Visitors</unittitle>
+                  <unitdate>1962-1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref70" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Form Letters</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref71" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Freshman Achievement Awards</unittitle>
+                  <unitdate>1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref72" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Freshman Alumni Achievement Awards, Personal Statements of Activities</unittitle>
+                  <unitdate>1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref73" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Freshman Guest Meal Ticket Plan</unittitle>
+                  <unitdate>1962-1963</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref74" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Freshman Housing Assignments</unittitle>
+                  <unitdate>1967-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref75" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Freshman Program: Surveys, Proposals, Etc.</unittitle>
+                  <unitdate>1957-1964</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref76" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Freshman Voices</unittitle>
+                  <unitdate>1966-1967?</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref77" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Fundamental Standard and Honor Code</unittitle>
+                  <unitdate>1963</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref78" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Funk, Robert, and Dogs</unittitle>
+                  <unitdate>1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref79" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>General Secretary</unittitle>
+                  <unitdate>1951-1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref80" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>General Secretary</unittitle>
+                  <unitdate>1966 Jan-Aug</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref81" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>General Secretary</unittitle>
+                  <unitdate>1966 Sep-Dec</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref82" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>General Secretary</unittitle>
+                  <unitdate>1967-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref83" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>General Secretary</unittitle>
+                  <unitdate>1967-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref84" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Grade Point Averages</unittitle>
+                  <unitdate>1952-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref85" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Grade Point Averages - Residence</unittitle>
+                  <unitdate>1965-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref86" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Graduate Coordinating Committee</unittitle>
+                  <unitdate>1964-1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref87" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Guest-in-Residence Program</unittitle>
+                  <unitdate>1964-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref88" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>High School Day</unittitle>
+                  <unitdate>1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref89" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Horton: Copies of Dorm Interviews</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref90" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>"House Plan" at Stanford</unittitle>
+                  <unitdate>1960-1964</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref91" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Housing (Office) General</unittitle>
+                  <unitdate>1947-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref92" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Housing</unittitle>
+                  <unitdate>1963-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref93" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Housing</unittitle>
+                  <unitdate>1967-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref94" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Housing</unittitle>
+                  <unitdate>1968 Autumn</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref95" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Housing</unittitle>
+                  <unitdate>1968-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref96" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Housing and Food Service Committee Minutes</unittitle>
+                  <unitdate>1959-1964</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref97" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Housing Commission and Ideas</unittitle>
+                  <unitdate>1966-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref98" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Housing Commission Report</unittitle>
+                  <unitdate>1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref99" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Housing Configuration Committee</unittitle>
+                  <unitdate>1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref100" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Housing Contract Releases</unittitle>
+                  <unitdate>1969-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref101" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Housing Deposit Refund Cards</unittitle>
+                  <unitdate>1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref102" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Housing Draw</unittitle>
+                  <unitdate>1969-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref103" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Housing: Graduate</unittitle>
+                  <unitdate>1966-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref104" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Housing: Innovations, Proposals, Etc.</unittitle>
+                  <unitdate>1967-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref105" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Housing: Married Student</unittitle>
+                  <unitdate>1968-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref106" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Housing: Overseas Students</unittitle>
+                  <unitdate>1968-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref107" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Housing Problems</unittitle>
+                  <unitdate>1969-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref108" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Housing Survey-S. Bushnell</unittitle>
+                  <unitdate>1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref109" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Housing Survey Material</unittitle>
+                  <unitdate>1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref110" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Information for Faculty Residents and Directors</unittitle>
+                  <unitdate>1968-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref111" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Inquiries: General</unittitle>
+                  <unitdate>1968-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref112" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Job Description</unittitle>
+                  <unitdate>1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref113" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Lighting Committee</unittitle>
+                  <unitdate>1961-1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref114" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Long-Range Planning</unittitle>
+                  <unitdate>1970-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref115" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Married Undergraduates-Study</unittitle>
+                  <unitdate>1966 Fall</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref116" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Meal Exchange Program</unittitle>
+                  <unitdate>1966-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref117" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Meal Transfer Evaluation</unittitle>
+                  <unitdate>1965-1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref118" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Memorandums to Residence Directors</unittitle>
+                  <unitdate>1965-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref119" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Minorities</unittitle>
+                  <unitdate>1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref120" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Miscellaneous</unittitle>
+                  <unitdate>1967-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref121" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Occupancy Reports</unittitle>
+                  <unitdate>1963-1964</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref122" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>OFF</unittitle>
+                  <unitdate>1966-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref123" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>OFF</unittitle>
+                  <unitdate>1967-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref124" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Open House-Changes</unittitle>
+                  <unitdate>1965-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref125" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Open House Policy</unittitle>
+                  <unitdate>1963-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref126" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Operating Committee Proposal</unittitle>
+                  <unitdate>1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref127" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Overnight Guest Policy in Women's Residences</unittitle>
+                  <unitdate>1962-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref128" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Overnight Policy, History of</unittitle>
+                  <unitdate>1962-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref129" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Overseas Campuses Housing</unittitle>
+                  <unitdate>1967-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref130" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Police Reports</unittitle>
+                  <unitdate>1970-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref131" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Policy Statements and Reports on Housing</unittitle>
+                  <unitdate>1957-1962</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref132" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Pot</unittitle>
+                  <unitdate>1968-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref133" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>President's Short-Range Housing Committee</unittitle>
+                  <unitdate>1969-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref134" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Quarterly Report, Director</unittitle>
+                  <unitdate>1962-1963 Fall</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref135" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Quarterly Report, Director</unittitle>
+                  <unitdate>1963-1964 Fall</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref136" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Quarterly Report, Director</unittitle>
+                  <unitdate>1964-1965 Fall</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref137" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Quarterly Report, Resident Assistants</unittitle>
+                  <unitdate>1963-1964 Fall</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref138" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Quarterly Report, Resident Assistants</unittitle>
+                  <unitdate>1963-1964 Spring</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref139" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Quarterly Report, Resident Assistants</unittitle>
+                  <unitdate>1964-1965 Fall</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref140" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Quarter Reports</unittitle>
+                  <unitdate>1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref141" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Questionnaire on University Living for Undergraduate Women</unittitle>
+                  <unitdate>1966-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref142" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Reports on Housing, Research, Etc.</unittitle>
+                  <unitdate>1962-1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref143" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Research</unittitle>
+                  <unitdate>1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref144" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Residence Budgets</unittitle>
+                  <unitdate>1968-1972</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref145" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Residence Configuration</unittitle>
+                  <unitdate>1970-1972</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref146" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Residence Halls-10 Year/5 Year Programs</unittitle>
+                  <unitdate>1960-1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref147" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Residence Interviews</unittitle>
+                  <unitdate>1973</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref148" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Residence Questionnaire</unittitle>
+                  <unitdate>1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref149" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Residence Recommendations: History</unittitle>
+                  <unitdate>1959-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref150" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Residence Renovations</unittitle>
+                  <unitdate>1959-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref151" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Residence Staff Study</unittitle>
+                  <unitdate>1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref152" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Residence System</unittitle>
+                  <unitdate>1966-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref153" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Residences</unittitle>
+                  <unitdate>1971-1973</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref154" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Residences Background</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref155" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Residences, Miscellaneous</unittitle>
+                  <unitdate>1964-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref156" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Residences-Plans-Men</unittitle>
+                  <unitdate>1961</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref157" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Residences-Plans-Women</unittitle>
+                  <unitdate>1961</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref158" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Residences: Trailer Housing</unittitle>
+                  <unitdate>1969-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref159" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Resident Assistant Program</unittitle>
+                  <unitdate>1962-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref160" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Resident Assistants' Analysis</unittitle>
+                  <unitdate>1968-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref161" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Resident Assistant Orientation</unittitle>
+                  <unitdate>1961-1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref162" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Resident Assistant Orientation-Men's and Women's</unittitle>
+                  <unitdate>1963-1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref163" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Resident Assistant Orientation</unittitle>
+                  <unitdate>1965-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref164" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Resident Assistant Orientation</unittitle>
+                  <unitdate>1969-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref165" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Resident Assistants</unittitle>
+                  <unitdate>1968-1972</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref166" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Resident Assistants, Suggestions made by</unittitle>
+                  <unitdate>1962-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref167" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Resident Assistantships, Posters for</unittitle>
+                  <unitdate>1967-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref168" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Residential Education Commission</unittitle>
+                  <unitdate>1965-1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref169" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Residential Education Program, Inquiries</unittitle>
+                  <unitdate>1964-1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref170" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>"Safe Place"</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref171" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Security</unittitle>
+                  <unitdate>1967-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref172" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Senior Weekend</unittitle>
+                  <unitdate>1958-1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref173" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Short-range Housing Committee</unittitle>
+                  <unitdate>1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref174" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Social Counselor's Annual Reports</unittitle>
+                  <unitdate>1962-1964</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref175" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Social Regulations</unittitle>
+                  <unitdate>1960-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref176" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Social Regulations</unittitle>
+                  <unitdate>1967-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref177" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Sororities</unittitle>
+                  <unitdate>1938-1953</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref178" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Special Houses, Programs</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref179" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Sponsor Programs and Suggestions</unittitle>
+                  <unitdate>1962-1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref180" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Sponsoring at Wilbur Hall (notebook)</unittitle>
+                  <unitdate>1957-1958</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref181" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Sponsoring at Wilbur Hall (notebook)</unittitle>
+                  <unitdate>1960-1961</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref182" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Sponsors</unittitle>
+                  <unitdate>1968-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref183" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Sponsors</unittitle>
+                  <unitdate>1969-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref184" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Sponsors' Handbook</unittitle>
+                  <unitdate>1964-1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref185" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Staff</unittitle>
+                  <unitdate>1970-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref186" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Staff Orientation Evaluation</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref187" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Staff with Dual Appointments</unittitle>
+                  <unitdate>1964-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref188" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Staffing</unittitle>
+                  <unitdate>1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref189" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Stanford Teacher Education Program (STEP) and Student Center for Innovation in Research and Education (SCIRE)</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref190" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>State Housing Act</unittitle>
+                  <unitdate>1964-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref191" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Student Associate Program</unittitle>
+                  <unitdate>1964-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref192" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Strike</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref193" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Strike-Dean of Students Information</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref194" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Student-Faculty Employment Committee Petitions</unittitle>
+                  <unitdate>1968-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref195" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Student Health</unittitle>
+                  <unitdate>1968-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref196" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Study of Education at Stanford</unittitle>
+                  <unitdate>1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref197" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Study of Education at Stanford, Report</unittitle>
+                  <unitdate>1968 Fall</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref198" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Summer Housing</unittitle>
+                  <unitdate>1965-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref199" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Summer Quarter</unittitle>
+                  <unitdate>1959-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref200" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Summer Resident Assistants</unittitle>
+                  <unitdate>1961-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref201" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Summer Session, Florence Moore</unittitle>
+                  <unitdate>1961</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref202" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Summer Session</unittitle>
+                  <unitdate>1964</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref203" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Summer Session</unittitle>
+                  <unitdate>1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref204" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Summer Session</unittitle>
+                  <unitdate>1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref205" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Summer Session</unittitle>
+                  <unitdate>1967-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref206" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Summer Session: American Field Service Reunion</unittitle>
+                  <unitdate>1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref207" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Summer Session</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref208" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Summer Session</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref209" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Summer Session</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref210" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Summer Session: Budgets</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref211" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Summer Session: Cancellations</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref212" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Summer Session: Catapult farce</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref213" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Summer Session: Cultural Events</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref214" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Summer Session: Expenses</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref215" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Summer Session: Food Service</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref216" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Summer Session: High School Debate Institute</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref217" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Summer Session: Jobs</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref218" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Summer Session: Master Lists</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref219" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Summer Session: Memos from Dean of Students</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref220" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Summer Session: Memos to Resident Assistants</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref221" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Summer Session: Movies</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref222" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Summer Session: Requests</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref223" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Summer Session: Room and Board Bills</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref224" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Summer Session: Room and Board Changes</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref225" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Summer Session: Security Patrol</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref226" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Summer Session: Social Program</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref227" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Summer Session: Staff, Correspondence for</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref228" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Summer Session: Students, Correspondence with</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref229" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Summer Session: Sunday Film Series</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref230" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Task Force</unittitle>
+                  <unitdate>1967-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref231" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Theme Housing</unittitle>
+                  <unitdate>1966-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref232" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Traffic Committee</unittitle>
+                  <unitdate>1968-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref233" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Vacation Housing: History</unittitle>
+                  <unitdate>1961-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref234" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Vending Machines</unittitle>
+                  <unitdate>1965-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref235" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Year End Reports</unittitle>
+                  <unitdate>1965-1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref236" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Branner Hall: General</unittitle>
+                  <unitdate>1968-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref237" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Branner Hall: Film Workshop</unittitle>
+                  <unitdate>1969-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref238" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Branner Hall: Miscellaneous</unittitle>
+                  <unitdate>1961-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref239" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Brennan, Patrick</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref240" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Crothers Hall</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref241" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Crothers and Crothers Memorial</unittitle>
+                  <unitdate>1967-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref242" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Crothers Memorial</unittitle>
+                  <unitdate>1970 Summer</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref243" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Demonstration Houses</unittitle>
+                  <unitdate>1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref244" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Durand House</unittitle>
+                  <unitdate>1967-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref245" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Ecology House (Experimental House Summer)</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref246" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Environmental House Room Requests: Females</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref247" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Environmental House Room Requests: Males</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref248" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Escondido and Crothers</unittitle>
+                  <unitdate>1970 Summer</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref249" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Escondido Village-General</unittitle>
+                  <unitdate>1959-1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref250" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Escondido Village (and High Rise Units)</unittitle>
+                  <unitdate>1959-1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref251" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Escondido Village High Rise Apartments</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref252" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Florence Moore Hall</unittitle>
+                  <unitdate>1968-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref253" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Florence Moore Hall: Personal Statement</unittitle>
+                  <unitdate>1961-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref254" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Florence Moore Hall: Questionnaire</unittitle>
+                  <unitdate>1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref255" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Florence Moore Hall: Student Night Assistants</unittitle>
+                  <unitdate>1965-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref256" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Grove House (The Row)</unittitle>
+                  <unitdate>1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref257" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Grove Project</unittitle>
+                  <unitdate>1966-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref258" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Hoskins House-High Rise Apartments</unittitle>
+                  <unitdate>1964-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref259" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Hoskins House Resident Assistants, Wright, Mr. and Mrs. R. Michael</unittitle>
+                  <unitdate>1968-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref260" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Hulme House</unittitle>
+                  <unitdate>1968-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref261" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>International Houses</unittitle>
+                  <unitdate>1968-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref262" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Lagunita Court</unittitle>
+                  <unitdate>1963-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref263" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Lagunita Court</unittitle>
+                  <unitdate>1968-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref264" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Lagunita Court: Summer Session</unittitle>
+                  <unitdate>1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref265" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Lasuen Houses and Tamarack Lodge: Residences Survey</unittitle>
+                  <unitdate>1957-1960</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref266" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>McFarland House: Williams, Mr. and Mrs. Richard</unittitle>
+                  <unitdate>1968-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref267" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>McLennan, Melodie</unittitle>
+                  <unitdate>1969-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref268" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Manzanita Lodge</unittitle>
+                  <unitdate>1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref269" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Manzanita Park</unittitle>
+                  <unitdate>1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref270" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Mayfield House</unittitle>
+                  <unitdate>1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref271" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Moore/Jacks Houses-Planning</unittitle>
+                  <unitdate>1961-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref272" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Riggs, David R. and Susan</unittitle>
+                  <unitdate>1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref273" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Roble Hall</unittitle>
+                  <unitdate>1965-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref274" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Roble Hall</unittitle>
+                  <unitdate>1968-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref275" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Roble Hall: Head Sponsor and President Reports</unittitle>
+                  <unitdate>1963</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref276" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Roble Hall: Minority Housing</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref277" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Roble Hall: Miscellaneous</unittitle>
+                  <unitdate>1961-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref278" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Roble Hall: Night Assistant, Adele Adams</unittitle>
+                  <unitdate>1967-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref279" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>The Row</unittitle>
+                  <unitdate>1964-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref280" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>The Row: Discipline</unittitle>
+                  <unitdate>1962-1964</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref281" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>The Row: Miscellaneous</unittitle>
+                  <unitdate>1961-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref282" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Science Fiction House</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref283" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Stanford Village Dormitories</unittitle>
+                  <unitdate>1965-1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref284" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Stanford Village Rosters</unittitle>
+                  <unitdate>1966-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref285" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Stern Hall</unittitle>
+                  <unitdate>1957-1960</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref286" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Stern Hall</unittitle>
+                  <unitdate>1961-1962</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref287" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Stern Hall</unittitle>
+                  <unitdate>1963-1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref288" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Stern Hall</unittitle>
+                  <unitdate>1967-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref289" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Stern Houses</unittitle>
+                  <unitdate>1968-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref290" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Stern: Donner House</unittitle>
+                  <unitdate>1968-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref291" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Stern: Fremont House</unittitle>
+                  <unitdate>1968-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref292" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Stern Freshmen Coordinators</unittitle>
+                  <unitdate>1965-1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref293" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Stern: Grove Demonstration House</unittitle>
+                  <unitdate>1967-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref294" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Stern: Holladay House</unittitle>
+                  <unitdate>1968-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref295" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Stern: Lassen House</unittitle>
+                  <unitdate>1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref296" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Stern: Serra House</unittitle>
+                  <unitdate>1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref297" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Toyon Hall and Eating Clubs</unittitle>
+                  <unitdate>1961-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref298" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Toyon Hall and Eating Clubs</unittitle>
+                  <unitdate>1967-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref299" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Toyon Hall and Eating Clubs</unittitle>
+                  <unitdate>1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref300" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Toyon Hall: Director Glenn S. Hara</unittitle>
+                  <unitdate>1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref301" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Toyon Hall: Resident Dr. Stanley Fischman</unittitle>
+                  <unitdate>1969-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref302" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Toyon Hall: Secretary, Mrs. Bernice Watson</unittitle>
+                  <unitdate>1967-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref303" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Wilbur Hall: General</unittitle>
+                  <unitdate>1956-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref304" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Wilbur Hall: Head Sponsor Reports [Encina Hall freshman sponsor reports included before 1956]</unittitle>
+                  <unitdate>1951-1962</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref305" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Wilbur Hall: Housekeeping</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref306" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Wilbur Houses: General</unittitle>
+                  <unitdate>1968-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref307" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Wilbur: Otero Demonstration (International)</unittitle>
+                  <unitdate>1967-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref308" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Wilbur: Record</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref309" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Wilbur: Soto Demonstration House (Creativity)</unittitle>
+                  <unitdate>1967-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref310" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Wilbur: Summer</unittitle>
+                  <unitdate>1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref311" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Wilbur: Trancos House</unittitle>
+                  <unitdate>1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref312" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: Accounts Receivable</unittitle>
+                  <unitdate>1969-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref313" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: Alumni Address List</unittitle>
+                  <unitdate>1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref314" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: Alumni Advisory Council</unittitle>
+                  <unitdate>1972-1973</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref315" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: Alumni Conference</unittitle>
+                  <unitdate>1967-1972</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref316" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: Alumni Conference</unittitle>
+                  <unitdate>1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref317" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: Alumni Corporation Officers</unittitle>
+                  <unitdate>1964-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref318" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: Alumni Relations</unittitle>
+                  <unitdate>1968-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref319" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: Annual Reports</unittitle>
+                  <unitdate>1963-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref320" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: Auditing</unittitle>
+                  <unitdate>1962-1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref321" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: Background Information</unittitle>
+                  <unitdate>1970-1972</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref322" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: Bid Card Procedure</unittitle>
+                  <unitdate>1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref323" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: Bilateral Movement</unittitle>
+                  <unitdate>1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref324" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: Boarders, Placement and Transfers</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref325" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: Complaints</unittitle>
+                  <unitdate>1966-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref326" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: Conferences</unittitle>
+                  <unitdate>1966-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref327" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: Establishment Dates</unittitle>
+                  <unitdate>1068</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref328" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: Expansion</unittitle>
+                  <unitdate>1952-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref329" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: Finances</unittitle>
+                  <unitdate>1966-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref330" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: Forum</unittitle>
+                  <unitdate>1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref331" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: General</unittitle>
+                  <unitdate>1961-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref332" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: General</unittitle>
+                  <unitdate>1966-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref333" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: General</unittitle>
+                  <unitdate>1967-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref334" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: General</unittitle>
+                  <unitdate>1971-1972</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref335" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: General Correspondence</unittitle>
+                  <unitdate>1970-1972</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref336" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: General Problems</unittitle>
+                  <unitdate>1968-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref337" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: House Managers</unittitle>
+                  <unitdate>1962-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref338" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: House Presidents</unittitle>
+                  <unitdate>1969-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref339" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: Housing Development</unittitle>
+                  <unitdate>1956-1961</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref340" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: Housing Policy</unittitle>
+                  <unitdate>1962-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref341" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: Inquiries about Housing</unittitle>
+                  <unitdate>1960-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref342" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: Interfraternity Board (IFB) and Interfraternity Council (IFC), Composite File</unittitle>
+                  <unitdate>1963-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref343" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: IFB</unittitle>
+                  <unitdate>1949-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref344" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: IFB</unittitle>
+                  <unitdate>1960-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref345" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: IFB</unittitle>
+                  <unitdate>1967-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref346" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: IFB, Minutes</unittitle>
+                  <unitdate>1960-1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref347" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: Interfraternity Constitution</unittitle>
+                  <unitdate>1959-1963</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref348" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: IFC</unittitle>
+                  <unitdate>1946-1956</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref349" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: IFC</unittitle>
+                  <unitdate>1957-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref350" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: IFC</unittitle>
+                  <unitdate>1963-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref351" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: IFC</unittitle>
+                  <unitdate>1968-1972</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref352" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: IFC</unittitle>
+                  <unitdate>1970-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref353" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: IFC Judicial Council</unittitle>
+                  <unitdate>1963-1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref354" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: IFC Judicial Council</unittitle>
+                  <unitdate>1966-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref355" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Fraternities: IFC Minutes</unittitle>
+                  <unitdate>1963-1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref356" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Fraternities: Libraries and Librarians</unittitle>
+                  <unitdate>1966-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref357" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Fraternities: Meal Exchange Program</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref358" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Fraternities: National Intrafraternity Conferences</unittitle>
+                  <unitdate>1966-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref359" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Fraternities: Non-Cluster</unittitle>
+                  <unitdate>1969-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref360" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Fraternities: Non-Cluster Policy</unittitle>
+                  <unitdate>1967-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref361" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Fraternities: Non-Cluster Policy</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref362" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Fraternities: Other Nationals - Correspondence</unittitle>
+                  <unitdate>1967-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref363" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Fraternities: Planning</unittitle>
+                  <unitdate>1970-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref364" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Fraternities: Pledge Lists</unittitle>
+                  <unitdate>1961-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref365" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Fraternities: Pledge Lists</unittitle>
+                  <unitdate>1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref366" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Fraternities: Procedures for Going Local</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref367" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Fraternities: Program Allowance</unittitle>
+                  <unitdate>1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref368" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Fraternities: "Proposal for Change and Development of the S.U. Fraternity System;" New Policy Statement: Results, Correspondence</unittitle>
+                  <unitdate>1956-1957</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref369" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Fraternities: Questionnaire Results</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref370" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Fraternities: Report on Stanford Fraternity System</unittitle>
+                  <unitdate>1955-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref371" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Fraternities: Residents' Personal Problems</unittitle>
+                  <unitdate>1961-1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref372" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Fraternities: Resident Assistants</unittitle>
+                  <unitdate>1963-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref373" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Fraternities: Rosters</unittitle>
+                  <unitdate>1964-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref374" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Fraternities: Rosters</unittitle>
+                  <unitdate>1970-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref375" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Fraternities: Rush, Ad Hoc Committee on</unittitle>
+                  <unitdate>1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref376" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Fraternities: Rush, Ad Hoc Committee on</unittitle>
+                  <unitdate>1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref377" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Fraternities: Rush, Ad Hoc Committee on</unittitle>
+                  <unitdate>1965-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref378" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Fraternities: Rush, Ad Hoc Committee on</unittitle>
+                  <unitdate>1966-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref379" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Fraternities: Rush, Ad Hoc Committee on</unittitle>
+                  <unitdate>1967-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref380" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Fraternities: Rush, Ad Hoc Committee on</unittitle>
+                  <unitdate>1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref381" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Fraternities: Rush Booklets</unittitle>
+                  <unitdate>1962-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref382" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Fraternities: Rushbook</unittitle>
+                  <unitdate>1972</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref383" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Fraternities: Rush, Fall Rush for Freshman and Transfers</unittitle>
+                  <unitdate>1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref384" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Fraternities: Rush, Greek Week Activities</unittitle>
+                  <unitdate>1959-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref385" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Fraternities: Rush, Regulations and General Inquiries</unittitle>
+                  <unitdate>1965-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref386" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Fraternities: Rush, Reorganization</unittitle>
+                  <unitdate>1961</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref387" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Fraternities: Rush, Rules</unittitle>
+                  <unitdate>1954-1960</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref388" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Fraternities: Rush, Rules</unittitle>
+                  <unitdate>1960-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref389" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Fraternities: Rush</unittitle>
+                  <unitdate>1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref390" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Spring Meeting</unittitle>
+                  <unitdate>1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref391" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Staffing</unittitle>
+                  <unitdate>1970-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref392" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Summer</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref393" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Tax Exemption-Gifts</unittitle>
+                  <unitdate>1955-1963</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref394" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Use of for conferences, etc., other than summer</unittitle>
+                  <unitdate>1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref395" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Western Regional Interfraternity Council</unittitle>
+                  <unitdate>1964-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref396" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Workshop Fall Quarter</unittitle>
+                  <unitdate>1969-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref397" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Clusters: Discussions of New Clusters</unittitle>
+                  <unitdate>1965-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref398" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Clusters: Rental</unittitle>
+                  <unitdate>1972</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref399" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Clusters</unittitle>
+                  <unitdate>1963-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref400" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Cluster I</unittitle>
+                  <unitdate>1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref401" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Cluster I, Bill Leland</unittitle>
+                  <unitdate>1968-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref402" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Cluster II</unittitle>
+                  <unitdate>1965-1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref403" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Cluster II, John E. Hanson</unittitle>
+                  <unitdate>1968-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref404" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Cluster III</unittitle>
+                  <unitdate>1963-1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref405" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Cluster III</unittitle>
+                  <unitdate>1965-1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref406" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Cluster III</unittitle>
+                  <unitdate>1967-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref407" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Cluster III, Correspondence</unittitle>
+                  <unitdate>1967-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref408" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Cluster III, Deke and Chi Psi Move to Row</unittitle>
+                  <unitdate>1970-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref409" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Cluster III, Bob Freelen</unittitle>
+                  <unitdate>1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref410" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Cluster III, Letters to Neighbors</unittitle>
+                  <unitdate>1968-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref411" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Cluster III, Public Relations</unittitle>
+                  <unitdate>1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref412" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Alpha Delta Phi</unittitle>
+                  <unitdate>1965-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref413" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Alpha Delta Phi</unittitle>
+                  <unitdate>1968-1972</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref414" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Alpha Kappa Lambda (History Only)</unittitle>
+                  <unitdate>1965-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref415" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Alpha Phi Omega</unittitle>
+                  <unitdate>1952-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref416" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Alpha Sigma Phi</unittitle>
+                  <unitdate>1955-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref417" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Alpha Sigma Phi</unittitle>
+                  <unitdate>1956-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref418" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Alpha Sigma Phi</unittitle>
+                  <unitdate>1962-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref419" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Alpha Tau Omega Building Association Minutes</unittitle>
+                  <unitdate>1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref420" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Alpha Tau Omicron</unittitle>
+                  <unitdate>1959-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref421" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Alpha Tau Omicron</unittitle>
+                  <unitdate>1968-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref422" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Alpha Tau Omicron</unittitle>
+                  <unitdate>1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref423" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Alpha Tau Omicron, Discrimination Matter</unittitle>
+                  <unitdate>1957-1961</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref424" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Beta Chi</unittitle>
+                  <unitdate>1962-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref425" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Beta Chi</unittitle>
+                  <unitdate>1963-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref426" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Beta Chi</unittitle>
+                  <unitdate>1968-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref427" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Beta Chi, Probation and Receivership</unittitle>
+                  <unitdate>1958-1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref428" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Beta Chi's Woe (Institute of Non-Violence)</unittitle>
+                  <unitdate>1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref429" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Beta Theta Pi</unittitle>
+                  <unitdate>1952-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref430" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Beta Theta Pi</unittitle>
+                  <unitdate>1965-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref431" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Beta Theta Pi</unittitle>
+                  <unitdate>1965-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref432" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Beta Theta Pi, Requests for Course Incompletes (Typhoid Cases)</unittitle>
+                  <unitdate>1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref433" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Chi Psi</unittitle>
+                  <unitdate>1952-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref434" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Chi Psi</unittitle>
+                  <unitdate>1965-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref435" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fraternities: Chi Psi</unittitle>
+                  <unitdate>1970-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref436" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Fraternities: Delta Chi</unittitle>
+                  <unitdate>1948-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref437" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Fraternities: Delta Chi</unittitle>
+                  <unitdate>1965-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref438" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Fraternities: Delta Chi</unittitle>
+                  <unitdate>1970-1972</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref439" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Fraternities: Delta Kappa Epsilon</unittitle>
+                  <unitdate>1952-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref440" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Fraternities: Delta Kappa Epsilon</unittitle>
+                  <unitdate>1967-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref441" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Fraternities: Delta Kappa Epsilon</unittitle>
+                  <unitdate>1970-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref442" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Fraternities: Delta Kappa Epsilon</unittitle>
+                  <unitdate>1970-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref443" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Fraternities: Delta Tau Delta</unittitle>
+                  <unitdate>1960-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref444" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Fraternities: Delta Tau Delta</unittitle>
+                  <unitdate>1964-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref445" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Fraternities: Delta Tau Delta</unittitle>
+                  <unitdate>1970-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref446" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Fraternities: Delta Tau Delta</unittitle>
+                  <unitdate>1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref447" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Fraternities: Delta Upsilon</unittitle>
+                  <unitdate>1952-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref448" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Fraternities: Delta Upsilon</unittitle>
+                  <unitdate>1965-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref449" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Fraternities: Delta Upsilon</unittitle>
+                  <unitdate>1970-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref450" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Fraternities: Kappa Alpha</unittitle>
+                  <unitdate>1952-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref451" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Fraternities: Kappa Alpha</unittitle>
+                  <unitdate>1967-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref452" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Fraternities: Kappa Alpha</unittitle>
+                  <unitdate>1971-1972</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref453" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Fraternities: Kappa Sigma</unittitle>
+                  <unitdate>1952-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref454" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Fraternities: Kappa Sigma</unittitle>
+                  <unitdate>1965-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref455" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Fraternities: Kappa Sigma</unittitle>
+                  <unitdate>1970-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref456" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Fraternities: Lambda Nu</unittitle>
+                  <unitdate>1952-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref457" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Fraternities: Lambda Nu</unittitle>
+                  <unitdate>1966-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref458" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Fraternities: Lambda Nu</unittitle>
+                  <unitdate>1970-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref459" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Fraternities: Lambda Nu</unittitle>
+                  <unitdate>1970-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref460" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Fraternities: Lambda Nu, Co-ed Inquiries</unittitle>
+                  <unitdate>1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref461" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Fraternities: Lambda Nu, Correspondence on new building</unittitle>
+                  <unitdate>1954-1957</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref462" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Fraternities: Lambda Nu, Local</unittitle>
+                  <unitdate>1968-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref463" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Fraternities: Lambda Nu, National</unittitle>
+                  <unitdate>1965-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref464" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Fraternities: Lambda Nu, Switch to Co-ed</unittitle>
+                  <unitdate>1968-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref465" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Fraternities: Omicron Delta Kappa</unittitle>
+                  <unitdate>1965-1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref466" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Fraternities: Phi Beta Kappa</unittitle>
+                  <unitdate>1966-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref467" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Fraternities: Phi Delta Theta</unittitle>
+                  <unitdate>1957-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref468" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Fraternities: Phi Delta Theta</unittitle>
+                  <unitdate>1967-1972</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref469" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Fraternities: Phi Delta Theta Steering Committee</unittitle>
+                  <unitdate>1967-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref470" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Fraternities: Phi Gamma Delta</unittitle>
+                  <unitdate>1956-1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref471" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Fraternities: Phi Gamma Delta</unittitle>
+                  <unitdate>1965-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref472" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Fraternities: Phi Gamma Delta</unittitle>
+                  <unitdate>1968-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref473" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Fraternities: Phi Gamma Delta, Local Issue</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref474" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Fraternities: Phi Kappa Psi</unittitle>
+                  <unitdate>1961-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref475" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Fraternities: Phi Kappa Psi</unittitle>
+                  <unitdate>1970-1972</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref476" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Fraternities: Phi Kappa Sigma</unittitle>
+                  <unitdate>1952-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref477" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Fraternities: Phi Kappa Sigma</unittitle>
+                  <unitdate>1970-1972</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref478" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Fraternities: Phi Sigma Kappa</unittitle>
+                  <unitdate>1952-1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref479" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Fraternities: Phi Sigma Kappa</unittitle>
+                  <unitdate>1966-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref480" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Fraternities: Phi Sigma Kappa House Information</unittitle>
+                  <unitdate>1957-1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref481" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Fraternities: Sigma Alpha Epsilon</unittitle>
+                  <unitdate>1952-1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref482" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Fraternities: Sigma Alpha Epsilon</unittitle>
+                  <unitdate>1965-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref483" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Fraternities: Sigma Chi</unittitle>
+                  <unitdate>1959-1963</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref484" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Fraternities: Sigma Chi</unittitle>
+                  <unitdate>1964</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref485" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Fraternities: Sigma Chi</unittitle>
+                  <unitdate>1965-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref486" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Fraternities: Sigma Chi, Suspension I</unittitle>
+                  <unitdate>1965 Jan-Apr</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref487" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Fraternities: Sigma Chi, Suspension II</unittitle>
+                  <unitdate>1965 May-Dec</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref488" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Fraternities: Sigma Chi, Suspension, S.U. Press Releases</unittitle>
+                  <unitdate>1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref489" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Fraternities: Sigma Chi Omega</unittitle>
+                  <unitdate>1967-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref490" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Fraternities: Sigma Nu</unittitle>
+                  <unitdate>1953-1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref491" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Fraternities: Theta Chi</unittitle>
+                  <unitdate>1952-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref492" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Fraternities: Theta Chi</unittitle>
+                  <unitdate>1965-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref493" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Fraternities: Theta Chi</unittitle>
+                  <unitdate>1970-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref494" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Fraternities: Theta Delta Chi</unittitle>
+                  <unitdate>1952-1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref495" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Fraternities: Theta Delta Chi</unittitle>
+                  <unitdate>1966-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref496" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Fraternities: Theta Delta Chi</unittitle>
+                  <unitdate>1970-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref497" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Fraternities: Theta Xi</unittitle>
+                  <unitdate>1961-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref498" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Fraternities: Theta Xi</unittitle>
+                  <unitdate>1970-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref499" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Fraternities: Zeta Alpha Phi</unittitle>
+                  <unitdate>1969-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref500" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Fraternities: Zeta Alpha Phi</unittitle>
+                  <unitdate>1970-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref501" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Fraternities: Zeta Psi</unittitle>
+                  <unitdate>1952-1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref502" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Fraternities: Zeta Psi (Confidential)</unittitle>
+                  <unitdate>1963</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref503" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Fraternities: Zeta Psi (Confidential)</unittitle>
+                  <unitdate>1964</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref504" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Fraternities: Zeta Psi</unittitle>
+                  <unitdate>1966-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref505" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Fraternities: Zeta Psi</unittitle>
+                  <unitdate>1970-1971</unitdate>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

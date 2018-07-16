@@ -1,0 +1,1297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[William Webster Hansen papers])//EN"
+             identifier="ark:/13030/tf7r29n9s1">sc0126.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the William Webster Hansen Papers
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Hansen (William Webster) Papers</titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2000">2000</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date normal="2014-06">June 2014</date>
+            <item/>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC0126</unitid>
+         <origination label="Creator:">
+            <persname rules="aacr" source="naf">Hansen, W. W. (William Webster), 1909-1949</persname>
+         </origination>
+         <unittitle label="Title:">William Webster Hansen papers</unittitle>
+         <unitdate normal="1928/1974"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1928-1974</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>4 Linear feet</extent>
+         </physdesc>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <descgrp type="provenance" id="prov">
+            <head>Provenance</head>
+            <custodhist id="ref6">
+               <p>Gift of David Locke Webster, 1974</p>
+            </custodhist>
+         </descgrp>
+         <accessrestrict id="ref2">
+            <head>Information about Access</head>
+            <p>None.</p>
+         </accessrestrict>
+         <userestrict id="ref4">
+            <head>Ownership &amp; Copyright</head>
+            <p>Property rights reside with the repository. Literary rights reside with the creators of the documents or their heirs. To obtain permission to publish or reproduce, please contact the Public Services Librarian of the Dept. of Special Collections and University Archives.</p>
+         </userestrict>
+         <prefercite id="ref8">
+            <head>Cite As</head>
+            <p>[Identification of item], William Webster Hansen Papers, SC 126, Stanford University Archives, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <bioghist id="ref12">
+         <head>Biographical Note</head>
+         <p>Memorial Resolution for William Webster Hansen.</p>
+         <p>William Webster Hansen died May 23, 1949. Although he had not been in the best of health since the middle of the war, Hansen's death was unexpected; only two days before it, he had inspected the office made ready for his use in the Microwave Laboratory. He is survived by his parents and his wife Betsy, daughter of the late Professor P. A. Ross of the Stanford Physics Department.</p>
+         <p>Hansen was born May 27, 1909, at Fresno, California, and received his elementary schooling in that city. Coming to Stanford, he received the A.B. in 1929, and the Ph.D. in 1933 when only 23 years of age, and then studied as a National Research Council Fellow at the Massachusetts Institute of Technology until 1935, when he returned to Stanford as an assistant professor. He became associate professor here in 1937 and professor in 1942.</p>
+         <p>Hansen's most important work has been in the border line between physics and engineering involving electromagnetic theory, electron ballistics, and advance circuit theory. He originated the cavity resonator, so important in microwave radar and radio. He contributed to the klystron tube not only the cavity resonator, but also numerous design features that are now typical of all klystron tubes. He made many contributions to the field of microwave measurements, and also originated many important mathematical developments in the theory of radio circuits and antennas. In 1944 he was recognized for this work by the Institute of Radio Engineers with the Morris Liebmann Memorial Prize.</p>
+         <p>Direct utility won recognition for the cavity resonator and for many of his improvements in radio and radar engineering; but direct utility was not Hansen's own chief interest. Primarily, he was a pure scientist. His first acquaintance with scientific things was with the fine machine tools sold by his father. From them his temperament led him naturally to the study of their principles. In this study he was greatly benefited by his father's wide experience with such matters, and by most enthusiastic aid and encouragement from both his father and his mother.</p>
+         <p>When Hansen came to Stanford as a student, his interest in the underlying principles of physical things led him to work as a research laboratory assistant; and soon the search for new laws of physics became his lifelong objective.</p>
+         <p>The cavity resonator, in fact, took shape first only in his mind, as a set of abstract mathematical functions, attractive primarily for their mathematical elegance. Then his clear vision of the meanings of mathematics showed him that real metal, made in the image of these functions, could be used with real electrons for further discoveries in physics.</p>
+         <p>Only the shadow of the coming war, which Hansen's rugged intellectual honesty forced him to recognize as real, away back in 1937, made him divert the cavity resonator and himself to military duty. This duty took him to the research laboratory of the Sperry Gyroscope Company and the Massachusetts Institute of Technology Radiation Laboratory. Returning to Stanford in 1945, Hansen combined the principles of his cavity resonator with many others learned or discovered in the meantime, and resumed his prewar purpose of developing apparatus for accelerating electrons to unprecedentedly high kinetic energy. The device he designed for this purpose is well known as the linear electron accelerator. A short section of the long linear chain of cavities in which the electrons will be accelerated has already been built. It works exactly as predicted by Hansen. This gives confidence that the rest of his plan for electrons at the equivalent of hundreds of millions of volts will be realized.</p>
+         <p>This device we shall not explain here. Hansen could. The clarity of his explanations was amazing; so, too, was their brevity. Sometimes his clear, brief explanations looked like guesswork, but they never were unless he said so. They were insight into the real essentials. Behind any explanation he did not specifically call a guess, there was always a good, thorough mathematical analysis. Moreover, he never lost the practical engineering instincts which he had acquired in his early contact with his father's work. He combined in one man the qualities of an able mathematical physicist, an equally outstanding experimentalist, and a distinguished radio engineer. He was noted among scientists because his ideas always worked.</p>
+         <p>He was noted also as a good friend, and not only among scientists. He was ready to lend a hand, or his ears, or brain, in any worthy problem, and to enliven it with unexpected humor. Bill's merry laugh shook off the troubles of many a research. It loosened thought which had bogged down. It helped us get going again along new lines.</p>
+         <p>In the war Hansen's conscientious thoroughness was increased by his sense of military duty. Regardless of risk, he went ahead in work that brought on the illness which has now proved fatal. Though not in uniform, he was a good soldier.</p>
+         <p>Edward Leonard Ginzton</p>
+         <p>Frederick Emmons Terman</p>
+         <p>David Locke Webster, Chairman</p>
+      </bioghist>
+      <scopecontent id="ref10">
+         <head>Scope and Content</head>
+         <p>This collection consists primarily of W. W. Hansen's correspondence with professional colleagues (1934-1949, Boxes 1-3), although some letters of a more personal nature are also included. These letters were in no particular order when acquired by the Archives. They have been arranged chronologically, incoming and outgoing correspondence interfiled, and a name index to major correspondents has been compiled. This index also covers a group of letters and memoranda dealing with the formation of the Stanford Microwave Laboratory, later re-named the Hansen Laboratory of Physics. This latter group of correspondence (Box 4, folders 40 thru 42) had been separated from Hansen's other files by his executor, D.L. Webster, who "bound" these letters together in a notebook. Major correspondents in the W.W. Hansen Papers include: Felix Bloch, Edward Bowles, Ed Condon, E.S. Erwin, Paul Kirkpatrick, Philip M. Morse, Sperry Gyroscope Co., David L. Webster, Ray Lyman Wilbur, and John R. Woodyard. Although this collection includes several letters from Hansen to the Varian brothers, there are almost none from the Varians to Hansen.</p>
+         <p>In addition to correspondence the Hansen Papers contain research notes of W.W. Hansen; bibliographic and biographic information; Hansen's account of the development of the klystron; reports re. the first linear accelerator at Stanford; unpublished manuscripts; reprints of some of Hansen's publications; copies of patents; some pieces of apparatus; and two rolls of 35mm. microfilm (film of Hansen's notebooks, evidently made by Hansen).</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <persname rules="aacr" source="naf" role=" ">Bloch, Felix, 1905-</persname>
+         <persname rules="aacr" source="ingest" role=" ">Bowles, Edward W.</persname>
+         <persname rules="aacr" source="ingest" role=" ">Condon, Edward Uhler, 1902-1974.</persname>
+         <persname rules="aacr" source="ingest" role=" ">Erwin, E. S.</persname>
+         <persname rules="aacr" source="ingest" role=" ">Kirkpatrick, Paul.</persname>
+         <persname rules="aacr" source="ingest" role=" ">Morse, Philip M.,  (Philip McCord), 1903-1985.</persname>
+         <corpname rules="dacs" source="ingest" role=" ">Sperry Rand Corporation. Sperry Gyroscope Division.</corpname>
+         <corpname rules="dacs" source="naf" role=" ">Stanford Linear Accelerator Center</corpname>
+         <corpname rules="dacs" source="naf" role=" ">Stanford University. Department of Physics. -- General subdivision--Faculty.; </corpname>
+         <corpname rules="dacs" source="ingest" role=" ">Stanford University. High Energy Physics Laboratories.</corpname>
+         <corpname rules="dacs" source="local" role=" ">Stanford University. Microwave Laboratory.</corpname>
+         <persname rules="aacr" source="naf" role=" ">Varian, Russell Harrison, 1898-1959</persname>
+         <persname rules="aacr" source="ingest" role=" ">Varian, Sigurd Fergus,, 1901-1961.</persname>
+         <persname rules="aacr" source="ingest" role=" ">Webster, David Locke, 1943-</persname>
+         <persname rules="aacr" source="naf" role=" ">Wilbur, Ray L.,  (Ray Lyman), 1875-1949</persname>
+         <persname rules="aacr" source="ingest" role=" ">Woodyard, John R.</persname>
+         <subject source="lcsh">Klystrons.</subject>
+         <subject source="lcsh">Physics--History.</subject>
+         <subject source="lcsh">Physics--Research.</subject>
+         <subject source="lcsh">Physics--Study and teaching.</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.6">
+         <head>Collection Contents</head>
+         <c01 id="ref13" level="series">
+            <did>
+               <unitid>Series 1</unitid>
+               <unittitle>Correspondence</unittitle>
+               <unitdate>1928-1949</unitdate>
+            </did>
+            <c02 id="ref14" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Correspondence</unittitle>
+                  <unitdate>1928-1934</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref15" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Correspondence</unittitle>
+                  <unitdate>1936, January-August</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref16" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Correspondence</unittitle>
+                  <unitdate>1936, Sep-Dec</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref17" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Correspondence</unittitle>
+                  <unitdate>1937, Jan-Apr</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref18" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Correspondence</unittitle>
+                  <unitdate>1937, May-Oct</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref19" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Correspondence</unittitle>
+                  <unitdate>1937, Nov-Dec</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref20" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Correspondence</unittitle>
+                  <unitdate>1938, Jan-Apr</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref21" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Correspondence</unittitle>
+                  <unitdate>1938, May-August</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref22" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Correspondence</unittitle>
+                  <unitdate>1938, Sep-Dec, plus 1938, undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref23" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Correspondence</unittitle>
+                  <unitdate>1939, Jan-Feb</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref24" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Correspondence</unittitle>
+                  <unitdate>1939, Mar-May</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref25" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Correspondence</unittitle>
+                  <unitdate>1939, June-July</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref26" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Correspondence</unittitle>
+                  <unitdate>1939, Aug-Sep</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref27" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Correspondence</unittitle>
+                  <unitdate>1939, Oct-Dec</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref28" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">15</container>
+                  <unittitle>Correspondence</unittitle>
+                  <unitdate>1940, Jan-Feb</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref29" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">16</container>
+                  <unittitle>Correspondence</unittitle>
+                  <unitdate>1940, Mar-Jul</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref30" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">17</container>
+                  <unittitle>Correspondence</unittitle>
+                  <unitdate>1940, Aug-Oct</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref31" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">18</container>
+                  <unittitle>Correspondence</unittitle>
+                  <unitdate>1940, Nov-Dec, also 1940 undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref32" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">19</container>
+                  <unittitle>Correspondence</unittitle>
+                  <unitdate>1941</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref33" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">20</container>
+                  <unittitle>Correspondence</unittitle>
+                  <unitdate>1942</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref34" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">21</container>
+                  <unittitle>Correspondence</unittitle>
+                  <unitdate>1943, 1944</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref35" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">22</container>
+                  <unittitle>Correspondence</unittitle>
+                  <unitdate>1945</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref36" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">23</container>
+                  <unittitle>Correspondence</unittitle>
+                  <unitdate>1946</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref37" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">24</container>
+                  <unittitle>Correspondence</unittitle>
+                  <unitdate>1947, Jan-Sep</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref38" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">25</container>
+                  <unittitle>Correspondence</unittitle>
+                  <unitdate>1947, Oct-Dec</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref39" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">26</container>
+                  <unittitle>Correspondence</unittitle>
+                  <unitdate>1948, Jan-May</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref40" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">27</container>
+                  <unittitle>Correspondence</unittitle>
+                  <unitdate>1948, Jun-Dec</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref41" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">28</container>
+                  <unittitle>Correspondence</unittitle>
+                  <unitdate>1949, Jan-May</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref42" level="series">
+            <did>
+               <unitid>Series 2</unitid>
+               <unittitle>Biographical Materials</unittitle>
+            </did>
+            <c02 id="ref43" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">29</container>
+                  <unittitle>Death of W.W. Hansen</unittitle>
+               </did>
+               <scopecontent>
+                  <p>Contents of file include texts of eulogies; telegrams of condolence; obituary clippings; Memorial Resolution of the Stanford Academic Council; article on beryllium poisoning; published 
+                            <emph render="italic">Biographical Memoir of William Webster Hansen, </emph>1909-1949, by Felix Bloch, presented to the National Academy of Sciences, 1952; 
+                            <emph render="italic">The Uncommon Man, </emph>1951.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref46" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">30</container>
+                  <unittitle>Death of W.W. Hansen</unittitle>
+               </did>
+               <scopecontent>
+                  <p>Contents of file include official documents, bills, receipts re. last illness and death of W.W. Hansen.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref49" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">31</container>
+                  <unittitle>David Locke Webster - Correspondence and notes relating to the estate of W.W. Hansen</unittitle>
+               </did>
+               <scopecontent>
+                  <p>Contents of this file include numerous memos written by Dr. Webster "for the record" re. the Hansen "Papers"; correspondence re. disposition of certain of Hansen's effects, including notes for a book (see also folder 5-51 "Ruling Engine").</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref52" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">32</container>
+                  <unittitle>Biographical material</unittitle>
+               </did>
+               <scopecontent>
+                  <p>Contents of this file include Hansen's birth certificate; a mathematical problem he worked as a child; his Stanford transcripts; his thesis; an announcement of his marriage; and a personnel security questionnaire.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref55" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">33</container>
+                  <unittitle>Bibliographies; Lists of Activities</unittitle>
+               </did>
+               <scopecontent>
+                  <p>Contents include Bibliography in Felix Bloch's 
+                            <emph render="italic">Biographical Memoir of W.W. Hansen, </emph>and a statement of Hansen's (1937) listing his publications and activities at that time.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref58" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">34</container>
+                  <unittitle>National Research Fellowship application for</unittitle>
+                  <unitdate>(1933),</unitdate>
+               </did>
+               <scopecontent>
+                  <p>Contents of file include several copies of application form filled out by W.W. Hansen, as well as copies of abstracts of scientific papers by Hansen, submitted with his application.</p>
+               </scopecontent>
+            </c02>
+         </c01>
+         <c01 id="ref61" level="series">
+            <did>
+               <unitid>Series 3</unitid>
+               <unittitle>The Klystron</unittitle>
+               <dao linktype="simple"
+                    actuate="onrequest"
+                    title="The Klystron"
+                    role="Mixed Material"
+                    href="http://purl.stanford.edu/sb779jf6513"
+                    show="new">
+                  <daodesc>
+                     <p>The Klystron</p>
+                  </daodesc>
+               </dao>
+            </did>
+            <c02 id="ref62" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">35</container>
+                  <unittitle>The Klystron</unittitle>
+               </did>
+               <scopecontent>
+                  <p>Contents include "Statement of William W. Hansen", n. d., typed, 48p., with typed comments by D.L. Webster, 4 p.; "The Klystron as a generator of very short waves", by W.W. Hansen, R.H. Varian, et al., 2 p., typed carbon copy, n. d.; "Causes of frequency variation in Klystron oscillators", by W.W. Hansen, R.H. Varian, et al., typed carbon copy, 12 p., n. d.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref65" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">36</container>
+                  <unittitle>Clippings re Varian Brothers</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref66" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">37</container>
+                  <unittitle>Orders for the Klystron</unittitle>
+               </did>
+               <scopecontent>
+                  <p>Includes invoices, checks, instruction manuals, and some correspondence re. Klystrons made in 1940 at Stanford and sold to Sperry Gyroscope Co.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref69" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">38</container>
+                  <unittitle>Popular accounts of its development</unittitle>
+               </did>
+               <scopecontent>
+                  <p>Includes magazine articles; TV show script; Varian Associates, Inc. 25 year anniversary booklet. Also copy of typescript of Edward Ginzton's account, The $100 Idea., ca. 1974</p>
+               </scopecontent>
+            </c02>
+         </c01>
+         <c01 id="ref72" level="series">
+            <did>
+               <unitid>Series 4</unitid>
+               <unittitle>Stanford University</unittitle>
+               <unitdate>1942-1949</unitdate>
+            </did>
+            <c02 id="ref73" level="file">
+               <did>
+                  <unittitle>Physics Department</unittitle>
+               </did>
+               <c03 id="ref74" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">39</container>
+                     <unittitle>Records, including announcements; class teaching assignments; some committee minutes; and copies of the departmental newsletter.</unittitle>
+                     <unitdate>1945-1949,</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref75" level="file">
+               <did>
+                  <unittitle>Microwave Laboratory</unittitle>
+                  <unitdate>1942-1948</unitdate>
+               </did>
+               <scopecontent>
+                  <p>Folders 4-40 through 4-42 contain correspondence, chronologically arranged, re. the establishment of the Microwave Laboratory at Stanford (reorganized and renamed W.W. Hansen Laboratories of Physics in 1953), with some correspondence on the physics department. According to a memo written by Prof. D.L. Webster Dec. 19, 1949, and included in folder 4-40, Prof. Webster arranged this correspondence from the files of Prof. Hansen after the latter's death.</p>
+               </scopecontent>
+               <c03 id="ref76" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">40</container>
+                     <unittitle>Microwave Laboratory, correspondence on the origins of</unittitle>
+                     <unitdate>1942-43</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref77" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">41</container>
+                     <unittitle>Microwave Laboratory, correspondence on the origins of,</unittitle>
+                     <unitdate>1944-Jun 1945</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref78" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">42</container>
+                     <unittitle>Microwave Laboratory, correspondence on the origins of,</unittitle>
+                     <unitdate>July 1945-1948</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref79" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">43</container>
+                     <unittitle>Microwave Laboratory - miscellaneous</unittitle>
+                  </did>
+                  <scopecontent>
+                     <p>Includes "The Microwave Laboratory; a plan for the foundation of a laboratory at Stanford University"; Dec. 30, 1942; n.a.; typed carbon copy. Also newspaper clipping re. the lab.</p>
+                  </scopecontent>
+               </c03>
+            </c02>
+            <c02 id="ref84" level="file">
+               <did>
+                  <unittitle>Linear Electron Accelerator Project</unittitle>
+                  <unitdate>1946-1948</unitdate>
+               </did>
+               <c03 id="ref85" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">44</container>
+                     <unittitle>Report no. 1, mimeo copy, with D.L. Webster's comments (holograph)</unittitle>
+                     <unitdate>[1946],</unitdate>
+                     <dao linktype="simple"
+                          actuate="onrequest"
+                          title="Report no. 1, mimeo copy, with D.L. Webster's comments (holograph)"
+                          role="Mixed Material"
+                          href="http://purl.stanford.edu/ym863cg3815"
+                          show="new">
+                        <daodesc>
+                           <p>Report no. 1, mimeo copy, with D.L. Webster's comments (holograph), [1946], </p>
+                        </daodesc>
+                     </dao>
+                  </did>
+               </c03>
+               <c03 id="ref86" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">45</container>
+                     <unittitle>Reports nos. 2 and 3 [Report no. 4 is missing]</unittitle>
+                     <unitdate>Dec 18, 1946, and Jan 4, 1947</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref87" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">46</container>
+                     <unittitle>Reports, nos. 5-9,</unittitle>
+                     <unitdate>(March 1947-July 1947)</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref88" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">47</container>
+                     <unittitle>Reports, nos. 10, 11, 12</unittitle>
+                     <unitdate>(1947-1948)</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref89" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">48</container>
+                     <unittitle>Miscellaneous</unittitle>
+                  </did>
+                  <scopecontent>
+                     <p>Contents include some correspondence; clippings; draft sketch of floor plan; "Proposed billion volt accelerator, rough draft", typed carbon copy, n.a., n.d.; "Proposal for the production of super energy electrons", n.a., n.d.; "Survey of possible experiments with linear electron accelerators", by Leonard Schiff, Nov. 1949, report no. 102.</p>
+                  </scopecontent>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="ref92" level="series">
+            <did>
+               <unitid>Series 5</unitid>
+               <unittitle>Notes, Publications, and Other Papers</unittitle>
+               <unitdate>1932-1949</unitdate>
+            </did>
+            <c02 id="ref93" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">49</container>
+                  <unittitle>"Notes re. E and M,</unittitle>
+                  <unitdate>1932"</unitdate>
+               </did>
+               <scopecontent>
+                  <p>Research notes of W.W. Hansen and D.L. Webster.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref96" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">50</container>
+                  <unittitle>Sparrows Point - Manx Fisher Collision at Sea,</unittitle>
+                  <unitdate>1947</unitdate>
+               </did>
+               <scopecontent>
+                  <p>Two-boat collision at sea caused by radar failure. W.W. Hansen retained as consultant expert. Folder contains research notes, correspondence, etc. re. the case.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref99" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">51</container>
+                  <unittitle>The Ruling Engine</unittitle>
+               </did>
+               <scopecontent>
+                  <p>W.W. Hansen's notes and other material on a design for a ruling engine. This project was not completed before his death. The folder includes correspondence, post 1949, between D.L. Webster and various individuals interested in Hansen's designs.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref102" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">52</container>
+                  <unittitle>Antenna Research</unittitle>
+               </did>
+               <scopecontent>
+                  <p>"Proposed program, slot antenna research", typescript, n.d.; "Miniature slot antennas", typescript, n.d.; article by Virgil A. Countir.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref105" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">53</container>
+                  <unittitle>Publications, misc. --</unittitle>
+                  <unitdate>pre-1940</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref106" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">54</container>
+                  <unittitle>Publications, misc. --</unittitle>
+                  <unitdate>1941-1949</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref107" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">55</container>
+                  <unittitle>Miscellaneous notes and Unpublished Manuscripts</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref108" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">56</container>
+                  <unittitle>Miscellaneous graphs</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref109" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">57</container>
+                  <unittitle>Patents</unittitle>
+               </did>
+               <scopecontent>
+                  <p>Folder includes copies of actual patents plus correspondence re. them.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref112" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">58</container>
+                  <unittitle>Personal Finances</unittitle>
+               </did>
+               <scopecontent>
+                  <p>Folder includes income tax information, life insurance payments, lists of stocks, etc.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref115" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">59</container>
+                  <unittitle>Miscellaneous</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref116" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Apparatus</unittitle>
+               </did>
+               <scopecontent>
+                  <p>Diaphragms made for Hansen's accelerator in 1946 or 1947; Tophet A (nickel chrome); Klystron grids; 2 strips 35 mm. microfilm (notebooks of W.W. Hansen?).</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref119" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">60</container>
+                  <unittitle>Photographs</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref120" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Scrapbook</unittitle>
+               </did>
+               <scopecontent>
+                  <p>Contains clippings, photos, and other memorabilia, a few items of correspondence (most were removed). Scrapbook evidently kept by W.W. Hansen's mother.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref123" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Scrapbook</unittitle>
+               </did>
+               <scopecontent>
+                  <p>Contains primarily photos and reprints. Probably kept by W.W. Hansen's mother.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref127" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>
+                     <persname>Page, Leigh</persname>, 
+                            <title render="italic" linktype="simple">Introduction to Theoretical Physics</title>, D. Van Nostrand Company, Inc., 1928; with Hansen’s bookplate</unittitle>
+                  <unitdate>1928</unitdate>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+      <index audience="internal" id="ref126">
+         <head>Index of Major Correspondents in Series 1 Correspondence and Series 4 Stanford University</head>
+         <p>The following is an alphabetical list of persons who corresponded with W.W. Hansen. After their names are numbers indicating the box and folder in which letters written by them can be found. A folder entry signifies that at least one, and perhaps more, letter(s) from the correspondent in question can be found in the folder cited. It should be stressed that this index is only for major correspondents, and only lists writers of letters to W.W. Hansen.Sample entry: Anders, David -- 1-11, 2-16This entry indicates that there is at least one letter written by David Anders in Box 1, folder 11; and at least one letter in Box 2, folder 16.</p>
+         <indexentry>
+            <subject>Alpert, Dan</subject>
+         </indexentry>
+         <indexentry>
+            <subject>American Association for the Advancement of Science -- J. Murray Luck</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">2-18</ref>
+         </indexentry>
+         <indexentry>
+            <subject>American Physical Society, Applied Physics Committee</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">2-16</ref>
+         </indexentry>
+         <indexentry>
+            <subject>The American Physics Teacher</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Andrews, Miles</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">2-17</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Applegate, Lindsay M.</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Atomic Energy Commission (AEC)</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">see U. S. Atomic Energy Commission</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Baird, Douglas O.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">2-22</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Bennett, Willard H.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">3-27</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Berger, Rose</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">2-20</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Bloch, Felix</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Boone, Andrew R.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">1-12</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Bowles, Edward L.</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Bradbury, N. E.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">4-40</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Breazeale, William M.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">2-22</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Burbank, Cecil</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">2-19</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Burbridge, H. C.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">2-14</ref>
+         </indexentry>
+         <indexentry>
+            <subject>California, University of, Los Alamos Lab.</subject>
+         </indexentry>
+         <indexentry>
+            <subject>California, University of, Radiation Lab.</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Carnahan, C. W. (Wes)</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Chipman, Robert A.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">2-16</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Clark, W. Mansfield</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Condon, Ed. U.</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Cooksey, Donald</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Cramer, George F.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">2-20</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Cravitz, Sam</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">1-10</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Davis, Paul H.</subject>
+         </indexentry>
+         <indexentry>
+            <subject>de Bretteville, Alex</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">2-13</ref>
+         </indexentry>
+         <indexentry>
+            <subject>de Forest, Lee</subject>
+         </indexentry>
+         <indexentry>
+            <subject>DuMond, Jesse</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Duvall, J.F. (Gordon)</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Dyer, E. C.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">1-11</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Eaton, Bourne</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">2-19</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Erwin, E. S.</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Eurich, A.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">3-26</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Everitt, W. L.</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Federal Communications Commission</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">see U. S. Federal Communications Commission</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Feenberg, Eugene</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Foster, J. S.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">2-17</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Fry, D. W.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">3-28</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Germer, Lester H.</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Hansen, Laura (mother)</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">1-1</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Hare, Donald G. C.</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Harries Thermionics Ltd.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">2-17</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Harrison, George R.</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Hartman, Milton M.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">2-19</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Hesthal, Cedric E.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">1-11</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Hildebrand, E. M.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">2-18</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Hill, A.G.</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Hoffman, John W.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">3-28</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Hoover, Herbert, 
+                    <emph render="italic">Jr.</emph>
+            </subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">2-18</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Houston, W.V.</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Hull, Gordon F.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">1-9</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Institute of Radio Engineers</subject>
+         </indexentry>
+         <indexentry>
+            <subject>International Standard Electric Company</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Iskraut, Richard</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">2-20</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Jackson, J. Hugh</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Jaynes, Edwin T.</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Jönsson, Torsten</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">3-24</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Joint Research and Development Board, Committee on Electronics (Norman L. Winter, Director, Committee on Electronics)</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">3-24</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Kaplan, Joseph</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">3-24</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Kemalyan, Levon</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">1-11</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Kimball, Peter</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">2-20</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Kirkpatrick, Paul</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Lark-Horovitz, K.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">1-9</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Lashier, Harvey M.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">2-23</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Levitt, Leo</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">3-25</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Loomis, Alfred L.</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Lutz, S.G.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">1-10</ref>
+         </indexentry>
+         <indexentry>
+            <subject>McCay, Myron S.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">3-25</ref>
+         </indexentry>
+         <indexentry>
+            <subject>McCue, J. J. G.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">2-17</ref>
+         </indexentry>
+         <indexentry>
+            <subject>McGraw-Hill Book Company, Inc.</subject>
+         </indexentry>
+         <indexentry>
+            <subject>McMillan, Edwin M.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">2-22</ref>
+         </indexentry>
+         <indexentry>
+            <subject>McRae, J. W.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">3-24</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Miller, W. A.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">1-11</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Mitchell, J. Pearce</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">1-1</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Moon, M. L.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">3-27</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Moorhead, John G.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">1-7</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Moreno, Albert</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">2-20</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Morse, Philip M. (MIT, Physics)</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Moullin, E. B. (Parks Rd., Oxford)</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">1-4</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Nahmias, M. E.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">1-7</ref>
+         </indexentry>
+         <indexentry>
+            <subject>National Academy of Sciences</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">3-28</ref>
+         </indexentry>
+         <indexentry>
+            <subject>National Inventors Council,</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">see U.S. Dept. of Commerce, National Inventors Council</ref>
+         </indexentry>
+         <indexentry>
+            <subject>National Research Council</subject>
+         </indexentry>
+         <indexentry>
+            <subject>New York Academy of Sciences</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">2-16</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Newell, Robert R.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">3-27</ref>
+         </indexentry>
+         <indexentry>
+            <subject>O'Connor, Cornelius</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">3-26</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Ould, R. S.</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Pen-Tung Sah, A.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">3-27</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Pettengill, George</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">2-17</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Piston, Donald S.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">1-8</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Quate, Calvin F.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">2-23</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Rabi, I. I.</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Rae, Henry</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">3-27</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Richtmyer, F. K.</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Richtmeyer, R. D.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">1-8</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Roe, Anne</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Rogers, F. J. (S. U. Dept. of Physics)</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">1-1</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Saveliev, V. (Russian physicist)</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">1-11</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Seely, L. B.</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Seifriz, William</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">2-18</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Seitz, Fred</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">2-13</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Shockley, Wm.</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Siegert, Arnold</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Silverman, Milton</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">1-9</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Slater, John C.</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Slepian, J.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">2-16</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Smith, E. H.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">1-12</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Spangenberg, Karl</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">2-21</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Sperry Gyroscope Co. also the following:</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Basset, P. R.</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Hunter, Paul</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Jenks, F.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">2-18</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Thompson, H. H.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">1-8</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Willis, H. Hugh</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Staub, H. H.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">1-8</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Stein, William E.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">2-22</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Stratton, J. A.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">1-9</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Strong, John</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">1-5</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Tatel, Howard</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">2-20</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Terman, Frederick</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Tresidder, D.</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Tuck, James L.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">1-10</ref>
+         </indexentry>
+         <indexentry>
+            <subject>U.S. Atomic Energy Commission, Oak Ridge, Tennessee</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">3-26</ref>
+         </indexentry>
+         <indexentry>
+            <subject>U.S. Dept. of Commerce, National Inventors Council</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">2-19</ref>
+         </indexentry>
+         <indexentry>
+            <subject>U.S. Federal Communications Commission</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">1-3</ref>
+         </indexentry>
+         <indexentry>
+            <subject>U.S. Office of Scientific Research and Development</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">2-20</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Varian, Russell</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Walker, Frank</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">4-41</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Watkin, R. L.</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">2-18</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Weber, Ernst</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">1-12</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Webster, David Locke</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Westinghouse Co. McCurdy, W. H.</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Whitaker, Douglas (acting Vice-President, S. U.)</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">3-26</ref>
+         </indexentry>
+         <indexentry>
+            <subject>White, F. W. (New Zealand physicist)</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">1-4</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Wilbur, R. L.</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Williams, W. Ewart</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">2-16</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Willis, Hugh</subject>
+         </indexentry>
+         <indexentry>
+            <subject>Wilson, Edgar Bright</subject>
+            <ref linktype="simple" actuate="onrequest" show="replace">1-10</ref>
+         </indexentry>
+         <indexentry>
+            <subject>Woodyard, J. R.</subject>
+         </indexentry>
+      </index>
+   </archdesc>
+</ead>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[Technology based companies founded by members of the Stanford University community; a study commissioned by the Stanford University Office of Technology Licensing])//EN"
+             identifier="ark:/13030/kt696nf49w">scm0273.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Technology Based Companies Founded by Members of the Stanford University Community; A Study Commissioned by the Stanford University Office of Technology Licensing
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Technology Based Companies Founded by Members of the Stanford University Community; A Study Commissioned by the Stanford University Office of Technology Licensing</titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2010-10">October 2010</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date normal="2015-01">January 2015</date>
+            <item/>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SCM0273</unitid>
+         <origination label="Creator:">
+            <corpname rules="dacs" source="naf">Stanford University</corpname>
+         </origination>
+         <unittitle label="Title:">Technology based companies founded by members of the Stanford University community; a study commissioned by the Stanford University Office of Technology Licensing</unittitle>
+         <unitdate normal="1992/1992"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">circa 1992</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>0.125 Linear feet (1 volume)</extent>
+         </physdesc>
+         <abstract label="Summary:">Consists of an alphabetical listing of companies with their founders, date of establishment, and company profile. Persons involved in the study were Anthony Leone, Jose Vamos, and William F. Miller of Stanford and Robert Keeley of the University of Colorado.</abstract>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <accessrestrict id="ref3">
+            <head>Information about Access</head>
+            <p>This collection is open for research.</p>
+         </accessrestrict>
+         <userestrict id="ref4">
+            <head>Ownership &amp; Copyright</head>
+            <p>All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Special Collections and University Archives, Stanford University Libraries, Stanford, California 94304-6064. Consent is given on behalf of Special Collections as the owner of the physical items and is not intended to include or imply permission from the copyright owner. Such permission must be obtained from the copyright owner, heir(s) or assigns. See: http://library.stanford.edu/depts/spc/pubserv/permissions.html.</p>
+            <p>Restrictions also apply to digital representations of the original materials. Use of digital files is restricted to research and educational purposes.</p>
+         </userestrict>
+         <prefercite id="ref5">
+            <head>Cite As</head>
+            <p>Technology Based Companies Founded by Members of the Stanford University Community; A Study Commissioned by the Stanford University Office of Technology Licensing (SCM0273). Dept. of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <scopecontent id="ref6">
+         <head>Description of the Collection</head>
+         <p>Consists of an alphabetical listing of companies with their founders, date of establishment, and company profile. Persons involved in the study were Anthony Leone, Jose Vamos, and William F. Miller of Stanford and Robert Keeley of the University of Colorado.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <persname rules="aacr" source="ingest">Keeley, Robert Hunter.</persname>
+         <persname rules="aacr" source="ingest">Leone, Anthony.</persname>
+         <persname rules="aacr" source="ingest">Miller, William F.</persname>
+         <corpname rules="dacs" source="ingest">Stanford University. Office of Technology Licensing.</corpname>
+         <persname rules="aacr" source="ingest">Vamos, Jose.</persname>
+         <subject source="lcsh">High technology industries.</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.5">
+         <head>Collection Contents</head>
+         <c01 id="ref7" level="series">
+            <did>
+               <container type="Box">1</container>
+               <unittitle>Paper</unittitle>
+               <unitdate normal="1992/1992">circa 1992</unitdate>
+               <dao linktype="simple"
+                    actuate="onrequest"
+                    title="Paper"
+                    role="Mixed Material"
+                    href="http://purl.stanford.edu/gt805by0810"
+                    show="new">
+                  <daodesc>
+                     <p>Paper, circa 1992 </p>
+                  </daodesc>
+               </dao>
+            </did>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

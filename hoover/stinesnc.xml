@@ -1,0 +1,760 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  
+  
+  
+  
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" repositoryencoding="iso15511" findaidstatus="unverified-full-draft" langencoding="iso639-2b"><eadid countrycode="us" identifier="ark:/13030/tf9w1007c7" mainagencycode="CSt-H" publicid="PUBLIC &quot;-//Stanford University::Hoover Institution Archives//TEXT&#10;(US::CSt-H::::Norman C. Stines Papers)//EN&quot; &quot;stinesnc.sgm&quot;">stinesnc.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Register of the Norman C. Stines Papers, <date calendar="gregorian" era="ce">1911-1968</date></titleproper><titleproper type="filing">Stines (Norman C.) Papers</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Hoover Institution Archives</publisher>
+        <address>
+          <addressline>Stanford University</addressline>
+          <addressline>Stanford, California 94305-6010</addressline>
+          <addressline>Phone: (650) 723-3563</addressline>
+          <addressline>Fax: (650) 725-3445</addressline>
+          <addressline>Email: hooverarchives@stanford.edu</addressline>
+        </address>
+        <date calendar="gregorian" era="ce">&#xA9; 1999</date>
+        <p>Hoover Institution Archives. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc><profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data Services,
+<date calendar="gregorian" era="ce">May, 1999.</date>
+Supplementary encoding and revision supplied by James Ryan.</creation>
+<langusage>Description is in <language langcode="eng" scriptcode="latn">English</language></langusage>
+    </profiledesc><revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//Stanford University::Hoover Institution Archives//TEXT
+(US::CSt-H::::Norman C. Stines Papers)//EN" "stinesnc.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+     <change>
+      <date calendar="gregorian" era="ce" normal="20120730">July 30, 2012</date>
+      <item>Revised to update encoding and add unitid by Jill Golden</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Register of the Norman C. Stines Papers, <date calendar="gregorian" era="ce">1911-1968</date></titleproper>
+      <publisher>Hoover Institution Archives
+<lb/>Stanford University
+<lb/>Stanford, California</publisher>
+      <list type="simple">
+        <head>Contact Information</head>
+        <item>Hoover Institution Archives</item>
+        <item>Stanford University</item>
+        <item>Stanford, California 94305-6010</item>
+        <item>Phone: (650) 723-3563</item>
+        <item>Fax: (650) 725-3445</item>
+        <item>Email: hooverarchives@stanford.edu</item>
+      </list>
+      <list type="deflist">
+        <defitem>
+          <label>Processed by: </label>
+          <item>Ronald Bulatoff</item>
+        </defitem>
+        <defitem>
+          <label>Date Completed: </label>
+          <item>1984</item>
+        </defitem>
+      </list>
+      <p>&#xA9; 1999 Hoover Institution Archives. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection">
+    <did id="did-1.7.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">Norman C. Stines Papers, </unittitle><unitdate calendar="gregorian" era="ce" type="inclusive">1911-1968</unitdate>
+<unitid label="Collection number" repositorycode="CSt-H" countrycode="US">81097</unitid>
+      <origination label="Creator">
+        <persname>Stines, Norman Caswell, 1914-1980</persname>
+      </origination>
+      <physdesc label="Collection Size" encodinganalog="300$a">
+		<extent>4 manuscript boxes, 14 envelopes</extent>
+		<extent>3.1 linear feet)</extent>
+	</physdesc>
+      <repository label="Repository">
+        <corpname>Hoover Institution Archives</corpname>
+        <address>
+          <addressline>Stanford, California 94305-6010</addressline>
+        </address>
+      </repository>
+      <abstract label="Abstract">Letters, printed matter, and photographs, relating to social conditions in Bolivia, Guatemala, Yugoslavia, and the Soviet Union, and to United States Department of State loyalty investigations. Includes letters of the parents of N. C. Stines, Americans in Russia during the Russian Revolution</abstract>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <descgrp id="descgrp-1.7.2" type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict>
+        <head>Access</head>
+        <p>Collection open for research.</p>
+<p>The Hoover Institution Archives only allows access to <emph render="italic">copies</emph> of audiovisual items. To listen to sound recordings or to view videos or films during your visit, please contact the Archives at least two working days before your arrival. We will then advise you of the accessibility of the material you wish to see or hear. Please note that not all audiovisual material is immediately accessible.</p>
+      </accessrestrict>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>For copyright status, please contact
+the Hoover Institution Archives.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Norman C. Stines Papers, [Box no.], Hoover Institution
+Archives.</p>
+      </prefercite>
+<acqinfo encodinganalog="541">
+ <head>Acquisition Information</head>
+ <p>Acquired by the Hoover Institution Archives in 1981.</p>
+</acqinfo>
+<accruals encodinganalog="525"><head>Accruals</head>
+<p>Materials may have been added to the collection since this finding aid was prepared. To determine if this has occurred, find the collection in Stanford University's online catalog at <extref linktype="simple" href="http://searchworks.stanford.edu/" actuate="onrequest" show="new"> http://searchworks.stanford.edu/</extref>. Materials have been added to the collection if the number of boxes listed in the online catalog is larger than the number of boxes listed in this finding aid.</p>
+</accruals>
+    </descgrp>
+    <controlaccess id="controlaccess-1.7.3">
+      <head>Access Points</head>
+      <corpname>United States. Dept. of State</corpname>
+      <subject>Internal security--United States</subject>
+      <geogname>Bolivia</geogname>
+      <geogname>Bolivia--Social conditions</geogname>
+      <geogname>Guatemala</geogname>
+      <geogname>Guatemala--Social conditions</geogname>
+      <geogname>Soviet Union</geogname>
+      <geogname>Russia (Federation)</geogname>
+      <geogname>Soviet Union--Foreign relations--United States</geogname>
+      <geogname>Soviet Union--History--Revolution, 1917-1921</geogname>
+      <geogname>Soviet Union--Social conditions</geogname>
+      <geogname>United States--Foreign relations</geogname>
+      <geogname>United States--Foreign relations--Soviet Union</geogname>
+      <geogname>Yugoslavia</geogname>
+      <geogname>Yugoslavia--Social conditions</geogname>
+      <occupation>Diplomats--United States</occupation>
+    </controlaccess>
+    <bioghist id="bioghist-1.7.4">
+      <head>Biographical Note</head>
+      <chronlist>
+        <head>Norman Caswell Stines</head>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1914, August 6</date>
+          <event>Born, Stockholm, Sweden</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1935</date>
+          <event>A.B., Stanford University</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1936-38</date>
+          <event>Journalist, <emph render="italic">Redwood City Tribune</emph></event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1938-39</date>
+          <event>Purchasing Agent for mining corporation in La Paz, Bolivia</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1939-1942</date>
+          <event>Assistant Manager of electric company in La Paz, Bolivia</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1942</date>
+          <event>Junior Economic Analyst in Foreign Service Auxiliary, La Paz, Bolivia</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1943</date>
+          <event>Senior Economic Analyst in Foreign Service Auxiliary, La Paz, Bolivia</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1944</date>
+          <event>Attache at the U.S. Embassy in Guatemala</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1945-46</date>
+          <event>Vice Consul, Foreign Service Office, and secretary at the U.S. Embassy in Guatemala</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1947-49</date>
+          <event>2nd Secretary and Vice Consul at the U.S. Embassy, Belgrade, Yugoslavia</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1949</date>
+          <event>Foreign Service training at Columbia University, Russian language and area study</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1950</date>
+          <event>2nd Secretary and Consul at the U.S. Embassy, Moscow USSR</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1950-52</date>
+          <event>1st Secretary and Consul at the U.S. Embassy, Moscow, USSR</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1953</date>
+          <event>Left the U.S. State Department service because of security investigations</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1980</date>
+          <event>Died, Cuernavaca, Mexico</event>
+        </chronitem>
+      </chronlist>
+    </bioghist>
+    <dsc id="dsc-1.7.5" type="analyticover">
+      <head>Series Description</head>
+      <c01 id="c01-1.7.5.2" level="series">
+        <did>
+          <unittitle>Biographical File, <unitdate calendar="gregorian" era="ce">1917-1968.</unitdate></unittitle>
+          <container type="Box">Box No. 1</container>
+        </did>
+        <scopecontent>
+          <p>Identification cards, certificates, clippings, government records, and printed matter pertaining to the life and career of N.C. Stines, Jr.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.5.3" level="series">
+        <did>
+          <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce">1911-1959.</unitdate></unittitle>
+          <container type="Box">Box No. 1-4</container>
+        </did>
+        <scopecontent>
+          <p>Correspondence arranged chronologically and alphabetically by name of correspondent.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.5.4" level="series">
+        <did>
+          <unittitle>Speeches and Writings, <unitdate calendar="gregorian" era="ce">1941, 1963.</unitdate></unittitle>
+          <container type="Box">Box No. 4</container>
+        </did>
+        <scopecontent>
+          <p>One radio broadcast transcript and one unpublished article filed by title.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.5.5" level="series">
+        <did>
+          <unittitle>Subject File.</unittitle>
+          <container type="Box">Box No. 4</container>
+        </did>
+        <scopecontent>
+          <p>Notes and printed matter arranged alphabetically by subject.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.5.6" level="series">
+        <did>
+          <unittitle>Photographs</unittitle>
+          <container type="box" label="Photo File ">81097 - 10.A-V</container>
+        </did>
+      </c01>
+    </dsc>
+    <dsc id="dsc-1.7.6" type="in-depth">
+      <head>Container List</head>
+      <c01 id="c01-1.7.6.2" level="series">
+        <did>
+          <unittitle>Biographical File, <unitdate calendar="gregorian" era="ce">1917-1968</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.6.2.2">
+          <did>
+            <container type="Box">1.</container>
+            <container type="Folder">1</container>
+            <unittitle>Announcements, brochures, printed matter</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.3">
+          <did>
+            <container type="Folder">2</container>
+            <unittitle>Clippings</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.4">
+          <did>
+            <container type="Folder">3</container>
+            <unittitle>Department of State records, <unitdate calendar="gregorian" era="ce">1947-1952</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.5">
+          <did>
+            <container type="Folder">4</container>
+            <unittitle>Identification cards, certificates, etc.</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.6.3" level="series">
+        <did>
+          <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce">1911-1959</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.6.3.2">
+          <did>
+            <container type="Box">1.</container>
+            <container type="Folder">5</container>
+            <unittitle>Carroll, Vi M., <unitdate calendar="gregorian" era="ce">1947-1951</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.3">
+          <did>
+            <container type="Folder">6</container>
+            <unittitle>Hopkins, Frank S., <unitdate calendar="gregorian" era="ce">1950</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.4">
+          <did>
+            <container type="Folder">7</container>
+            <unittitle>McConaughy, Walter P., <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.5">
+          <did>
+            <container type="Folder">8</container>
+            <unittitle>Marie, <unitdate calendar="gregorian" era="ce">1939</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.6">
+          <did>
+            <container type="Folder">9</container>
+            <unittitle>Oliver and Ann, <unitdate calendar="gregorian" era="ce">1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.7">
+          <did>
+            <container type="Folder">10</container>
+            <unittitle>Preble, C. S., <unitdate calendar="gregorian" era="ce">1939</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.8">
+          <did>
+            <container type="Folder">11</container>
+            <unittitle>Reynaldo, <unitdate calendar="gregorian" era="ce">1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.9">
+          <did>
+            <container type="Folder">12</container>
+            <unittitle>Smith, Robert T., <unitdate calendar="gregorian" era="ce">1938, 1952</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.10">
+          <did>
+            <unittitle>Stines, Hazel Preble</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.3.10.2">
+            <did>
+              <container type="Folder">13</container>
+              <unittitle>Letter to Norman C. Stines, Jr., <unitdate calendar="gregorian" era="ce">1936</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.3.10.3">
+            <did>
+              <unittitle>Letters from Norman C. Stines, Jr.</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.3.10.3.2">
+              <did>
+                <container type="Folder">14</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce">1936</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.10.3.3">
+              <did>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce">1938</unitdate>
+                </unittitle>
+              </did>
+              <c05 id="c05-1.7.6.3.10.3.3.2">
+                <did>
+                  <container type="Folder">15</container>
+                  <unittitle>
+                    <unitdate calendar="gregorian" era="ce">January-March</unitdate>
+                  </unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.10.3.3.3">
+                <did>
+                  <container type="Folder">16</container>
+                  <unittitle>
+                    <unitdate calendar="gregorian" era="ce">April-December</unitdate>
+                  </unittitle>
+                </did>
+              </c05>
+            </c04>
+            <c04 id="c04-1.7.6.3.10.3.4">
+              <did>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce">1939</unitdate>
+                </unittitle>
+              </did>
+              <c05 id="c05-1.7.6.3.10.3.4.2">
+                <did>
+                  <container type="Folder">17</container>
+                  <unittitle>
+                    <unitdate calendar="gregorian" era="ce">January-July</unitdate>
+                  </unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.10.3.4.3">
+                <did>
+                  <container type="Folder">18</container>
+                  <unittitle>
+                    <unitdate calendar="gregorian" era="ce">August-December</unitdate>
+                  </unittitle>
+                </did>
+              </c05>
+            </c04>
+            <c04 id="c04-1.7.6.3.10.3.5">
+              <did>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce">1940</unitdate>
+                </unittitle>
+              </did>
+              <c05 id="c05-1.7.6.3.10.3.5.2">
+                <did>
+                  <container type="Box">2.</container>
+                  <container type="Folder">1</container>
+                  <unittitle>
+                    <unitdate calendar="gregorian" era="ce">January-July</unitdate>
+                  </unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.10.3.5.3">
+                <did>
+                  <container type="Folder">2</container>
+                  <unittitle>
+                    <unitdate calendar="gregorian" era="ce">August-December</unitdate>
+                  </unittitle>
+                </did>
+              </c05>
+            </c04>
+            <c04 id="c04-1.7.6.3.10.3.6">
+              <did>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce">1941</unitdate>
+                </unittitle>
+              </did>
+              <c05 id="c05-1.7.6.3.10.3.6.2">
+                <did>
+                  <container type="Folder">3</container>
+                  <unittitle>
+                    <unitdate calendar="gregorian" era="ce">January-August</unitdate>
+                  </unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.10.3.6.3">
+                <did>
+                  <container type="Folder">4</container>
+                  <unittitle>
+                    <unitdate calendar="gregorian" era="ce">September-December</unitdate>
+                  </unittitle>
+                </did>
+              </c05>
+            </c04>
+            <c04 id="c04-1.7.6.3.10.3.7">
+              <did>
+                <container type="Folder">5</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce">1942</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.10.3.8">
+              <did>
+                <container type="Folder">6</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce">1943-44</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.10.3.9">
+              <did>
+                <container type="Folder">7</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce">1945</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.10.3.10">
+              <did>
+                <container type="Folder">8</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce">1946</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.10.3.11">
+              <did>
+                <container type="Folder">9</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce">1947</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.10.3.12">
+              <did>
+                <container type="Folder">10</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce">1948-49</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.10.3.13">
+              <did>
+                <container type="Box">3.</container>
+                <container type="Folder">1</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce">1950</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.10.3.14">
+              <did>
+                <container type="Folder">2</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce">1951</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.10.3.15">
+              <did>
+                <container type="Folder">3</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce">1952</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.10.3.16">
+              <did>
+                <container type="Folder">4</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce">1955</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.10.3.17">
+              <did>
+                <container type="Folder">5</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce">1959</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.10.3.18">
+              <did>
+                <container type="Folder">5A</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce">Undated</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.3.10.4">
+            <did>
+              <unittitle>Letters to Mr. &amp; Mrs. C. S. Preble</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.3.10.4.2">
+              <did>
+                <container type="Folder">6</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce">1911-12</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.10.4.3">
+              <did>
+                <container type="Folder">7</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce">1914-16</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.10.4.4">
+              <did>
+                <container type="Folder">8</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce">1917-19</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.3.11">
+          <did>
+            <container type="Box">4.</container>
+            <unittitle>Stines, Norman C., Senior</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.3.11.2">
+            <did>
+              <container type="Folder">1</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce">1935, 1940-41, 1953</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.3.11.3">
+            <did>
+              <unittitle>Letters from Norman C. Stines, Jr.</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.3.11.3.2">
+              <did>
+                <container type="Folder">2</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce">1933, 1935</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.11.3.3">
+              <did>
+                <container type="Folder">3</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce">1936-1942</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.11.3.4">
+              <did>
+                <container type="Folder">4</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce">1946--48, 1950-51, 1953-54</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.3.12">
+          <did>
+            <container type="Folder">5</container>
+            <unittitle>Teresa, <unitdate calendar="gregorian" era="ce">1946</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.13">
+          <did>
+            <container type="Folder">6</container>
+            <unittitle>Travers, Howard K.</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.6.4" level="series">
+        <did>
+          <unittitle>Speeches and Writings, <unitdate calendar="gregorian" era="ce">1941, 1963</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.6.4.2">
+          <did>
+            <container type="Box">4.</container>
+            <container type="Folder">7</container>
+            <unittitle>
+              <title render="italic">This is La Paz,</title>
+              <unitdate calendar="gregorian" era="ce">January 1941.</unitdate>
+            </unittitle>
+            <physdesc>Radio broadcast transcript.</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.3">
+          <did>
+            <container type="Folder">8</container>
+            <unittitle>
+              <title render="italic">Trip from Caracas West,</title>
+              <unitdate calendar="gregorian" era="ce">November 1964.</unitdate>
+            </unittitle>
+            <physdesc>Typescript.</physdesc>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.6.5" level="series">
+        <did>
+          <unittitle>Subject File</unittitle>
+        </did>
+        <c02 id="c02-1.7.6.5.2">
+          <did>
+            <container type="Box">4.</container>
+            <container type="Folder">9</container>
+            <unittitle>Bolivia</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.5.3">
+          <did>
+            <container type="Folder">10</container>
+            <unittitle>Miscellany</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.5.6.1" level="series">
+        <did>
+          <unittitle>Photographs</unittitle>
+          <container type="box" label="Photo File ">81097 - 10.A-V</container>
+        </did>
+  <c02 level="file">
+	<did>
+		<container type="folder" label="Envelope ">A</container>
+		<unittitle>13 prints depicting N.C. Stines Jr. and Senior and other individuals. </unittitle>
+
+	</did>
+  </c02>
+
+  <c02 level="file">
+	<did>
+		<container type="folder" label="Envelope ">B</container>
+		<unittitle>62 prints depicting scenes and individuals in Russia. </unittitle> 
+		<unitdate>1917</unitdate> 
+	</did>
+  </c02>
+
+  <c02 level="file">
+	<did>
+		<container type="folder" label="Envelope ">C</container>
+		<unittitle>49 prints depicting scenes and individuals in Finland and Russia. </unittitle>
+		<unitdate>1917-18</unitdate> 
+	</did>
+  </c02>
+
+  <c02 level="file">
+	<did>
+		<container type="box" label="Envelope ">D</container>
+		<unittitle>72 prints depicting scenes and individuals in Finland. </unittitle>
+		<unitdate>1918</unitdate> 
+	</did>
+  </c02>
+
+  <c02 level="file">
+	<did>
+		<container type="box" label="Envelope ">E</container>
+		<unittitle>16 prints depicting scenes and individuals in Serbia. </unittitle>
+		<unitdate>1920</unitdate> 
+	</did>
+  </c02>
+
+  <c02 level="file">
+	<did>
+		<container type="box" label="Envelope ">F</container>
+		<unittitle>15 prints depicting scenes and individuals in Guatemala. </unittitle>
+		<unitdate>1940s</unitdate> 
+	</did>
+  </c02>
+
+  <c02 level="file">
+	<did>
+		<container type="folder" label=" ">G-J</container>
+		<unittitle>150 prints depicting scenes and individuals in Bolivia. </unittitle>
+
+	</did>
+  </c02>
+
+  <c02 level="file">
+	<did>
+		<container type="folder" label=" ">K-L</container>
+		<unittitle>52 prints depicting scenes and individuals in La Paz, Bolivia. </unittitle>
+
+	</did>
+  </c02>
+
+  <c02 level="file">
+	<did>
+		<container type="box" label="Envelope ">M</container>
+		<unittitle>33 prints depicting scenes and individuals in Potosi, Bolivia. </unittitle>
+
+	</did>
+  </c02>
+
+  <c02 level="file">
+	<did>
+		<container type="folder" label="Envelope ">N</container>
+		<unittitle>28 prints depicting scenes and individuals in Cochabamba, Bolivia. </unittitle>
+	</did>
+  </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

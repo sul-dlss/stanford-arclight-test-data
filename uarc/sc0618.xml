@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[Charles Babbage Institute oral history collection])//EN"
+             identifier="ark:/13030/kt8h4nf6fv">sc0618.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Charles Babbage Institute Oral History Collection
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Charles Babbage Institute Oral History Collection</titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2010-10">October 2010</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC0618</unitid>
+         <origination label="Creator:">
+            <corpname rules="dacs" source="naf">Charles Babbage Insititute</corpname>
+         </origination>
+         <unittitle label="Title:">Charles Babbage Institute oral history collection</unittitle>
+         <unitdate normal="1979/1991"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1979-1991</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>0.5 Linear feet</extent>
+         </physdesc>
+         <abstract label="Summary:">This collection contains transcripts of oral history interviews selected for their relevance to the history of computer science at Stanford, including the development of the computer science department and Stanford's Artificial Intelligence Laboratory. Persons interviewed are Saul Amarel, Bruce G. Buchanan, Vinton Cerf, Edward A. Feigenbaum, Louis Fein, Alexandra I. Forsythe, Gene H. Golub, John McCarthy, William F. Miller, Allen Newell, Nils J. Nilsson, Bernard M. Oliver, Dabbala R. Reddy, Joseph F. Traub, and Terry Winograd. There is also a transcript of the Burroughs B 5000 Conference held on September 6, 1985.</abstract>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <descgrp type="provenance" id="prov">
+            <head>Provenance</head>
+            <acqinfo id="ref3">
+               <p>Materials may not be photocopied; copyright resides with the Charles Babbage Institute.</p>
+            </acqinfo>
+         </descgrp>
+         <accessrestrict id="ref4">
+            <head>Information about Access</head>
+            <p>This collection is open for research.</p>
+         </accessrestrict>
+         <userestrict id="ref5">
+            <head>Ownership &amp; Copyright</head>
+            <p>All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Special Collections and University Archives, Stanford University Libraries, Stanford, California 94304-6064. Consent is given on behalf of Special Collections as the owner of the physical items and is not intended to include or imply permission from the copyright owner. Such permission must be obtained from the copyright owner, heir(s) or assigns. See: http://library.stanford.edu/depts/spc/pubserv/permissions.html.</p>
+            <p>Restrictions also apply to digital representations of the original materials. Use of digital files is restricted to research and educational purposes.</p>
+         </userestrict>
+         <prefercite id="ref6">
+            <head>Cite As</head>
+            <p>[Description of Item], Charles Babbage Institute Oral History Collection (SC0618). Dept. of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+         <originalsloc id="ref25">
+            <head>Location of Originals</head>
+            <p>These materials are availble from the Charles Babbage Institute at the University of Minnesota: 
+                <extref href="http://www.cbi.umn.edu/oh/index.html"
+                       linktype="simple"
+                       actuate="onrequest"
+                       show="new">http://www.cbi.umn.edu/oh/index.html</extref>.</p>
+         </originalsloc>
+      </descgrp>
+      <scopecontent id="ref7">
+         <head>Description of the Collection</head>
+         <p>This collection contains transcripts of oral history interviews selected for their relevance to the history of computer science at Stanford, including the development of the computer science department and Stanford's Artificial Intelligence Laboratory. Persons interviewed are Saul Amarel, Bruce G. Buchanan, Vinton Cerf, Edward A. Feigenbaum, Louis Fein, Alexandra I. Forsythe, Gene H. Golub, John McCarthy, William F. Miller, Allen Newell, Nils J. Nilsson, Bernard M. Oliver, Dabbala R. Reddy, Joseph F. Traub, and Terry Winograd. There is also a transcript of the Burroughs B 5000 Conference held on September 6, 1985.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <persname rules="aacr" source="ingest">Amarel, Saul.</persname>
+         <persname rules="aacr" source="ingest">Buchanan, Bruce G.</persname>
+         <persname rules="aacr" source="ingest">Cerf, Vinton.</persname>
+         <corpname rules="dacs" source="naf">Charles Babbage Insititute</corpname>
+         <persname rules="aacr" source="naf">Feigenbaum, Edward A.</persname>
+         <persname rules="aacr" source="ingest">Fein, Louis</persname>
+         <persname rules="aacr" source="naf">Forsythe, Alexandra I.</persname>
+         <persname rules="aacr" source="ingest">Golub, Gene H. (Gene Howard), 1932-2007</persname>
+         <persname rules="aacr" source="naf">McCarthy, John, 1927-2011.</persname>
+         <persname rules="aacr" source="ingest">Miller, William F.</persname>
+         <persname rules="aacr" source="ingest">Newell, Allen.</persname>
+         <persname rules="aacr" source="ingest">Nilsson, Nils J., 1933-</persname>
+         <persname rules="aacr" source="ingest">Oliver, Bernard M., 1916-</persname>
+         <persname rules="aacr" source="ingest">Reddy, Dabbala Rajagopal.</persname>
+         <corpname rules="dacs" source="ingest">Stanford University. Computer Science Department. Artificial Intelligence Laboratory.</corpname>
+         <persname rules="aacr" source="ingest">Traub, J. F. (Joseph Frederick), 1932-</persname>
+         <persname rules="aacr" source="naf">Winograd, Terry.</persname>
+         <subject source="lcsh">Artificial intelligence.</subject>
+         <subject source="lcsh">Computer science.</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.5">
+         <head>Collection Contents</head>
+         <c01 id="ref8" level="series">
+            <did>
+               <container type="Box">1</container>
+               <unittitle>Transcripts</unittitle>
+               <dao linktype="simple"
+                    actuate="onrequest"
+                    title="Transcripts"
+                    role="Text-OCR-Unedited"
+                    href="http://purl.stanford.edu/bz010qq3517"
+                    show="new">
+                  <daodesc>
+                     <p>Transcripts</p>
+                  </daodesc>
+               </dao>
+            </did>
+            <c02 id="ref9" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Saul Amarel</unittitle>
+                  <dao linktype="simple"
+                       actuate="onrequest"
+                       title="Saul Amarel"
+                       role="Text-OCR-Unedited"
+                       href="http://purl.umn.edu/104339"
+                       show="new">
+                     <daodesc>
+                        <p>Saul Amarel</p>
+                     </daodesc>
+                  </dao>
+               </did>
+            </c02>
+            <c02 id="ref10" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Bruce G. Buchanan</unittitle>
+                  <dao linktype="simple"
+                       actuate="onrequest"
+                       title="Bruce G. Buchanan"
+                       role="Text-OCR-Unedited"
+                       href="http://purl.umn.edu/107165"
+                       show="new">
+                     <daodesc>
+                        <p>Bruce G. Buchanan</p>
+                     </daodesc>
+                  </dao>
+               </did>
+            </c02>
+            <c02 id="ref11" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Vinton Cerf</unittitle>
+                  <dao linktype="simple"
+                       actuate="onrequest"
+                       title="Vinton Cerf"
+                       role="Text-OCR-Unedited"
+                       href="http://purl.umn.edu/107214"
+                       show="new">
+                     <daodesc>
+                        <p>Vinton Cerf</p>
+                     </daodesc>
+                  </dao>
+               </did>
+            </c02>
+            <c02 id="ref12" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Edward A. Feigenbaum</unittitle>
+                  <dao linktype="simple"
+                       actuate="onrequest"
+                       title="Edward A. Feigenbaum"
+                       role="Text-OCR-Unedited"
+                       href="http://purl.umn.edu/107283"
+                       show="new">
+                     <daodesc>
+                        <p>Edward A. Feigenbaum, 1979 </p>
+                     </daodesc>
+                  </dao>
+                  <dao linktype="simple"
+                       actuate="onrequest"
+                       title="Edward A. Feigenbaum"
+                       role="Text-OCR-Unedited"
+                       href="http://purl.umn.edu/107282"
+                       show="new">
+                     <daodesc>
+                        <p>Edward A. Feigenbaum, 1989 </p>
+                     </daodesc>
+                  </dao>
+               </did>
+            </c02>
+            <c02 id="ref13" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Louis Fein</unittitle>
+                  <dao linktype="simple"
+                       actuate="onrequest"
+                       title="Louis Fein"
+                       role="Text-OCR-Unedited"
+                       href="http://purl.umn.edu/107284"
+                       show="new">
+                     <daodesc>
+                        <p>Louis Fein</p>
+                     </daodesc>
+                  </dao>
+               </did>
+            </c02>
+            <c02 id="ref14" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Alexandra I. Forsythe</unittitle>
+                  <dao linktype="simple"
+                       actuate="onrequest"
+                       title="Alexandra I. Forsythe"
+                       role="Text-OCR-Unedited"
+                       href="http://purl.umn.edu/107291"
+                       show="new">
+                     <daodesc>
+                        <p>Alexandra I. Forsythe</p>
+                     </daodesc>
+                  </dao>
+               </did>
+            </c02>
+            <c02 id="ref15" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Gene H. Golub</unittitle>
+                  <dao linktype="simple"
+                       actuate="onrequest"
+                       title="Gene H. Golub"
+                       role="Text-OCR-Unedited"
+                       href="http://purl.umn.edu/107335"
+                       show="new">
+                     <daodesc>
+                        <p>Gene H. Golub, 1979 Jun </p>
+                     </daodesc>
+                  </dao>
+                  <dao linktype="simple"
+                       actuate="onrequest"
+                       title="Gene H. Golub"
+                       role="Text-OCR-Unedited"
+                       href="http://purl.umn.edu/107334"
+                       show="new">
+                     <daodesc>
+                        <p>Gene H. Golub, 1979 May </p>
+                     </daodesc>
+                  </dao>
+               </did>
+            </c02>
+            <c02 id="ref16" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">8</container>
+                  <unittitle>John McCarthy</unittitle>
+                  <dao linktype="simple"
+                       actuate="onrequest"
+                       title="John McCarthy"
+                       role="Text-OCR-Unedited"
+                       href="http://purl.umn.edu/107476"
+                       show="new">
+                     <daodesc>
+                        <p>John McCarthy</p>
+                     </daodesc>
+                  </dao>
+               </did>
+            </c02>
+            <c02 id="ref17" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">9</container>
+                  <unittitle>William F. Miller</unittitle>
+                  <dao linktype="simple"
+                       actuate="onrequest"
+                       title="William F. Miller"
+                       role="Text-OCR-Unedited"
+                       href="http://purl.umn.edu/107502"
+                       show="new">
+                     <daodesc>
+                        <p>William F. Miller</p>
+                     </daodesc>
+                  </dao>
+               </did>
+            </c02>
+            <c02 id="ref18" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Allen Newell</unittitle>
+                  <dao linktype="simple"
+                       actuate="onrequest"
+                       title="Allen Newell"
+                       role="Text-OCR-Unedited"
+                       href="http://purl.umn.edu/107544"
+                       show="new">
+                     <daodesc>
+                        <p>Allen Newell</p>
+                     </daodesc>
+                  </dao>
+               </did>
+            </c02>
+            <c02 id="ref19" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Nils J. Nilsson</unittitle>
+                  <dao linktype="simple"
+                       actuate="onrequest"
+                       title="Nils J. Nilsson"
+                       role="Text-OCR-Unedited"
+                       href="http://purl.umn.edu/107545"
+                       show="new">
+                     <daodesc>
+                        <p>Nils J. Nilsson</p>
+                     </daodesc>
+                  </dao>
+               </did>
+            </c02>
+            <c02 id="ref20" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Bernard M. Oliver</unittitle>
+                  <dao linktype="simple"
+                       actuate="onrequest"
+                       title="Bernard M. Oliver"
+                       role="Text-OCR-Unedited"
+                       href="http://purl.umn.edu/107590"
+                       show="new">
+                     <daodesc>
+                        <p>Bernard M. Oliver</p>
+                     </daodesc>
+                  </dao>
+               </did>
+            </c02>
+            <c02 id="ref21" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Dabbala R. Reddy</unittitle>
+                  <dao linktype="simple"
+                       actuate="onrequest"
+                       title="Dabbala R. Reddy"
+                       role="Text-OCR-Unedited"
+                       href="http://purl.umn.edu/107605"
+                       show="new">
+                     <daodesc>
+                        <p>Dabbala R. Reddy</p>
+                     </daodesc>
+                  </dao>
+               </did>
+            </c02>
+            <c02 id="ref22" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Joseph F. Traub</unittitle>
+                  <dao linktype="simple"
+                       actuate="onrequest"
+                       title="Joseph F. Traub"
+                       role="Text-OCR-Unedited"
+                       href="http://purl.umn.edu/107686"
+                       show="new">
+                     <daodesc>
+                        <p>Joseph F. Traub, 1984 Oct </p>
+                     </daodesc>
+                  </dao>
+                  <dao linktype="simple"
+                       actuate="onrequest"
+                       title="Joseph F. Traub"
+                       role="Text-OCR-Unedited"
+                       href="http://purl.umn.edu/107687"
+                       show="new">
+                     <daodesc>
+                        <p>Joseph F. Traub, 1984 Apr </p>
+                     </daodesc>
+                  </dao>
+                  <dao linktype="simple"
+                       actuate="onrequest"
+                       title="Joseph F. Traub"
+                       role="Text-OCR-Unedited"
+                       href="http://purl.umn.edu/107684"
+                       show="new">
+                     <daodesc>
+                        <p>Joseph F. Traub, 1985 Mar </p>
+                     </daodesc>
+                  </dao>
+               </did>
+            </c02>
+            <c02 id="ref23" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">15</container>
+                  <unittitle>Terry Winograd</unittitle>
+                  <dao linktype="simple"
+                       actuate="onrequest"
+                       title="Terry Winograd"
+                       role="Text-OCR-Unedited"
+                       href="http://purl.umn.edu/107717"
+                       show="new">
+                     <daodesc>
+                        <p>Terry Winograd</p>
+                     </daodesc>
+                  </dao>
+               </did>
+            </c02>
+            <c02 id="ref24" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder"/>
+                  <unittitle>Burroughs B 5000 Conference</unittitle>
+                  <unitdate>1985 Sep 6</unitdate>
+                  <dao linktype="simple"
+                       actuate="onrequest"
+                       title="Burroughs B 5000 Conference"
+                       role="Text-OCR-Unedited"
+                       href="http://purl.umn.edu/107105"
+                       show="new">
+                     <daodesc>
+                        <p>Burroughs B 5000 Conference, 1985 Sep 6 </p>
+                     </daodesc>
+                  </dao>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

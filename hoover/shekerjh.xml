@@ -1,0 +1,610 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  
+  
+  
+  
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" repositoryencoding="iso15511" findaidstatus="unverified-full-draft" langencoding="iso639-2b"><eadid countrycode="us" identifier="ark:/13030/tf0f59n46p" mainagencycode="CSt-H" publicid="PUBLIC &quot;-//Stanford University::Hoover Institution Archives//TEXT&#10;(US::CSt-H::::Haig Shekerjian Papers)//EN&quot; &quot;shekerjh.sgm&quot;">shekerjh.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Register of the Haig Shekerjian Papers, <date calendar="gregorian" era="ce">1905-1966</date></titleproper><titleproper type="filing">Shekerjian (Haig) Papers</titleproper>
+        <author>Prepared by Hoover Institution Archives Staff</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Hoover Institution Archives</publisher>
+        <address>
+          <addressline>Stanford University</addressline>
+          <addressline>Stanford, California 94305-6010</addressline>
+          <addressline>Phone: (650) 723-3563</addressline>
+          <addressline>Fax: (650) 725-3445</addressline>
+          <addressline>Email: hooverarchives@stanford.edu</addressline>
+        </address>
+        <date calendar="gregorian" era="ce">&#xA9; 1999</date>
+        <p>Hoover Institution Archives. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc><profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data Services,
+<date calendar="gregorian" era="ce">May, 1999.</date>
+Supplementary encoding and revision supplied by James Ryan.</creation>
+<langusage>Description is in <language langcode="eng" scriptcode="latn">English</language></langusage>
+    </profiledesc><revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20100224">February 24, 2010</date>
+        <item>Revision of medal placement within boxes, updated encoding to current OAC best practices</item>
+      </change>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//Stanford University::Hoover Institution Archives//TEXT
+(US::CSt-H::::Haig Shekerjian Papers)//EN" "shekerjh.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Register of the Haig Shekerjian Papers, <date calendar="gregorian" era="ce">1905-1966</date></titleproper>
+      <publisher>Hoover Institution Archives
+<lb/>Stanford University
+<lb/>Stanford, California</publisher>
+      <list type="simple">
+        <head>Contact Information</head>
+        <item>Hoover Institution Archives</item>
+        <item>Stanford University</item>
+        <item>Stanford, California 94305-6010</item>
+        <item>Phone: (650) 723-3563</item>
+        <item>Fax: (650) 725-3445</item>
+        <item>Email: hooverarchives@stanford.edu</item>
+      </list>
+      <p>&#xA9; 1999 Hoover Institution Archives. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection">
+    <did id="did-1.7.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">Haig Shekerjian Papers, </unittitle><unitdate calendar="gregorian" era="ce" type="inclusive" normal="1905/1966">1905-1966</unitdate>
+<unitid label="Collection number" repositorycode="CSt-H" countrycode="US">72081</unitid>
+      <origination label="Creator">
+        <persname source="lcnaf" rules="aacr2">Shekerjian, Haig</persname>
+      </origination>
+      <physdesc label="Extent"><extent>4 manuscript boxes, 1 envelope</extent><extent>(1.7 linear feet)</extent></physdesc>
+      <repository label="Repository">
+        <corpname>Hoover Institution Archives</corpname>
+        <address>
+          <addressline>Stanford, California 94305-6010</addressline>
+        </address>
+      </repository>
+      <abstract label="Abstract">Correspondence, notes, speeches, and medals, relating to American chemical warfare activities during World War II</abstract>
+     	<physloc label="Physical Location">Hoover Institution Archives</physloc>
+	<langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <descgrp id="descgrp-1.7.2" type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict>
+        <head>Access</head>
+        <p>Collection open for research.</p>
+<p>The Hoover Institution Archives only allows access to <emph render="italic">copies</emph> of audiovisual items. To listen to sound recordings or to view videos or films during your visit, please contact the Archives at least two working days before your arrival. We will then advise you of the accessibility of the material you wish to see or hear. Please note that not all audiovisual material is immediately accessible.</p>
+      </accessrestrict>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>For copyright status, please contact the Hoover Institution Archives.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Haig Shekerjian Papers, [Box no.], Hoover Institution
+Archives.</p>
+      </prefercite>
+<acqinfo encodinganalog="541">
+ <head>Acquisition Information</head>
+ <p>Acquired by the Hoover Institution Archives in 1972.</p>
+</acqinfo>
+
+<accruals encodinganalog="525"><head>Accruals</head>
+<p>Materials may have been added to the collection since this finding aid was prepared. To determine if this has occurred, find the collection in Stanford University's online catalog at <extref linktype="simple" href="http://searchworks.stanford.edu/" actuate="onrequest" show="new"> http://searchworks.stanford.edu/</extref>. Materials have been added to the collection if the number of boxes listed in the online catalog is larger than the number of boxes listed in this finding aid.</p>
+</accruals>
+    <bioghist id="bioghist-1.7.4">
+      <head>Biographical Note</head>
+      <chronlist>
+        <head>Shekerjian, Haig, 1886-1966</head>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1886, 13 June</date>
+          <event>Born, Turkey</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1906</date>
+          <event>Student, Colgate University</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1907</date>
+          <event>Entered military service as a cadet</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1911</date>
+          <event>Graduate, B.S. degree and commissioned as second lieutenant of Infantry</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1916-17</date>
+          <event>Served with the Punitive Expedition in Mexico under General Pershing</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1914-1918</date>
+          <event>Assistant military attach&#xE9; in Greece, with the Allied Armies of the Orient in the Middle East</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1923</date>
+          <event>Transferred to the Chemical Warfare Service</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1942</date>
+          <event>Promoted to Brigadier General</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1939-1945</date>
+          <event>Chemical Officer, First Army; Commanding General of the Chemical Warfare Replacement Center; Commanding General at Camp Sibert, Alabama</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1946</date>
+          <event>Retired from military service</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1966</date>
+          <event>Died</event>
+        </chronitem>
+      </chronlist>
+    </bioghist>
+<scopecontent id="a3" encodinganalog="520">
+<head>Scope and Content of Collection</head>
+<p>Correspondence, notes, speeches, and medals, relating to American chemical warfare activities during World War II</p>
+</scopecontent>
+
+    </descgrp>
+    <controlaccess id="controlaccess-1.7.3">
+      <head>Access Points</head>
+      <corpname>United States.--Army--Officers</corpname>
+      <subject>Chemical warfare</subject>
+      <subject>World War, 1939-1945</subject>
+      <subject>World War, 1939-1945--Chemical warfare</subject>
+      <geogname>United States--Armed Forces</geogname>
+    </controlaccess>
+
+    <dsc id="dsc-1.7.6" type="combined">
+      <head>Container List</head>
+      <c01 id="c01-1.7.6.2" level="series">
+        <did>
+          <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce">1926-1964.</unitdate></unittitle>
+          <container type="Box">Box No. 1.</container>
+        </did>
+        <scopecontent>
+          <p>Correspondence, arranged alphabetically by name of correspondent.</p>
+        </scopecontent>
+        <c02 id="c02-1.7.6.2.2">
+          <did>
+            <container type="Box">1.</container>
+            <unittitle>Ahmed Abboud Pasha <unitdate calendar="gregorian" era="ce">1945</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.3">
+          <did>
+            <unittitle>Almond, E.M. (Brigadier General) <unitdate calendar="gregorian" era="ce">1942</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.4">
+          <did>
+            <unittitle>Assistant Secretary of State <unitdate calendar="gregorian" era="ce">1946</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.5">
+          <did>
+            <unittitle>Bain, William J. <unitdate calendar="gregorian" era="ce">1946</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.6">
+          <did>
+            <unittitle>Brees, H.J. (Lt. General) <unitdate calendar="gregorian" era="ce">1940</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.7">
+          <did>
+            <unittitle>Brigham, C.E. (Major General) <unitdate calendar="gregorian" era="ce">1936</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.8">
+          <did>
+            <unittitle>Chamberlain, Fred V.S. <unitdate calendar="gregorian" era="ce">1926</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.9">
+          <did>
+            <unittitle>Chipman, Mrs. Guy W.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.10">
+          <did>
+            <unittitle>Craig, Mr. <unitdate calendar="gregorian" era="ce">1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.11">
+          <did>
+            <unittitle>Eisenhower, Dwight <unitdate calendar="gregorian" era="ce">1955</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.12">
+          <did>
+            <unittitle>Gantengein, Mrs. James</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.13">
+          <did>
+            <unittitle>Guggenheim, Robert (Colonel) <unitdate calendar="gregorian" era="ce">1946</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.14">
+          <did>
+            <unittitle>Gullion, Allen W. <unitdate calendar="gregorian" era="ce">1942</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.15">
+          <did>
+            <unittitle>Hanford, Ned <unitdate calendar="gregorian" era="ce">1940</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.16">
+          <did>
+            <unittitle>Harmer, H.R., Inc. <unitdate calendar="gregorian" era="ce">1962, 1963 </unitdate>(International Stamp Auctioneers)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.17">
+          <did>
+            <unittitle>Hoover, Herbert Clark <unitdate calendar="gregorian" era="ce">1954</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.18">
+          <did>
+            <unittitle>Inzer, J.C. <unitdate calendar="gregorian" era="ce">1945</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.19">
+          <did>
+            <unittitle>Karagosian, Sonia <unitdate calendar="gregorian" era="ce">1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.20">
+          <did>
+            <unittitle>New York Police Commission <unitdate calendar="gregorian" era="ce">1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.21">
+          <did>
+            <unittitle>Nichols, Lola</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.22">
+          <did>
+            <unittitle>O'Hara, Mrs. Edwin J.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.23">
+          <did>
+            <unittitle>Porter, William N. (Colonel) <unitdate calendar="gregorian" era="ce">1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.24">
+          <did>
+            <unittitle>Republican National Committee <unitdate calendar="gregorian" era="ce">1964</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.25">
+          <did>
+            <unittitle>Roemer, L.E. (Major) <unitdate calendar="gregorian" era="ce">1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.26">
+          <did>
+            <unittitle>Royal Canadian Institute <unitdate calendar="gregorian" era="ce">1939</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.27">
+          <did>
+            <unittitle>Shilstone, Cecil M. (Captain) <unitdate calendar="gregorian" era="ce">1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.28">
+          <did>
+            <unittitle>Silvester, L. Mcd. (Major General) <unitdate calendar="gregorian" era="ce">1942</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.29">
+          <did>
+            <unittitle>Somervell, Brehon <unitdate calendar="gregorian" era="ce">1945</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.30">
+          <did>
+            <unittitle>Souren, Y. <unitdate calendar="gregorian" era="ce">1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.31">
+          <did>
+            <unittitle>Treasury Department. Office of Customs. <unitdate calendar="gregorian" era="ce">1955</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.32">
+          <did>
+            <unittitle>U.S. Army. Finance Center. Retired Pay Division. <unitdate calendar="gregorian" era="ce">1964</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.33">
+          <did>
+            <unittitle>War Department <unitdate calendar="gregorian" era="ce">1942</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.34">
+          <did>
+            <unittitle>Watson, Edwin M. <unitdate calendar="gregorian" era="ce">1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.35">
+          <did>
+            <unittitle>Williams, Charles (Lt. Colonel) <unitdate calendar="gregorian" era="ce">1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.36">
+          <did>
+            <unittitle>Willkie, Wendell L. <unitdate calendar="gregorian" era="ce">1943</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.37">
+          <did>
+            <unittitle>Miscellaneous correspondence and memoranda</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.6.3" level="series">
+        <did>
+          <unittitle>Subject File, <unitdate calendar="gregorian" era="ce">1905-1966.</unitdate></unittitle>
+          <container type="Box">Box No. 1 -3.</container>
+        </did>
+        <scopecontent>
+          <p>Reports, military documents, notes, printed matter, and other miscellaneous materials, arranged alphabetically by subject.</p>
+        </scopecontent>
+        <c02 id="c02-1.7.6.3.2">
+          <did>
+            <container type="Box">1.</container>
+            <unittitle>Application for federal employment</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.3">
+          <did>
+            <unittitle>Camp Robinson, Arkansas. Replacement Training Center - Instructor's Handbook <unitdate calendar="gregorian" era="ce">1943</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.4">
+          <did>
+            <unittitle>Camp Sibert, Alabama</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.5">
+          <did>
+            <unittitle>Financial statements - bills, checks, invoices, etc.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.6">
+          <did>
+            <unittitle>
+              <title render="italic">Furlough Book, U.S.M.A. 1911</title>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.7">
+          <did>
+            <unittitle>Home Defense Guide <unitdate calendar="gregorian" era="ce">1942</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.8">
+          <did>
+            <unittitle>Maps</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.9">
+          <did>
+            <container type="Box">2.</container>
+            <unittitle>Medals</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.10">
+          <did>
+            <unittitle>
+              <title render="italic">Omar Khayyam by Darvish of Tehran</title>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.11">
+          <did>
+            <unittitle>
+              <title render="italic">Our Boys</title>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.12">
+          <did>
+            <unittitle>Sixth U.S. Army - Retired Army Officers Rosters <unitdate calendar="gregorian" era="ce">1963, 1964, 1966</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.13">
+          <did>
+            <unittitle>Special Orders <unitdate calendar="gregorian" era="ce">1946</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.14">
+          <did>
+            <unittitle>
+              <title render="italic">Speech of General George S. Patton Jr. to his 3rd Army on the Eve of the Normandy Invasion</title>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.15">
+          <did>
+            <unittitle>The Suckers Club <unitdate calendar="gregorian" era="ce">1934</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.16">
+          <did>
+            <unittitle><title render="italic">Trainee Tribune</title>. Edgewood Arsenal, Md. <unitdate calendar="gregorian" era="ce">March 20, 1942</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.17">
+          <did>
+            <unittitle>The Traveller's Insurance Company</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.18">
+          <did>
+            <unittitle>Travelling Itinerary</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.19">
+          <did>
+            <unittitle>Treasury Department. Office of Collecter of Customs. <unitdate calendar="gregorian" era="ce">1955</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.20">
+          <did>
+            <unittitle>Uniform Insignia</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.21">
+          <did>
+            <unittitle>U.S. Military Academy <unitdate calendar="gregorian" era="ce">1958</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.22">
+          <did>
+            <unittitle>U.S. Post Office - Commemorative Stamp Book <unitdate calendar="gregorian" era="ce">1955</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.23">
+          <did>
+            <container type="Box">3.</container>
+            <unittitle>Yale University - Sheffield Scientific School <unitdate calendar="gregorian" era="ce">1905</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.6.4" level="series">
+        <did>
+          <unittitle>Speeches, <unitdate calendar="gregorian" era="ce">1942-1943.</unitdate></unittitle>
+          <container type="Box">Box No. 3.</container>
+        </did>
+        <scopecontent>
+          <p>Speeches arranged alphabetically by title.</p>
+        </scopecontent>
+        <c02 id="c02-1.7.6.4.2">
+          <did>
+            <container type="Box">3.</container>
+            <unittitle>
+              <title render="italic">Address by Brigadier General Haig Shekerjian Bestowing Army-Navy Production Award to Lempco Products, Inc., Bedford, Ohio. December 14, 1942</title>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.3">
+          <did>
+            <unittitle>
+              <title render="italic">Honor Speech, Bain</title>
+              <unitdate calendar="gregorian" era="ce">1943</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.4">
+          <did>
+            <unittitle>Miscellaneous speech materials</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.6.5" level="series">
+        <did>
+          <unittitle>Miscellaneous.</unittitle>
+          <container type="Box">Box No. 3 -4.</container>
+        </did>
+        <scopecontent>
+          <p>Clipping file, medals, and memorabilia.</p>
+        </scopecontent>
+        <c02 id="c02-1.7.6.5.3">
+          <did>
+            <container type="Box">3.</container>
+            <unittitle>Medals</unittitle>
+		</did>
+          <c03 id="c03-1.7.6.5.3.2">
+            <did>
+              <unittitle>
+                <emph render="italic">Campaign and Service Medals</emph>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.5.3.3">
+            <did>
+              <unittitle>American Defense Medal</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.5.3.4">
+            <did>
+              <unittitle>American Theater of Operations Medal</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.5.3.5">
+            <did>
+              <unittitle>European, African and Middle Eastern Theater Campaign Medal</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.5.3.6">
+            <did>
+              <unittitle>Asiatic-Pacific Theater Campaign Medal</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.5.3.7">
+            <did>
+              <container type="Box">3.</container>
+              <unittitle>Victory Medal, WWII</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.5.3.8">
+            <did>
+              <unittitle>Mexican Service Medal (Number 13818) (for service in Mexico against Pancho Villa)</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.5.3.9">
+            <did>
+              <unittitle>Victory Medal, WWI</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.5.3.10">
+            <did>
+              <unittitle>
+                <emph render="italic">Decorations</emph>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.5.3.11">
+            <did>
+              <unittitle>Legion of Merit (named)</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.5.3.12">
+            <did>
+              <unittitle>Army Commendation Medal (named)</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.5.4">
+          <did>
+            <container type="Box">4.</container>
+            <unittitle>Memorabilia</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.5.2">
+          <did>
+            <container type="Box">4.</container>
+            <unittitle>Clippings</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,2414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-CSt-H">emeliano.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Register of the Ivan V. Emel'ianov Papers, 
+                    <date calendar="gregorian" era="ce">1908-1960</date>
+
+                </titleproper>
+                <titleproper type="filing">Emel'ianov (Ivan V.) Papers</titleproper>
+                <author>Finding aid prepared byAnatol Shmelev; machine-readable finding aid created by Xiuzhi Zhou</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Hoover Institution Archives</publisher>
+                <address>
+                    <addressline>434 Galvez Mall</addressline>
+                    <addressline>Stanford University</addressline>
+                    <addressline>Stanford, CA, 94305-6010</addressline>
+                    <addressline>(650) 723-3563</addressline>
+                    <addressline>hooverarchives@stanford.edu</addressline>
+                </address>
+                <date>© 2000, 2014</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2014-04-23T14:43-0700</date>
+            </creation>
+            <langusage>Description is in 
+                <language langcode="eng" scriptcode="latn">English</language></langusage>
+        </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>2014</date>
+                <item>April 21, 2014: Biographical info added from Hoover website.
+&lt;date calendar="gregorian" normal="20110323" era="ce"&gt;March 23, 2011: revised to update encoding and add unitid
+March 23, 2004: PUBLIC "-//Stanford University::Hoover Institution Archives//TEXT (US::CSt-H::::Ivan V. Emel'ianov Papers)//EN" "emeliano.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Ivan V. Emel'ianov Papers</unittitle>
+            <unitdate normal="1908/1960" type="inclusive">1908-1960</unitdate>
+            <unitid label="Collection Number" countrycode="US" repositorycode="CSt-H">2000C22</unitid>
+            <repository>
+                <corpname>Hoover Institution Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="rus"/>
+            </langmaterial>
+
+            <physdesc>
+
+                <extent>14 microfilm reels </extent>
+                <extent>(2.1 linear feet)</extent>
+            </physdesc>
+
+            <abstract id="ref2" label="Abstract">Correspondence, speeches and writings, printed matter, and photographs, relating to the Russian agricultural cooperative movement and to the theory of economic cooperation. Includes papers of Nataliia V. Emel'ianova, chemist and wife of I. V. Emel'ianov.</abstract>
+            <langmaterial id="ref328" label="Language of Materials note">Mainly in Russian.</langmaterial>
+            <origination label="Creator">
+                <persname source="ingest">Emel'ianov, Ivan V., 1880-1945</persname>
+            </origination>
+        </did>
+        <accessrestrict id="ref3">
+            <head>Access</head>
+            <p>Collection open for research.</p>
+        </accessrestrict>
+        <userestrict id="ref4">
+            <head>Publication Rights</head>
+            <p>For copyright status, please contact the Hoover Institution Archives.</p>
+        </userestrict>
+        <prefercite id="ref5">
+            <head>Preferred Citation</head>
+            <p>[Identification of item], Ivan V. Emel'ianov Papers, [Box no.], Hoover Institution Archives.</p>
+        </prefercite>
+        <bioghist id="ref6">
+            <head>Biography</head>
+            <p>A prominent specialist in the field of cooperative economic theory, I. V. Emel'ianov was born at Uspenskii zavod, Tobol'skaia guberniia, on 1 November 1880 (O. S.). In 1900, he graduated from Tobol'sk seminary, but decided to continue his education in the field of agronomy. In 1907 he graduated from Kiev Polytechnic Institute with a degree in that subject, proceeding to work as an agronomist for local zemstvo organizations. From 1910 to 1912 he served as agricultural agent for the Ekaterinoslavskoe zemstvo in the United States. Following his return to Russia, most of his career was spent in various capacities in the Khar'kov region, where he worked closely with cooperative organizations.</p>
+            <p>In 1917, he was elected a member of the Khar'kov gubernskaia zemskaia uprava and Chairman of the Board of the Khar'kov Zemstvo Bureau of Small Credit. In September 1919 under the White regime he was appointed chairman of the Khar'kov gubernskaia zemskaia uprava. The same year, he became an officer of the Selosoyus cooperative and Moscow Narodny Bank. Arriving in Prague in 1921, he proceeded to help found the Russkii institut sel'sko-khoziaistvennoi kooperatsii (of which he was deputy director until 1927) and established the journals Zemledelie and Khutor, which he edited.</p>
+            <p>Emigrating to the United States at the invitation of Rutgers University, he taught there until 1933, thereafter working for various government agencies as an economist. His Ph. D. thesis at Columbia, Economic Theory of Cooperation was completed in 1942, only some three years before his death in Washington, D.C. on 17 December 1945.</p>
+        </bioghist>
+        <bioghist id="ref7">
+            <head>Biographiccal Note: Ivan V. Emel'ianov</head>
+            <chronlist>
+                <chronitem>
+                    <date>1880 November 1 (O.S.)</date>
+                    <event>Born, Uspenskii Zavod, Tobol'sk guberniia, Russia</event>
+                </chronitem>
+                <chronitem>
+                    <date>1900</date>
+                    <event>Graduated, Tobol'sk Seminary</event>
+                </chronitem>
+                <chronitem>
+                    <date>1907</date>
+                    <event>Graduated, Kiev Polytechnic Institute</event>
+                </chronitem>
+                <chronitem>
+                    <date>1910-1912</date>
+                    <event>Agricultural Agent of the Ekaterinoslavskoe zemstvo in the United States</event>
+                </chronitem>
+                <chronitem>
+                    <date>1912</date>
+                    <event>Appointed agronomist for Khar'kovskoe gubernskoe zemstvo</event>
+                </chronitem>
+                <chronitem>
+                    <date>1913 February 6</date>
+                    <event>Married Nataliia Osviatinskaia</event>
+                </chronitem>
+                <chronitem>
+                    <date>1917</date>
+                    <event>Elected member of the Kar'kovskaia zemskaia uprava and appointed Chairman of the Board of the Khar'kov zemstvo Bureau of Small Credit</event>
+                </chronitem>
+                <chronitem>
+                    <date>1919 September</date>
+                    <event>Appointed director of the Khar'kovsakaia zemskaia uprava</event>
+                </chronitem>
+                <chronitem>
+                    <date>1919-1921</date>
+                    <event>Member, Board of directors, Selosoyus, Limited and Moskovskii Narodnyi Bank (also their representative abroad)</event>
+                </chronitem>
+                <chronitem>
+                    <date>1921</date>
+                    <event>Arrived, Prague, Czechoslovakia Editor, 
+                        <title render="italic">Zemledelie</title></event>
+                </chronitem>
+                <chronitem>
+                    <date>1921-1927</date>
+                    <event>Professor of economics and Vice-Director, Russkii Institut sel'sko-khoziaistvennoi kooperatsii, Prague</event>
+                </chronitem>
+                <chronitem>
+                    <date>1922</date>
+                    <event>Editor, 
+                        <title render="italic">Khutor</title></event>
+                </chronitem>
+                <chronitem>
+                    <date>1923</date>
+                    <event>Magister of Agronomy (Agricultural economics), Department of Natural and Agricultural Sciences, Russkaia akademicheskaia gruppa v Prage Author, 
+                        <title render="italic">Kooperativnyia organizatsii sredi zemlediel'tsev</title></event>
+                </chronitem>
+                <chronitem>
+                    <date>1927</date>
+                    <event>Emigrated to the United States</event>
+                </chronitem>
+                <chronitem>
+                    <date>1927-1933</date>
+                    <event>Professor, Rutgers University</event>
+                </chronitem>
+                <chronitem>
+                    <date>1933-1939</date>
+                    <event>Economist, various positions, National Recovery Administration, Department of Labor, National Economic Committee</event>
+                </chronitem>
+                <chronitem>
+                    <date>1940-1945</date>
+                    <event>Economic Analyst, U.S. Bureau of the Census</event>
+                </chronitem>
+                <chronitem>
+                    <date>1942</date>
+                    <event>Ph.D., Economics, Columbia University Author, 
+                        <title render="italic">Economic Theory of Cooperation</title></event>
+                </chronitem>
+                <chronitem>
+                    <date>1945 December 17</date>
+                    <event>Died, Washington, D.C.</event>
+                </chronitem>
+            </chronlist>
+        </bioghist>
+        <bioghist id="ref9">
+            <head>Biographiccal Note: Nataliia V. Emel'ianova</head>
+            <chronlist>
+                <chronitem>
+                    <date>1890 August 26 (O.S.)</date>
+                    <event>Born, Khar'kov, Russia (née Nataliia Osviatinskaia)</event>
+                </chronitem>
+                <chronitem>
+                    <date>1913 February 6</date>
+                    <event>Married Ivan V. Emel'ianov, Khar'kov</event>
+                </chronitem>
+                <chronitem>
+                    <date>1919</date>
+                    <event>Graduated, Khar'kov University</event>
+                </chronitem>
+                <chronitem>
+                    <date>1921 May</date>
+                    <event>Arrived, Prague, Czechoslovakia</event>
+                </chronitem>
+                <chronitem>
+                    <date>1925</date>
+                    <event>Ph.D. (Dr. of Natural Sciences), Chemistry, Charles University, Prague Author, 
+                        <title render="italic">Researches with the Dropping Mercury Cathode: Nickel and Cobalt</title></event>
+                </chronitem>
+                <chronitem>
+                    <date>1925-1927</date>
+                    <event>Research Assistant, Charles University</event>
+                </chronitem>
+                <chronitem>
+                    <date>1927</date>
+                    <event>Arrived, New York</event>
+                </chronitem>
+                <chronitem>
+                    <date>1928</date>
+                    <event>Author (with J. Heyrovský), 
+                        <title render="italic">Maxima on Current Voltage Curves</title></event>
+                </chronitem>
+                <chronitem>
+                    <date>1929-1932</date>
+                    <event>Research Assistant, Laboratory of Experimental Therapeutics, Cornell University</event>
+                </chronitem>
+                <chronitem>
+                    <date>1940-1961</date>
+                    <event>Russian language teacher, Washington, D.C., Berlitz School of Languages, CIA, and Trinity College)</event>
+                </chronitem>
+                <chronitem>
+                    <date>1948 March 25</date>
+                    <event>Elected active member, New York Academy of Sciences</event>
+                </chronitem>
+                <chronitem>
+                    <date>1965</date>
+                    <event>Died, Washington, D.C.</event>
+                </chronitem>
+            </chronlist>
+        </bioghist>
+        <scopecontent id="ref11">
+            <head>Scope and Content</head>
+            <p>This collection contains the papers of the noted theoretician of cooperative economics, Ivan V. Emel'ianov. Most of the collection consists of his writings on cooperative issues and correspondence relating to his scholarly and social activities while in Czechoslovakia (1921-1927) and the United States (1927-1945). Special mention should be made of the correspondence and research material for his dissertation, subsequently published as 
+                <title render="italic">The Economic Theory of Cooperation</title>. Correspondence and subject file material also illustrate his involvement in Russian émigré organizations of an educational and social character in both countries. There is also a set of documents pertaining to his activities during the Russian Civil War, when he represented cooperative organizations in Europe.</p>
+            <p>Many of Emel'ianov's publications are printed copies that include the entire issue of the periodicals they appeared in, which are very often themselves bibliographic rarities. A printed matter series, which includes a significant number of rare publications on cooperative issues by other authors, supplements Emel'ianov's own work in this field.</p>
+            <p>His wife, Nataliia Emel'ianova, was a chemist by profession, and the collection contains a number of her scientific publications, as well as biographical information and correspondence detailing her involvement in émigré life.</p>
+            <p>Detailed processing and preservation microfilming for these materials were made possible by a generous grant from the National Endowment for the Humanities and by matching funds from the Hoover Institution and Museum of Russian Culture. The grant also provides depositing a microfilm copy in the Hoover Institution Archives. The original materials and copyright to them (with some exceptions) are the property of the Museum of Russian Culture, San Francisco. A transfer table indicating corresponding box and reel numbers is available at the Hoover Institution Archives.</p>
+            <p>The Hoover Institution assumes all responsibility for notifying users that they must comply with the copyright law of the United States (Title 17 United States Code) and Hoover Rules for the Use and Reproduction of Archival Materials.</p>
+        </scopecontent>
+        <controlaccess>
+            <subject source="lcsh">Agriculture--Russia.</subject>
+            <subject source="ingest">Chemistry.</subject>
+            <subject source="ingest">Cooperative societies--Russia.</subject>
+            <subject source="lcsh">Cooperative societies.</subject>
+            <geogname source="lcsh">Czechoslovakia.</geogname>
+            <geogname source="lcsh">Russia.</geogname>
+            <subject source="lcsh">Russians--Czechoslovakia.</subject>
+            <subject source="lcsh">Russians--United States.</subject>
+            <geogname source="lcsh">Soviet Union.</geogname>
+            <geogname source="lcsh">United States.</geogname>
+        </controlaccess>
+  <dsc>
+            <c01 id="ref12" level="series">
+                <did>
+                    <unittitle>IVAN V. EMEL'IANOV,</unittitle>
+                    <unitdate>1915-1951.</unitdate>
+                    <physdesc id="ref13" label="General Physical Description note">
+                        <extent>Boxes 1-11</extent></physdesc>
+                </did>
+                <scopecontent id="ref14">
+                    <head>Scope and Contents note</head>
+                    <p>Biographical file includes biography by his wife, Nataliia, and educational, employment, family and other records, arranged by physical form. Correspondence file arranged alphabetically by correspondent. Speeches and writings arranged chronologically by title. Academic and Civil service career files include material arranged alphabetically by, respectively, name of academic institution and physical form. Subject files arranged alphabetically by subject heading (includes correspondence and writings). Printed matter file consists of writings by others arranged alphabetically, mainly relating to topics in agriculture and agricultural cooperation</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref15" level="series">
+                <did>
+                    <unittitle>NATALIIA V. EMEL'IANOVA,</unittitle>
+                    <unitdate>1908-1960.</unitdate>
+                    <physdesc id="ref16" label="General Physical Description note">
+                        <extent>Boxes 12-13</extent></physdesc>
+                </did>
+                <scopecontent id="ref17">
+                    <head>Scope and Contents note</head>
+                    <p>Biographical file includes clippings, curricula, educational and employment records arranged by physical form. Correspondence file arranged by name of correspondent. Writings arranged chronologically by title</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref18" level="series">
+                <did>
+                    <unittitle>PHOTOGRAPHS, c. 1921-1940s.</unittitle>
+                    <physdesc id="ref19" label="General Physical Description note">
+                        <extent>Box 14</extent></physdesc>
+                </did>
+                <scopecontent id="ref20">
+                    <head>Scope and Contents note</head>
+                    <p>Include numerous photographs of the Emel'ianovs, together and separately, and of various individuals and places associated with their life</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref21" level="series">
+                <did>
+                    <unittitle>Ivan V. Emel'Ianov,</unittitle>
+                    <unitdate>1915-1951</unitdate>
+                </did>
+                <c02 id="ref22" level="otherlevel">
+                    <did>
+                        <unittitle>Biographical file, See also Speeches and writings/General/Scrapbooks</unittitle>
+                        <unitdate>1919-1946.</unitdate>
+                    </did>
+                    <c03 id="ref23" level="otherlevel">
+                        <did>
+                            <unittitle>Biography, written by Nataliia V. Emel'ianova</unittitle>
+                            <container id="cid549826" type="Box" label="Box">1</container>
+                            <container parent="cid549826" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref24" level="otherlevel">
+                        <did>
+                            <unittitle>Certificates. Includes copy of certificate appointing Emel'ianov director of Khar'kovskaia gubernskaia zemskaia uprava,</unittitle>
+                            <container id="cid549825" type="Folder" label="Folder">2</container>
+                            <unitdate>1919 September 4</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref25" level="otherlevel">
+                        <did>
+                            <unittitle>Clippings about Emel'ianov</unittitle>
+                            <container id="cid549824" type="Folder" label="Folder">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref26" level="otherlevel">
+                        <did>
+                            <unittitle>Curriculum vitae</unittitle>
+                            <container id="cid549823" type="Folder" label="Folder">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref27" level="otherlevel">
+                        <did>
+                            <unittitle>Diplomas</unittitle>
+                            <container id="cid549822" type="Folder" label="Folder">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref28" level="otherlevel">
+                        <did>
+                            <unittitle>Employment records (Civil service)</unittitle>
+                        </did>
+                        <c04 id="ref29" level="otherlevel">
+                            <did>
+                                <unittitle>Application forms and ratings</unittitle>
+                                <container id="cid549821" type="Folder" label="Folder">6</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref30" level="otherlevel">
+                            <did>
+                                <unittitle>Correspondence,</unittitle>
+                                <container id="cid549820" type="Folder" label="Folder">7</container>
+                                <unitdate>1933-1941</unitdate>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref31" level="otherlevel">
+                        <did>
+                            <unittitle>Family correspondence</unittitle>
+                        </did>
+                        <c04 id="ref32" level="otherlevel">
+                            <did>
+                                <unittitle>Emel'ianova, Nataliia V.,</unittitle>
+                                <container id="cid549819" type="Folder" label="Folder">8</container>
+                                <unitdate>1928-1934 and undated</unitdate>
+                            </did>
+                        </c04>
+                        <c04 id="ref33" level="otherlevel">
+                            <did>
+                                <unittitle>Emel'ianov, Nikolai V. [brother],</unittitle>
+                                <container id="cid549818" type="Folder" label="Folder">9</container>
+                                <unitdate>1930</unitdate>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref34" level="otherlevel">
+                        <did>
+                            <unittitle>Letters of recommendation, Includes letter from Pitirim Sorokin</unittitle>
+                            <container id="cid549817" type="Folder" label="Folder">10</container>
+                            <unitdate>1927-1938.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref35" level="otherlevel">
+                        <did>
+                            <unittitle>Membership cards (Russian War Veterans, Inc.),</unittitle>
+                            <container id="cid549816" type="Folder" label="Folder">11</container>
+                            <unitdate>1934-1942</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref36" level="otherlevel">
+                        <did>
+                            <unittitle>Powers of attorney. Includes excerpt from minutes of meeting of Vserossiiskii zemskii soiuz, authorizing Emel'ianov to act as purchasing controller for Balkan operations</unittitle>
+                            <container id="cid549815" type="Folder" label="Folder">12</container>
+                            <unitdate>1919 December 10,</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref37" level="otherlevel">
+                        <did>
+                            <unittitle>Miscellany. Includes Emel'ianov's sketch of his place of birth, various financial and real estate documents, business cards</unittitle>
+                            <container id="cid549814" type="Folder" label="Folder">13</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref38" level="otherlevel">
+                    <did>
+                        <unittitle>Correspondence, See also Biographical file and Academic career file. Includes letters addressed to both Emel'ianov and his wife, but see also NATALIIA V. EMEL'IANOVA/Correspondence, for other letters addressed to both of them</unittitle>
+                        <unitdate>1915-1951.</unitdate>
+                    </did>
+                    <c03 id="ref39" level="otherlevel">
+                        <did>
+                            <unittitle>General</unittitle>
+                        </did>
+                        <c04 id="ref40" level="otherlevel">
+                            <did>
+                                <unittitle>General,</unittitle>
+                                <container id="cid549813" type="Folder" label="Folder">14</container>
+                                <unitdate>1931-1939</unitdate>
+                            </did>
+                        </c04>
+                        <c04 id="ref41" level="otherlevel">
+                            <did>
+                                <unittitle>Acknowledgements,</unittitle>
+                                <container id="cid549812" type="Folder" label="Folder">15</container>
+                                <unitdate>1923-1941</unitdate>
+                            </did>
+                        </c04>
+                        <c04 id="ref42" level="otherlevel">
+                            <did>
+                                <unittitle>Congratulations,</unittitle>
+                                <container id="cid549811" type="Folder" label="Folder">16</container>
+                                <unitdate>1924-1930 and undated</unitdate>
+                            </did>
+                        </c04>
+                        <c04 id="ref43" level="otherlevel">
+                            <did>
+                                <unittitle>Invitations,</unittitle>
+                                <container id="cid549810" type="Folder" label="Folder">17</container>
+                                <unitdate>1923-1938</unitdate>
+                            </did>
+                        </c04>
+                        <c04 id="ref44" level="otherlevel">
+                            <did>
+                                <unittitle>Requests,</unittitle>
+                                <container id="cid549809" type="Folder" label="Folder">18</container>
+                                <unitdate>1922-1941</unitdate>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref45" level="otherlevel">
+                        <did>
+                            <unittitle>Unidentified,</unittitle>
+                            <container id="cid549808" type="Folder" label="Folder">19</container>
+                            <unitdate>1927-1932</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref46" level="otherlevel">
+                        <did>
+                            <unittitle>Agger, E. E.,</unittitle>
+                            <container id="cid549807" type="Folder" label="Folder">20</container>
+                            <unitdate>1931-1942</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref47" level="otherlevel">
+                        <did>
+                            <unittitle>Alekseev, V., Includes correspondence with others regarding address of F. M. Dostoevsky's granddaughter</unittitle>
+                            <container id="cid549806" type="Folder" label="Folder">21</container>
+                            <unitdate>1931.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref48" level="otherlevel">
+                        <did>
+                            <unittitle>Allen, J. Sandeman,</unittitle>
+                            <container id="cid549805" type="Folder" label="Folder">22</container>
+                            <unitdate>[1926]-1927</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref49" level="otherlevel">
+                        <did>
+                            <unittitle>Alpaugh, J. Everett,</unittitle>
+                            <container id="cid549804" type="Folder" label="Folder">23</container>
+                            <unitdate>1933-1934</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref50" level="otherlevel">
+                        <did>
+                            <unittitle>Antsyferov, Aleksei Nikolaevich,</unittitle>
+                            <container id="cid549803" type="Folder" label="Folder">24</container>
+                            <unitdate>1927</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref51" level="otherlevel">
+                        <did>
+                            <unittitle>Backer, Jacob,</unittitle>
+                            <container id="cid549802" type="Folder" label="Folder">25</container>
+                            <unitdate>1936-1937</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref52" level="otherlevel">
+                        <did>
+                            <unittitle>Bel'govskii, K.,</unittitle>
+                            <container id="cid549801" type="Folder" label="Folder">26</container>
+                            <unitdate>1927</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref53" level="otherlevel">
+                        <did>
+                            <unittitle>Bilimovich, Aleksandr,</unittitle>
+                            <container id="cid549800" type="Folder" label="Folder">27</container>
+                            <unitdate>1934-1936 and undated</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref54" level="otherlevel">
+                        <did>
+                            <unittitle>Borodin, D.,</unittitle>
+                            <container id="cid549799" type="Box" label="Box">2</container>
+                            <container parent="cid549799" type="Folder">1</container>
+                            <unitdate>1915</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref55" level="otherlevel">
+                        <did>
+                            <unittitle>Bothezat, George de,</unittitle>
+                            <container id="cid549798" type="Folder" label="Folder">2</container>
+                            <unitdate>1931</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref56" level="otherlevel">
+                        <did>
+                            <unittitle>Brasol, Boris,</unittitle>
+                            <container id="cid549797" type="Folder" label="Folder">3</container>
+                            <unitdate>1933-1939</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref57" level="otherlevel">
+                        <did>
+                            <unittitle>Brdlík, V.,</unittitle>
+                            <container id="cid549796" type="Folder" label="Folder">4</container>
+                            <unitdate>1930</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref58" level="otherlevel">
+                        <did>
+                            <unittitle>Brunst, Viktor Emil'evich,</unittitle>
+                            <container id="cid549795" type="Folder" label="Folder">5</container>
+                            <unitdate>1920-1931</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref59" level="otherlevel">
+                        <did>
+                            <unittitle>Burns, Arthur F.,</unittitle>
+                            <container id="cid549794" type="Folder" label="Folder">6</container>
+                            <unitdate>1939-1942 and undated</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref60" level="otherlevel">
+                        <did>
+                            <unittitle>Chavchavadze, Pavel A., Prince, Includes correspondence with others</unittitle>
+                            <container id="cid549793" type="Folder" label="Folder">7</container>
+                            <unitdate>1933.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref61" level="otherlevel">
+                        <did>
+                            <unittitle>Chechetkin, Aleksei Pavlovich,</unittitle>
+                            <container id="cid549792" type="Folder" label="Folder">8</container>
+                            <unitdate>1931</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref62" level="otherlevel">
+                        <did>
+                            <unittitle>Chernikov, I. I.,</unittitle>
+                            <container id="cid549791" type="Folder" label="Folder">9</container>
+                            <unitdate>1931-1933</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref63" level="otherlevel">
+                        <did>
+                            <unittitle>Clark, Lincoln,</unittitle>
+                            <container id="cid549790" type="Folder" label="Folder">10</container>
+                            <unitdate>1944</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref64" level="otherlevel">
+                        <did>
+                            <unittitle>Clothier, Robert,</unittitle>
+                            <container id="cid549789" type="Folder" label="Folder">11</container>
+                            <unitdate>1932-1933</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref65" level="otherlevel">
+                        <did>
+                            <unittitle>Coulter, John Lee,</unittitle>
+                            <container id="cid549788" type="Folder" label="Folder">12</container>
+                            <unitdate>1927-1934</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref66" level="otherlevel">
+                        <did>
+                            <unittitle>Crystal, Herman,</unittitle>
+                            <container id="cid549787" type="Folder" label="Folder">13</container>
+                            <unitdate>1934</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref67" level="otherlevel">
+                        <did>
+                            <unittitle>Danilevskii, V. V.,</unittitle>
+                            <container id="cid549786" type="Folder" label="Folder">14</container>
+                            <unitdate>1928</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref68" level="otherlevel">
+                        <did>
+                            <unittitle>Demosfenov, S. S.,</unittitle>
+                            <container id="cid549785" type="Folder" label="Folder">15</container>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref69" level="otherlevel">
+                        <did>
+                            <unittitle>Deriaba, Petr Alekseevich,</unittitle>
+                            <container id="cid549784" type="Folder" label="Folder">16</container>
+                            <unitdate>1932-1933</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref70" level="otherlevel">
+                        <did>
+                            <unittitle>Dolgopiatov, G. I.,</unittitle>
+                            <container id="cid549783" type="Folder" label="Folder">17</container>
+                            <unitdate>1927-1934</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref71" level="otherlevel">
+                        <did>
+                            <unittitle>Dolgorukov, P., Prince,</unittitle>
+                            <container id="cid549782" type="Folder" label="Folder">18</container>
+                            <unitdate>1936</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref72" level="otherlevel">
+                        <did>
+                            <unittitle>Elsworth, R. H.,</unittitle>
+                            <container id="cid549781" type="Folder" label="Folder">19</container>
+                            <unitdate>1943</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref73" level="otherlevel">
+                        <did>
+                            <unittitle>Epanchin, Nikolai Nikolaevich,</unittitle>
+                            <container id="cid549780" type="Folder" label="Folder">20</container>
+                            <unitdate>1938</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref74" level="otherlevel">
+                        <did>
+                            <unittitle>Evglevskii. See Sky, B. P.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref75" level="otherlevel">
+                        <did>
+                            <unittitle>Fedorov, Mikhail,</unittitle>
+                            <container id="cid549779" type="Folder" label="Folder">21</container>
+                            <unitdate>1928-1933</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref76" level="otherlevel">
+                        <did>
+                            <unittitle>Fekula, Paul M.,</unittitle>
+                            <container id="cid549778" type="Folder" label="Folder">22</container>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref77" level="otherlevel">
+                        <did>
+                            <unittitle>Fenin, Aleksandr Ivanovich,</unittitle>
+                            <container id="cid549777" type="Folder" label="Folder">23</container>
+                            <unitdate>1939</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref78" level="otherlevel">
+                        <did>
+                            <unittitle>Filippovskii, Vasil' Osipovich,</unittitle>
+                            <container id="cid549776" type="Folder" label="Folder">24</container>
+                            <unitdate>1926</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref79" level="otherlevel">
+                        <did>
+                            <unittitle>Fisher, Irving,</unittitle>
+                            <container id="cid549775" type="Folder" label="Folder">25</container>
+                            <unitdate>1929-1934</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref80" level="otherlevel">
+                        <did>
+                            <unittitle>Fund for the Relief of Men of Letters and Science of Russia,</unittitle>
+                            <container id="cid549774" type="Folder" label="Folder">26</container>
+                            <unitdate>1933-1935 and undated</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref81" level="otherlevel">
+                        <did>
+                            <unittitle>Georgievskii, P.,</unittitle>
+                            <container id="cid549773" type="Folder" label="Folder">27</container>
+                            <unitdate>1927-1937 and undated</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref82" level="otherlevel">
+                        <did>
+                            <unittitle>Gibson, Joseph W.,</unittitle>
+                            <container id="cid549772" type="Folder" label="Folder">28</container>
+                            <unitdate>1933-1940</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref83" level="otherlevel">
+                        <did>
+                            <unittitle>Gnedich, D. D.,</unittitle>
+                            <container id="cid549771" type="Folder" label="Folder">29</container>
+                            <unitdate>1933-1937</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref84" level="otherlevel">
+                        <did>
+                            <unittitle>Goodrich, Carter,</unittitle>
+                            <container id="cid549770" type="Folder" label="Folder">30</container>
+                            <unitdate>1932-1938</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref85" level="otherlevel">
+                        <did>
+                            <unittitle>Goppen (Hoppen), Petr,</unittitle>
+                            <container id="cid549769" type="Folder" label="Folder">31</container>
+                            <unitdate>1933</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref86" level="otherlevel">
+                        <did>
+                            <unittitle>[Grimm, David Davidovich],</unittitle>
+                            <container id="cid549768" type="Folder" label="Folder">32</container>
+                            <unitdate>1926</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref87" level="otherlevel">
+                        <did>
+                            <unittitle>Gume (?), N.,</unittitle>
+                            <container id="cid549767" type="Folder" label="Folder">33</container>
+                            <unitdate>1928</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref88" level="otherlevel">
+                        <did>
+                            <unittitle>Gunderson, William E.,</unittitle>
+                            <container id="cid549766" type="Folder" label="Folder">34</container>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref89" level="otherlevel">
+                        <did>
+                            <unittitle>Hodzha, Milan,</unittitle>
+                            <container id="cid549765" type="Folder" label="Folder">35</container>
+                            <unitdate>1936</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref90" level="otherlevel">
+                        <did>
+                            <unittitle>Howard, Leland O.,</unittitle>
+                            <container id="cid549764" type="Folder" label="Folder">36</container>
+                            <unitdate>1930</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref91" level="otherlevel">
+                        <did>
+                            <unittitle>Howe, Charles B.,</unittitle>
+                            <container id="cid549763" type="Folder" label="Folder">37</container>
+                            <unitdate>1931-1933</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref92" level="otherlevel">
+                        <did>
+                            <unittitle>Kalishevskii, A. I.,</unittitle>
+                            <container id="cid549762" type="Folder" label="Folder">38</container>
+                            <unitdate>1933-1934</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref93" level="otherlevel">
+                        <did>
+                            <unittitle>Karinskii, N. S., Includes latter's correspondence with V. Shul'tse</unittitle>
+                            <container id="cid549761" type="Folder" label="Folder">39</container>
+                            <unitdate>1932-1933.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref94" level="otherlevel">
+                        <did>
+                            <unittitle>Karpovich, M. M.,</unittitle>
+                            <container id="cid549760" type="Folder" label="Folder">40</container>
+                            <unitdate>1930-1931</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref95" level="otherlevel">
+                        <did>
+                            <unittitle>Kay, Leo N.,</unittitle>
+                            <container id="cid549759" type="Folder" label="Folder">41</container>
+                            <unitdate>1933-1940 and undated</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref96" level="otherlevel">
+                        <did>
+                            <unittitle>Kazakov, Viktor Nikolaevich,</unittitle>
+                            <container id="cid549758" type="Folder" label="Folder">42</container>
+                            <unitdate>1932</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref97" level="otherlevel">
+                        <did>
+                            <unittitle>Kazarinov, Valerian V.,</unittitle>
+                            <container id="cid549757" type="Folder" label="Folder">43</container>
+                            <unitdate>1923</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref98" level="otherlevel">
+                        <did>
+                            <unittitle>Klindera, Ferdinand,</unittitle>
+                            <container id="cid549756" type="Folder" label="Folder">44</container>
+                            <unitdate>1936</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref99" level="otherlevel">
+                        <did>
+                            <unittitle>Kolesnikov, V,.</unittitle>
+                            <container id="cid549755" type="Folder" label="Folder">45</container>
+                            <unitdate>1933</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref100" level="otherlevel">
+                        <did>
+                            <unittitle>Kolesov, F.,</unittitle>
+                            <container id="cid549754" type="Folder" label="Folder">46</container>
+                            <unitdate>1925-1938</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref101" level="otherlevel">
+                        <did>
+                            <unittitle>Kolokol'tsov, V.,</unittitle>
+                            <container id="cid549753" type="Folder" label="Folder">47</container>
+                            <unitdate>1922-1924</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref102" level="otherlevel">
+                        <did>
+                            <unittitle>Konstantinov, Petr Filaretovich. See Russkoe sel'sko-khoziaistvennoe obshchestvo</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref103" level="otherlevel">
+                        <did>
+                            <unittitle>Koropachinskii, P.,</unittitle>
+                            <container id="cid549752" type="Box" label="Box">3</container>
+                            <container parent="cid549752" type="Folder">1</container>
+                            <unitdate>1940</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref104" level="otherlevel">
+                        <did>
+                            <unittitle>Kosinskii, Vladimir Andreevich,</unittitle>
+                            <container id="cid549751" type="Folder" label="Folder">2</container>
+                            <unitdate>1921-1938</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref105" level="otherlevel">
+                        <did>
+                            <unittitle>Kukulevskii, Aleksandr, Rev.,</unittitle>
+                            <container id="cid549750" type="Folder" label="Folder">3</container>
+                            <unitdate>1933-1938</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref106" level="otherlevel">
+                        <did>
+                            <unittitle>Kukulevskii (?), Evstafii Leont'evich,</unittitle>
+                            <container id="cid549749" type="Folder" label="Folder">4</container>
+                            <unitdate>1931-1935</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref107" level="otherlevel">
+                        <did>
+                            <unittitle>Leont'ev, M.,</unittitle>
+                            <container id="cid549748" type="Folder" label="Folder">5</container>
+                            <unitdate>1938</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref108" level="otherlevel">
+                        <did>
+                            <unittitle>Lipman, Jacob G.,</unittitle>
+                            <container id="cid549747" type="Folder" label="Folder">6</container>
+                            <unitdate>1927-1937</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref109" level="otherlevel">
+                        <did>
+                            <unittitle>Litviak, S.,</unittitle>
+                            <container id="cid549746" type="Folder" label="Folder">7</container>
+                            <unitdate>1937</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref110" level="otherlevel">
+                        <did>
+                            <unittitle>Lomshakov, A. S.,</unittitle>
+                            <container id="cid549745" type="Folder" label="Folder">8</container>
+                            <unitdate>1929</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref111" level="otherlevel">
+                        <did>
+                            <unittitle>Makletsov, A.,</unittitle>
+                            <container id="cid549744" type="Folder" label="Folder">9</container>
+                            <unitdate>1927-1930</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref112" level="otherlevel">
+                        <did>
+                            <unittitle>Marakuev, S.,</unittitle>
+                            <container id="cid549743" type="Folder" label="Folder">10</container>
+                            <unitdate>1927-1928</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref113" level="otherlevel">
+                        <did>
+                            <unittitle>Martynov, Zakhar,</unittitle>
+                            <container id="cid549742" type="Folder" label="Folder">11</container>
+                            <unitdate>1933</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref114" level="otherlevel">
+                        <did>
+                            <unittitle>Mishtovt, I.,</unittitle>
+                            <container id="cid549741" type="Folder" label="Folder">12</container>
+                            <unitdate>1935</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref115" level="otherlevel">
+                        <did>
+                            <unittitle>Mokrzecki, S.,</unittitle>
+                            <container id="cid549740" type="Folder" label="Folder">13</container>
+                            <unitdate>1931</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref116" level="otherlevel">
+                        <did>
+                            <unittitle>Morgan, O. S.,</unittitle>
+                            <container id="cid549739" type="Folder" label="Folder">14</container>
+                            <unitdate>1933-1941</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref117" level="otherlevel">
+                        <did>
+                            <unittitle>Moskov, Evgenii A. [Moskoff, Eugene A.],</unittitle>
+                            <container id="cid549738" type="Folder" label="Folder">15</container>
+                            <unitdate>1930-1942</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref118" level="otherlevel">
+                        <did>
+                            <unittitle>Nekrasov, Vladimir Alekseevich,</unittitle>
+                            <unitdate>1940</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref119" level="otherlevel">
+                        <did>
+                            <unittitle>Nevalonny [Nevialennyi], M.,</unittitle>
+                            <unitdate>1933-1938</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref120" level="otherlevel">
+                        <did>
+                            <unittitle>Okulich, Iosif K.,</unittitle>
+                            <container id="cid549737" type="Folder" label="Folder">18</container>
+                            <unitdate>1923-1942</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref121" level="otherlevel">
+                        <did>
+                            <unittitle>OROVUZ. See Russian University League of America</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref122" level="otherlevel">
+                        <did>
+                            <unittitle>Pechkovskii, M. I., Includes latter's correspondence with Jacob G. Lipman, A. I. Petrunkevitch, Pitirim Sorokin and others relating to the Emel'ianovs' emigration to the U.S. and the possibility of his obtaining academic employment</unittitle>
+                            <container id="cid549736" type="Folder" label="Folder">19</container>
+                            <unitdate>1926-1941.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref123" level="otherlevel">
+                        <did>
+                            <unittitle>Petrunkevitch, Alexander,</unittitle>
+                            <container id="cid549735" type="Folder" label="Folder">20</container>
+                            <unitdate>1931</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref124" level="otherlevel">
+                        <did>
+                            <unittitle>Protopopov, Vladimir Aleksandrovich,</unittitle>
+                            <container id="cid549734" type="Folder" label="Folder">21</container>
+                            <unitdate>1930</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref125" level="otherlevel">
+                        <did>
+                            <unittitle>Republican Party (N.Y.). State Committee,</unittitle>
+                            <container id="cid549733" type="Folder" label="Folder">22</container>
+                            <unitdate>1932-1933</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref126" level="otherlevel">
+                        <did>
+                            <unittitle>Riabchikov, B. (?),</unittitle>
+                            <container id="cid549732" type="Folder" label="Folder">23</container>
+                            <unitdate>1922</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref127" level="otherlevel">
+                        <did>
+                            <unittitle>Rozhdestvenskii, Aleksandr Pavlovich,</unittitle>
+                            <container id="cid549731" type="Folder" label="Folder">24</container>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref128" level="otherlevel">
+                        <did>
+                            <unittitle>Russian Consolidated Mutual Aid Society of America,</unittitle>
+                            <container id="cid549730" type="Folder" label="Folder">25</container>
+                            <unitdate>1936</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref129" level="otherlevel">
+                        <did>
+                            <unittitle>Russian University League of America (OROVUZ),</unittitle>
+                            <container id="cid549729" type="Folder" label="Folder">26</container>
+                            <unitdate>1933-1936</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref130" level="otherlevel">
+                        <did>
+                            <unittitle>Russkoe sel'sko-khoziaistvennoe obshchestvo, Correspondence primarily with Petr Filaretovich Konstantinov and V. A. von Reimers</unittitle>
+                            <container id="cid549728" type="Box" label="Box">4</container>
+                            <container parent="cid549728" type="Folder">1</container>
+                            <unitdate>1938-1942 and undated.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref131" level="otherlevel">
+                        <did>
+                            <unittitle>Savchenko, I.,</unittitle>
+                            <container id="cid549727" type="Folder" label="Folder">2</container>
+                            <unitdate>1929-1930</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref132" level="otherlevel">
+                        <did>
+                            <unittitle>Savinskii, V. N.,</unittitle>
+                            <container id="cid549726" type="Folder" label="Folder">3</container>
+                            <unitdate>1931</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref133" level="otherlevel">
+                        <did>
+                            <unittitle>Sergii, Bishop,</unittitle>
+                            <container id="cid549725" type="Folder" label="Folder">4</container>
+                            <unitdate>1933 and undated</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref134" level="otherlevel">
+                        <did>
+                            <unittitle>Service Bureau for Russians,</unittitle>
+                            <container id="cid549724" type="Folder" label="Folder">5</container>
+                            <unitdate>1928</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref135" level="otherlevel">
+                        <did>
+                            <unittitle>Shebeko, N. N.,</unittitle>
+                            <container id="cid549723" type="Folder" label="Folder">6</container>
+                            <unitdate>1939</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref136" level="otherlevel">
+                        <did>
+                            <unittitle>Sheen, Fulton J.,</unittitle>
+                            <container id="cid549722" type="Folder" label="Folder">7</container>
+                            <unitdate>1941</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref137" level="otherlevel">
+                        <did>
+                            <unittitle>Shindler, Camille (Kamill Gavrilovich],</unittitle>
+                            <container id="cid549721" type="Folder" label="Folder">8</container>
+                            <unitdate>1928-1935 and undated</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref138" level="otherlevel">
+                        <did>
+                            <unittitle>Shvarts, Aleksandr Iosifovich,</unittitle>
+                            <container id="cid549720" type="Folder" label="Folder">9</container>
+                            <unitdate>1936</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref139" level="otherlevel">
+                        <did>
+                            <unittitle>Sirotkin, Vasilii Vasil'evich,</unittitle>
+                            <container id="cid549719" type="Folder" label="Folder">10</container>
+                            <unitdate>1932</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref140" level="otherlevel">
+                        <did>
+                            <unittitle>Sky (Evglevskii?), B. P.,</unittitle>
+                            <container id="cid549718" type="Folder" label="Folder">11</container>
+                            <unitdate>1935</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref141" level="otherlevel">
+                        <did>
+                            <unittitle>Snesarev, V.,</unittitle>
+                            <container id="cid549717" type="Folder" label="Folder">12</container>
+                            <unitdate>1928</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref142" level="otherlevel">
+                        <did>
+                            <unittitle>Sorokin, Pitirim,</unittitle>
+                            <container id="cid549716" type="Folder" label="Folder">13</container>
+                            <unitdate>1924-1927</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref143" level="otherlevel">
+                        <did>
+                            <unittitle>Sorokin, S.,</unittitle>
+                            <container id="cid549715" type="Folder" label="Folder">14</container>
+                            <unitdate>1934</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref144" level="otherlevel">
+                        <did>
+                            <unittitle>Sosnovskii, P.,</unittitle>
+                            <container id="cid549714" type="Folder" label="Folder">15</container>
+                            <unitdate>1929</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref145" level="otherlevel">
+                        <did>
+                            <unittitle>Sporysh (?), L.,</unittitle>
+                            <container id="cid549713" type="Folder" label="Folder">16</container>
+                            <unitdate>1934-1938</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref146" level="otherlevel">
+                        <did>
+                            <unittitle>Stefanovskii, Stefan Mikhailovich,</unittitle>
+                            <container id="cid549712" type="Folder" label="Folder">17</container>
+                            <unitdate>1931</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref147" level="otherlevel">
+                        <did>
+                            <unittitle>Struve, Petr Berngardovich,</unittitle>
+                            <container id="cid549711" type="Folder" label="Folder">18</container>
+                            <unitdate>1925 and undated</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref148" level="otherlevel">
+                        <did>
+                            <unittitle>Tereshchenko, Valerii Ivanovich,</unittitle>
+                            <container id="cid549710" type="Folder" label="Folder">19</container>
+                            <unitdate>1932-1940</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref149" level="otherlevel">
+                        <did>
+                            <unittitle>Timoshenko, Stepan P.,</unittitle>
+                            <container id="cid549709" type="Folder" label="Folder">20</container>
+                            <unitdate>1931</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref150" level="otherlevel">
+                        <did>
+                            <unittitle>Timoshenko, V. P.,</unittitle>
+                            <container id="cid549708" type="Folder" label="Folder">21</container>
+                            <unitdate>1940</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref151" level="otherlevel">
+                        <did>
+                            <unittitle>Tsurikov, N. A.,</unittitle>
+                            <container id="cid549707" type="Folder" label="Folder">22</container>
+                            <unitdate>1927-1933</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref152" level="otherlevel">
+                        <did>
+                            <unittitle>Vasil'ev, V. V.,</unittitle>
+                            <container id="cid549706" type="Folder" label="Folder">23</container>
+                            <unitdate>1931-1942</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref153" level="otherlevel">
+                        <did>
+                            <unittitle>Vegner, A. Iu.,</unittitle>
+                            <container id="cid549705" type="Folder" label="Folder">24</container>
+                            <unitdate>1921</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref154" level="otherlevel">
+                        <did>
+                            <unittitle>Vernadsky, G. V.,</unittitle>
+                            <container id="cid549704" type="Folder" label="Folder">25</container>
+                            <unitdate>1931</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref155" level="otherlevel">
+                        <did>
+                            <unittitle>Vinnichuk, A. G.,</unittitle>
+                            <container id="cid549703" type="Folder" label="Folder">26</container>
+                            <unitdate>1927</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref156" level="otherlevel">
+                        <did>
+                            <unittitle>Vserossiiskii natsional'nyi krest'ianskii soiuz,</unittitle>
+                            <container id="cid549702" type="Folder" label="Folder">27</container>
+                            <unitdate>1931</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref157" level="otherlevel">
+                        <did>
+                            <unittitle>Zavadskii, Sergei,</unittitle>
+                            <container id="cid549701" type="Folder" label="Folder">28</container>
+                            <unitdate>1926-1935</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref158" level="otherlevel">
+                        <did>
+                            <unittitle>Zhitkov, I.,</unittitle>
+                            <container id="cid549700" type="Folder" label="Folder">29</container>
+                            <unitdate>1928</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref159" level="otherlevel">
+                    <did>
+                        <unittitle>Speeches and writings, See also Subject file/Agriculture, Cooperative/Letterbooks</unittitle>
+                        <unitdate>1921-1951.</unitdate>
+                    </did>
+                    <c03 id="ref160" level="otherlevel">
+                        <did>
+                            <unittitle>General</unittitle>
+                        </did>
+                        <c04 id="ref161" level="otherlevel">
+                            <did>
+                                <unittitle>Letters to the editor, Printed copies</unittitle>
+                                <container id="cid549699" type="Folder" label="Folder">30</container>
+                                <unitdate>1931 and undated.</unitdate>
+                            </did>
+                        </c04>
+                        <c04 id="ref162" level="otherlevel">
+                            <did>
+                                <unittitle>Newspaper interviews and accounts of speeches, Printed copies. Includes correspondence related to speeches</unittitle>
+                                <container id="cid549698" type="Folder" label="Folder">31</container>
+                                <unitdate>1929-1932 and undated.</unitdate>
+                            </did>
+                        </c04>
+                        <c04 id="ref163" level="otherlevel">
+                            <did>
+                                <unittitle>Notes,</unittitle>
+                                <container id="cid549697" type="Folder" label="Folder">32</container>
+                                <unitdate>n.d.</unitdate>
+                            </did>
+                        </c04>
+                        <c04 id="ref164" level="otherlevel">
+                            <did>
+                                <unittitle>Scrapbooks, Include clippings of newspaper articles by and about Emel'ianov, photograph of him and articles by others on subjects related to Emel'ianov's interests</unittitle>
+                                <container id="cid549696" type="Box" label="Box">5</container>
+                                <container parent="cid549696" type="Folder">1</container>
+                                <unitdate>1921-1946.</unitdate>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref165" level="otherlevel">
+                        <did>
+                            <unittitle>"Agricultural Cooperatives in the United States," Typescript</unittitle>
+                            <container id="cid549695" type="Folder" label="Folder">2</container>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref166" level="otherlevel">
+                        <did>
+                            <unittitle>"Cooperative Associations Among Retailers," Typescript</unittitle>
+                            <container id="cid549694" type="Folder" label="Folder">3</container>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref167" level="otherlevel">
+                        <did>
+                            <unittitle>"Differences in Cooperative Pattern of Farmers' Cooperative Associations," Holograph (fragment)</unittitle>
+                            <container id="cid549693" type="Folder" label="Folder">4</container>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref168" level="otherlevel">
+                        <did>
+                            <unittitle>"Gospodin Gannibal," Typescript</unittitle>
+                            <container id="cid549692" type="Folder" label="Folder">5</container>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref169" level="otherlevel">
+                        <did>
+                            <unittitle>"K voprosu ob organiatsii miestnago samoupravleniia na Donu," See Subject file/Agriculture, Cooperative/Letterbooks</unittitle>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref170" level="otherlevel">
+                        <did>
+                            <unittitle>"P. I. Georgievskii," Typescript (incomplete)</unittitle>
+                            <container id="cid549691" type="Folder" label="Folder">6</container>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref171" level="otherlevel">
+                        <did>
+                            <unittitle>"Puti russkoi zemlediel'cheskoi kooperatsii," See Subject file/Agriculture, Cooperative/Letterbooks</unittitle>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref172" level="otherlevel">
+                        <did>
+                            <unittitle>"Russkaia derevnia o sovietskoi shkole," 
+                                <title render="italic">Vozrozhdenie</title>, Printed copy</unittitle>
+                            <container id="cid549690" type="Folder" label="Folder">7</container>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref173" level="otherlevel">
+                        <did>
+                            <unittitle>"Russkie zemlediel'tsy v emigratsii," Typescript</unittitle>
+                            <container id="cid549689" type="Folder" label="Folder">8</container>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref174" level="otherlevel">
+                        <did>
+                            <unittitle>"The Silk Industry in New Jersey," Typescript</unittitle>
+                            <container id="cid549688" type="Folder" label="Folder">9</container>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref175" level="otherlevel">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Zemledielie</title>, #1-4 (1921). Printed copy. Journal edited by Emel'ianov. Includes his editorials, reviews and two articles: "Grenzh," 1921 (#2) October and "Golos iz mogily," (#3-4)</unittitle>
+                            <container id="cid549687" type="Folder" label="Folder">10</container>
+                            <unitdate>1921 November-December</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref176" level="otherlevel">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Kooperativnyia organizatsii sredi zemlediel'tsev</title>,</unittitle>
+                            <unitdate>1923</unitdate>
+                        </did>
+                        <c04 id="ref177" level="otherlevel">
+                            <did>
+                                <unittitle>Printed copy. Includes reviews pasted into book</unittitle>
+                                <container id="cid549686" type="Folder" label="Folder">11</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref178" level="otherlevel">
+                            <did>
+                                <unittitle>Miscellany. Includes reviews, abstract, congratulatory notes from Petr Struve, Iosif Okulich and others on the successful defense of the work as a dissertation</unittitle>
+                                <container id="cid549685" type="Folder" label="Folder">12</container>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref179" level="otherlevel">
+                        <did>
+                            <unittitle>"O prirodie kooperativnykh organiatsii sredi zemlediel'tsev," 
+                                <title render="italic">Kooperatsiia i sel'skoe khoziaistvo, Kniga I</title>, Printed copy. Includes entire book</unittitle>
+                            <container id="cid549684" type="Box" label="Box">6</container>
+                            <container parent="cid549684" type="Folder">1</container>
+                            <unitdate>1924.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref180" level="otherlevel">
+                        <did>
+                            <unittitle>"Kooperativnaia organizatsiia kak ob"edinenie khoziaistv," 
+                                <title render="italic">Kooperatsiia i sel'skoe khoziaistvo, Kniga II</title>, Printed copy. Includes entire book (less cover and table of contents)</unittitle>
+                            <container id="cid549683" type="Folder" label="Folder">2</container>
+                            <unitdate>1924.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref181" level="otherlevel">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Kooperativnaia organizatsiia kak ob"edinenie khoziaistv</title>, Printed copy</unittitle>
+                            <container id="cid549682" type="Folder" label="Folder">3</container>
+                            <unitdate>1924.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref182" level="otherlevel">
+                        <did>
+                            <unittitle>Introduction to Jaroslav Cech, 
+                                <title render="italic">Naí zemedelkské inteligenci pro zemedelskou a druzstvení práci v Rusku</title>, Printed copy (entire book)</unittitle>
+                            <container id="cid549681" type="Folder" label="Folder">4</container>
+                            <unitdate>1925.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref183" level="otherlevel">
+                        <did>
+                            <unittitle>"Kooperativnoe ob"edinenie kak predpriiatie," 
+                                <title render="italic">Zapiski Russkago Instituta Sel'sko-Khoziaistvennoi Kooperatsii v Pragie, Kniga III</title>, Printed copy (entire book)</unittitle>
+                            <container id="cid549680" type="Folder" label="Folder">5</container>
+                            <unitdate>1925.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref184" level="otherlevel">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Kooperativnoe ob"edinenie kak predpriiatie</title>, Printed copy. Includes clippings of reviews</unittitle>
+                            <container id="cid549679" type="Folder" label="Folder">6</container>
+                            <unitdate>1925.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref185" level="otherlevel">
+                        <did>
+                            <unittitle>"Kooperativnoe ob"edinenie i kartel'," and review of Kiyoshi Ogata, 
+                                <title render="italic">The Co-Operative Movement in Japan</title>, 
+                                <title render="italic">Zapiski Russkago Instituta Sel'sko-Khoziaistvennoi Kooperatsii v Pragie, Kniga IV</title>, Printed copy (entire book)</unittitle>
+                            <container id="cid549678" type="Folder" label="Folder">7</container>
+                            <unitdate>1926.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref186" level="otherlevel">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Kooperativnoe ob"edinenie i kartel'</title>, Printed copy</unittitle>
+                            <container id="cid549677" type="Folder" label="Folder">8</container>
+                            <unitdate>1926.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref187" level="otherlevel">
+                        <did>
+                            <unittitle>"Zakonomiernosti v geograficheskom raspredielenii zemlediel'cheskago kooperativnago dvizheniia," 
+                                <title render="italic">Zapiski Russkago Instituta Sel'sko-Khoziaistvennoi Kooperatsii v Pragie, Kniga V</title>, Printed copy (entire book)</unittitle>
+                            <container id="cid549676" type="Folder" label="Folder">9</container>
+                            <unitdate>1927.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref188" level="otherlevel">
+                        <did>
+                            <unittitle>"Cooperatives," 
+                                <title render="italic">The Russian Student</title>, Printed copy (entire issue)</unittitle>
+                            <container id="cid549675" type="Folder" label="Folder">10</container>
+                            <unitdate>1928 February.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref189" level="otherlevel">
+                        <did>
+                            <unittitle>"Khuver i Smit," 
+                                <title render="italic">Vozrozhdenie</title>, Printed copy</unittitle>
+                            <container id="cid549674" type="Folder" label="Folder">11</container>
+                            <unitdate>1928 August 22.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref190" level="otherlevel">
+                        <did>
+                            <unittitle>"Ptichka," 
+                                <title render="italic">Vozrozhdenie</title>, Printed copy</unittitle>
+                            <container id="cid549673" type="Folder" label="Folder">12</container>
+                            <unitdate>1928 September 19.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref191" level="otherlevel">
+                        <did>
+                            <unittitle>"Pochemu russkie dolzhny golosovat' za Khuvera," 
+                                <title render="italic">Novoe russkoe slovo</title>, Printed copy. Includes background material</unittitle>
+                            <container id="cid549672" type="Folder" label="Folder">13</container>
+                            <unitdate>1928 October 28.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref192" level="otherlevel">
+                        <did>
+                            <unittitle>"Teoreticheskaia postanovka kooperativnoi problemy (Teoriia kooperatsii)," 
+                                <title render="italic">Zapiski Russkago Instituta Sel'sko-Khoziaistvennoi Kooperatsii v Pragie, Kniga VI</title>, Printed copy (entire book)</unittitle>
+                            <container id="cid549671" type="Folder" label="Folder">14</container>
+                            <unitdate>1929.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref193" level="otherlevel">
+                        <did>
+                            <unittitle>"Sel'sko-khoziaistvennaia Rossiia i ee vozmozhnosti," 
+                                <title render="italic">Sovremennik</title>, Printed copy (entire issue)</unittitle>
+                            <container id="cid549670" type="Folder" label="Folder">15</container>
+                            <unitdate>1929 May.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref194" level="otherlevel">
+                        <did>
+                            <unittitle>Speech, untitled, broadcast over WHAP Radio, New York, 1929 November 22, and published in Russian in 
+                                <title render="italic">Khoziain</title>, Typescript. Includes two drafts</unittitle>
+                            <container id="cid549669" type="Folder" label="Folder">16</container>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref195" level="otherlevel">
+                        <did>
+                            <unittitle>"Cooperation in Agriculture," 
+                                <title render="italic">A Systematic Sourcebook in Rural Sociology</title>, vol. II, Typescript and printed copy (offprint)</unittitle>
+                            <container id="cid549668" type="Folder" label="Folder">17</container>
+                            <unitdate>1931.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref196" level="otherlevel">
+                        <did>
+                            <unittitle>"Vybory prezidenta," 
+                                <title render="italic">Vozrozhdenie</title>, Printed copy</unittitle>
+                            <container id="cid549667" type="Folder" label="Folder">18</container>
+                            <unitdate>1932 February 22.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref197" level="otherlevel">
+                        <did>
+                            <unittitle>"Associations Other than Trade Associations," [summary of a projected study], Typescript</unittitle>
+                            <container id="cid549666" type="Folder" label="Folder">19</container>
+                            <unitdate>1939 March 24.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref198" level="otherlevel">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Economic Theory of Cooperation</title>,</unittitle>
+                            <unitdate>1942</unitdate>
+                        </did>
+                        <c04 id="ref199" level="otherlevel">
+                            <did>
+                                <unittitle>Background materials. Includes Charles B. Howe, 
+                                    <title render="italic">Farmers' Cooperation in New Jersey</title>, various government bulletins, reports and circulars</unittitle>
+                                <container id="cid549665" type="Box" label="Box">7</container>
+                                <container parent="cid549665" type="Folder">1</container>
+                                <unitdate>1929,</unitdate>
+                            </did>
+                        </c04>
+                        <c04 id="ref200" level="otherlevel">
+                            <did>
+                                <unittitle>Correspondence, Includes letters to members of dissertation committee and university administration, as well as requests for the book and letters congratulating Emel'ianov on its publication. See also Correspondence/ Agger, E. E., Goodrich, Carter, and Morgan, O. S.</unittitle>
+                                <container id="cid549664" type="Folder" label="Folder">2</container>
+                                <unitdate>1933-1951.</unitdate>
+                            </did>
+                        </c04>
+                        <c04 id="ref201" level="otherlevel">
+                            <did>
+                                <unittitle>Comments by members of dissertation committee and faculty,</unittitle>
+                                <unitdate>1939-1940</unitdate>
+                            </did>
+                            <c05 id="ref202" level="otherlevel">
+                                <did>
+                                    <unittitle>Brissenden, Paul F.</unittitle>
+                                    <container id="cid549663" type="Folder" label="Folder">3</container>
+                                </did>
+                            </c05>
+                            <c05 id="ref203" level="otherlevel">
+                                <did>
+                                    <unittitle>Clark, J. M.</unittitle>
+                                    <container id="cid549662" type="Folder" label="Folder">4</container>
+                                </did>
+                            </c05>
+                            <c05 id="ref204" level="otherlevel">
+                                <did>
+                                    <unittitle>Morgan, O. S.</unittitle>
+                                    <container id="cid549661" type="Folder" label="Folder">5</container>
+                                </did>
+                            </c05>
+                        </c04>
+                        <c04 id="ref205" level="otherlevel">
+                            <did>
+                                <unittitle>Drafts and notes</unittitle>
+                                <container id="cid549660" type="Folder" label="Folder">6</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref206" level="otherlevel">
+                            <did>
+                                <unittitle>Typescript</unittitle>
+                            </did>
+                        </c04>
+                    </c03>
+                </c02>
+                <c02 id="ref207" level="otherlevel">
+                    <did>
+                        <unittitle>Academic career file, 1922-1942. See also Biographical file/Certificates, Curriculum vitae, Diplomas and Letters of Recommendation, as well as Correspondence/Pechkovskii, Mikhail, and Speeches and writings/
+                            <title render="italic">Kooperativnyia organizatsii sredi zemlediel'tsev</title>, 1923, and 
+                            <title render="italic">Economic Theory of Cooperation</title>,</unittitle>
+                        <unitdate>1942</unitdate>
+                    </did>
+                    <c03 id="ref208" level="otherlevel">
+                        <did>
+                            <unittitle>General</unittitle>
+                        </did>
+                        <c04 id="ref209" level="otherlevel">
+                            <did>
+                                <unittitle>Correspondence and materials relating to applications for teaching posts</unittitle>
+                                <container id="cid549659" type="Box" label="Box">8</container>
+                                <container parent="cid549659" type="Folder">1</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref210" level="otherlevel">
+                            <did>
+                                <unittitle>List of courses and examinations taken at University of Derpt (Iur'ev), Kiev Polytechnic Institute, 1904-1907, and Russkii institut sel'sko-khoziaistvennykh nauk, 1923</unittitle>
+                                <container id="cid549658" type="Folder" label="Folder">2</container>
+                                <unitdate>1900-1904,</unitdate>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref211" level="otherlevel">
+                        <did>
+                            <unittitle>Russkii institut sel'sko-khoziaistvennykh nauk,</unittitle>
+                            <unitdate>1922-1923</unitdate>
+                        </did>
+                        <c04 id="ref212" level="otherlevel">
+                            <did>
+                                <unittitle>Notebooks</unittitle>
+                                <container id="cid549657" type="Folder" label="Folder">3</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref213" level="otherlevel">
+                            <did>
+                                <unittitle>Examination books</unittitle>
+                                <container id="cid549656" type="Folder" label="Folder">4</container>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref214" level="otherlevel">
+                        <did>
+                            <unittitle>Rutgers University, Course materials, including examination forms, syllabi, reading lists and notes for courses entitled "Evolution of Economic Forms," "Agricultural Co-Operation" and "Marketing of Farm Products"</unittitle>
+                            <container id="cid549655" type="Folder" label="Folder">5</container>
+                            <unitdate>1927-1933.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref215" level="otherlevel">
+                        <did>
+                            <unittitle>Columbia University,</unittitle>
+                            <unitdate>1932-1942</unitdate>
+                        </did>
+                        <c04 id="ref216" level="otherlevel">
+                            <did>
+                                <unittitle>General. Registration materials</unittitle>
+                                <container id="cid549654" type="Folder" label="Folder">6</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref217" level="otherlevel">
+                            <did>
+                                <unittitle>Examinations and graded works. Consist mainly of graphs and spreadsheets showing economic indicators</unittitle>
+                                <container id="cid549653" type="Folder" label="Folder">7</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref218" level="otherlevel">
+                            <did>
+                                <unittitle>Miscellany. Includes lecture notes, syllabi and reading lists</unittitle>
+                                <container id="cid549652" type="Folder" label="Folder">8</container>
+                            </did>
+                        </c04>
+                    </c03>
+                </c02>
+                <c02 id="ref219" level="otherlevel">
+                    <did>
+                        <unittitle>Civil service career file, May include materials not authored by Emel'ianov or only partly authored by him</unittitle>
+                        <unitdate>1933-1945.</unitdate>
+                    </did>
+                    <c03 id="ref220" level="otherlevel">
+                        <did>
+                            <unittitle>Memoranda,</unittitle>
+                            <container id="cid549651" type="Box" label="Box">9</container>
+                            <container parent="cid549651" type="Folder">1</container>
+                            <unitdate>1938-1942</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref221" level="otherlevel">
+                        <did>
+                            <unittitle>Reports</unittitle>
+                        </did>
+                        <c04 id="ref222" level="otherlevel">
+                            <did>
+                                <unittitle>"On Deconcentration of Economic Mobilization for Defense," Typescript</unittitle>
+                                <container id="cid549650" type="Folder" label="Folder">2</container>
+                                <unitdate>n.d.</unitdate>
+                            </did>
+                        </c04>
+                        <c04 id="ref223" level="otherlevel">
+                            <did>
+                                <unittitle>"Brief Preliminary Survey of Industrial Control and Recovery Measures in Great Britain, Germany, Italy and France," Typescript</unittitle>
+                                <container id="cid549649" type="Folder" label="Folder">3</container>
+                                <unitdate>1935 March.</unitdate>
+                            </did>
+                        </c04>
+                        <c04 id="ref224" level="otherlevel">
+                            <did>
+                                <unittitle>"Textile Industry in the United Kingdom, France, Germany, Italy and Japan," Typescript. Includes draft and related material</unittitle>
+                                <container id="cid549648" type="Folder" label="Folder">4</container>
+                                <unitdate>1936 February.</unitdate>
+                            </did>
+                        </c04>
+                        <c04 id="ref225" level="otherlevel">
+                            <did>
+                                <unittitle>"Evaluation of Reliability of Data on Income Classes of $5,000 and Over in Chicago," Typescript. Includes drafts and supplementary materials</unittitle>
+                                <container id="cid549647" type="Folder" label="Folder">5</container>
+                                <unitdate>1937 October 15.</unitdate>
+                            </did>
+                        </c04>
+                        <c04 id="ref226" level="otherlevel">
+                            <did>
+                                <unittitle>"Work of the Bureau of the Census for National Defense and War Needs," Typescript</unittitle>
+                                <container id="cid549646" type="Folder" label="Folder">6</container>
+                                <unitdate>[1942].</unitdate>
+                            </did>
+                        </c04>
+                        <c04 id="ref227" level="otherlevel">
+                            <did>
+                                <unittitle>"On Coverage of the Survey PD-275," Typescript. Includes notes and draft</unittitle>
+                                <container id="cid549645" type="Folder" label="Folder">7</container>
+                                <unitdate>1942 April 16.</unitdate>
+                            </did>
+                        </c04>
+                        <c04 id="ref228" level="otherlevel">
+                            <did>
+                                <unittitle>"Standard Industrial Classification," Volume I, Mimeograph</unittitle>
+                                <unitdate>1945 June.</unitdate>
+                            </did>
+                            <c05 id="ref229" level="otherlevel">
+                                <did>
+                                    <unittitle>Revised second draft</unittitle>
+                                    <container id="cid549644" type="Folder" label="Folder">8</container>
+                                </did>
+                            </c05>
+                            <c05 id="ref230" level="otherlevel">
+                                <did>
+                                    <unittitle>Final draft</unittitle>
+                                    <container id="cid549643" type="Folder" label="Folder">9</container>
+                                </did>
+                            </c05>
+                        </c04>
+                    </c03>
+                    <c03 id="ref231" level="otherlevel">
+                        <did>
+                            <unittitle>Miscellany. Notes and printed matter</unittitle>
+                            <container id="cid549642" type="Folder" label="Folder">10</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref232" level="otherlevel">
+                    <did>
+                        <unittitle>Subject file,</unittitle>
+                        <unitdate>1920-1941</unitdate>
+                    </did>
+                    <c03 id="ref233" level="otherlevel">
+                        <did>
+                            <unittitle>Agriculture, Cooperative--"Selosoyus" and "Sel'skosoiuz." Includes materials relating to the above organizations and Moskovsky Narodny Bank, collected or produced in the course of Emel'ianov's duties as representative of these organizations abroad,</unittitle>
+                            <unitdate>1920-1922</unitdate>
+                        </did>
+                        <c04 id="ref234" level="otherlevel">
+                            <did>
+                                <unittitle>Charters</unittitle>
+                                <container id="cid549641" type="Box" label="Box">10</container>
+                                <container parent="cid549641" type="Folder">1</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref235" level="otherlevel">
+                            <did>
+                                <unittitle>Correspondence</unittitle>
+                                <container id="cid549640" type="Folder" label="Folder">2</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref236" level="otherlevel">
+                            <did>
+                                <unittitle>Letterbooks. Also include unrelated correspondence and writings, in part materials dealing with the establishment of agricultural cooperative courses in Prague, and the works "Puti russkoi zemlediel'cheskoi kooperatsii" and "K voprosu ob organizatsii miestnago samoupravleniia na Donu," n.d. Holograph</unittitle>
+                                <container id="cid549639" type="Folder" label="Folder">3</container>
+                                <unitdate>1921,</unitdate>
+                            </did>
+                        </c04>
+                        <c04 id="ref237" level="otherlevel">
+                            <did>
+                                <unittitle>Minutes of meetings</unittitle>
+                                <container id="cid549638" type="Folder" label="Folder">4</container>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref238" level="otherlevel">
+                        <did>
+                            <unittitle>Dobrynia-Koniukhov, P. Collection of his writings and scientific sketches</unittitle>
+                            <container id="cid549637" type="Folder" label="Folder">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref239" level="otherlevel">
+                        <did>
+                            <unittitle>Dostoevsky, Fedor. Correspondence and other materials relating to commemoration of anniversary of his birth, Correspondents include Serge Koussevitzky, Pitirim Sorokin, Serge Ughet, G. V. Vernadsky</unittitle>
+                            <container id="cid549636" type="Folder" label="Folder">6</container>
+                            <unitdate>1931.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref240" level="otherlevel">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Khoziain</title> (periodical)</unittitle>
+                            <container id="cid549635" type="Folder" label="Folder">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref241" level="otherlevel">
+                        <did>
+                            <unittitle>Ob"edinennye russkie natsional'nye organizatsii. Minutes of meetings, correspondence and printed matter</unittitle>
+                            <container id="cid549634" type="Folder" label="Folder">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref242" level="otherlevel">
+                        <did>
+                            <unittitle>Obshchestvo dlia vzaimnogo strakhovaniia loshadei. Charter,</unittitle>
+                            <container id="cid549633" type="Folder" label="Folder">9</container>
+                            <unitdate>1920 March 30</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref243" level="otherlevel">
+                        <did>
+                            <unittitle>Obshchestvo druzei russkoi kul'tury. Minutes of meetings,</unittitle>
+                            <container id="cid549632" type="Folder" label="Folder">10</container>
+                            <unitdate>1930</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref244" level="otherlevel">
+                        <did>
+                            <unittitle>Pushkin, Aleksandr. Correspondence and other materials relating to celebrations in his honor,</unittitle>
+                            <container id="cid549631" type="Folder" label="Folder">11</container>
+                            <unitdate>1935-1941</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref245" level="otherlevel">
+                        <did>
+                            <unittitle>Russians--Foreign countries--Organizations. Appeals, bulletins and other matter issued by or relating to various émigré organizations</unittitle>
+                            <container id="cid549630" type="Folder" label="Folder">12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref246" level="otherlevel">
+                        <did>
+                            <unittitle>Russkii institut sel'sko-khoziaistvennoi kooperatsii. Includes minutes of meeting relating to its establishment, See also Subject File/Agriculture, Cooperative/Letterbooks</unittitle>
+                            <container id="cid549629" type="Folder" label="Folder">13</container>
+                            <unitdate>1921 June 30.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref247" level="otherlevel">
+                        <did>
+                            <unittitle>Russkoe sel'sko-khoziaistvennoe obshchestvo. Includes clippings and photograph of members,</unittitle>
+                            <container id="cid549628" type="Folder" label="Folder">14</container>
+                            <unitdate>1938</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref248" level="otherlevel">
+                        <did>
+                            <unittitle>Soiuz "Russkii zemledielets"</unittitle>
+                            <container id="cid549627" type="Folder" label="Folder">15</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref249" level="otherlevel">
+                        <did>
+                            <unittitle>Zavalishin, Boris. Correspondence and printed matter</unittitle>
+                            <container id="cid549626" type="Folder" label="Folder">16</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref250" level="otherlevel">
+                        <did>
+                            <unittitle>Miscellany</unittitle>
+                            <container id="cid549625" type="Folder" label="Folder">17</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref251" level="otherlevel">
+                    <did>
+                        <unittitle>Printed matter,</unittitle>
+                        <unitdate>1896-1944</unitdate>
+                    </did>
+                    <c03 id="ref252" level="otherlevel">
+                        <did>
+                            <unittitle>General and unidentified</unittitle>
+                            <container id="cid549624" type="Folder" label="Folder">18</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref253" level="otherlevel">
+                        <did>
+                            <unittitle>Belgium. Ministère de l'Agriculture et des Travaux Publics, 
+                                <title render="italic">Exposé statistique de la situation des associations d'intérêt agricole pendant l'année 1910</title> (Brussels, 1912); Bilimovich, A. D., 
+                                <title render="italic">K voprosu ob ekonomicheskoi programmie natsional'noi Rossii</title> (Belgrade, 1936); 
+                                <title render="italic">Biulleten' Ekonomicheskogo kabineta prof. S. N. Prokopovicha</title>, #84 (Dec. 1930); Commission pour la Reconstitution de l'Industrie Minière et Métallurgique de la Russie Méridionale, 
+                                <title render="italic">Bulletin</title>, #190-208 (incomplete)</unittitle>
+                            <container id="cid549623" type="Folder" label="Folder">19</container>
+                            <unitdate>(1930-1932)</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref254" level="otherlevel">
+                        <did>
+                            <unittitle>Dvorzhak, L. F., 
+                                <title render="italic">Kooperatsiia v Chekhoslovakii</title> (Prague, 1921); Galtsoff, P. S., 
+                                <title render="italic">Pearl and Hermes Reef, Hawaii, Hydrographical and Biological Observations</title> (Honolulu, 1933); Gsovski, Vladimir, "The Soviet Concept of Law," 
+                                <title render="italic">Fordham Law Review</title>, January 1938; International Institute of Agriculture, 
+                                <title render="italic">An Outline of the European Co-Operative Credit Systems, Second Edition</title> (Rome,</unittitle>
+                            <container id="cid549622" type="Box" label="Box">11</container>
+                            <container parent="cid549622" type="Folder">1</container>
+                            <unitdate>1913)</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref255" level="otherlevel">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Jahrbuch des Reichsverbands der deutschen landwirtschaftlichen Genossenschaften, 1926</title> (Berlin, 1926); Khimshiev, N. V., Prince, 
+                                <title render="italic">O politicheskoi preemstvennosti</title> (Sofia, 1931); Kievskoe tovarishchestvo zapadnykh zemstv, 
+                                <title render="italic">Zemskie banki</title> (Kiev, 1918); Lozovyi, Aleksandr, 
+                                <title render="italic">Sel'sko-khoziaistvennaia kooperatsiia</title> (Moscow, 1923) (missing cover and pp.</unittitle>
+                            <container id="cid549621" type="Folder" label="Folder">2</container>
+                            <unitdate>1-16)</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref256" level="otherlevel">
+                        <did>
+                            <unittitle>Malitskii, N., 
+                                <title render="italic">Kooperatsiia sredi zemlediel'tsev v Bolgarii</title> (Prague, 1922); Marakuev, S. V., 
+                                <title render="italic">Ocherednyia zadachi russkoi kooperatsii</title> (Prague, 1921); Miakotin, V. A., 
+                                <title render="italic">Pereiaslavskii dogovor 1654-go goda </title>(Prague, 1930); Obshcherusskoe ob"edinenie v Amerikie, 
+                                <title render="italic">Plan Organizatsii Prosvietitel'nogo Diela Pri Obshcherusskom Ob"edinenii v Amerikie</title> (Wilkes-Barre, PA, 1931); Prokopovich, P. I., 
+                                <title render="italic">Kooperatsiia v sel'skom khoziaistvie</title> (Prague, 1926); Prokopovich, S. N., 
+                                <title render="italic">Krest"ianskoe khoziaistvo</title> (Berlin,</unittitle>
+                            <container id="cid549620" type="Folder" label="Folder">3</container>
+                            <unitdate>1924)</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref257" level="otherlevel">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Protokol o Rádném Ríském sjedu Republikanské strany Zemedelského a Malorolnického Lidu ve Dnech 7. A 8. Kvetna 1929</title> (Prague, 1929); 
+                                <title render="italic">Russia: Semi-Monthly Magazine</title> (v. 1, #1, 1 October 1944); Shakhmatov, M. V., 
+                                <title render="italic">Opravdanie bogatstva</title> (Paris, 1927); Shvegla, Antonin, 
+                                <title render="italic">Cheloviek i zemlia</title> (Prague 1924); Sorokin, P. A., 
+                                <title render="italic">Ideologiia agrarizma</title> (Prague, 1924); 
+                                <title render="italic">Trudy pervago s"ezda russkikh dieiatelei sel'skago khoziaistva, Vyp. I</title> (Prague,</unittitle>
+                            <container id="cid549619" type="Folder" label="Folder">4</container>
+                            <unitdate>1925)</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref258" level="otherlevel">
+                        <did>
+                            <unittitle>Union Centrale des Syndicats des Agriculteurs de France. Various leaflets and publications,</unittitle>
+                            <container id="cid549618" type="Folder" label="Folder">5</container>
+                            <unitdate>c. 1920-1921</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref259" level="otherlevel">
+                        <did>
+                            <unittitle>Uzefovich, Alexis, "Graphical Determination of the Distance Between Two Given Points on or Near the Surface of the Earth," 
+                                <title render="italic">School Science and Mathematics</title>, v. XXVIII, #9 (Dec. 1928); 
+                                <title render="italic">The Western Frontier of Russia</title> (New York, 1944); Zaitsev, K., "The Agrarian Question in Russia," 
+                                <title render="italic">Journal of Economic and Business History</title>, v. III, #4 (August 1931); Zaitsev, K., "Stroi upravleniia Chekhoslovatskoi respubliki" (excerpt from unidentified periodical); 
+                                <title render="italic">Zeitschrift für Nationalökonomie</title> (Band II, Heft 3, 15 Jan. 1931 - issue devoted to examination of Aleksandr Bilimovich's financial theories); Zvorykin, Nikolai, 
+                                <title render="italic">Propriétaires et paysans russes</title> (Paris,</unittitle>
+                            <container id="cid549617" type="Folder" label="Folder">6</container>
+                            <unitdate>1896)</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref260" level="series">
+                <did>
+                    <unittitle>Nataliia V. Emel'Ianova,</unittitle>
+                    <unitdate>1908-1960</unitdate>
+                </did>
+                <c02 id="ref261" level="otherlevel">
+                    <did>
+                        <unittitle>Biographical file,</unittitle>
+                        <unitdate>1908-1960</unitdate>
+                    </did>
+                    <c03 id="ref262" level="otherlevel">
+                        <did>
+                            <unittitle>Clippings from newspapers about N. V. Emel'ianova,</unittitle>
+                            <container id="cid549616" type="Box" label="Box">12</container>
+                            <container parent="cid549616" type="Folder">1</container>
+                            <unitdate>1934 and undated</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref263" level="otherlevel">
+                        <did>
+                            <unittitle>Curriculum vitae</unittitle>
+                            <container id="cid549615" type="Folder" label="Folder">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref264" level="otherlevel">
+                        <did>
+                            <unittitle>Educational records, 1908-1925. Includes documents from Khar'kov Women's 
+                                <title render="italic">Gimnaziia</title> and Charles University</unittitle>
+                            <container id="cid549614" type="Folder" label="Folder">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref265" level="otherlevel">
+                        <did>
+                            <unittitle>Employment records. Includes application forms and correspondence</unittitle>
+                            <container id="cid549613" type="Folder" label="Folder">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref266" level="otherlevel">
+                        <did>
+                            <unittitle>Letters of recommendation</unittitle>
+                            <container id="cid549612" type="Folder" label="Folder">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref267" level="otherlevel">
+                        <did>
+                            <unittitle>Subject file - New York Academy of Sciences. Correspondence and other matter relating to Emel'ianova's membership</unittitle>
+                            <container id="cid549611" type="Folder" label="Folder">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref268" level="otherlevel">
+                        <did>
+                            <unittitle>Miscellany</unittitle>
+                            <container id="cid549610" type="Folder" label="Folder">7</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref269" level="otherlevel">
+                    <did>
+                        <unittitle>Correspondence, See also IVAN V. EMEL'IANOV for correspondence addressed to both Ivan and Nataliia</unittitle>
+                        <unitdate>1920-1952.</unitdate>
+                    </did>
+                    <c03 id="ref270" level="otherlevel">
+                        <did>
+                            <unittitle>General,</unittitle>
+                            <container id="cid549609" type="Folder" label="Folder">8</container>
+                            <unitdate>1933-1952</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref271" level="otherlevel">
+                        <did>
+                            <unittitle>Unidentified,</unittitle>
+                            <container id="cid549608" type="Folder" label="Folder">9</container>
+                            <unitdate>1920-1938 and undated</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref272" level="otherlevel">
+                        <did>
+                            <unittitle>Alekseeva, E.,</unittitle>
+                            <container id="cid549607" type="Folder" label="Folder">10</container>
+                            <unitdate>1933</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref273" level="otherlevel">
+                        <did>
+                            <unittitle>Bogert, Marston T.,</unittitle>
+                            <container id="cid549606" type="Folder" label="Folder">11</container>
+                            <unitdate>1928-1941</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref274" level="otherlevel">
+                        <did>
+                            <unittitle>Brunst, Viktor Emil'evich,</unittitle>
+                            <container id="cid549605" type="Folder" label="Folder">12</container>
+                            <unitdate>1928</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref275" level="otherlevel">
+                        <did>
+                            <unittitle>Georgievskaia, V.,</unittitle>
+                            <container id="cid549604" type="Folder" label="Folder">13</container>
+                            <unitdate>1927</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref276" level="otherlevel">
+                        <did>
+                            <unittitle>Gerasimenko, P.,</unittitle>
+                            <container id="cid549603" type="Folder" label="Folder">14</container>
+                            <unitdate>1928-1929</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref277" level="otherlevel">
+                        <did>
+                            <unittitle>Heyrovský, J.,</unittitle>
+                            <container id="cid549602" type="Folder" label="Folder">15</container>
+                            <unitdate>1926-1933</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref278" level="otherlevel">
+                        <did>
+                            <unittitle>Ianata (Janata), S.,</unittitle>
+                            <container id="cid549601" type="Folder" label="Folder">16</container>
+                            <unitdate>1935</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref279" level="otherlevel">
+                        <did>
+                            <unittitle>Kalishevskii, A., Includes undated latter from V. Kalishevskaia</unittitle>
+                            <container id="cid549600" type="Folder" label="Folder">17</container>
+                            <unitdate>1936.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref280" level="otherlevel">
+                        <did>
+                            <unittitle>Kay, Lidiia,</unittitle>
+                            <container id="cid549599" type="Folder" label="Folder">18</container>
+                            <unitdate>1933-1936</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref281" level="otherlevel">
+                        <did>
+                            <unittitle>Kolesov, F.,</unittitle>
+                            <container id="cid549598" type="Folder" label="Folder">19</container>
+                            <unitdate>1934 and undated</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref282" level="otherlevel">
+                        <did>
+                            <unittitle>Komitet po sooruzheniiu pamiatnika russkim voinam, pavshim na frantsuzskom frontie, Includes printed matter and photographs of the monument to fallen Russian soldiers on the Western Front of the First World War</unittitle>
+                            <container id="cid549597" type="Folder" label="Folder">20</container>
+                            <unitdate>1936.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref283" level="otherlevel">
+                        <did>
+                            <unittitle>Kondakov, I. L.,</unittitle>
+                            <container id="cid549596" type="Folder" label="Folder">21</container>
+                            <unitdate>1928-1929</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref284" level="otherlevel">
+                        <did>
+                            <unittitle>Kukulevskaia, V.,</unittitle>
+                            <container id="cid549595" type="Folder" label="Folder">22</container>
+                            <unitdate>1933-1938 and undated</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref285" level="otherlevel">
+                        <did>
+                            <unittitle>Mel'nikov, N. (
+                                <title render="italic">Rossiia</title>),</unittitle>
+                            <container id="cid549594" type="Folder" label="Folder">23</container>
+                            <unitdate>1934</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref286" level="otherlevel">
+                        <did>
+                            <unittitle>Morgan, Rose,</unittitle>
+                            <container id="cid549593" type="Folder" label="Folder">24</container>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref287" level="otherlevel">
+                        <did>
+                            <unittitle>Moskova, Olga,</unittitle>
+                            <container id="cid549592" type="Folder" label="Folder">25</container>
+                            <unitdate>1934</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref288" level="otherlevel">
+                        <did>
+                            <unittitle>Nevalonny (Nevalonaja), Anna, Includes photograph of her</unittitle>
+                            <container id="cid549591" type="Folder" label="Folder">26</container>
+                            <unitdate>1933-1934.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref289" level="otherlevel">
+                        <did>
+                            <unittitle>Ototskii, P.,</unittitle>
+                            <container id="cid549590" type="Folder" label="Folder">27</container>
+                            <unitdate>1930-1937</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref290" level="otherlevel">
+                        <did>
+                            <unittitle>Romanov, Maksim,</unittitle>
+                            <container id="cid549589" type="Folder" label="Folder">28</container>
+                            <unitdate>1934</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref291" level="otherlevel">
+                        <did>
+                            <unittitle>Rot, Nadezhda,</unittitle>
+                            <container id="cid549588" type="Folder" label="Folder">29</container>
+                            <unitdate>1927-1934</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref292" level="otherlevel">
+                        <did>
+                            <unittitle>Russkaia akademicheskaia gruppa v Chekhoslovakii,</unittitle>
+                            <container id="cid549587" type="Folder" label="Folder">30</container>
+                            <unitdate>1932</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref293" level="otherlevel">
+                        <did>
+                            <unittitle>Solodovnikov, K.,</unittitle>
+                            <container id="cid549586" type="Folder" label="Folder">31</container>
+                            <unitdate>1921</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref294" level="otherlevel">
+                        <did>
+                            <unittitle>Spolek Pomoci Ruským Detem v CSR,</unittitle>
+                            <container id="cid549585" type="Folder" label="Folder">32</container>
+                            <unitdate>1935</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref295" level="otherlevel">
+                        <did>
+                            <unittitle>Sproge, Wilhelm,</unittitle>
+                            <container id="cid549584" type="Folder" label="Folder">33</container>
+                            <unitdate>1949</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref296" level="otherlevel">
+                        <did>
+                            <unittitle>Vilkov, A.,</unittitle>
+                            <container id="cid549583" type="Folder" label="Folder">34</container>
+                            <unitdate>1930-1936</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref297" level="otherlevel">
+                    <did>
+                        <unittitle>Writings,</unittitle>
+                        <unitdate>1925-1933 and undated</unitdate>
+                    </did>
+                    <c03 id="ref298" level="otherlevel">
+                        <did>
+                            <unittitle>General</unittitle>
+                        </did>
+                        <c04 id="ref299" level="otherlevel">
+                            <did>
+                                <unittitle>Correspondence with 
+                                    <title render="italic">Biological Abstracts</title> regarding Emel'ianova's submissions,</unittitle>
+                                <container id="cid549582" type="Box" label="Box">13</container>
+                                <container parent="cid549582" type="Folder">1</container>
+                                <unitdate>1936-1937</unitdate>
+                            </did>
+                        </c04>
+                        <c04 id="ref300" level="otherlevel">
+                            <did>
+                                <unittitle>Scientific notes</unittitle>
+                                <container id="cid549581" type="Folder" label="Folder">2</container>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref301" level="otherlevel">
+                        <did>
+                            <unittitle>"Analysa kvalitativní," Holograph. Fragmentary Russian text</unittitle>
+                            <container id="cid549580" type="Folder" label="Folder">3</container>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref302" level="otherlevel">
+                        <did>
+                            <unittitle>"Paskha," Typescript. Includes handwritten English translation</unittitle>
+                            <container id="cid549579" type="Folder" label="Folder">4</container>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref303" level="otherlevel">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Researches with the Dropping Mercury Cathode: Nickel and Cobalt</title>, Printed copy</unittitle>
+                            <container id="cid549578" type="Folder" label="Folder">5</container>
+                            <unitdate>1925.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref304" level="otherlevel">
+                        <did>
+                            <unittitle>"The Phenomenon of Maxima Occurring on Polarization Curves of Nickel-Salt Solutions," 
+                                <title render="italic">Bulletin international de l'Académie des Sciences de Bohême</title>, 1927. Printed copy. Includes Czech edition: "Studium maxim na polarisacních krivkách rotoku nikelnatých solí," 
+                                <title render="italic">Rozpravy II. Trídy Ceské Akademie</title>, Printed copy</unittitle>
+                            <container id="cid549577" type="Folder" label="Folder">6</container>
+                            <unitdate>1927.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref305" level="otherlevel">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Maxima on Current-Voltage Curves, Part I</title>, Printed copy</unittitle>
+                            <container id="cid549576" type="Folder" label="Folder">7</container>
+                            <unitdate>1928 May.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref306" level="otherlevel">
+                        <did>
+                            <unittitle>"A New Method for Staining Bacterial Capsules," 
+                                <title render="italic">Proceedings of the Society for Experimental Biology and Medicine</title>, Printed copy</unittitle>
+                            <container id="cid549575" type="Folder" label="Folder">8</container>
+                            <unitdate>1932.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref307" level="otherlevel">
+                        <did>
+                            <unittitle>"Presence of Capsules on 'Non-Capsulated' Microorganisms," 
+                                <title render="italic">Proceedings of the Society for Experimental Biology and Medicine</title>, Printed copy</unittitle>
+                            <container id="cid549574" type="Folder" label="Folder">9</container>
+                            <unitdate>1932.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref308" level="otherlevel">
+                        <did>
+                            <unittitle>"Bacterial Structure with Particular Reference to the Capsule," 
+                                <title render="italic">Proceedings of the Society for Experimental Biology and Medicine</title>, 1932. Printed copy. Includes notice of presentation of above paper at a meeting of the Society for Experimental Biology and Medicine,</unittitle>
+                            <container id="cid549573" type="Folder" label="Folder">10</container>
+                            <unitdate>1932 May 18</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref309" level="otherlevel">
+                        <did>
+                            <unittitle>Translation of an appeal by Countess A. L. Tolstoy, Holograph and typescript</unittitle>
+                            <container id="cid549572" type="Folder" label="Folder">11</container>
+                            <unitdate>1933 January 31.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref310" level="otherlevel">
+                        <did>
+                            <unittitle>"A Study of the Bacterial Capsule by New Methods," (with John W. Churchman), 
+                                <title render="italic">The Journal of Experimental Medicine</title>, Printed copy. Includes typewritten draft and correspondence with co-author John W. Churchman, 1932</unittitle>
+                            <container id="cid549571" type="Folder" label="Folder">12</container>
+                            <unitdate>1933 March 1.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref311" level="otherlevel">
+                        <did>
+                            <unittitle>Miscellany. Jottings, drafts, and fragments of translations (I. A. Bunin's "Boginia" and a story by Dostoevsky)</unittitle>
+                            <container id="cid549570" type="Folder" label="Folder">13</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref312" level="otherlevel">
+                    <did>
+                        <unittitle>Printed matter. Includes miscellaneous clippings as well as scientific articles by Emel'ianova's associates, John W. Churchman, P. Herasymenko (Gerasimenko), J. Heyrovský, I. Kondakov and others</unittitle>
+                        <container id="cid549569" type="Folder" label="Folder">14</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref313" level="series">
+                <did>
+                    <unittitle>Photographs,</unittitle>
+                    <unitdate>c. 1921-1940s</unitdate>
+                </did>
+                <c02 id="ref314" level="otherlevel">
+                    <did>
+                        <unittitle>Albums</unittitle>
+                    </did>
+                    <c03 id="ref315" level="otherlevel">
+                        <did>
+                            <unittitle>General</unittitle>
+                        </did>
+                        <c04 id="ref316" level="otherlevel">
+                            <did>
+                                <unittitle>Groups and individuals associated primarily with Prague period</unittitle>
+                                <container id="cid549568" type="Box" label="Box">14</container>
+                                <container parent="cid549568" type="Folder">1</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref317" level="otherlevel">
+                            <did>
+                                <unittitle>Unidentified individuals, groups and landscapes</unittitle>
+                                <container id="cid549567" type="Folder" label="Folder">2</container>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref318" level="otherlevel">
+                        <did>
+                            <unittitle>"Horni Cernoice, "</unittitle>
+                            <container id="cid549566" type="Folder" label="Folder">3</container>
+                            <unitdate>1924</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref319" level="otherlevel">
+                    <did>
+                        <unittitle>Ivan V. Emel'ianov, including his funeral</unittitle>
+                        <container id="cid549565" type="Folder" label="Folder">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref320" level="otherlevel">
+                    <did>
+                        <unittitle>Nataliia V. Emel'ianova</unittitle>
+                        <container id="cid549564" type="Folder" label="Folder">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref321" level="otherlevel">
+                    <did>
+                        <unittitle>Nataliia V. Emel'ianova and associates in her research laboratory (Prague)</unittitle>
+                        <container id="cid549563" type="Folder" label="Folder">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref322" level="otherlevel">
+                    <did>
+                        <unittitle>The Emel'ianovs together and with unidentified individuals</unittitle>
+                        <container id="cid549562" type="Folder" label="Folder">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref323" level="otherlevel">
+                    <did>
+                        <unittitle>Groups associated with the Russkii institut sel'sko-khoziaistvennoi kooperatsii, Prague</unittitle>
+                        <container id="cid549561" type="Folder" label="Folder">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref324" level="otherlevel">
+                    <did>
+                        <unittitle>Shindler, Camille Gavrilovich and Eliaveta Afanes'evna, including the latter's funeral,</unittitle>
+                        <container id="cid549560" type="Folder" label="Folder">9</container>
+                        <unitdate>1927</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref325" level="otherlevel">
+                    <did>
+                        <unittitle>Miscellaneous and unidentified individuals, include Vasilii Benzin, Ivan Pavlov, and others</unittitle>
+                        <container id="cid549559" type="Folder" label="Folder">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref326" level="otherlevel">
+                    <did>
+                        <unittitle>Vacation photos, landscapes, houses, solar eclipse and other</unittitle>
+                        <container id="cid549558" type="Folder" label="Folder">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref327" level="otherlevel">
+                    <did>
+                        <unittitle>Negatives and glass plates</unittitle>
+                        <container id="cid549557" type="Folder" label="Folder">12</container>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

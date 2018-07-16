@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style_1.xsl"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  
+  
+  
+  
+  
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" repositoryencoding="iso15511" findaidstatus="unverified-full-draft" langencoding="iso639-2b"><eadid countrycode="us" identifier="ark:/13030/ft409n99mm" mainagencycode="CSt" publicid="PUBLIC &quot;-//Stanford University::Libraries::Dept. of Special Collections::Manuscripts Division//TEXT (US::CSt::M1171::James Alexander Houston Incoming correspondence)//EN&quot; &quot;m1171.sgm&quot;">m1171.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Guide to the James Alexander Houston Incoming correspondence, <date calendar="gregorian" era="ce" type="inclusive">1845-1849</date></titleproper><titleproper type="filing">Houston (James A.) Incoming correspondence</titleproper>
+        <author>Processed by Special Collections staff; machine-readable finding aid created by Steven Mandeville-Gamble.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Department of Special Collections</publisher>
+        <address>
+          <addressline>Green Library</addressline>
+          <addressline>Stanford University Libraries</addressline>
+          <addressline>Stanford, CA 94305-6004 </addressline>
+          <addressline>Phone: (650) 725-1022</addressline>
+          <addressline>Email: specialcollections@stanford.edu</addressline>
+          <addressline>URL: http://library.stanford.edu/spc/</addressline>
+        </address>
+        <date calendar="gregorian" era="ce">&#xA9; 2002</date>
+        <p>The Board of Trustees of Stanford University. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc><profiledesc>
+      <creation>Machine-readable finding aid derived from FileMaker Pro database.
+Date of source: <date calendar="gregorian" era="ce">Unknown.</date></creation>
+      <langusage>Finding aid is written in <language>English.</language></langusage>
+    </profiledesc><revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//Stanford University::Libraries::Dept. of Special Collections::Manuscripts Division//TEXT (US::CSt::M1171::James Alexander Houston Incoming correspondence)//EN" "m1171.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Guide to the James Alexander Houston Incoming correspondence, <date calendar="gregorian" era="ce" type="inclusive">1845-1849</date></titleproper>
+      <num>Collection number: M1171</num>
+      <publisher>Department of Special Collections and University Archives
+<lb/>Stanford University Libraries
+<lb/>Stanford, California</publisher>
+      <list type="simple">
+        <head>Contact Information</head>
+        <item>Department of Special Collections</item>
+        <item>Green Library</item>
+        <item>Stanford University Libraries</item>
+        <item>Stanford, CA 94305-6004 </item>
+        <item>Phone: (650) 725-1022</item>
+        <item>Email: specialcollections@stanford.edu</item>
+        <item>URL: http://library.stanford.edu/spc/</item>
+      </list>
+      <list type="deflist">
+        <defitem>
+          <label>Processed by: </label>
+          <item>Special Collections staff</item>
+        </defitem>
+        <defitem>
+          <label>Encoded by: </label>
+          <item>Steven Mandeville-Gamble</item>
+        </defitem>
+      </list>
+      <p>&#xA9; 2002 The Board of Trustees of Stanford University. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection">
+    <did id="did-1.8.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">Houston, James Alexander. Incoming correspondence, </unittitle><unitdate calendar="gregorian" era="ce" type="inclusive">1845-1849</unitdate>
+      <unitid label="Collection number" countrycode="US" repositorycode="CSt">M1171</unitid>
+      <origination label="Creator">
+        <persname source="lcnaf">Houston, James Alexander.</persname>
+      </origination>
+      <physdesc label="Extent">
+        <extent>.5 linear ft.</extent>
+        <extent>(1 manuscript box)</extent>
+      </physdesc>
+      <repository label="Repository">
+        <corpname source="lcnaf">Stanford University. Libraries. Dept. of Special Collections and University Archives.</corpname>
+      </repository>
+      <abstract label="Abstract">The collection includes incoming letters sent to James Alexander Houston, a medical doctor, the son and brother of Irish clergymen, and an emigrant from Ireland to the United States before 1845. Familiar with the Pitman method of stenography, Houston reported for both New York and Washington, D.C., newspapers. He had good friends in the American and Foreign Anti-Slavery Society, including Gamaliel Bailey and Louis Tappan.</abstract>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <descgrp id="descgrp-1.8.2" type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict>
+        <head>Access Restrictions</head>
+        <p>None.</p>
+      </accessrestrict>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>Property rights reside with the repository. Literary rights
+reside with the creators of the documents or their heirs. To
+obtain permission to publish or reproduce, please contact the
+Public Services Librarian of the Dept. of Special Collections.</p>
+      </userestrict>
+      <acqinfo>
+        <head>Acquisition Information</head>
+        <p>Gift of Robert Letts Jones, 1975.</p>
+      </acqinfo>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>James Alexander Houston Incoming correspondence. M1171. Dept. of Special Collections, Stanford University Libraries, Stanford, Calif.</p>
+      </prefercite>
+    </descgrp>
+    <bioghist id="bioghist-1.8.3">
+      <head>Biography</head>
+      <p>Much of what we know of this interesting man must be deduced from the letters he received from 1845 to 1849, and from resorting to the Encyclopedia Britannica. From the former source, we know, for example, that he was a medical doctor, the son and brother of Irish clergymen, and an emigr&#xE9; from Ireland to the United States during some period before 1845. We also know that he was married, with sub-teen children, a Presbyterian, and adept at shorthand. A curious combination, a medical man who knew shorthand. But not so curious if a bit of the history of shorthand is noted.
+According to the Encyclopedia Britannica, various schemes for shorthand date from Greco-Roman times to modern times, including Shelton's system, which was used by Samuel Pepys in his Diaries of 1660. However, stenography reached its developmental zenith in England in the nineteenth century with the publication of Isaac Pitman's method in 1837, which swept the British Isles and America, as well. One of its early uses was the verbatim transcription of clerical sermons for publication. Another was verbatim reporting for newspapers of the day.
+It was little wonder then that Houston found more work as a shorthand reporter than as Assistant Surgeon of the New York State Militia.
+The concession of vast amounts of land to the United States after the Mexican War (1848) rekindled the slavery question. Newly elected President Polk, whose views were expressed by the Union newspaper in Washington, D.C., publicly urged Congress to create Oregon, New Mexico, and California as territories, whereupon anti-slavery Congressmen persuaded Democratic Congressman David Wilmot, from Pennsylvania to add an amendment to a $2 million appropriation bill for boundary settlement. The "Wilmot Proviso" stipulated that slavery should not exist in any part of the territory acquired by the United States as a result of the Mexican War. Several times the House passed the amendment but it failed in the Senate. Yet it stimulated active debate between slavery proponents and anti-slavery forces. Throughout the electric days of 1846-47, Houston, the official Stenographer to the U. S. Senate, was kept busy reporting and publishing them in Houston's Journal. Testimonials to his ability and accuracy rained on Houston from Congressmen and the leading eastern newspapers of the day.
+Dr. Houston also found work on the New York Herald, founded in 1845. In Washington D. C., he reported for the Union, for George Gideon's Republic , and the Era, where he became close friends with its publisher, Gamaliel Bailey. The Era was the organ of the American and Foreign Anti-Slavery Society, which began publication in 1844. Houston was also a friend of Louis Tappan, a major figure in anti-slavery ranks and a publisher (co-founder with is brother Arthur of the Journal of Commerce in 1827, and the Emancipator in 1833).
+Houston divided his time between between Washington and New York depending on the sessions of the Senate, moving in the circles of well known individuals of his time and place-political figures, judges, publishers. However, something seems to have occurred at the end of 1849, when he moves out of the Era offices one step ahead of the sheriff who arrives to attach his belongings for what appears to be a debt. He goes back to New York (see letter of December 12, 1849, from James W. Simonton). Perhaps his debt was settled , for the last letters of 1849, have him successfully applying to George Gideon for work to be sent to Washington D. C.</p>
+    </bioghist>
+    <scopecontent id="scopecontent-1.8.4">
+      <head>Collection Scope and Content Summary</head>
+      <p>The collection mainly contains letters to James Alexander Houston from 1845-1849, with a few published testimonials, and autographs of Horace Greeley, George Gideon, Charles A. Dana, and one or two others. The letters are arranged in numerical sequence for the years 1845 to 1949, and by day and month within the sequence of years. A fairly large number of the letters are undated and are filed at the end, with some dates suggested from the context of the letters. All letters are indexed and synopsized.</p>
+    </scopecontent>
+    <controlaccess id="controlaccess-1.8.5">
+      <head>Access Terms</head>
+      <p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+      <persname source="lcnaf" encodinganalog="600" role="subject">Bailey, Gamaliel.</persname>
+      <persname source="lcnaf" encodinganalog="600" role="subject">Tappan, Louis.</persname>
+      <corpname source="lcnaf" encodinganalog="610" role="subject">American and Foreign Anti-Slavery Society.</corpname>
+      <geogname source="lcsh" encodinganalog="651">United States--History--1815-1861.</geogname>
+    </controlaccess>
+    <dsc id="dsc-1.8.6" type="combined">
+      <head>Collection Contents</head>
+      <c01 id="c01-1.8.6.2" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">1</container>
+          <unittitle>Henry Morris, Washington D.C., to James A. Houston (JAH), in care of the New York Herald.<unitdate calendar="gregorian" era="ce">1843 Apr.</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Please accept more money.  The amount enclosed is according to Mr. "S's" orders.  Sent to JAH with assurance that Mr.Bennett would see that JAH received the letter.</p>
+        </scopecontent>
+        <controlaccess>
+          <persname>Morris, Henry</persname>
+          <persname>Bennett,[James Gordon]</persname>
+          <corpname>New York Herald</corpname>
+        </controlaccess>
+      </c01>
+      <c01 id="c01-1.8.6.3" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">2</container>
+          <unittitle>William [Inche ?], New York, to JAH in care of N.Y. Herald office<unitdate calendar="gregorian" era="ce">1845 Feb. 3</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Inche, a friend, asks JAH to find him a job. He is at the Alms House, Bellevue, N.Y.</p>
+        </scopecontent>
+        <controlaccess>
+          <persname>Inche, William</persname>
+          <corpname>New York Herald</corpname>
+        </controlaccess>
+      </c01>
+      <c01 id="c01-1.8.6.4" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>[J. A. Houston?]<unitdate calendar="gregorian" era="ce">1845  Dec. 19</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Partial note</p>
+        </scopecontent>
+        <controlaccess>
+          <persname>[J.A Houston ?]</persname>
+        </controlaccess>
+      </c01>
+      <c01 id="c01-1.8.6.5" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">4</container>
+          <unittitle>Henry [Thompson?] to JAH<unitdate calendar="gregorian" era="ce">1846 July 10</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>He will prepare remarks on "Graduation Bill" for the Union.</p>
+        </scopecontent>
+        <controlaccess>
+          <persname>[Thompson?], Henry</persname>
+          <corpname>The Union</corpname>
+        </controlaccess>
+      </c01>
+      <c01 id="c01-1.8.6.6" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">5</container>
+          <unittitle>J. C. Houston,Ballymena, Ireland, to JAH<unitdate calendar="gregorian" era="ce">1846, July 23</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Mixed longhand and shorthand pertaining to family matters.</p>
+          <p>Added note in unknown hand "Dr J A Houston had three brothers, John Clarke, Gareth, [both} clergymen, Robert, was a Captain of Marines, U.S. Navy. [JAh] had one sister, Eliza Jane.</p>
+        </scopecontent>
+        <controlaccess>
+          <persname>Houston, J. C.</persname>
+        </controlaccess>
+      </c01>
+      <c01 id="c01-1.8.6.7" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">6</container>
+          <unittitle>W. Hunt, House of Representatives, to JAH<unitdate calendar="gregorian" era="ce">1847 Feb. 4</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Testimonial to JAH's transcription ability.</p>
+        </scopecontent>
+        <controlaccess>
+          <persname>Hunt, W.</persname>
+          <corpname>House of Reprentatives</corpname>
+        </controlaccess>
+      </c01>
+      <c01 id="c01-1.8.6.8" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">7</container>
+          <unittitle>C. J. Ingersole, House of Representatives, to JAH.<unitdate calendar="gregorian" era="ce">1847 Feb, 4</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Testimonial to JAH's transcription abililty</p>
+          <p>Added note in unknown hand says Ingersole was a U.S. Senator  [U. S. Concressman ?} and former Governor of Connecticut.</p>
+        </scopecontent>
+        <controlaccess>
+          <persname>Ingersole, C. J.</persname>
+          <corpname>House of Reprsentatives</corpname>
+        </controlaccess>
+      </c01>
+      <c01 id="c01-1.8.6.9" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">8</container>
+          <unittitle>M. S. Payne, Rep Hall, to JAH<unitdate calendar="gregorian" era="ce">1847 Feb. 4</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Testimonial to JAH's transcription ability.</p>
+          <p>Added note in an unknown hand, 'Ohio.'</p>
+        </scopecontent>
+        <controlaccess>
+          <persname>Payne, M. S.</persname>
+        </controlaccess>
+      </c01>
+      <c01 id="c01-1.8.6.10" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">9</container>
+          <unittitle>George Aikman, House of Representatives, to JAH<unitdate calendar="gregorian" era="ce">1847 Feb. 4</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Testimonial to JAh's transcrition ability.</p>
+        </scopecontent>
+        <controlaccess>
+          <persname>Aikman, George</persname>
+          <corpname>House of Representatives</corpname>
+        </controlaccess>
+      </c01>
+      <c01 id="c01-1.8.6.11" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">10</container>
+          <unittitle>Ben E. Green, Wahington D. C., to JAH, as "Reporter for The Union"<unitdate calendar="gregorian" era="ce">1847 Feb. 25</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Green understands JAH is being considered for shorthand reportial functions for the Senate, but calls JAH's attention to the mistakes in a recent transcription of his speech in  the Union, relative to "Mr. Marks. Asks that they be corrected in tonight'sUnion or he will be obliged to tell the Senate that JAH is not to be depended on.</p>
+        </scopecontent>
+        <controlaccess>
+          <persname>Green, Ben E.</persname>
+          <corpname>The Union newspaper</corpname>
+        </controlaccess>
+      </c01>
+      <c01 id="c01-1.8.6.12" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">11</container>
+          <unittitle>G. B. Bailey, Washington, D. C., to JAH<unitdate calendar="gregorian" era="ce">1847 Mar. 28</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Instructs JA H to send a weekly letter/editorial to the Era.</p>
+        </scopecontent>
+        <controlaccess>
+          <persname>Bailey, G. B.</persname>
+          <corpname>The Era newspaper</corpname>
+        </controlaccess>
+      </c01>
+      <c01 id="c01-1.8.6.13" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">12</container>
+          <unittitle>G. Bailey, Washington  D. C., to JAH<unitdate calendar="gregorian" era="ce">1847 April 16</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Commends JAH on his letters to the Era.</p>
+        </scopecontent>
+        <controlaccess>
+          <persname>Bailey, G.</persname>
+          <corpname>The Era</corpname>
+        </controlaccess>
+      </c01>
+      <c01 id="c01-1.8.6.14" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">13</container>
+          <unittitle>R. C. Wetmore to JAH , Broadway [NY ?]<unitdate calendar="gregorian" era="ce">1847 Apr. 21</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Please call for money due on charges for reporting the "Festival."  Thanks very much.</p>
+        </scopecontent>
+        <controlaccess>
+          <persname>Wetmore, R. C.</persname>
+        </controlaccess>
+      </c01>
+      <c01 id="c01-1.8.6.15" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">14</container>
+          <unittitle>G. Bailey, Washington, D. C., to JAH<unitdate calendar="gregorian" era="ce">1847 Jun. 3</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Bailey is pleased with letter for the Era from JAH.  How would JAH like to do a column for the Era ?</p>
+        </scopecontent>
+        <controlaccess>
+          <persname>Bailey, G</persname>
+          <corpname>The Era newspaper</corpname>
+        </controlaccess>
+      </c01>
+      <c01 id="c01-1.8.6.16" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">15</container>
+          <unittitle>J. Marshall, New York, to JAH<unitdate calendar="gregorian" era="ce">1847 Jun 7</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>The Graenfenberg Health Manual  is delayed and will not be published until some later time.</p>
+        </scopecontent>
+        <controlaccess>
+          <corpname>Graefenberg Company, 50 Broadway, New York</corpname>
+        </controlaccess>
+      </c01>
+      <c01 id="c01-1.8.6.17" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">15</container>
+          <unittitle>J. Marshall, New York, to JAH<unitdate calendar="gregorian" era="ce">1847 Jun 7</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Qwing to a temporary misunderstanding we have to delay the publication of the Graefenberg Health Manual.</p>
+        </scopecontent>
+        <controlaccess>
+          <persname>Marshall, J. </persname>
+          <corpname>Graefenberg Company, 50 Broadway, New York</corpname>
+          <corpname>Graefenberg Heath Manual</corpname>
+        </controlaccess>
+      </c01>
+      <c01 id="c01-1.8.6.18" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">16</container>
+          <unittitle>Clarke Houston, Ballybarkey, Ireland,to JAH, "Stenographer to U.S. Senate"<unitdate calendar="gregorian" era="ce">1847 Aug. 24</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Clarke Houston [father of James Alexander Houston] writes of family matters. Also reccomends "Mr. Peake", and hopes JAH can be of service to Mr Peake. </p>
+        </scopecontent>
+        <controlaccess>
+          <persname>Houston, Clarke</persname>
+          <corpname>The Era newspaper</corpname>
+        </controlaccess>
+      </c01>
+      <c01 id="c01-1.8.6.19" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">18</container>
+          <unittitle>Eliza Houston, Ballymena, Ireland, to JAH <unitdate calendar="gregorian" era="ce">1847 Aug 25</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Family matters</p>
+          <p>Added in unknown hand: " J's mother"</p>
+        </scopecontent>
+        <controlaccess>
+          <persname>Houston, Eliza</persname>
+        </controlaccess>
+      </c01>
+      <c01 id="c01-1.8.6.20" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">19</container>
+          <unittitle>Simon Harker, Liverpool, to JAH<unitdate calendar="gregorian" era="ce">1847 Sept. 3</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Harker saw JAH's ad in The Union for a reporter for the next session of the U. S. Senate, and wants to apply.  Cites his qualifications.</p>
+        </scopecontent>
+        <controlaccess>
+          <persname>Harker, Simon</persname>
+          <corpname>The Union newspaper</corpname>
+          <corpname>thr Liverpool Journal</corpname>
+        </controlaccess>
+      </c01>
+      <c01 id="c01-1.8.6.21" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">20</container>
+          <unittitle>W.W. Veaho, Ballymena, Ireland, to JAH <unitdate calendar="gregorian" era="ce">1847 Sept. 3</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Asks JAH to help his son, Henry, if he comes to America.</p>
+        </scopecontent>
+        <controlaccess>
+          <persname>Henry Veaho</persname>
+        </controlaccess>
+      </c01>
+      <c01 id="c01-1.8.6.22" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">21</container>
+          <unittitle>Thomas DeWitt, New York, to JAH<unitdate calendar="gregorian" era="ce">1847 Oct. 30</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>States that his sermon does not represent the discourse as delivered. Phraseaology is different.  But h;e considers it well done in "full sketch." </p>
+        </scopecontent>
+        <controlaccess>
+          <subject>New York, settlement by Dutch, 1624.</subject>
+          <subject>Sermons in Dutch and in English.</subject>
+        </controlaccess>
+      </c01>
+      <c01 id="c01-1.8.6.23" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">22</container>
+          <unittitle>Prosper Wetmore, New York, to JAH<unitdate calendar="gregorian" era="ce">1847 Dec. 13</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Wetmore says he is sorry not to have answered JAH's letter before.  Is happy to be of service.  Does not know what vacancies exist [in the Navy ?], but JAH  can probably find out from the Navy Department. </p>
+          <p>Added note in unknown hand says Wetmore is the U.S. Navy agent for  the Nicaragua Steamship Line. </p>
+        </scopecontent>
+        <controlaccess>
+          <corpname>Nicaragua Steamship Line</corpname>
+        </controlaccess>
+      </c01>
+      <c01 id="c01-1.8.6.24" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">23</container>
+          <unittitle>John C. Fitzpatrick to JAH, "reporter to the U.S. Senate."<unitdate calendar="gregorian" era="ce">1847 Dec. 24</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p> Fitzpatrick makes an index of the sessions  of the Senate.for JAH.  For a "consideration" he will make a copy for JAH</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.8.6.25" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">24</container>
+          <unittitle>W. L. Shuttleworth, Washington D. C. (U.S. Hotel), to JAH<unitdate calendar="gregorian" era="ce">1848 Jan 8</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>He is returning JAH's shawl.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.8.6.26" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">25</container>
+          <unittitle>D. Pope.New York, to JAH.<unitdate calendar="gregorian" era="ce">1848 Jan 15</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Discusses the cost of various papers in various amounts.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.8.6.27" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">26</container>
+          <unittitle>Charles E. Ball to JAH<unitdate calendar="gregorian" era="ce">1848 Jan. 20</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Salutation calls JAH "Bro. Houston."  Writer sends JAH "rough sketch" of proceedings of Disrict 10, presumably for publication.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.8.6.28" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">27</container>
+          <unittitle>John Clarke Houston, Newcastle-on-Tyne, to JAH<unitdate calendar="gregorian" era="ce">1848 Feb. 16</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>John Clarke Houston, JAH's brother, discusses family matters. Refers to "Joseph" and their brother, Robert.  Mentions JAH is to visit them soon.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.8.6.29" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">28</container>
+          <unittitle>Hon. James W. Bradbury to William Johnson.<unitdate calendar="gregorian" era="ce">1848 March 9</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Writer wishes to know, from JAH, answers to questions on how many words he can write in a minute while "following a speaker," what amount of practic is needed to reach that level of proficiency, can a shorthand manuscript be used with the same facility as it it were written, and what are the comparative merits of stenography and phonography, and which does JAH use ?</p>
+          <p>Added note in unknown hand says that either James W. Bradbury [or Wm T. Johnson] is from Middlesex Connecticut,  is a law reporter ( 1770 to 1848), and is on the Supreme Court. </p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.8.6.30" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">29</container>
+          <unittitle>Mr [Steit ?] to JAH<unitdate calendar="gregorian" era="ce">1848 March 22</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Testamonial to his ability evidenced in recent report.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.8.6.31" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">30</container>
+          <unittitle>? , Cincinnatti, to JAH<unitdate calendar="gregorian" era="ce">1848 Jun. 26</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Regrets JAH did not attend convention. "It has decided Ohio against Taylor."  Slavery versus anti-slavery politics discussion.</p>
+        </scopecontent>
+        <controlaccess>
+          <persname>Zachary Taylor</persname>
+          <persname> Martin Van Buren</persname>
+          <subject>Slavery</subject>
+          <subject>Anti-slavery</subject>
+          <subject>Ohio</subject>
+        </controlaccess>
+      </c01>
+      <c01 id="c01-1.8.6.32" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">31</container>
+          <unittitle>[Henry ?] O'Riellly,Washington, to JAH<unitdate calendar="gregorian" era="ce">1848 Jul. 30</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Please accept the enclosed certificates.</p>
+        </scopecontent>
+        <controlaccess>
+          <corpname>Telegraph System</corpname>
+        </controlaccess>
+      </c01>
+      <c01 id="c01-1.8.6.33" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">32</container>
+          <unittitle>G. B. Moss, Washington D.C. , to JAH at Brown's Hotel<unitdate calendar="gregorian" era="ce">1848 Oct. 12</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Pleae arramge to buy writer the "London Encyclopedia (English edition)".  Get it for $25 or less.  Writer will send JAH a draft on H. O'Rielly.</p>
+        </scopecontent>
+        <controlaccess>
+          <corpname>Thomas Cowperthwaite, Philadelphia</corpname>
+        </controlaccess>
+      </c01>
+      <c01 id="c01-1.8.6.34" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">33</container>
+          <unittitle>W. A. Kennedy, Washington, D. C., to JAH<unitdate calendar="gregorian" era="ce">1848 Oct. 27</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Don't pay your recent foreman, "Wilkinson", as he is in debt to writer. He also appropriated money from "Laurens" also in JAH employee, and used it for his own use.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.8.6.35" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">34</container>
+          <unittitle>G. Bailey, Washington D. C., to JAH<unitdate calendar="gregorian" era="ce">1848 Nov.7</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Discussion of money owed and accounting matters.</p>
+        </scopecontent>
+        <controlaccess>
+          <corpname>The Era newspaper</corpname>
+        </controlaccess>
+      </c01>
+      <c01 id="c01-1.8.6.36" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">35</container>
+          <unittitle>Joseph W.Dennis, New York, to G. Bailey<unitdate calendar="gregorian" era="ce">1848 Nov. 9</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Charged JAH for more bundles of papers that the man got from JAH</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.8.6.37" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">36</container>
+          <unittitle>S,.D. Figham, New Hope, to JAH, Washington D.C.<unitdate calendar="gregorian" era="ce">1848 Nov 20</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Thank you for the U.S. Senate report.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.8.6.38" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="folder" type="Folder">37</container>
+          <unittitle>David [ Sessions?], to JAH.<unitdate calendar="gregorian" era="ce">1848 Nov. 24</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Am sending another manuscript.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.8.6.39" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">38</container>
+          <unittitle>James W, Simonton, Washington, to JAH<unitdate calendar="gregorian" era="ce">1848 Dec. 12</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Simonton reports that Mt. Rives says "Wheeler &amp; Miles need no help until after the holidays. " Fowler &amp; Leeds have no engagement."  "The Union has contracted with M. Parkhurst of Boston." Simonton "has done his best to remove prejudice against you in Washington."  He will dispose of JAH's thing from the Era office.  He offers his services to JAH.</p>
+          <p>Added note in an unknown hand states Simonton is a noted newsman of the time.</p>
+        </scopecontent>
+        <controlaccess>
+          <persname>Wheeler and Miles</persname>
+          <persname>Fowler and Leeds</persname>
+          <persname>M. Parkhurst</persname>
+          <corpname>The Union newspaper</corpname>
+          <corpname>The Era newspaper</corpname>
+        </controlaccess>
+      </c01>
+      <c01 id="c01-1.8.6.40" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">39</container>
+          <unittitle>Anthony [Bantery?]New York, to JAH<unitdate calendar="gregorian" era="ce">1848 Dec. 14 </unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Writer will come late to New York Scottish Guard Ball.</p>
+        </scopecontent>
+        <controlaccess>
+          <corpname>New York Scottish Guard</corpname>
+        </controlaccess>
+      </c01>
+      <c01 id="c01-1.8.6.41" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">40</container>
+          <unittitle>G.B Moss, Washington, D. C., to JAH</unittitle>
+        </did>
+        <scopecontent>
+          <p>Writer is certain that their differences can be ironed out in an interview.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.8.6.42" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">41</container>
+          <unittitle>James W. Simonton, Washinton, D. C., to JAH<unitdate calendar="gregorian" era="ce">1848 Dec. 31</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>All of JAH's books will be sent by express to New York.  Writer will send accounts and disbursements.  Please write if you are disposed to.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.8.6.43" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">42</container>
+          <unittitle>G. Bailey, Washington D.C., to JAH<unitdate calendar="gregorian" era="ce">[?,?] 1848</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>A sheriff came to the office to attach JAH's things.  Wilkinson had eloped with Henry's money, and is now in New York City , at Mckay, 120 Prince Street. Bailey has guaranteed everything till JAH comes or answers at once.  JAH's documents are in danger. JAH also ows bailey $191.  The draft will reach Bailey at the Merchants Bank, New York.</p>
+        </scopecontent>
+        <controlaccess>
+          <persname>Wilkinson</persname>
+          <corpname>The Era newspaper</corpname>
+        </controlaccess>
+      </c01>
+      <c01 id="c01-1.8.6.44" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">43</container>
+          <unittitle> JAH Accounts, January to September, 1848<unitdate calendar="gregorian" era="ce">1848</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>List of JAH accounts re paper and labor, January to September 1848</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.8.6.45" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">44</container>
+          <unittitle>Thomas Macaulay, Belfast, Ireland, to JAH</unittitle>
+          <physdesc>1849 Jan 12</physdesc>
+        </did>
+        <scopecontent>
+          <p>Chides JAH jocularly for having "repeatedly neglected to show me any kindness."  Congraulates JAH on his work. Says Francis Finlay, the Whig. . . "speaks very harshly of Bennett" who, in a visit to Ireland, "allowed himself to be rejected by [ John] O'Connell."</p>
+        </scopecontent>
+        <controlaccess>
+          <persname>[James Gordon] Bennett]</persname>
+          <persname>Francis Finlay</persname>
+          <persname>[John] O'Connell</persname>
+          <corpname>The New York Herald</corpname>
+        </controlaccess>
+      </c01>
+      <c01 id="c01-1.8.6.46" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">45</container>
+          <unittitle>William C. Lantzinger , Washington D.C., to JAH<unitdate calendar="gregorian" era="ce">1849 February 9</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Remarks that a Couriers Passport would not do much for JAH.  The rules for individuals bearing despatches are strict about proceeding directly to the destination.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.8.6.47" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">46</container>
+          <unittitle>John Bryant, Washington D.C., to JAH, New York<unitdate calendar="gregorian" era="ce">1849 Mar 15</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>John Bryant, Jr., Treasurer of the 4th Presbyterian Church,  writes JAH notifying him that he is in arrears in his pew rent.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.8.6.48" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">47</container>
+          <unittitle>Charles  B. Spicer, Colonel, New York , to JAH Lexington Ave and 26th Street, New York<unitdate calendar="gregorian" era="ce">1849 Mar 14</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Regimental order naming James Alexander Houston to be Assistant Surgeon of the Second Regiment, New York State Milita.</p>
+          <p>Note in unknown hand names the Adjutant signing the order to be William [Postty?], and makes mention that [Eugene Alex ?]</p>
+          <p>Houston was commissioned by Governor Cleveland to be Assist. Surgeon of 4th [__?__] Co. , N. Y. S. N. Y., 1880</p>
+        </scopecontent>
+        <controlaccess>
+          <persname>William C. [Postty ?]</persname>
+          <corpname>New York State Militia, Second Regiment</corpname>
+        </controlaccess>
+      </c01>
+      <c01 id="c01-1.8.6.49" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">48</container>
+          <unittitle>H. M. Garland, Jr., Baltimore, to JAH, Washington D.C.<unitdate calendar="gregorian" era="ce">1849 Mar 16</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>In the interest of speeding up work he may move his office to Washington,D. C. which is at the end of the "Northern Line" and the end of the "Southern Line" [telegraph line ?].  Could he not join JAH as a reporter from either Washington or Baltimore for the next session of Congress?</p>
+        </scopecontent>
+        <controlaccess>
+          <corpname>America [Packet Ship]</corpname>
+          <corpname>The New York Herald</corpname>
+        </controlaccess>
+      </c01>
+      <c01 id="c01-1.8.6.50" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">49</container>
+          <unittitle>G. Bailey, Washington, D.C., to JAH. <unitdate calendar="gregorian" era="ce">1849  Apr 4</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Writer asks if JAH is going to Europe this spring, and has he decided the that the writer can do JAH's work in his absence ?</p>
+        </scopecontent>
+        <controlaccess>
+          <corpname>The Era newspaper</corpname>
+        </controlaccess>
+      </c01>
+      <c01 id="c01-1.8.6.51" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">50</container>
+          <unittitle>David [Seveves ?], Washinton, D. C. to JAH<unitdate calendar="gregorian" era="ce">1849 May 24 </unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Informs JAH that the suit is won in Lee vs Houston, and renders his bill.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.8.6.52" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">51</container>
+          <unittitle>S. B. Wylie, Philadelphia, to JAH<unitdate calendar="gregorian" era="ce">1849  May 29</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p> Friend of JAH"s father requests JAH intercede to arrange for discharge of an Irish boy, Samuel Smith, who joined the marines and now wants a discharge/</p>
+        </scopecontent>
+        <controlaccess>
+          <persname>Hugh Smith</persname>
+          <persname>Samuel Smith</persname>
+        </controlaccess>
+      </c01>
+      <c01 id="c01-1.8.6.53" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">52</container>
+          <unittitle>Geo A. Gideon, Washington D. C., to JAH. New York<unitdate calendar="gregorian" era="ce">1849 Jun 5</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Writer requests JAH to tell him what he expects to pay for "a letter every day "?  Hurry, "we commence on June 13."</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.8.6.54" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">53</container>
+          <unittitle>Geo. A. Gideon, Washington D. C., to JAH<unitdate calendar="gregorian" era="ce">1849 Jun 9</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Writer accepts terms ($10/week) and, "you must give us the first letter for Wednesdaty morning's paper so it must reach here by Tuesday evening."</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.8.6.55" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">54</container>
+          <unittitle>Wm. C. Lantzinger to JAH, New York<unitdate calendar="gregorian" era="ce">1849 Jun 22</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>JAH in arrears for membership of Masonic Lodge.  Writer placed JAh's case before members and was selected to arrange application for JAH to renew his membership.</p>
+        </scopecontent>
+        <controlaccess>
+          <corpname>Masonic Lodge, New York</corpname>
+        </controlaccess>
+      </c01>
+      <c01 id="c01-1.8.6.56" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">55</container>
+          <unittitle>Geo A. Gideon, Washington D. C., to JAH, New York<unitdate calendar="gregorian" era="ce">1849 Jun 28</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Gideon reminds JAH not to forget the steamship letter.  Plus Gideon sends him a check for his letters.</p>
+        </scopecontent>
+        <controlaccess>
+          <corpname>The Republic newspaper</corpname>
+        </controlaccess>
+      </c01>
+      <c01 id="c01-1.8.6.57" level="file">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">56</container>
+          <unittitle>Greeley, Horace, New York, to Russell Sturgis, London<unitdate calendar="gregorian" era="ce">1858 Jun 14</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>Horace Greeley of the New York Tribune introduces friends W.E, Robinson and R. M. Mellis who will visit "on a mission of the 'highest respectability.</p>
+        </scopecontent>
+        <controlaccess>
+          <corpname>[B________?] Brothers, London, England</corpname>
+          <corpname>New York Tribune</corpname>
+        </controlaccess>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

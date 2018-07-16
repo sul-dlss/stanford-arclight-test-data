@@ -1,0 +1,961 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  
+  
+  
+  
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" repositoryencoding="iso15511" findaidstatus="edited-full-draft" langencoding="iso639-2b"><eadid countrycode="us" identifier="ark:/13030/tf1n39n4q2" mainagencycode="CSt-H" publicid="PUBLIC &quot;-//Stanford University::Hoover Institution Archives//TEXT&#10;(US::CSt-H::::Elie Abel Papers)//EN&quot; &quot;abele.sgm&quot;">abele.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Register of the Elie Abel Papers, <date calendar="gregorian" era="ce">1941-1978</date></titleproper><titleproper type="filing">Abel (Elie) Papers</titleproper>
+        <author>Processed by D. Kincaid</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Hoover Institution Archives</publisher>
+        <address>
+          <addressline>Stanford University</addressline>
+          <addressline>Stanford, California 94305-6010</addressline>
+          <addressline>Phone: (650) 723-3563</addressline>
+          <addressline>Fax: (650) 725-3445</addressline>
+          <addressline>Email: hooverarchives@stanford.edu</addressline>
+        </address>
+        <date calendar="gregorian" era="ce">&#xA9; 1999</date>
+        <p>Hoover Institution Archives. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc><profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data Services, 
+<date calendar="gregorian" era="ce">February 1999</date></creation>
+      <langusage>Description is in <language langcode="eng" scriptcode="latn">English</language></langusage>
+    </profiledesc><revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20110223">February 23, 2011</date>
+        <item>revised to update encoding and add unitid </item>
+      </change>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//Stanford University::Hoover Institution Archives//TEXT
+(US::CSt-H::::Elie Abel Papers)//EN" "abele.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Register of the Elie Abel Papers, <date calendar="gregorian" era="ce">1941-1978</date></titleproper>
+      <publisher>Hoover Institution Archives
+<lb/>Stanford University
+<lb/>Stanford, California</publisher>
+      <list type="simple">
+        <head>Contact Information</head>
+        <item>Hoover Institution Archives</item>
+        <item>Stanford University</item>
+        <item>Stanford, California 94305-6010</item>
+        <item>Phone: (650) 723-3563</item>
+        <item>Fax: (650) 725-3445</item>
+        <item>Email: hooverarchives@stanford.edu</item>
+      </list>
+      <list type="deflist">
+        <defitem>
+          <label>Processed by: </label>
+          <item>D. Kincaid</item>
+        </defitem>
+        <defitem>
+          <label>Date Completed: </label>
+          <item>1987</item>
+        </defitem>
+      </list>
+      <p>&#xA9; 1999 Hoover Institution Archives. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection">
+    <did id="did-1.7.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">Elie Abel Papers, </unittitle>
+	<unitdate calendar="gregorian" era="ce" type="inclusive" normal="1941/1978">1941-1978</unitdate>
+<unitid label="Collection number" repositorycode="CSt-H" countrycode="US">84035</unitid>
+      <origination label="Creator">
+        <persname source="lcnaf" rules="aacr2">Abel, Elie</persname>
+      </origination>
+      <physdesc label="Collection Size" encodinganalog="300$a">
+		<extent>8 manuscript boxes, 1 oversize box </extent>
+		<extent>(3.75 linear feet)</extent>
+	</physdesc>
+      <repository label="Repository">
+        <corpname>Hoover Institution Archives</corpname>
+        <address>
+          <addressline>Stanford, California 94305-6010</addressline>
+        </address>
+      </repository>
+      <abstract label="Abstract">Speeches and writings, radio and television broadcast transcripts, correspondence, and printed matter, relating to world politics and to the press.  Includes photocopies of drafts of and correspondence relating to the book by E. Abel, <title render="italic">The Missile Crisis </title>(1966).  Also includes drafts of the book by E. Abel and W. Averell Harriman, <title render="italic">Special Envoy to Churchill and Stalin, 1941-1946 </title>(1975); letters and memoranda by Harriman; and photocopies of wartime dispatches to Harriman, all used in writing the book.</abstract>
+<physloc label="Physical Location">Hoover Institution Archives</physloc>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <descgrp id="descgrp-1.7.2" type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict>
+        <head>Access</head>
+        <p>Collection open for research.</p>
+      </accessrestrict>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>For copyright status, please contact
+the Hoover Institution Archives.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Elie Abel Papers, [Box no.], Hoover Institution
+Archives.</p>
+      </prefercite>
+    </descgrp>
+    <controlaccess id="controlaccess-1.7.3">
+      <head>Access Points</head>
+      <subject>Journalism--United States.</subject>
+      <subject>World politics--1945-</subject>
+      <subject>World War, 1939-1945.</subject>
+      <subject>World War, 1939-1945--Diplomatic history.</subject>
+      <subject>World War, 1939-1945--United States.</subject>
+      <geogname>United States--Foreign relations.</geogname>
+      <occupation source="lcsh">Journalists.</occupation>
+      <subject>Cuban Missile Crisis, 1962.</subject>
+      <geogname>Cuba.</geogname>
+    </controlaccess>
+    <bioghist id="bioghist-1.7.4">
+      <head>Biographical Note</head>
+      <chronlist>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1920, Oct. 17</date>
+          <event>Born, Montreal, Quebec, Canada</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1941</date>
+          <event>Reporter, <title render="italic">Windsor (Ontario) Star</title></event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1945-1946</date>
+          <event>Assistant City Editor, <title render="italic">Montreal Gazette</title></event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1946-1947</date>
+          <event>Foreign Correspondent, North American Newspaper Alliance, Berlin, Germany</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1947-1949</date>
+          <event>United Nations Correspondent, Overseas News Agency</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1949-1959</date>
+          <event>Washington Correspondent and Foreign Correspondent, <title render="italic">New York Times</title></event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1959-1961</date>
+          <event>Washington Bureau Chief, <title render="italic">Detroit News</title></event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1965-1967</date>
+          <event>London Bureau Chief, NBC</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1966</date>
+          <event>Author, <title render="italic">The Missile Crisis</title></event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1967-1969</date>
+          <event>Diplomatic Correspondent, NBC News, Washington</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1969-1979</date>
+          <event>Godfrey Lowell Cabot Professor, Columbia University, N.Y.C. <lb/>Dean, Graduate School of Journalism, Columbia University, N.Y.C.</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1971</date>
+          <event>Author (with Marvin Kalb), <title render="italic">Roots of Involvement: The U.S. in Asia, 1784-1971</title></event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1975</date>
+          <event>Author (with Averell Harriman), <title render="italic">Special Envoy to Churchill and Stalin, 1941-1946</title></event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1979-</date>
+          <event>Harry and Norman Chandler Professor, Stanford University, California</event>
+        </chronitem>
+      </chronlist>
+    </bioghist>
+    <dsc id="dsc-1.7.6" type="in-depth">
+      <head>Container List</head>
+      <c01 id="c01-1.7.6.2" level="series">
+        <did>
+          <unittitle>BIOGRAPHICAL FILE, <unitdate calendar="gregorian" era="ce">1955-1977</unitdate></unittitle>
+          <container type="Box">Box 1</container>
+        </did>
+        <scopecontent>
+          <p>Clippings and miscellany relating to the life of Elie Abel, arranged alphabetically by form.</p>
+        </scopecontent>
+        <c02 id="c02-1.7.6.2.2">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">1</container>
+            <unittitle>Clippings, <unitdate calendar="gregorian" era="ce">1955-1977</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.3">
+          <did>
+            <container type="Folder">2</container>
+            <unittitle>Inventory and appraisal of Abel manuscript materials and correspondence, <unitdate calendar="gregorian" era="ce">1969</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.6.3" level="series">
+        <did>
+          <unittitle>SPEECHES AND WRITINGS, <unitdate calendar="gregorian" era="ce">1952-1978</unitdate></unittitle>
+          <container type="Box">Boxes 1-4</container>
+        </did>
+        <scopecontent>
+          <p>Drafts and printed copies of books, articles, speeches, lectures, and book reviews by Elie Abel, with correspondence, notes, research materials and reviews relating to them, arranged chronologically by date of publication or writing.</p>
+        </scopecontent>
+        <c02 id="c02-1.7.6.3.2">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">3</container>
+            <unittitle>General. Clippings, photocopies of others' writings, handwritten notes, most likely used in the drafting of speeches. Topics restricted to freedom of speech, academia</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.3">
+          <did>
+            <container type="Folder">4</container>
+            <unittitle>Draft for article or speech, <unitdate calendar="gregorian" era="ce">n.d.</unitdate>
+Relates to Robert McNamara. Typescript</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.4">
+          <did>
+            <container type="Folder">5</container>
+            <unittitle>Notes for article or speech, <unitdate calendar="gregorian" era="ce">n.d.</unitdate>
+Relates to John Foster Dulles background session, Geneva, <unitdate calendar="gregorian" era="ce">November 2, 1955.</unitdate>
+Typescript</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.5">
+          <did>
+            <container type="Folder">6</container>
+            <unittitle>Speech, <unitdate calendar="gregorian" era="ce">n.d.</unitdate>
+Relates to postwar Britain, and Common Market. Typescript. Fragment?</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.6">
+          <did>
+            <container type="Folder">7</container>
+            <unittitle>Speeches, <unitdate calendar="gregorian" era="ce">n.d.</unitdate>
+Typescript and handwritten notes on index cards. Fragments?</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.7">
+          <did>
+            <container type="Folder">8</container>
+            <unittitle>Valparaiso Law Day Speech, <unitdate calendar="gregorian" era="ce">n.d.</unitdate>
+Typescript</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.8">
+          <did>
+            <container type="Folder">9</container>
+            <unittitle><title linktype="simple" render="doublequote">Tank Output Lags 6 Months; 2 New Types 'Unacceptable', </title><title render="italic">New York Times, </title><unitdate calendar="gregorian" era="ce">January 6, 1952.</unitdate>
+Printed copy</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.9">
+          <did>
+            <container type="Folder">10</container>
+            <unittitle><title linktype="simple" render="doublequote">Defective Tanks Pile Up in Depots, </title><title render="italic">New York Times, </title><unitdate calendar="gregorian" era="ce">January 7, 1952.</unitdate>
+Printed copy</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.10">
+          <did>
+            <container type="Folder">11</container>
+            <unittitle><title linktype="simple" render="doublequote">Portrait of 'Decontrol Charlie' Wilson, </title><title render="italic">New York Times Magazine, </title><unitdate calendar="gregorian" era="ce">December 14, 1952.</unitdate>
+Printed copy</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.11">
+          <did>
+            <container type="Folder">12</container>
+            <unittitle><title linktype="simple" render="doublequote">U.S. Short of Artillery Shells To Sustain Big Korea Drive, </title><title render="italic">New York Times, </title><unitdate calendar="gregorian" era="ce">February 21, 1953.</unitdate>
+Printed copy</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.12">
+          <did>
+            <container type="Folder">13</container>
+            <unittitle><title linktype="simple" render="doublequote">Army Overcoming Dearth of Shells, </title><title render="italic">New York Times, </title><unitdate calendar="gregorian" era="ce">February 22, 1953.</unitdate>
+Printed copy</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.13">
+          <did>
+            <container type="Folder">14</container>
+            <unittitle><title linktype="simple" render="doublequote">U.N. Still Too Short of Shells to Start Korea Drive, </title><title render="italic">Detroit Free Press, </title><unitdate calendar="gregorian" era="ce">February 22, 1953.</unitdate>
+Printed copy</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.14">
+          <did>
+            <container type="Folder">15</container>
+            <unittitle><title linktype="simple" render="doublequote">What Can We Expect From the Next Summit Conference?, </title>speech, The Economic Club of Detroit, <unitdate calendar="gregorian" era="ce">November 16, 1959.</unitdate>
+Typescript. Includes printed copy of <title render="italic">Detroit News </title>announcement, review of speech and letter to editor, <unitdate calendar="gregorian" era="ce">November 16, 17, 1959.</unitdate>
+Includes program</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.15">
+          <did>
+            <container type="Folder">16</container>
+            <unittitle>Speech, Windsor Rotary Club, <unitdate calendar="gregorian" era="ce">January 8, 1960.</unitdate>
+Typescript</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.16">
+          <did>
+            <container type="Folder">17</container>
+            <unittitle><title linktype="simple" render="doublequote">World at the Summit, </title><title render="italic">Detroit News, </title><unitdate calendar="gregorian" era="ce">May 15, 1960.</unitdate>
+Printed copy</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.17">
+          <did>
+            <container type="Folder">18</container>
+            <unittitle><title linktype="simple" render="doublequote">Kennedy After 8 Months is Tempered by Adversity, </title><title render="italic">Detroit News?, </title><unitdate calendar="gregorian" era="ce">1961?</unitdate>
+Printed copy. Includes telex copy, <unitdate calendar="gregorian" era="ce">September 19, 1961;</unitdate>
+correspondence with Muller, C., <unitdate calendar="gregorian" era="ce">1961?</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.18">
+          <did>
+            <container type="Folder">19</container>
+            <unittitle>Review of Milovan Djilas, <title render="italic">Montenegro, Reporter, </title><unitdate calendar="gregorian" era="ce">November 7, 1963.</unitdate>
+Printed copy</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.19">
+          <did>
+            <unittitle>
+              <title render="italic">The Missile Crisis, </title>
+              <unitdate calendar="gregorian" era="ce">1966</unitdate>
+            </unittitle>
+          </did>
+          <c03 id="c03-1.7.6.3.19.2">
+            <did>
+              <container type="Folder">20</container>
+              <unittitle>General. Handwritten and typewritten notes. Printed matter by others. Notes of W. Averell Harriman and Eugene McCarthy talk</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.3.19.3">
+            <did>
+              <unittitle>
+                <title render="italic">Abel vs ABC et al.</title>
+              </unittitle>
+            </did>
+            <c04 id="c04-1.7.6.3.19.3.2">
+              <did>
+                <container type="Folder">21</container>
+                <unittitle>Clippings, <unitdate calendar="gregorian" era="ce">1974-1975</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.19.3.3">
+              <did>
+                <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce">1974-1978</unitdate></unittitle>
+              </did>
+              <c05 id="c05-1.7.6.3.19.3.3.2">
+                <did>
+                  <unittitle>Abel</unittitle>
+                </did>
+                <c06 id="c06-1.7.6.3.19.3.3.2.2">
+                  <did>
+                    <container type="Folder">22</container>
+                    <unittitle>Covington &amp; Burling, <unitdate calendar="gregorian" era="ce">1976</unitdate></unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.3.19.3.3.2.3">
+                  <did>
+                    <container type="Folder">23</container>
+                    <unittitle>Hall, Dickler, Lawler, Kent &amp; Howley, <unitdate calendar="gregorian" era="ce">1975-1978.</unitdate>
+Includes photocopy of opinion for <title render="italic">Meeropol vs Nizer et al.; </title>J.B. Lippincott Co. royalty statements <unitdate calendar="gregorian" era="ce">1966-1972</unitdate></unittitle>
+                  </did>
+                </c06>
+              </c05>
+              <c05 id="c05-1.7.6.3.19.3.3.3">
+                <did>
+                  <unittitle>Other, arranged by sender</unittitle>
+                </did>
+                <c06 id="c06-1.7.6.3.19.3.3.3.2">
+                  <did>
+                    <container type="Folder">24</container>
+                    <unittitle>Paul R. Reynolds, Inc., <unitdate calendar="gregorian" era="ce">1974-1975</unitdate></unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.3.19.3.3.3.3">
+                  <did>
+                    <container type="Folder">25</container>
+                    <unittitle>Hall, Dickler, Lawler, Kent &amp; Howley, <unitdate calendar="gregorian" era="ce">1976</unitdate></unittitle>
+                  </did>
+                </c06>
+              </c05>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.3.19.4">
+            <did>
+              <container type="Folder">26</container>
+              <unittitle>Clippings, <unitdate calendar="gregorian" era="ce">1966-1968</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.3.19.5">
+            <did>
+              <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce">1968-1977</unitdate></unittitle>
+            </did>
+            <c04 id="c04-1.7.6.3.19.5.2">
+              <did>
+                <container type="Folder">27</container>
+                <unittitle>Paul R. Reynolds, Inc., <unitdate calendar="gregorian" era="ce">1968, 1977.</unitdate>
+Includes photocopy of copyright registration</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.19.5.3">
+              <did>
+                <container type="Folder">28</container>
+                <unittitle>Wisch, Steve, <unitdate calendar="gregorian" era="ce">1975</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.3.19.6">
+            <did>
+              <unittitle>Reviews and promotional material, <unitdate calendar="gregorian" era="ce">1966</unitdate></unittitle>
+            </did>
+            <c04 id="c04-1.7.6.3.19.6.2">
+              <did>
+                <container type="Folder">29</container>
+                <unittitle>English. Printed copies</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.19.6.3">
+              <did>
+                <container type="Folder">30</container>
+                <unittitle>French. Printed copy</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.19.6.4">
+              <did>
+                <container type="Folder">31</container>
+                <unittitle>German. Printed copy</unittitle>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.3.20">
+          <did>
+            <container type="Folder">32</container>
+            <unittitle>The Press at Bay, 1970,
+ Guild Memorial Lecture, University of Minnesota, <unitdate calendar="gregorian" era="ce">October 15, 1970.</unitdate>
+Typescript. Includes photocopy with annotations</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.21">
+          <did>
+            <container type="Folder">33</container>
+            <unittitle>Speech, University of Deleware, <unitdate calendar="gregorian" era="ce">January 12, 1971.</unitdate>
+Letter of thanks, and review only</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.22">
+          <did>
+            <container type="Folder">34</container>
+            <unittitle>Ferris Lecture, Woodrow Wilson School of Public and International Affairs, Princeton University, <unitdate calendar="gregorian" era="ce">April 6, 1971.</unitdate>
+Typescript. Fragment?</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.23">
+          <did>
+            <unittitle>
+              <title render="italic">Roots of Involvement: The U.S. in Asia, 1784-1971, </title>
+              <unitdate calendar="gregorian" era="ce">1971</unitdate>
+            </unittitle>
+          </did>
+          <c03 id="c03-1.7.6.3.23.2">
+            <did>
+              <container type="Folder">35</container>
+              <unittitle>Clipping, <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.3.23.3">
+            <did>
+              <container type="Folder">36</container>
+              <unittitle>Correspondence. W.W. Norton &amp; Co. Inc., <unitdate calendar="gregorian" era="ce">1976.</unitdate>
+In form of royalty statement for <unitdate calendar="gregorian" era="ce">1975-1976</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.3.23.4">
+            <did>
+              <container type="Folder">37</container>
+              <unittitle>Reviews, <unitdate calendar="gregorian" era="ce">1971-1972</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.3.24">
+          <did>
+            <container type="Folder">38</container>
+            <unittitle>Speech, The National Association of FM Broadcasters in Chicago, <unitdate calendar="gregorian" era="ce">April 8, 1972.</unitdate>
+Typescript</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.25">
+          <did>
+            <container type="Box">2</container>
+            <unittitle>
+              <title render="italic">Special Envoy to Churchill and Stalin, </title>
+              <unitdate calendar="gregorian" era="ce">1975</unitdate>
+            </unittitle>
+          </did>
+          <c03 id="c03-1.7.6.3.25.2">
+            <did>
+              <unittitle>General</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.3.25.2.2">
+              <did>
+                <container type="Folder">1</container>
+                <unittitle>Notes for speech on the writing of <title render="italic">Special Envoy, </title>Corcoran Gallery, <unitdate calendar="gregorian" era="ce">May 10, 1976</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.25.2.3">
+              <did>
+                <container type="Folder">2</container>
+                <unittitle>Author resume, book proposals, book outline, photo captions, Random House author's questionnaire, draft of Random House announcement of <title render="italic">Special Envoy</title></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.25.2.4">
+              <did>
+                <container type="Folder">3</container>
+                <unittitle>Notes, typewritten and handwritten</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.25.2.5">
+              <did>
+                <container type="Folder">4</container>
+                <unittitle>Research materials not to be found in Harriman correspondence below: photocopies of addresses, classified telegrams, correspondence, recollections, excerpts from books, most of which relevant to Harriman's tenure of <unitdate calendar="gregorian" era="ce">1941-1945</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.25.2.6">
+              <did>
+                <container type="Folder">5</container>
+                <unittitle>Partial drafts of Chapters II, VIII, XIII, XXI. Typescript</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.25.2.7">
+              <did>
+                <container type="Folder">6</container>
+                <unittitle>Index, draft and master</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.25.2.8">
+              <did>
+                <container type="Folder">7-9</container>
+                <unittitle>Setting copy</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.25.2.9">
+              <did>
+                <container type="Box">3</container>
+                <container type="Folder">1-2</container>
+                <unittitle>Setting copy</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.3.25.3">
+            <did>
+              <container type="Folder">3</container>
+              <unittitle>Clippings, <unitdate calendar="gregorian" era="ce">1972-1976</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.3.25.4">
+            <did>
+              <unittitle>Correspondence</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.3.25.4.2">
+              <did>
+                <unittitle>Abel</unittitle>
+              </did>
+              <c05 id="c05-1.7.6.3.25.4.2.2">
+                <did>
+                  <container type="Folder">4</container>
+                  <unittitle>Unidentified, <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.2.3">
+                <did>
+                  <container type="Folder">5</container>
+                  <unittitle>Abrahamsen, David, <unitdate calendar="gregorian" era="ce">1975</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.2.4">
+                <did>
+                  <container type="Folder">6</container>
+                  <unittitle>Balk, Albert, <unitdate calendar="gregorian" era="ce">1975</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.2.5">
+                <did>
+                  <container type="Folder">7</container>
+                  <unittitle>Berger, Marilyn, <unitdate calendar="gregorian" era="ce">1974</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.2.6">
+                <did>
+                  <container type="Folder">8</container>
+                  <unittitle>Brennan, Pat, <unitdate calendar="gregorian" era="ce">1975</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.2.7">
+                <did>
+                  <container type="Folder">9</container>
+                  <unittitle>Bundy, McGeorge, <unitdate calendar="gregorian" era="ce">1976</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.2.8">
+                <did>
+                  <container type="Folder">10</container>
+                  <unittitle>Bernays, Edward L., <unitdate calendar="gregorian" era="ce">1973</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.2.9">
+                <did>
+                  <container type="Folder">11</container>
+                  <unittitle>Clurman, Richard M., <unitdate calendar="gregorian" era="ce">1975</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.2.10">
+                <did>
+                  <container type="Folder">12</container>
+                  <unittitle>Cook, Don, <unitdate calendar="gregorian" era="ce">1976</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.2.11">
+                <did>
+                  <container type="Folder">13</container>
+                  <unittitle>Erickson, Michael E., <unitdate calendar="gregorian" era="ce">1977</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.2.12">
+                <did>
+                  <container type="Folder">14</container>
+                  <unittitle>Forrestal, Michael V., <unitdate calendar="gregorian" era="ce">1974, 1975.</unitdate>
+Includes photocopy of correspondence with Dillon, Clarence, <unitdate calendar="gregorian" era="ce">1974</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.2.13">
+                <did>
+                  <container type="Folder">15</container>
+                  <unittitle>Graff, Henry F., <unitdate calendar="gregorian" era="ce">1975</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.2.14">
+                <did>
+                  <unittitle>Harriman, W. Averell, <unitdate calendar="gregorian" era="ce">1972-1977.</unitdate>
+These are largely of Harriman recollections and remarks on chapters written. Several contain research materials and photocopies of others' correspondence</unittitle>
+                </did>
+                <c06 id="c06-1.7.6.3.25.4.2.14.2">
+                  <did>
+                    <container type="Folder">16</container>
+                    <unittitle><unitdate calendar="gregorian" era="ce">n.d.</unitdate>
+Includes photocopy of printed book review, and Harriman remarks on Chapters I, II</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.3.25.4.2.14.3">
+                  <did>
+                    <container type="Folder">17</container>
+                    <unittitle><unitdate calendar="gregorian" era="ce">1972.</unitdate>
+Includes agreement signed by Abel and Harriman with conditions and stipulations of enterprise</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.3.25.4.2.14.4">
+                  <did>
+                    <container type="Folder">18</container>
+                    <unittitle>
+                      <unitdate calendar="gregorian" era="ce">1973</unitdate>
+                    </unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.3.25.4.2.14.5">
+                  <did>
+                    <container type="Folder">19</container>
+                    <unittitle><unitdate calendar="gregorian" era="ce">1974.</unitdate>
+Includes correspondence with Berger, Samuel D. (includes photocopy of Berger, Samuel D. and Kerr, Alexander C., <title linktype="simple" render="doublequote">Dock Labour Situation in British Ports, </title>May 1942); 
+Manning, Robert</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.3.25.4.2.14.6">
+                  <did>
+                    <container type="Box">4</container>
+                    <container type="Folder">1</container>
+                    <unittitle><unitdate calendar="gregorian" era="ce">1975.</unitdate>
+Includes correspondence with Bruce, David; The Century Association, <unitdate calendar="gregorian" era="ce">n.d.;</unitdate>
+Galbraith, John Kenneth; Harriman, Edward Henry, <unitdate calendar="gregorian" era="ce">1909;</unitdate>
+Harriman, Mary. <unitdate calendar="gregorian" era="ce">n.d.;</unitdate>
+Knopf, Alfred A.; Korbonski, Stefan; Meiklejohn, Robert P., (includes selected diary entries of <unitdate calendar="gregorian" era="ce">1945); </unitdate>McCloy, John J.; <title render="italic">TV Guide. </title>Includes photocopy of Shvernik tribute to President Roosevelt at opening of Supreme Soviet, <unitdate calendar="gregorian" era="ce">1945;</unitdate>
+photocopies of newspaper clippings of Harriman as poloist, <unitdate calendar="gregorian" era="ce">1928</unitdate></unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.3.25.4.2.14.7">
+                  <did>
+                    <container type="Folder">2</container>
+                    <unittitle><unitdate calendar="gregorian" era="ce">1976.</unitdate>
+Includes correspondence with Bullard, Julian; Butterton, Meredith L.; Curley, Walter J. P.; Eaker, Ira C. (includes photocopy of Eaker's review); Fedynskyj, Jurij; Hughes-Onslow, Neil; Kahn, Irving; Paul R. Reynolds, Inc., <unitdate calendar="gregorian" era="ce">1977</unitdate>
+(includes copy of contract for German publication); Random House; Sherwin, Martin J.; Sinsheimer, Bernard; Van Devander, Charles, <unitdate calendar="gregorian" era="ce">1977;</unitdate>
+Ward, Geoffrey (includes galley of Mee, Charles L., Jr., <title linktype="simple" render="doublequote">The Cold War). </title>Includes photocopies of proposed contract for British publication rights; translation of review in <title render="italic">Literaturnaya Gazeta, </title><unitdate calendar="gregorian" era="ce">Jan. 21, 1976;</unitdate>
+photocopy of review in <title render="italic">The Annals of the American Academy of Political and Social Science, </title><unitdate calendar="gregorian" era="ce">1976</unitdate></unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.3.25.4.2.14.8">
+                  <did>
+                    <container type="Folder">3</container>
+                    <unittitle><unitdate calendar="gregorian" era="ce">1977.</unitdate>
+Includes correspondence with Van Devander, Charles</unittitle>
+                  </did>
+                </c06>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.2.15">
+                <did>
+                  <container type="Folder">4</container>
+                  <unittitle>Holbrooke, Richard, <unitdate calendar="gregorian" era="ce">1975</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.2.16">
+                <did>
+                  <container type="Folder">5</container>
+                  <unittitle>Kalb, Marvin, <unitdate calendar="gregorian" era="ce">1975</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.2.17">
+                <did>
+                  <container type="Folder">6</container>
+                  <unittitle>Kempner, Marshall S., <unitdate calendar="gregorian" era="ce">1976</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.2.18">
+                <did>
+                  <container type="Folder">7</container>
+                  <unittitle>Kendall, David W., <unitdate calendar="gregorian" era="ce">1976</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.2.19">
+                <did>
+                  <container type="Folder">8</container>
+                  <unittitle>Knopf, Alfred A., <unitdate calendar="gregorian" era="ce">1975</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.2.20">
+                <did>
+                  <container type="Folder">9</container>
+                  <unittitle>Lasky, Melvin J., <unitdate calendar="gregorian" era="ce">1976</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.2.21">
+                <did>
+                  <container type="Folder">10</container>
+                  <unittitle>Lowenfeld, Andreas F., <unitdate calendar="gregorian" era="ce">1976</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.2.22">
+                <did>
+                  <container type="Folder">11</container>
+                  <unittitle>Mahoney, Florence, <unitdate calendar="gregorian" era="ce">1975</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.2.23">
+                <did>
+                  <container type="Folder">12</container>
+                  <unittitle>Manning, Robert, <unitdate calendar="gregorian" era="ce">1972-1974</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.2.24">
+                <did>
+                  <container type="Folder">13</container>
+                  <unittitle>Meier, Charles S., <unitdate calendar="gregorian" era="ce">1972-1975.</unitdate>
+Includes memorandum to participants in Harriman Seminar, <unitdate calendar="gregorian" era="ce">1969</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.2.25">
+                <did>
+                  <container type="Folder">14</container>
+                  <unittitle>Meiklejohn, Robert P., <unitdate calendar="gregorian" era="ce">1975</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.2.26">
+                <did>
+                  <container type="Folder">15</container>
+                  <unittitle>Murphy, Robert D., <unitdate calendar="gregorian" era="ce">1975</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.2.27">
+                <did>
+                  <container type="Folder">16</container>
+                  <unittitle>Nicoll, Courtlandt, <unitdate calendar="gregorian" era="ce">1977.</unitdate>
+Includes copy of UPI report on interview with Harriman</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.2.28">
+                <did>
+                  <container type="Folder">17</container>
+                  <unittitle>Paul R. Reynolds, Inc., <unitdate calendar="gregorian" era="ce">1973-1978.</unitdate>
+Includes photocopy of both review and quote from <title render="italic">Special Envoy </title>appearing in <title render="italic">USA Economics, Politics, Ideology, </title><unitdate calendar="gregorian" era="ce">May 1976</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.2.29">
+                <did>
+                  <container type="Folder">18</container>
+                  <unittitle>Petrow, R., <unitdate calendar="gregorian" era="ce">1975</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.2.30">
+                <did>
+                  <container type="Folder">19</container>
+                  <unittitle>Random House, Inc., <unitdate calendar="gregorian" era="ce">1973-1977.</unitdate>
+Includes correspondence with Eisenhower, John L. D., <unitdate calendar="gregorian" era="ce">1975;</unitdate>
+Galbraith, John Kenneth, <unitdate calendar="gregorian" era="ce">1975;</unitdate>
+Lovett, Robert, <unitdate calendar="gregorian" era="ce">1975?;</unitdate>
+Mortimer, Kathleen (Harriman), <unitdate calendar="gregorian" era="ce">1975;</unitdate>
+Ridgway, M. B., <unitdate calendar="gregorian" era="ce">1975;</unitdate>
+Silkenat, James R., <unitdate calendar="gregorian" era="ce">1976</unitdate>
+(includes photocopy of Silkenat review); Sulzberger, C.L., <unitdate calendar="gregorian" era="ce">1975;</unitdate>
+White, Theodore H., <unitdate calendar="gregorian" era="ce">1975.</unitdate>
+Includes sample layouts for title page, text, advertisement, quote from reviewer David Bruce, and drafts for author resumes</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.2.31">
+                <did>
+                  <container type="Folder">20</container>
+                  <unittitle>Rossman, Malcolm, <unitdate calendar="gregorian" era="ce">1976</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.2.32">
+                <did>
+                  <container type="Folder">21</container>
+                  <unittitle>Rusk, Dean, <unitdate calendar="gregorian" era="ce">1975</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.2.33">
+                <did>
+                  <container type="Folder">22</container>
+                  <unittitle>Schlesinger, Arthur, Jr., <unitdate calendar="gregorian" era="ce">1976</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.2.34">
+                <did>
+                  <container type="Folder">23</container>
+                  <unittitle>Shore, Ben, <unitdate calendar="gregorian" era="ce">1975</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.2.35">
+                <did>
+                  <container type="Folder">24</container>
+                  <unittitle>Sulzberger, C. L., <unitdate calendar="gregorian" era="ce">1975</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.2.36">
+                <did>
+                  <container type="Folder">25</container>
+                  <unittitle>Verlag Fritz Molden, <unitdate calendar="gregorian" era="ce">1976</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.2.37">
+                <did>
+                  <container type="Folder">26</container>
+                  <unittitle>Ward, Geoffrey C., <unitdate calendar="gregorian" era="ce">1977</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.2.38">
+                <did>
+                  <container type="Folder">27</container>
+                  <unittitle>Westfeldt, A., <unitdate calendar="gregorian" era="ce">1976</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.2.39">
+                <did>
+                  <container type="Folder">28</container>
+                  <unittitle>Williams, Franklin H., <unitdate calendar="gregorian" era="ce">1977</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.2.40">
+                <did>
+                  <container type="Folder">29</container>
+                  <unittitle>Zaremba, Andrew, <unitdate calendar="gregorian" era="ce">1975</unitdate></unittitle>
+                </did>
+              </c05>
+            </c04>
+            <c04 id="c04-1.7.6.3.25.4.3">
+              <did>
+                <unittitle>Other, arranged by sender</unittitle>
+              </did>
+              <c05 id="c05-1.7.6.3.25.4.3.2">
+                <did>
+                  <container type="Folder">30</container>
+                  <unittitle>Bundy, McGeorge, <unitdate calendar="gregorian" era="ce">1975</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.3.3">
+                <did>
+                  <container type="Folder">31</container>
+                  <unittitle>Buttenweiser, Benjamin J., <unitdate calendar="gregorian" era="ce">1973</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.3.4">
+                <did>
+                  <container type="Folder">32</container>
+                  <unittitle>Kaiser, Robert and Hannah, <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.3.5">
+                <did>
+                  <container type="Folder">33</container>
+                  <unittitle>Rusk, Dean, <unitdate calendar="gregorian" era="ce">1973</unitdate></unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.3.25.4.3.6">
+                <did>
+                  <container type="Folder">34</container>
+                  <unittitle>Schlesinger, Arthur, Jr., <unitdate calendar="gregorian" era="ce">1973</unitdate></unittitle>
+                </did>
+              </c05>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.3.25.5">
+            <did>
+              <unittitle>Reviews and promotional material, <unitdate calendar="gregorian" era="ce">1972-1977</unitdate></unittitle>
+            </did>
+            <c04 id="c04-1.7.6.3.25.5.2">
+              <did>
+                <container type="Folder">35</container>
+                <unittitle>English. Printed copies</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.25.5.3">
+              <did>
+                <container type="Folder">36</container>
+                <unittitle>Portuguese. Printed copy</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.25.5.4">
+              <did>
+                <container type="Folder">37</container>
+                <unittitle>Russian. Printed copy</unittitle>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+      </c01>
+<c01 level="series" id="c01-a">
+<did>
+<container type="box" label="Box: ">5-9</container>
+<unittitle>Incremental Materials</unittitle>
+</did>
+<scopecontent><p>This addition to the collection has not yet been described. Please let the Hoover Institution Archives know if you would like to see this material described. Contact us at <extref linktype="simple" href="mailto:hooverarchivesinfo@stanford.edu">hooverarchivesinfo@stanford.edu</extref> </p></scopecontent>
+</c01>
+
+    </dsc>
+  </archdesc>
+</ead>

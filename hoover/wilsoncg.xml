@@ -1,0 +1,1782 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  
+  
+  
+  
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" repositoryencoding="iso15511" findaidstatus="edited-full-draft" langencoding="iso639-2b"><eadid countrycode="us" identifier="ark:/13030/tf6g5004pw" mainagencycode="CSt-H" publicid="PUBLIC &quot;-//Stanford University::Hoover Institution Archives//TEXT&#10;(US::CSt-H::::Carol Green Wilson Papers)//EN&quot; &quot;wilsoncg.sgm&quot;">wilsoncg.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Register of the Carol Green Wilson Papers, <date calendar="gregorian" era="ce">ca. 1949-1975</date></titleproper><titleproper type="filing">Wilson (Carol G.) Papers</titleproper>
+        <author>Prepared by Keith Jantzen</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Hoover Institution Archives</publisher>
+        <address>
+          <addressline>Stanford University</addressline>
+          <addressline>Stanford, California 94305-6010</addressline>
+          <addressline>Phone: (650) 723-3563</addressline>
+          <addressline>Fax: (650) 725-3445</addressline>
+          <addressline>Email: hooverarchives@stanford.edu</addressline>
+        </address>
+        <date calendar="gregorian" era="ce">&#xA9; 2000</date>
+        <p>Hoover Institution Archives. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc><profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data Services,
+<date calendar="gregorian" era="ce">Nov. 2000.</date>
+Supplementary encoding and revision supplied by Xiuzhi Zhou.</creation>
+<langusage>Description is in <language langcode="eng" scriptcode="latn">English</language></langusage>
+    </profiledesc><revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//Stanford University::Hoover Institution Archives//TEXT
+(US::CSt-H::::Carol Green Wilson Papers)//EN" "wilsoncg.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+     <change>
+      <date calendar="gregorian" era="ce" normal="20120813">August 13, 2012</date>
+      <item>Revised to update encoding and add unitid by Jill Golden</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Register of the Carol Green Wilson Papers, <date calendar="gregorian" era="ce">ca. 1949-1975</date></titleproper>
+      <publisher>Hoover Institution Archives
+<lb/>Stanford University
+<lb/>Stanford, California</publisher>
+      <list type="simple">
+        <head>Contact Information</head>
+        <item>Hoover Institution Archives</item>
+        <item>Stanford University</item>
+        <item>Stanford, California 94305-6010</item>
+        <item>Phone: (650) 723-3563</item>
+        <item>Fax: (650) 725-3445</item>
+        <item>Email: hooverarchives@stanford.edu</item>
+      </list>
+      <list type="deflist">
+        <defitem>
+          <label>Prepared by: </label>
+          <item>Keith Jantzen</item>
+        </defitem>
+        <defitem>
+          <label>Date Completed: </label>
+          <item>Oct. 1981</item>
+        </defitem>
+      </list>
+      <p>&#xA9; 2000 Hoover Institution Archives. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection">
+    <did id="did-1.7.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">Carol Green Wilson Papers, </unittitle><unitdate calendar="gregorian" era="ce" type="inclusive" normal="1949/1975">ca. 1949-1975</unitdate>
+<unitid label="Collection number" repositorycode="CSt-H" countrycode="US">70003</unitid>
+      <origination label="Creator">
+        <persname>Wilson, Carol Green, 1892-</persname>
+      </origination>
+      <physdesc label="Collection Size" encodinganalog="300$a">
+		<extent>13 manuscript boxes</extent>
+		<extent>5.4 linear feet)</extent>
+	</physdesc>
+      <repository label="Repository">
+        <corpname>Hoover Institution Archives</corpname>
+        <address>
+          <addressline>Stanford, California 94305-6010</addressline>
+        </address>
+      </repository>
+      <abstract label="Abstract">Correspondence, writings, clippings, and other printed matter, relating primarily to the life of Herbert Hoover. Includes material used as research for the book by C. G. Wilson, entitled <title render="italic">Herbert Hoover : A Challenge for Today.</title></abstract>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <descgrp id="descgrp-1.7.2" type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict>
+        <head>Access</head>
+        <p>Collection open for research.</p>
+<p>The Hoover Institution Archives only allows access to <emph render="italic">copies</emph> of audiovisual items. To listen to sound recordings or to view videos or films during your visit, please contact the Archives at least two working days before your arrival. We will then advise you of the accessibility of the material you wish to see or hear. Please note that not all audiovisual material is immediately accessible.</p>
+      </accessrestrict>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>For copyright status, please contact
+the Hoover Institution Archives.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Carol Green Wilson Papers, [Box no.], Hoover Institution
+Archives.</p>
+      </prefercite>
+<acqinfo encodinganalog="541">
+ <head>Acquisition Information</head>
+ <p>Acquired by the Hoover Institution Archives in 1970.</p>
+</acqinfo>
+
+<accruals encodinganalog="525"><head>Accruals</head>
+<p>Materials may have been added to the collection since this finding aid was prepared. To determine if this has occurred, find the collection in Stanford University's online catalog at <extref linktype="simple" href="http://searchworks.stanford.edu/" actuate="onrequest" show="new"> http://searchworks.stanford.edu/</extref>. Materials have been added to the collection if the number of boxes listed in the online catalog is larger than the number of boxes listed in this finding aid.</p>
+</accruals>
+    </descgrp>
+    <controlaccess id="controlaccess-1.7.3">
+      <head>Access Points</head>
+      <persname>Fiedler, Arthur, 1894-</persname>
+      <persname>Hoover, Herbert, 1874-1964.</persname>
+      <geogname>United States--Politics and government.</geogname>
+    </controlaccess>
+    <bioghist id="bioghist-1.7.4">
+      <head>Biographical Note</head>
+      <chronlist>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1892, April 16</date>
+          <event>Born, Livingston, Montana</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1914</date>
+          <event>A.B., Stanford University</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1914</date>
+          <event>Married George Osborn Wilson</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1918-1921</date>
+          <event>Editor, Stanford Alumni magazine</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1928-1935</date>
+          <event>Editor, Stanford Alumni magazine</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1931</date>
+          <event>Author, <title render="italic">Chinatown Quest</title></event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1946</date>
+          <event>Author, <title render="italic">California Yankee</title></event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1949</date>
+          <event>Author, <title render="italic">Gump's Treasure Trade</title></event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1956</date>
+          <event>Author, <title render="italic">Alice Eastwood's Wonderland</title></event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1956</date>
+          <event>Author, <title render="italic">We Who Wear Kites</title></event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1968</date>
+          <event>Author, <title render="italic">Arthur Fielder: Music for the Millions</title></event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1968</date>
+          <event>Author, <title render="italic">Herbert Hoover: A Challenge for Today</title></event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1981</date>
+          <event>Died, Connecticut</event>
+        </chronitem>
+      </chronlist>
+    </bioghist>
+    <dsc id="dsc-1.7.5" type="analyticover">
+      <head>Series Description</head>
+      <c01 id="c01-1.7.5.2" level="series">
+        <did>
+          <unittitle>WRITINGS, <unitdate calendar="gregorian" era="ce">1949-1968.</unitdate></unittitle>
+          <container type="Box">Boxes 1-6.</container>
+        </did>
+        <scopecontent>
+          <p>Relevant correspondence, notes, drafts, and reviews of books written by Carol Green Wilson, arranged alphabetically by title.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.5.3" level="series">
+        <did>
+          <unittitle>CORRESPONDENCE FILE, <unitdate calendar="gregorian" era="ce">ca. 1949-1975.</unitdate></unittitle>
+          <container type="Box">Boxes 7-8.</container>
+        </did>
+        <scopecontent>
+          <p>Correspondence of Carol Green Wilson, arranged alphabetically by correspondent.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.5.4" level="series">
+        <did>
+          <unittitle>SUBJECT FILE, <unitdate calendar="gregorian" era="ce">ca. 1949-1975.</unitdate></unittitle>
+          <container type="Box">Boxes 9-13.</container>
+        </did>
+        <scopecontent>
+          <p>Clippings, printed matter, articles and correspondence by others collected by Carol Green Wilson, arranged alphabetically by subject.</p>
+        </scopecontent>
+      </c01>
+    </dsc>
+    <dsc id="dsc-1.7.6" type="in-depth">
+      <head>Container List</head>
+      <c01 id="c01-1.7.6.2" level="series">
+        <did>
+          <unittitle>WRITINGS</unittitle>
+        </did>
+        <c02 id="c02-1.7.6.2.2">
+          <did>
+            <container type="Box">1.</container>
+            <unittitle>
+              <title render="italic">Alice Eastwood's Wonderland</title>
+            </unittitle>
+          </did>
+          <c03 id="c03-1.7.6.2.2.2">
+            <did>
+              <unittitle>Typescript, <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+              <physdesc>Carbon copy</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.2.3">
+            <did>
+              <unittitle>Review by Alice Mary Greer, <unitdate calendar="gregorian" era="ce">April, 1966.</unitdate></unittitle>
+              <physdesc>Photocopy</physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.2.3">
+          <did>
+            <unittitle>
+              <title render="italic">Arthur Fielder: Music for the Millions</title>
+            </unittitle>
+          </did>
+          <c03 id="c03-1.7.6.2.3.2">
+            <did>
+              <unittitle>Correspondence</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.2.3.2.2">
+              <did>
+                <unittitle>General</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.3.2.3">
+              <did>
+                <unittitle>Fielder, Arthur, <unitdate calendar="gregorian" era="ce">1949-1967</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.2.3.3">
+            <did>
+              <unittitle>Notes, <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+              <physdesc>Typescript and holographs. (3 folders)</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.3.4">
+            <did>
+              <unittitle>Typescript, <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+              <physdesc>(3 folders)</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.3.5">
+            <did>
+              <container type="Box">2.</container>
+              <unittitle>Typescript, <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.3.6">
+            <did>
+              <unittitle>Reviews and notices, <unitdate calendar="gregorian" era="ce">ca. 1968</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.3.7">
+            <did>
+              <unittitle>Miscellaneous</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.2.4">
+          <did>
+            <unittitle>
+              <title render="italic">Chinatown Quest</title>
+            </unittitle>
+          </did>
+          <c03 id="c03-1.7.6.2.4.2">
+            <did>
+              <unittitle>Advertisement and order form, <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.2.5">
+          <did>
+            <unittitle>
+              <title render="italic">Gump's Treasure Trade</title>
+            </unittitle>
+          </did>
+          <c03 id="c03-1.7.6.2.5.2">
+            <did>
+              <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce">ca. 1949-1966</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.5.3">
+            <did>
+              <unittitle>Notes, <unitdate calendar="gregorian" era="ce">ca. 1947-1960.</unitdate></unittitle>
+              <physdesc>Typescript and holographs</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.5.4">
+            <did>
+              <unittitle>Typescript, <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+              <physdesc>Original and carbon copies</physdesc>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.5.5">
+            <did>
+              <unittitle>Reviewsand notices, <unitdate calendar="gregorian" era="ce">ca. 1949-1967</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.2.6">
+          <did>
+            <container type="Box">3.</container>
+            <unittitle>
+              <title render="italic">Herbert Hoover: A Challenge for Today</title>
+            </unittitle>
+          </did>
+          <c03 id="c03-1.7.6.2.6.2">
+            <did>
+              <unittitle>Printed copy, <unitdate calendar="gregorian" era="ce">1968</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.6.3">
+            <did>
+              <unittitle>Correspondence</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.2.6.3.2">
+              <did>
+                <unittitle>General</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.3">
+              <did>
+                <unittitle>Adams, Florence (Mrs. Sidney)</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.4">
+              <did>
+                <unittitle>Albright, Horace Marden</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.5">
+              <did>
+                <unittitle>Allan, Evelyn Wight (Mrs. Mansfield)</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.6">
+              <did>
+                <unittitle>Allen, Peter C.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.7">
+              <did>
+                <unittitle>American Friends Service Committee</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.8">
+              <did>
+                <unittitle>Ashley, Roscoe L.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.9">
+              <did>
+                <unittitle>Barker, Burt Brown</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.10">
+              <did>
+                <unittitle>Blythe, Charles R.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.11">
+              <did>
+                <unittitle>Bradley, Worthen</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.12">
+              <did>
+                <unittitle>Brown, Walter L.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.13">
+              <did>
+                <unittitle>Castle, W. R.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.14">
+              <did>
+                <unittitle>Clark, Birge M.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.15">
+              <did>
+                <unittitle>Columbia University</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.16">
+              <did>
+                <unittitle>Downe, George</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.17">
+              <did>
+                <unittitle>Drury, Newton B.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.18">
+              <did>
+                <unittitle>Friends Meeting of Washington</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.19">
+              <did>
+                <unittitle>Fullerton, Hugh</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.20">
+              <did>
+                <unittitle>Galpin, Perrin C.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.21">
+              <did>
+                <unittitle>Gardner, Edith (Mrs. Nathaniel L.)</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.22">
+              <did>
+                <unittitle>General Petroleum Corporation</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.23">
+              <did>
+                <unittitle>Gregg, C. L.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.24">
+              <did>
+                <unittitle>Grew, Joseph C.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.25">
+              <did>
+                <unittitle>Grosjean, Paul</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.26">
+              <did>
+                <unittitle>Hague, Marian</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.27">
+              <did>
+                <unittitle>Herter, Christian</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.28">
+              <did>
+                <unittitle>Hinshaw, David</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.29">
+              <did>
+                <unittitle>Hoover, Allan</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.30">
+              <did>
+                <unittitle>Hoover, Herbert</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.31">
+              <did>
+                <unittitle>Hoover, Margaret</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.32">
+              <did>
+                <unittitle>Hoover, Margaret</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.33">
+              <did>
+                <unittitle>Hoover, Theodore</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.34">
+              <did>
+                <unittitle>Hotchkiss, Mr.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.35">
+              <did>
+                <unittitle>James, Harlean</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.36">
+              <did>
+                <unittitle>Janin, Mrs. Charles</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.37">
+              <did>
+                <unittitle>Jones, Elizabeth B.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.38">
+              <did>
+                <unittitle>Jorgenson, Henry I.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.39">
+              <did>
+                <unittitle>Kellogg, Charlotte</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.40">
+              <did>
+                <unittitle>Kellogg, Jean</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.41">
+              <did>
+                <unittitle>Kendrick, Mr.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.42">
+              <did>
+                <unittitle>Kent, Fred I.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.43">
+              <did>
+                <unittitle>Lassner, Franz G.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.44">
+              <did>
+                <unittitle>Leavitt, Mary Hoover</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.45">
+              <did>
+                <unittitle>Lee, Jim</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.46">
+              <did>
+                <unittitle>Lewis, Dorothy</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.47">
+              <did>
+                <unittitle>McAtee, Sylvester J.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.48">
+              <did>
+                <unittitle>McCormick, Robert L.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.49">
+              <did>
+                <unittitle>McNab, John L.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.50">
+              <did>
+                <unittitle>Miller, Adolph</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.51">
+              <did>
+                <unittitle>Miller, Bernice</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.52">
+              <did>
+                <unittitle>Mitchell, Derne</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.53">
+              <did>
+                <unittitle>Mullendore, William C.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.54">
+              <did>
+                <unittitle>Nash, Bradley D.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.55">
+              <did>
+                <unittitle>Pate, Maurice</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.56">
+              <did>
+                <container type="Box">4.</container>
+                <unittitle>Pennington, Levi T.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.57">
+              <did>
+                <unittitle>Perry, Henry H.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.58">
+              <did>
+                <unittitle>Phillips, Edna</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.59">
+              <did>
+                <unittitle>Redfern, Gilbert</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.60">
+              <did>
+                <unittitle>Rice, Archie</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.61">
+              <did>
+                <unittitle>Richardson, Mrs.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.62">
+              <did>
+                <unittitle>Rickard, Mr.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.63">
+              <did>
+                <unittitle>Searls, Robert M.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.64">
+              <did>
+                <unittitle>Seling, Flora</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.65">
+              <did>
+                <unittitle>Small, Laurine A. (Mrs. Horatio L.)</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.66">
+              <did>
+                <unittitle>Stephen, Alice King</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.67">
+              <did>
+                <unittitle>Sterling, Morton</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.68">
+              <did>
+                <unittitle>Stillman, E. Clark</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.69">
+              <did>
+                <unittitle>Sullivan, Lawrence</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.70">
+              <did>
+                <unittitle>Tamplin, William J.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.71">
+              <did>
+                <unittitle>Torrey, Clark M.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.72">
+              <did>
+                <unittitle>Trueblood, Elton</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.73">
+              <did>
+                <unittitle>Tuck, Hallam</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.74">
+              <did>
+                <unittitle>UNICEF</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.75">
+              <did>
+                <unittitle>Vaux, Mary Jane (Mrs. Walter)</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.76">
+              <did>
+                <unittitle>Vickery, Mrs. Frederick</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.77">
+              <did>
+                <unittitle>Wickett, Frederick A.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.3.78">
+              <did>
+                <unittitle>Zion, Edwin R.</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.2.6.4">
+            <did>
+              <unittitle>Notes. All notes are undated and holographs, unless otherwise indicated.</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.2.6.4.2">
+              <did>
+                <unittitle>General.</unittitle>
+                <physdesc>Holograph and typescript. (2 folders)</physdesc>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.3">
+              <did>
+                <unittitle>Addresses Upon the American Road.</unittitle>
+                <physdesc>Typescript</physdesc>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.4">
+              <did>
+                <unittitle>Allen, Frederick L., <title render="italic">Since Yesterday.</title></unittitle>
+                <physdesc>Typescript</physdesc>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.5">
+              <did>
+                <unittitle>American Relief Administration, <unitdate calendar="gregorian" era="ce">1919-1920.</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.6">
+              <did>
+                <unittitle>Beard, Charles and Mary, <title render="italic">America in Midpassage.</title></unittitle>
+                <physdesc>Typescript</physdesc>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.7">
+              <did>
+                <unittitle>Campaign, <unitdate calendar="gregorian" era="ce">1920.</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.8">
+              <did>
+                <unittitle>Campaign, <unitdate calendar="gregorian" era="ce">1932.</unitdate></unittitle>
+                <physdesc>Typescript</physdesc>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.9">
+              <did>
+                <unittitle>Carnegie Food Research Institute.</unittitle>
+                <physdesc>Typescript</physdesc>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.10">
+              <did>
+                <unittitle>Commission for Relief in Belgium.</unittitle>
+                <physdesc>Holograph and typescript</physdesc>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.11">
+              <did>
+                <unittitle>Crisis, <unitdate calendar="gregorian" era="ce">1929.</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.12">
+              <did>
+                <unittitle>Election, <unitdate calendar="gregorian" era="ce">1928.</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.13">
+              <did>
+                <unittitle>Food Administration, <unitdate calendar="gregorian" era="ce">1917-1918.</unitdate></unittitle>
+                <physdesc>Holograph and typescript</physdesc>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.14">
+              <did>
+                <unittitle>Grain to India.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.15">
+              <did>
+                <unittitle>Herbert Hoover and Stanford.</unittitle>
+                <physdesc>Typescript</physdesc>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.16">
+              <did>
+                <unittitle>Hoover, Herbert, <title render="italic">An American Epic.</title></unittitle>
+                <physdesc>Typescript and holograph</physdesc>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.17">
+              <did>
+                <unittitle>Hoover Commission on the Reorganization of the Executive Branch of the Government.</unittitle>
+                <physdesc>Typescript</physdesc>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.18">
+              <did>
+                <container type="Box">5.</container>
+                <unittitle>Jean Kellogg's Description of Herbert Hoover's Funeral in West Branch, Iowa.</unittitle>
+                <physdesc>Typescript</physdesc>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.19">
+              <did>
+                <unittitle>Kittredge (Henry) Notes.</unittitle>
+                <physdesc>Typescript</physdesc>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.20">
+              <did>
+                <unittitle>Lochner, Louis, <title render="italic">Herbert Hoover and Germany.</title></unittitle>
+                <physdesc>Typescript</physdesc>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.21">
+              <did>
+                <unittitle>London and Belgian Relief.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.22">
+              <did>
+                <unittitle>Lou Henry Hoover.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.23">
+              <did>
+                <unittitle>McCormick, Robert E., interview with.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.24">
+              <did>
+                <unittitle>McKensie, E. L., interview with.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.25">
+              <did>
+                <unittitle>
+                  <title render="italic">Memoirs of Cordell Hull.</title>
+                </unittitle>
+                <physdesc>Typescript</physdesc>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.26">
+              <did>
+                <unittitle>Meyer, Eugene, interview with.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.27">
+              <did>
+                <unittitle>Miller, Adolph, interview with.</unittitle>
+                <physdesc>Typescript</physdesc>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.28">
+              <did>
+                <unittitle>Mining, <unitdate calendar="gregorian" era="ce">1895-1914.</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.29">
+              <did>
+                <unittitle>Norris papers.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.30">
+              <did>
+                <unittitle>Page, Walter H., <title render="italic">The Life and Letters of Walter H. Page.</title></unittitle>
+                <physdesc>Typescript</physdesc>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.31">
+              <did>
+                <unittitle>Page letters.</unittitle>
+                <physdesc>Typescript</physdesc>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.32">
+              <did>
+                <unittitle>Peace Conference, <unitdate calendar="gregorian" era="ce">1916-1919.</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.33">
+              <did>
+                <unittitle>Personal interviews.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.34">
+              <did>
+                <unittitle>President, <unitdate calendar="gregorian" era="ce">1929-1933.</unitdate></unittitle>
+                <physdesc>Typescript</physdesc>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.35">
+              <did>
+                <unittitle>Rickard, Mr., interview with.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.36">
+              <did>
+                <unittitle>Robinson, Henry Morton, <title render="italic">Fantastic Interim.</title></unittitle>
+                <physdesc>Typescript</physdesc>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.37">
+              <did>
+                <unittitle>Secretary of Commerce, <unitdate calendar="gregorian" era="ce">1920-1928.</unitdate></unittitle>
+                <physdesc>Typescript and holograph</physdesc>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.38">
+              <did>
+                <unittitle>Seventy-fifth Birthday.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.39">
+              <did>
+                <unittitle>Small, Mrs. Horatio, interview with.</unittitle>
+                <physdesc>Typescript</physdesc>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.40">
+              <did>
+                <unittitle>South American Trip.</unittitle>
+                <physdesc>Typescript</physdesc>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.41">
+              <did>
+                <unittitle>Speeches on World Affairs, <unitdate calendar="gregorian" era="ce">1932-1950.</unitdate></unittitle>
+                <physdesc>Typescript</physdesc>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.42">
+              <did>
+                <unittitle>Stanford, <unitdate calendar="gregorian" era="ce">1891-1895.</unitdate></unittitle>
+                <physdesc>Typescript and holograph</physdesc>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.43">
+              <did>
+                <unittitle>Stanford Illustrated Review.</unittitle>
+                <physdesc>Typescript</physdesc>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.44">
+              <did>
+                <unittitle>Stanford - Food Research Institute, Business School, Hoover Library.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.45">
+              <did>
+                <unittitle>Stanford Home Trustee Union.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.46">
+              <did>
+                <unittitle>Stanford University Commencement Address, <unitdate calendar="gregorian" era="ce">1935.</unitdate></unittitle>
+                <physdesc>Typescript</physdesc>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.47">
+              <did>
+                <unittitle>Trip to Europe, <unitdate calendar="gregorian" era="ce">1938.</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.48">
+              <did>
+                <unittitle>Tuck, Hallam, interview with.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.49">
+              <did>
+                <unittitle>Warren, Harris G., <title render="italic">Herbert Hoover and the Great Depression.</title></unittitle>
+                <physdesc>Typescript and holograph</physdesc>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.50">
+              <did>
+                <unittitle>William Allen White Correspondence, <unitdate calendar="gregorian" era="ce">1933-1936 </unitdate>Regarding New Deal.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.51">
+              <did>
+                <unittitle>World Food Conditions.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.4.52">
+              <did>
+                <unittitle>Youth and Family.</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.2.6.5">
+            <did>
+              <unittitle>Typescript</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.2.6.5.2">
+              <did>
+                <unittitle>Fragments, <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+                <physdesc>Originals and carbon copies</physdesc>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.5.3">
+              <did>
+                <unittitle>Preface and Acknowledgements, <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+                <physdesc>Originals and carbon copies</physdesc>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.5.4">
+              <did>
+                <container type="Box">6.</container>
+                <unittitle>Preface, Chapters 1-10, <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+                <physdesc>Originals and carbon copies</physdesc>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.5.5">
+              <did>
+                <unittitle>Chapters 11-29, <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+                <physdesc>Originals and carbon copies</physdesc>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.5.6">
+              <did>
+                <unittitle>Chapters 30-34, <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+                <physdesc>Originals and carbon copies</physdesc>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.2.6.6">
+            <did>
+              <unittitle>Galley proof, <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.6.7">
+            <did>
+              <unittitle>Reviews and notices</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.2.7">
+          <did>
+            <unittitle>
+              <title render="italic">A History of the Heritage, 1853-1970,</title>
+              <unitdate calendar="gregorian" era="ce">1970. </unitdate>
+            </unittitle>
+            <physdesc>Printed copy</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.8">
+          <did>
+            <container type="Box">7.</container>
+            <unittitle>How Bert Hoover Met Lou Henry, <unitdate calendar="gregorian" era="ce">1965.</unitdate></unittitle>
+            <physdesc>Braille copy</physdesc>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.6.3" level="series">
+        <did>
+          <unittitle>CORRESPONDENCE</unittitle>
+        </did>
+        <c02 id="c02-1.7.6.3.2">
+          <did>
+            <container type="Box">7.</container>
+            <unittitle>Unidentified</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.3">
+          <did>
+            <unittitle>Abel, Hazel</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.4">
+          <did>
+            <unittitle>American Institute of Mining, Metallurgical and Petroleum Engineers</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.5">
+          <did>
+            <unittitle>Anderson, Raezella</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.6">
+          <did>
+            <unittitle>Aswell, Mr.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.7">
+          <did>
+            <unittitle>Atheneum Publishers</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.8">
+          <did>
+            <unittitle>Atlantic Monthly Press</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.9">
+          <did>
+            <unittitle>Authors Guild</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.10">
+          <did>
+            <unittitle>Bean, Mr.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.11">
+          <did>
+            <unittitle>Belgian-American Educational Foundation</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.12">
+          <did>
+            <unittitle>Bennett, T. W.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.13">
+          <did>
+            <unittitle>Boston Symphony Orchestra</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.14">
+          <did>
+            <unittitle>
+              <title render="italic">Braille Mirror</title>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.15">
+          <did>
+            <unittitle>Burchtaill, Larry</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.16">
+          <did>
+            <unittitle>Charles E. Tuttle Co., Inc.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.17">
+          <did>
+            <unittitle>Children's Health Council of the Mid-Peninsula</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.18">
+          <did>
+            <unittitle>Choate, Stuart</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.19">
+          <did>
+            <unittitle>Coward McCann, Inc.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.20">
+          <did>
+            <unittitle>Crawford, Hilary H.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.21">
+          <did>
+            <unittitle>Crowell-Collier Publishing Co.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.22">
+          <did>
+            <unittitle>Crown Publishers, Inc.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.23">
+          <did>
+            <unittitle>David McKay Co., Inc.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.24">
+          <did>
+            <unittitle>Dickie, Jean K.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.25">
+          <did>
+            <unittitle>Doubleday and Co.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.26">
+          <did>
+            <unittitle>Elliot, Marian P. (Mrs. L. Patterson)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.27">
+          <did>
+            <container type="Box">8.</container>
+            <unittitle>Encyclopaedia Britannica Press</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.28">
+          <did>
+            <unittitle>Evans, Betsy H.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.29">
+          <did>
+            <unittitle>Fish, Bobby</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.30">
+          <did>
+            <unittitle>Fles, Barthold</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.31">
+          <did>
+            <unittitle>G. P. Putnam's Sons</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.32">
+          <did>
+            <unittitle>Harper and Row</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.33">
+          <did>
+            <unittitle>Hawthorn Books</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.34">
+          <did>
+            <unittitle>Henry Regnery Co.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.35">
+          <did>
+            <unittitle>Hinderer, Marion (Mrs. Kenneth)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.36">
+          <did>
+            <unittitle>Hinds, Mr.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.37">
+          <did>
+            <unittitle>Holt, Rinehart and Winston, Inc.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.38">
+          <did>
+            <unittitle>Hoover Institution</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.39">
+          <did>
+            <unittitle>Houghton Mifflin Co.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.40">
+          <did>
+            <unittitle>Humphrey, Lany</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.41">
+          <did>
+            <unittitle>Huntington Library</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.42">
+          <did>
+            <unittitle>Iowa State University Press</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.43">
+          <did>
+            <unittitle>Kemp, Dr.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.44">
+          <did>
+            <unittitle>Kosciuzko Foundation</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.45">
+          <did>
+            <unittitle>Lane Magazine Co.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.46">
+          <did>
+            <unittitle>J. B. Lippincott Co.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.47">
+          <did>
+            <unittitle>Little, Brown and Co.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.48">
+          <did>
+            <unittitle>Mc Cormack, William E.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.49">
+          <did>
+            <unittitle>McGraw Hill Book Co.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.50">
+          <did>
+            <unittitle>McInnis, Grace (Mrs. Emmett)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.51">
+          <did>
+            <unittitle>McIntosh and Otis, Inc.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.52">
+          <did>
+            <unittitle>Macmillan Co.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.53">
+          <did>
+            <unittitle>Martin, Leonard B.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.54">
+          <did>
+            <unittitle>Mattei, Bert</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.55">
+          <did>
+            <unittitle>Mayo, Waldo</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.56">
+          <did>
+            <unittitle>Mifflin, John</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.57">
+          <did>
+            <unittitle>Millikan, Robert A.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.58">
+          <did>
+            <unittitle>Oxford University Press</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.59">
+          <did>
+            <unittitle>Page, Virginia (Mrs. Benjamin)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.60">
+          <did>
+            <unittitle>Phillips, Leila Douglas</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.61">
+          <did>
+            <unittitle>R. R. Bowker Co.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.62">
+          <did>
+            <unittitle>Random House, Inc.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.63">
+          <did>
+            <unittitle>Red Lion Inn</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.64">
+          <did>
+            <unittitle>Reiss, Malcolm</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.65">
+          <did>
+            <unittitle>Ridge Press</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.66">
+          <did>
+            <unittitle>
+              <title render="italic">San Fransisco Chronicle</title>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.67">
+          <did>
+            <unittitle>San Fransisco Literary Agency, Inc.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.68">
+          <did>
+            <unittitle>Seydell, Mildred</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.69">
+          <did>
+            <unittitle>Slenczynska, Ruth</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.70">
+          <did>
+            <unittitle>Smith, Ethyl Sabin (Mrs. Willard M.)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.71">
+          <did>
+            <unittitle>
+              <title render="italic">Stanford Review</title>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.72">
+          <did>
+            <unittitle>Stanford University Press</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.73">
+          <did>
+            <unittitle>Stein and Day Publishers</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.74">
+          <did>
+            <unittitle>Storke, Thomas M.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.75">
+          <did>
+            <unittitle>Summerfield, Lester D.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.76">
+          <did>
+            <unittitle>Sutton, Mr.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.77">
+          <did>
+            <unittitle>Tatum, Frank D.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.78">
+          <did>
+            <unittitle>Thomas Y. Crowell Co.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.79">
+          <did>
+            <unittitle>University of California Press</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.80">
+          <did>
+            <unittitle>University Chicago Press</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.81">
+          <did>
+            <unittitle>Viking Press</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.82">
+          <did>
+            <unittitle>W. W. Norton and Co., Inc.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.83">
+          <did>
+            <unittitle>Wing, Willis Kingsley</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.84">
+          <did>
+            <unittitle>Wilson, G. Osborne</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.85">
+          <did>
+            <unittitle>Wilson, Lloyd</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.86">
+          <did>
+            <unittitle>Wilson, Neill C.</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.6.4" level="series">
+        <did>
+          <unittitle>SUBJECT FILE</unittitle>
+        </did>
+        <c02 id="c02-1.7.6.4.2">
+          <did>
+            <container type="Box">9.</container>
+            <unittitle>Belgian-American Educational Foundation</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.3">
+          <did>
+            <unittitle>La Belgique et l'Entree en Guerre des Etats-Unis (Belgium and the Entry of the United States in the War)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.4">
+          <did>
+            <unittitle>Biographical file - general</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.5">
+          <did>
+            <unittitle>Bliven, Bruce</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.6">
+          <did>
+            <unittitle>Davis, J. S., The Food Research Institute, <unitdate calendar="gregorian" era="ce">1921-1941: </unitdate>An Interpretation.</unittitle>
+            <physdesc>Excerpt, photocopy</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.7">
+          <did>
+            <unittitle>European trip, <unitdate calendar="gregorian" era="ce">ca. 1950. </unitdate>Itinerary</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.8">
+          <did>
+            <unittitle>Fiedler, Arthur</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.4.8.2">
+            <did>
+              <unittitle>General</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.8.3">
+            <did>
+              <unittitle>Clippings</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.8.4">
+            <did>
+              <unittitle>Legal dispute.</unittitle>
+              <physdesc>Letters and notes, originals and photocopies</physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.4.9">
+          <did>
+            <unittitle>Foote, Arthur B., Men and Mines.</unittitle>
+            <physdesc>Typescript, photocopy</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.10">
+          <did>
+            <unittitle>Hoover, Herbert</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.4.10.2">
+            <did>
+              <unittitle>General</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.10.3">
+            <did>
+              <unittitle>Clippings</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.10.4">
+            <did>
+              <container type="Box">10.</container>
+              <unittitle>Clippings</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.10.5">
+            <did>
+              <unittitle>Memorabilia</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.10.6">
+            <did>
+              <unittitle>Original letter to Colonel P. M. (Happy) Hazzard, <unitdate calendar="gregorian" era="ce">September 7, 1954</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.10.7">
+            <did>
+              <unittitle>Speeches and Writings</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.4.10.7.2">
+              <did>
+                <unittitle>Miscellaneous</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.4.10.7.3">
+              <did>
+                <unittitle>A-B</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.4.10.7.4">
+              <did>
+                <unittitle>C-E</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.4.10.7.5">
+              <did>
+                <unittitle>F-H</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.4.10.7.6">
+              <did>
+                <unittitle>I-L</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.4.10.7.7">
+              <did>
+                <unittitle>M-Q</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.4.10.7.8">
+              <did>
+                <container type="Box">11.</container>
+                <unittitle>R-S</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.4.10.7.9">
+              <did>
+                <unittitle>T-V</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.4.10.7.10">
+              <did>
+                <unittitle>W-Z</unittitle>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.4.11">
+          <did>
+            <unittitle>Hoover Foundation for the University of Louvain</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.12">
+          <did>
+            <unittitle>Horta, Victor</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.13">
+          <did>
+            <unittitle>McDonnell, R. E.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.14">
+          <did>
+            <unittitle>Paderewski, Ignace</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.15">
+          <did>
+            <unittitle>Pate, Maurice</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.16">
+          <did>
+            <unittitle>Pflieger, Colonel Robert P.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.17">
+          <did>
+            <unittitle>Publishers</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.18">
+          <did>
+            <unittitle><title render="italic">Stanford Illustrated Review </title>(marked by Carol Green Wilson for articles on Herbert Hoover)</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.4.18.2">
+            <did>
+              <unittitle>Vol. 20</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.18.3">
+            <did>
+              <unittitle>Vol. 21</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.18.4">
+            <did>
+              <unittitle>Vol. 22</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.18.5">
+            <did>
+              <container type="Box">12.</container>
+              <unittitle>Vol. 29</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.18.6">
+            <did>
+              <unittitle>Vol. 30</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.18.7">
+            <did>
+              <unittitle>Vol. 31</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.18.8">
+            <did>
+              <unittitle>Vol. 32</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.18.9">
+            <did>
+              <container type="Box">13.</container>
+              <unittitle>Vol. 33</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.18.10">
+            <did>
+              <unittitle>Vol. 34</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.18.11">
+            <did>
+              <unittitle>Vol. 35</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.18.12">
+            <did>
+              <unittitle>Vol. 36</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.4.19">
+          <did>
+            <unittitle>
+              <title render="italic">Stanford Review, </title>
+              <unitdate calendar="gregorian" era="ce">May-June, 1965</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.20">
+          <did>
+            <unittitle>UNICEF</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

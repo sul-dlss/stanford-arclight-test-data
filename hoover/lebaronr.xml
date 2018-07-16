@@ -1,0 +1,1103 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  
+  
+  
+  
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" repositoryencoding="iso15511" findaidstatus="edited-full-draft" langencoding="iso639-2b"><eadid countrycode="us" identifier="ark:/13030/tf967nb3h3" mainagencycode="CSt-H" publicid="PUBLIC &quot;-//Stanford University::Hoover Institution Archives//TEXT&#10;(US::CSt-H::::Robert Le Baron Papers)//EN&quot; &quot;lebaronr.sgm&quot;">lebaronr.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Register of the Robert Le Baron Papers, <date calendar="gregorian" era="ce">1946-1983</date></titleproper><titleproper type="filing">LeBaron (Robert) Papers</titleproper>
+        <author>Prepared by D. Kincaid</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Hoover Institution Archives</publisher>
+        <address>
+          <addressline>Stanford University</addressline>
+          <addressline>Stanford, California 94305-6010</addressline>
+          <addressline>Phone: (650) 723-3563</addressline>
+          <addressline>Fax: (650) 725-3445</addressline>
+          <addressline>Email: hooverarchives@stanford.edu</addressline>
+        </address>
+        <date calendar="gregorian" era="ce">&#xA9; 1999</date>
+        <p>Hoover Institution Archives. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc><profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data Services,
+<date calendar="gregorian" era="ce">March 1999.</date>
+Supplementary encoding and revision supplied by Michael C. Conkin.</creation>
+      <langusage>Description is in <language langcode="eng" scriptcode="latn">English</language></langusage>
+    </profiledesc><revisiondesc>
+     <change>
+      <date calendar="gregorian" era="ce" normal="20111020">October 20, 2011</date>
+      <item>Revised to update encoding and add unitid by Elizabeth Phillips</item>
+      </change>
+      <change>
+
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//Stanford University::Hoover Institution Archives//TEXT
+(US::CSt-H::::Robert Le Baron Papers)//EN" "lebaronr.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Register of the Robert Le Baron Papers, <date calendar="gregorian" era="ce">1946-1983</date></titleproper>
+      <publisher>Hoover Institution Archives
+<lb/>Stanford University
+<lb/>Stanford, California</publisher>
+      <list type="simple">
+        <head>Contact Information</head>
+        <item>Hoover Institution Archives</item>
+        <item>Stanford University</item>
+        <item>Stanford, California 94305-6010</item>
+        <item>Phone: (650) 723-3563</item>
+        <item>Fax: (650) 725-3445</item>
+        <item>Email: hooverarchives@stanford.edu</item>
+      </list>
+      <list type="deflist">
+        <defitem>
+          <label>Prepared by: </label>
+          <item>D. Kincaid</item>
+        </defitem>
+        <defitem>
+          <label>Date Completed: </label>
+          <item>1987</item>
+        </defitem>
+      </list>
+      <p>&#xA9; 1999 Hoover Institution Archives. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection">
+    <did id="did-1.7.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">Robert Le Baron Papers, </unittitle><unitdate calendar="gregorian" era="ce" type="inclusive" normal="1946/1983">1946-1983</unitdate>
+<unitid label="Collection number" repositorycode="CSt-H" countrycode="US">84027</unitid>
+      <origination label="Creator">
+        <persname rules="aacr2">LeBaron, Robert</persname>
+      </origination>
+      <physdesc label="Collection Size" encodinganalog="300$a">
+	<extent>4 manuscript boxes, 2 oversize boxes, 1 phonotape cassette.</extent>
+	<extent>(2.6 linear feet)</extent>
+</physdesc>
+      <repository label="Repository">
+        <corpname>Hoover Institution Archives</corpname>
+        <address>
+          <addressline>Stanford, California 94305-6010</addressline>
+        </address>
+      </repository>
+      <abstract label="Abstract">Biographical sketches, reminiscences, speeches, letters, appointment books, memoranda, memorabilia, and photographs, relating to the development of U.S. atomic weapons, and to peaceful uses of atomic energy.</abstract>
+<physloc label="Physical Location">Hoover Institution Archives</physloc>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <descgrp id="descgrp-1.7.2" type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict>
+        <head>Access</head>
+        <p>Collection open for research.</p>
+<p>The Hoover Institution Archives only allows access to <emph render="italic">copies</emph> of audiovisual items. To listen to sound recordings or to view videos or films during your visit, please contact the Archives at least two working days before your arrival. We will then advise you of the accessibility of the material you wish to see or hear. Please note that not all audiovisual material is immediately accessible.
+</p>
+      </accessrestrict>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>For copyright status, please contact
+the Hoover Institution Archives.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Robert Le Baron Papers, [Box no.], Hoover Institution
+Archives.</p>
+      </prefercite>
+<acqinfo encodinganalog="541">
+ <head>Acquisition Information</head>
+ <p>Acquired by the Hoover Institution Archives in 1984.</p>
+</acqinfo>
+
+<accruals encodinganalog="525"><head>Accruals</head>
+<p>Materials may have been added to the collection since this finding aid was prepared. To determine if this has occurred, find the collection in Stanford University's online catalog at <extref linktype="simple" href="http://searchworks.stanford.edu/" actuate="onrequest" show="new"> http://searchworks.stanford.edu/</extref>. Materials have been added to the collection if the number of boxes listed in the online catalog is larger than the number of boxes listed in this finding aid.</p>
+</accruals>
+    </descgrp>
+    <controlaccess id="controlaccess-1.7.3">
+      <head>Access Points</head>
+      <corpname>U.S. Atomic Energy Commission.</corpname>
+      <corpname>United States. Dept. of Defense.</corpname>
+      <subject>Nuclear energy--United States.</subject>
+      <subject>Nuclear weapons.</subject>
+      <geogname>United States--Armed Forces.</geogname>
+      <geogname>United States--Defenses.</geogname>
+      <genreform source="lcsh">Phonotapes.</genreform>
+      <subject>Nuclear energy.</subject>
+    </controlaccess>
+    <bioghist id="bioghist-1.7.4">
+      <head>Biographical Note</head>
+      <chronlist>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1891, Oct. 31</date>
+          <event>Born, Binghamton, N.Y.</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1913</date>
+          <event>B.S., Union College, Schenectady, New York</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1917</date>
+          <event>M.S., Princeton University, New Jersey</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1919</date>
+          <event>Research, Marie Curie, Sorbonne, Paris, France</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1926</date>
+          <event>Married, Peggy Bancroft</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1942-1944</date>
+          <event>Consultant, "Dollar-a-Year," United States Government</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1949-1954</date>
+          <eventgrp>
+            <event>Chairman, Military Liaison Committee, United States Government</event>
+            <event>Deputy to the Secretary of Defense on Atomic Energy, United States Government</event>
+            <event>Alternate Member, Combined Policy Committee, United States Government</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1955</date>
+          <event>Founder, LeBaron Associates</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1961</date>
+          <event>Founder, Norabel Fund</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1967</date>
+          <event>Founder, LeBaron Foundation</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1983, Mar. 5</date>
+          <event>Died, Washington, D. C.</event>
+        </chronitem>
+      </chronlist>
+    </bioghist>
+    <dsc id="dsc-1.7.5" type="analyticover">
+      <head>Series Description</head>
+      <c01 id="c01-1.7.5.2" level="series">
+        <did>
+          <unittitle>BIOGRAPHICAL FILE, <unitdate calendar="gregorian" era="ce">1946-1983.</unitdate></unittitle>
+          <container type="Box" label="Box: "> 1</container>
+        </did>
+        <scopecontent>
+          <p>Clippings and miscellany relating to the life of Robert LeBaron, arranged alphabetically by form.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.5.3" level="series">
+        <did>
+          <unittitle>SPEECHES AND WRITINGS, <unitdate calendar="gregorian" era="ce">1952-1959.</unitdate></unittitle>
+          <container type="Box" label="Box: "> 1-2</container>
+        </did>
+        <scopecontent>
+          <p>Drafts, outlines and printed copies of speeches and lectures by Robert LeBaron, with correspondence, notes and materials relating to them, arranged chronologically by date of writing.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.5.4" level="series">
+        <did>
+          <unittitle>MILITARY LIAISON COMMITTEE FILE, <unitdate calendar="gregorian" era="ce">1949-1952.</unitdate></unittitle>
+          <container type="Box" label="Box: "> 2-4</container>
+        </did>
+        <scopecontent>
+          <p>Correspondence, appointment books, writings and miscellany, all relating to Robert LeBaron's tenure as chairman, arranged alphabetically by form.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.5.5" level="series">
+        <did>
+          <unittitle>LE BARON ASSOCIATES FILE, <unitdate calendar="gregorian" era="ce">1955-1962.</unitdate></unittitle>
+          <container type="Box" label="Box: "> 4</container>
+        </did>
+        <scopecontent>
+          <p>Correspondence, memoranda and writings, all relating to Robert LeBaron's tenure as consultant, arranged alphabetically by form.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.5.6" level="series">
+        <did>
+          <unittitle>LE BARON FOUNDATION FILE, <unitdate calendar="gregorian" era="ce">1967-1972?.</unitdate></unittitle>
+          <container type="Box" label="Box: "> 4</container>
+        </did>
+        <scopecontent>
+          <p>Clippings, memoranda, and miscellany, all relating to Robert LeBaron's participation in the Foundation, arranged alphabetically by form.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.5.7" level="series">
+        <did>
+          <unittitle>OVERSIZE, <unitdate calendar="gregorian" era="ce">1949-1981.</unitdate></unittitle>
+          <container type="Box" label="Box: "> 5-6</container>
+        </did>
+        <scopecontent>
+          <p>Scrapbooks of correspondence, clippings, music scores, photographs and miscellany.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.5.8" level="series">
+        <did>
+          <unittitle>PHONOTAPE, <unitdate calendar="gregorian" era="ce">c. 1970.</unitdate></unittitle>
+          <container type="cabinet">Cassette cabinet.</container>
+        </did>
+        <scopecontent>
+          <p>Tape recording of Robert LeBaron in interview.</p>
+        </scopecontent>
+      </c01>
+    </dsc>
+    <dsc id="dsc-1.7.6" type="in-depth">
+      <head>Container List</head>
+      <c01 id="c01-1.7.6.2" level="series">
+        <did>
+          <unittitle>BIOGRAPHICAL, <unitdate calendar="gregorian" era="ce">1946-1983</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.6.2.2">
+          <did>
+            <unittitle>General</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.2.2.2">
+            <did>
+              <container type="Box">1.</container>
+              <container type="Folder">1</container>
+              <unittitle>Clippings, <unitdate calendar="gregorian" era="ce">1982</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.2.3">
+            <did>
+              <container type="Folder">2</container>
+              <unittitle>"The Eighth Day." Screenplay, clippings, photographs relating to Cinerama film production on atomic energy. LeBaron retained as consultant, <unitdate calendar="gregorian" era="ce">1956-1958</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.2.3">
+          <did>
+            <unittitle>Biography</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.2.3.2">
+            <did>
+              <container type="Folder">3</container>
+              <unittitle>Hager, Alice. Correspondence relating to Hager's writing of biographical piece, <unitdate calendar="gregorian" era="ce">1957-1962</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.3.3">
+            <did>
+              <container type="Folder">4</container>
+              <unittitle>Root, Lin, "Robert LeBaron: Man of many Talents," <unitdate calendar="gregorian" era="ce">n.d.</unitdate>
+Typescript</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.3.4">
+            <did>
+              <container type="Folder">5</container>
+              <unittitle>Root, Lin, "A People's Program," <unitdate calendar="gregorian" era="ce">c. 1970.</unitdate>
+Draft. Includes correspondence and transcript of LeBaron interview</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.3.5">
+            <did>
+              <container type="Folder">6</container>
+              <unittitle>Snell, Adams, "From Business - to Bach - to Business: Bob LeBaron," <unitdate calendar="gregorian" era="ce">May 9, 1946.</unitdate>
+Typescript</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.2.4">
+          <did>
+            <container type="Folder">7</container>
+            <unittitle>Death. Obituary; letter of condolence to Mrs. Robert LeBaron; remarks by Senator Mark O. Hatfield, <unitdate calendar="gregorian" era="ce">1983</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.5">
+          <did>
+            <container type="Folder">8</container>
+            <unittitle>Reminiscences, <unitdate calendar="gregorian" era="ce">1968</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.6">
+          <did>
+            <unittitle>Resumes</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.2.6.2">
+            <did>
+              <container type="Folder">9</container>
+              <unittitle>General</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.6.3">
+            <did>
+              <container type="Folder">10</container>
+              <unittitle>Who's Who</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.2.7">
+          <did>
+            <container type="Folder">11</container>
+            <unittitle>Tributes. <title render="italic">Congressional Record, </title><unitdate calendar="gregorian" era="ce">October 28, 1981.</unitdate>
+In honor of 90th birthday</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.6.3" level="series">
+        <did>
+          <unittitle>SPEECHES AND WRITINGS, <unitdate calendar="gregorian" era="ce">1952-1959</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.6.3.2">
+          <did>
+            <container type="Box">1.</container>
+            <container type="Folder">12</container>
+            <unittitle>General. Pre-speech materials</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.3">
+          <did>
+            <container type="Folder">13</container>
+            <unittitle>Untitled, speech, Purdue University?, <unitdate calendar="gregorian" era="ce">April 1952.</unitdate>
+Typescript. Relates to military and civilian applications of atomic energy. Includes preparatory materials</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.4">
+          <did>
+            <container type="Folder">14</container>
+            <unittitle>"Your Future in the Atomic Age," speech, The Lutheran Student Seminar, <unitdate calendar="gregorian" era="ce">April 13, 1954.</unitdate>
+Typescript</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.5">
+          <did>
+            <container type="Folder">15</container>
+            <unittitle>Untitled, speech, YWCA, <unitdate calendar="gregorian" era="ce">May 10, 1954.</unitdate>
+Typescript. Relates to civilian application of atomic energy</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.6">
+          <did>
+            <container type="Folder">16</container>
+            <unittitle>"The Peaceful Atom," speech, The Trane Company, <unitdate calendar="gregorian" era="ce">May 20, 1954.</unitdate>
+Printed copy</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.7">
+          <did>
+            <container type="Box">2.</container>
+            <container type="Folder">1</container>
+            <unittitle>"Women and the Peaceful Atom," address, National Federation of Republican Women, <unitdate calendar="gregorian" era="ce">September 22, 1954.</unitdate>
+Typescript</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.8">
+          <did>
+            <container type="Folder">2</container>
+            <unittitle>"The Peaceful Atom," speech, Union Collge, <unitdate calendar="gregorian" era="ce">November 17, 1954.</unitdate>
+Outline</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.9">
+          <did>
+            <container type="Folder">3</container>
+            <unittitle>Untitled, speech, American Association for the United Nations, Inc., <unitdate calendar="gregorian" era="ce">February 22, 1955.</unitdate>
+Outline. Relates to the development of the hydrogen bomb. Includes printed editorial: Cousins, Norman, "The Devil's Bargain Basement," <title render="italic">Saturday Review, </title><unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.10">
+          <did>
+            <container type="Folder">4</container>
+            <unittitle>Untitled, speech, Johns Hopkins University Applied Physics Laboratory, <unitdate calendar="gregorian" era="ce">February 25, 1955.</unitdate>
+Memorandum telling of the above. No prepared speech or notes</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.11">
+          <did>
+            <container type="Folder">5</container>
+            <unittitle>"Our New Frontiers," speech, Eighty-fifth Annual Commencement Address, Theil College, <unitdate calendar="gregorian" era="ce">May 29, 1955.</unitdate>
+Typescript. Address given upon receipt of Honorary Degree of Doctor of Science. Includes draft, <unitdate calendar="gregorian" era="ce">March 29, 1955;</unitdate>
+memorandum of The Joint Faculty-Trustee Committee on Honorary Degrees of Theil College</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.12">
+          <did>
+            <container type="Folder">6</container>
+            <unittitle>Untitled, speech, The Cosmos Club, <unitdate calendar="gregorian" era="ce">April 11?, 1955.</unitdate>
+Outline. Relates to the civilian and military role of atomic energy</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.13">
+          <did>
+            <container type="Folder">7</container>
+            <unittitle>Untitled, speech, <unitdate calendar="gregorian" era="ce">April 13, 1955.</unitdate>
+Outline. Relates to the civilian and military role of atomic energy. Perhaps a final draft for The Cosmos Club speech of April 11?, 1955</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.14">
+          <did>
+            <container type="Folder">8</container>
+            <unittitle>"The Atom Today: The Present Status of Peacetime Developments," speech, Gannon College Engineering Project Dinner, <unitdate calendar="gregorian" era="ce">July 13, 1955.</unitdate>
+Draft</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.15">
+          <did>
+            <container type="Folder">9</container>
+            <unittitle>"Decision at H-Day," book proposal, <unitdate calendar="gregorian" era="ce">July 9, 1958.</unitdate>
+Draft</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.6.4" level="series">
+        <did>
+          <unittitle>MILITARY LIAISON COMMITTEE FILE, <unitdate calendar="gregorian" era="ce">1949-1954</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.6.4.2">
+          <did>
+            <unittitle>Appointment books, <unitdate calendar="gregorian" era="ce">1951-1952</unitdate></unittitle>
+          </did>
+          <c03 id="c03-1.7.6.4.2.2">
+            <did>
+              <container type="Box">2.</container>
+              <container type="Folder">10</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce">1951</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.2.3">
+            <did>
+              <container type="Folder">11</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce">1952</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.4.3">
+          <did>
+            <container type="Folder">12</container>
+            <unittitle>Biographical data. Interview, correspondence, resume and clipping, <unitdate calendar="gregorian" era="ce">1953-1976</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.4">
+          <did>
+            <container type="Folder">13</container>
+            <unittitle>Calendar, <unitdate calendar="gregorian" era="ce">1954?</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.5">
+          <did>
+            <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce">1954.</unitdate>
+Includes personal correspondence</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.4.5.2">
+            <did>
+              <container type="Box">3.</container>
+              <container type="Folder">1</container>
+              <unittitle>General. Correspondence neither to nor from LeBaron</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.3">
+            <did>
+              <container type="Folder">2</container>
+              <unittitle>Aircraft Industries Association</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.4">
+            <did>
+              <container type="Folder">3</container>
+              <unittitle>Bancroft, Ethel</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.5">
+            <did>
+              <container type="Folder">4</container>
+              <unittitle>Bendetsen, Karl R.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.6">
+            <did>
+              <container type="Folder">5</container>
+              <unittitle>Cammack, Howard H.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.7">
+            <did>
+              <container type="Folder">6</container>
+              <unittitle>Campbell, Levin H.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.8">
+            <did>
+              <container type="Folder">7</container>
+              <unittitle>Campbell, Majorie</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.9">
+            <did>
+              <container type="Folder">8</container>
+              <unittitle>Clarkson, P.W.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.10">
+            <did>
+              <container type="Folder">9</container>
+              <unittitle>Cockcroft, J.D.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.11">
+            <did>
+              <container type="Folder">10</container>
+              <unittitle>Cox, Carl C.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.12">
+            <did>
+              <container type="Folder">11</container>
+              <unittitle>Crump, George Mayo</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.13">
+            <did>
+              <container type="Folder">12</container>
+              <unittitle>Dodson, Richard W.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.14">
+            <did>
+              <container type="Folder">13</container>
+              <unittitle>Doherty, Henry A.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.15">
+            <did>
+              <container type="Folder">14</container>
+              <unittitle>Eisenhower, D. D.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.16">
+            <did>
+              <container type="Folder">15</container>
+              <unittitle>Fuller, Jean W.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.17">
+            <did>
+              <container type="Folder">16</container>
+              <unittitle>Hannah, John A.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.18">
+            <did>
+              <container type="Folder">17</container>
+              <unittitle>Ide, Chandler and Helen</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.19">
+            <did>
+              <container type="Folder">18</container>
+              <unittitle>Lawrence, E. O.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.20">
+            <did>
+              <container type="Folder">19</container>
+              <unittitle>Luckenbach, W. F., Jr.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.21">
+            <did>
+              <container type="Folder">20</container>
+              <unittitle>Machinery and Allied Products Institute</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.22">
+            <did>
+              <container type="Folder">21</container>
+              <unittitle>Midkiff, Frank E.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.23">
+            <did>
+              <container type="Folder">22</container>
+              <unittitle>Moore, Ralph O.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.24">
+            <did>
+              <container type="Folder">23</container>
+              <unittitle>Nash, Frank C.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.25">
+            <did>
+              <container type="Folder">24</container>
+              <unittitle>Penny, William</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.26">
+            <did>
+              <container type="Folder">25</container>
+              <unittitle>Pick, Vernon</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.27">
+            <did>
+              <container type="Folder">26</container>
+              <unittitle>Poister, C. E.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.28">
+            <did>
+              <container type="Folder">27</container>
+              <unittitle>Prentice, Howard A.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.29">
+            <did>
+              <container type="Folder">28</container>
+              <unittitle>Ramsey, D. C.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.30">
+            <did>
+              <container type="Folder">29</container>
+              <unittitle>Russel, James S.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.31">
+            <did>
+              <container type="Folder">30</container>
+              <unittitle>Schuyler, C. V. R.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.32">
+            <did>
+              <container type="Folder">31</container>
+              <unittitle>Shutt, R.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.33">
+            <did>
+              <container type="Folder">32</container>
+              <unittitle>Solandt, Ormond</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.34">
+            <did>
+              <container type="Folder">33</container>
+              <unittitle>Steffan, Roger</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.35">
+            <did>
+              <container type="Folder">34</container>
+              <unittitle>Stewart, Charles W.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.36">
+            <did>
+              <container type="Folder">35</container>
+              <unittitle>Strauss, Alice</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.37">
+            <did>
+              <container type="Folder">36</container>
+              <unittitle>Teleprompter of Washington, Inc.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.38">
+            <did>
+              <container type="Folder">37</container>
+              <unittitle>Teller, Edward</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.39">
+            <did>
+              <container type="Folder">38</container>
+              <unittitle>United States Atomic Energy Commission, General Advisory Committee</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.40">
+            <did>
+              <container type="Folder">39</container>
+              <unittitle>Vesper, Howard and Ruth</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.41">
+            <did>
+              <container type="Folder">40</container>
+              <unittitle>Wilson, Charles E.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.42">
+            <did>
+              <container type="Folder">41</container>
+              <unittitle>Wilson, R. C.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.43">
+            <did>
+              <container type="Folder">42</container>
+              <unittitle>Winkleblack, R. K.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.44">
+            <did>
+              <container type="Folder">43</container>
+              <unittitle>Wirth, Harold E.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.45">
+            <did>
+              <container type="Folder">44</container>
+              <unittitle>Wright, E. K.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.4.6">
+          <did>
+            <container type="Folder">45</container>
+            <unittitle>Memoranda, <unitdate calendar="gregorian" era="ce">1949-1954</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.7">
+          <did>
+            <container type="Folder">46</container>
+            <unittitle>Miscellany. Notes, itinerary, <unitdate calendar="gregorian" era="ce">c. 1949</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.8">
+          <did>
+            <container type="Folder">47</container>
+            <unittitle>Press Releases, <unitdate calendar="gregorian" era="ce">1954</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.9">
+          <did>
+            <container type="Folder">48</container>
+            <unittitle>Printed matter. Pamphlet on particle accelerators, <unitdate calendar="gregorian" era="ce">1947</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.10">
+          <did>
+            <container type="Folder">49</container>
+            <unittitle>Roster. Atomic Energy Council members and Military Liaison Committee members, <unitdate calendar="gregorian" era="ce">1949</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.11">
+          <did>
+            <container type="Folder">50</container>
+            <unittitle>Scrapbook. Letters of resignation, clippings, memoranda, press releases, photograph, <unitdate calendar="gregorian" era="ce">1949-1954</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.12">
+          <did>
+            <unittitle>Speeches and Writings, <unitdate calendar="gregorian" era="ce">1952-1954</unitdate></unittitle>
+          </did>
+          <c03 id="c03-1.7.6.4.12.2">
+            <did>
+              <container type="Folder">51</container>
+              <unittitle>Untitled, speech, Joint Civilian Orientation Conference, <unitdate calendar="gregorian" era="ce">April 2, 1952.</unitdate>
+Typescript. Relates to atomic weaponry, its production, implementation and effect on military strategy. Includes note cards</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.12.3">
+            <did>
+              <container type="Folder">52</container>
+              <unittitle>Untitled, speech, <unitdate calendar="gregorian" era="ce">September 1952.</unitdate>
+Typescript. Second draft, prepared by Coonley for distribution. Relates to atomic energy and weaponry. Includes memorandum with regard to Coonley's efforts</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.12.4">
+            <did>
+              <container type="Folder">53</container>
+              <unittitle>Untitled, speech, Industrial Power Development, Joint Congressional Committee (Atomic Energy), <unitdate calendar="gregorian" era="ce">June 25, 1953.</unitdate>
+Typescript. Relates to the military and the application of atomic energy to industry</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.12.5">
+            <did>
+              <container type="Folder">54</container>
+              <unittitle>"Atom Power for Homes in Five Years," <title render="italic">U.S. News and World Report, </title><unitdate calendar="gregorian" era="ce">June 25, 1954.</unitdate>
+Interview with LeBaron. Printed copy. Includes correspondence with readers</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.4.13">
+          <did>
+            <unittitle>Subject File, <unitdate calendar="gregorian" era="ce">1949-1954</unitdate></unittitle>
+          </did>
+          <c03 id="c03-1.7.6.4.13.2">
+            <did>
+              <container type="Folder">55</container>
+              <unittitle>Appointment as Chairman Military Liaison Committee, <unitdate calendar="gregorian" era="ce">1949.</unitdate>
+Memoranda, press release, correspondence, <unitdate calendar="gregorian" era="ce">1949-1950</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.13.3">
+            <did>
+              <container type="Folder">56</container>
+              <unittitle>Resignation as Chairman Military Liaison Committee, <unitdate calendar="gregorian" era="ce">1954.</unitdate>
+Memorandum, correspondence</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.13.4">
+            <did>
+              <container type="Box">4.</container>
+              <container type="Folder">1</container>
+              <unittitle>Security. Memorandum, <unitdate calendar="gregorian" era="ce">1954;</unitdate>
+Personnel Security Questionnaire, <unitdate calendar="gregorian" era="ce">1949?</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.6.5" level="series">
+        <did>
+          <unittitle>LE BARON ASSOCIATES FILE, <unitdate calendar="gregorian" era="ce">1955-1962</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.6.5.2">
+          <did>
+            <container type="Box">4.</container>
+            <container type="Folder">2</container>
+            <unittitle>Biographical. Resumes</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.5.3">
+          <did>
+            <container type="Folder">3</container>
+            <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce">1956.</unitdate>
+Strauss, Lewis</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.5.4">
+          <did>
+            <container type="Folder">4</container>
+            <unittitle>Memoranda, <unitdate calendar="gregorian" era="ce">1955-1962</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.5.5">
+          <did>
+            <container type="Folder">5</container>
+            <unittitle>Press Releases. Department of Defense?, Joint Committee on Atomic Energy</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.5.6">
+          <did>
+            <container type="Folder">6</container>
+            <unittitle>Prospectus</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.5.7">
+          <did>
+            <container type="Folder">7</container>
+            <unittitle>Roster. Committee on Commercial Uses of Atomic Energy </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.5.8">
+          <did>
+            <unittitle>Speeches and Writings, <unitdate calendar="gregorian" era="ce">1955-1958</unitdate></unittitle>
+          </did>
+          <c03 id="c03-1.7.6.5.8.2">
+            <did>
+              <container type="Folder">8</container>
+              <unittitle>Untitled, essay, <unitdate calendar="gregorian" era="ce">n.d.</unitdate>
+Typescript. Relates to industrial applications of classified research</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.5.8.3">
+            <did>
+              <container type="Folder">9</container>
+              <unittitle>"A Philosophical Approach to Long Range Atomic Investments," speech, National Industrial Conference Board Training Course, <unitdate calendar="gregorian" era="ce">September 14, 1955.</unitdate>
+Outline and handwritten notes</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.5.8.4">
+            <did>
+              <container type="Folder">10</container>
+              <unittitle>"Investing in Industrial Atomic Energy," speech, Commercial and International Developments in Atomic Energy, Atomic Industrial Forum, <unitdate calendar="gregorian" era="ce">September 27, 1955.</unitdate>
+Typescript, printed copy and agenda</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.5.8.5">
+            <did>
+              <container type="Folder">11</container>
+              <unittitle>"The Latin American Market Potential for Atomic Investment," speech, Atomic Energy in Industry, National Industrial Conference Board, Inc., <unitdate calendar="gregorian" era="ce">October 27, 1955.</unitdate>
+Typescript and printed copy</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.5.8.6">
+            <did>
+              <container type="Folder">12</container>
+              <unittitle>"Investment Opportunities," speech, Atomic Energy Course for Management, National Industrial Conference Board, Inc., <unitdate calendar="gregorian" era="ce">November 17, 1955.</unitdate>
+Outline</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.5.8.7">
+            <did>
+              <container type="Folder">13</container>
+              <unittitle>"Radiation's Share in the Atomic Future," speech, Quartermaster Corps Radiation and Sterilization of Foods Symposium, <unitdate calendar="gregorian" era="ce">January 23, 1956.</unitdate>
+Typescript</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.5.8.8">
+            <did>
+              <container type="Folder">14</container>
+              <unittitle>Untitled, speech, Daystrom Presidents' Meeting, Essex Club, <unitdate calendar="gregorian" era="ce">May 25, 1956.</unitdate>
+Outline</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.5.8.9">
+            <did>
+              <container type="Folder">15</container>
+              <unittitle>"Atomic Energy: Probable Impact on Investments," lectures, The Life Officers Investment Seminar, American Life Convention, <unitdate calendar="gregorian" era="ce">June 18-29, 1956.</unitdate>
+Outlines for two lectures</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.5.8.10">
+            <did>
+              <container type="Folder">16</container>
+              <unittitle>"Outlook for Investment," lecture, National Industrial Conference Board, Inc., <unitdate calendar="gregorian" era="ce">October 4, 1956.</unitdate>
+Outline. Includes draft</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.5.8.11">
+            <did>
+              <container type="Folder">17</container>
+              <unittitle>Untitled, speech, The Latest Prospects for Economic Nuclear Power - II, National Industrial Conference Board, Inc., <unitdate calendar="gregorian" era="ce">March 14-15, 1957.</unitdate>
+Outline</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.5.8.12">
+            <did>
+              <container type="Folder">18</container>
+              <unittitle>"Outline for Investments," lecture, Atomic Energy Course for Management, National Industrial Conference Board, Inc., <unitdate calendar="gregorian" era="ce">April 1-6, 1957.</unitdate>
+Outline</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.5.8.13">
+            <did>
+              <container type="Folder">19</container>
+              <unittitle>"A Public Forum for National Atomic Policy," speech, District of Columbia Bar, <unitdate calendar="gregorian" era="ce">October 8, 1957.</unitdate>
+Outline</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.5.8.14">
+            <did>
+              <container type="Folder">20</container>
+              <unittitle>"The Investment Situation in Atomic Energy," speech, National Industrial Conference Board, Inc., <unitdate calendar="gregorian" era="ce">October 11, 1957.</unitdate>
+Outline</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.5.8.15">
+            <did>
+              <container type="Folder">21</container>
+              <unittitle>"Atomic Transport," speech, "Road Gang" Group - Jim Mann, <unitdate calendar="gregorian" era="ce">November 7, 1957.</unitdate>
+Outline</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.5.8.16">
+            <did>
+              <container type="Folder">22</container>
+              <unittitle>"What does `Sputnik' Portend?," speech, Philco International, <unitdate calendar="gregorian" era="ce">January 31, 1958.</unitdate>
+Outline. Includes clippings, notes</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.5.8.17">
+            <did>
+              <container type="Folder">23</container>
+              <unittitle>"A New Atomic Economy," speech, Atomic Energy Management Conference, Atomic Industrial Forum, National Industrial Conference Board, Inc., <unitdate calendar="gregorian" era="ce">March 18, 1958.</unitdate>
+Typescript. Includes draft, and agenda for conference</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.5.8.18">
+            <did>
+              <container type="Folder">24</container>
+              <unittitle>Untitled, lecture, Atomic Energy Course for Management, National Industrial Conference Board, Inc., <unitdate calendar="gregorian" era="ce">April 18-19, 1958.</unitdate>
+Outline</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.5.8.19">
+            <did>
+              <container type="Folder">25</container>
+              <unittitle>"What is the Future of Commercial Radiation?," speech, Atomic Energy in Industry, 7th Annual Conference, National Industrial Conference Board, Inc., <unitdate calendar="gregorian" era="ce">April 9, 1959.</unitdate>
+Typescript</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.5.9">
+          <did>
+            <unittitle>Subject File</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.5.9.2">
+            <did>
+              <container type="Folder">26</container>
+              <unittitle>Atomic Energy Study Group, <unitdate calendar="gregorian" era="ce">1955.</unitdate>
+Correspondence, proposals, minutes, clippings</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.5.9.3">
+            <did>
+              <container type="Folder">27</container>
+              <unittitle>Security. Correspondence, memoranda, classified reports receipts, all pertaining to LeBaron's security clearance</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.6.6" level="series">
+        <did>
+          <unittitle>LE BARON FOUNDATION FILE, <unitdate calendar="gregorian" era="ce">1967-1972?</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.6.6.2">
+          <did>
+            <container type="Box">4.</container>
+            <container type="Folder">28</container>
+            <unittitle>Clippings, <unitdate calendar="gregorian" era="ce">1967-1968</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.6.3">
+          <did>
+            <container type="Folder">29</container>
+            <unittitle>Memoranda. Handwritten, typewritten, <unitdate calendar="gregorian" era="ce">1968</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.6.4">
+          <did>
+            <container type="Folder">30</container>
+            <unittitle>Printed Matter. Annual report of the LeBaron Foundation, <unitdate calendar="gregorian" era="ce">1972?</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.6.7" level="series">
+        <did>
+          <unittitle>OVERSIZE, <unitdate calendar="gregorian" era="ce">1949-1981</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.6.7.2">
+          <did>
+            <container type="Box">5.</container>
+            <unittitle>Scrapbook, <unitdate calendar="gregorian" era="ce">1950-1981.</unitdate>
+Correspondence, clippings, invitations, photographs, music scores</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.7.3">
+          <did>
+            <container type="Box">6.</container>
+            <unittitle>Scrapbooks, <unitdate calendar="gregorian" era="ce">1949-1963.</unitdate>
+Correspondence, clippings, invitations, photographs</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.6.8" level="series">
+        <did>
+          <unittitle>PHONOTAPE, <unitdate calendar="gregorian" era="ce">c. 1970</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.6.8.2">
+          <did>
+            <container type="cassette">1</container>
+            <unittitle>Compact cassette, 90 minutes. Tape recording of discussion between Lin Root?, Robert LeBaron and Peggy LeBaron</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

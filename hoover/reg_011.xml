@@ -1,0 +1,416 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  
+  
+  
+  
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" repositoryencoding="iso15511" findaidstatus="unverified-full-draft" langencoding="iso639-2b"><eadid countrycode="us" identifier="ark:/13030/tf7199n8jb" mainagencycode="CSt-H" publicid="PUBLIC &quot;-//Stanford University::Hoover Institution Archives//TEXT&#10;(US::CSt-H::::James Richard Curtiss Papers)//EN&quot; &quot;reg_011.sgm&quot;">reg_011.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Preliminary Inventory to the James Richard Curtiss Papers, <date calendar="gregorian" era="ce">1981-1993</date></titleproper><titleproper type="filing">Curtiss (James R.) Papers</titleproper>
+        <author>machine-readable finding aid created by
+Brooke Dykman Dockter</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Hoover Institution Archives</publisher>
+        <address>
+          <addressline>Stanford University</addressline>
+          <addressline>Stanford, California 94305-6010</addressline>
+          <addressline>Phone: (650) 723-3563</addressline>
+          <addressline>Fax: (650) 725-3445</addressline>
+          <addressline>Email: hooverarchives@stanford.edu</addressline>
+        </address>
+        <date calendar="gregorian" era="ce">&#xA9; 1997</date>
+        <p>Hoover Institution Archives. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc><profiledesc>
+      <creation>Machine-readable finding aid derived from Word-11, a Unix VAX-specific word processing program. [Date of source: <date calendar="gregorian" era="ce">Unknown.</date>]</creation>
+      <langusage>Description is in <language langcode="eng" scriptcode="latn">English.</language></langusage>
+    </profiledesc><revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//Stanford University::Hoover Institution Archives//TEXT
+(US::CSt-H::::James Richard Curtiss Papers)//EN" "reg_011.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+     <change>
+      <date calendar="gregorian" era="ce" normal="20120725">July 25,2012</date>
+      <item>Revised to update encoding and add unitid by Jill Golden</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Preliminary Inventory to the James Richard Curtiss Papers, <date calendar="gregorian" era="ce">1981-1993</date></titleproper>
+      <publisher>Hoover Institution Archives 
+<lb/>Stanford University 
+<lb/>Stanford, California</publisher>
+      <list type="simple">
+        <head>Contact Information</head>
+        <item>Hoover Institution Archives</item>
+        <item>Stanford University</item>
+        <item>Stanford, California 94305-6010</item>
+        <item>Phone: (650) 723-3563</item>
+        <item>Fax: (650) 725-3445</item>
+        <item>Email: hooverarchives@stanford.edu</item>
+      </list>
+      <list type="deflist">
+        <defitem>
+          <label>Encoded by: </label>
+          <item>Brooke Dykman Dockter</item>
+        </defitem>
+      </list>
+      <p>&#xA9; 1997 Hoover Institution Archives. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection">
+    <did id="did-1.7.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">James Richard Curtiss Papers, </unittitle><unitdate calendar="gregorian" era="ce" type="inclusive" normal="1981/1993">1981-1993</unitdate>
+      <unitid label="Collection number" repositorycode="CSt-H" countrycode="US">95011</unitid>
+
+      <origination label="Creator">
+        <persname>Curtiss, James Richard</persname>
+      </origination>
+ <physdesc label="Extent">
+        <extent>48 manuscript boxes</extent>
+        <extent>(20 linear feet)</extent>
+      </physdesc>
+      <repository label="Repository">
+        <corpname>Hoover Institution Archives</corpname>
+        <address>
+          <addressline>Stanford, California 94305-6010</addressline>
+        </address>
+      </repository>
+      <abstract label="Abstract">Memoranda and reports, relating to nuclear power plants in the United States, including
+issues of licensing, safety, and waste management. Photocopy.</abstract>
+<physloc label="Physical Location">Hoover Institution Archives</physloc>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <descgrp id="descgrp-1.7.2" type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict>
+        <head>Access</head>
+        <p>Collection is open for research.</p>
+<p>The Hoover Institution Archives only allows access to <emph render="italic">copies</emph> of audiovisual items. To listen to sound recordings or to view videos or films during your visit, please contact the Archives at least two working days before your arrival. We will then advise you of the accessibility of the material you wish to see or hear. Please note that not all audiovisual material is immediately accessible.</p>
+      </accessrestrict>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>For copyright status, please contact the Hoover Institution Archives</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], James Richard Curtiss Papers, [Box no.], Hoover Institution
+Archives.</p>
+      </prefercite>
+<acqinfo encodinganalog="541">
+ <head>Acquisition Information</head>
+ <p>Acquired by the Hoover Institution Archives in 1995.</p>
+</acqinfo>
+
+<accruals encodinganalog="525"><head>Accruals</head>
+<p>Materials may have been added to the collection since this finding aid was prepared. To determine if this has occurred, find the collection in Stanford University's online catalog Socrates at <extref linktype="simple" href="http://library.stanford.edu/webcat" actuate="onrequest" show="new"> http://library.stanford.edu/webcat</extref>. Materials have been added to the collection if the number of boxes listed in Socrates is larger than the number of boxes listed in this finding aid.</p>
+</accruals>
+    </descgrp>
+    <controlaccess id="controlaccess-1.7.3">
+      <head>Access Points</head>
+      <corpname>United States. Nuclear Regulatory Commission.</corpname>
+      <subject>Nuclear energy--United States.</subject>
+      <subject>Nuclear energy.</subject>
+      <subject>United States--Politics and government.</subject>
+      <persname>Reagan, Ronald.</persname>
+    </controlaccess>
+    <dsc id="dsc-1.7.4" type="in-depth">
+      <head>PRELIMINARY INVENTORY</head>
+      <p>All papers are from the United States Nuclear Regulatory Commission SECY series.</p>
+      <c01 id="c01-1.7.4.3">
+        <did>
+          <container type="Box">1</container>
+          <unittitle>81-215 to 88-287</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.4">
+        <did>
+          <container type="Box">2</container>
+          <unittitle>88-289 to 88-315</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.5">
+        <did>
+          <container type="Box">3</container>
+          <unittitle>88-316 to 88-356</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.6">
+        <did>
+          <container type="Box">4</container>
+          <unittitle>89-004 to 89-030A</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.7">
+        <did>
+          <container type="Box">5</container>
+          <unittitle>89-033 to 89-080</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.8">
+        <did>
+          <container type="Box">6</container>
+          <unittitle>89-081 to 89-108</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.9">
+        <did>
+          <container type="Box">7</container>
+          <unittitle>89-114 to 89-169</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.10">
+        <did>
+          <container type="Box">8</container>
+          <unittitle>89-171 to 89-208</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.11">
+        <did>
+          <container type="Box">9</container>
+          <unittitle>89-210 to 89-258</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.12">
+        <did>
+          <container type="Box">10</container>
+          <unittitle>89-261 to 89-303</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.13">
+        <did>
+          <container type="Box">11</container>
+          <unittitle>89-304 to 89-355</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.14">
+        <did>
+          <container type="Box">12</container>
+          <unittitle>89-356 to 90-049</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.15">
+        <did>
+          <container type="Box">13</container>
+          <unittitle>90-051 to 90-097</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.16">
+        <did>
+          <container type="Box">14</container>
+          <unittitle>90-098 to 90-147</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.17">
+        <did>
+          <container type="Box">15</container>
+          <unittitle>90-148 to 90-187</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.18">
+        <did>
+          <container type="Box">16</container>
+          <unittitle>90-189 to 90-216</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.19">
+        <did>
+          <container type="Box">17</container>
+          <unittitle>90-217 to 90-267</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.20">
+        <did>
+          <container type="Box">18</container>
+          <unittitle>90-268 to 90-315</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.21">
+        <did>
+          <container type="Box">19</container>
+          <unittitle>90-316 to 90-376</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.22">
+        <did>
+          <container type="Box">20</container>
+          <unittitle>90-377 to 90-409</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.23">
+        <did>
+          <container type="Box">21</container>
+          <unittitle>90-412 to 91-035</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.24">
+        <did>
+          <container type="Box">22</container>
+          <unittitle>91-036 to 91-096</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.25">
+        <did>
+          <container type="Box">23</container>
+          <unittitle>91-097 to 91-129</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.26">
+        <did>
+          <container type="Box">24</container>
+          <unittitle>91-130 to 91-149</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.27">
+        <did>
+          <container type="Box">25</container>
+          <unittitle>91-150 to 91-179</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.28">
+        <did>
+          <container type="Box">26</container>
+          <unittitle>91-181 to 91-205</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.29">
+        <did>
+          <container type="Box">27</container>
+          <unittitle>91-205 to 91-233</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.30">
+        <did>
+          <container type="Box">28</container>
+          <unittitle>91-235 to 91-275</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.31">
+        <did>
+          <container type="Box">29</container>
+          <unittitle>91-277 to 91-314</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.32">
+        <did>
+          <container type="Box">30</container>
+          <unittitle>91-315 to 91-357</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.33">
+        <did>
+          <container type="Box">31</container>
+          <unittitle>91-361 to 91-399</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.34">
+        <did>
+          <container type="Box">32</container>
+          <unittitle>91-400 to 92-027</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.35">
+        <did>
+          <container type="Box">33</container>
+          <unittitle>92-028 to 92-073</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.36">
+        <did>
+          <container type="Box">34</container>
+          <unittitle>92-074 to 92-128</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.37">
+        <did>
+          <container type="Box">35</container>
+          <unittitle>92-130 to 92-169</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.38">
+        <did>
+          <container type="Box">36</container>
+          <unittitle>92-170 to 92-173</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.39">
+        <did>
+          <container type="Box">37</container>
+          <unittitle>92-174 to 92-200</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.40">
+        <did>
+          <container type="Box">38</container>
+          <unittitle>92-201 to 92-242</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.41">
+        <did>
+          <container type="Box">39</container>
+          <unittitle>92-243 to 92-291</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.42">
+        <did>
+          <container type="Box">40</container>
+          <unittitle>92-292 to 92-329</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.43">
+        <did>
+          <container type="Box">41</container>
+          <unittitle>92-331 to 92-348</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.44">
+        <did>
+          <container type="Box">42</container>
+          <unittitle>92-349 to 92-370</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.45">
+        <did>
+          <container type="Box">43</container>
+          <unittitle>92-373 to 92-412</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.46">
+        <did>
+          <container type="Box">44</container>
+          <unittitle>92-413 to 93-013</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.47">
+        <did>
+          <container type="Box">45</container>
+          <unittitle>93-014 to 93-064</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.48">
+        <did>
+          <container type="Box">46</container>
+          <unittitle>93-067 to 93-102</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.49">
+        <did>
+          <container type="Box">47</container>
+          <unittitle>93-103 to 93-165</unittitle>
+        </did>
+      </c01>
+      <c01 id="c01-1.7.4.50">
+        <did>
+          <container type="Box">48</container>
+          <unittitle>93-166 to 93-182</unittitle>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

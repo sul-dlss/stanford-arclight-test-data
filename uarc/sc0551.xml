@@ -1,0 +1,2618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[Walter Ernst Meyerhof papers])//EN"
+             identifier="ark:/13030/kt9b69s5c1">sc0551.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Walter Ernst Meyerhof Papers
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Meyerhof (Walter Ernst) Papers</titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2010-10">October 2010</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC0551</unitid>
+         <origination label="Creator:">
+            <persname rules="aacr" source="naf">Meyerhof, Walter E. (Walter Ernst), 1922-</persname>
+         </origination>
+         <unittitle label="Title:">Walter Ernst Meyerhof papers</unittitle>
+         <unitdate normal="1948/1994"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1948-1994</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>25.5 Linear feet</extent>
+         </physdesc>
+         <abstract label="Summary:">The papers of Walter E. Meyerhof document his administrative, teaching, and research activities in the Department of Physics at Stanford; included are departmental records, correspondence, course materials, research files, grant files, committee minutes and records, reports, and reprints. Some of the class files are those of Prof. John D. Walecka.</abstract>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <descgrp type="provenance" id="prov">
+            <head>Provenance</head>
+            <acqinfo id="ref3">
+               <p>Gift of Walter E. Meyerhof, 1998.</p>
+            </acqinfo>
+         </descgrp>
+         <accessrestrict id="ref4">
+            <head>Information about Access</head>
+            <p>This collection is open for research.</p>
+         </accessrestrict>
+         <userestrict id="ref5">
+            <head>Ownership &amp; Copyright</head>
+            <p>All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Special Collections and University Archives, Stanford University Libraries, Stanford, California 94304-6064. Consent is given on behalf of Special Collections as the owner of the physical items and is not intended to include or imply permission from the copyright owner. Such permission must be obtained from the copyright owner, heir(s) or assigns. See: http://library.stanford.edu/depts/spc/pubserv/permissions.html.</p>
+            <p>Restrictions also apply to digital representations of the original materials. Use of digital files is restricted to research and educational purposes.</p>
+         </userestrict>
+         <prefercite id="ref6">
+            <head>Cite As</head>
+            <p>Walter Ernst Meyerhof Papers (SC0551). Department of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <bioghist id="ref7">
+         <head>Biographical/Historical Sketch</head>
+         <p>Walter E. Meyerhof earned his M.A. in physics in 1944 and Ph.D. in 1946 at the University of Pennsylvania. He taught at the University of Illinois, Urbana before joining the Stanford faculty in 1949. He retired from active teaching in 1992.</p>
+      </bioghist>
+      <scopecontent id="ref8">
+         <head>Description of the Collection</head>
+         <p>The papers of Walter E. Meyerhof document his administrative, teaching, and research activities in the Department of Physics at Stanford; included are departmental records, correspondence, course materials, research files, grant files, committee minutes and records, reports, and reprints. Some of the class files are those of Prof. John D. Walecka.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <persname rules="aacr" source="naf">Meyerhof, Walter E. (Walter Ernst), 1922-</persname>
+         <corpname rules="dacs" source="naf">Stanford University. Department of Physics.</corpname>
+         <persname rules="aacr" source="naf">Walecka, John Dirk, 1932-</persname>
+         <subject source="LCSH">Nuclear physics.</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.6">
+         <head>Collection Contents</head>
+         <c01 id="ref9" level="series">
+            <did>
+               <unitid>Accession ARCH-1998-145</unitid>
+               <unittitle>Papers</unittitle>
+            </did>
+            <note>
+               <p>ROUGH OVERVIEW OF BOXES</p>
+               <list type="ordered">
+                  <item>1-5 Atomic Research</item>
+                  <item>5-8 Miscellaneous: minutes, project files, some unlabeled files</item>
+                  <item>8-13 Atomic Radiation</item>
+                  <item>14-16 Stanford courses</item>
+                  <item>16-20 Physics department files</item>
+                  <item>21-23 Department related, alpha files A - L</item>
+                  <item>24-26 Department related, alpha files M - R</item>
+                  <item>27-28 Department related, alpha files R - Z</item>
+                  <item>27-28 Miscellaneous files</item>
+                  <item>29-31 Faculty Reports</item>
+                  <item>29-31 Progress Reports</item>
+                  <item>29-31 Proposals</item>
+                  <item>31-35 Administrative files: purchase orders, abstracts, conferences, talks, manuscripts</item>
+                  <item>35-37 Administrative files</item>
+                  <item>35-37 Correspondence</item>
+                  <item>37-39 Administrative files</item>
+                  <item>37-39 Files from desk</item>
+                  <item>39-40 Files from desk</item>
+                  <item>37-39 41-44 Reprints; card file</item>
+               </list>
+            </note>
+            <c02 id="ref10" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Atomic Research:</unittitle>
+               </did>
+               <c03 id="ref11" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>MO Munich 1973</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref12" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Observ. of Z=70 Br+Br</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref13" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Quasiatours</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref14" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Auger – X Ray</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref15" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Stopped Atom</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref16" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>MO Shape</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref17" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>AFO/MO x-ray proc. Belgrade 1973</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref18" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Conferences</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref19" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Heidelberg</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref20" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>IX IC Peace IV ISIAC</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref21" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Review Letters</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref22" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Annual Reviews Article, 1977</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref23" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Position emission</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref24" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Dilution experiments</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref25" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>MO Auisotropy</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref26" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Pb-Pb MO Exp't</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref27" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>L-L level watching</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref28" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>K-L level watching</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref29" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Multistep process</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref30" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Thorson Plot</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref31" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>MO Carambole</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref32" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>1976 Meetings</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref33" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>80 Mev I+I</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref34" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>1974, 1980 Meetings</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref35" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>US – Japan</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref36" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>3dδ Ioniz. P(b)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref37" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>2 dδ Paper (II)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref38" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <unittitle>Science Article</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref39" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <unittitle>Nuclear reaction Effects on Intershell Ionization (Draft)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref40" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <unittitle>2 FEV 436 Progress report 1980/81</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref41" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <unittitle>1 FEV 403 Germany / France</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref42" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <unittitle>1082/83 Progress report</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref43" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <unittitle>U+U Berkeley, 1984/85</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref44" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <unittitle>Final report 1989</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref45" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <unittitle>Progress report 1984</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref46" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <unittitle>Facilities account # 3 2 FEV 443</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref47" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <unittitle>1 FEV 402</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref48" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <unittitle>Computer proposal</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref49" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <unittitle>Frankfurt / Bordeaux Coop. Program 1985/90, NSF 84-14671</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref50" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <unittitle>2 FEV 435 - finished</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref51" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <unittitle>NSF equipment proposal</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref52" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <unittitle>ATO. Phys. Expenses Nov. 1980, 2 FEV 436</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref53" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <unittitle>1994 proposal</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref54" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <unittitle>Supplementary 1991 proposal, 2 FEV 448</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref55" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <unittitle>2 FEV 449 SCAC FAB – University Memos etc.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref56" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <unittitle>Facilities account: 2 FEV 437/8; Computer proposal 2 FEV 440; 2 FEV 442</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref57" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <unittitle>Atomic physics expenses 2 FEV 442</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref58" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <unittitle>Frankfurt Coop. Prog. 1981-85</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref59" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <unittitle>1987 proposal to NSF PHY-86-14650</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref60" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <unittitle>NSF 1984 Proposal</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref61" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <unittitle>2 FEV 444</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref62" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <unittitle>2 FEV 445 Facilities account #4</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref63" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <unittitle>Proposed research plans for Van De Graff Lab</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref64" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <unittitle>Meyerhof original proposal 2 FEV 436</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref65" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <unittitle>Progress report 1989/90 figures</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref66" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <unittitle>CN proposal</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref67" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <unittitle>1984 Proposal</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref68" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <unittitle>NSF Suppl. Proposal to 2</unittitle>
+                     <unitdate>FEV 436 (Aug. 1983)</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref69" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <unittitle>Atomic proposal</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref70" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Women in Physics – Stanford U.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref71" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Minutes 1988/89</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref72" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Minutes 1986/7/8</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref73" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Astro search</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref74" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Gravitation Com</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref75" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Quantum Electronic search</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref76" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>SHOP</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref77" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Davisson-Germer</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref78" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Senate represent</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref79" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Affirm. Action</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref80" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Van De Graff Stanford</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref81" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>High Volt. Engineering Corp</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref82" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Levine</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref83" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Kirkpatrick resolution</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref84" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Hofstadter Resolution</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref85" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Meetings and invitations</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref86" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Lecture Hall</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref87" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Van de Graaf Building (empty)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref88" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Van de Graaf Use</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref89" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Tandem optics</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref90" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Grad. School Committee</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref91" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Foil Changer Equip. Rebate</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref92" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Everitt</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref93" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Cranston, Frederic P.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref94" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Crasemann</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref95" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Chain Hoists &amp; Cranes</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref96" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Bruch</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref97" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Book</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref98" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Blumenfeld</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref99" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Advances in Ado/Mobe Phys. Articles</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref100" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Amer. Phys. Soc., Am. Inst. Of Physics, etc.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref101" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Atomic Data</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref102" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>B-ray spectometer</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref103" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Answer Book</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref104" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>1994 references</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref105" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Thoughts on classroom teaching</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref106" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Physics 10 1972/3</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref107" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>HEPL search</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref108" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>ICPEAC 1985</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref109" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>References</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref110" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>References 1991/2</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref111" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Misc. papers</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref112" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Compound . . . X-rays</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref113" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Duinker effect</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref114" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Memorandum &amp; misc.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref115" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Metal-Metal contacts</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref116" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Beta-Bay spectrometer</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref117" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Be 9</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref118" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>X-ray intensities</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref119" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>β ranger</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref120" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Standard absorption curves</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref121" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>γ-γ angular correlation curves</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref122" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Absorption coefficients</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref123" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Standard curves – extra copies</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref124" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>No. I Detector Efficiencies</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref125" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Energy spread in neutron producing reactions</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref126" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>"An Atom Smasher for Well Logging" by Philip W. Martin</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref127" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Lamb – Advanced QM</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref128" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>G (UA) highly promoted MO's</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref129" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Miscellaneous</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref130" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Inelastic N scattering Zu, Ce</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref131" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Cl 33</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref132" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>As 71</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref133" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Ir 192</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref134" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>e polarization</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref135" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Radiation</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref136" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Brower</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref137" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Burch</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref138" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Donahue</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref139" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Felmann</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref140" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Gove, Durser</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref141" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Hoffmann</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref142" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>University Panel on Radiological Hazards</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref143" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Hopkins</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref144" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Mehlhorn</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref145" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>McDonald</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref146" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Miller</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref147" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Moore</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref148" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Saris</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref149" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Tucker</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref150" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Physics 11 1979/80</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref151" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Lectures in ionization etc.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref152" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Physics 21 1987-90</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref153" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Physics 25 1989/90</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref154" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Physics 51 1967-68</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref155" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Physics 52-53. Electricity</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref156" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Physics 55 set ups</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref157" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Physics 57 1960/61</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref158" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <unittitle>Physics 55 Fall 91</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref159" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <unittitle>Physics 57 lectures</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref160" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <unittitle>Physics 57 summer 1962 Exams/Problems</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref161" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <unittitle>Physics 105 Solids</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref162" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <unittitle>Physics 108 58/59</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref163" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <unittitle>Physics 140 1967-68</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref164" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <unittitle>Physics Nuclear Moment - Bloch</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref165" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <unittitle>Themodynamics Physics 173</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref166" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <unittitle>Physics 175</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref167" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <unittitle>Stanford Physics 181 1950/51</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref168" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <unittitle>Physics 181 1951/52</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref169" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <unittitle>Physics 183 1953/54</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref170" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <unittitle>185/7 1961-62</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref171" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <unittitle>Physics 240/1 1962/3</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref172" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <unittitle>Physics 240, Nuclear physics, Autumn 1965/66</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref173" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <unittitle>Physics 181 1972/73</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref174" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <unittitle>Physics 299</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref175" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <unittitle>Physics 260 1987</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref176" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <unittitle>Physics 260 Talk</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref177" level="file">
+               <did>
+                  <container type="Box">16</container>
+                  <unittitle>Nuclear Physics 240-241, Stanford Univ., 1969/70</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref178" level="file">
+               <did>
+                  <container type="Box">16</container>
+                  <unittitle>Physics 241 Walecka</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref179" level="file">
+               <did>
+                  <container type="Box">16</container>
+                  <unittitle>Physics 242 Walecka</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref180" level="file">
+               <did>
+                  <container type="Box">16</container>
+                  <unittitle>Physics 243 Walecka</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref181" level="file">
+               <did>
+                  <container type="Box">16</container>
+                  <unittitle>Curriculum Project</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref182" level="file">
+               <did>
+                  <container type="Box">16</container>
+                  <unittitle>Minutes 1989-.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref183" level="file">
+               <did>
+                  <container type="Box">16</container>
+                  <unittitle>Grad. Study Committee</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref184" level="file">
+               <did>
+                  <container type="Box">16</container>
+                  <unittitle>Minutes 1985-6</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref185" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <unittitle>Minutes 1984-5</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref186" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <unittitle>Minutes 1983</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref187" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <unittitle>Stipends 1979-83</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref188" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <unittitle>Minutes 1982</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref189" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <unittitle>Minutes 1981-82</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref190" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <unittitle>TA Survey 1979-80</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref191" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <unittitle>Minutes 1979/81</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref192" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <unittitle>Minutes 1977/79</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref193" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <unittitle>Grad. Students 1977-8</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref194" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <unittitle>Grad. Students 1975-6</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref195" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <unittitle>Professorial Committee 1976-77</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref196" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <unittitle>Grad Students 1976-77</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref197" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <unittitle>Grad Students 1974</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref198" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <unittitle>Grad Studies 1965-70</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref199" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <unittitle>Grad Studies 1972-74</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref200" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <unittitle>Grad Studies 1970-72</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref201" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <unittitle>Trial Tutorial System</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref202" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <unittitle>Course Review (Physics)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref203" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <unittitle>Education Committee</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref204" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <unittitle>Faculty Meetings 1975-77</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref205" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <unittitle>Faculty Meetings 1970-71</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref206" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <unittitle>Minutes of Meetings 1970-75</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref207" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <unittitle>Stanford 1969-70</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref208" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <unittitle>Stanford 1968-69</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref209" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <unittitle>Stanford 1961-72, misc.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref210" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <unittitle>Stanford 1967-68</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref211" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <unittitle>Education Committee</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref212" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <unittitle>Stanford Minutes 1966-67</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref213" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <unittitle>Students 1965-66</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref214" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <unittitle>Stanford minutes 1965-66</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref215" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <unittitle>Students 1964-65</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref216" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <unittitle>Stanford minutes 1964-65</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref217" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <unittitle>Stanford minutes 1963-64</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref218" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <unittitle>Students 1963-64</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref219" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <unittitle>Stanford minutes 1962-63</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref220" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <unittitle>Students 1962-63</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref221" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <unittitle>Stanford minutes 1961-62</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref222" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <unittitle>Graduate students 1961-62</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref223" level="file">
+               <did>
+                  <container type="Box">20</container>
+                  <unittitle>Stanford minutes 1960-61</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref224" level="file">
+               <did>
+                  <container type="Box">20</container>
+                  <unittitle>Graduate students 1960-61</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref225" level="file">
+               <did>
+                  <container type="Box">20</container>
+                  <unittitle>Physics 51 discussions</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref226" level="file">
+               <did>
+                  <container type="Box">20</container>
+                  <unittitle>Stanford minutes 1959-60</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref227" level="file">
+               <did>
+                  <container type="Box">20</container>
+                  <unittitle>Graduate students 1959-60</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref228" level="file">
+               <did>
+                  <container type="Box">20</container>
+                  <unittitle>Stanford minutes 1958-59</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref229" level="file">
+               <did>
+                  <container type="Box">20</container>
+                  <unittitle>Graduate students 1958-59</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref230" level="file">
+               <did>
+                  <container type="Box">20</container>
+                  <unittitle>Stanford minutes 1957-58</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref231" level="file">
+               <did>
+                  <container type="Box">20</container>
+                  <unittitle>Professional and Faculty meetings 1956-1957</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref232" level="file">
+               <did>
+                  <container type="Box">20</container>
+                  <unittitle>Graduate Study Committee (G.S.C.) 1956-57 (4 folders)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref233" level="file">
+               <did>
+                  <container type="Box">20</container>
+                  <unittitle>Physics Department 1956-57</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref234" level="file">
+               <did>
+                  <container type="Box">20</container>
+                  <unittitle>Undergraduate Study Comm. 1956-57</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref235" level="file">
+               <did>
+                  <container type="Box">20</container>
+                  <unittitle>Professional and Faculty Meetings 1953-56</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref236" level="file">
+               <did>
+                  <container type="Box">20</container>
+                  <unittitle>G.S.C. 1955-56 (4 folders), 1954-55 (3 folders), 1953-54 (3 folders)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref237" level="file">
+               <did>
+                  <container type="Box">20</container>
+                  <unittitle>Undergraduate Study Comm. 1953-56</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref238" level="file">
+               <did>
+                  <container type="Box">20</container>
+                  <unittitle>Physics Department 1953-56</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref239" level="file">
+               <did>
+                  <container type="Box">21</container>
+                  <unittitle>Professional and Faculty Meetings 1950-53</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref240" level="file">
+               <did>
+                  <container type="Box">21</container>
+                  <unittitle>G.S.C. 1952-53 (3 folders), 1951-52 (3 folders), 1950-51 (4 folders), and 1949-1950 (1 folder)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref241" level="file">
+               <did>
+                  <container type="Box">21</container>
+                  <unittitle>Physics Department 1950-53</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref242" level="file">
+               <did>
+                  <container type="Box">21</container>
+                  <unittitle>Undergraduate Study Comm. 1950-52</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref243" level="file">
+               <did>
+                  <container type="Box">21</container>
+                  <unittitle>Other, 1949-50 and prior to</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref244" level="file">
+               <did>
+                  <container type="Box">21</container>
+                  <unittitle>High School Students</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref245" level="file">
+               <did>
+                  <container type="Box">21</container>
+                  <unittitle>Dept. Grad. Study Comm: Minutes of Last Years, bound annually</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref246" level="file">
+               <did>
+                  <container type="Box">21</container>
+                  <unittitle>Dept. Grad. Study Comm: loose minutes and other notes</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref247" level="file">
+               <did>
+                  <container type="Box">21</container>
+                  <unittitle>APS Committee on Minorities</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref248" level="file">
+               <did>
+                  <container type="Box">21</container>
+                  <unittitle>Anholt</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref249" level="file">
+               <did>
+                  <container type="Box">21</container>
+                  <unittitle>Annual Review</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref250" level="file">
+               <did>
+                  <container type="Box">21</container>
+                  <unittitle>Argonne</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref251" level="file">
+               <did>
+                  <container type="Box">21</container>
+                  <unittitle>Andriamonte</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref252" level="file">
+               <did>
+                  <container type="Box">22</container>
+                  <unittitle>Army Research</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref253" level="file">
+               <did>
+                  <container type="Box">22</container>
+                  <unittitle>A.P.S. Nominating Committee</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref254" level="file">
+               <did>
+                  <container type="Box">22</container>
+                  <unittitle>Auston, Sam</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref255" level="file">
+               <did>
+                  <container type="Box">22</container>
+                  <unittitle>Baker</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref256" level="file">
+               <did>
+                  <container type="Box">22</container>
+                  <unittitle>Berkeley</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref257" level="file">
+               <did>
+                  <container type="Box">22</container>
+                  <unittitle>Becker, U.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref258" level="file">
+               <did>
+                  <container type="Box">22</container>
+                  <unittitle>Blatt</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref259" level="file">
+               <did>
+                  <container type="Box">22</container>
+                  <unittitle>Bloch, Felix</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref260" level="file">
+               <did>
+                  <container type="Box">22</container>
+                  <unittitle>Bloch committee</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref261" level="file">
+               <did>
+                  <container type="Box">22</container>
+                  <unittitle>Bockelheide, Irving</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref262" level="file">
+               <did>
+                  <container type="Box">22</container>
+                  <unittitle>Brun, Dr. Ernst</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref263" level="file">
+               <did>
+                  <container type="Box">22</container>
+                  <unittitle>California Research Corp. (2 folders)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref264" level="file">
+               <did>
+                  <container type="Box">23</container>
+                  <unittitle>CAMS</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref265" level="file">
+               <did>
+                  <container type="Box">23</container>
+                  <unittitle>CERN</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref266" level="file">
+               <did>
+                  <container type="Box">23</container>
+                  <unittitle>Chase, Lloyd F., Jr.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref267" level="file">
+               <did>
+                  <container type="Box">23</container>
+                  <unittitle>Community college</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref268" level="file">
+               <did>
+                  <container type="Box">23</container>
+                  <unittitle>Consulting</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref269" level="file">
+               <did>
+                  <container type="Box">23</container>
+                  <unittitle>Consultants and visitors</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref270" level="file">
+               <did>
+                  <container type="Box">23</container>
+                  <unittitle>Cyclotron</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref271" level="file">
+               <did>
+                  <container type="Box">23</container>
+                  <unittitle>Danforth</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref272" level="file">
+               <did>
+                  <container type="Box">23</container>
+                  <unittitle>Dale, Daniel Stanton</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref273" level="file">
+               <did>
+                  <container type="Box">23</container>
+                  <unittitle>Employment</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref274" level="file">
+               <did>
+                  <container type="Box">23</container>
+                  <unittitle>Frank Dietrich</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref275" level="file">
+               <did>
+                  <container type="Box">23</container>
+                  <unittitle>Fairbank, William Martin</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref276" level="file">
+               <did>
+                  <container type="Box">23</container>
+                  <unittitle>Gauntt</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref277" level="file">
+               <did>
+                  <container type="Box">23</container>
+                  <unittitle>GUARDALA, N.A.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref278" level="file">
+               <did>
+                  <container type="Box">23</container>
+                  <unittitle>HLS Budget Advisory Group</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref279" level="file">
+               <did>
+                  <container type="Box">23</container>
+                  <unittitle>S.S. Hanna</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref280" level="file">
+               <did>
+                  <container type="Box">23</container>
+                  <unittitle>Tulane</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref281" level="file">
+               <did>
+                  <container type="Box">24</container>
+                  <unittitle>Humboldt Foundation</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref282" level="file">
+               <did>
+                  <container type="Box">24</container>
+                  <unittitle>Horen, Dan</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref283" level="file">
+               <did>
+                  <container type="Box">24</container>
+                  <unittitle>Hülskötter</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref284" level="file">
+               <did>
+                  <container type="Box">24</container>
+                  <unittitle>Kohler, Donald</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref285" level="file">
+               <did>
+                  <container type="Box">24</container>
+                  <unittitle>Lockheed</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref286" level="file">
+               <did>
+                  <container type="Box">24</container>
+                  <unittitle>McDonald, Robert</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref287" level="file">
+               <did>
+                  <container type="Box">24</container>
+                  <unittitle>Meyerhoff - Dept. and personal (3 folders)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref288" level="file">
+               <did>
+                  <container type="Box">24</container>
+                  <unittitle>Miscellaneous correspondence</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref289" level="file">
+               <did>
+                  <container type="Box">24</container>
+                  <unittitle>Molitoris, J.D.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref290" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <unittitle>National Science Foundation (2 folders)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref291" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <unittitle>NSF research proposals</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref292" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <unittitle>R. O'Neil</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref293" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <unittitle>NSF Reports</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref294" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <unittitle>NSF CP 2969</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref295" level="file">
+               <did>
+                  <container type="Box">25</container>
+                  <unittitle>NSF CP 5697</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref296" level="file">
+               <did>
+                  <container type="Box">26</container>
+                  <unittitle>OOR-ARO Reports, 1959 -</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref297" level="file">
+               <did>
+                  <container type="Box">26</container>
+                  <unittitle>ONR status report</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref298" level="file">
+               <did>
+                  <container type="Box">26</container>
+                  <unittitle>Pantell</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref299" level="file">
+               <did>
+                  <container type="Box">26</container>
+                  <unittitle>Paul, Peter</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref300" level="file">
+               <did>
+                  <container type="Box">26</container>
+                  <unittitle>PEW Science Program</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref301" level="file">
+               <did>
+                  <container type="Box">26</container>
+                  <unittitle>Quantar</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref302" level="file">
+               <did>
+                  <container type="Box">26</container>
+                  <unittitle>Radiation Committee</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref303" level="file">
+               <did>
+                  <container type="Box">26</container>
+                  <unittitle>Radiation Exposure Limits</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref304" level="file">
+               <did>
+                  <container type="Box">26</container>
+                  <unittitle>Radioactive sources</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref305" level="file">
+               <did>
+                  <container type="Box">26</container>
+                  <unittitle>Radiation Detection Co.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref306" level="file">
+               <did>
+                  <container type="Box">27</container>
+                  <unittitle>Radiation Committee</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref307" level="file">
+               <did>
+                  <container type="Box">27</container>
+                  <unittitle>Ramus Proposal</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref308" level="file">
+               <did>
+                  <container type="Box">27</container>
+                  <unittitle>Research in our Dept.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref309" level="file">
+               <did>
+                  <container type="Box">27</container>
+                  <unittitle>Safety</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref310" level="file">
+               <did>
+                  <container type="Box">27</container>
+                  <unittitle>Scheurer, J.-N.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref311" level="file">
+               <did>
+                  <container type="Box">27</container>
+                  <unittitle>Schiff lecture (2 folders)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref312" level="file">
+               <did>
+                  <container type="Box">27</container>
+                  <unittitle>Secretarial Personnel</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref313" level="file">
+               <did>
+                  <container type="Box">27</container>
+                  <unittitle>Secretary - group</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref314" level="file">
+               <did>
+                  <container type="Box">27</container>
+                  <unittitle>Shah</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref315" level="file">
+               <did>
+                  <container type="Box">27</container>
+                  <unittitle>Sigmon</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref316" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>Sloan Foundation</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref317" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>Stoller</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref318" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>Superhilac Pac</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref319" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>Technicians</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref320" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>Voegtle</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref321" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>Watson</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref322" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>Wells, Don</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref323" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>Wells, John</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref324" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>Wilkinson, D.H., Dr.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref325" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>Wölfli</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref326" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>Xu</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref327" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>Zoran</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref328" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>Zupančič, Č.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref329" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>Detector Efficiency Curves</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref330" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>Stopping</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref331" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>Charge Exchange, Yields 6(b)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref332" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>C 12 CPP paper</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref333" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>Dr. Meyerhof</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref334" level="file">
+               <did>
+                  <container type="Box">29</container>
+                  <unittitle>Faculty Reports</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref335" level="file">
+               <did>
+                  <container type="Box">29</container>
+                  <unittitle>Supplementary 9019293 High Energy Atomic Phys. March 1982</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref336" level="file">
+               <did>
+                  <container type="Box">29</container>
+                  <unittitle>Proposals, 1986-87 (4 folders)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref337" level="file">
+               <did>
+                  <container type="Box">29</container>
+                  <unittitle>Final report, 1984-87</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref338" level="file">
+               <did>
+                  <container type="Box">29</container>
+                  <unittitle>Progress reports, 1981-92 (7 folders)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref339" level="file">
+               <did>
+                  <container type="Box">29</container>
+                  <unittitle>Budget continuation request, starting 2-1-90</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref340" level="file">
+               <did>
+                  <container type="Box">30</container>
+                  <unittitle>Progress reports, 1973-75</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref341" level="file">
+               <did>
+                  <container type="Box">30</container>
+                  <unittitle>Progress report, 6/1/76-6/30/77</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref342" level="file">
+               <did>
+                  <container type="Box">30</container>
+                  <unittitle>Progress reports, Nov 1, 1980 - Oct 31, 1981</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref343" level="file">
+               <did>
+                  <container type="Box">30</container>
+                  <unittitle>Progress reports, Dec 15, 1981 - Dec 14, 1982</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref344" level="file">
+               <did>
+                  <container type="Box">30</container>
+                  <unittitle>Progress report, 1986</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref345" level="file">
+               <did>
+                  <container type="Box">30</container>
+                  <unittitle>Check requests &amp; other financial documents, 1983</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref346" level="file">
+               <did>
+                  <container type="Box">31</container>
+                  <unittitle>Progress reports, 1980-82</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref347" level="file">
+               <did>
+                  <container type="Box">31</container>
+                  <unittitle>Petty Cash Records – WEM &amp; other financial documents, 1979-80; n.d.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref348" level="file">
+               <did>
+                  <container type="Box">31</container>
+                  <unittitle>Workshop "Minorities and Women in Physics", 1990</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref349" level="file">
+               <did>
+                  <container type="Box">31</container>
+                  <unittitle>Invited talks</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref350" level="file">
+               <did>
+                  <container type="Box">31</container>
+                  <unittitle>Abstracts, 1983-1991</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref351" level="file">
+               <did>
+                  <container type="Box">32</container>
+                  <unittitle>Purchase requisitions and orders, 1985-88</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref352" level="file">
+               <did>
+                  <container type="Box">32</container>
+                  <unittitle>1988 – Invited Lecture, 20th Int'l Summer School, Nuclear Physics, Poland</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref353" level="file">
+               <did>
+                  <container type="Box">32</container>
+                  <unittitle>XIV ICPEAC Conference, Palo Alto, 1985</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref354" level="file">
+               <did>
+                  <container type="Box">32</container>
+                  <unittitle>U.S. – Japan Cooperative Seminar, March 14-18, 1983, etc.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref355" level="file">
+               <did>
+                  <container type="Box">32</container>
+                  <unittitle>Misc. articles by W. Meyerhof (and in a co-authorship), 1969, 1975, 1987, 1993 (4 folders)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref356" level="file">
+               <did>
+                  <container type="Box">32</container>
+                  <unittitle>4th Int'l Conference on Atomic Physics, July 22-26, 1974, Heidelberg, W. Germany</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref357" level="file">
+               <did>
+                  <container type="Box">32</container>
+                  <unittitle>Misc. articles by others, 1987-88; n.d. (5 folders)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref358" level="file">
+               <did>
+                  <container type="Box">33</container>
+                  <unittitle>Misc. articles, abstracts, off prints &amp; related correspondence (by W. Meyerhof and others), 1987-92; n.d. (17 folders)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref359" level="file">
+               <did>
+                  <container type="Box">33</container>
+                  <unittitle>Licenses and Registration State of California</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref360" level="file">
+               <did>
+                  <container type="Box">33</container>
+                  <unittitle>Application for CRA approval</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref361" level="file">
+               <did>
+                  <container type="Box">34</container>
+                  <unittitle>Radioactive material license material</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref362" level="file">
+               <did>
+                  <container type="Box">34</container>
+                  <unittitle>Tandem Radiation Procedures</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref363" level="file">
+               <did>
+                  <container type="Box">34</container>
+                  <unittitle>3 MeV Van de Graaff</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref364" level="file">
+               <did>
+                  <container type="Box">34</container>
+                  <unittitle>PH 001-PH 009 (9 folders)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref365" level="file">
+               <did>
+                  <container type="Box">34</container>
+                  <unittitle>Misc. correspondence, PH 010-PH 014</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref366" level="file">
+               <did>
+                  <container type="Box">34</container>
+                  <unittitle>Actual applications, PH 010-PH 014</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref367" level="file">
+               <did>
+                  <container type="Box">35</container>
+                  <unittitle>Actual applications, PH 015-PH 021</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref368" level="file">
+               <did>
+                  <container type="Box">35</container>
+                  <unittitle>Misc. correspondence, PH015-PH022</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref369" level="file">
+               <did>
+                  <container type="Box">35</container>
+                  <unittitle>Misc. financial documents, 1983-91</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref370" level="file">
+               <did>
+                  <container type="Box">35</container>
+                  <unittitle>Correspondence, 1989-91</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref371" level="file">
+               <did>
+                  <container type="Box">35</container>
+                  <unittitle>Documentation 1989-91</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref372" level="file">
+               <did>
+                  <container type="Box">36</container>
+                  <unittitle>Interdept. Requests 1989-91</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref373" level="file">
+               <did>
+                  <container type="Box">36</container>
+                  <unittitle>Stores, 1989-91</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref374" level="file">
+               <did>
+                  <container type="Box">36</container>
+                  <unittitle>Transfer of expense &amp; travel expenses reports, 1989-91</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref375" level="file">
+               <did>
+                  <container type="Box">36</container>
+                  <unittitle>1985-88 check requests &amp; 1987-88 correspondence</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref376" level="file">
+               <did>
+                  <container type="Box">36</container>
+                  <unittitle>1985-86 correspondence</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref377" level="file">
+               <did>
+                  <container type="Box">36</container>
+                  <unittitle>1985-88 stores requisitions</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref378" level="file">
+               <did>
+                  <container type="Box">36</container>
+                  <unittitle>Spooner</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref379" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>1984-88 documentation charges</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref380" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>1985-88 travel expense reports</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref381" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>Travel</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref382" level="file">
+               <did>
+                  <container type="Box">37</container>
+                  <unittitle>Requisition Orders, Date Chronological, 2 FEV 436</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref383" level="file">
+               <did>
+                  <container type="Box">38</container>
+                  <unittitle>Van de Graaf equipment</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref384" level="file">
+               <did>
+                  <container type="Box">38</container>
+                  <unittitle>Draft of the Enclosed H&amp;S Guidelines for Laboratory Space, 1984</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref385" level="file">
+               <did>
+                  <container type="Box">38</container>
+                  <unittitle>Proposal 1990 2 FEV 448</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref386" level="file">
+               <did>
+                  <container type="Box">38</container>
+                  <unittitle>Miscellaneous correspondence 1989-90</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref387" level="file">
+               <did>
+                  <container type="Box">38</container>
+                  <unittitle>References</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref388" level="file">
+               <did>
+                  <container type="Box">38</container>
+                  <unittitle>Safety</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref389" level="file">
+               <did>
+                  <container type="Box">38</container>
+                  <unittitle>SLAC Expt.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref390" level="file">
+               <did>
+                  <container type="Box">38</container>
+                  <unittitle>Walter Meyerhof</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref391" level="file">
+               <did>
+                  <container type="Box">38</container>
+                  <unittitle>1FEV 404 406 Brazil</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref392" level="file">
+               <did>
+                  <container type="Box">38</container>
+                  <unittitle>1FEV 405 Berlin</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref393" level="file">
+               <did>
+                  <container type="Box">38</container>
+                  <unittitle>2FEV 448 ATO Phys. 1991/92</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref394" level="file">
+               <did>
+                  <container type="Box">38</container>
+                  <unittitle>ISHII</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref395" level="file">
+               <did>
+                  <container type="Box">38</container>
+                  <unittitle>Molitoris</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref396" level="file">
+               <did>
+                  <container type="Box">39</container>
+                  <unittitle>1FEV 602 Dean</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref397" level="file">
+               <did>
+                  <container type="Box">39</container>
+                  <unittitle>Meyerhof Budget Sheets, 2 FEV 444-94</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref398" level="file">
+               <did>
+                  <container type="Box">39</container>
+                  <unittitle>Meyerhof personal</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref399" level="file">
+               <did>
+                  <container type="Box">39</container>
+                  <unittitle>Meetings</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref400" level="file">
+               <did>
+                  <container type="Box">39</container>
+                  <unittitle>Morenzoni</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref401" level="file">
+               <did>
+                  <container type="Box">39</container>
+                  <unittitle>Montenegro</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref402" level="file">
+               <did>
+                  <container type="Box">39</container>
+                  <unittitle>1FEV 614</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref403" level="file">
+               <did>
+                  <container type="Box">39</container>
+                  <unittitle>Stationery</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref404" level="file">
+               <did>
+                  <container type="Box">39</container>
+                  <unittitle>Baxter</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref405" level="file">
+               <did>
+                  <container type="Box">39</container>
+                  <unittitle>Belkacem</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref406" level="file">
+               <did>
+                  <container type="Box">39</container>
+                  <unittitle>Berkeley</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref407" level="file">
+               <did>
+                  <container type="Box">40</container>
+                  <unittitle>Brazil</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref408" level="file">
+               <did>
+                  <container type="Box">40</container>
+                  <unittitle>Charlton</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref409" level="file">
+               <did>
+                  <container type="Box">40</container>
+                  <unittitle>Chemin</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref410" level="file">
+               <did>
+                  <container type="Box">40</container>
+                  <unittitle>Chinese visitors</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref411" level="file">
+               <did>
+                  <container type="Box">40</container>
+                  <unittitle>Danzmann</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref412" level="file">
+               <did>
+                  <container type="Box">40</container>
+                  <unittitle>Eichler</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref413" level="file">
+               <did>
+                  <container type="Box">40</container>
+                  <unittitle>Equipment Loans and Inventory</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref414" level="file">
+               <did>
+                  <container type="Box">40</container>
+                  <unittitle>Misc. abstracts, off prints etc. by W. Meyerhof / in a co-authorship, 1972-75 (15 folders)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref415" level="file">
+               <did>
+                  <container type="Box">41</container>
+                  <unittitle>Misc. abstracts, off prints etc. by W. Meyerhof / in a co-authorship, 1976-84; n.d. (25 folders, some are empty)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref416" level="file">
+               <did>
+                  <container type="Box">42</container>
+                  <unittitle>Misc. abstracts, off prints etc. by W. Meyerhof / in a co-authorship, 1984 (cont'd)-86 (5 folders); 1953, 1957 (3 folders)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref417" level="file">
+               <did>
+                  <container type="Box">42</container>
+                  <unittitle>Address cards labeled Meyerhof</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref418" level="file">
+               <did>
+                  <container type="Box">42</container>
+                  <unittitle>R. Anholz - Reprints</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref419" level="file">
+               <did>
+                  <container type="Box">43</container>
+                  <unittitle>Misc. abstracts, off prints etc. by W. Meyerhof / in a co-authorship, 1958-59, 1962-80, 1982 (21 folders)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref420" level="file">
+               <did>
+                  <container type="Box">44</container>
+                  <unittitle>Misc. abstracts, off prints etc. by W. Meyerhof / in a co-authorship, 1983-89, 1991-96 (12 folders)</unittitle>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

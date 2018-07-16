@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[American Society of Civil Engineers, Stanford University student chapter, records])//EN"
+             identifier="ark:/13030/tf0j49n4jh">sc0525.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the American Society of Civil Engineers, Stanford University Student Chapter, Records
+                    </titleproper>
+            <titleproper type="filing" audience="internal">American Society of Civil Engineers, Stanford University Student Chapter, Records</titleproper>
+            <author>Patricia White</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="1997">1997</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC0525</unitid>
+         <origination label="Creator:">
+            <corpname rules="dacs" source="ingest">American Society of Civil Engineers. Stanford University student chapter</corpname>
+         </origination>
+         <unittitle label="Title:">American Society of Civil Engineers, Stanford University student chapter, records</unittitle>
+         <unitdate normal="1896/1941"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1896-1941</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>3.75 Linear feet</extent>
+         </physdesc>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <descgrp type="provenance" id="prov">
+            <head>Provenance</head>
+            <custodhist id="ref2">
+               <p>Gift of Associated Students of Stanford University.</p>
+            </custodhist>
+         </descgrp>
+         <accessrestrict id="ref3">
+            <head>Information about Access</head>
+            <p>None.</p>
+         </accessrestrict>
+         <userestrict id="ref4">
+            <head>Ownership &amp; Copyright</head>
+            <p>Property rights reside with the repository. Literary rights reside with the creators of the documents or their heirs. To obtain permission to publish or reproduce, please contact the Public Services Librarian of the Dept. of Special Collections and University Archives.</p>
+         </userestrict>
+         <prefercite id="ref5">
+            <head>Cite As</head>
+            <p>[Identification of item], American Society of Civil Engineers, Stanford University Student Chapter, Records (SC0525). Dept. of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <bioghist id="ref6">
+         <head>HISTORICAL NOTE</head>
+         <p>Civil engineering students at Stanford University organized their first professional club in 1893, the Civil Enginering Club. In November 1905, the Civil Engineering Society was organized; the name was changed to the Associated Civil Engineers in 1910. In 1920, when the American Society of Civil Engineers authorized student chapters, the Stanford A.C.E. became the first student chapter to join the A.S.C.E.</p>
+      </bioghist>
+      <scopecontent id="ref7">
+         <head>SCOPE AND CONTENT</head>
+         <p>These records represent both the Associated Civil Engineers and the Stanford University student chapter of the American Society of Civil Engineers. Records of the A.C.E. include an account book, 1905-1920, papers read before meetings, 1911-1915, and secretary's book, 1905-1919. Records of the student chapter of the American Society of Civil Engineers include constitution and related correspondence, correspondence of Samuel B. Morris pertaining to several research trips, abstracts of proceedings from national meetings, and several papers read before local meetings.</p>
+         <p>The bulk of these records were found among the records of the Associated Students of Stanford University. They were removed in December 1996 and processed as a separate collection. The record book of the Associated Civil Engineers was removed from the 4 digit collection and added to this collection.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <corpname rules="dacs" source="ingest" role=" ">Associated Civil Engineers. (Location of Meeting--Stanford University)</corpname>
+         <corpname rules="dacs" source="ingest" role=" ">Civil Engineering Society. (Location of Meeting--Stanford University.)</corpname>
+         <persname rules="aacr" source="ingest" role=" ">Morris, Samuel Brooks, 1890-1962.</persname>
+         <corpname rules="dacs" source="naf" role=" ">Stanford University -- General subdivision--Students.; </corpname>
+         <persname rules="aacr" source="ingest" role=" ">Thomas, William Henry.</persname>
+         <subject source="lcsh">Civil engineering.</subject>
+         <genreform source="aat">Photoprints.</genreform>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.6">
+         <head>Collection Contents</head>
+         <c01 id="ref8" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">1</container>
+               <unittitle>Associated Civil Engineers, record book</unittitle>
+               <unitdate>1905-1920</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref9" level="file">
+            <did>
+               <unittitle>Papers read before the A.C.E.</unittitle>
+            </did>
+            <c02 id="ref10" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Ambrose, A. W., Maintenance of Way Construction on the Southern Pacific</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref11" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Avery, H. T., California State Highway Construction</unittitle>
+                  <unitdate>October 1914</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref12" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Blase, Roy, Electrification of the Oakland Suburban System</unittitle>
+                  <unitdate>May 1913</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref13" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Briggs, R. C., The Work of the U. S. Coast and Geodetic Survey</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref14" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Brinkmeyer, H., Revaluation Work on Rail Roads</unittitle>
+                  <unitdate>Jan. 26, 1915</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref15" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Cecil, N. M., The Modesto and Turlock Irrigation Districts</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref16" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Christensen, A. E., Roads of the Middle West</unittitle>
+                  <unitdate>Nov. 23, 1915</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref17" level="file">
+               <did>
+                  <unittitle>Cox, Joel B.</unittitle>
+               </did>
+               <c03 id="ref18" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">5</container>
+                     <unittitle>An Irrigation Ditch in Hawaii</unittitle>
+                     <unitdate>May 1913</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref19" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">5</container>
+                     <unittitle>The New Haiku Ditch</unittitle>
+                     <unitdate>April 1915</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref20" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Dickinson, P. V., The Flood Problem of the Calaveras River Basin</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref21" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Dingle, C. O., California State Roads</unittitle>
+                  <unitdate>September 1911</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref22" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Dodge, J. W., Automatic Telegraphy</unittitle>
+                  <unitdate>November 1915</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref23" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Dool, D. C., Controlling the Colorado River at the Imperial Valley Canal Intake</unittitle>
+                  <unitdate>April 1915</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref24" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Doxsee, W. H., Proposed Development of Redwood Harbor</unittitle>
+                  <unitdate>May 1913</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref25" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">8</container>
+                  <unittitle>George, H. P., The San Diego and Arizona Railway</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref26" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Gill, G. F., Southern Pacific Surveying Methods, [missing pages 1 and 2]</unittitle>
+                  <unitdate>October 1914</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref27" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Gregory, A. C., Levees and Levee Construction</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref28" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Halcombe, N. M., Canal Excavation in Shasta County</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref29" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Hirasawa, J., Japanese Oil Production</unittitle>
+                  <unitdate>December 1914</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref30" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Hunt, G. W., A Modern Method of Locating Logging Roads</unittitle>
+                  <unitdate>May 1913</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref31" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Jack, J. R., Efficiency in a Manager</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref32" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Jeffers, J. S., Failure of Wooden Girder Long Beach Wharf</unittitle>
+                  <unitdate>March 1915</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref33" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Kingsbury, J. M., Experiences in the Oil Fields</unittitle>
+                  <unitdate>December 1914</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref34" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Laird, W. A., Summerland Water Supply System</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref35" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">11</container>
+                  <unittitle>McMillan, W. Bruce, The Effect of Motor Traffic on Rock Roads</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref36" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Morrison, M. E., The Pittsburg Filtration Plant</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref37" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Narver, D. L., Tufa Cement as Used on the Los Angeles Aqueduct</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref38" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Olsen, H., The Making of a Stove</unittitle>
+                  <unitdate>March 1916</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref39" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Olsen, Louis, Municipal Refuse Destructor Plant in Palo Alto, California</unittitle>
+                  <unitdate>December 1914</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref40" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Piper, W. B., Crater Lake National Park and its Road Work</unittitle>
+                  <unitdate>April 1915</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref41" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Richardson, W. H., Location Surveys in Alaska</unittitle>
+                  <unitdate>March 1911</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref42" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Sandstrom, A. C., Two Methods of Stream Gauging Used on the McKenzie Power Project</unittitle>
+                  <unitdate>March 1913</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref43" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Scott, E. T., Hydraulic Dredging at Wilmington, California</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref44" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Seymour, D. J., Architectural Drafting</unittitle>
+                  <unitdate>October 1914</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref45" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Sharp, E. W., Dirt Coffer Dams</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref46" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Smith, Chauncey, Methods of Handling Concrete on Buildings</unittitle>
+                  <unitdate>November 1912</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref47" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Stocklmeier, Louis, Modern Irrigation</unittitle>
+                  <unitdate>September 1915</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref48" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">15</container>
+                  <unittitle>Swanson, C. R., The Big Creek Power Plant</unittitle>
+                  <unitdate>October 1913</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref49" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">15</container>
+                  <unittitle>Thomas, W. H., Timber Estimating</unittitle>
+                  <unitdate>March 1911</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref50" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">15</container>
+                  <unittitle>Waterman, H. A., Power Line Construction</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref51" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">16</container>
+                  <unittitle>Wells, J. B., The Construction of the Chamber Building of a Sulphuric Acid Plant</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref52" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">16</container>
+                  <unittitle>Wong, Ralph Buck-Hond, Railway in China</unittitle>
+                  <unitdate>November 1915</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref53" level="file">
+               <did>
+                  <unittitle>No author</unittitle>
+               </did>
+               <c03 id="ref54" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">17</container>
+                     <unittitle>Construction of Lateral Ditches on the Sacramento Valley Irrigation Project</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref55" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">17</container>
+                     <unittitle>East Contra Cost Irrigation System</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref56" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">17</container>
+                     <unittitle>Railway Revaluation</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref57" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">17</container>
+                     <unittitle>Sewerage Disposal in Southern California</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref58" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">18</container>
+                     <unittitle>Some Results of Tests on Beams Designed After the Ransome</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref59" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">18</container>
+                     <unittitle>The South Bay Bulkhead</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref60" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">18</container>
+                     <unittitle>[Summer's Work in Salt Lake, Utah, Engineering Firm]</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref61" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">19</container>
+                     <unittitle>Topographical Surveying with Aneroid Barometer</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref62" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">19</container>
+                     <unittitle>The Washington State Highway Department</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref63" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">19</container>
+                     <unittitle>The Water Conservation Association of the Santa Ana River</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref64" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">20</container>
+                  <unittitle>original index</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref65" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">1</container>
+               <unittitle>Abstracts and excerpts from annual report of committee on student chapters to board of direction</unittitle>
+               <unitdate>1933-1938</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref66" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">2</container>
+               <unittitle>Abstract from stenographic record of conference of student chapter representatives</unittitle>
+               <unitdate>1936-1937</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref67" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">3</container>
+               <unittitle>Alumni directory correspondence</unittitle>
+               <unitdate>1926</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref68" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">4</container>
+               <unittitle>Annual report of the Stanford chapter</unittitle>
+               <unitdate>1934</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref69" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">5</container>
+               <unittitle>A. S. C. E. manuals</unittitle>
+               <unitdate>1935</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref70" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">6</container>
+               <unittitle>Circular of information regarding the Stanford University student chapter of the A. S. C. E., 1921</unittitle>
+            </did>
+         </c01>
+         <c01 id="ref71" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">7</container>
+               <unittitle>Constitution and related correspondence</unittitle>
+               <unitdate>1926-1927</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref72" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">8</container>
+               <unittitle>Engineers' Council for Professional Development, fifth annual report</unittitle>
+               <unitdate>1937</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref73" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">9</container>
+               <unittitle>Initiation</unittitle>
+               <unitdate>1936-1938</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref74" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">10</container>
+               <unittitle>Papers read before the A. S. C. E.</unittitle>
+            </did>
+            <c02 id="ref75" level="file">
+               <did>
+                  <unittitle>San Francisco Chapter of Amer. Soc. of Civil Engrs. Meeting of Dec. 21, 1920, Attended by K. H. Swanholm and L. D. Wilbur</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref76" level="file">
+               <did>
+                  <unittitle>Wilbur, Lyman D., The Los Angeles Aqueduct</unittitle>
+                  <unitdate>January 1921</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref77" level="file">
+               <did>
+                  <unittitle>Fish, L. S., Some Engineering Problems Incident to the Production of Petroleum</unittitle>
+                  <unitdate>November 1920</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref78" level="file">
+               <did>
+                  <unittitle>Lawler, Harry C., Construction of County Highway Bridge Spanning Salinas River at Palo Robles, California</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref79" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">11</container>
+               <unittitle>Photographs</unittitle>
+               <unitdate>1941</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref80" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">12</container>
+               <unittitle>Picnic at C. C. Kennedy's</unittitle>
+               <unitdate>June 5, 1938</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref81" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">13</container>
+               <unittitle>Scholarship plan</unittitle>
+               <unitdate>1920-1921</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref82" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">14-15</container>
+               <unittitle>Spring trip - Colorado River aqueduct</unittitle>
+               <unitdate>1936</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref83" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">16</container>
+               <unittitle>Spring trip - Shasta Dam</unittitle>
+               <unitdate>1940</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref84" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">17</container>
+               <unittitle>Trasurer's reports</unittitle>
+               <unitdate>1937</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref85" level="file">
+            <did>
+               <container type="Box">3</container>
+               <unittitle>Mounted photographs of club members (1913 is a composite of individual shots into one photo)</unittitle>
+               <unitdate>circa 1896 and 1906-1916</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref86" level="file">
+            <did>
+               <container type="Box">4</container>
+               <unittitle>Mounted photographs of club members (1919 and 1920 images are somewhat damaged)</unittitle>
+               <unitdate>1917 -1925</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref87" level="file">
+            <did>
+               <container type="Box">5</container>
+               <unittitle>Mounted photographs of club members</unittitle>
+               <unitdate>1926 -1934</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref88" level="file">
+            <did>
+               <container type="Box">9</container>
+               <unittitle>Secretary's book</unittitle>
+               <unitdate>1905-1919</unitdate>
+            </did>
+            <scopecontent>
+               <p>Includes constitution, membership lists, and minutes of meetings.</p>
+            </scopecontent>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

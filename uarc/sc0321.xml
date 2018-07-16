@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              findaidstatus="edited-full-draft"
+              langencoding="iso639-2b"
+              repositoryencoding="iso15511">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/" identifier="ark:/13030/c8vq34xd">sc0321.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="filing">Stanford University, Freshman Information Office, Records</titleproper>
+            <titleproper>Guide to the Stanford University, Freshman Information Office, Records <num>SC0321</num>
+            </titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford 94305-6064</addressline>
+               <addressline>specialcollections@stanford.edu</addressline>
+               <addressline>URL: <extptr href="http://library.stanford.edu/spc"
+                          show="new"
+                          title="http://library.stanford.edu/spc"
+                          linktype="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2016-02-09 14:56:19 -0800</date>.</creation>
+         <langusage>Finding aid written in <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc audience="internal" level="collection" id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>Department of Special Collections and University Archives</corpname>
+         </repository>
+         <unittitle>Stanford University, Freshman Information Office, records</unittitle>
+         <origination label="creator">
+            <corpname source="ingest">Stanford University. Freshman Information Office.</corpname>
+         </origination>
+         <unitid>SC0321</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">18 Linear Feet</extent>
+         </physdesc>
+         <unitdate normal="1968/1983" type="inclusive">1968-1983</unitdate>
+      </did>
+      <accessrestrict id="aspace_e3e7970c1fac2154c731712f4e65d0a0">
+         <head>Information about Access</head>
+         <p>The materials are open for research use.</p>  
+      </accessrestrict>
+      <userestrict id="aspace_cf403b4f8ca3258980d3e9c6a554ff3c">
+         <head>Ownership &amp; Copyright</head>
+         <p>All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Special Collections and University Archives, Stanford University Libraries, Stanford, California 94305-6064. Consent is given on behalf of Special Collections as the owner of the physical items and is not intended to include or imply permission from the copyright owner. Such permission must be obtained from the copyright owner, heir(s) or assigns. See: http://library.stanford.edu/spc/using-collections/permission-publish.</p>
+         <p>Restrictions also apply to digital representations of the original materials. Use of digital files is restricted to research and educational purposes.</p>  
+      </userestrict>
+      <prefercite id="aspace_cd83ad04056cc1f6263cacf427163640">
+         <head>Cite As</head>
+         <p>[identification of item], Stanford University, Freshman Information Office, Records (SC0321). Dept. of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>  
+      </prefercite>
+      <controlaccess id="controlaccess-1.2.5">
+         <corpname source="ingest">Stanford University. Freshman Information Office.</corpname>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.6">
+         <c01 id="aspace_ref5_q6l" level="series">
+            <did>
+               <unittitle>Records</unittitle>
+               <unitid>Accession ARCH-1985-028</unitid>
+            </did>
+            <accessrestrict id="aspace_551ee384c208e1a816d47f40b425f852">
+               <head>Conditions Governing Access note</head>
+               <p>The materials are closed for 75 years from date of creation. Audio-visual materials are not available in original format, and must be reformatted to a digital use copy.</p>
+            </accessrestrict>
+            <c02 id="aspace_ref6_lup" level="file">
+               <did>
+                  <unittitle>Freshman Correspondence 1979</unittitle>
+                  <unitdate type="inclusive">1979</unitdate>
+                  <container id="aspace_d2cd9c4d141ce587ffcf41a9534efe41" type="box">1</container>
+                  <container id="aspace_fa46fb8fcaee387f7d746967086f023c"
+                             parent="aspace_d2cd9c4d141ce587ffcf41a9534efe41"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref7_8ks" level="file">
+               <did>
+                  <unittitle>Norm and Resident Fellow Letters</unittitle>
+                  <unitdate type="inclusive">1980</unitdate>
+                  <container id="aspace_1dd048e0a757b13e62945b197cd084e7" type="box">1</container>
+                  <container id="aspace_3b9ee2f839bfebb26245674a003ee80f"
+                             parent="aspace_1dd048e0a757b13e62945b197cd084e7"
+                             type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref8_zb8" level="file">
+               <did>
+                  <unittitle>Frosh Info 1979 Vol. 2</unittitle>
+                  <unitdate type="inclusive">1979</unitdate>
+                  <container id="aspace_418706000b3075b5a4bdd656f07a8403" type="box">1</container>
+                  <container id="aspace_10b0be1847db5c7ae998edd1736f1321"
+                             parent="aspace_418706000b3075b5a4bdd656f07a8403"
+                             type="folder">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref9_bio" level="file">
+               <did>
+                  <unittitle>Freshman Correspondence 1978</unittitle>
+                  <unitdate type="inclusive">1978</unitdate>
+                  <container id="aspace_29cc36bed9cd0ea2043c1bae19414cdd" type="box">1</container>
+                  <container id="aspace_ccedcea6f95b679dac34b24f08b92dca"
+                             parent="aspace_29cc36bed9cd0ea2043c1bae19414cdd"
+                             type="folder">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref10_fjc" level="file">
+               <did>
+                  <unittitle>Frosh Correspondence 1981</unittitle>
+                  <unitdate type="inclusive">1981</unitdate>
+                  <container id="aspace_76c7384e2ed8667f8256a3b1ff316465" type="box">2</container>
+                  <container id="aspace_201d87594a123bb8ffe0560149be95fd"
+                             parent="aspace_76c7384e2ed8667f8256a3b1ff316465"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref11_i80" level="file">
+               <did>
+                  <unittitle>Frosh Housing</unittitle>
+                  <unitdate type="inclusive">1981</unitdate>
+                  <container id="aspace_b8ee61b1cdf46f2c09ee06c7219893a2" type="box">2</container>
+                  <container id="aspace_ba3be4b8ddf51f2f2326279c5527b267"
+                             parent="aspace_b8ee61b1cdf46f2c09ee06c7219893a2"
+                             type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref12_mey" level="file">
+               <did>
+                  <unittitle>Freshman Information Housing</unittitle>
+                  <unitdate type="inclusive">1979</unitdate>
+                  <container id="aspace_a0a26f66087ed9348baefacf7cde7bbe" type="box">2</container>
+                  <container id="aspace_12f69c2a0ff2b2d0dbac40e7e4d328a7"
+                             parent="aspace_a0a26f66087ed9348baefacf7cde7bbe"
+                             type="folder">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref13_cov" level="file">
+               <did>
+                  <unittitle>Freshman Processing: 1980-81</unittitle>
+                  <unitdate type="inclusive">1980-1981</unitdate>
+                  <container id="aspace_dfb09a9a8eac94947d46b47e533f1038" type="box">2</container>
+                  <container id="aspace_63e8d9c4351c9ebd46196bcff444544a"
+                             parent="aspace_dfb09a9a8eac94947d46b47e533f1038"
+                             type="folder">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref14_eby" level="file">
+               <did>
+                  <unittitle>Freshman Processing Printouts</unittitle>
+                  <unitdate type="inclusive">1972</unitdate>
+                  <container id="aspace_1816247606208a5e43dbc4645d562ccb" type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref15_oiu" level="file">
+               <did>
+                  <unittitle>Freshman Processing Printouts</unittitle>
+                  <unitdate type="inclusive">1975-1976</unitdate>
+                  <container id="aspace_a5ea83240ed90924ba376b0e7a35c1f0" type="box">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref16_fpy" level="file">
+               <did>
+                  <unittitle>Freshman Processing Printouts</unittitle>
+                  <unitdate type="inclusive">1976-1977</unitdate>
+                  <container id="aspace_867940c314a9cea94b1e5fafcf21b7ad" type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref17_61o" level="file">
+               <did>
+                  <unittitle>Freshman Processing Printouts</unittitle>
+                  <unitdate type="inclusive">1977-1978</unitdate>
+                  <container id="aspace_8bd1ece0232adc1db90c20060793e476" type="box">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref19_1sm" level="file">
+               <did>
+                  <unittitle>Frosh Info 1983 WICS Men</unittitle>
+                  <unitdate type="inclusive">1983</unitdate>
+                  <container id="aspace_627c4518ec5febe9059bbf1029a363a1" type="box">7</container>
+                  <container id="aspace_108556c527f7b6a2d7fa29f1ab6a5226"
+                             parent="aspace_627c4518ec5febe9059bbf1029a363a1"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 audience="internal"
+                 id="aspace_c942300fc3bfe10db034a2678f54e022"
+                 level="file">
+               <did>
+                  <unittitle>Information cards</unittitle>
+                  <container id="aspace_2abd4f34446fd1ccf328b85b5df67f17" type="Box">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref20_mpd" level="file">
+               <did>
+                  <unittitle>Frosh Info 1983 WICS Women</unittitle>
+                  <unitdate type="inclusive">1983</unitdate>
+                  <container id="aspace_1e4a0320158356a5bc9a57fe745d2caf" type="box">7</container>
+                  <container id="aspace_7387bdcff01a4e260f64dfc1d41d6713"
+                             parent="aspace_1e4a0320158356a5bc9a57fe745d2caf"
+                             type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref21_br0" level="file">
+               <did>
+                  <unittitle>Freshman Processing (1 of 2)</unittitle>
+                  <unitdate type="inclusive">1979-80</unitdate>
+                  <container id="aspace_99bed10d97c37cdbf5687f13bbdad825" type="box">8</container>
+                  <container id="aspace_e2d4d4ef5dfdb62e4264e7a51c202254"
+                             parent="aspace_99bed10d97c37cdbf5687f13bbdad825"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref22_ee4" level="file">
+               <did>
+                  <unittitle>Freshman Processing (2 of 2)</unittitle>
+                  <unitdate type="inclusive">1979-80</unitdate>
+                  <container id="aspace_0e6714e25b1424e8bded77e88b54813c" type="box">8</container>
+                  <container id="aspace_229bd000e894dcd340fb476f154785b7"
+                             parent="aspace_0e6714e25b1424e8bded77e88b54813c"
+                             type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref23_161" level="file">
+               <did>
+                  <unittitle>Freshman Processing</unittitle>
+                  <unitdate type="inclusive">1981</unitdate>
+                  <container id="aspace_06dc53bc93c97cb11e32ce8bd40afe33" type="box">8</container>
+                  <container id="aspace_6d34b87ddc66db16f271e9d1ffa1b575"
+                             parent="aspace_06dc53bc93c97cb11e32ce8bd40afe33"
+                             type="folder">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref24_3ne" level="file">
+               <did>
+                  <unittitle>Freshman Information</unittitle>
+                  <unitdate type="inclusive">1981</unitdate>
+                  <container id="aspace_69c2d55703b526365811b949ff721e9e" type="box">8</container>
+                  <container id="aspace_2b66976eb96669272b50593405e47111"
+                             parent="aspace_69c2d55703b526365811b949ff721e9e"
+                             type="folder">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref25_i0t" level="file">
+               <did>
+                  <unittitle>Housing Letters to Entering Freshmen</unittitle>
+                  <unitdate type="inclusive">1981</unitdate>
+                  <container id="aspace_b7a32e5918c3970359f39c9c71d9c706" type="box">8</container>
+                  <container id="aspace_3f734267b2105ed98e60fe5a50b82f3f"
+                             parent="aspace_b7a32e5918c3970359f39c9c71d9c706"
+                             type="folder">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref26_7hy" level="file">
+               <did>
+                  <unittitle>Freshman Correspondence 1977</unittitle>
+                  <unitdate type="inclusive">1977</unitdate>
+                  <container id="aspace_0b0e73fcfb8741476afcca3580cd95ad" type="box">9</container>
+                  <container id="aspace_a1a0fd19f8246c19448ba9fe4c4b9d84"
+                             parent="aspace_0b0e73fcfb8741476afcca3580cd95ad"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref27_inf" level="file">
+               <did>
+                  <unittitle>Freshman Processing and Correspondence 1978</unittitle>
+                  <unitdate type="inclusive">1978</unitdate>
+                  <container id="aspace_bf0ffeb6603098ecffabe1f3b8694f21" type="box">9</container>
+                  <container id="aspace_9e81b443df2c15eac6266f062d0279ac"
+                             parent="aspace_bf0ffeb6603098ecffabe1f3b8694f21"
+                             type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref28_20j" level="file">
+               <did>
+                  <unittitle>Freshman Information 1978</unittitle>
+                  <unitdate type="inclusive">1978</unitdate>
+                  <container id="aspace_23d6933c2add9e5b8461fb9d0b7fcaaf" type="box">9</container>
+                  <container id="aspace_b21ee2c8c1d38785d95690bde9c50b90"
+                             parent="aspace_23d6933c2add9e5b8461fb9d0b7fcaaf"
+                             type="folder">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref29_9t4" level="file">
+               <did>
+                  <unittitle>Freshman Information 1982-1983</unittitle>
+                  <unitdate type="inclusive">1982-1983</unitdate>
+                  <container id="aspace_be351082cc8035ec11175adbe7d865f8" type="box">10</container>
+                  <container id="aspace_74e58dd9cf184eaa19496f0a9a2ac931"
+                             parent="aspace_be351082cc8035ec11175adbe7d865f8"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref30_p92" level="file">
+               <did>
+                  <unittitle>Freshman Processing 1981-1982</unittitle>
+                  <unitdate type="inclusive">1981-1982</unitdate>
+                  <container id="aspace_bfb7576c02098c0047bbbdebf79825ef" type="box">10</container>
+                  <container id="aspace_6fe72c1d6760ae545b19cacfd8536831"
+                             parent="aspace_bfb7576c02098c0047bbbdebf79825ef"
+                             type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref31_8ph" level="file">
+               <did>
+                  <unittitle>Freshman Information 1977</unittitle>
+                  <unitdate type="inclusive">1977</unitdate>
+                  <container id="aspace_3b34a0fc5af29d375543f656d2d13683" type="box">11</container>
+                  <container id="aspace_adc4181c750d1c48bc0d070d571af467"
+                             parent="aspace_3b34a0fc5af29d375543f656d2d13683"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref32_696" level="file">
+               <did>
+                  <unittitle>Freshman Processing 1976</unittitle>
+                  <unitdate type="inclusive">1976</unitdate>
+                  <container id="aspace_f2d3bc0c9e0fccb76db682616abf6b78" type="box">11</container>
+                  <container id="aspace_e0006f39818b592e623849ff6c1ad55a"
+                             parent="aspace_f2d3bc0c9e0fccb76db682616abf6b78"
+                             type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref33_k8o" level="file">
+               <did>
+                  <unittitle>Freshman Correspondence 1980</unittitle>
+                  <unitdate type="inclusive">1980</unitdate>
+                  <container id="aspace_f8c3e1fbf404a850e66479a354f29799" type="box">11</container>
+                  <container id="aspace_015dfecdf2429717aaea326c447a5c13"
+                             parent="aspace_f8c3e1fbf404a850e66479a354f29799"
+                             type="folder">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref34_r7h" level="file">
+               <did>
+                  <unittitle>Frosh Housing 1980</unittitle>
+                  <unitdate type="inclusive">1980</unitdate>
+                  <container id="aspace_467db254663897fba8788110b861dd11" type="box">11</container>
+                  <container id="aspace_ee9897aee129bad9ae47303dfa6b2352"
+                             parent="aspace_467db254663897fba8788110b861dd11"
+                             type="folder">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref35_pc5" level="file">
+               <did>
+                  <unittitle>Frosh Info 1979</unittitle>
+                  <unitdate type="inclusive">1979</unitdate>
+                  <container id="aspace_2beaf48c40fc3170d12207609c87fcae" type="box">11</container>
+                  <container id="aspace_a1443fc877b3d817442e87d4687103f7"
+                             parent="aspace_2beaf48c40fc3170d12207609c87fcae"
+                             type="folder">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref36_94r" level="file">
+               <did>
+                  <unittitle>Freshman Processing 1980</unittitle>
+                  <unitdate type="inclusive">1980</unitdate>
+                  <container id="aspace_df595ee94ff49febfa22ee465f10267b" type="box">11</container>
+                  <container id="aspace_830da7a08e451f1e2954bedf76a9f8ba"
+                             parent="aspace_df595ee94ff49febfa22ee465f10267b"
+                             type="folder">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref37_8go" level="file">
+               <did>
+                  <unittitle>Freshman Processing</unittitle>
+                  <unitdate type="inclusive">1968-69</unitdate>
+                  <container id="aspace_1f9c2ce14646368deeb5904d83bee43a" type="box">12</container>
+                  <container id="aspace_346a56fdde8c6c569eb9c9693ab95126"
+                             parent="aspace_1f9c2ce14646368deeb5904d83bee43a"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref38_cl7" level="file">
+               <did>
+                  <unittitle>Freshman Processing</unittitle>
+                  <unitdate type="inclusive">1972-73</unitdate>
+                  <container id="aspace_6df1b58c4f5cca9f3db1781612f53e6d" type="box">12</container>
+                  <container id="aspace_57f46ae92535bbd7aa6131a3cbc25e7e"
+                             parent="aspace_6df1b58c4f5cca9f3db1781612f53e6d"
+                             type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref39_pde" level="file">
+               <did>
+                  <unittitle>Freshman Processing - Housing File</unittitle>
+                  <unitdate type="inclusive">1972-73</unitdate>
+                  <container id="aspace_bf39d1d1f9fb903c4b25f4e3618e69c0" type="box">12</container>
+                  <container id="aspace_e68cdb547850963e97ac435e35e45812"
+                             parent="aspace_bf39d1d1f9fb903c4b25f4e3618e69c0"
+                             type="folder">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref40_zuc" level="file">
+               <did>
+                  <unittitle>Freshman Housing Floor Charts</unittitle>
+                  <unitdate type="inclusive">1973-74</unitdate>
+                  <container id="aspace_246c0df9954c7071a61dfbef0bf1171b" type="box">12</container>
+                  <container id="aspace_8e6d8915b64a35fd196a6264002333a9"
+                             parent="aspace_246c0df9954c7071a61dfbef0bf1171b"
+                             type="folder">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref41_azk" level="file">
+               <did>
+                  <unittitle>Freshman Processing</unittitle>
+                  <unitdate type="inclusive">1974-75</unitdate>
+                  <container id="aspace_aa135d3e7f70cdadba2c15402504ba58" type="box">12</container>
+                  <container id="aspace_718a4e96606eb2b26d41fd5f4b91b75a"
+                             parent="aspace_aa135d3e7f70cdadba2c15402504ba58"
+                             type="folder">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref42_ntv" level="file">
+               <did>
+                  <unittitle>Freshman Processing</unittitle>
+                  <unitdate type="inclusive">1975-76</unitdate>
+                  <container id="aspace_b18f2e067cc0131cc24d580e091d05e0" type="box">12</container>
+                  <container id="aspace_23962cd2a2f94bb15fbe354c38449939"
+                             parent="aspace_b18f2e067cc0131cc24d580e091d05e0"
+                             type="folder">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref43_69m" level="file">
+               <did>
+                  <unittitle>Freshman Information</unittitle>
+                  <unitdate type="inclusive">1980</unitdate>
+                  <container id="aspace_0f64cacdb03441eba9ffac7027c48d05" type="box">12</container>
+                  <container id="aspace_151a1d8cb13c4749f49289ee3f70c43a"
+                             parent="aspace_0f64cacdb03441eba9ffac7027c48d05"
+                             type="folder">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref44_qhm" level="file">
+               <did>
+                  <unittitle>Frosh Processing 1973-1974</unittitle>
+                  <unitdate type="inclusive">1973-1974</unitdate>
+                  <container id="aspace_3b3bebfe18a1bdf1e0ade17e618f2c71" type="box">13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref18_kyg" level="file">
+               <did>
+                  <unittitle>Freshman Roster 1974-1975</unittitle>
+                  <unitdate type="inclusive">1974-1975</unitdate>
+                  <container id="aspace_be3a4166aef0c4c0388fc0fc38b80fdb" type="box">14</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

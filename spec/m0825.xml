@@ -1,0 +1,1597 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  
+  
+  
+  
+  
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" repositoryencoding="iso15511" findaidstatus="unverified-full-draft" langencoding="iso639-2b"><eadid countrycode="us" identifier="ark:/13030/ft48700332" mainagencycode="CSt" publicid="PUBLIC &quot;-//Stanford University::Libraries::Dept. of Special Collections::Manuscripts Division//TEXT (US::CSt::M0825::Apple Computer, Inc. Ephemera collection)//EN&quot; &quot;m0825.sgm&quot;">m0825.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Apple Computer, Inc. Ephemera collection, <date calendar="gregorian" era="ce">1978 - 1998</date></titleproper><titleproper type="filing">Apple Computer ephemera collection</titleproper>
+        <author>Processed by Steven Mandeville-Gamble.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Department of Special Collections</publisher>
+        <address>
+          <addressline>Green Library</addressline>
+          <addressline>Stanford University Libraries</addressline>
+          <addressline>Stanford, CA 94305-6004 </addressline>
+          <addressline>Phone: (650) 725-1022</addressline>
+          <addressline>Email: specialcollections@stanford.edu</addressline>
+          <addressline>URL: http://library.stanford.edu/spc</addressline>
+        </address>
+        <date calendar="gregorian" era="ce">&#xA9; 2002</date>
+        <p>The Board of Trustees of Stanford University. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc><profiledesc>
+      <creation>Machine-readable finding aid derived from FileMaker Pro database.;
+machine-readable finding aid created by
+Steven Mandeville-Gamble.
+Date of source: <date calendar="gregorian" era="ce">2002 June 26.</date></creation>
+      <langusage>Finding aid is written in <language>English.</language></langusage>
+    </profiledesc><revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//Stanford University::Libraries::Dept. of Special Collections::Manuscripts Division//TEXT (US::CSt::M0825::Apple Computer, Inc. Ephemera collection)//EN" "m0825.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Guide to the Apple Computer, Inc. Ephemera collection, <date calendar="gregorian" era="ce">1978 - 1998</date></titleproper>
+      <num>Collection number: M0825</num>
+      <publisher>Department of Special Collections and University Archives
+<lb/>Stanford University Libraries
+<lb/>Stanford, California</publisher>
+      <list type="simple">
+        <head>Contact Information</head>
+        <item>Department of Special Collections</item>
+        <item>Green Library</item>
+        <item>Stanford University Libraries</item>
+        <item>Stanford, CA 94305-6004 </item>
+        <item>Phone: (650) 725-1022</item>
+        <item>Email: specialcollections@stanford.edu</item>
+        <item>URL: http://library.stanford.edu/spc</item>
+      </list>
+      <list type="deflist">
+        <defitem>
+          <label>Processed by: </label>
+          <item>Steven Mandeville-Gamble</item>
+        </defitem>
+        <defitem>
+          <label>Date Completed: </label>
+          <item>2002 June 26</item>
+        </defitem>
+        <defitem>
+          <label>Encoded by: </label>
+          <item>Steven Mandeville-Gamble</item>
+        </defitem>
+      </list>
+      <p>&#xA9; 2002 The Board of Trustees of Stanford University. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection">
+    <did id="did-1.8.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">Apple Computer, Inc. ephemera collection, </unittitle><unitdate calendar="gregorian" era="ce" type="inclusive">1978 - 1998</unitdate>
+      <unitid label="Collection number" countrycode="US" repositorycode="CSt">M0825</unitid>
+      <origination label="Creator">
+        <persname source="lcnaf">Apple Computer, Inc.</persname>
+      </origination>
+      <physdesc label="Extent">
+        <extent>9 linear ft.</extent>
+      </physdesc>
+      <repository label="Repository">
+        <corpname source="lcnaf">Stanford University. Libraries. Dept. of Special Collections and University Archives.</corpname>
+      </repository>
+      <abstract label="Abstract">This collection contains annual reports, internal communications, corporate communications, engineering reports, manuals, product information files, catalogs, price lists, Apple publications, human resource information, conference and workshop information, software, hardware, and corporate memorabilia.</abstract>
+      <langmaterial label="Language">
+        <language langcode="en">English.</language>
+      </langmaterial>
+    </did>
+    <descgrp id="descgrp-1.8.2" type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict>
+        <head>Access</head>
+        <p>There are no restrictions on access.</p>
+      </accessrestrict>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>Property rights reside with the repository. Literary rights
+reside with the creators of the documents or their heirs. To
+obtain permission to publish or reproduce, please contact the
+Public Services Librarian of the Dept. of Special Collections.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>Apple Computer, Inc. Ephemera collection. M0825. Dept. of Special Collections, Stanford University Libraries, Stanford, Calif.</p>
+      </prefercite>
+      <acqinfo>
+        <head>Acquisition Information</head>
+        <p>Gift of Henry Lowood, 1995-1997, and Wynne Dobyns, 1995-2002.</p>
+      </acqinfo>
+      <custodhist>
+        <head>Provenance</head>
+        <p>Some of the materials in this artificial collection were transferred from M0443, the Silicon Valley Ephemera Collection, to create an Apple Computer-specific collection and integrated into a previously-existing artificial collection of Apple Computer materials.</p>
+      </custodhist>
+    </descgrp>
+    <bioghist id="bioghist-1.8.3">
+      <head>Biography</head>
+      <p>Apple Computer, Inc. was incorporated on January 3, 1977. Apple Computer, Inc., ignited the personal computer revolution in the 1970s with the Apple II, and reinvented the personal computer in the 1980s with the Macintosh, of which it had sold more 30 million systems as of the end of 1998. Apple's original mission as articulated by its co-founder Steven Jobs was to bring the best personal computing products and support to students, educators, designers, scientists, engineers, business persons and consumers in over 140 countries around the world. In 1998, Apple Computer, Inc. maintained Research &amp; Development sites in Cork, Ireland; Cupertino, California; Tokyo, Japan; and Zhuhai, China. Apple owned manufacturing facilities in the United States, Ireland, and Singapore. Distribution facilities are located in the United States, Europe, Canada, Australia, Singapore, and Japan.</p>
+    </bioghist>
+    <scopecontent id="scopecontent-1.8.4">
+      <head>Collection Scope and Content Summary</head>
+      <p>Contains annual reports, internal communications, corporate communications, engineering reports, manuals, product information files, catalogs, price lists, Apple publications, human resource information, conference and workshop information, software, hardware, and corporate memorabilia.</p>
+    </scopecontent>
+    <controlaccess id="controlaccess-1.8.5">
+      <head>Access Terms</head>
+      <p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+      <subject source="lcsh" encodinganalog="650">Corporate culture.</subject>
+      <subject source="lcsh" encodinganalog="650">Science--History.</subject>
+    </controlaccess>
+    <dsc id="dsc-1.8.6" type="combined">
+      <head>Collection Contents</head>
+      <c01 id="c01-1.8.6.2" level="series">
+        <did>
+          <unittitle>Series 1. Corporate Communications</unittitle>
+        </did>
+        <c02 id="c02-1.8.6.2.2" level="file">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle>Annual report, <unitdate calendar="gregorian" era="ce">1983</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.3" level="file">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle>Annual report, <unitdate calendar="gregorian" era="ce">1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.4" level="file">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle>Annual report, <unitdate calendar="gregorian" era="ce">1988</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.5" level="file">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle>Annual report, <unitdate calendar="gregorian" era="ce">1993</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.6" level="file">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">5</container>
+            <unittitle>Annual report, <unitdate calendar="gregorian" era="ce">1994</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.7" level="file">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">6</container>
+            <unittitle>Annual report, <unitdate calendar="gregorian" era="ce">1995</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.8" level="file">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">7</container>
+            <unittitle>Annual report, <unitdate calendar="gregorian" era="ce">1996</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.9" level="file">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">8</container>
+            <unittitle>Annual shareholders meeting materials, <unitdate calendar="gregorian" era="ce">1996</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.10" level="file">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">9</container>
+            <unittitle>Annual shareholders meeting materials, <unitdate calendar="gregorian" era="ce">1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.11" level="file">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">10</container>
+            <unittitle>Apple Computer logo, signature, and typeface standards</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.12" level="file">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">11</container>
+            <unittitle>Apple facts, <unitdate calendar="gregorian" era="ce">1994 - 1995</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.13" level="file">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">12</container>
+            <unittitle>Apple facts, <unitdate calendar="gregorian" era="ce">1996</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.14" level="file">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">13</container>
+            <unittitle>Apple Teaching Fellows directory, <unitdate calendar="gregorian" era="ce">1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.15" level="file">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">14</container>
+            <unittitle>Apple Technical web sites</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.16" level="file">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">15</container>
+            <unittitle>At the crossroads : a strategic framework for a renewed Apple / Dr. Gil Amelio. -- 1996 May</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.17" level="file">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">16</container>
+            <unittitle>Authorized dealers</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.18" level="file">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">17</container>
+            <unittitle>Building the future of learning technologies</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.19" level="file">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">18</container>
+            <unittitle>Go figure : a quick look at some important facts, <unitdate calendar="gregorian" era="ce">1996 - 1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.20" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle>Living in the world we've changed</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.21" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle>Macintosh operating system strategy</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.22" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle>Marketing flyers</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.23" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle>Masters of Media program</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.24" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">5</container>
+            <unittitle>Product registration</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.25" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">6</container>
+            <unittitle>Rebates</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.26" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">7</container>
+            <unittitle>Sharing our two most valuable resources</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.27" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">8</container>
+            <unittitle>Year 200 readiness disclosure statement</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.28" level="file">
+          <did>
+            <container label="Flat Box" type="Box">15</container>
+            <unittitle>Apple put their brightest engineers....Advertising supplement to the Wall Street Journal<unitdate calendar="gregorian" era="ce">25 Feb. 1993</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.29" level="file">
+          <did>
+            <container label="Flat Box" type="Box">15</container>
+            <unittitle>Dear Apple Customers, I would like to....The Wall Street Journal<unitdate calendar="gregorian" era="ce">17 April 1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.30" level="file">
+          <did>
+            <container label="Flat Box" type="Box">15</container>
+            <unittitle>Dream Big: The big paper about ideas, college, and Macintosh.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.31" level="file">
+          <did>
+            <container label="Flat Box" type="Box">15</container>
+            <unittitle>only apple, San Jose Mercury News<unitdate calendar="gregorian" era="ce">10 April 1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.32" level="file">
+          <did>
+            <container label="Flat Box" type="Box">15</container>
+            <unittitle>Vous voulez un Macintosh ou un simple ordinateur?</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.2.33" level="file">
+          <did>
+            <container label="Flat Box" type="Box">15</container>
+            <unittitle>What would you think of a computer....Advertising supplement to the Wall Street Journal</unittitle>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.8.6.3" level="series">
+        <did>
+          <unittitle>Series 2. Apple Developer Group</unittitle>
+        </did>
+        <c02 id="c02-1.8.6.3.2" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">9</container>
+            <unittitle>Apple Developer University</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.3.3" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">10</container>
+            <unittitle>Macintosh development</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.8.6.4" level="series">
+        <did>
+          <unittitle>Series 3. Product Information</unittitle>
+        </did>
+        <c02 id="c02-1.8.6.4.2" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">11</container>
+            <unittitle>Airport</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.3" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">12</container>
+            <unittitle>Apple, general</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.4" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">13</container>
+            <unittitle>Apple II</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.5" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">14</container>
+            <unittitle>Apple II communications interface card</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.6" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">15</container>
+            <unittitle>Apple II parallel printer interface card</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.7" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">16</container>
+            <unittitle>Apple IIe</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.8" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">17</container>
+            <unittitle>AppleTalk</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.9" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">18</container>
+            <unittitle>CD-ROM drive</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.10" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">19</container>
+            <unittitle>Disk II</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.11" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">20</container>
+            <unittitle>Displays</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.12" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">21</container>
+            <unittitle>eWorld</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.13" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">22</container>
+            <unittitle>Fire Wire</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.14" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">23</container>
+            <unittitle>iBook</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.15" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">24</container>
+            <unittitle>iMac</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.16" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">25</container>
+            <unittitle>Lisa</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.17" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">26</container>
+            <unittitle>Mac OS 8.5</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.18" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">27</container>
+            <unittitle>Macintosh</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.19" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">28</container>
+            <unittitle>Macintosh IIfx</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.20" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">29</container>
+            <unittitle>Macintosh IIx press kit</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.21" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">30</container>
+            <unittitle>Macintosh SE</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.22" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">31</container>
+            <unittitle>Macintosh software</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.23" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">32</container>
+            <unittitle>Newton</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.24" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">33</container>
+            <unittitle>PhotoFlash</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.25" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">34</container>
+            <unittitle>Power Book G3</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.26" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">35</container>
+            <unittitle>Power Macintosh</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.27" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">36</container>
+            <unittitle>Power Mac G3</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.28" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">37</container>
+            <unittitle>Power Mac G4</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.29" level="file">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">38</container>
+            <unittitle>Power PC</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.30" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle>Power School</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.31" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle>Print Shop</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.32" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle>QuickTime Media Layer</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.33" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle>System 7 Pro</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.34" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">5</container>
+            <unittitle>Workgroup servers</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.35" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">6</container>
+            <unittitle>Third party : Adobe</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.36" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">7</container>
+            <unittitle>Third party : MicroRain</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.37" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">8</container>
+            <unittitle>Third party : Mountain Hardware</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.4.38" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">9</container>
+            <unittitle>Third party : Warp Nine</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.8.6.5" level="series">
+        <did>
+          <unittitle>Series 4. Catalogs and price lists</unittitle>
+        </did>
+        <c02 id="c02-1.8.6.5.2" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">10</container>
+            <unittitle>Apple gift catalog</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.5.3" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">11</container>
+            <unittitle>Starting line : Apple Marketing communications catalog, <unitdate calendar="gregorian" era="ce">1987 Mar.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.5.4" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">12</container>
+            <unittitle>Suggested retail price list, <unitdate calendar="gregorian" era="ce">1978 - 1979</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.8.6.6" level="series">
+        <did>
+          <unittitle>Series 5. Manuals</unittitle>
+        </did>
+        <c02 id="c02-1.8.6.6.2" level="file">
+          <did>
+            <unittitle/>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.3" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">13</container>
+            <unittitle>Apple II 80-column text card manual : for IIe only</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.4" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">14</container>
+            <unittitle>Apple II Extended 80-column text card manual : for IIe only</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.5" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">15</container>
+            <unittitle>Apple II Apple 6502 assembler / editor</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.6" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">16</container>
+            <unittitle>Apple II Apple Fortran language reference manual</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.7" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">17</container>
+            <unittitle>Apple II Apple how to!</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.8" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">18</container>
+            <unittitle>Apple II Apple II business graphics</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.9" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">19</container>
+            <unittitle>Apple II Apple II monitor peeled</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.10" level="file">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">20</container>
+            <unittitle>Apple II Apple Pascal language reference manual</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.11" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle>Apple II Apple Pascal update</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.12" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle>Apple II addendum to the Apple Pascal language reference manual</unittitle>
+          </did>
+          <scopecontent>
+            <p>Note: in same folder as related operating system reference manual</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.8.6.6.13" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle>Apple II addendum to the Apple Pascal operating system reference manual</unittitle>
+          </did>
+          <scopecontent>
+            <p>Note: in same folder as related language reference manual</p>
+          </scopecontent>
+        </c02>
+        <c02 id="c02-1.8.6.6.14" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle>Apple II Apple SuperPILOT editor's manual</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.15" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle>Apple II Apple SuperPILOT language reference manual</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.16" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">5</container>
+            <unittitle>Apple II Applesoft tool kit</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.17" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">6</container>
+            <unittitle>Apple II Appleworks tutorial</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.18" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">7</container>
+            <unittitle>Apple II Backup II</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.19" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">8</container>
+            <unittitle>Apple II Cable and connectors guide</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.20" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">9</container>
+            <unittitle>Apple II The DOS manual</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.21" level="file">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">10</container>
+            <unittitle>Apple II DOS programmer's manual : for II, II+, IIe</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.22" level="file">
+          <did>
+            <container label="Box" type="Box">5</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle>Apple II ICE user manual for Apple II and III</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.23" level="file">
+          <did>
+            <container label="Box" type="Box">5</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle>Apple II IEEE-488 interface user's guide</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.24" level="file">
+          <did>
+            <container label="Box" type="Box">5</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle>Apple II Pascal ProFile manager manual : for II, II+, IIe</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.25" level="file">
+          <did>
+            <container label="Box" type="Box">5</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle>Apple II ProDOS user's manual</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.26" level="file">
+          <did>
+            <container label="Box" type="Box">5</container>
+            <container label="Folder" type="Folder">5</container>
+            <unittitle>Apple II Quick File II .. an introduction</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.27" level="file">
+          <did>
+            <container label="Box" type="Box">5</container>
+            <container label="Folder" type="Folder">6</container>
+            <unittitle>Apple II Quickfile II : for IIe only, Pascal 1.1 based</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.28" level="file">
+          <did>
+            <container label="Box" type="Box">5</container>
+            <container label="Folder" type="Folder">7</container>
+            <unittitle>Apple II reference manual, <unitdate calendar="gregorian" era="ce">1978 Jan.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.29" level="file">
+          <did>
+            <container label="Box" type="Box">5</container>
+            <container label="Folder" type="Folder">8</container>
+            <unittitle>Apple II WPL manual : for IIe only, DOS 3.3 based</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.30" level="file">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle>Apple IIe design guidelines</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.31" level="file">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle>Apple IIe Guide to the new features</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.32" level="file">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle>Apple IIe owner's manual, <unitdate calendar="gregorian" era="ce">1982</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.33" level="file">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle>Apple II Parallel printer interface card</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.34" level="file">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">5</container>
+            <unittitle>Apple II serial interface card installation and operation manual</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.35" level="file">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">6</container>
+            <unittitle>Revised Apple IIe technical reference manual: final draft/ Steven Ford High (1 of 2), <unitdate calendar="gregorian" era="ce">May 1986</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.36" level="file">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">7</container>
+            <unittitle>Revised Apple IIe technical reference manual: final draft/ Steven Ford High (2 of 2), <unitdate calendar="gregorian" era="ce">May 1986</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.37" level="file">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">8</container>
+            <unittitle>Apple III CP/M Reference Manual</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.38" level="file">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">9</container>
+            <unittitle>Apple III daisy wheel printer user's manual. Part II: guide to Apple III</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.39" level="file">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">10</container>
+            <unittitle>Apple III Microsoft BASIC reference manual</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.40" level="file">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">11</container>
+            <unittitle>Apple III OEM prototyping card</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.41" level="file">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">12</container>
+            <unittitle>Apple III Pascal introduction, filer, and editor, <unitdate calendar="gregorian" era="ce">1981</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.42" level="file">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">13</container>
+            <unittitle>Apple III Pascal Numerics Manual: a guide to using the Apple III Pascal SANE and Elems units</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.43" level="file">
+          <did>
+            <container label="Box" type="Box">7</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle>Apple III  Pascal program preparation tools</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.44" level="file">
+          <did>
+            <container label="Box" type="Box">7</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle>Apple III  Pascal program preparation tools errata</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.45" level="file">
+          <did>
+            <container label="Box" type="Box">7</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle>Apple III  Pascal Programmer's Manual, vol. 1</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.46" level="file">
+          <did>
+            <container label="Box" type="Box">7</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle>Apple III  Pascal Programmer's manual, vol. 2</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.47" level="file">
+          <did>
+            <container label="Box" type="Box">7</container>
+            <container label="Folder" type="Folder">5</container>
+            <unittitle>Apple III  Pascal technical reference manual</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.48" level="file">
+          <did>
+            <container label="Box" type="Box">7</container>
+            <container label="Folder" type="Folder">6</container>
+            <unittitle>Apple III  Pascal technical reference manual: supplement</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.49" level="file">
+          <did>
+            <container label="Box" type="Box">7</container>
+            <container label="Folder" type="Folder">7</container>
+            <unittitle>Apple III  Profile owner's manual</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.50" level="file">
+          <did>
+            <container label="Box" type="Box">7</container>
+            <container label="Folder" type="Folder">8</container>
+            <unittitle>Apple III  serial card III</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.51" level="file">
+          <did>
+            <container label="Box" type="Box">7</container>
+            <container label="Folder" type="Folder">9</container>
+            <unittitle>Apple III  Soft Card III installation and operation manual, <unitdate calendar="gregorian" era="ce">1982</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.52" level="file">
+          <did>
+            <container label="Box" type="Box">7</container>
+            <container label="Folder" type="Folder">10</container>
+            <unittitle>Apple III  SOS device driver writer's guide</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.53" level="file">
+          <did>
+            <container label="Box" type="Box">7</container>
+            <container label="Folder" type="Folder">11</container>
+            <unittitle>Dylan: an object-oriented dynamic language/ Apple Computer Eastern Research and Technology</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.54" level="file">
+          <did>
+            <container label="Box" type="Box">8</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle>Macintosh Plus</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.55" level="file">
+          <did>
+            <container label="Box" type="Box">8</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle>Macintosh Manual</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.56" level="file">
+          <did>
+            <container label="Box" type="Box">8</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle>Apple Macintosh User's handbook</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.57" level="file">
+          <did>
+            <container label="Box" type="Box">8</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle>Macintosh SE: [manual], <unitdate calendar="gregorian" era="ce">1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.58" level="file">
+          <did>
+            <container label="Box" type="Box">8</container>
+            <container label="Folder" type="Folder">5</container>
+            <unittitle>Macintosh SE/30. Special features of your Macintosh SE/30, <unitdate calendar="gregorian" era="ce">1990</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.6.59" level="file">
+          <did>
+            <container label="Box" type="Box">8</container>
+            <container label="Folder" type="Folder">6</container>
+            <unittitle>Novations Modems</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.8.6.7" level="series">
+        <did>
+          <unittitle>Series 6. Publications</unittitle>
+        </did>
+        <c02 id="c02-1.8.6.7.2" level="file">
+          <did>
+            <container label="Box" type="Box">9</container>
+            <unittitle>Apple Library Users Group Newsletter: vol. 2 no. 2-4; vol. 3 no. 1-2, 4;  vol. 4 no. 1-4; vol. 5 no. 1-3; vol. 6 no. 1-4; vol. 7 no. 1-3<unitdate calendar="gregorian" era="ce">May 1984 - July 1989</unitdate></unittitle>
+            <physdesc>20 newsletters</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.7.3" level="file">
+          <did>
+            <container label="Box" type="Box">10</container>
+            <unittitle>Apple Library Users Group Newsletter: vol. 7 no. 4; vol. 8 no. 1-2<unitdate calendar="gregorian" era="ce">October 1989 - April 1990</unitdate></unittitle>
+            <physdesc>3 newsletters</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.7.4" level="file">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle>5-Star News, <unitdate calendar="gregorian" era="ce">1994 Sept. - Dec.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.7.5" level="file">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle>5-Star News, <unitdate calendar="gregorian" era="ce">1995 Jan. - June</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.7.6" level="file">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle>5-Star News, <unitdate calendar="gregorian" era="ce">1995 July - Dec.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.7.7" level="file">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle>5-Star News, <unitdate calendar="gregorian" era="ce">1996 Jan. - Dec./ 1997 Jan</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.7.8" level="file">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">5</container>
+            <unittitle>Apple Directions, <unitdate calendar="gregorian" era="ce">1997 Jan. - July</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.7.9" level="file">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">6</container>
+            <unittitle>Apple Education News, </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.7.10" level="file">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">7</container>
+            <unittitle>Apple: the personal computer magazine and catalog, vol. 1, no. 1-2</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.7.11" level="file">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">8</container>
+            <unittitle>Contact, <unitdate calendar="gregorian" era="ce">1978</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.7.12" level="file">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">9</container>
+            <unittitle>Contact 5 </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.7.13" level="file">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">10</container>
+            <unittitle>Inside Apple, vol. 2, no. 2 </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.7.14" level="file">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">11</container>
+            <unittitle>Rubin, Charles.  The Macintosh Bible "what do I do now?" book</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.7.15" level="file">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">12</container>
+            <unittitle>Williams, Robin.  The Mac in not a typewriter</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.7.16" level="file">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">13</container>
+            <unittitle>Joint Venture: Silicon Valley, an economy of risk</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.7.17" level="file">
+          <did>
+            <container label="Flat Box" type="Box">15</container>
+            <unittitle>Apple Media Arts Supplements<unitdate calendar="gregorian" era="ce">Winter 1999- Spring 1999</unitdate></unittitle>
+            <physdesc>3 items</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.7.18" level="file">
+          <did>
+            <container label="Flat Box" type="Box">15</container>
+            <unittitle>Apple Media Arts: vol. 1 no. 1-2, vol. 2 no. 1<unitdate calendar="gregorian" era="ce">Spring 1998 - Winter 1999</unitdate></unittitle>
+            <physdesc>4 items</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.7.19" level="file">
+          <did>
+            <container label="Flat Box" type="Box">15</container>
+            <unittitle>Apple Outlook<unitdate calendar="gregorian" era="ce">1997 Jan, 1997 May</unitdate></unittitle>
+            <physdesc>3 items</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.7.20" level="file">
+          <did>
+            <container label="Flat Box" type="Box">15</container>
+            <unittitle>Apple Product Line<unitdate calendar="gregorian" era="ce">1997 Jan, 1997 May</unitdate></unittitle>
+            <physdesc>3 items</physdesc>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.8.6.8" level="series">
+        <did>
+          <unittitle>Series 7. Clippings and articles</unittitle>
+        </did>
+        <c02 id="c02-1.8.6.8.2" level="file">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">14</container>
+            <unittitle>San Jose Mercury News article re: Heidi Roizen, <unitdate calendar="gregorian" era="ce">1996 Dec. 8</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.8.3" level="file">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">15</container>
+            <unittitle>San Mateo County Times, Apple turns 20 , faces a tough road ahead/ Catalina Ortiz<unitdate calendar="gregorian" era="ce">1996 April </unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.8.4" level="file">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">16</container>
+            <unittitle>Time Magazine, Apple's new core: how Steve Jobs made a sleek machine that could be the home-digital hub of the future/ by Josh Quittner<unitdate calendar="gregorian" era="ce">2002 Jan. 14</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.8.5" level="file">
+          <did>
+            <container label="Flat Box" type="Box">15</container>
+            <unittitle>The Lists: The Business Journal Serving San Jose and the Silicon Valley, 1995 Addendum<unitdate calendar="gregorian" era="ce">30 Jan. 1995</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.8.6" level="file">
+          <did>
+            <container label="Flat Box" type="Box">15</container>
+            <unittitle>Who's Who in High-Tech: A directory of high-ranking executives in Silicon Valley<unitdate calendar="gregorian" era="ce">1995 Feb.</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.8.6.9" level="series">
+        <did>
+          <unittitle>Series 8. Apple Library</unittitle>
+        </did>
+        <c02 id="c02-1.8.6.9.2" level="file">
+          <did>
+            <container label="Box" type="Box">12</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle>Apple Library brochure</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.9.3" level="file">
+          <did>
+            <container label="Box" type="Box">12</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle>Apple Library of Tomorrow proceedings, <unitdate calendar="gregorian" era="ce">1990-1992</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.8.6.10" level="series">
+        <did>
+          <unittitle>Series 9. Conferences and workshops</unittitle>
+        </did>
+        <c02 id="c02-1.8.6.10.2" level="file">
+          <did>
+            <container label="Box" type="Box">12</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle>Hyperfest</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.10.3" level="file">
+          <did>
+            <container label="Box" type="Box">12</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle>Mactivity '96<unitdate calendar="gregorian" era="ce">1996</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.10.4" level="file">
+          <did>
+            <container label="Box" type="Box">12</container>
+            <container label="Folder" type="Folder">5</container>
+            <unittitle>MacWorld Exposition San Francisco, <unitdate calendar="gregorian" era="ce">1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.10.5" level="file">
+          <did>
+            <container label="Box" type="Box">12</container>
+            <container label="Folder" type="Folder">6</container>
+            <unittitle>Troubleshooting and maintaining the Macintosh, <unitdate calendar="gregorian" era="ce">1992</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.8.6.11" level="series">
+        <did>
+          <unittitle>Series 10. Staff development, benefits, etc.</unittitle>
+        </did>
+        <c02 id="c02-1.8.6.11.2" level="file">
+          <did>
+            <container label="Box" type="Box">12</container>
+            <container label="Folder" type="Folder">7</container>
+            <unittitle>Apple Health and Fitness</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.11.3" level="file">
+          <did>
+            <container label="Box" type="Box">12</container>
+            <container label="Folder" type="Folder">8</container>
+            <unittitle>Apple Lambda</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.11.4" level="file">
+          <did>
+            <container label="Box" type="Box">12</container>
+            <container label="Folder" type="Folder">9</container>
+            <unittitle>Apple Staff Development, <unitdate calendar="gregorian" era="ce">1998</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.11.5" level="file">
+          <did>
+            <container label="Box" type="Box">12</container>
+            <container label="Folder" type="Folder">10</container>
+            <unittitle>The Company Store</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.11.6" level="file">
+          <did>
+            <container label="Box" type="Box">12</container>
+            <container label="Folder" type="Folder">11</container>
+            <unittitle>Compensation and benefits</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.11.7" level="file">
+          <did>
+            <container label="Box" type="Box">12</container>
+            <container label="Folder" type="Folder">12</container>
+            <unittitle>Learn and Earn Program</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.11.8" level="file">
+          <did>
+            <container label="Box" type="Box">12</container>
+            <container label="Folder" type="Folder">13</container>
+            <unittitle>Take our Daughters to Work Day, <unitdate calendar="gregorian" era="ce">1998</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.8.6.12" level="series">
+        <did>
+          <unittitle>Series 11. Photographs</unittitle>
+        </did>
+        <c02 id="c02-1.8.6.12.2" level="file">
+          <did>
+            <container label="Box" type="Box">12</container>
+            <container label="Folder" type="Folder">14</container>
+            <unittitle>Apple Emplyees surrounding Macintosh</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.8.6.13" level="series">
+        <did>
+          <unittitle>Series 12. Ephemera</unittitle>
+        </did>
+        <c02 id="c02-1.8.6.13.2" level="file">
+          <did>
+            <container label="Box" type="Box">12</container>
+            <container label="Folder" type="Folder">15</container>
+            <unittitle>eWorld mousepad</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.13.3" level="file">
+          <did>
+            <container label="Box" type="Box">12</container>
+            <container label="Folder" type="Folder">16</container>
+            <unittitle>stickers</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.13.4" level="file">
+          <did>
+            <container label="Flat Box" type="Box">15</container>
+            <unittitle>Why do you suppose those folks in Redmond try so hard to imitate us? </unittitle>
+            <physdesc>marketing kit</physdesc>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.8.6.14" level="series">
+        <did>
+          <unittitle>Series 13. Computer files</unittitle>
+        </did>
+        <c02 id="c02-1.8.6.14.2" level="file">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <unittitle>Macintosh 68000 Developments System</unittitle>
+            <physdesc>software box</physdesc>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.14.3" level="file">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle>Apple presents...Apple: IIe version</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.14.4" level="file">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle>Apple IIe business applications simulation</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.14.5" level="file">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle>Quick File II: program and Quick File II: sample files</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.14.6" level="file">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle>List of diskettes</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.14.7" level="file">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">5</container>
+            <unittitle>Examples 5/85</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.14.8" level="file">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">6</container>
+            <unittitle>eWorld</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.14.9" level="file">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">7</container>
+            <unittitle>Mac Build Disk 2/85</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.14.10" level="file">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">8</container>
+            <unittitle>Mac Build Disk 5/85</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.14.11" level="file">
+          <did>
+            <container label="Box" type="Box">14</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle>MacStuff 1/85</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.14.12" level="file">
+          <did>
+            <container label="Box" type="Box">14</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle>MacStuff 2/85 (copy 1)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.14.13" level="file">
+          <did>
+            <container label="Box" type="Box">14</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle>MacStuff 2/85 (copy 2)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.14.14" level="file">
+          <did>
+            <container label="Box" type="Box">14</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle>MacStuff 5/85 (copy 1)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.14.15" level="file">
+          <did>
+            <container label="Box" type="Box">14</container>
+            <container label="Folder" type="Folder">5</container>
+            <unittitle>MacStuff 5/85 (copy 2)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.14.16" level="file">
+          <did>
+            <container label="Box" type="Box">14</container>
+            <container label="Folder" type="Folder">6</container>
+            <unittitle>Mac Supplement 1/85</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.14.17" level="file">
+          <did>
+            <container label="Box" type="Box">14</container>
+            <container label="Folder" type="Folder">7</container>
+            <unittitle>Mac Supplement 2/85 (copy 1)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.14.18" level="file">
+          <did>
+            <container label="Box" type="Box">14</container>
+            <container label="Folder" type="Folder">8</container>
+            <unittitle>Mac Supplement 2/85 (copy 2)(1-4 of 6)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.14.19" level="file">
+          <did>
+            <container label="Box" type="Box">14</container>
+            <container label="Folder" type="Folder">9</container>
+            <unittitle>Mac Supplement, n.d.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.14.20" level="file">
+          <did>
+            <container label="Box" type="Box">14</container>
+            <container label="Folder" type="Folder">10</container>
+            <unittitle>Mac Works, <unitdate calendar="gregorian" era="ce">1985 Jan.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.14.21" level="file">
+          <did>
+            <container label="Box" type="Box">14</container>
+            <container label="Folder" type="Folder">11</container>
+            <unittitle>Mac Works XL 3.0,<unitdate calendar="gregorian" era="ce">1985 May</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.14.22" level="file">
+          <did>
+            <container label="Box" type="Box">14</container>
+            <container label="Folder" type="Folder">12</container>
+            <unittitle>Workshop Supplement, <unitdate calendar="gregorian" era="ce">1985 May</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.14.23" level="file">
+          <did>
+            <container label="Box" type="Box">14</container>
+            <container label="Folder" type="Folder">13</container>
+            <unittitle>Workshop 3.9 update, <unitdate calendar="gregorian" era="ce">1985 May</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.14.24" level="file">
+          <did>
+            <container label="Box" type="Box">14</container>
+            <container label="Folder" type="Folder">14</container>
+            <unittitle>Stepping into the future...Robert's day with the Mac OS</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.6.14.25" level="file">
+          <did>
+            <container label="Box" type="Box">14</container>
+            <container label="Folder" type="Folder">15</container>
+            <unittitle>The 1997 Apple MacAdvocate CD-ROM</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+    <relatedmaterial id="relatedmaterial-1.8.7">
+      <head>Related Collections</head>
+      <archref linktype="simple">
+        <origination label="Creator">
+          <corpname>Apple Computer, Inc.</corpname>
+        </origination>
+        <unittitle>Records</unittitle>
+        <unitid>M1007</unitid>
+      </archref>
+      <p>An online guide to the Apple Computer, Inc. Records is available as an XML document at:
+<extref linktype="simple" show="new" actuate="onrequest" href="http://www-sul.stanford.edu/depts/spc/xml/m1007.xml">http://www-sul.stanford.edu/depts/spc/xml/m1007.xml</extref> and as an HTML document at: 
+<extref linktype="simple" show="new" actuate="onrequest" href="http://www.oac.cdlib.org/dynaweb/ead/stanford/mss/m1007/">http://www.oac.cdlib.org/dynaweb/ead/stanford/mss/m1007/</extref></p>
+      <archref linktype="simple">
+        <unittitle>Silicon Valley Ephemera Collection</unittitle>
+        <unitid>M0443</unitid>
+      </archref>
+      <p>An online guide to the Silicon Valley Ephemera Collection is available as an XML document at:
+<extref linktype="simple" show="new" actuate="onrequest" href="http://www-sul.stanford.edu/depts/spc/xml/m0443.xml">http://www-sul.stanford.edu/depts/spc/xml/m0443.xml</extref> and as an HTML document at: 
+<extref linktype="simple" show="new" actuate="onrequest" href="http://www.oac.cdlib.org/dynaweb/ead/stanford/mss/m0443/">http://www.oac.cdlib.org/dynaweb/ead/stanford/mss/m0443/</extref></p>
+    </relatedmaterial>
+  </archdesc>
+</ead>

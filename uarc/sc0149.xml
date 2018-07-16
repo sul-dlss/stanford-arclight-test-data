@@ -1,0 +1,1420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[Merrill K. Bennett papers])//EN"
+             identifier="ark:/13030/kt3199s1ds">sc0149.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Merrill K. Bennett Papers
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Bennett (Merrill K.) Papers</titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2010-10">October 2010</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC0149</unitid>
+         <origination label="Creator:">
+            <persname rules="aacr" source="ingest">Bennett, Merrill K., 1898-1969.</persname>
+         </origination>
+         <unittitle label="Title:">Merrill K. Bennett papers</unittitle>
+         <unitdate normal="1908/1975"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1908-1975</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>2.25 Linear feet</extent>
+         </physdesc>
+         <abstract label="Summary:">Unpublished papers and speeches (1923-1966) on topics such as agricultural costs, wartime economy, food problems of post-war Europe, and world population problems; correspondence; newsclippings; pamphlets; mementos; and other papers relating to Bennett's travels to Hawaii (1942), Japan (1947), and Africa.</abstract>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <descgrp type="provenance" id="prov">
+            <head>Provenance</head>
+            <acqinfo id="ref3">
+               <p>Gift of John F. Bennett, 1976.</p>
+            </acqinfo>
+         </descgrp>
+         <accessrestrict id="ref4">
+            <head>Information about Access</head>
+            <p>This collection is open for research.</p>
+         </accessrestrict>
+         <userestrict id="ref5">
+            <head>Ownership &amp; Copyright</head>
+            <p>All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Special Collections and University Archives, Stanford University Libraries, Stanford, California 94304-6064. Consent is given on behalf of Special Collections as the owner of the physical items and is not intended to include or imply permission from the copyright owner. Such permission must be obtained from the copyright owner, heir(s) or assigns. See: http://library.stanford.edu/depts/spc/pubserv/permissions.html.</p>
+            <p>Restrictions also apply to digital representations of the original materials. Use of digital files is restricted to research and educational purposes.</p>
+         </userestrict>
+         <prefercite id="ref6">
+            <head>Cite As</head>
+            <p>Merrill K. Bennett papers (SC0149). Department of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <bioghist id="ref7">
+         <head>Biographical/Historical Sketch</head>
+         <p>Director, Stanford Food Research Institute (1952-1962); executive director (1942-1951); faculty member (1922-1962). Bennett was an authority on the economics of food consumption.</p>
+      </bioghist>
+      <scopecontent id="ref8">
+         <head>Description of the Collection</head>
+         <p>Unpublished papers and speeches (1923-1966) on topics such as agricultural costs, wartime economy, food problems of post-war Europe, and world population problems; correspondence; newsclippings; pamphlets; mementos; and other papers relating to Bennett's travels to Hawaii (1942), Japan (1947), and Africa.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <persname rules="aacr" source="ingest">Bennett, Merrill K., 1898-1969.</persname>
+         <corpname rules="dacs" source="ingest">Stanford University. Food Research Institute. Faculty.</corpname>
+         <geogname source="lcnaf">Africa.</geogname>
+         <genreform source="aat">Clippings.</genreform>
+         <subject source="LCSH">Food consumption.</subject>
+         <geogname source="lcnaf">Hawaii.</geogname>
+         <geogname source="lcnaf">Japan.</geogname>
+         <genreform source="aat">Memorabilia.</genreform>
+         <genreform source="aat">Pamphlets</genreform>
+         <genreform source="aat">Speeches.</genreform>
+         <subject source="LCSH">World War, 1939-1945 --Food question.</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.6">
+         <head>Collection Contents</head>
+         <c01 id="ref9" level="series">
+            <did>
+               <unittitle>Papers</unittitle>
+               <unitdate>1908-1975</unitdate>
+            </did>
+            <c02 id="ref10" level="file">
+               <did>
+                  <unittitle>List of published works</unittitle>
+                  <unitdate>1961</unitdate>
+               </did>
+               <c03 id="ref11" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">1</container>
+                     <unittitle>List of Merrill Bennett's published works</unittitle>
+                     <unitdate>1961</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref12" level="file">
+               <did>
+                  <unittitle>Unpublished materials: Papers and speeches</unittitle>
+                  <unitdate>1923-1966</unitdate>
+               </did>
+               <c03 id="ref13" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Various topics, including national standards of living, and domestic agricultural costs</unittitle>
+                     <unitdate>1923-1942</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref14" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">3</container>
+                     <unittitle>One long work, "Analytical summaries of farming costs"</unittitle>
+                     <unitdate>1923-1942</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref15" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Various topics, including California agriculture and European wartime economy</unittitle>
+                     <unitdate>1923-1942</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref16" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Speeches concerning European wartime food economy</unittitle>
+                     <unitdate>1923-1942</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref17" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Speeches about wartime economy</unittitle>
+                     <unitdate>1942-1949</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref18" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Various topics dealing with food problems of post-war Europe</unittitle>
+                     <unitdate>1942-1949</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref19" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Papers concerned with various aspects of international food economy</unittitle>
+                     <unitdate>1942-1949</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref20" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Various topics, including world population problems, and food supply</unittitle>
+                     <unitdate>1942-1949</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref21" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Mostly correspondence to Food Research Institute (not addressed by name) from Bennett's travels in East Africa</unittitle>
+                     <unitdate>1950-1959</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref22" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Materials concerned with food economy development in East Africa and foods of the New England Indians</unittitle>
+                     <unitdate>1950-1959</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref23" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">3</container>
+                     <unittitle>American Indian and Hawaiian food economies</unittitle>
+                     <unitdate>1950-1959</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref24" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Miscellaneous topics</unittitle>
+                     <unitdate>1960-1966</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref25" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">5</container>
+                     <unittitle>"Foods of the rainy tropics": notes, charts, maps and drafts</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref26" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">6</container>
+                     <unittitle>"Survival and losses of Aboriginal foods": notes, charts, maps and background materials</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref27" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Miscellaneous notes</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref28" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Bennett's notes on readings and a bibliography</unittitle>
+                     <unitdate>Undated</unitdate>
+                     <physdesc>Two small spiral notebooks</physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref30" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">9</container>
+                     <unittitle>"About Van Niel's book…": letters between Merrill Bennett and his son John Bennett, exchanging critical comments on the book</unittitle>
+                     <unitdate>1966</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref31" level="file">
+               <did>
+                  <unittitle>Travel: Hawaii</unittitle>
+                  <unitdate>1942</unitdate>
+               </did>
+               <c03 id="ref32" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Correspondence from Hawaii</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref33" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Hawaii in wartime: newspaper clippings</unittitle>
+                     <unitdate>1941 December 2-1942 January 30</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref34" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Hawaii in wartime: newspaper clippings</unittitle>
+                     <unitdate>1942 February 1-1942 February 28</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref35" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Hawaii in wartime: newspaper clippings</unittitle>
+                     <unitdate>1942 March 1-1942 September 20</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref36" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Hawaii in wartime: pamphlets, menus, magazine photos, and "list of rumours", kept by Bennett</unittitle>
+                     <unitdate>circa 1942</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref37" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Envelope containing notecards, "Names and notes on interviews"</unittitle>
+                     <unitdate>circa 1942</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref38" level="file">
+               <did>
+                  <unittitle>Travel: Japan</unittitle>
+                  <unitdate>1947</unitdate>
+               </did>
+               <c03 id="ref39" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Mementos, business cards from Japanese associates, itinerary, personnnel lists, ID card, correspondence and Air Raid Precautions Manual</unittitle>
+                     <unitdate>circa 1947</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref40" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Itinerary of Japan Trip, and passenger list of Canadian Pacific Cruise</unittitle>
+                     <unitdate>1964, 1967</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref41" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Correspondence to Dorcas Bennett from Japan</unittitle>
+                     <unitdate>1947</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref42" level="file">
+               <did>
+                  <unittitle>Travel: Hawaii</unittitle>
+                  <unitdate>1941-1942</unitdate>
+               </did>
+               <c03 id="ref43" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Photographs of scenery</unittitle>
+                     <unitdate>circa 1941-1942</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref44" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Photographs of people: some family, most unidentified</unittitle>
+                     <unitdate>circa 1941-1942</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref45" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">3</container>
+                     <unittitle>"Exhibit 1-12"</unittitle>
+                     <unitdate>circa 1941-1942</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref46" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Negatives</unittitle>
+                     <unitdate>circa 1941-1942</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref47" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Postcards (unwritten)</unittitle>
+                     <unitdate>circa 1941-1942</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref48" level="file">
+               <did>
+                  <unittitle>Travel: Japan</unittitle>
+                  <unitdate>1947</unitdate>
+               </did>
+               <c03 id="ref49" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Photographs, notecards, list</unittitle>
+                     <unitdate>circa 1947</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref50" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Photographs</unittitle>
+                     <unitdate>circa 1947</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref51" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Photographs</unittitle>
+                     <unitdate>circa 1947</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref52" level="file">
+               <did>
+                  <unittitle>Photographs</unittitle>
+                  <unitdate>1951, 1954 and undated</unitdate>
+               </did>
+               <c03 id="ref53" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">9</container>
+                     <unittitle>USDA Group photographs, Washington DC</unittitle>
+                     <unitdate>1951, 1954</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref54" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">10</container>
+                     <unittitle>Cousin Ben Brown and FRI friends</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref55" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Domestic travel to Yosemite, Point Lobos, Golden Gate Park, some unidentified scenes</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref56" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">12</container>
+                     <unittitle>Bennett home</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref57" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">13</container>
+                     <unittitle>Bennett family snapshots</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref58" level="file">
+               <did>
+                  <unittitle>Notecard file</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+               <c03 id="ref59" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <unittitle>Notecard file containing bibliographic citations arranged by subject area</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref60" level="file">
+               <did>
+                  <unittitle>Correspondence from Dorcas Gallup</unittitle>
+                  <unitdate>1911-1922 and undated</unitdate>
+               </did>
+               <c03 id="ref61" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1911-1918</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref62" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1919</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref63" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1920 January-March</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref64" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1920 April-May</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref65" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1920 June-December</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref66" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1921 January-March</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref67" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1921 April-August</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref68" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1921 September-October</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref69" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1921 November-December</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref70" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1922 January-February</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref71" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1922 March-April</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref72" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1922 May-June</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref73" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref74" level="file">
+               <did>
+                  <unittitle>Correspondence to Dorcas Gallup</unittitle>
+                  <unitdate>1917-1924</unitdate>
+               </did>
+               <c03 id="ref75" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1917 August 7-October</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref76" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1917 November 1-December 27</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref77" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1918 January 2-March 28</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref78" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1918 April 15-May 27</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref79" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1918 June 2-July 15</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref80" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1918 August 2-October 30</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref81" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1918 November 5-27</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref82" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1918 December 5-24</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref83" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1919 January 2-February 13</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref84" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">10</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1919 March 10-April 7</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref85" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1919 July 3-August 27</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref86" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">12</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1919 September 8-October 14</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref87" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">13</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1919 November 10-December 16</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref88" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">14</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1920 January 24-March 9</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref89" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">15</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1920 April 7-June 13</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref90" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">16</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1920 June 16-November 6</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref91" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">17</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1920 November 18-December 18</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref92" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">18</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1921 January-February 23</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref93" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1921 March 1-April 4</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref94" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1921 April 8-May 16</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref95" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1921 May 26-June 20</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref96" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1921 September 5-24</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref97" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1921 September 25-October 14</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref98" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1921 October 16-31</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref99" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1921 November</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref100" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1921 December 1-21</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref101" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1922 January 3-12</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref102" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">10</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1922 January 18-31</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref103" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1922 February 2-28</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref104" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">12</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1922 March 2-24</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref105" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">13</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1922 March 27-April 13</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref106" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">14</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1922 April 25-May 12</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref107" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">15</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1922 May 14-June 21</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref108" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">16</container>
+                     <unittitle>Correspondence (to Dorcas Gallup Bennett)</unittitle>
+                     <unitdate>1924 August 28-September 20</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref109" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">17</container>
+                     <unittitle>Correspondence (to Dorcas Gallup Bennett)</unittitle>
+                     <unitdate>1924 September 25-October</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref110" level="file">
+               <did>
+                  <unittitle>Family correspondence</unittitle>
+                  <unitdate>1922-1968 and undated</unitdate>
+               </did>
+               <c03 id="ref111" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">1</container>
+                     <unittitle>MKB to Dorcas Gallup Bennett</unittitle>
+                     <unitdate>1939 April 12-May</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref112" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">2</container>
+                     <unittitle>MKB to DGB</unittitle>
+                     <unitdate>1944 March 18-1945 January 12</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref113" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">3</container>
+                     <unittitle>MKB to DGB (carbon of typed transcript)</unittitle>
+                     <unitdate>1951 May 2-23</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref114" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">4</container>
+                     <unittitle>MKB to DGB (carbon of typed transcript)</unittitle>
+                     <unitdate>1951 April</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref115" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">5</container>
+                     <unittitle>MKB to DGB (carbon of typed transcript)</unittitle>
+                     <unitdate>1951 March 5-27</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref116" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">6</container>
+                     <unittitle>MKB to DGB</unittitle>
+                     <unitdate>1951 February 27-May 23</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref117" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">7</container>
+                     <unittitle>John Gallup to MKB/DGB</unittitle>
+                     <unitdate>1922 September 3-1926 December 23</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref118" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">8</container>
+                     <unittitle>John Gallup to MKB/DGB</unittitle>
+                     <unitdate>1927 January 3-1928 August 7</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref119" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">9</container>
+                     <unittitle>John Gallup to MKB/DGB</unittitle>
+                     <unitdate>1929 March 4-December 9</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref120" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">10</container>
+                     <unittitle>John Gallup to MKB/DGB</unittitle>
+                     <unitdate>1930 January 20-1941 December 16</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref121" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Miscellaneous correspondence from MKB</unittitle>
+                     <unitdate>1951</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref122" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Postcards to MKB/DGB from Steve, John and Polly</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref123" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Miscellaneous</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref124" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">3</container>
+                     <unittitle>MKB/DGB to John Bennett</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref125" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">4</container>
+                     <unittitle>John Bennett to MKB/DGB</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref126" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">5</container>
+                     <unittitle>John Bennett to MKB/DGB</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref127" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">6</container>
+                     <unittitle>John Bennett to MKB/DGB</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref128" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Steve Bennett to MKB/DGB</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref129" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Linnea Peterson to MKB/DGB</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref130" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Mr. and Mrs. Steve Bennett to MKB/DGB</unittitle>
+                     <unitdate>1963-1964</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref131" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">10</container>
+                     <unittitle>Steve Bennett to MKB/DGB</unittitle>
+                     <unitdate>1965</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref132" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Mr. and Mrs. Steve Bennett to MKB/DGB</unittitle>
+                     <unitdate>1967-1968</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref133" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">12</container>
+                     <unittitle>Mr. and Mrs. Steve Bennett to MKB/DGB</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref134" level="file">
+               <did>
+                  <unittitle>Bennett family</unittitle>
+                  <unitdate>1922 and undated</unitdate>
+               </did>
+               <c03 id="ref135" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Postcards</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref136" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Family and home: photos and miscellaneous</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref137" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Three photos</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref138" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Photographic portraits of Merrill K. Bennett</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref139" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Western States postcard: blank</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref140" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Wedding announcement, 1922, Christmas cards, photos of MKB and family</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref141" level="file">
+               <did>
+                  <unittitle>Ledgers</unittitle>
+                  <unitdate>1932-1974</unitdate>
+               </did>
+               <c03 id="ref142" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Ledgers</unittitle>
+                     <unitdate>1932 October-1938 January</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref143" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Ledgers</unittitle>
+                     <unitdate>1938 January-1942 September</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref144" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Ledgers</unittitle>
+                     <unitdate>1942 September-1950 June</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref145" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Ledgers</unittitle>
+                     <unitdate>1951 August-1956 August</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref146" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Ledgers</unittitle>
+                     <unitdate>1956 January-1963 December</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref147" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Ledgers</unittitle>
+                     <unitdate>1964 January-1974 April</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref148" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Assets, budgets, bank notes, etc.</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref149" level="file">
+               <did>
+                  <unittitle>Miscellaneous and oversize materials</unittitle>
+                  <unitdate>1939-1954 and undated</unitdate>
+               </did>
+               <c03 id="ref150" level="file">
+                  <did>
+                     <container type="Box">14</container>
+                     <unittitle>Miscellaneous and oversize materials</unittitle>
+                     <unitdate>1939-1954 and undated</unitdate>
+                  </did>
+                  <scopecontent>
+                     <p>"2/3 Mankind Hungry too Pessimistic, Expert Says", Science service article, 1954 May 24; 2 boxes of slides: 257 total - family, 1953; domestic travel to california, Oregon, Colorado, and Texas (1951-52); Mexico; and African trip; Mementos from Japan; Postcard from Dorcas Bennett to son John, 1939 April 6; One large framed group Photograph (including Bennett) in the "House of Shining Waters", Japan; Two diplomas: M.A. Brown university, M.A. Harvard; Two testimonial scrolls: FRI retirement and recognition of service in the Governmental Food Agency; One unidentified photograph</p>
+                  </scopecontent>
+               </c03>
+            </c02>
+            <c02 id="ref152" level="file">
+               <did>
+                  <unittitle>Miscellaneous Memorabilia</unittitle>
+                  <unitdate>1908-1970 and undated</unitdate>
+               </did>
+               <c03 id="ref153" level="file">
+                  <did>
+                     <container type="Box">15</container>
+                     <unittitle>Miscellaneous memorabilia</unittitle>
+                     <unitdate>1908-1964 and undated</unitdate>
+                  </did>
+                  <scopecontent>
+                     <p>Brown Commencement Week, 1920: booklet; Japan Tour, 1964: 2 photographs; Correspondence from Australia, 1964; Sachet of slides; MKB diary 1908; 3" reel of recording tape; Dorcas B. Gallup diaries 1916, 1917, 1918; Postcards from MKB to family, miscellaneous; Miscellaneous envelopes</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="ref155" level="file">
+                  <did>
+                     <container type="Box">16</container>
+                     <unittitle>Miscellaneous memorabilia</unittitle>
+                     <unitdate>1917-1970 and undated</unitdate>
+                  </did>
+                  <scopecontent>
+                     <p>Brown University Handbook, 1917-1918; Address book; Notebook; 2 world maps; "Aspects of the Pig"; Dedication of Food Research Institute, 1970 April 6: program and addresses; Miscellaneous letters to MKB and Clippings</p>
+                  </scopecontent>
+               </c03>
+            </c02>
+            <c02 id="ref157" level="file">
+               <did>
+                  <unittitle>Miscellaneous and Biographical Materials</unittitle>
+                  <unitdate>1913-1975 and undated</unitdate>
+               </did>
+               <c03 id="ref158" level="file">
+                  <did>
+                     <container type="Box">17</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Eulogy for Dorcas Gallup Bennett</unittitle>
+                     <unitdate>1975</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref159" level="file">
+                  <did>
+                     <container type="Box">17</container>
+                     <container type="Folder">2</container>
+                     <unittitle>MKB and chilldren to Dorcas Bennett</unittitle>
+                     <unitdate>1939</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref160" level="file">
+                  <did>
+                     <container type="Box">17</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Miscellaneous correspondence to MKB</unittitle>
+                     <unitdate>1941-1945</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref161" level="file">
+                  <did>
+                     <container type="Box">17</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Gallup family to MKB/DGB</unittitle>
+                     <unitdate>1927-1931</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref162" level="file">
+                  <did>
+                     <container type="Box">17</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Killingsley High School graduation program</unittitle>
+                     <unitdate>1913 June</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref163" level="file">
+                  <did>
+                     <container type="Box">17</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Stanford University diploma: Ph.D.</unittitle>
+                     <unitdate>1927</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref164" level="file">
+                  <did>
+                     <container type="Box">17</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Brown University diploma: L.H.D. (honorary) and commencement program</unittitle>
+                     <unitdate>1954, 1921</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref165" level="file">
+                  <did>
+                     <container type="Box">17</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Certificates: birth, marriage, honorable discharge, identification papers</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref166" level="file">
+                  <did>
+                     <container type="Box">17</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Publications</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref167" level="file">
+                  <did>
+                     <container type="Box">17</container>
+                     <container type="Folder">10</container>
+                     <unittitle>Miscellaneous</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref168" level="file">
+                  <did>
+                     <container type="Box">17</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Bibliography of MKB biography</unittitle>
+                     <unitdate>1961 February 6</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref169" level="file">
+                  <did>
+                     <container type="Box">17</container>
+                     <container type="Folder">12</container>
+                     <unittitle>Correspondence (re: Stanford University Oregon offer)</unittitle>
+                     <unitdate>1920 January 15-1926 August 14</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref170" level="file">
+                  <did>
+                     <container type="Box">17</container>
+                     <container type="Folder">13</container>
+                     <unittitle>Miscellaneous correspondence</unittitle>
+                     <unitdate>1956-1963</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref171" level="file">
+                  <did>
+                     <container type="Box">17</container>
+                     <container type="Folder">14</container>
+                     <unittitle>Brown University honorary degree, photos</unittitle>
+                     <unitdate>1954 June</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref172" level="file">
+                  <did>
+                     <container type="Box">17</container>
+                     <container type="Folder">15</container>
+                     <unittitle>Brown University commencement attendance</unittitle>
+                     <unitdate>1954</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref173" level="file">
+                  <did>
+                     <container type="Box">17</container>
+                     <container type="Folder">16</container>
+                     <unittitle>MKB correspondence to Mrs. Blyth</unittitle>
+                     <unitdate>circa 1919</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref174" level="file">
+                  <did>
+                     <container type="Box">17</container>
+                     <container type="Folder">17</container>
+                     <unittitle>Materials re: MKB's death</unittitle>
+                     <unitdate>1969</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref175" level="file">
+                  <did>
+                     <container type="Box">17</container>
+                     <container type="Folder">18</container>
+                     <unittitle>Miscellaneous from correspondence</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref176" level="file">
+                  <did>
+                     <container type="Box">17</container>
+                     <container type="Folder">19</container>
+                     <unittitle>Newsclippings</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref177" level="file">
+                  <did>
+                     <container type="Box">17</container>
+                     <container type="Folder">20</container>
+                     <unittitle>Saturday Morning Club, 17th anniversary</unittitle>
+                     <unitdate>1941</unitdate>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

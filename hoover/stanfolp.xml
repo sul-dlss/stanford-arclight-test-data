@@ -1,0 +1,860 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  
+  
+  
+  
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" repositoryencoding="iso15511" findaidstatus="unverified-full-draft" langencoding="iso639-2b"><eadid countrycode="us" identifier="ark:/13030/tf596nb0n4" mainagencycode="CSt-H" publicid="PUBLIC &quot;-//Stanford University::Hoover Institution Archives//TEXT&#10;(US::CSt-H::::Stanford Listening Post Records)//EN&quot; &quot;stanfolp.sgm&quot;">stanfolp.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Register of the Stanford Listening Post Records, <date calendar="gregorian" era="ce">1940-1945</date></titleproper><titleproper type="filing">Stanford Listening Post Records</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Hoover Institution Archives</publisher>
+        <address>
+          <addressline>Stanford University</addressline>
+          <addressline>Stanford, California 94305-6010</addressline>
+          <addressline>Phone: (650) 723-3563</addressline>
+          <addressline>Fax: (650) 725-3445</addressline>
+          <addressline>Email: hooverarchives@stanford.edu</addressline>
+        </address>
+        <date calendar="gregorian" era="ce">&#xA9; 1999</date>
+        <p>Hoover Institution Archives. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc><profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data Services,
+<date calendar="gregorian" era="ce">May, 1999.</date>
+Supplementary encoding and revision supplied by James Ryan.</creation>
+<langusage>Description is in <language langcode="eng" scriptcode="latn">English</language></langusage>
+    </profiledesc><revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//Stanford University::Hoover Institution Archives//TEXT
+(US::CSt-H::::Stanford Listening Post Records)//EN" "stanfolp.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+     <change>
+      <date calendar="gregorian" era="ce" normal="20120730">July 30, 2012</date>
+      <item>Revised to update encoding and add unitid by Jill Golden</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Register of the Stanford Listening Post Records, <date calendar="gregorian" era="ce">1940-1945</date></titleproper>
+      <publisher>Hoover Institution Archives
+<lb/>Stanford University
+<lb/>Stanford, California</publisher>
+      <list type="simple">
+        <head>Contact Information</head>
+        <item>Hoover Institution Archives</item>
+        <item>Stanford University</item>
+        <item>Stanford, California 94305-6010</item>
+        <item>Phone: (650) 723-3563</item>
+        <item>Fax: (650) 725-3445</item>
+        <item>Email: hooverarchives@stanford.edu</item>
+      </list>
+      <p>&#xA9; 1999 Hoover Institution Archives. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection">
+    <did id="did-1.7.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">Stanford Listening Post Records, </unittitle><unitdate calendar="gregorian" era="ce" type="inclusive" normal="1940/1945">1940-1945</unitdate>
+<unitid label="Collection number" repositorycode="CSt-H" countrycode="US">40001</unitid>
+      <origination label="Creator">
+        <corpname>Stanford Listening Post</corpname>
+      </origination>
+      <physdesc label="Collection Size" encodinganalog="300$a">
+		<extent>32 manuscript boxes, 1 envelope.</extent>
+		<extent>13.4 linear feet)</extent>
+	</physdesc>
+      <repository label="Repository">
+        <corpname>Hoover Institution Archives</corpname>
+        <address>
+          <addressline>Stanford, California 94305-6010</addressline>
+        </address>
+      </repository>
+      <abstract label="Abstract">Correspondence, transcripts of radio broadcasts, study papers, notes, and card indexes, relating to radio broadcasts from east and southeast Asia</abstract>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <descgrp id="descgrp-1.7.2" type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict>
+        <head>Access</head>
+        <p>Collection open for research.</p>
+<p>The Hoover Institution Archives only allows access to <emph render="italic">copies</emph> of audiovisual items. To listen to sound recordings or to view videos or films during your visit, please contact the Archives at least two working days before your arrival. We will then advise you of the accessibility of the material you wish to see or hear. Please note that not all audiovisual material is immediately accessible.</p>
+      </accessrestrict>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>For copyright status, please contact
+the Hoover Institution Archives.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Stanford Listening Post Records, [Box no.], Hoover Institution
+Archives.</p>
+      </prefercite>
+<acqinfo encodinganalog="541">
+ <head>Acquisition Information</head>
+ <p>Acquired by the Hoover Institution Archives in 1940.</p>
+</acqinfo>
+
+<accruals encodinganalog="525"><head>Accruals</head>
+<p>Materials may have been added to the collection since this finding aid was prepared. To determine if this has occurred, find the collection in Stanford University's online catalog at <extref linktype="simple" href="http://searchworks.stanford.edu/" actuate="onrequest" show="new"> http://searchworks.stanford.edu/</extref>. Materials have been added to the collection if the number of boxes listed in the online catalog is larger than the number of boxes listed in this finding aid.</p>
+</accruals>
+    </descgrp>
+    <controlaccess id="controlaccess-1.7.3">
+      <head>Access Points</head>
+      <corpname>United States. Office of War Information</corpname>
+      <subject>Propaganda</subject>
+      <subject>Radio broadcasting--East Asia</subject>
+      <subject>World War, 1939-1945</subject>
+      <subject>World War, 1939-1945--Propaganda</subject>
+      <geogname>East Asia</geogname>
+      <geogname>United States</geogname>
+    </controlaccess>
+    <bioghist id="bioghist-1.7.4">
+      <head>Historical Note</head>
+      <p>The Stanford Listening Post was established in the Archives Division of the Hoover Institution on War, Revolution, and Peace in 1940 for the purpose of recording and studying radio broadcasts from the Far East. The Rockefeller Foundation granted $8,250 to cover the costs of equipment, supplies, and salaries for receiving, recording, and transcribing trans-Pacific broadcasts. Recording began in mid-September 1940 and continued to the end of May 1941 when the Federal Communications Commission (FCC) established listening posts throughout the country for round-the-clock monitoring of foreign broadcasts. The Stanford post recorded foreign broadcasts for the FCC from 1941 to 1943 and transmitted American broadcasts of the United States Office of War Information (OWI) to the Far East from 1942 to 1945.</p>
+      <p>The Stanford Listening Post used two short-wave receivers, an RME 69 and a highly selective HRO. During the last few weeks of the experiment, a Hallicrafter commercial type receiver was used in place of the RME. Two rhombic antennas provided directional reception from east-west and north-south. Two standard office Ediphones recorded the broadcasts. Only transmissions in English were recorded in the beginning, although test recordings of other languages were made. News and news commentator programs in English from three stations were recorded regularly--Tokyo, Japan; Chungking, China; and Saigon, French Indo-China. Occasional recordings were made from Hsinking, Manchukuo; Shanghai, China; and Sydney, Australia.</p>
+      <p>After broadcasts were recorded on Ediphone wax cylinders, a single typed copy was made of the transcript with text double spaced. There were several checks for accuracy. After the final checking, transcripts were duplicated and sent to a selected list of persons and libraries interested in Pacific affairs.</p>
+      <p>The staff of the Stanford Listening Post included Inez G. Richardson, who was director, Richard Beckett, Pauline Hamm, Maria Hoge, Rosemary Johansson, Kay Kitagawa, Margaret Lintner, Helene von Damm, and Ann Van Wagenen.</p>
+      <p>(Source: <emph render="italic">Annual Report of the Chairman, 1940-41. </emph>Hoover Library on War, Revolution, and Peace).</p>
+    </bioghist>
+    <dsc id="dsc-1.7.5" type="analyticover">
+      <head>Series Description</head>
+      <c01 id="c01-1.7.5.2" level="series">
+        <did>
+          <unittitle>Card Indexes.</unittitle>
+          <container type="Box">Box No. 1.-2.</container>
+        </did>
+        <scopecontent>
+          <p>Three card files consisting of a list of subscribers to the Stanford Listening Post transcripts, a reference file to general information used by Stanford Listening Post staff, and a subject index to the Stanford Listening Post transcripts (citations are to the Tokyo-to-America broadcasts unless otherwise stated). Each file is arranged alphabetically by subject.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.5.3" level="series">
+        <did>
+          <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce">1941, 1959.</unitdate></unittitle>
+          <container type="Box">Box No. 3.</container>
+        </did>
+        <scopecontent>
+          <p>Correspondence relating to subscription of the Stanford Listening Post transcripts, arranged chronologically.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.5.4" level="series">
+        <did>
+          <unittitle>Transcripts of Broadcasts Received, <unitdate calendar="gregorian" era="ce">1940-1943.</unitdate></unittitle>
+          <container type="Box">Box No. 3.-14.</container>
+        </did>
+        <scopecontent>
+          <p>Transcripts of foreign broadcasts received by the Stanford Listening Post, September 1940 to May 1941, and transcripts of foreign broadcasts received by Stanford on behalf of the U.S. Office of War Information (OWI) and the Federal Communications Commission (FCC), June 1941 to June 1943. Folders include draft translations as well as final transcripts. Arrangement is alphabetical by transmitting city and there-under chronological. The transcripts of the Tokyo broadcasts are divided into three groups--broadcasts intended for the Americas, broadcasts intended for Asia, and broadcasts received by Stanford on behalf of OWI and FCC.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.5.5" level="series">
+        <did>
+          <unittitle>Transcrips of OWI Broadcasts Transmitted, <unitdate calendar="gregorian" era="ce">1942-1945.</unitdate></unittitle>
+          <container type="Box">Box No. 15.-21.</container>
+        </did>
+        <scopecontent>
+          <p>Transcripts of broadcasts originating with the Office of War Information (OWI) and transmitted from Stanford by short-wave radio to the Far East. Arranged alphabetically by names of the OWI news services and there-under chronologically. The OWI news services included the <emph render="italic">Chinese News </emph>(sometimes called the <emph render="italic">Chinese Dialect News </emph>or <emph render="italic">Dialect News), </emph><emph render="italic">Japan-Formosa News, </emph>and <emph render="italic">Thai News.</emph></p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.5.6" level="series">
+        <did>
+          <unittitle>Project to Analyse Foreign Broadcasts Received by the Stanford Listening Post, <unitdate calendar="gregorian" era="ce">1940-1942.</unitdate></unittitle>
+          <container type="Box">Box No. 22.-29.</container>
+        </did>
+        <scopecontent>
+          <p>Correspondence, drafts of study papers, outlines and plans, notes, and broadcast transcripts of a project to study and compare the propaganda methods of China and Japan as revealed in their radio broadcasts. The final report was not completed, but the records contain drafts of some chapters, notes and copies of Stanford Listening Post broadcast transcripts arranged by subject.</p>
+        </scopecontent>
+      </c01>
+    </dsc>
+    <dsc id="dsc-1.7.6" type="in-depth">
+      <head>Container List</head>
+      <c01 id="c01-1.7.6.2" level="series">
+        <did>
+          <unittitle>Card Indexes</unittitle>
+        </did>
+        <c02 id="c02-1.7.6.2.2">
+          <did>
+            <container type="Box">1.</container>
+            <unittitle>List of subscribers to transcripts</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.3">
+          <did>
+            <unittitle>Subject index to transcripts (citations are to Tokyo-to-America broadcasts unless otherwise stated)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.4">
+          <did>
+            <container type="Box">2.</container>
+            <unittitle>Reference file to information on important persons in the news, foreign words and idioms, and foreign newspapers</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.6.3" level="series">
+        <did>
+          <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce">1941, 1959.</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.6.3.2">
+          <did>
+            <container type="Box">3.</container>
+            <unittitle>Correspondence relating to subscriptions to Stanford Listening Post transcripts</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.6.4" level="series">
+        <did>
+          <unittitle>Transcripts of Broadcasts Received, <unitdate calendar="gregorian" era="ce">1940-1943</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.6.4.2">
+          <did>
+            <container type="Box">3.</container>
+            <unittitle>Chungking, <unitdate calendar="gregorian" era="ce">September 15, 1940-February 28, 1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.3">
+          <did>
+            <container type="Box">4.</container>
+            <unittitle>Chungking, <unitdate calendar="gregorian" era="ce">March 1, 1941-May 15, 1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.4">
+          <did>
+            <container type="Box">5.</container>
+            <unittitle>Chungking, <unitdate calendar="gregorian" era="ce">May 16, 1941-May 31, 1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.5">
+          <did>
+            <unittitle>Chungking, <unitdate calendar="gregorian" era="ce">March 1941-April 1941 </unitdate>(second copy)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.6">
+          <did>
+            <unittitle>Chungking, <unitdate calendar="gregorian" era="ce">July 1941-August 1941 </unitdate>(OWI-FCC)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.7">
+          <did>
+            <unittitle>Hsinking (Manchukuo), <unitdate calendar="gregorian" era="ce">August 1941 </unitdate>(OWI-FCC)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.8">
+          <did>
+            <unittitle>Saigon, <unitdate calendar="gregorian" era="ce">September 15, 1940-October 15, 1940</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.9">
+          <did>
+            <container type="Box">6.</container>
+            <unittitle>Saigon, <unitdate calendar="gregorian" era="ce">October 16, 1940-February 28, 1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.10">
+          <did>
+            <container type="Box">7.</container>
+            <unittitle>Saigon, <unitdate calendar="gregorian" era="ce">March 1, 1941-May 15, 1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.11">
+          <did>
+            <container type="Box">8.</container>
+            <unittitle>Saigon, <unitdate calendar="gregorian" era="ce">May 16, 1941-May 30, 1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.12">
+          <did>
+            <unittitle>Saigon, <unitdate calendar="gregorian" era="ce">August 1941 </unitdate>(OWI-FCC)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.13">
+          <did>
+            <unittitle>Sydney, <unitdate calendar="gregorian" era="ce">February 1, 1941-May 31, 1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.14">
+          <did>
+            <unittitle>Tokyo-America, <unitdate calendar="gregorian" era="ce">September 15, 1940-September 30, 1940</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.15">
+          <did>
+            <container type="Box">9.</container>
+            <unittitle>Tokyo-America, <unitdate calendar="gregorian" era="ce">October 1, 1940-December 31, 1940</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.16">
+          <did>
+            <container type="Box">10.</container>
+            <unittitle>Tokyo-America, <unitdate calendar="gregorian" era="ce">January 1, 1941-March 31, 1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.17">
+          <did>
+            <container type="Box">11.</container>
+            <unittitle>Tokyo-America, <unitdate calendar="gregorian" era="ce">April 1, 1941-May 30, 1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.18">
+          <did>
+            <unittitle>Tokyo-Asia, <unitdate calendar="gregorian" era="ce">September 15, 1940-November 30, 1940</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.19">
+          <did>
+            <container type="Box">12.</container>
+            <unittitle>Tokyo-Asia, <unitdate calendar="gregorian" era="ce">December 1, 1940-May 31, 1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.20">
+          <did>
+            <unittitle>Tokyo, <unitdate calendar="gregorian" era="ce">June 1941-September 1941 </unitdate>(OWI-FCC)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.21">
+          <did>
+            <container type="Box">13.</container>
+            <unittitle>Tokyo, <unitdate calendar="gregorian" era="ce">August 1941-September 1941 </unitdate>(OWI-FCC)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.22">
+          <did>
+            <unittitle>Thailand, <unitdate calendar="gregorian" era="ce">September 1942-February 1943 </unitdate>(OWI-FCC)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.23">
+          <did>
+            <container type="Box">14.</container>
+            <unittitle>Thailand, <unitdate calendar="gregorian" era="ce">March 1943-June 1943 </unitdate>(OWI-FCC)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.24">
+          <did>
+            <unittitle>Miscellaneous transcripts (Stanford Listening Post)</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.6.5" level="series">
+        <did>
+          <unittitle>Transcripts of OWI Broadcasts Transmitted, <unitdate calendar="gregorian" era="ce">1942-1945</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.6.5.2">
+          <did>
+            <container type="Box">15.</container>
+            <unittitle>
+              <emph render="italic">Chinese News,</emph>
+              <unitdate calendar="gregorian" era="ce">August 1942-March 1943</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.5.3">
+
+          <did>
+            <container type="Box">16.</container>
+            <unittitle>
+              <emph render="italic">Chinese News,</emph>
+              <unitdate calendar="gregorian" era="ce">April 1943-September 1943</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.5.4">
+          <did>
+            <container type="Box">17.</container>
+            <unittitle>
+              <emph render="italic">Chinese News,</emph>
+              <unitdate calendar="gregorian" era="ce">October 1943-March 1944</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.5.5">
+          <did>
+            <container type="Box">18.</container>
+            <unittitle>
+              <emph render="italic">Chinese News,</emph>
+              <unitdate calendar="gregorian" era="ce">April 1944-September 1944</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.5.6">
+          <did>
+            <container type="Box">19.</container>
+            <unittitle>
+              <emph render="italic">Chinese News,</emph>
+              <unitdate calendar="gregorian" era="ce">October 1944-November 1944 and January 1945-April 1945</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.5.7">
+          <did>
+            <container type="Box">20.</container>
+            <unittitle><emph render="italic">Chinese News,</emph><unitdate calendar="gregorian" era="ce">May 1945-August 1945 </unitdate>and miscellaneous broadcasts</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.5.8">
+          <did>
+            <unittitle>
+              <emph render="italic">Japan-Formosa News,</emph>
+              <unitdate calendar="gregorian" era="ce">May 1945-August 1945</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.5.9">
+          <did>
+            <container type="Box">21.</container>
+            <unittitle>
+              <emph render="italic">Thai News,</emph>
+              <unitdate calendar="gregorian" era="ce">May 1942-June 1943</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.6.6" level="series">
+        <did>
+          <unittitle>Project to Analyse Foreign Broadcasts Received by Stanford Listening Post, <unitdate calendar="gregorian" era="ce">1940-1942</unitdate></unittitle>
+        </did>
+        <c02 id="c02-1.7.6.6.2">
+          <did>
+            <container type="Box">22.</container>
+            <unittitle>Project correspondence, <unitdate calendar="gregorian" era="ce">1942</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.6.3">
+          <did>
+            <unittitle>Outlines and plans</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.6.4">
+          <did>
+            <unittitle>Chapter outlines</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.6.5">
+          <did>
+            <unittitle>Project report--outlines, introduction to Chungking chapter, resume of propaganda content</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.6.6">
+          <did>
+            <unittitle>Project report, drafts</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.6.6.2">
+            <did>
+              <unittitle>Comparison of Chungking and Tokyo broadcasts</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.6.6.3">
+            <did>
+              <unittitle>Comparisons of press</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.6.6.4">
+            <did>
+              <unittitle>Chungking broadcasts</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.6.6.5">
+            <did>
+              <unittitle>Quantitative tables comparing broadcast references to subjects</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.6.6.6">
+            <did>
+              <unittitle>Tabulated analysis of references to leaders</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.6.7">
+          <did>
+            <unittitle>Subject arrangement of transcripts, <unitdate calendar="gregorian" era="ce">1940-1942</unitdate></unittitle>
+          </did>
+          <c03 id="c03-1.7.6.6.7.2">
+            <did>
+              <unittitle>Burma Road</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.6.7.3">
+            <did>
+              <unittitle>China</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.6.7.3.2">
+              <did>
+                <unittitle>Agriculture</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.3.3">
+              <did>
+                <unittitle>Communism</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.3.4">
+              <did>
+                <unittitle>Education</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.3.5">
+              <did>
+                <unittitle>French Indo-China relations</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.3.6">
+              <did>
+                <unittitle>General</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.3.7">
+              <did>
+                <unittitle>Government control of economics</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.3.8">
+              <did>
+                <unittitle>Government development of economics</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.3.9">
+              <did>
+                <container type="Box">23.</container>
+                <unittitle>Health</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.3.10">
+              <did>
+                <unittitle>Industrial cooperatives</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.3.11">
+              <did>
+                <unittitle>Military failures</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.3.12">
+              <did>
+                <unittitle>Monetary policy</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.3.13">
+              <did>
+                <unittitle>Morale</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.3.14">
+              <did>
+                <unittitle>Occupation of</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.3.15">
+              <did>
+                <unittitle>Overseas Chinese</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.3.16">
+              <did>
+                <unittitle>Pleas for American aid</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.3.17">
+              <did>
+                <unittitle>Political developments</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.3.18">
+              <did>
+                <unittitle>Radio communications</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.3.19">
+              <did>
+                <unittitle>Relief program</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.3.20">
+              <did>
+                <unittitle>Shanghai, international settlement</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.3.21">
+              <did>
+                <unittitle>Transportation and communications</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.3.22">
+              <did>
+                <unittitle>War (Chungking broadcasts only)</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.6.7.4">
+            <did>
+              <container type="Box">24.</container>
+              <unittitle>European War</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.6.7.5">
+            <did>
+              <container type="Box">25.</container>
+              <unittitle>France</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.6.7.5.2">
+              <did>
+                <unittitle>Collaboration with Axis</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.5.3">
+              <did>
+                <unittitle>International policy</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.5.4">
+              <did>
+                <unittitle>Marshal Petain</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.6.7.6">
+            <did>
+              <unittitle>French Indo-China and Thailand</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.6.7.6.2">
+              <did>
+                <unittitle>Radio Saigon</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.6.3">
+              <did>
+                <unittitle>Saigon</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.6.7.7">
+            <did>
+              <unittitle>Germany</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.6.7.8">
+            <did>
+              <container type="Box">26.</container>
+              <unittitle>Great Britain</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.6.7.8.2">
+              <did>
+                <unittitle>Pro-British broadcasts</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.8.3">
+              <did>
+                <unittitle>Anti-British broadcasts</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.8.4">
+              <did>
+                <unittitle>Anglo-Soviet relations</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.6.7.9">
+            <did>
+              <unittitle>Japan</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.6.7.9.2">
+              <did>
+                <unittitle>Balkan relations</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.9.3">
+              <did>
+                <unittitle>Chungking bombings</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.9.4">
+              <did>
+                <unittitle>Culture, education, and research</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.9.5">
+              <did>
+                <unittitle>Dutch East India relations</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.9.6">
+              <did>
+                <unittitle>Economy</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.9.7">
+              <did>
+                <unittitle>Economic expansion</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.9.8">
+              <did>
+                <unittitle>Expansion</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.9.9">
+              <did>
+                <unittitle>Foreign travellers</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.9.10">
+              <did>
+                <unittitle>German relations</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.9.11">
+              <did>
+                <unittitle>Imperial way</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.9.12">
+              <did>
+                <container type="Box">27.</container>
+                <unittitle>Indo-China penetration</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.9.13">
+              <did>
+                <unittitle>Italian relations</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.9.14">
+              <did>
+                <unittitle>Morale</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.9.15">
+              <did>
+                <unittitle>Occupation of China</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.9.16">
+              <did>
+                <unittitle>Peace offensive</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.9.17">
+              <did>
+                <unittitle>Political reorganization</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.9.18">
+              <did>
+                <unittitle>South American relations</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.9.19">
+              <did>
+                <unittitle>Special references</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.9.20">
+              <did>
+                <unittitle>Triparte Pact</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.9.21">
+              <did>
+                <unittitle>U.S. relations</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.9.22">
+              <did>
+                <unittitle>War (Tokyo broadcasts only)</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.6.7.10">
+            <did>
+              <unittitle>Russia</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.6.7.10.2">
+              <did>
+                <unittitle>Chinese relations</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.10.3">
+              <did>
+                <unittitle>Japanese relations</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.6.7.11">
+            <did>
+              <container type="Box">28.</container>
+              <unittitle>United States</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.6.7.11.2">
+              <did>
+                <unittitle>American evacuation</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.11.3">
+              <did>
+                <unittitle>Anti-American propaganda</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.11.4">
+              <did>
+                <unittitle>Pro-American propaganda</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.11.5">
+              <did>
+                <unittitle>Placating American public opinion</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.6.7.12">
+            <did>
+              <unittitle>War stories</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.6.7.13">
+            <did>
+              <unittitle>Unindexed transcripts</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.6.7.14">
+            <did>
+              <container type="Box">29.</container>
+              <unittitle>Unindexed transcripts</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.6.8">
+          <did>
+            <unittitle>Miscellaneous project notes</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.6.8.2">
+            <did>
+              <container type="Box">30-32.</container>
+              <unittitle>Australia</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.6.8.3">
+            <did>
+              <unittitle>China</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.6.8.4">
+            <did>
+              <unittitle>Indo-China</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.6.8.5">
+            <did>
+              <unittitle>Tokyo-America</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.6.8.6">
+            <did>
+              <unittitle>Tokyo-Asia</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

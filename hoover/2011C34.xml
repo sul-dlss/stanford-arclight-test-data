@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+<eadheader id="a0" langencoding="iso639-2b" countryencoding="iso3166-1" repositoryencoding="iso15511" dateencoding="iso8601" scriptencoding="iso15924">
+<eadid countrycode="us" mainagencycode="CSt-H" publicid="PUBLIC &quot;-//Stanford University::Hoover Institution Archives//TEXT(US::CSt-H::2011C34::Ainars Ikstens collection//EN&quot; &quot;2011C34.xml&quot;">2011C34.xml</eadid>
+<filedesc>
+	<titlestmt>
+	<titleproper>Register of the Ainars Ikstens collection </titleproper>
+	<titleproper type="filing">Ikstens (Ainars) collection</titleproper>
+<author>Processed by David Jacobs</author>
+</titlestmt>
+	<publicationstmt>
+	<publisher id="Cst-H">Hoover Institution Archives</publisher> 
+	<address> 
+<addressline>Stanford University</addressline> 
+	<addressline>Stanford, California 94305-6010</addressline>
+ 	<addressline>Phone: (650) 723-3563</addressline>
+ 	<addressline>Fax: (650) 725-3445</addressline>
+ 	<addressline>Email: hooverarchives@stanford.edu</addressline>
+ 	</address>
+<date type="Publication" normal="2008">&#x00A9; 2011</date>
+<p>Hoover Institution Archives. All rights reserved.</p>
+</publicationstmt>
+</filedesc> 
+<profiledesc>
+<creation>Machine-readable finding aid derived from MARC record by Jill Golden. <date normal="2011">Date of source: 2011</date></creation>
+<langusage>Finding aid is written in <language langcode="eng" scriptcode="latn">English</language></langusage>
+</profiledesc>
+<revisiondesc>
+ <change><date normal="20150319">March 19, 2015</date><item>Added incremental materials</item></change>
+<change><date normal="20110805">August 5, 2011</date><item>Revised after processing to add front matter and container list</item></change>
+<change><date normal="20110503">May 3, 2011</date><item>Added information from acquisition announcement to biographical note and scope and content note.</item></change>
+</revisiondesc>
+</eadheader>
+<frontmatter>
+<titlepage>
+<titleproper>Register of the Ainars Ikstens collection</titleproper>
+<publisher>Hoover Institution Archives<lb/>Stanford University<lb/>Stanford, California</publisher>
+<list type="deflist">
+<defitem>
+<label>Processed by: </label>
+<item>David Jacobs</item>
+</defitem>
+<defitem>
+<label>Date Completed: </label>
+<item>2011</item>
+</defitem>
+<defitem>
+<label>Encoded by: </label>
+<item>Machine-readable finding aid derived from MARC record by Jill Golden and Elizabeth Phillips.</item>
+</defitem>
+</list>
+<p>&#x00A9; 2011 Hoover Institution Archives. All rights reserved.</p>
+</titlepage>
+</frontmatter>
+<archdesc level="collection" id="a19" type="inventory">
+<did id="P2">
+<head>Collection Summary</head>
+	<unittitle label="Title" encodinganalog="245$a">Ainars Ikstens collection </unittitle><unitdate label="Dates"  type="inclusive" normal="1893/2007" encodinganalog="245$f">1893-2007</unitdate>
+	<unitid label="Collection Number" countrycode="us" repositorycode="CSt-H" encodinganalog="099">2011C34</unitid>
+<origination label="Collector"><persname source="lcnaf" rules="aacr2">Ikstens, Ainars</persname></origination>
+<physdesc label="Collection Size" encodinganalog="300$a">
+	<extent>5 manuscript boxes </extent>
+	<extent>(2 linear feet)</extent>
+</physdesc>
+<repository label="Repository">
+	<corpname>Hoover Institution Archives </corpname> <address> <addressline>Stanford, California 94305-6010</addressline> </address></repository>
+<abstract label="Abstract" encodinganalog="520$a">The collection is comprised of printed matter relating primarily to the history of Latvia in the 20th century, with a few titles dating from the 1890s.  Consisting largely of monographs, pamphlets, and serial issues, the collection contains a considerable number of publications issued by the Latvian Communist Party (Latvijas Komunistisk&#259;s Partija or LKP), its youth wing (Latvijas Soci&#259;ldemokr&#259;tisk&#259; Str&#259;dnieku Partija), and other associated organizations.   There are also a few serial issues in the collection relating to the Latvian Social Democratic Workers Party (Latvijas Soci&#259;ldemokr&#259;tisk&#259; Str&#259;dnieku Partija).  In addition, there are monographs and pamphlets published when Latvia was part of the Soviet Union, as well as a number of publications emanating from the Latvian diaspora.</abstract>
+<physloc label="Physical Location">Hoover Institution Archives</physloc>
+<langmaterial label="Languages" encodinganalog="546$a">
+	<language langcode="lav">Mainly in Latvian. </language>
+</langmaterial>
+</did>
+<descgrp type="admininfo">
+<head>Administrative Information</head>
+<accessrestrict encodinganalog="506">
+<head>Access</head>
+<p> The Hoover Institution Archives only allows access to <emph render="italic">copies</emph> of audiovisual items. To listen to sound recordings or to view videos or films during your visit, please contact the Archives at least two working days before your arrival. We will then advise you of the accessibility of the material you wish to see or hear. Please note that not all audiovisual material is immediately accessible.</p></accessrestrict>
+<userestrict encodinganalog="540">
+<head>Publication Rights</head>
+<p>For copyright status, please contact the Hoover Institution Archives. </p>
+</userestrict>
+<prefercite encodinganalog="524">
+<head>Preferred Citation</head>
+<p>[Identification of item], Ainars Ikstens collection, [Box number], Hoover Institution Archives.</p>
+</prefercite>
+<acqinfo encodinganalog="541">
+ <head>Acquisition Information</head>
+ <p>Acquired by the Hoover Institution Archives in 2011.</p>
+</acqinfo>
+<accruals encodinganalog="525"><head>Accruals</head>
+<p>Materials may have been added to the collection since this finding aid was prepared. To determine if this has occurred, find the collection in Stanford University's online catalog Socrates at <extref linktype="simple" href="http://library.stanford.edu/webcat" actuate="onrequest" show="new"> http://library.stanford.edu/webcat</extref>. Materials have been added to the collection if the number of boxes listed in Socrates is larger than the number of boxes listed in this finding aid.</p>
+</accruals>
+</descgrp>
+<bioghist id="a2" encodinganalog="545">
+<head>Biographical Note</head> 
+<p>Riga art historian and bibliophile.</p>
+</bioghist>
+<scopecontent id="a3" encodinganalog="520">
+<head>Scope and Content of Collection</head>
+<p>The Ainar Ikstens collection is comprised of printed matter relating primarily to the history of Latvia in the 20th century, with a few titles dating from the 1890s.  Consisting largely of monographs, pamphlets, and serial issues, the collection contains a considerable number of publications issued by the Latvian Communist Party (Latvijas Komunistisk&#259;s Partija or LKP), its youth wing (Latvijas Komunistisk&#259; Jaunatnes Savien&#299;ba), and other associated organizations.   There are also a few serial issues in the collection relating to the Latvian Social Democratic Workers Party (Latvijas Soci&#259;ldemokr&#259;tisk&#259; Str&#259;dnieku Partija).  In addition, there are monographs and pamphlets published when Latvia was part of the Soviet Union, as well as a number of publications emanating from the Latvian diaspora.</p>
+<p>The collection has items from the tumultuous period surrounding Latvia's struggle for independence in the years 1917-1920, including a serial issue that published the decrees of the short-lived Soviet republic led by the Latvian communist P&#275;teris Stu&#269;ka.  The later Latvian Communist Party publications in the collection range from theoretical journals to bulletins distributed by regional sections of the party, as well as a circular issued by a factory committee in the Latvian capital, R&#299;ga.  Among the other rare and fugitive materials in the collection are a number of leaflets distributed by the LKP during the 1930s, when the party led a clandestine existence under the government of Ka&#257;rlis Ulmanis.</p>
+<p>The underground leftist publications, pamphlets, leaflets, calendars, manuals, and ephemeral periodicals in this collection, which total more than one hundred items, cover the following main periods and topics, most of which are very poorly represented in academic libraries: publications of the 1917-19 turmoil in Latvia, underground leftist publications produced in Latvia or in the Soviet Union by the Communist International and directed against the Latvian government, brochures and periodicals from the first years of Soviet occupation, and selected Latvian &#x00E9;migr&#x00E9; imprints. </p>
+<p>The materials were obtained from Ainars Ikstens, a Latvian art historian and book collector.   They are arranged according to physical form, and therein listed alphabetically by either author (monographs and pamphlets) or title (serial issues).  When it is known, the Latvian name of the organization publishing a serial issue is also listed.</p>
+</scopecontent>
+<controlaccess>
+<head>Indexing Terms</head> 
+<p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p> 
+<geogname encodinganalog="651" source="lcsh">Latvia--Politics and government.</geogname>
+<geogname encodinganalog="651" source="lcsh">Latvia--History.</geogname>
+<subject encodinganalog="650" source="lcsh">Socialism--Latvia.</subject>
+<subject encodinganalog="650" source="lcsh">Communism--Latvia.</subject>
+</controlaccess>
+<dsc type="combined" id="dsc-1">
+<head>Collection Contents</head>
+ <c01  level="series">
+<did>
+ <container type="Folder" label="Box/Folder: ">1 : 1</container>
+  <unittitle>Exhibit catalog, The History of Latvia in Cartoons: Celebrating 90 Years of the Republic of Latvia, </unittitle>
+  <unitdate>2007</unitdate>
+</did>
+</c01>
+ <c01 level="series">
+<did>
+ <container type="Folder" label="Box/Folder: ">1 : 2</container>
+  <unittitle>Leaflets issued by the Latvian Communist Party and its youth organizations, </unittitle>
+  <unitdate>1936-1939</unitdate>
+</did>
+</c01>
+ <c01 level="series">
+<did>
+ <container type="box" label="Box: ">1</container>
+  <unittitle>Monographs, </unittitle>
+  <unitdate>1921-1991</unitdate>
+</did>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">1 : 3</container>
+  <unittitle><title render="italic">Instruktsiia po emissionnno-kassovoi rabote, inkassatsii denezhnoi vyruchki i perevozke tsennostei v uchrezhdeniiakh Gosudarstvennogo Banka SSSR, </title></unittitle>
+  <unitdate>1971</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">1 : 3</container>
+  <unittitle><title render="italic">Latvijas PSR administrat&#299;vi teritori&#257;lais iedal&#299;jums 1961. gads, </title></unittitle>
+  <unitdate>1961</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">1 : 4</container>
+  <unittitle><title render="italic">Latvijas Skautu centr&#257;l&#257;s organiz&#257;cijas.  Iek&#257;rtas un darb&#299;bas noteikumi, </title></unittitle>
+  <unitdate>1936</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">1 : 4</container>
+  <unittitle><title render="italic">Lielais T&#275;vijas kar&#353; un Padomju Latvijas inteli&#292;ences uzdevumi : Latvijas PSR Inteli&#292;ences pirmais kongress 1945. g. 20.-22. III, </title></unittitle>
+  <unitdate>1945</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">1 : 5</container>
+  <unittitle><title render="italic">M&#363;su pien&#257;kums : Ko Latvija ra&#382;o, ko Latvija prasa, </title></unittitle>
+  <unitdate>1931</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">1 : 5</container>
+  <unittitle><title render="italic">R&#299;gas pils&#275;tas II. &#292;imn&#257;zija 1926-1933, </title></unittitle>
+  <unitdate>1933</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">1 : 6</container>
+  <unittitle><title render="italic">Sievie&#353;u uzdevumi v&#257;cu okup&#257;cijas seku likvid&#275;&#353;an&#257; Latvij&#257; : Latvijas PSR Inteli&#292;ences pirmais kongress 1945. g. 20.-22.III, </title></unittitle>
+  <unitdate>1945</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">1 : 6</container>
+  <unittitle><title render="italic">Beierbahs, K., Aizputes kar&#353; : Revol&#363;cijas masust&#257;sts 1905. g., </title></unittitle>
+  <unitdate>1933</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">1 : 7</container>
+  <unittitle><title render="italic">D&#257;le, P., V&#275;sturisks p&#257;rskats par Latvijas Augstskolas nodibin&#257;&#353;anu un vi&#326;as darb&#299;bu pirm&#257; (1919./20.) m&#257;c&#299;bas gad&#257;, </title></unittitle>
+  <unitdate>1921</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">1 : 7</container>
+  <unittitle><title render="italic">Dubins, Herberts, Kreat&#299;vas ce&#316;&#353;, </title></unittitle>
+  <unitdate>1991</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">1 : 8</container>
+  <unittitle><title render="italic">Eiduss, Z&#257;lamans, Valmieras varo&#326;i, </title></unittitle>
+  <unitdate>1948</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">1 : 8</container>
+  <unittitle><title render="italic">Kl&#275;tnieks, V., Latvie&#353;u skautisma tr&#299;sdesmit gadi 1917-1947, </title></unittitle>
+  <unitdate>1947</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">1 : 9</container>
+  <unittitle><title render="italic">Maldups, A., Valsts adresu kalend&#257;rs 1940. gadam, </title></unittitle>
+  <unitdate>1940</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">2 : 1</container>
+  <unittitle><title render="italic">Menders, F., Ievads pol&#299;tiskaj&#257; ekonomij&#257;, </title></unittitle>
+  <unitdate>1930</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">2 : 1</container>
+  <unittitle><title render="italic">Simoni, L., Mirovoe evreistvo, evreiskaia natsiia ili Ostatok Izrailia, </title></unittitle>
+  <unitdate>1937</unitdate>
+</did>
+</c02>
+</c01>
+ <c01 level="series">
+<did>
+ <container type="box" label="Box: ">2</container>
+  <unittitle>Pamphlets, 1893-1993</unittitle>
+  </did>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">2 : 2</container>
+  <unittitle><title render="italic">XXIV. Konferentsia Kommunisticheckoi partii Latvii. Avgust 1927 g.  Tezicy i resoliutsii, </title></unittitle>
+  <unitdate>1927</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">2 : 2</container>
+  <unittitle><title render="italic">1940. gada &#257;rstniec&#299;bas person&#257;la un iest&#257;&#382;u saraksts, </title></unittitle>
+  <unitdate>1940</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">2 : 2</container>
+  <unittitle><title render="italic">Aps&#363;dz&#299;bas raksts par v&#257;cu fa&#353;istisko iebruc&#275;ju &#316;aundar&#299;b&#257;m Latvijas, Lietuvas un Igaunijas PSR teritorij&#257;, </title></unittitle>
+  <unitdate>1946</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">2 : 2</container>
+  <unittitle><title render="italic">Daugavas kalend&#257;rs 1917, </title></unittitle>
+  <unitdate>1916</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">2 : 3</container>
+  <unittitle><title render="italic">Istoriia Latvii-kratko i populiarno, </title></unittitle>
+  <unitdate>1992</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">2 : 3</container>
+  <unittitle><title render="italic">K&#257; imperi&#257;listi organiz&#275; intervenziju pret SPRS un jaunu pasaules karu, </title></unittitle>
+  <unitdate>1930</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">2 : 3</container>
+  <unittitle><title render="italic">&#310;eizarisk&#257;s Krievijas D&#257;rzkop&#299;bas biedr&#299;bas gada gr&#257;mata 1902, </title></unittitle>
+  <unitdate>1902</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">2 : 4</container>
+  <unittitle><title render="italic">&#310;emeru s&#275;ravotu iest&#257;de, </title></unittitle>
+  <unitdate>1940</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">2 : 4</container>
+  <unittitle><title render="italic">Ko Andrievs Niedra sludina?, </title></unittitle>
+  <unitdate>1904</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">2 : 4</container>
+  <unittitle><title render="italic">Kult&#363;ras Fonda III. Latvijas m&#257;kslas izst&#257;des, </title></unittitle>
+  <unitdate>1936</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">2 : 4</container>
+  <unittitle><title render="italic">Latvia, </title></unittitle>
+  <unitdate>1962</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">2 : 4</container>
+  <unittitle><title render="italic">Latvie&#353;u skolot&#257;ju deleg&#257;tu kongresa darb&#299;ba un l&#275;mumi. T&#275;rbat&#257;, no 8-13 junijam 1917. g., </title></unittitle>
+  <unitdate>1917</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">2 : 5</container>
+  <unittitle><title render="italic">Latvijas Republikas Aizsardz&#299;bas ministrijas Darba p&#257;rskats (1991. gada novembris - 1993. gada j&#363;nijs), </title></unittitle>
+  <unitdate>1993</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">2 : 5</container>
+  <unittitle><title render="italic">Latvijas Republikas Vides aizsardz&#299;bas komitejas Darba p&#257;rskats (1991.-1992. gads), </title></unittitle>
+  <unitdate>1993</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">2 : 5</container>
+  <unittitle><title render="italic">Latvijas sasniegumi statistikas v&#275;rt&#275;jum&#257;, </title></unittitle>
+  <unitdate>1939</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">2 : 6</container>
+  <unittitle><title render="italic">Latvijas skolot&#257;ju deleg&#257;tu konference R&#299;g&#257; no 2. l&#299;dz 5. janv&#257;rim 1919. g., </title></unittitle>
+  <unitdate>1919</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">2 : 6</container>
+  <unittitle><title render="italic">Latvijas zemnieku p&#316;aujas sv&#275;tki Koknes&#275;, </title></unittitle>
+  <unitdate>1935</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">2 : 6</container>
+  <unittitle><title render="italic">Padomju Latvijas atdzim&#353;anas ce&#316;&#353;, </title></unittitle>
+  <unitdate>1945</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">2 : 7</container>
+  <unittitle><title render="italic">Pag&#257;tnes ainas. J. Vientu&#316;a sakopots v&#275;sturisku dokumentu kr&#257;jums, </title></unittitle>
+  <unitdate>1912</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">2 : 7</container>
+  <unittitle><title render="italic">Rasshirennyi plenum Ts.K. K.P.L. fevral'-mart 1930 g. Tezisy i resoliutsii, </title></unittitle>
+  <unitdate>1930</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">2 : 7</container>
+  <unittitle><title render="italic">Rezoliutsii i postanovleniia. Rasshirennogo plenuma tsentral'nogo komiteta kommunisticheskoi partii latvii v fevrale 1932 g., </title></unittitle>
+  <unitdate>1932</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">2 : 7</container>
+  <unittitle><title render="italic">Str&#257;dnieku gada gr&#257;mata 1934, </title></unittitle>
+  <unitdate>1934</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">2 : 8</container>
+  <unittitle><title render="italic">Vesel&#299;bas aizsardz&#299;bas izst&#257;de, </title></unittitle>
+  <unitdate>1938</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">2 : 8</container>
+  <unittitle><title render="italic">V&#275;stures viltot&#257;ji, </title></unittitle>
+  <unitdate>1948</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">2 : 8</container>
+  <unittitle><title render="italic">Bakss, B., Parizes Komuna 1870- 1871. g., </title></unittitle>
+  <unitdate>1920</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">2 : 8</container>
+  <unittitle><title render="italic">Deglavs, Augusts, Latvie&#353;u att&#299;st&#299;bas solis no 1848. l&#299;dz 1875. g., 1893</title></unittitle>
+  </did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">2 : 9</container>
+  <unittitle><title render="italic">Jakobsone-Raine, G., No pirm&#257;s latvie&#353;u partiza&#326;u brig&#257;des pirm&#257;s vien&#299;bas v&#275;stures, </title></unittitle>
+  <unitdate>1953</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">2 : 9</container>
+  <unittitle><title render="italic">Jankavs, J., Darbs. Gada gr&#257;mata str&#257;dniekiem, </title></unittitle>
+  <unitdate>1907</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">2 : 9</container>
+  <unittitle><title render="italic">Kalni&#326;&#353;, K&#257;rlis, Do you know that Latvia...?, </title></unittitle>
+  <unitdate>1940</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">2 : 9</container>
+  <unittitle><title render="italic">Kir&#353;s, J., K&#257; laukstr&#257;dniekiem organiz&#275;ties un c&#299;n&#299;ties par sava st&#257;vok&#316;a uzlabo&#353;anu, </title></unittitle>
+  <unitdate>1930</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 1</container>
+  <unittitle><title render="italic">K&#316;avi&#326;&#353; J., K&#257; v&#257;cu okupanti un latvie&#353;u bur&#382;u&#257;ziskie nacion&#257;listi izpost&#299;ja Latviju, </title></unittitle>
+  <unitdate>1946</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 1</container>
+  <unittitle><title render="italic">Kl&#299;ve, Visvaldis, Sent in the World-Where and How?, </title></unittitle>
+  <unitdate>1970</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 1</container>
+  <unittitle><title render="italic">Kl&#299;ve, Visvaldis, Svar&#299;ga iz&#353;&#311;ir&#353;an&#257;s, </title></unittitle>
+  <unitdate>1964</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 1</container>
+  <unittitle><title render="italic">Krepp, E., Security and Non-Aggression: Baltic States and U.S.S.R. Treaties of Non-Aggression, </title></unittitle>
+  <unitdate>1973</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 2</container>
+  <unittitle><title render="italic">Kroders, Arturs, Par minoritatu autonomiju, </title></unittitle>
+  <unitdate>1924</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 2</container>
+  <unittitle><title render="italic">L&#257;cis, V., Krievu un latvie&#353;u tautas v&#275;sturisk&#257; draudz&#299;ba, </title></unittitle>
+  <unitdate>1945</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 2</container>
+  <unittitle><title render="italic">L&#257;cis, V., Padomju Latvijas pieci gadi: Zi&#326;ojums Latvijas PSR Augst&#257;k&#257;s Padomes pirm&#257; sasaukuma piektaj&#257; sesij&#257;, </title></unittitle>
+  <unitdate>1945</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 2</container>
+  <unittitle><title render="italic">L&#257;cis, V., Velikaia otechestvennaia voina i zadachi intelligentsia sovetsckoi Latvii, </title></unittitle>
+  <unitdate>1945</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 3</container>
+  <unittitle><title render="italic">Markov, M., Sovetskaia Latviia, </title></unittitle>
+  <unitdate>1940</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 3</container>
+  <unittitle><title render="italic">Mednis, Edvins, Gadu skr&#275;jiens: Rakstnieka atz&#299;mes, </title></unittitle>
+  <unitdate>1947</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 3</container>
+  <unittitle><title render="italic">Menders, F., Soci&#257;lisms un zemniec&#299;ba: Refer&#257;ts Baltijas valstu soci&#257;listisko studentu tre&#353;&#257; kongres&#257; R&#299;g&#257;, 1930. gada 23. mart&#257;, </title></unittitle>
+  <unitdate>1930</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 3</container>
+  <unittitle><title render="italic">Ozols, J., Spaidu re&#382;&#299;ms Latvijas cietumos, </title></unittitle>
+  <unitdate>1930</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 4</container>
+  <unittitle><title render="italic">Stepanovs, Politisk&#257; ekonomika, </title></unittitle>
+  <unitdate>1918</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 4</container>
+  <unittitle><title render="italic">Stokmanis A. B., Skol&#275;nu darbi v&#275;stur&#275;, </title></unittitle>
+  <unitdate>1927</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 4</container>
+  <unittitle><title render="italic">Stu&#269;ka P., Piez&#299;mes par agr&#257;ro (zemes) jaut&#257;jumu, </title></unittitle>
+  <unitdate>1917</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 4</container>
+  <unittitle><title render="italic">Up&#299;ts, Andrejs, "Dzimtenes V&#275;stnesis" un vi&#326;a loma latvie&#353;u sadz&#299;v&#275;, </title></unittitle>
+  <unitdate>1911</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 4</container>
+  <unittitle><title render="italic">Virdheims, Anderss, Kas notiek ar Baltijas j&#363;ru, </title></unittitle>
+  <unitdate>1993</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 4</container>
+  <unittitle><title render="italic">Zeiferts, Teodors, M&#363;su laikrakstu virzieni, </title></unittitle>
+  <unitdate>1896</unitdate>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+ <container type="box" label="Box: ">3</container>
+  <unittitle>Programs, </unittitle>
+  <unitdate>1942-1970</unitdate>
+</did>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 5</container>
+  <unittitle>Second Conference on Baltic studies, San Jose State College, San Jose, California, </unittitle>
+  <unitdate>1970 November 26-29</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 5</container>
+  <unittitle>Wintersportfest/Ziemas sporta sv&#275;tki, R&#299;ga, Latvia, </unittitle>
+  <unitdate>1942 February 7-8</unitdate>
+</did>
+</c02>
+</c01>
+ <c01 level="series">
+<did>
+ <container type="box" label="Box: ">3</container>
+  <unittitle>Serial issues, </unittitle>
+  <unitdate>1910-1940</unitdate>
+</did>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 6</container>
+  <unittitle><title render="italic">1. Maijs, Latvijas Komunistisk&#257;s Partijas Centr&#257;l&#257; Komiteja, </title></unittitle>
+  <unitdate>1919</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 6</container>
+  <unittitle><title render="italic">Br&#299;v&#299;ba, Latvijas Soci&#257;listisk&#257; Str&#257;dnieku-Zemnieku Partija, </title>no. 10, </unittitle>
+  <unitdate>1940 March</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 6</container>
+  <unittitle><title render="italic">Darba R&#299;ts, Latvie&#353;u Nacion&#257;lo Lietu Komisari&#257;ta Kult&#363;ras-Izgl&#299;t&#299;bas Noda&#316;a, </title>no. 1., </unittitle>
+  <unitdate>1919 March</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 6</container>
+  <unittitle><title render="italic">Darbs un Maize, Latvijas Partikas Komisari&#257;ts, </title>nos. 1-2, </unittitle>
+  <unitdate>1919 February 15-22</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 7</container>
+  <unittitle><title render="italic">Latvijas Sozi&#257;listisk&#257;s Padomju Republikas Dekretu un R&#299;kojumu Kr&#257;jums,</title> nos. 1-7, </unittitle>
+  <unitdate>1919 February 14-April 30</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 8</container>
+  <unittitle><title render="italic">Hallo Latvija, </title></unittitle>
+  <unitdate>1941</unitdate>
+</did>
+<c03>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 8</container>
+  <unittitle>No. 10, </unittitle>
+  <unitdate>1941 July 19 </unitdate>
+</did>
+</c03>
+<c03>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 8</container>
+  <unittitle>No. 13, </unittitle>
+  <unitdate>1941 August 16</unitdate>
+</did>
+</c03>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 8</container>
+  <unittitle><title render="italic">Jaunais Kocinieks (Rusk-Norskietis), Latvijas Komunistisk&#257; Jaunatnes Savien&#299;ba, I rajons, </title></unittitle>
+  <unitdate>1930</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 8</container>
+  <unittitle><title render="italic">Jaunatne, Latvie&#353;u M&#257;co&#353;&#257;s Jaunatnes Savien&#299;ba, </title>no. 1, </unittitle>
+  <unitdate>1918</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 8</container>
+  <unittitle><title render="italic">Jauni Ce&#316;i, </title>nos. 11-12, </unittitle>
+  <unitdate>1926</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 8</container>
+  <unittitle><title render="italic">Kulturas Balss Apskats, </title></unittitle>
+  <unitdate>1919 November</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 9</container>
+  <unittitle><title render="italic">Laima, Latvijas Komunistisk&#257; Jaunatnes Savien&#299;ba, Laimas fabrikas komiteja, </title>no. 1, </unittitle>
+  <unitdate>1930 February</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 9</container>
+  <unittitle><title render="italic">LKJS CK Bi&#316;etens, Latvijas Komunistisk&#257; Jaunatnes Savien&#299;ba, Centr&#257;l&#257; Komiteja, </title>no. 1, </unittitle>
+  <unitdate>1923</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 9</container>
+  <unittitle><title render="italic">Propagandists, Komunistisk&#257;s Internazionales Latvijas Sekzija, </title></unittitle>
+  <unitdate>1930-1931</unitdate>
+</did>
+<c03>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 9</container>
+  <unittitle>No. 6 (12), </unittitle>
+  <unitdate>1930 October</unitdate>
+</did>
+</c03>
+<c03>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 9</container>
+  <unittitle>No. 2 (14), </unittitle>
+  <unitdate>1931 October</unitdate>
+</did>
+</c03>
+<c03>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 9</container>
+  <unittitle>No. 3 (15), </unittitle>
+  <unitdate>1931 November</unitdate>
+</did>
+</c03>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 10</container>
+  <unittitle><title render="italic">Revolucion&#257;rais Soci&#257;lists, Latvijas Soci&#257;listisk&#257;s Str&#257;dnieku-Zemnieku Partijas un Soci&#257;listisk&#257;s Jaunatnes Savien&#299;bas R&#299;gas Organiz&#257;cija, </title>no. 2, </unittitle>
+  <unitdate>1934 September</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 10</container>
+  <unittitle><title render="italic">Sarkan&#257; Atbalss, Sarkan&#257;s Pal&#299;dz&#299;bas Organiz&#257;cija, </title>nos. 1-2, </unittitle>
+  <unitdate>1926 March-June</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 10</container>
+  <unittitle><title render="italic">Sarkanais Dzelzce&#316;nieks, Latvijas Komunistisk&#257;s Partijas R&#299;gas komiteja un Pretfa&#353;isma organiz&#257;cija, </title>no. 6, </unittitle>
+  <unitdate>1935 January</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 11</container>
+  <unittitle><title render="italic">Sarkan&#257; Pal&#299;dz&#299;ba, Sarkan&#257;s Pal&#299;dz&#299;bas Organiz&#257;cija, </title>nos. 3-4/5, </unittitle>
+  <unitdate>1933 June-July/August</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 11</container>
+  <unittitle><title render="italic">Sarkanais Kareivis, Latvijas Komunistisk&#257;s Partijas Kareivju organiz&#257;cija, </title></unittitle>
+  <unitdate>1934-1935</unitdate>
+</did>
+<c03>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 11</container>
+  <unittitle>No. 11, </unittitle>
+  <unitdate>1934 August</unitdate>
+</did>
+</c03>
+<c03>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 11</container>
+  <unittitle>No. 2, </unittitle>
+  <unitdate>1935 February</unitdate>
+</did>
+</c03>
+<c03>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 11</container>
+  <unittitle>No. 5, </unittitle>
+  <unitdate>1935 June </unitdate>
+</did>
+</c03>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 12</container>
+  <unittitle><title render="italic">Sign&#257;ls, R&#299;gas Tautas Augstskolas audz&#275;k&#326;u padome, </title>no. 4/5, </unittitle>
+  <unitdate>1935</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 13</container>
+  <unittitle><title render="italic">&#352;&#311;iras Fronte, Latvijas Komunistisk&#257;s Partijas R&#299;gas komiteja, </title>no. 7, </unittitle>
+  <unitdate>1936 October</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 13</container>
+  <unittitle><title render="italic">&#352;oferis-Opozicion&#257;rs, &#353;oferu arodopoz&#299;cijas, </title>no. 2, </unittitle>
+  <unitdate>1936 January</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 13</container>
+  <unittitle><title render="italic">SP Aktivists, Latvijas Sarkan&#257; Pal&#299;dz&#299;ba, </title>no. 3, </unittitle>
+  <unitdate>1936 March</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 13</container>
+  <unittitle><title render="italic">Spartaks, Latvijas Komunistisk&#257;s Partijas R&#299;gas komiteja, </title>no. 2, </unittitle>
+  <unitdate>1919 December 12</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 14</container>
+  <unittitle><title render="italic">Str&#257;dnieks, Latvijas Komunistisk&#257;s Partija, </title>no. 1, </unittitle>
+  <unitdate>1940 June</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 14</container>
+  <unittitle><title render="italic">Vefists, </title></unittitle>
+  <unitdate>1935 November</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 14</container>
+  <unittitle><title render="italic">Vienotais Arodnieks, </title>no. 1, </unittitle>
+  <unitdate>1935 October</unitdate>
+</did>
+</c02>
+<c02>
+<did>
+ <container type="Folder" label="Box/Folder: ">3 : 14</container>
+  <unittitle><title render="italic">Zihna(C&#299;&#326;a), Krievijas Soci&#257;ldemokr&#257;tisk&#257; str&#257;dnieku partija, </title>no. 100, </unittitle>
+  <unitdate>1910 July</unitdate>
+</did>
+</c02>
+</c01>
+ <c01 level="series">
+  <did>
+   <unittitle>Incremental Materials</unittitle>
+   <container type="Box" label="Box: ">4-5</container>
+  </did>
+ </c01>
+</dsc>
+
+</archdesc>
+</ead>

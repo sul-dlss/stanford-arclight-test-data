@@ -1,0 +1,1189 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  
+  
+  
+  
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" repositoryencoding="iso15511" findaidstatus="unverified-full-draft" langencoding="iso639-2b"><eadid countrycode="us" identifier="ark:/13030/tf2k40027m" mainagencycode="CSt-H" publicid="PUBLIC &quot;-//Stanford University::Hoover Institution Archives//TEXT&#10;(US::CSt-H::::Franz Schoenberner Papers)//EN&quot; &quot;schoenbf.sgm&quot;">schoenbf.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Register of the Franz Schoenberner Papers, <date calendar="gregorian" era="ce">1899-1970</date></titleproper><titleproper type="filing">Schoenberner (Franz) Papers</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Hoover Institution Archives</publisher>
+        <address>
+          <addressline>Stanford University</addressline>
+          <addressline>Stanford, California 94305-6010</addressline>
+          <addressline>Phone: (650) 723-3563</addressline>
+          <addressline>Fax: (650) 725-3445</addressline>
+          <addressline>Email: hooverarchives@stanford.edu</addressline>
+        </address>
+        <date calendar="gregorian" era="ce">&#xA9; 1999</date>
+        <p>Hoover Institution Archives. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc><profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data Services,
+<date calendar="gregorian" era="ce">May, 1999.</date>
+Supplementary encoding and revision supplied by James Ryan.</creation>
+<langusage>Description is in <language langcode="eng" scriptcode="latn">English</language></langusage>
+    </profiledesc><revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//Stanford University::Hoover Institution Archives//TEXT
+(US::CSt-H::::Franz Schoenberner Papers)//EN" "schoenbf.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+     <change>
+      <date calendar="gregorian" era="ce" normal="20120730">July 30, 2012</date>
+      <item>Revised to update encoding and add unitid by Jill Golden</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Register of the Franz Schoenberner Papers, <date calendar="gregorian" era="ce">1899-1970</date></titleproper>
+      <publisher>Hoover Institution Archives
+<lb/>Stanford University
+<lb/>Stanford, California</publisher>
+      <list type="simple">
+        <head>Contact Information</head>
+        <item>Hoover Institution Archives</item>
+        <item>Stanford University</item>
+        <item>Stanford, California 94305-6010</item>
+        <item>Phone: (650) 723-3563</item>
+        <item>Fax: (650) 725-3445</item>
+        <item>Email: hooverarchives@stanford.edu</item>
+      </list>
+      <p>&#xA9; 1999 Hoover Institution Archives. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection">
+    <did id="did-1.7.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">Franz Schoenberner Papers, </unittitle><unitdate calendar="gregorian" era="ce" type="inclusive" normal="1899/1970">1899-1970</unitdate>
+<unitid label="Collection number" repositorycode="CSt-H" countrycode="US">72020</unitid>
+      <origination label="Creator">
+        <persname>Schoenberner, Franz, 1892-</persname>
+      </origination>
+      <physdesc label="Collection Size" encodinganalog="300$a">
+		<extent>4 manuscript boxes, 1 envelope, 1 phonotape reel</extent>
+		<extent>1.8 linear feet)</extent>
+	</physdesc>
+      <repository label="Repository">
+        <corpname>Hoover Institution Archives</corpname>
+        <address>
+          <addressline>Stanford, California 94305-6010</addressline>
+        </address>
+      </repository>
+      <abstract label="Abstract">Writings and correspondence, relating to German literature, national socialism in Germany, and anti-Nazi German &#xE9;migr&#xE9; life</abstract>
+      <langmaterial label="Language">
+	<language langcode="ger">German</language> and 
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <descgrp id="descgrp-1.7.2" type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict>
+        <head>Access</head>
+        <p>Collection open for research.</p>
+<p>The Hoover Institution Archives only allows access to <emph render="italic">copies</emph> of audiovisual items. To listen to sound recordings or to view videos or films during your visit, please contact the Archives at least two working days before your arrival. We will then advise you of the accessibility of the material you wish to see or hear. Please note that not all audiovisual material is immediately accessible.</p>
+      </accessrestrict>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>For copyright status, please contact
+the Hoover Institution Archives.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Franz Schoenberner Papers, [Box no.], Hoover Institution
+Archives.</p>
+      </prefercite>
+<acqinfo encodinganalog="541">
+ <head>Acquisition Information</head>
+ <p>Acquired by the Hoover Institution Archives in 1972.</p>
+</acqinfo>
+
+<accruals encodinganalog="525"><head>Accruals</head>
+<p>Materials may have been added to the collection since this finding aid was prepared. To determine if this has occurred, find the collection in Stanford University's online catalog Socrates at <extref linktype="simple" href="http://library.stanford.edu/webcat" actuate="onrequest" show="new"> http://library.stanford.edu/webcat</extref>. Materials have been added to the collection if the number of boxes listed in Socrates is larger than the number of boxes listed in this finding aid.</p>
+</accruals>
+
+    </descgrp>
+    <controlaccess id="controlaccess-1.7.3">
+      <head>Access Points</head>
+      <corpname>Nationalsozialistische deutsche Arbeiter-Partei</corpname>
+      <subject>Simplicissimus</subject>
+      <subject>Anti-Nazi movement</subject>
+      <subject>Germans in foreign countries</subject>
+      <subject>National socialism</subject>
+      <subject>Refugees</subject>
+      <subject>World War, 1939-1945</subject>
+      <subject>World War, 1939-1945--France</subject>
+      <geogname>France</geogname>
+      <geogname>Germany</geogname>
+      <geogname>Germany--History--20th century</geogname>
+      <geogname>Germany--Intellectual life</geogname>
+      <genreform>Phonotapes</genreform>
+      <occupation>Journalists</occupation>
+    </controlaccess>
+    <bioghist id="bioghist-1.7.4">
+      <head>Biographical Note</head>
+      <chronlist>
+        <head>Schoenberner, Franz, 1892-1970</head>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1892, December 18</date>
+          <event>Born, Berlin, Germany</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1929-1933</date>
+          <event>Editor, <emph render="italic">Simplicissimus, </emph>German satirical magazine</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1933</date>
+          <event>Fled to France, Commune de Roquebrune-Cap Martin</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1941</date>
+          <event>Emigrated to the United States</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1943</date>
+          <event>Editor, Office of War Information</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1946</date>
+          <event><emph render="italic">Confessions of a European Intellectual </emph>(autobiography)</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1949</date>
+          <event><emph render="italic">The Inside Story of an Outsider </emph>(sequel to autobiography)</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1951</date>
+          <event>Assaulted, almost completely paralyzed</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1957</date>
+          <event><emph render="italic">You Still Have Your Head: Excursions of Immobility</emph></event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1965</date>
+          <event>First return to Germany</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1968</date>
+          <event><emph render="italic">Der Weg der Vernunft und andere Aufsaetze </emph>(Published and unpublished writings by Schoenberner, 1933ff., including Family Portraits.)</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1970</date>
+          <event>Died, New Jersey</event>
+        </chronitem>
+      </chronlist>
+    </bioghist>
+    <dsc id="dsc-1.7.5" type="analyticover">
+      <head>Series Description</head>
+      <c01 id="c01-1.7.5.2" level="series">
+        <did>
+          <unittitle>Writings.</unittitle>
+          <container type="Box">Box No. 1 -3.</container>
+        </did>
+        <scopecontent>
+          <p>Manuscripts to books, articles, and lectures, written in English, German, or French.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.5.3" level="series">
+        <did>
+          <unittitle>Correspondence.</unittitle>
+          <container type="Box">Box No. 3 -4.</container>
+        </did>
+        <scopecontent>
+          <p>Correspondence, 1899-1970, arranged alphabetically by name of correspondent.</p>
+        </scopecontent>
+      </c01>
+      <c01 id="c01-1.7.5.4" level="series">
+        <did>
+          <unittitle>Miscellany.</unittitle>
+          <container type="Box">Box No. 4.</container>
+        </did>
+        <scopecontent>
+          <p>Certificates, affidavits, identification cards, etc.</p>
+        </scopecontent>
+      </c01>
+    </dsc>
+    <dsc id="dsc-1.7.6" type="in-depth">
+      <head>Container List</head>
+      <c01 id="c01-1.7.6.2" level="series">
+        <did>
+          <unittitle>Writings</unittitle>
+        </did>
+        <c02 id="c02-1.7.6.2.2">
+          <did>
+            <container type="Box">1.</container>
+            <unittitle>
+              <title render="italic">Confessions of A European Intellectual,</title>
+              <unitdate calendar="gregorian" era="ce">1946.</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.3">
+          <did>
+            <unittitle>
+              <title render="italic">The Inside Story of an Outsider,</title>
+              <unitdate calendar="gregorian" era="ce">1949.</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.4">
+          <did>
+            <container type="Box">2.</container>
+            <unittitle><title render="italic">The Dilemma of Modern Liberalism.</title> English and German copies.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.5">
+          <did>
+            <unittitle><title render="italic">The Adventure of Reading Goethe's Novel `Wilhelm Meister's Apprenticeship'.</title> English and German copies.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.6">
+          <did>
+            <unittitle>Article from <emph render="italic">L'Age Nouveau, </emph><unitdate calendar="gregorian" era="ce">Jan. 1939. </unitdate>German copy.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.7">
+          <did>
+            <unittitle><title render="italic">Beware of False Prophets.</title> English and German copies.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.8">
+          <did>
+            <unittitle><title render="italic">Haben die Deutschen Humor?</title> German copy.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.9">
+          <did>
+            <unittitle><title render="italic">Faith and Scepticism,</title> published in Euros, Amsterdam, <unitdate calendar="gregorian" era="ce">May, 1965. </unitdate>English and German copies.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.10">
+          <did>
+            <unittitle><title render="italic">German Literature in Exile.</title> English and German copies.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.11">
+          <did>
+            <unittitle><title render="italic">The German Language Shall Never Parish from the Earth.</title> Lecture. English and German copies.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.12">
+          <did>
+            <unittitle><title render="italic">Why Intellectuals are Treasonable,</title> published in <emph render="italic">Tomorrow, </emph>New York, <unitdate calendar="gregorian" era="ce">1943. </unitdate>English and German copies.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.13">
+          <did>
+            <unittitle><title render="italic">Stefan Zweig and We,</title> published in <emph render="italic">The New Republic, </emph><unitdate calendar="gregorian" era="ce">March 1942. </unitdate>English and German copies.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.14">
+          <did>
+            <unittitle><title render="italic">Facts and Opinions,</title> published in <emph render="italic">The Protestant, </emph><unitdate calendar="gregorian" era="ce">Sept. 1944. </unitdate>English and German copies.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.15">
+          <did>
+            <unittitle><title render="italic">Goethe Revival.</title> English copy.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.16">
+          <did>
+            <unittitle><title render="italic">Roman und Film im Kampf gegen Rassenvorurteile.</title> German copy.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.17">
+          <did>
+            <unittitle><title render="italic">Innocents from Abroad.</title> English copy.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.18">
+          <did>
+            <unittitle><title render="italic">The Paradox of Katherine Anne Porter.</title> English copy.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.19">
+          <did>
+            <unittitle><title render="italic">Speaking of German Literature.</title> English copy.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.20">
+          <did>
+            <unittitle><title render="italic">What's the Matter with France?</title> German copy.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.21">
+          <did>
+            <unittitle><title render="italic">North Africa - A Test Case.</title> English copy.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.22">
+          <did>
+            <unittitle><title render="italic">Begegnung mit D.H. Lawrence.</title> German copy.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.23">
+          <did>
+            <unittitle><title render="italic">Apropos of Blasphemy,</title> published in abbreviated form in <emph render="italic">The Reporter, </emph><unitdate calendar="gregorian" era="ce">January 1951. </unitdate>English and German copies.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.24">
+          <did>
+            <unittitle><title render="italic">Das Nibelungenlied.</title> German copy.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.25">
+          <did>
+            <unittitle><title render="italic">Dokumente amerikanischer Demokratie.</title> German copy.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.26">
+          <did>
+            <unittitle><title render="italic">Die deutschen Zeitschriften des Departments of the Army.</title> Germany copy.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.27">
+          <did>
+            <unittitle><title render="italic">Georges Bernanos: <emph render="italic">Nous autres Francais, </emph></title> published in <emph render="italic">Decision, </emph><unitdate calendar="gregorian" era="ce">1941? </unitdate>German copy.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.28">
+          <did>
+            <unittitle><title render="italic">Lektuere fuer die Hitler-Jugend.</title> German copy.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.29">
+          <did>
+            <unittitle><title render="italic">Mes heures avec Leon Souguenet.</title> French copy.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.30">
+          <did>
+            <unittitle><title render="italic">Family Portraits,</title> including biographical notes, photos, and his mother's school essays, report cards, and diaries. English and German copies.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.31">
+          <did>
+            <unittitle><title render="italic">Life and Death of `Simplicissimus'.</title> Proposal for a book based on selected cartoons from <emph render="italic">Simplicissimus.</emph></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.32">
+          <did>
+            <unittitle>Letter to <emph render="italic">The New Republic </emph>and to <emph render="italic">The New York Times. </emph><title render="italic">An Answer to Arthur Koestler's `Challenge to Knights in Rusty Armor.' </title> English copy.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.33">
+          <did>
+            <unittitle>Letter to <emph render="italic">PM, </emph><unitdate calendar="gregorian" era="ce">April 1943, </unitdate>on Frank Sullivan's article <emph render="italic">Sullivan Backs up and Lets go. </emph>English and German copies.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.34">
+          <did>
+            <unittitle><title render="italic">How to Treat Inflated Mr. Ludwig?</title> Reply to Emil Ludwig's letter on Mussolini and Ethiopia, <unitdate calendar="gregorian" era="ce">December 1943, </unitdate>and Ludwig's answer. English copy.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.35">
+          <did>
+            <unittitle>Letter to <emph render="italic">The New York Times Book Review, </emph><unitdate calendar="gregorian" era="ce">July 1950, </unitdate>on Alvin Kugelmass' <emph render="italic">Literary Letter from Germany. </emph>English copy.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.36">
+          <did>
+            <unittitle>Letter to Freda Kirchwey, editor of <emph render="italic">The Nation, </emph><unitdate calendar="gregorian" era="ce">March 1951, </unitdate>protesting against an article by Alexander Werth on Andre Gide. German copy.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.37">
+          <did>
+            <unittitle>Letter to <emph render="italic">Atlantic Monthly </emph>regarding article by Brickner <emph render="italic">Is Germany Incurable? </emph>English and German copies.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.38">
+          <did>
+            <unittitle>Letter to <emph render="italic">Saturday of Literature, </emph><unitdate calendar="gregorian" era="ce">August 1941, </unitdate>challenging the author of <emph render="italic">The Fall of the House of Ullstein. </emph>English and German copies.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.39">
+          <did>
+            <container type="Box">3.</container>
+            <unittitle>Evaluations for American publishers of primarily German books:</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.2.39.2">
+            <did>
+              <unittitle>Amery, Jean. <emph render="italic">Geburt der Gegenwart (Gestalten und Gestaltungen der westlichen Zivilisation seit Kriegsende)</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.39.3">
+            <did>
+              <unittitle>Bychowski, Gustav. <emph render="italic">Dictators and Disciples: from Caesar to Stalin.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.39.4">
+            <did>
+              <unittitle>Bamm, Peter. <emph render="italic">An den Kuesten des Lichts.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.39.5">
+            <did>
+              <unittitle>Bauer, Paul. <emph render="italic">Kampf um den Himalaja.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.39.6">
+            <did>
+              <unittitle>Bloemertz, Gunther. <emph render="italic">Dem Himmel am naechsten.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.39.7">
+            <did>
+              <unittitle>Buddenbrock, W.v. <emph render="italic">Die Welt der Sinne.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.39.8">
+            <did>
+              <unittitle>Bertram, Hans. <emph render="italic">Flug zu den Sternen.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.39.9">
+            <did>
+              <unittitle>Bauer, Walter. <emph render="italic">Besser zu zweit als allein.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.39.10">
+            <did>
+              <unittitle>Bergengruen, Werner. <emph render="italic">Das Feuerzeichen.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.39.11">
+            <did>
+              <unittitle>Clerque, S. Ch. <emph render="italic">Rettet unsere Seelen.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.39.12">
+            <did>
+              <unittitle>Cappon, Joseph. <emph render="italic">Dolorosa.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.39.13">
+            <did>
+              <unittitle>Furtwaengler, Wilhelm. <emph render="italic">Gespraeche uber Musik.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.39.14">
+            <did>
+              <unittitle>Glas, Simon. <emph render="italic">Das Netz.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.39.15">
+            <did>
+              <unittitle>Heinrich, Willi. <emph render="italic">The Cross of Iron.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.39.16">
+            <did>
+              <unittitle>Jucker, Ernst. <emph render="italic">Sibiriens Waelder raunen.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.39.17">
+            <did>
+              <unittitle>Jens, Walter. <emph render="italic">The Blind Man.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.39.18">
+            <did>
+              <unittitle>Kramer, Gerhard. <emph render="italic">Wie werden weiter marschieren.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.39.19">
+            <did>
+              <unittitle>Koeppen, Wolfgang. <emph render="italic">Tauben im Gras.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.39.20">
+            <did>
+              <unittitle>Kern, Erick. <emph render="italic">Menschen im Netz.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.39.21">
+            <did>
+              <unittitle>Kuhn, Herbert. <emph render="italic">Die Felsbilder Europas; Die Kunst Alt-Europas.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.39.22">
+            <did>
+              <unittitle>Lichnowsky, Mechtilde. <emph render="italic">Kindheit.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.39.23">
+            <did>
+              <unittitle>Lissner, Ivar. <emph render="italic">So habt Ihr gelebt.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.39.24">
+            <did>
+              <unittitle>Johnson, Eyvind. <emph render="italic">Hier hast du dein Leben; Traeume von Rosen und Feuer.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.39.25">
+            <did>
+              <unittitle>Marai, Alexander. <emph render="italic">Begegnung in Bolzano.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.39.26">
+            <did>
+              <unittitle>Nasemann, Richard. <emph render="italic">Nasses Brot.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.39.27">
+            <did>
+              <unittitle>Rainalter, Erwin H. <emph render="italic">Der Sandwirt, Der Roman Andreas Hofers.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.39.28">
+            <did>
+              <unittitle>Rinser, Luise. <emph render="italic">Mitte des Lebens.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.39.29">
+            <did>
+              <unittitle>Schaper, Edzard. <emph render="italic">Der letzte Advent.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.39.30">
+            <did>
+              <unittitle>Schneider, Reinhold. <emph render="italic">Imperial Mission.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.39.31">
+            <did>
+              <unittitle>Stanley, Ilse. <emph render="italic">The Unforgotten.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.39.32">
+            <did>
+              <unittitle>Steiger, Otto <emph render="italic">Die Reise ans Meer.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.39.33">
+            <did>
+              <unittitle>Tanzer, Franz. <emph render="italic">Die Befreiung.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.39.34">
+            <did>
+              <unittitle>Thelen, Albert Vigoleis. <emph render="italic">Die Insel des zweiten Gesichts; Aus den angewandten Errinerungen des Vigoleis.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.39.35">
+            <did>
+              <unittitle>Torberg, Friedrich. <emph render="italic">Die zweite Begegnung.</emph></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.2.40">
+          <did>
+            <unittitle>Book reviews, written by Franz Schoenberner (typescripts and clippings):</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.2.40.2">
+            <did>
+              <unittitle>Abegg, Lilly. <emph render="italic">Ostasien denkt anders.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.40.3">
+            <did>
+              <unittitle>Boeschenstein, H. <emph render="italic">The German Novel, </emph><unitdate calendar="gregorian" era="ce">1939-1944.</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.40.4">
+            <did>
+              <unittitle>Bierman, Berthold. <emph render="italic">Goethe's world as seen in his letters and memoirs.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.40.5">
+            <did>
+              <unittitle>Freud, Sigmund. <emph render="italic">Leonardo da Vinci, a psychoanalytical study.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.40.6">
+            <did>
+              <unittitle>Hersey, John. <emph render="italic">The Wall </emph>(in German).</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.40.7">
+            <did>
+              <unittitle>Guerard, Albert. <emph render="italic">Education of a Humanist.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.40.8">
+            <did>
+              <unittitle>Heinrich, Willi. <emph render="italic">The Cross of Iron.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.40.9">
+            <did>
+              <unittitle>Kaufmann, Richard. <emph render="italic">Der Himmel zahlt keine Zinsen.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.40.10">
+            <did>
+              <unittitle>Kesten, Hermann. <emph render="italic">Ferdinand and Isabella.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.40.11">
+            <did>
+              <unittitle>Kreuder, Ernst. <emph render="italic">Die Unauffindbaren.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.40.12">
+            <did>
+              <unittitle>Mahler, Alma. <emph render="italic">Gustav Mahler.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.40.13">
+            <did>
+              <unittitle>Moore, Harry T. <emph render="italic">D.H. Lawrence's letters to Bertrand Russell.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.40.14">
+            <did>
+              <unittitle>Lewisohn, Ludwig. <emph render="italic">Goethe, the Story of a Man.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.40.15">
+            <did>
+              <unittitle>Nehru, Pandit S.S. <emph render="italic">Gandhi, sein Leben und Werk.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.40.16">
+            <did>
+              <unittitle>Pribilla, Max. <emph render="italic">Deutsche Schicksalsfragen.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.40.17">
+            <did>
+              <unittitle>Roepke, Wilhelm. <emph render="italic">The Solution of the German Problem.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.40.18">
+            <did>
+              <unittitle>Schweitzer, Albert. <emph render="italic">Goethe, Four Studies.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.40.19">
+            <did>
+              <unittitle>Vercors. <emph render="italic">Three Short Novels.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.40.20">
+            <did>
+              <unittitle>Waugh, Coulton. <emph render="italic">The Comics.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.40.21">
+            <did>
+              <unittitle>Weigand, Hermann J. <emph render="italic">Goethe: Wisdom and Experience.</emph></unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.40.22">
+            <did>
+              <unittitle>3 books about and 3 books by Albert Schweitzer.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.40.23">
+            <did>
+              <unittitle>von Salomon, Ernst. <emph render="italic">Die Geaechteben.</emph></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.2.41">
+          <did>
+            <unittitle>Book reviews of F. Schoenberner's books and other publications.</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.6.3" level="series">
+        <did>
+          <unittitle>Correspondence</unittitle>
+        </did>
+        <c02 id="c02-1.7.6.3.2">
+          <did>
+            <container type="Box">3.</container>
+            <unittitle>A</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.3">
+          <did>
+            <unittitle>B</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.4">
+          <did>
+            <unittitle>Bemelmans, Ludwig</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.5">
+          <did>
+            <unittitle>Bertillon, Suzanne</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.6">
+          <did>
+            <unittitle>C</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.7">
+          <did>
+            <unittitle>Capouya, Emile</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.8">
+          <did>
+            <unittitle>Congrat-Butlar, Stefan</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.9">
+          <did>
+            <unittitle>Covici, Friede, Inc., N.Y.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.10">
+          <did>
+            <unittitle>Cusack, Ralph</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.11">
+          <did>
+            <unittitle>D</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.12">
+          <did>
+            <unittitle>Depicnis (?), Caillons</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.13">
+          <did>
+            <unittitle>Department of State group (Germans in exile)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.14">
+          <did>
+            <unittitle>E</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.15">
+          <did>
+            <unittitle>Einstein, Albert</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.16">
+          <did>
+            <unittitle>Eissler, Ruth S.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.17">
+          <did>
+            <unittitle>F</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.18">
+          <did>
+            <unittitle>Fleetwealth, Alistair</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.19">
+          <did>
+            <unittitle>Francheschi, M. de</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.20">
+          <did>
+            <unittitle>G</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.21">
+          <did>
+            <unittitle>Graff, William G.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.22">
+          <did>
+            <unittitle>Gulbransson, Olaf</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.23">
+          <did>
+            <unittitle>H</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.24">
+          <did>
+            <unittitle>Harper &amp; Row, New York</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.25">
+          <did>
+            <unittitle>Heine, Thomas Th.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.26">
+          <did>
+            <unittitle>Hermann. Lutz <emph render="italic">(Deutsche Zeitung)</emph></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.27">
+          <did>
+            <unittitle>Hirschberg, Emma</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.28">
+          <did>
+            <unittitle>Hirschberg, Martin</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.29">
+          <did>
+            <unittitle>K</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.30">
+          <did>
+            <unittitle>Kadach, Wilhelmine Eleanore</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.31">
+          <did>
+            <unittitle>Kesten, Hermann, German novelist and playwright, present president of PEN German Center in Frankfurt (47 letters, 4 postcards and 1 telegram, <unitdate calendar="gregorian" era="ce">1941-1953).</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.32">
+          <did>
+            <unittitle>Knoll, Paul</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.33">
+          <did>
+            <unittitle>Kohn, Hein</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.34">
+          <did>
+            <unittitle>Kramer, Walter A.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.35">
+          <did>
+            <unittitle>Kreisselmeier, Hermann. Correspondence <unitdate calendar="gregorian" era="ce">(1963-1969) </unitdate>with Hermann Kreisselmeier Verlag, Munich, Germany, Franz Shoenberner's German publisher</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.36">
+          <did>
+            <unittitle>L</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.37">
+          <did>
+            <unittitle>Latham, Harold S. (Vice President of The Macmillan Co.)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.38">
+          <did>
+            <unittitle>Lawrence, D.H.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.39">
+          <did>
+            <unittitle>Lawrence, Frieda</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.40">
+          <did>
+            <container type="Box">4.</container>
+            <unittitle>Lichnowsky, Mechtilde, writer and artist, widow of the former German ambassador in London, Prince Lichnowsky (approximately 74 handwritten letters and 12 postcards, <unitdate calendar="gregorian" era="ce">1933-1939)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.41">
+          <did>
+            <unittitle>
+              <emph render="italic">Life</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.42">
+          <did>
+            <unittitle>M</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.43">
+          <did>
+            <unittitle>Mann, Golo</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.44">
+          <did>
+            <unittitle>Mann, Heinich</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.45">
+          <did>
+            <unittitle>Mann, Klaus</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.46">
+          <did>
+            <unittitle>Mhe, Herbert</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.47">
+          <did>
+            <unittitle>Moore, Harry T.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.48">
+          <did>
+            <unittitle>N</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.49">
+          <did>
+            <unittitle>
+              <emph render="italic">The New Republic</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.50">
+          <did>
+            <unittitle>The New School</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.51">
+          <did>
+            <unittitle>
+              <emph render="italic">New York Herald Tribune</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.52">
+          <did>
+            <unittitle>Niebuhr, Reinhold</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.53">
+          <did>
+            <unittitle>O</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.54">
+          <did>
+            <unittitle>Overstreet, Harry A.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.55">
+          <did>
+            <unittitle>P</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.56">
+          <did>
+            <unittitle>Paulding, Governor</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.57">
+          <did>
+            <unittitle>Pfeiffer, Ernst</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.58">
+          <did>
+            <unittitle>R</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.59">
+          <did>
+            <unittitle>Regler, Gustav</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.60">
+          <did>
+            <unittitle>Rheinhardt, E.A.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.61">
+          <did>
+            <unittitle>Roberts, Harley M.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.62">
+          <did>
+            <unittitle>Rode, Helen</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.63">
+          <did>
+            <unittitle>Rode, Walther</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.64">
+          <did>
+            <unittitle>Romain, Jules</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.65">
+          <did>
+            <unittitle>S</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.66">
+          <did>
+            <unittitle>Salzmann, Karl H.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.67">
+          <did>
+            <unittitle>Scheller, Hans</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.68">
+          <did>
+            <unittitle>Scherz Verlag, Stuttgart, Germany</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.69">
+          <did>
+            <unittitle>Schickele, Lannatsch</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.70">
+          <did>
+            <unittitle>Schickele, Rene, novelist and poet, playwright and essayist (30 handwritten letters, <unitdate calendar="gregorian" era="ce">1935-1939, </unitdate>including 3 letters addressed to him)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.71">
+          <did>
+            <unittitle>Schoenberner, Gerhard (nephew)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.72">
+          <did>
+            <unittitle>Schoenberner family (Gudrun and Martha)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.73">
+          <did>
+            <unittitle>Seemann, Verlag Erich, G.M.B.H.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.74">
+          <did>
+            <unittitle>Shirer, William L.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.75">
+          <did>
+            <unittitle>Sinclair, Upton</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.76">
+          <did>
+            <unittitle>
+              <emph render="italic">Der Spiegel</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.77">
+          <did>
+            <unittitle>T</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.78">
+          <did>
+            <unittitle>Trautsehold, Lolo (approximately 36 mainly handwritten letters from and to L. Trautsehold, <unitdate calendar="gregorian" era="ce">1945-1949)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.79">
+          <did>
+            <unittitle>W</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.80">
+          <did>
+            <unittitle>Wengraf, Fritz</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.81">
+          <did>
+            <unittitle>Wertheim, Werner S.</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.82">
+          <did>
+            <unittitle>Wisbeck, August</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.83">
+          <did>
+            <unittitle>Wissenschaft und Politik, Verlag, Cologne, Germany</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.84">
+          <did>
+            <unittitle>Wolff, Kurt</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.85">
+          <did>
+            <unittitle>Z</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.86">
+          <did>
+            <unittitle>
+              <emph render="italic">Die Zeit</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.87">
+          <did>
+            <unittitle>Zoff, Otto</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.88">
+          <did>
+            <unittitle>Zweig, Stefan</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.89">
+          <did>
+            <unittitle>Schoenberner's personal correspondence</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.90">
+          <did>
+            <unittitle>Unidentified correspondence</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.91">
+          <did>
+            <unittitle>Miscellaneous correspondence</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.6.4" level="series">
+        <did>
+          <unittitle>Miscellany</unittitle>
+        </did>
+        <c02 id="c02-1.7.6.4.2">
+          <did>
+            <container type="Box">4.</container>
+            <unittitle>Certificates, affidavits, identification cards, etc. 1 tape of Franz Schoenberner's voice translating his own <title render="italic">Confessions of a European Intellectual</title> into German.</unittitle>
+            <note>
+              <p>10.Rr.</p>
+            </note>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

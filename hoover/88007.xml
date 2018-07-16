@@ -1,0 +1,3105 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  
+  
+  
+  
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" repositoryencoding="iso15511" findaidstatus="edited-full-draft" langencoding="iso639-2b"><eadid countrycode="us" identifier="ark:/13030/tf7w1005vw" mainagencycode="CSt-H" publicid="PUBLIC &quot;-//Stanford University::Hoover Institution Archives//TEXT&#10;(US::CSt-H::::John Ehrlichman Papers)//EN&quot; &quot;ehrlich2.sgm&quot;">ehrlichj.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Inventory of the John Ehrlichman Papers, <date calendar="gregorian" era="ce">1963-1982</date></titleproper><titleproper type="filing">Ehrlichman (John) Papers</titleproper>
+        <author>Prepared by Rebecca Mead</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Hoover Institution Archives</publisher>
+        <address>
+          <addressline>Stanford University</addressline>
+          <addressline>Stanford, California 94305-6010</addressline>
+          <addressline>Phone: (650) 723-3563</addressline>
+          <addressline>Fax: (650) 725-3445</addressline>
+          <addressline>Email: hooverarchives@stanford.edu</addressline>
+        </address>
+        <date calendar="gregorian" era="ce">&#xA9; 1999</date>
+        <p>Hoover Institution Archives. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc><profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data Services,
+<date calendar="gregorian" era="ce">February 1999.</date>
+Supplementary encoding and revision supplied by James Lake.</creation>
+      <langusage>Description is in <language langcode="eng" scriptcode="latn">English</language></langusage>
+    </profiledesc><revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20130222">February 22, 2013</date>
+        <item>Updated encoding to remove duplicate did tags within c02 tags</item>
+      </change>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20100817">August 17, 2010</date>
+        <item>Revised to add restriction statement and increment; updated to current OAC encoding standards</item>
+      </change>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//Stanford University::Hoover Institution Archives//TEXT
+(US::CSt-H::::John Ehrlichman Papers)//EN" "ehrlich2.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Inventory of the John Ehrlichman Papers, <date calendar="gregorian" era="ce">1963-1982</date></titleproper>
+      <publisher>Hoover Institution Archives
+<lb/>Stanford University
+<lb/>Stanford, California</publisher>
+      <list type="simple">
+        <head>Contact Information</head>
+        <item>Hoover Institution Archives</item>
+        <item>Stanford University</item>
+        <item>Stanford, California 94305-6010</item>
+        <item>Phone: (650) 723-3563</item>
+        <item>Fax: (650) 725-3445</item>
+      </list>
+      <list type="deflist">
+        <defitem>
+          <label>Prepared by: </label>
+          <item>Rebecca Mead</item>
+        </defitem>
+        <defitem>
+          <label>Date Completed: </label>
+          <item>1988</item>
+        </defitem>
+      </list>
+      <p>&#xA9; 1999 Hoover Institution Archives. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection">
+    <did id="did-1.7.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">John Ehrlichman Papers, </unittitle>
+	<unitdate calendar="gregorian" era="ce" type="inclusive" normal="1963/1982">1963-1982</unitdate>
+<unitid label="Collection number" repositorycode="CSt-H" countrycode="US">88007</unitid>
+      <origination label="Creator">
+        <persname source="lcnaf" rules="aacr2">Ehrlichman, John</persname>
+      </origination>
+      <physdesc label="Collection Size" encodinganalog="300$a">
+		<extent>117 manuscript boxes, 20 oversize boxes </extent>
+		<extent>67 linear feet</extent>
+	</physdesc>
+      <repository label="Repository">
+        <corpname>Hoover Institution Archives</corpname>
+        <address>
+          <addressline>Stanford, California 94305-6010</addressline>
+        </address>
+      </repository>
+      <abstract label="Abstract">Photocopies of notes of White House meetings, memoranda, letters, and reports, relating primarily to Nixon administration domestic policy, policy relating to the Vietnam War, the 1972 presidential elections, and the Watergate controversy; and sound recordings of television news programs and interviews, Congressional hearings, and trial proceedings, relating to the Watergate affair. In part, photocopy. </abstract>
+<physloc label="Physical Location">Hoover Institution Archives</physloc>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+</did>
+    <descgrp id="descgrp-1.7.2" type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict>
+        <head>Access</head>
+        <p>Boxes 18-137 closed. The Hoover Institution Archives only allows access to <emph render="italic">copies</emph> of audiovisual items. To listen to sound recordings or to view videos or films during your visit, please contact the Archives at least two working days before your arrival. We will then advise you of the accessibility of the material you wish to see or hear. Please note that not all audiovisual material is immediately accessible.</p>
+      </accessrestrict>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>For copyright status, please contact the Hoover Institution Archives.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], John Ehrlichman Papers, [Box no.], Hoover Institution
+Archives.</p>
+      </prefercite>
+<acqinfo encodinganalog="541">
+ <head>Acquisition Information</head>
+ <p>Acquired by the Hoover Institution Archives in 1988, with later increments.</p>
+</acqinfo>
+
+<accruals encodinganalog="525"><head>Accruals</head>
+<p>Materials may have been added to the collection since this finding aid was prepared. To determine if this has occurred, find the collection in Stanford University's online catalog at <extref linktype="simple" href="http://searchworks.stanford.edu/" actuate="onrequest" show="new"> http://searchworks.stanford.edu/</extref>. Materials have been added to the collection if the number of boxes listed in the online catalog is larger than the number of boxes listed in this finding aid.</p>
+</accruals>
+
+<originalsloc>
+<head>Location of Originals</head>
+<p>In part, originals located in: National Archives, Washington, D.C.</p>
+</originalsloc>
+
+
+    </descgrp>
+    <controlaccess id="controlaccess-1.7.3">
+      <head>Access Points</head>
+      <geogname>United States--Politics and government--1969-1974.</geogname>
+      <subject>Vietnamese Conflict, 1961-1975.</subject>
+      <subject>Presidents--United States--Election--1972.</subject>
+      <subject>Watergate Affair, 1972-1974.</subject>
+      <persname rules="aacr2">Nixon, Richard M. (Richard Milhous), 1913-</persname>
+      <subject>Conservatism.</subject>
+      <geogname>United States--Politics and government.</geogname>
+      <genreform source="lcsh">Phonotapes.</genreform>
+    </controlaccess>
+    <bioghist id="bioghist-1.7.4">
+      <head>Biographical Note</head>
+      <chronlist>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1925, March 20</date>
+          <event>Born, Tacoma, Washington</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1952-1968</date>
+          <event>Partner, Hullin, Ehrlichman, Roberts &amp; Hodge, Seattle, Washington</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1968</date>
+          <event>Director, Convention Activities; Tour Director, Nixon for President campaign</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1969</date>
+          <event>Counsel to President Richard Nixon</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1969-1973</date>
+          <event>Assistant to the President for Domestic Affairs; Executive Director, Domestic Council</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1970-1973</date>
+          <event>Member, Federal Property Review Board</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1971-1973</date>
+          <event>Member, President's Council on International Economic Policy</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1976</date>
+          <event>Author, <title render="italic">The Company</title></event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1976-1978</date>
+          <event>Inmate, Swift Trail Federal Prison Camp, Safford, Arizona</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1978-1980</date>
+          <event>Radio and television commentator</event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1979</date>
+          <event>Author, <title render="italic">The Whole Truth</title></event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1982</date>
+          <event>Author, <title render="italic">Witness to Power</title></event>
+        </chronitem>
+        <chronitem>
+          <date calendar="gregorian" era="ce">1986</date>
+          <event>Author, <title render="italic">The China Card</title></event>
+        </chronitem>
+      </chronlist>
+    </bioghist>
+    <dsc id="dsc-1.7.6" type="combined">
+      <head>Container List</head>
+	<c01 level="series" id="c01-1">
+	<did>
+        <unittitle>NIXON ADMINISTRATION FILE, Appendix A - Documents: Files</unittitle>
+          <container type="Box" label="Box: ">1-3</container>
+        </did>
+        <scopecontent>
+          <p>Primarily meeting notes; also includes schedules, memoranda, letters, telephone notes, charts, reports and statements relating to domestic policy, Cabinet and Executive Department personnel, the Vietnam war (including the CBS-Westmoreland controversy over enemy force estimates), Watergate, and the 1972 presidential election. Arranged chronologically; see Appendix A for detailed box list (prepared by the Archives of Artists of New Mexico and the Southwest).</p>
+        </scopecontent>
+        <c02 id="c01-1.7.6.2.2">
+          <did>
+            <container type="Box" label="Box: ">1</container>
+            <unitdate calendar="gregorian" era="ce">1969 </unitdate>
+            <unittitle>Press: 1969 Evaluation of Writers &amp; T.V. - R. Z. Klein Cross-ref. to 6 mo. game plan (28 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.3">
+          <did>
+            <unitdate calendar="gregorian" era="ce">Undated </unitdate>
+            <unittitle>Connally-the econ. boss G. Sh. defer J.C.-anti semetic (2 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.4">
+          <did>
+            <unitdate calendar="gregorian" era="ce">1969 </unitdate>
+            <unittitle>H. notes re: Trento Changes- Where H, C, E were in May, June (1 page)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.5">
+          <did>
+            <unitdate calendar="gregorian" era="ce">Undated </unitdate>
+            <unittitle>Rogers, (&amp; HAK)Change E.L.R. (1 page)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.6">
+          <did>
+            <unitdate calendar="gregorian" era="ce">2/5/69 </unitdate>
+            <unittitle>E's To-Do List (4 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.7">
+          <did>
+            <unitdate calendar="gregorian" era="ce">4/4/69-10/13/71 </unitdate>
+            <unittitle>Burger Letters to Mitchell (6 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.8">
+          <did>
+            <unitdate calendar="gregorian" era="ce">7/69 </unitdate>
+            <unittitle>Six Month Game Plan/Notes (10 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.9">
+          <did>
+            <unitdate calendar="gregorian" era="ce">9/69 </unitdate>
+            <unittitle>Image Analysis &amp; Game Plans (contents missing pages) </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Haynesworth/V. Nam </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.10">
+          <did>
+            <unitdate calendar="gregorian" era="ce">9/4/69 </unitdate>
+            <unittitle>Family, Reaction to Don's complaints, Move funds to Bebe (6 pages)</unittitle>
+          </did>
+        </c02>
+       
+        <c02 id="c02-1.7.6.2.11">
+          <did>
+            <unitdate calendar="gregorian" era="ce">9/5/69 </unitdate>
+            <unittitle>Rocky, Agnew, Senators by name,WWH-golf-other expenses (5 pages)</unittitle>
+          </did>
+        </c02>
+                <c02 id="c02-1.7.6.2.12">
+          <did>
+            <unitdate calendar="gregorian" era="ce">10/1/69 </unitdate>
+            <unittitle>Demonstrations-R.N. Reaction, Personnel Shifts, Haynesworth (10 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.13">
+          <did>
+            <unitdate calendar="gregorian" era="ce">10/2/69 </unitdate>
+            <unittitle>TT-Scott-Hruska-Allott Cook-Griffen, Harlow-A.G.-Young-Cook-Beaulieu-, E.-Symington, (Haynesworth: The War) (10 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.14">
+          <did>
+            <unitdate calendar="gregorian" era="ce">10/7/69 </unitdate>
+            <unittitle>Anti-Symington Pincus/Paul (Notes), Strategy Committee (2 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.15">
+          <did>
+            <unitdate calendar="gregorian" era="ce">10/8/69 </unitdate>
+            <unittitle>Haynesworth, DPM- (FAP),  paucity w/Rumsfeld (3 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.16">
+          <did>
+            <unitdate calendar="gregorian" era="ce">10/9/69 </unitdate>
+            <unittitle>Press-Planted Q's, Order Ford to Impeach Douglas (2 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.17">
+          <did>
+            <unitdate calendar="gregorian" era="ce">10/69 </unitdate>
+            <unittitle>Haynesworth, qt. pressure/appt a jew (2 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.18">
+          <did>
+            <unitdate calendar="gregorian" era="ce">10/22/69 </unitdate>
+            <unittitle>TT and Ash Council/Reorg. (4 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.19">
+          <did>
+            <unitdate calendar="gregorian" era="ce">10/23/69 </unitdate>
+            <unittitle>J.B.C. Volunteers, R.N. &amp; Rock Music, Fec.-A.B.-private writings, Myth of Independence (12 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.20">
+          <did>
+            <unitdate calendar="gregorian" era="ce">10/27/69 </unitdate>
+            <unittitle>Agnew-schism (Notes), Kraft Hugh Scott, Press Handle w/cool contempt (5 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.21">
+          <did>
+            <unitdate calendar="gregorian" era="ce">11/69-12/2/69 </unitdate>
+            <unittitle>Austin Geriatric Center/LBJ (9 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.22">
+          <did>
+            <unitdate calendar="gregorian" era="ce">11/14/69 </unitdate>
+            <unittitle>Agnew trip (Notes), an anwar dilemme (answered) (6 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.23">
+          <did>
+            <unitdate calendar="gregorian" era="ce">12/2/69 </unitdate>
+            <unittitle>JNM, RN mistakes-Abernathy-etc- (Notes), Speech writers-"moving power" (6 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.24">
+          <did>
+            <unitdate calendar="gregorian" era="ce">12/4/69 </unitdate>
+            <unittitle>TT-Haynesworth Conf. (6 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.25">
+          <did>
+            <unitdate calendar="gregorian" era="ce">12/19/69 </unitdate>
+            <unittitle>Fitzgerald to Bob (Notes), No budget appeals to TT, Tipping WH help (6 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.26">
+          <did>
+            <unitdate calendar="gregorian" era="ce">12/20/69 </unitdate>
+            <unittitle>3 bil. stockpile, AB-Alexander Tax reform, Veto Hew/WH Conferences (3 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.27">
+          <did>
+            <unitdate calendar="gregorian" era="ce">12/29/69 </unitdate>
+            <unittitle>RN on The Press (5 pages)</unittitle>
+            
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.28">
+          <did>
+            <unitdate calendar="gregorian" era="ce">1969 </unitdate>
+            <unittitle>Dept. Budget Reviews (Notes), Stockpiler (12 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.29">
+          <did>
+            <unitdate calendar="gregorian" era="ce">1/3/70 </unitdate>
+            <unittitle>Budget Outlook '70-71 w/changes, Asset Sales/Murphy Finch (3 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.30">
+          <did>
+            <unitdate calendar="gregorian" era="ce">1/8?/70 </unitdate>
+            <unittitle>Don to H. Kalmbach, WWH - Use of golf course, Hoffe (2 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.31">
+          <did>
+            <unitdate calendar="gregorian" era="ce">1/9/70 </unitdate>
+            <unittitle>Private Schools in South (Notes), SOTU, Cut overseas personnel (3 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.32">
+          <did>
+            <unitdate calendar="gregorian" era="ce">1/10/70 </unitdate>
+            <unittitle>HAK opinion of Mayo (Personnel), LBJ, Helms must go, HAK's area-Reorg., DuBridge (6 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.33">
+          <did>
+            <unitdate calendar="gregorian" era="ce">1/16/70 </unitdate>
+            <unittitle>SOTU (Notes), Leak parts (4 pages) </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.34">
+          <did>
+            <unitdate calendar="gregorian" era="ce">1/17/70 </unitdate>
+            <unittitle>Memo to TT, Burns-say at McC dinner AB was 1st choice (Missing pages) </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.35">
+          <did>
+            <unitdate calendar="gregorian" era="ce">1/19/70 </unitdate>
+            <unittitle>Carswell (Notes), Line for Cronkhite re TT (2 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.36">
+          <did>
+            <unitdate calendar="gregorian" era="ce">1/29/70 </unitdate>
+            <unittitle>Black Panthers (Notes)  (2 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.37">
+          <did>
+            <unitdate calendar="gregorian" era="ce">1/30/70 </unitdate>
+            <unittitle>Southern Schools (Notes), VP Agnew  (4 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.38">
+          <did>
+            <unitdate calendar="gregorian" era="ce">2/2/70 </unitdate>
+            <unittitle>The Presidency (Notes), personality of Admin., Taft and T.R., Press and TV  (5 pages), </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.39">
+          <did>
+            <unitdate calendar="gregorian" era="ce">2/7/70 </unitdate>
+            <unittitle>TT Mitchell G.S.C.-Finch-E. (Notes),  (Southern Schools)  (5 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.40">
+          <did>
+            <unitdate calendar="gregorian" era="ce">2/11/70 </unitdate>
+            <unittitle>Agnew health role, Agnew speech writer,  (1 page)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.41">
+          <did>
+            <unitdate calendar="gregorian" era="ce">2/12/70 </unitdate>
+            <unittitle>School-deseg. Panetta (Notes), Econ. (TT ple.), Agnew,  (3 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.42">
+          <did>
+            <unitdate calendar="gregorian" era="ce">2/26/70 </unitdate>
+            <unittitle>TT + JE Hoover (Notes), *Hooverisms  (41 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.43">
+          <did>
+            <unitdate calendar="gregorian" era="ce">3/8/70 </unitdate>
+            <unittitle>Agnew  (Notes),  (4 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.44">
+          <did>
+            <unitdate calendar="gregorian" era="ce">3/16/70 </unitdate>
+            <unittitle>FED, LAOS  (Notes), Ripon, Ivy League, Finch,  (4 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.45">
+          <did>
+            <unitdate calendar="gregorian" era="ce">3/25/70 </unitdate>
+            <unittitle>"How the TT Works"  (Notes), DeSeg Stunt-game plan  (Start?)  (TT BH E), Carswell,  (4 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.46">
+          <did>
+            <unitdate calendar="gregorian" era="ce">3/26/70 </unitdate>
+            <unittitle>Carswell, TT RK E,  (3 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.47">
+          <did>
+            <unitdate calendar="gregorian" era="ce">3/31/70 </unitdate>
+            <unittitle>Agnew-GSA-Eastern States  (Notes), Carswell  (TT, H, E, Woods, Warren), Peace Corps,  (2 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.48">
+          <did>
+            <unitdate calendar="gregorian" era="ce">4/16/70 </unitdate>
+            <unittitle>EMK  (Notes), Douglas Impeachment,  (8 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.49">
+          <did>
+            <unitdate calendar="gregorian" era="ce">4/25/70 </unitdate>
+            <unittitle>HAK  (Diary), Shows me Cambodia, Attack plans-,  (1 page)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.50">
+          <did>
+            <unitdate calendar="gregorian" era="ce">4/27/70-4/28/70  </unitdate>
+            <unittitle>Economy-Rinfret  (TT Ph.) Need spokesman,E get in, Bail out brokers  (8 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.51">
+          <did>
+            <unitdate calendar="gregorian" era="ce">4/28/70 </unitdate>
+            <unittitle>TT Walk pre Cambodia, JNM to treasury,  (1 page)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.52">
+          <did>
+            <unitdate calendar="gregorian" era="ce">4/30/70 </unitdate>
+            <unittitle>Rogers opposed to Cambodia Maneuver, Pete Upset, PN looped/Burger brings note,  (1 page)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.53">
+          <did>
+            <unitdate calendar="gregorian" era="ce">5/9/70 </unitdate>
+            <unittitle>re: TT Mtg w/Kent State kids  (Notes),  (4 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.54">
+          <did>
+            <unitdate calendar="gregorian" era="ce">5/20/70 </unitdate>
+            <unittitle>Agnew re. press  (Notes), TT pb.,  (3 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.55">
+          <did>
+            <unitdate calendar="gregorian" era="ce">5/21/70 </unitdate>
+            <unittitle>Burns-penance  (Notes), Weinberger ONB  (TT E), Hak - NYC Speech orders, Cabinet / Hickel,  (3 pages) </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.56">
+          <did>
+            <unitdate calendar="gregorian" era="ce">5/25/70 </unitdate>
+            <unittitle>Cabinet for Nov.  (TT.H.E.), Finch, Hickel Letter,  (3 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.57">
+          <did>
+            <unitdate calendar="gregorian" era="ce">5/26/70 </unitdate>
+            <unittitle>Agnew-DPM re, Black Violence,  (Missing pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.58">
+          <did>
+            <unitdate calendar="gregorian" era="ce">5/27/70 </unitdate>
+            <unittitle>Hickel/TT: run for Gov.  (Diary),  (1 page)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.59">
+          <did>
+            <unitdate calendar="gregorian" era="ce">5/28/70 </unitdate>
+            <unittitle>Hickel-run for Gov., TT-Hickel-E,  (2 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.60">
+          <did>
+            <unitdate calendar="gregorian" era="ce">6/3/70 </unitdate>
+            <unittitle>Finch HEW, New Nat'l Party, Cabinet, Population,  (4 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.61">
+          <did>
+            <unitdate calendar="gregorian" era="ce">6/4/70 </unitdate>
+            <unittitle>Penn Central-Guthrie  (TT-Flan-H-E), Weinberger-om B,  (2 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.62">
+          <did>
+            <unitdate calendar="gregorian" era="ce">6/5/70 </unitdate>
+            <unittitle>Finch gives up HEW, Successor Q,  (1 page)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.63">
+          <did>
+            <unitdate calendar="gregorian" era="ce">6/16/70 </unitdate>
+            <unittitle>Agnew &amp; Joe  (Diary), Rhodes, Fresh,</unittitle> 
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.64">
+          <did>
+            <unitdate calendar="gregorian" era="ce">6/18/70 </unitdate>
+            <unittitle>Scranton Comm'n  (TT-Seranton AG-Finch),  (Kent State etc), marching orders, Joe Rhodes,  (8 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.65">
+          <did>
+            <unitdate calendar="gregorian" era="ce">6/19/70 </unitdate>
+            <unittitle>Agnew/Taft won't appear, 18 year vote Penn Central  (TT-BNH-BT), Prime M. Wilson call  (HE),  (6 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.66">
+          <did>
+            <unitdate calendar="gregorian" era="ce">7/7/70 </unitdate>
+            <unittitle>Agnew &amp; WH Staff  (TT E), Hickel,  (6 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.67">
+          <did>
+            <unitdate calendar="gregorian" era="ce">8/4/70 </unitdate>
+            <unittitle>DESEGREGATION N B  (TT/VP/AG), Schools  (K/RF/BNH), South,  (23 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.68">
+          <did>
+            <unitdate calendar="gregorian" era="ce">8/8/70? </unitdate>
+            <unittitle>Timmons Report on Senate  (Memo to TT), end-the-war-ammendments, to for-aid bill, Saxbe story, Scott, Sneaky stories,  (Missing pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.69">
+          <did>
+            <unitdate calendar="gregorian" era="ce">8/9/70 </unitdate>
+            <unittitle>Budget  (C.D.), Cabinet-Schultz-Morton, HAK, FAP, DESEG Housing,  (6 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.70">
+          <did>
+            <unitdate calendar="gregorian" era="ce">8/13/70 </unitdate>
+            <unittitle>DESEG-New Orleans Quota  (TT Sh E),  (5 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.71">
+          <did>
+            <unitdate calendar="gregorian" era="ce">8/18/70 </unitdate>
+            <unittitle>Sol. Gen. Griswold, E mtg. notes,  (6 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.72">
+          <did>
+            <unitdate calendar="gregorian" era="ce">8/18/70 </unitdate>
+            <unittitle>Solic. Gen'l-Parochial, TT H Scott, H. E.,  (3 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.73">
+          <did>
+            <unitdate calendar="gregorian" era="ce">8/19/70 </unitdate>
+            <unittitle>Parochial, DeRussey, OMB, Liberals, Congress &amp; W. H. Staff, Mamie's dentist,  (6 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.74">
+          <did>
+            <unitdate calendar="gregorian" era="ce">8/30/70 </unitdate>
+            <unittitle>R. N.  (Diary), Manson's, guilty,  (1 page)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.75">
+          <did>
+            <unitdate calendar="gregorian" era="ce">9/1/70 </unitdate>
+            <unittitle>HAK not on TV  (TT H E), Sex-Pot-Porno-Rock, Press, Agnew,  (2 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.76">
+          <did>
+            <unitdate calendar="gregorian" era="ce">9/10/70 </unitdate>
+            <unittitle>Freeze-out  (Diary), Kevin Phillips controversy, Hickel, Romney, Morton,  (3 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.77">
+          <did>
+            <unitdate calendar="gregorian" era="ce">10/70 </unitdate>
+            <unittitle>The "Social Issue"  (very N.B.), and our domestic policy-R.N. orders,  (11 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.78">
+          <did>
+            <unitdate calendar="gregorian" era="ce">10/23/70 </unitdate>
+            <unittitle>Origin of Controls  (TT Sh. E), decides to can Hickel, Fear of Kidnap,  (14 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.79">
+          <did>
+            <unitdate calendar="gregorian" era="ce">11/70 </unitdate>
+            <unittitle>Hickel  (Diary), Firing &amp; after,  (4 pages) </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.80">
+          <did>
+            <unitdate calendar="gregorian" era="ce">11/1/70 </unitdate>
+            <unittitle>Agnew-TT supports line  (TT VP), Campaign  (P Buch), Economy issue,  (7 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.81">
+          <did>
+            <container type="Box" label="Box: ">2</container>
+            <unitdate calendar="gregorian" era="ce">11/4/70 </unitdate>
+            <unittitle>Budget  (TT Sh-CW-E), Cabinet-openings list  (A/F one),  (9 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.82">
+          <did>
+            <unitdate calendar="gregorian" era="ce">11/5/70 </unitdate>
+            <unittitle>HAK  (Diary), cienfuegos briefing,  (1 page)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.83">
+          <did>
+            <unitdate calendar="gregorian" era="ce">11/16/70 </unitdate>
+            <unittitle>Distressed w/ AB re incomes policy  (TT ph), Polit. strateg. blacks labor, Youth, Catholic, Jews, Italians,  (9 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.84">
+          <did>
+            <unitdate calendar="gregorian" era="ce">11/19/70 </unitdate>
+            <unittitle>Prep. For AB mtg. &amp; Nam speech  (TT-economists), Controls, oil, money supply,  (13 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.85">
+          <did>
+            <unitdate calendar="gregorian" era="ce">11/20/70 </unitdate>
+            <unittitle>Burns Meeting,  (4 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.86">
+          <did>
+            <unitdate calendar="gregorian" era="ce">11/23/70 </unitdate>
+            <unittitle>Ost-out  (TT Sh. E), Budget, Oil prices,  (8 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.87">
+          <did>
+            <unitdate calendar="gregorian" era="ce">11/30/70 </unitdate>
+            <unittitle>Economy  (TT Economist), Davis Bacon, Nam Speech, Fed,  (21 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.88">
+          <did>
+            <unitdate calendar="gregorian" era="ce">12/1/70 </unitdate>
+            <unittitle>Budget-space  (TT Sh E), Burns - a problem,  (6 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.89">
+          <did>
+            <unitdate calendar="gregorian" era="ce">12/3/70 </unitdate>
+            <unittitle>TT Rates the Cabinet, esp. JNM,  (2 pages) </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.90">
+          <did>
+            <unitdate calendar="gregorian" era="ce">12/5/70 </unitdate>
+            <unittitle>Reorg-Cab of 8  (TT-Sh-Harper-CW-E), Budget PR-, CIA SST rejected,  (6 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.91">
+          <did>
+            <unitdate calendar="gregorian" era="ce">12/7/70 </unitdate>
+            <unittitle>More Cabinet, tentative Shuffle/Mitchell,  (3 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.92">
+          <did>
+            <unitdate calendar="gregorian" era="ce">12/7/70 </unitdate>
+            <unittitle>Cabinet, JBC, Bush, Rumsfeld  (Diary), V TT, Romney,  (1 page)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.93">
+          <did>
+            <unitdate calendar="gregorian" era="ce">12/11/70 </unitdate>
+            <unittitle>TT feeling overworked, use VP more, Kennedy + CIEP, Blue LK,  (3 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.94">
+          <did>
+            <unitdate calendar="gregorian" era="ce">12/15/70 </unitdate>
+            <unittitle>TT-Burns-E, Burns, TT Fed be liberal, B-CEA Errs, Incomes Policy, PR &amp; E,  (7 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.95">
+          <did>
+            <unitdate calendar="gregorian" era="ce">12/15/70 </unitdate>
+            <unittitle>School Vouchers, Poff, Burns  (TT Sh E), Connally/Base closings,  (3 pages) </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.96">
+          <did>
+            <unitdate calendar="gregorian" era="ce">12/16/70 </unitdate>
+            <unittitle>Economy  (TT Sh HE), Economists to recruit,  (2 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.97">
+          <did>
+            <unitdate calendar="gregorian" era="ce">12/18/70 </unitdate>
+            <unittitle>Burger, Back trouble-Ryland  (Diary), Crt gossip, Sch case lobbying,  (1 page)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.98">
+          <did>
+            <unitdate calendar="gregorian" era="ce">12/23/70 </unitdate>
+            <unittitle>HAK &amp; Schlesinger  (TT-Sh-H.E.), Budget, VAT, Burns, Trends in '72,  (6 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.99">
+          <did>
+            <unitdate calendar="gregorian" era="ce">12/26/70 </unitdate>
+            <unittitle>Connally  (TT ple), Jewish hijackers  (C.D.), Church &amp; PR, 2nd yr.-CAB-Accomplishments,  (6 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.100">
+          <did>
+            <unitdate calendar="gregorian" era="ce">12/28/70 </unitdate>
+            <unittitle>P. Peterson Solomon  (TT-Sh-E), 3d yr. be tough on Staff, Rumsfld. paternalism, Rev Sh/Peace Corps space, Nat'l, Nixon,  (11 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.101">
+          <did>
+            <unitdate calendar="gregorian" era="ce">12/29/70 </unitdate>
+            <unittitle>Budget  (TT-JBC-Sh), VAT  (CW-E), What mark will we leave??, Cambodia-bold-, Tax Ref - Reorg.,  (16 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.102">
+          <did>
+            <unitdate calendar="gregorian" era="ce">12/30/70 </unitdate>
+            <unittitle>Welfare  (TT-Sh-DPM), Disraeli  (E), 3 Rabbis,  (7 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.103">
+          <did>
+            <unitdate calendar="gregorian" era="ce">1/5/71 </unitdate>
+            <unittitle>Hugh Scott, E mtg. w/notes,  (3 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.104">
+          <did>
+            <unitdate calendar="gregorian" era="ce">1/5/71 </unitdate>
+            <unittitle>Governors &amp; Staff, NR-Nunn, Vat/Rev Sh, Connally, John Lindsay, Rocky,  (7 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.105">
+          <did>
+            <unitdate calendar="gregorian" era="ce">1/6/71 </unitdate>
+            <unittitle>Tax reform  (TT-E-Sc), Cabinet reorg., Peace Corps, J.E. Hoover,  (5 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.106">
+          <did>
+            <unitdate calendar="gregorian" era="ce">1/9/71 </unitdate>
+            <unittitle>Medicine  (TT E), T.V. Intellectuals, Hutchnecker, <title render="italic">Life</title>, Glasses, Unemp. &amp; Glasses, Expansionist econ.,  (8 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.107">
+          <did>
+            <unitdate calendar="gregorian" era="ce">Undated </unitdate>
+            <unittitle>P. Peterson-orders for Budget, VAT, Alsop-feed, Game Plan-Drowns,  (5 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.108">
+          <did>
+            <unitdate calendar="gregorian" era="ce">1/12/71 </unitdate>
+            <unittitle>No Contact for 2 days  (TT ph), SOTU dictates  (Protest Amnesty), - of - when, press confs, Geo. Allen,  (8 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.109">
+          <did>
+            <unitdate calendar="gregorian" era="ce">1/15/71 </unitdate>
+            <unittitle>E.'s to do List,  (1 page)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.110">
+          <did>
+            <unitdate calendar="gregorian" era="ce">1/18/71 </unitdate>
+            <unittitle>Econ-  (TT-Sh-McC), Controls - poll pro  (E), Davis - Bacon - suspend,  (6 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.111">
+          <did>
+            <unitdate calendar="gregorian" era="ce">1/19/71 </unitdate>
+            <unittitle>Open Collar  (TT TT-Sh-RF-DR), Staff &amp; Cab - Spokesmen rules  (CW-H-E), WH rooms - who can use - PR,  (3 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.112">
+          <did>
+            <unitdate calendar="gregorian" era="ce">12/18/71 </unitdate>
+            <unittitle>Commerce-Stans  (TT E), Lynn, Anti-trust - What is policy?, CPI - RR,  (5 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.113">
+          <did>
+            <unitdate calendar="gregorian" era="ce">2/20/71 </unitdate>
+            <unittitle>P. Peterson - in gp.  (TT-HAK-E), Connally  (Agnew), Build for future, Burns - TT - Furious, Morton - ass  (?) an, P. McCloskey,  (4 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.114">
+          <did>
+            <unitdate calendar="gregorian" era="ce">3/8/71 </unitdate>
+            <unittitle>Sch Deseg.  (TT Sh E), 18 year vote, Burns - adverse, PN to parks,  (6 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.115">
+          <did>
+            <unitdate calendar="gregorian" era="ce">3/8/71 </unitdate>
+            <unittitle>HAK - resignation threat, Blair Hse, Rogers - Mideast,  (1 page)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.116">
+          <did>
+            <unitdate calendar="gregorian" era="ce">3/18/71 </unitdate>
+            <unittitle>Cabinet Rump Session  (TT E), Counter - moves,  (2 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.117">
+          <did>
+            <unitdate calendar="gregorian" era="ce">3/19/71 </unitdate>
+            <unittitle>Allott &amp; Schlesinger  (TT/H/E), Cabinet Cabal - CD not by divine right, Wilbur Mill's family in, Counter-moves,  (5 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.118">
+          <did>
+            <unitdate calendar="gregorian" era="ce">3/23/71 </unitdate>
+            <unittitle>Corps of Eng.  (TT-Sh-E), Abortion, Welfare, Reorg., Rump Cabinet,  (5 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.119">
+          <did>
+            <unitdate calendar="gregorian" era="ce">May '71 </unitdate>
+            <unittitle>May Day Demonstrations  (Diary), concentration camp, be sure some police are hurt, McGovern,  (1 page)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.120">
+          <did>
+            <unitdate calendar="gregorian" era="ce">June '71 </unitdate>
+            <unittitle>Pentagon Papers  (Diary), J.C. To Be Econ Spokesman,  (4 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.121">
+          <did>
+            <unitdate calendar="gregorian" era="ce">7/15/71 </unitdate>
+            <unittitle>CHINA, Perrinos dinner, Young to conspiracy team:  (1 page)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.122">
+          <did>
+            <unitdate calendar="gregorian" era="ce">7/20/71 </unitdate>
+            <unittitle>Agnew troubles/Dump  (Diary), J.C. N's successor, E to advance China / Finch leave WH,  (1 page)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.123">
+          <did>
+            <unitdate calendar="gregorian" era="ce">9/20/71 </unitdate>
+            <unittitle>Hoover,  (1 page)firing breakfast, aftermath letter,  (1 page)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.124">
+          <did>
+            <unitdate calendar="gregorian" era="ce">9/24/71 </unitdate>
+            <unittitle>Krogh memo, How to screen s/ct, Nominees / Send Dean and Young,  (4 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.125">
+          <did>
+            <unitdate calendar="gregorian" era="ce">10/2/71 </unitdate>
+            <unittitle>Supreme Court  (TT E), Poff, Powell, Friday, Byrd,  (2 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.126">
+          <did>
+            <unitdate calendar="gregorian" era="ce">10/25/71 </unitdate>
+            <unittitle>Supreme Ct., how Rehnquist, Powell chosen,  (1 page)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.127">
+          <did>
+            <unitdate calendar="gregorian" era="ce">12/71, 1/72 </unitdate>
+            <unittitle>Radford, Wellander  (Diary), HAK, Moorer,  (5 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.128">
+          <did>
+            <unitdate calendar="gregorian" era="ce">1/4/72 </unitdate>
+            <unittitle>Dep Sec Def - not P Fian, Mitchell, Kissinger - protocol rank -,  (1 page)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.129">
+          <did>
+            <unitdate calendar="gregorian" era="ce">1/5/72 </unitdate>
+            <unittitle>WASAG leak - Radford  (TT H E), HAK &amp; Press, Prosecute Jack Anderson,  (2 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.130">
+          <did>
+            <unitdate calendar="gregorian" era="ce">1/18/72 </unitdate>
+            <unittitle>Burns-the pay Board-Pessimism  (TT/Sh/E), Geo. Boldt, State dept. &amp; Rogers, HAK on J. C. succeed - J.C. a gentleman,  (8 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.131">
+          <did>
+            <unitdate calendar="gregorian" era="ce">1/24/72 </unitdate>
+            <unittitle>Rizzo's support  (TT E), Wilbur Mills-family on ple.,  (4 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.132">
+          <did>
+            <unitdate calendar="gregorian" era="ce">2/2/72 </unitdate>
+            <unittitle>VAT-Back off  (TT ple), CD,  (2 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.133">
+          <did>
+            <unitdate calendar="gregorian" era="ce">2/7/72 </unitdate>
+            <unittitle>Don N. - Marriotts  (TT H E), Donny - Vesco SEC,  (2 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.134">
+          <did>
+            <unitdate calendar="gregorian" era="ce">2/9/72 </unitdate>
+            <unittitle>Don Nixon  (Diary), Ed &amp; Don Mtg., Fin details, Ed returns,  (2 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.135">
+          <did>
+            <unitdate calendar="gregorian" era="ce">2/13/72 </unitdate>
+            <unittitle>A. Burns - Showdown  (VAT/TT/E), Rizzo  (A/Fone), Jews - sly,  (4 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.136">
+          <did>
+            <unitdate calendar="gregorian" era="ce">2/15/71 </unitdate>
+            <unittitle>CABINET  (TT Sh E), PENN CENTRAL, Connally - Lockheed,  (3 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.137">
+          <did>
+            <unitdate calendar="gregorian" era="ce">2/16/72 </unitdate>
+            <unittitle>K to be AG  (TT/Kleindienst), Rel to Connally  (E), Civ. Rts Issues  (SH), Women judges - list, you fellows run the place - V TT,  (12 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.138">
+          <did>
+            <unitdate calendar="gregorian" era="ce">3/6/72 </unitdate>
+            <unittitle>Buchanen to resign  (TT H E), Busing-Deseg, I.T.T.,  (3 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.139">
+          <did>
+            <unitdate calendar="gregorian" era="ce">3/6/72 </unitdate>
+            <unittitle>I.T.T. San Diego  (TT H E), Damage Control, K asked hearing, New Hamp. primary prediction, Flanigan to P Peterson - biz,  (3 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.140">
+          <did>
+            <unitdate calendar="gregorian" era="ce">3/21/72 </unitdate>
+            <unittitle>RN to Hoover, ITT document, Verification,  (5 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.141">
+          <did>
+            <unitdate calendar="gregorian" era="ce">4/21/72 </unitdate>
+            <unittitle>Cabinet - no more mtings., Peterson disloyal  (TT H/E), flush FAP, Rev Sh.  (C.D.), Paroch. Sch aid, cut ARTS, Higher Ed, MIT, Don't move left - McGovern will be nominee, AE1, Press-force feed  (Colson)  (assume this is all a reaction to a talk w/ C. Colson), Enemy, Create new establishment, Major Daley, Need for a new party, ITT - a smear,  (9 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.142">
+          <did>
+            <unitdate calendar="gregorian" era="ce">4/23/72 </unitdate>
+            <unittitle>Volpe, typical appointment,  (2 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.143">
+          <did>
+            <unitdate calendar="gregorian" era="ce">5/9/72 </unitdate>
+            <unittitle>A: 2 great inspirations:, Rizzo A's protege  (TT Annenberg), Keep Scott out  (JNM - E), -Calif. - Norton Simon, Daughter an alternate - Reagan,  (5 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.144">
+          <did>
+            <unitdate calendar="gregorian" era="ce">5/16/72 </unitdate>
+            <unittitle>Abrams - read Churchill, Geo. Wallace  (TT/H/Haig), Protecting TT - keep girls home  (Colson E), Fire Rowley, Gun Control,  (5 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.145">
+          <did>
+            <unitdate calendar="gregorian" era="ce">May '72 </unitdate>
+            <unittitle>Wallace Shot  (Diary), J.C. leaving,  (2 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.146">
+          <did>
+            <unitdate calendar="gregorian" era="ce">June '72 </unitdate>
+            <unittitle>W/G report, I urge JNM leave, CMG replacer,  (3 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.147">
+          <did>
+            <unitdate calendar="gregorian" era="ce">6/15/72 </unitdate>
+            <unittitle>Busing - Moratorium, Parochial Sch - aid, DDT, Erickson or Justice, Ambassadors,  (5 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.148">
+          <did>
+            <unitdate calendar="gregorian" era="ce">7/5/72 </unitdate>
+            <unittitle>Death Penalty  (TT/E/HAK), Bumper stickers  (S. C), Buttons-text,  (6 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.149">
+          <did>
+            <unitdate calendar="gregorian" era="ce">7/6/72 </unitdate>
+            <unittitle>Control Colson  (TT E  (re: Gray)), Agnew &amp; his staff  (Dean/K/Liddy/), Reagan  (McGruder), Overview-TT-vote of no confid.  (TT H/E/McGregor), in JNM &amp; Magruder Malek Timmons,  (12 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.150">
+          <did>
+            <unitdate calendar="gregorian" era="ce">7/6/72 </unitdate>
+            <unittitle>Watergate: Walters &amp; Gary  (TT H E), Campaign issues  (SC), Woodrow Wilson-chippy chaser, Drowns to Ceylon,  (3 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.151">
+          <did>
+            <unitdate calendar="gregorian" era="ce">7/6/72 </unitdate>
+            <unittitle>Clark McGregor - P Gray/CIA, nover talk to TT re W/G  (TT E), CIA - no interest  (SC),  (2 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.152">
+          <did>
+            <unitdate calendar="gregorian" era="ce">7/7/72 </unitdate>
+            <unittitle>Agnew &amp; press, Watergate: Holms &amp; Walters  (TT E ), Cover up  (S. C.), Econ statistics BLS,  (11 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.153">
+          <did>
+            <unitdate calendar="gregorian" era="ce">7/8/72 </unitdate>
+            <unittitle>WGF-no coverup-full investign, no WH involvmt  (TT E), Bitman  (San C.), MacGruder resign sooner, Reps boycott all Cong. Comms.,  (2 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.154">
+          <did>
+            <unitdate calendar="gregorian" era="ce">7/8/72 </unitdate>
+            <unittitle>S C explan., 6/23 Helms etc.  (TT/E),  (4 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.155">
+          <did>
+            <unitdate calendar="gregorian" era="ce">7/31/72 </unitdate>
+            <unittitle>Jacobson of Texas, W/G Timing-post election  (Kleindienst), Sloan. Stans/ Liddy/Jeb  (Dean/E), TT pictures to RK Erickson, Vr Amendmt. / Jeb,  (3 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.156">
+          <did>
+            <unitdate calendar="gregorian" era="ce">7/31/72 </unitdate>
+            <unittitle>Kleindienst, JD, E,  (3 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.157">
+          <did>
+            <unitdate calendar="gregorian" era="ce">8/1/72 </unitdate>
+            <unittitle>Teeter-polls, Issues for '72,  (6 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.158">
+          <did>
+            <unitdate calendar="gregorian" era="ce">8/1/72 </unitdate>
+            <unittitle>Colson Staff list  (Kenrli),  (3 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.159">
+          <did>
+            <unitdate calendar="gregorian" era="ce">Undated </unitdate>
+            <unittitle>McGovern  (TT), permissiveness-line,  (1 page)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.160">
+          <did>
+            <unitdate calendar="gregorian" era="ce">8/3/72 </unitdate>
+            <unittitle>Use IRS-O'Brien McGovern  (TT/H/E), Football in desk drawer, Laird-rebelling, Romney, Erred in picking cabinet,  (3 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.161">
+          <did>
+            <container type="Box" label="Box: ">3 </container>
+            <unitdate calendar="gregorian" era="ce">8/10/72 </unitdate>
+            <unittitle>Romney/Wilkes Barre, Memo to GR; talking paper,  (1 page)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.162">
+          <did>
+            <unitdate calendar="gregorian" era="ce">8/10/72 </unitdate>
+            <unittitle>Discrim. Suits v LA.  (Phone), Chicago, etc, Kleindienst,  (Missing pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.163">
+          <did>
+            <unitdate calendar="gregorian" era="ce">8/11/72 </unitdate>
+            <unittitle>Romney letter resignat'n  (TT H E), R's W.B. letter anquish, Let Rumsfeld go, Carlucci, Romney replaced with Van Dusen, Romney told not to go to platform Committee, A R Longworth -A/F one to convention, S. Alsop, RN's 4 Eulogies,  (3 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.164">
+          <did>
+            <unitdate calendar="gregorian" era="ce">8/11/72 </unitdate>
+            <unittitle>Romney report  (TT Romney, Lincoln et al), on Wilkes-Barre,  (10 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.165">
+          <did>
+            <unitdate calendar="gregorian" era="ce">Aug. '72 </unitdate>
+            <unittitle>Romney, TT Directive, Lenore's letter, Resignation,  (4 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.166">
+          <did>
+            <unitdate calendar="gregorian" era="ce">10/31/72 </unitdate>
+            <unittitle>TT Romney E / Romney W.B. report / RN-premonition, San Clemente / to leave 1/ will campaign,  (2 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.167">
+          <did>
+            <unitdate calendar="gregorian" era="ce">8/29/72 </unitdate>
+            <unittitle>Schultz-Walters  (Phone), Re: O'Brien tax investig'n,  (7 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.168">
+          <did>
+            <unitdate calendar="gregorian" era="ce">10/31/72 </unitdate>
+            <unittitle>RN/premonition  (Diary),  (1 page)of assassination,  (1 page)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.169">
+          <did>
+            <unitdate calendar="gregorian" era="ce">11/10/72 </unitdate>
+            <unittitle>Agnew-Indians  (Sta), BIA Riot,  (Missing pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.170">
+          <did>
+            <unitdate calendar="gregorian" era="ce">11/12/72 </unitdate>
+            <unittitle>Innaugural  (TT/E), Restaffing, Ed, Julie, Colson, Innaug. Consultants A/Fone,  (3 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.171">
+          <did>
+            <unitdate calendar="gregorian" era="ce">11/14/72 </unitdate>
+            <unittitle>Hire Julie  (TT/H/E), Agnew in '76 - won't help him, Budget-cuts  (Camp David ), HAK is a rag mer.  (*  (scene)), Agnew-criteria-falls short-staff, Reorg-3 counsellors, Henry Jackson - Sec Def?, Restaffing, Rogers,  (8 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.172">
+          <did>
+            <unitdate calendar="gregorian" era="ce">11/14/72 </unitdate>
+            <unittitle>TT Ash/Malek Reorg-, H.E., Camp David  (Ike),  (3 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.173">
+          <did>
+            <unitdate calendar="gregorian" era="ce">11/16/72 </unitdate>
+            <unittitle>Flanigan  (Restaff TT H E), Rogers  (CD Aspen), Klein, Rumsfeld, Malek, Morton, ELR, C Colson,  (8 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.174">
+          <did>
+            <unitdate calendar="gregorian" era="ce">11/17/72 </unitdate>
+            <unittitle>J.B.C. reconfirm judges every 10 yrs/Restaff  (TT Weinberger E)  (TT-Sh P Peterson E), Weinberger, Offer to P.P., CIEP not worked-the Hak problem  (DOD-Richardson),  (9 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.175">
+          <did>
+            <unitdate calendar="gregorian" era="ce">11/17/72 </unitdate>
+            <unittitle>Restaff:  (TT/Sh/E), Volcker  (Dogwood/CD), P.. Peterson/shldn't stay - a Percy man, Flanigan, Casey, Dent, Rumsfeld, Walker, Bush, Weinberger, Report on Meany, Hodgeson, A secy Labor-ask Colson,  (7 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.176">
+          <did>
+            <unitdate calendar="gregorian" era="ce">11/20/72 </unitdate>
+            <unittitle>Bush / Restaff, Brennan  (TT E then Rumsfeld), Rumsfeld session  (Aspen Sh),  (8 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.177">
+          <did>
+            <unitdate calendar="gregorian" era="ce">11/20/72 </unitdate>
+            <unittitle>Bush to RNC, RN to RNC in '60  (TT/Bush/E), Margin over McG. greatest  (Aspen), "The in Clique", Klein, Finch leaving, Dole out,  (13 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.178">
+          <did>
+            <unitdate calendar="gregorian" era="ce">11/21/72 </unitdate>
+            <unittitle>Morton mtg. - Restaff, Allott-flanked Rogers-Dole to go  (TT/Rog Morton/E), Rush/H - Rush mtg:, BIA Reorg Proposal,  (8 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.179">
+          <did>
+            <unitdate calendar="gregorian" era="ce">11/22/72 </unitdate>
+            <unittitle>P. Peterson  (Restaff), Rumsfeld  (TT H E), Helms 60, Schlesinger, HAK - don't smile in pics w/Tho, NSC Staff, Klein-retire or usia, Cabinet, Simon, Cole,  (9 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.180">
+          <did>
+            <unitdate calendar="gregorian" era="ce">11/22/72 </unitdate>
+            <unittitle>Timmons probs, Dole must go  (TT/Timmons/H.E. Dogwood), BIA problems, Hauge letter re W.G.,  (8 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.181">
+          <did>
+            <unitdate calendar="gregorian" era="ce">11/22/72 </unitdate>
+            <unittitle>Eastland-keep Kleindienst, Klein-now / restaff  (TT Hodgeson E), Hodgson, Rumsfeld, Don Rogers,  (4 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.182">
+          <did>
+            <unitdate calendar="gregorian" era="ce">11/24/72 </unitdate>
+            <unittitle>Romney out: terms, Volpe  (TT E), Scali  (TT Romney), Agnew  (E Restaff), Indians, Kleindienst gone by summer, Rocky and JBC didn't want to be in cabinet, Don't sell yourself cheap, Laird, Sam Jackson,  (9 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.183">
+          <did>
+            <unitdate calendar="gregorian" era="ce">11/27/72 </unitdate>
+            <unittitle>Kleindienst 6 mo-  (TT H E), Scali &amp; HAK, Ambrose, Press Plan,  (2 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.184">
+          <did>
+            <unitdate calendar="gregorian" era="ce">11/27/82 </unitdate>
+            <unittitle>State restaff  (Aspen), Blacks  (TT/HAK/H/E), IRS, Sneed/Fay DAG, Nudge Douglas &amp; Marshall off, Rizzo, Cutler. / Clifford on blacklist, Bush - TT will particip. in staffing RNC,  (4 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.185">
+          <did>
+            <unitdate calendar="gregorian" era="ce">11/27/72 </unitdate>
+            <unittitle>Gray/ill/ok, FBI leaks  (TT/Kleindienst), FBI director  (H.E), Justice Dept., Mrs. LBJ urges Harzog, Holdovers, Goldwater-Amb. to Mex 2 years, K want to be TT?, Ambition - fat rich, Clifford out, Cutler finished, Rogers-$10 mil, K leave-resign 7/, DAG - K: not Ambrose,  (13 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.186">
+          <did>
+            <unitdate calendar="gregorian" era="ce">11/28/72 </unitdate>
+            <unittitle>Bureaucracy  (TT/Simon/E), IRS, Volelder, Cohen, Walker, Shultz, Don't be taken over by Wash. set, Foundations, Tax Reform, Tell Alexander, *Where to live-schools,  (7 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.187">
+          <did>
+            <unitdate calendar="gregorian" era="ce">11/28/72 </unitdate>
+            <unittitle>Impasse-DOJ cleanout  (TT/Kleindienst/E), Dole-RNC-wants to stay  (T/H/E), Kleindienst, Dent-Textiles, DOJ-Asst. A.G's, Dean asks help w/R.K.-,  (7 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.188">
+          <did>
+            <unitdate calendar="gregorian" era="ce">11/28/72 </unitdate>
+            <unittitle>Blacks, Ethnics  (TT/Lynn/E), Cabinet-Dept to TT, Model Cities-flush, Ivy League, Jews, Biz council/break, Rocky &amp; J.B.C.,  (4 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.189">
+          <did>
+            <unitdate calendar="gregorian" era="ce">11/29/72 </unitdate>
+            <unittitle>Southerners  (TT/Dent/Sh/E), Bix Council, Stans/P.P. weak, Commerce no longer puppet of B.C., "Biz people who stood up", Brennan, GM Wilson was right, W+P Controls-when they work, How to run commerce, The Team, For. Trade, Labor, Energy, Live in Country, Bush a prep classmate-P Flan also, Dean for DAG, Nixon Library-Hebert to Cal soon/Cushman help,  (12 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.190">
+          <did>
+            <unitdate calendar="gregorian" era="ce">11/30/72 </unitdate>
+            <unittitle>Blacks  (TT/E A/F one), Griswold/Bork, *Drop Ellsberg case, Gray-JNM can't send to senate, *E run energy from WH, Black southern Fed. judge,  (4 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.191">
+          <did>
+            <unitdate calendar="gregorian" era="ce">12/1/72 </unitdate>
+            <unittitle>Ivy League 1.7%, Clean up Gov't  (TT/Colson/H/E/), Give state to J.B.C.  (Key Biscayne), 5th Circuit, Defeated Senators: Allott, Miller, Chaffee, Jas Rhodes, Congress in new term - Blueprint, DOJ-Santarelli Wally Johnson-David's friend, P. Flan not HAK do ambassadors, Gray, Morton, Scali, Wash. Post. Scaife offer-suit 1,000 days, Colson's staff after Baroudy, Southerner on WH staff, AEI-change, Agnew-no fund raisers, JBC moven't/6 mo./so CC not RNC counsel, A new political party, New swimming pool,  (11 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.192">
+          <did>
+            <unitdate calendar="gregorian" era="ce">12/2/72 </unitdate>
+            <unittitle>Ambassadors - tell Rogers, HAK not ultra viries  (?!)  (TT/H/E), DOJ changes  (KB?), Webster/IRS, Rumsfeld/NATO/rankles, PP - No, R.N. Estate Plan, Herb Klein-trying to find a job, P. Flan, Sh fire IRS' Walters, Schlesinger on Intellig., Cabinet, Agnew on V. Nam, Congress, New Party, </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.193">
+
+          <did>
+            <unitdate calendar="gregorian" era="ce">12/4/72 mtg </unitdate>
+            <unittitle>Donny Nixon Jr.  (G I Straub)  (Cables-leaders),  (10 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.194">
+          <did>
+            <unitdate calendar="gregorian" era="ce">12/5/72 </unitdate>
+            <unittitle>Controls  (TT/Sh/E), Food Prices, PR of Inflation, Phase III, P. Peterson, Rinfret, Labor support, Rev. sharing $, sh to Mills / Long, Trade, Monetary, For. Economic issues, World Bank, Cut UN &#xBD;, P. Peterson, Mode of departure, Russian Gas Deal, JBC in, others out, Rumsfeld - mistake, Goals of PS  (?!) P P?!) trip,  (13 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.195">
+          <did>
+            <unitdate calendar="gregorian" era="ce">12/6/72 </unitdate>
+            <unittitle>Viet Nam Negotiations, HAK instructions  (TT/H/E)  (Aspen),  (3 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.196">
+          <did>
+            <unitdate calendar="gregorian" era="ce">12/7/72 5:30p. </unitdate>
+            <unittitle>Florida lots-Tricia, Sinatra - Bicentennial  (TT/H/E), Restaffing  (CD?), Viet Nam - HAK,  (3 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.197">
+          <did>
+            <unitdate calendar="gregorian" era="ce">12/7/72 1:30p </unitdate>
+            <unittitle>IRS Grievences, C Clifford never audited  (TT/Sh/Webster/E), Hating bureaucrats, Honesty, clean house, Pull files w/o Q-never improper, Sensitive Case Reps, E or Dean,  (4 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.198">
+          <did>
+            <unitdate calendar="gregorian" era="ce">12/7/72 9:30 am </unitdate>
+            <unittitle>P. Peterson, Rumsfeld  (TT E), Griswold  (Aspen), Sneed,  (3 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.199">
+          <did>
+            <unitdate calendar="gregorian" era="ce">12/7/72 </unitdate>
+            <unittitle>Georgia senate race, Herman Talmedge will deal  (TT/Campbell/E), Agric. bureauc. go  (Aspen), Weinberger conserv. Strategy, HUD dismantled, PR Plan-reorg., Finch-Hamlet, Krogh to Dot etc., *s/cr list - 2 Catholics, Morton temporary - Whitaker in, can't run anything, Interior restaff, Our men in the Depts, orderly control of Govt., Energy, OST - wither, LBJ - RN, Interior's problems,  (15 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.200">
+          <did>
+            <unitdate calendar="gregorian" era="ce">12/7/72 </unitdate>
+            <unittitle>Budget: Sale of Assets  (TT/sh/Weinberger), CIA - Schlesinger cuts  (Stein/Carlucci/Cole/E), Dod supplemental  (Aspen), Dod cuts, OEO - can't cut out-strategy, services, ABA - never WH, Decentralize, 250 bil., Gt. Soc. over, Unemp. 5.2%, Controls justified-, Jobs programs, ZPG, 10 year Plan, "Nations decline when births decline", Who is reproducing? Demographics, Energy &amp; populin projections, RIF, No exec. raises, space cuts, cuts, WH Staff-50% cut,  (19 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.201">
+          <did>
+            <unitdate calendar="gregorian" era="ce">12/8/72 10a </unitdate>
+            <unittitle>RN view of DOJ  (TT/Sneed/E), Ivy League-those frilly games  (Aspen), Keep some incompetent blacks, Wash. elite-most hated TT, Burger, Rhenquist, E's leftwingers, Kleindienst creature of DO J, Sneed-Texan-born pol, Recruiting for DO J, Sally Ann Payto 'on crt track' -,  (8 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.202">
+          <did>
+            <unitdate calendar="gregorian" era="ce">12/11/72 </unitdate>
+            <unittitle>Brenniger not a Catholic  (TT/H/E), wasting Krogh, Poor Cabinet, image, PP, Fresh Ideas, Criteria for Cabinet, Anne Armstrong, Georgetown influences-Disraeli &amp; Aristocracy, New N constituency-not suburbia, Only Brennan &amp; I come from working class, Borko &amp; Buchanens survive &amp; become "great nuts", Reagan, Movie for secys, Black women for S/ct, W/G &amp; Chapin, JNM failed, Dean Report-before Xmas-during for. peace action, Chapin leaving, Strachan-H defends, Statement soon-no one in WH but DC &amp; Strachan,  (8 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.203">
+          <did>
+            <unitdate calendar="gregorian" era="ce">12/13/72 </unitdate>
+            <unittitle>Tax/E pol/not Sh, RK note via RMW re/Gray  (TT/H/E), Ann Armstrong-Tokenism, Brenniger-mistake, Tokens, Pottinger,  (4 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.204">
+          <did>
+            <unitdate calendar="gregorian" era="ce">12/18/72 </unitdate>
+            <unittitle>Director for FBI, Gray pro &amp; con  (TT Kleindenst E), Matt Byrne, Felt the leak, Martha-"sick"-JNM could have prevented W/G, Hoover-no controversy, -died just in time, -the breakfast-strikeout, Football/blackout T.V.,  (5 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.205">
+          <did>
+            <unitdate calendar="gregorian" era="ce">12/18/72 </unitdate>
+            <unittitle>Restaff, secret service chgs.  (TT/H/E),  (4 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.206">
+          <did>
+            <unitdate calendar="gregorian" era="ce">1973 </unitdate>
+            <unittitle>Diary: 2/-4/,  (6 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.207">
+          <did>
+            <unitdate calendar="gregorian" era="ce">1/17/73 </unitdate>
+            <unittitle>Newbould Noye's letter to the TT,  (Missing pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.208">
+          <did>
+            <unitdate calendar="gregorian" era="ce">3/8/73 phone </unitdate>
+            <unittitle>during confirmation  (Pat Gray), Gray talks w/me re:, W/G,  (3 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.209">
+          <did>
+            <unitdate calendar="gregorian" era="ce">2/12/73 </unitdate>
+            <unittitle>Brennan, CC running DOL  (Sh ph), Appointees,  (2 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.210">
+          <did>
+            <unitdate calendar="gregorian" era="ce">2/19/73 </unitdate>
+            <unittitle>Pat Hill  (TT Ph), Belzano,  (2 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.211">
+          <did>
+            <unitdate calendar="gregorian" era="ce">3/28/73 </unitdate>
+            <unittitle>J.B. Connally, El Paso Gas case  (C ph), W/G,  (6 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.212">
+          <did>
+            <unitdate calendar="gregorian" era="ce">4/2/73 </unitdate>
+            <unittitle>Sam Ervin, phone conv. re committee leaks, secret mtgs.,  (Missing pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.213">
+          <did>
+            <unitdate calendar="gregorian" era="ce">4/6/73 </unitdate>
+            <unittitle>GRAY nomination w/drawn, innocent victim, broken man but not a POW for 7 years. It's all relative,  (1 page)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.214">
+          <did>
+            <unitdate calendar="gregorian" era="ce">4/11/73 </unitdate>
+            <unittitle>Civil settlements, Ervin Leak  (J.N. Mitchell phone),  (3 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.215">
+          <did>
+            <unitdate calendar="gregorian" era="ce">4/17/73 </unitdate>
+            <unittitle>W./G. Report to TT by E  (JE),  (8 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.216">
+          <did>
+            <unitdate calendar="gregorian" era="ce">4/19/73 </unitdate>
+            <unittitle>Tape/nb - TT &amp; Dk Moore,  (7 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.217">
+          <did>
+            <unitdate calendar="gregorian" era="ce">4/13/73 </unitdate>
+            <unittitle>Rules 2nd Mting  (Howard Baker phone), Ervin attacks on TT,  (Missing Contents pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.218">
+          <did>
+            <unitdate calendar="gregorian" era="ce">4/16/73 </unitdate>
+            <unittitle>re: committee's procedural rules  (Ervin/Baker phone),  (7 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.219">
+          <did>
+            <unitdate calendar="gregorian" era="ce">4/16/73 </unitdate>
+            <unittitle>Hunt &amp; Liddy  (Memo-Silbert to H. Petersen), broke in Ellsbergs psych.,  (1 page)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.220">
+          <did>
+            <unitdate calendar="gregorian" era="ce">4/20/73 </unitdate>
+            <unittitle>Macgruder-press  (C. Colson phone),  (5 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.221">
+          <did>
+            <unitdate calendar="gregorian" era="ce">4/23/73 </unitdate>
+            <unittitle>Colson-W/G, notes of mtg. w/CC,  (3 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.222">
+          <did>
+            <unitdate calendar="gregorian" era="ce">4/25/73 </unitdate>
+            <unittitle>Ziegler delivers the message:, H &amp; E must go  (Ziegler), Dispute re what JBC says  (H &amp; E),  (6 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.223">
+          <did>
+            <unitdate calendar="gregorian" era="ce">4/25/73 </unitdate>
+            <unittitle>What JBC said, LEAVE OF ABSENCE  (TT/H/E), JNM MAY LIE ABOUT E, ROGERS, H LISTEN TO TAPES OF TT/DEAN, Fire Dean-no immunity, Clemency, H Peterson-coddling Dean-wait, Leave for all,  (12 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.224">
+          <did>
+            <unitdate calendar="gregorian" era="ce">4/30/73 </unitdate>
+            <unittitle>Kleindienst resign, Richardson  (Phone-Ziegler), Dean, Mitchell 4/15 or 4/16, Colson 4/16 - Dean,  (8 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.225">
+          <did>
+            <unitdate calendar="gregorian" era="ce">5/2/73 </unitdate>
+            <unittitle>re Ellsberg break in -, Did I know sooner?  (TT/E), E-nod, TT: If so, I don't recall,  (3 pages)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.226">
+          <did>
+            <unitdate calendar="gregorian" era="ce">1963-1982 </unitdate>
+            <unittitle>Reports, statements, charts, military cables, memoranda and letters relating to General William Westmoreland, CBS, and enemy force estimates during the Vietnam war, </unittitle>
+          </did>
+        </c02>
+</c01>
+<c01 level="series" id="c01-2">
+	<did>
+        <unittitle>AUDIOVISUAL FILE, Appendix B - John Ehrlichman Media Tapes Dating from 1/30/71 to 7/30/78, </unittitle>
+          <container type="Box" label="Box: ">4-17</container>
+        </did>
+        <scopecontent>
+          <p>Audiotapes relating to Watergate, primarily recordings of news broadcasts. Arranged chronologically; see Appendix B for detailed box list  (prepared by the Archives of Artists of New Mexico and the Southwest).</p>
+        </scopecontent>
+        <c02 id="c02-1.7.6.3.2">
+          <did>
+            <container type="Box" label="Box: ">4</container>
+            <container type="tape">1</container>
+            <unittitle> "Impeachment", Mike Wallace/John Lofton/, Helen Thomas/Anthony Lewis/, Daniel Ellsberg:, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">Undated</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.3">
+          <did>
+            <container type="tape">2</container>
+            <unittitle>Judge John J. Sirica, TV Capsules, </unittitle>
+            <unitdate calendar="gregorian" era="ce">Undated</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.4">
+          <did>
+            <container type="tape">3</container>
+            <unittitle>Les Whitten, JE-DE NEW  (?!), </unittitle>
+            <unitdate calendar="gregorian" era="ce">Undated</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.5">
+          <did>
+            <container type="tape">4</container>
+            <unittitle>Side 1: Hunt/Dean Segs., Side 2: Sen. Frank Church on CIA, </unittitle>
+            <unitdate calendar="gregorian" era="ce">Undated</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.6">
+          <did>
+            <container type="tape">5</container>
+            <unittitle>The Cooney's and Guests, WMCA Radio  (Talk Show) on RN/Ford/Impeachment/etc., 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">Undated</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.7">
+          <did>
+            <container type="tape">6</container>
+            <unittitle>John Ehrlichman, CBS Radio - Washington Week, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1/30/71</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.8">
+          <did>
+            <container type="tape">7</container>
+            <unittitle>J. E., On CBS Television, </unittitle>
+            <unitdate calendar="gregorian" era="ce">4/29/71</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.9">
+          <did>
+            <container type="tape">8</container>
+            <unittitle>J. E., Watergate Hearings, Part Two/ABC and NET, </unittitle>
+            <unitdate calendar="gregorian" era="ce">7/24/73</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.10">
+          <did>
+            <container type="tape">9</container>
+            <unittitle>J. E., Television, CBS TV/NBC TV/ABC, Hearings: Start: NBC TV/NET TV, Side 2: J. E., CBS TV Special  (hour) 10 p.m., </unittitle>
+            <unitdate calendar="gregorian" era="ce">7/24/73</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.11">
+          <did>
+            <container type="tape">10</container>
+            <unittitle>J. E., "Hearings" NET/NBC TV - Comments: 2 p.m. start/recess, Side 2: J. E., "Hearings" Recess and End, Comments: NET/NBC TV, </unittitle>
+            <unitdate calendar="gregorian" era="ce">7/24/73</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.12">
+          <did>
+            <container type="tape">11</container>
+            <unittitle>J. E.  (Box 1), Side 1: Watergate Hearings  (Noon), Track 1: WNET, Track 3: CBS, Side 2: Track 1: NET TV, Track 3: CBS TV, </unittitle>
+            <unitdate calendar="gregorian" era="ce">7/24/73</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.14">
+          <did>
+            <container type="tape">12</container>
+            <unittitle>J. E.  (Box 2), Watergate Hearings, Track 1: NET, Track 3: Network, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">7/24-25/73</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.15">
+          <did>
+            <container type="tape">13</container>
+            <unittitle>J. E.  (Box 3), "Hearings"   (Final part), Side 2: CBS TV Special 10 p.m., TV News Capsules added, </unittitle>
+            <unitdate calendar="gregorian" era="ce">7/25/73-7/26/73</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.16">
+          <did>
+            <container type="tape">14</container>
+            <unittitle>J. E., "Hearings" Side 1: 2 p.m. start/recess, Side 2: NET/CBS TV Comments, "Recess" Ervin Interview/Aide Interview, </unittitle>
+            <unitdate calendar="gregorian" era="ce">7/25/73</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.17">
+          <did>
+            <container type="tape">15</container>
+            <unittitle>J. E., Watergate Hearings, Track 1: NET/Track 3: NET, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">7/25/73</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.18">
+          <did>
+            <container type="tape">16</container>
+            <unittitle>J. E., "Hearings" NET/CBS TV Comments:, Start/Noon......, Side 2: Attorney Wilson Comments, </unittitle>
+            <unitdate calendar="gregorian" era="ce">7/25/73</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.19">
+          <did>
+            <container type="Box" label="Box: ">5</container>
+            <container type="tape">17</container>
+            <unittitle>J. E., Watergate Hearings  (Part 2), 2 p.m. session, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">7/26/73</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.20">
+          <did>
+            <container type="tape">18</container>
+            <unittitle>J. E., "Hearings" 2 Sides - ABC/NET, </unittitle>
+            <unitdate calendar="gregorian" era="ce">7/26/73</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.21">
+          <did>
+            <container type="tape">19</container>
+            <unittitle>J. E., "Hearings" 2 Sides, Track 1 - NET, Track 3 - ABC, </unittitle>
+            <unitdate calendar="gregorian" era="ce">7/26/73</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.22">
+          <did>
+            <container type="tape">20</container>
+            <unittitle>J. E., Watergate Hearings, NET/ABC TV Comments, Start/Noon/Recess/End, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">7/26/73</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.23">
+          <did>
+            <container type="tape">21</container>
+            <unittitle>J. E., Watergate Hearings, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">7/27/73</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.24">
+          <did>
+            <container type="tape">22</container>
+            <unittitle>J. E., Watergate Hearings, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">7/27/73</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.25">
+          <did>
+            <container type="tape">23</container>
+            <unittitle>J. E., Watergate Hearings, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">7/27/73</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.26">
+          <did>
+            <container type="tape">24</container>
+            <unittitle>J. E.,  "Hearings" Comments: NET/NBC TV, 2 Sides  (Parts 1 and 2), </unittitle>
+            <unitdate calendar="gregorian" era="ce">7/27/73</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.27">
+          <did>
+            <container type="tape">25</container>
+            <unittitle>J. E., Watergate Hearings, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">7/27/73</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.28">
+          <did>
+            <container type="tape">26</container>
+            <unittitle>J. E., TV News Capsules, Side 2: "Washington Week Review", NET TV, RN/JE/Cambodia/etc., </unittitle>
+            <unitdate calendar="gregorian" era="ce">7/27/73-7/28/73</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.29">
+          <did>
+            <container type="tape">27</container>
+            <unittitle>J. E., "Hearings"  (Part 3) Comments by NET/NBC TV, Side 2: Author FBI Agent, Connors on RN/JE/etc., NBC Radio 8 to 9 p.m., </unittitle>
+            <unitdate calendar="gregorian" era="ce">7/27/73</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.30">
+          <did>
+            <container type="tape">28</container>
+            <unittitle>"Watergate" CBS TV Special 8 p.m., NBC TV Special 9 p.m., 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">7/27/73</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.31">
+          <did>
+            <container type="tape">29</container>
+            <unittitle>TV capsules, 2 sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">7/27-30/73</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.32">
+          <did>
+            <container type="tape">30</container>
+            <unittitle>J. E., "Hearings" NET/CBS TV Start/Noon/End, JE Interview, 2 Sides,  (Network TV News Comments on JE at end of Side 2), </unittitle>
+            <unitdate calendar="gregorian" era="ce">7/30/73</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.33">
+          <did>
+            <container type="tape">31</container>
+            <unittitle>J. E., Watergate Hearings, Part One: NET and Network, Track 1: NET/Track 3: Network, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">7/30/73</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.34">
+          <did>
+            <container type="tape">32</container>
+            <unittitle>J. E., Watergate Hearings, Part 3/NET and Network, Side 2: H. R. H., </unittitle>
+            <unitdate calendar="gregorian" era="ce">7/30/73</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.35">
+          <did>
+            <container type="Box" label="Box: ">6</container>
+            <container type="tape">33</container>
+            <unittitle>J. E./H. R. H., Watergate Hearings, NOTE: Final part of HRH is midway on Side 2, Track 3/after Network discussion</unittitle>
+            <unitdate calendar="gregorian" era="ce">7/30/73</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.36">
+          <did>
+            <container type="tape">34</container>
+            <unittitle> "The Advocates" "Should the President Be Impeached"
+           , NET TV, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">12/9/73</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.37">
+          <did>
+            <container type="tape">35</container>
+            <unittitle>Side 1: Lowell Weicker, ABC TV, Side 2: TV News Capsules on RN - Taxes, </unittitle>
+            <unitdate calendar="gregorian" era="ce">12/9/73</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.38">
+          <did>
+            <container type="tape">36</container>
+            <unittitle>WPIX TV on Juror/Debate, 10 p.m., </unittitle>
+            <unitdate calendar="gregorian" era="ce">1/2/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.39">
+          <did>
+            <container type="tape">37</container>
+            <unittitle>Side 1: G. Gordon Liddy, "60 Minutes" Side 2: NBC TV Report '74-75, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1/5/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.40">
+          <did>
+            <container type="tape">38</container>
+            <unittitle>TV capsules, 2 sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1/11-15/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.41">
+          <did>
+            <container type="tape">39</container>
+            <unittitle>Egil Korgh, "60 Minutes "and other TV News from 1/24-25/74, 2 Sides,</unittitle>
+            <unitdate calendar="gregorian" era="ce">1/27/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.42">
+          <did>
+            <container type="tape">40</container>
+            <unittitle>Side 1: TV capsules, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1/29/74-1/28/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.43">
+          <did>
+            <container type="tape">41</container>
+            <unittitle>Grand Jury Indictments, TV News Capsules/Specials, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">3/1/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.44">
+          <did>
+            <container type="tape">42</container>
+            <unittitle>TV Capsules, RN/Vesco/JM/Chapin/etc., Wilbur Mills Interview, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">3/1/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.45">
+          <did>
+            <container type="tape">43</container>
+            <unittitle>Side 1: TV Capsules, 3/2/74, Side 2: TV Capsules, 3/3/74</unittitle>
+            <unitdate calendar="gregorian" era="ce">3/2/74-3/3/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.46">
+          <did>
+            <container type="tape">44</container>
+            <unittitle>TV Capsules, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">3/4/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.47">
+          <did>
+            <container type="tape">45</container>
+            <unittitle>TV Sound Capsules - Side 1, 3/5/74 TV Sound Capsules - Side 2, 3/6/74</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.48">
+          <did>
+            <container type="tape">46</container>
+            <unittitle>President Richard M. Nixon's Press Conference, Comments on Side 2, </unittitle>
+            <unitdate calendar="gregorian" era="ce">3/6/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.49">
+          <did>
+            <container type="tape">47</container>
+            <unittitle>Side 1: Radio WMCA Bob Grant talks with Anthony Lewis of New York Times, CBS TV a.m. Panel Discussion, Metromedia/WPIX RV, Side 2: TV Capsules, CBS TV/ABC TV/NBC TV Networks, a.m. TV: Douglas - Voorhees/Govs, </unittitle>
+            <unitdate calendar="gregorian" era="ce">3/7/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.50">
+          <did>
+            <container type="tape">48</container>
+            <unittitle>Side 1: "Washington Week Review", 3/8/74 NET TV, Side 2: TV Capsules, "60 Minutes" Kilpatrick - von Hoffman on RN Aides, 3/9/74</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.51">
+          <did>
+            <container type="Box" label="Box: ">7</container>
+            <container type="tape">49</container>
+            <unittitle>J. E., TV: 3/11, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">3/11/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.52">
+          <did>
+            <container type="tape">50</container>
+            <unittitle>J. E., TV Capsules, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">3/12-13/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.53">
+          <did>
+            <container type="tape">51</container>
+            <unittitle>Side 1: Vice President Ford, CBS TV a.m. Interview on RN and News spots, Side 2: Networks:, Ford/Julie/Cubans/JM/Woods: CBS, Ford - HK/Mills/Shultz/RN/Cubans/JM/JC: ABC, Bebe/Woods/Cubans/RN/House/JM/Pat: NBC, </unittitle>
+            <unitdate calendar="gregorian" era="ce">3/14/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.54">
+          <did>
+            <container type="tape">52</container>
+            <unittitle>Side 1: Schoumacher AB Radio, Side 2: WMCA Phones/RN at '01 Opry', </unittitle>
+            <unitdate calendar="gregorian" era="ce">3/17/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.55">
+          <did>
+            <container type="tape">53</container>
+            <unittitle>Sirica/JM/RN/Buchanan, TV Capsules, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">3/18/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.56">
+          <did>
+            <container type="tape">54</container>
+            <unittitle>President Richard M. Nixon, NAB Press Conference, Houston, Texas, Side 2: Comments, </unittitle>
+            <unitdate calendar="gregorian" era="ce">3/19/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.57">
+          <did>
+            <container type="tape">55</container>
+            <unittitle>Side 1: TV networks, Side 2: Buckley statement/and a.m. TV, </unittitle>
+            <unitdate calendar="gregorian" era="ce">3/19/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.58">
+          <did>
+            <container type="tape">56</container>
+            <unittitle>TV Capsules, Side 1: Roy Cohn on NET for RN and news capsules added, Side 2: RN/House/JE/JM/Bebe/etc., </unittitle>
+            <unitdate calendar="gregorian" era="ce">3/20-21/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.59">
+          <did>
+            <container type="tape">57</container>
+            <unittitle>Side 1: Howard Baker "Issues", 3/24/74, "Washington Week in Review "NET, 3/22/74, TV News Capsules, 3/22/74, Side 2: TV News Capsules, Conyers/Wilson/Appeal/Albert/Bebe/, ABA Smith Interview/Halpern Tap/RN/, GSA/CBS Radio "Washington Week"/etc., </unittitle>
+            <unitdate calendar="gregorian" era="ce">3/22-24/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.60">
+          <did>
+            <container type="tape">58</container>
+            <unittitle>2 Sides: Carl Albert NET TV, Side 2: Interview, </unittitle>
+            <unitdate calendar="gregorian" era="ce">3/25/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.61">
+          <did>
+            <container type="tape">59</container>
+            <unittitle>TV Capsules March 26, '74, Grand Jury Report/JM-Dean/, Court/oil-CBS/ABC/and NBC TV, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">3/26/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.62">
+          <did>
+            <container type="tape">60</container>
+            <unittitle>Side 1: NET TV "Behind the Lines", The Media and the Presidency, Side 2: TV Capsules, </unittitle>
+            <unitdate calendar="gregorian" era="ce">3/28/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.63">
+          <did>
+            <container type="tape">61</container>
+            <unittitle>Side 1: TV, 3/30/74; CBS:  (Rather) Ford/GOP/Percy/HK, RN - Taxes/Schorr on IRS Mail - RN/, JE/RN - Welfare/Zumwatt/Migrants/P, Energy/Dems, NBC: HK Weds/HK/Ford/RN - Taxes/, Butz/Beef/RN - Hearst, ABC: Reasoner Report: "Arabs", Radio: RN - Taxes/JE/Percy/JE/Taxes/, Dems/HK/Dems/Ford/Dayan/Sadat/HK/, Ford/Taxes/Ford/JE/Jessup/HK/HK, Side 2: "Washington Week Review", NET TV: Discussing HK/RN - Jaworski/, 3/29/74; Congress/HHH/Milk, HHH Interview "Today"/a.m. TV News, TV News segments on Networks for March 29th, '74, 7 p.m., </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.64">
+          <did>
+            <container type="tape">62</container>
+            <unittitle>Side 1: Wilbur Mills "Issues""World This Week "CBS, 4/7/74; Side 2: "Washington Week in Review "NET, 4/5/74</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.65">
+          <did>
+            <container type="tape">63</container>
+            <unittitle>Side 1: "Merv "TV, Frank Mankiewicz/Herb Klein/Father, McLaughlin Guests on RN, Side 2: IRS Alexander on Meet Press, Rep. John Rhodes on "Face Nation", Nobelsville on RB/von H-Kilpatrick/Bebe, </unittitle>
+            <unitdate calendar="gregorian" era="ce">4/6/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.66">
+          <did>
+            <container type="tape">64</container>
+            <unittitle>Side 1: TV Capsules, 4/9/74; Side 2: Lowell Weicker Testimony and News Capsules/JE, 4/8/74</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.67">
+          <did>
+            <container type="Box" label="Box: ">8</container>
+            <container type="tape">65</container>
+            <unittitle>TV Capsules, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">4/10/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.68">
+          <did>
+            <container type="tape">66</container>
+            <unittitle>Side 1: TV capsules, Side 2: Helen Thomas/McClendon, </unittitle>
+            <unitdate calendar="gregorian" era="ce">4/15/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.69">
+          <did>
+            <container type="tape">67</container>
+            <unittitle>J. E., Side 1: TV Capsules: 4/17, Side 2: TV Capsules: 4/16, </unittitle>
+            <unitdate calendar="gregorian" era="ce">4/16/74-4/17/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.70">
+          <did>
+            <container type="tape">68</container>
+            <unittitle>TV capsules, 2 sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">4/22/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.71">
+          <did>
+            <container type="tape">69</container>
+            <unittitle>TV Sound Capsules, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">4/23-24/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.72">
+          <did>
+            <container type="tape">70</container>
+            <unittitle>Side 1: President Richard M. Nixon talk Comments: CBS TV/ABC TV/NBC TV CBS Radio Rangel/Julie, 4/29/74; Side 2: Comments: NET TV-Rewhitt-Hess/ Railsback; WBAI FM/WINS Radio/ Schoenbrun comment, </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.73">
+          <did>
+            <container type="tape">71</container>
+            <unittitle> "The Day After the President's Talk on the Transcripts" 2 sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">4/30/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.74">
+          <did>
+            <container type="tape">72</container>
+            <unittitle>Presidential Transcript  (2nd day after), 2 sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">5/1/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.75">
+          <did>
+            <container type="tape">73</container>
+            <unittitle>Transcripts.....News, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">5/2-3/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.76">
+          <did>
+            <container type="tape">74</container>
+            <unittitle>Side 1: NET TV, 5/3/74; "Washington Week in Review" Nets: CBS: TV News, Side 2: CBS TV Continued:, ABC TV/NBC TV:, Carson "Raps "RN, Radio, 5/4/74</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.77">
+          <did>
+            <container type="tape">75</container>
+            <unittitle>Side 1: "Oil "JE/ABC TV; "Face Nation "James St. Clair; "Issues "Alexander Haig; Steward Alsop "Bob Grant "Radio, Side 2: "Impeachment "WMCA Radio; JM-Stans trial report; Reps. Smith and Fish on RN, </unittitle>
+            <unitdate calendar="gregorian" era="ce">5/5/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.78">
+          <did>
+            <container type="tape">76</container>
+            <unittitle>Side 1 and 2: TV Capsules, </unittitle>
+            <unitdate calendar="gregorian" era="ce">5/6/74-5/7/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.79">
+          <did>
+            <container type="tape">77</container>
+            <unittitle>Tapes/Transcripts, Side 1: TV Capsules, Side 2: "Impeachment "NET TV, "Straight Talk "Sen. Ted Kennedy, </unittitle>
+            <unitdate calendar="gregorian" era="ce">5/8/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.80">
+          <did>
+            <container type="tape">78</container>
+            <unittitle>Side 1: Alger Hiss Interview NET TV, Side 2: CBS TV/ABC TV Commentaries on Judiciary Session #1  (Live), </unittitle>
+            <unitdate calendar="gregorian" era="ce">5/8/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.81">
+          <did>
+            <container type="tape">79</container>
+            <unittitle>Side 1: Jack Anderson/Carson, TV News: Metromedia/WPIX, Dr. McLaughlin - Bob Grant phone call, a.m. TV, Side 2: TV Capsules CBS/ABC, Judiciary Live NBC Session #1, </unittitle>
+            <unitdate calendar="gregorian" era="ce">5/9/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.82">
+          <did>
+            <container type="tape">80</container>
+            <unittitle>TV/Radio capsules, Transcripts/RN - Box #1, </unittitle>
+            <unitdate calendar="gregorian" era="ce">5/10-11/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.83">
+          <did>
+            <container type="Box" label="Box: ">9</container>
+            <container type="tape">81</container>
+            <unittitle>Side 1: E. Howard Hunt/Buckley, Side 2: "Washington Week in Review "NET Box #2, </unittitle>
+            <unitdate calendar="gregorian" era="ce">5/12/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.84">
+          <did>
+            <container type="tape">82</container>
+            <unittitle>RN/Transcripts, etc., TV Capsules: May 13th, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">5/13/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.85">
+          <did>
+            <container type="tape">83</container>
+            <unittitle>TV capsules, RN/transcripts, </unittitle>
+            <unitdate calendar="gregorian" era="ce">5/14/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.86">
+          <did>
+            <container type="tape">84</container>
+            <unittitle>Side 1: TV Capsules  (Nets), 5/15/74; RN/House/Tapes, 1974 RN/House/Tapes, 5/16/74; Side 2: a.m. TV, 5/17/74; Judiciary/RN/JE/Bebe/etc., a.m. TV RN/Tapes/House, 5/15/74; Robert Strauss "Straight Talk", NET TV, </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.87">
+          <did>
+            <container type="tape">85</container>
+            <unittitle>RN/Transcripts, etc., TV Coverages, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">5/17/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.88">
+          <did>
+            <container type="tape">86</container>
+            <unittitle>RN/House/Sirica/J, RN Radio Talk/Rodino Interview NET TV, 2 Sides,</unittitle>
+            <unitdate calendar="gregorian" era="ce">5/20/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.89">
+          <did>
+            <container type="tape">87</container>
+            <unittitle>TV capsules, RN/House, </unittitle>
+            <unitdate calendar="gregorian" era="ce">5/21-22/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.90">
+          <did>
+            <container type="tape">88</container>
+            <unittitle>Side 1: Korff-others "51st State "NET TV, WPIX: RN tapes/Doar; Metro: HK/Abend-Riesel on Mideast/RN; Doar/McL/RN/EK/McCord/McL/HK, Side 2: Ted Koppel on Barry Gray discuss HK Nets: CBS/NBC/ABC on RN-tapes/House, </unittitle>
+            <unitdate calendar="gregorian" era="ce">5/23/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.91">
+          <did>
+            <container type="tape">89</container>
+            <unittitle>Side 1: Sen. Byrd "Face", 5/26/74; ABC Smith "Meet Press", a.m. TV, 5/27/74; Side 2: Washington Week Review/NET TV, 5/24/74; a.m.: Duke/Rather/RN/Saxbe/RN/, Perspective on Ford/H/Duke/K-von H./, Burns/RN/Byrd/Poll/etc., </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.92">
+          <did>
+            <container type="tape">90</container>
+            <unittitle>TV capsules, Side 1: 5/27-28, Side 2: Barry Gray Radio, </unittitle>
+            <unitdate calendar="gregorian" era="ce">5/28</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.93">
+          <did>
+            <container type="tape">91</container>
+            <unittitle>Side 1: Riesel-Abend on K's-RN, 5/29/74; TV Capsules, Side 2: Greenspan/Snyder "Tomorrow "NBC and TV Capsules, 5/30/74</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.94">
+          <did>
+            <container type="tape">92</container>
+            <unittitle>TV Capsules, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">5/31-6/2/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.95">
+          <did>
+            <container type="tape">93</container>
+            <unittitle>TV Capsules, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">6/3/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.96">
+          <did>
+            <container type="tape">94</container>
+            <unittitle>TV Capsules, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">6/4/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.97">
+          <did>
+            <container type="tape">95</container>
+            <unittitle>TV Capsules, 6/5/74; Side 1, Side 2, </unittitle>
+            <unitdate calendar="gregorian" era="ce">6/6/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.98">
+          <did>
+            <container type="tape">96</container>
+            <unittitle>TV Capsules, Networks/Gesell/JE/RN House/etc., Side 2: "Washington Week Review", 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">6/7/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.99">
+          <did>
+            <container type="Box" label="Box: ">10</container>
+            <container type="tape">97</container>
+            <unittitle>RN Departs on Mideast Tour, JE/Gesell/etc., 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">6/10/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.100">
+          <did>
+            <container type="tape">98</container>
+            <unittitle>TV Sound Capsules, RN-Cairo/JE/HK/etc., </unittitle>
+            <unitdate calendar="gregorian" era="ce">6/11-12/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.101">
+          <did>
+            <container type="tape">99</container>
+            <unittitle>President in Egypt/and other news, Side 1: TV capsules, Side 2: Jeb Magruder with Dick Cavett, </unittitle>
+            <unitdate calendar="gregorian" era="ce">6/13/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.102">
+          <did>
+            <container type="tape">100</container>
+            <unittitle>Side 1: TV Capsules, RN-Mideast/House/JE/HK/etc., Side 2: "Washington Week Review", and a.m. TV, JE, etc., </unittitle>
+            <unitdate calendar="gregorian" era="ce">6/14/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.103">
+          <did>
+            <container type="tape">101</container>
+            <unittitle>TV Capsules, Woodward and Bernstein Interview, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">6/18-19/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.104">
+          <did>
+            <container type="tape">102</container>
+            <unittitle>TV Capsules, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">6/21-23/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.105">
+          <did>
+            <container type="tape">103</container>
+            <unittitle>Side 1: TV Capsules  (Nets), RN-Brussels/HJ/HK/JE/Mideast;, Side 2: TV a.m. RN Brussels/House/etc., </unittitle>
+            <unitdate calendar="gregorian" era="ce">6/26/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.106">
+          <did>
+            <container type="tape">104</container>
+            <unittitle>Side 1: TV, RN Arrival in Moscow NBC/ABC Live, Mike Mansfield Interview;, Side 2: a.m. TV CBS etc.: RN/House, JE/etc., </unittitle>
+            <unitdate calendar="gregorian" era="ce">6/27/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.107">
+          <did>
+            <container type="tape">105</container>
+            <unittitle>J. E., 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">6/25-28/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.108">
+          <did>
+            <container type="tape">106</container>
+            <unittitle>Side 1: "Update "Watergate," "Washington Week in Review "NET TV, RN News Capsules, Side 2: John McLaughlin ABC TV, Marchetti/CIA "Today", TV News Capsules, </unittitle>
+            <unitdate calendar="gregorian" era="ce">6/28/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.109">
+          <did>
+            <container type="tape">107</container>
+            <unittitle>TV Capsules, Colson "Today "Interview added, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">6/30-7/3/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.110">
+          <did>
+            <container type="tape">108</container>
+            <unittitle>Side 1: JE-TV, 7/3/74; a.m. and p.m., 7/4/74; Colson-"Today", 7/5/74; Side 2: Colson  (Part Two), 7/5/74; "Washington Week Review "NET, </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.111">
+          <did>
+            <container type="tape">109</container>
+            <unittitle>TV Capsules, JE/RN/Colson Interviews, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">7/8-9/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.112">
+          <did>
+            <container type="tape">110</container>
+            <unittitle>Side 1: TV Capsules, 7/10/74; Side 2: TV Composite, 7/11/74 etc., </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.113">
+          <did>
+            <container type="tape">111</container>
+            <unittitle>TV Capsules, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">7/12/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.114">
+          <did>
+            <container type="tape">112</container>
+            <unittitle>Side 1: TV, 7/13/74; CBS: Watergate Report/JE/RN Ford, NBC: RN/Watergate Report/, "Washington Week "CBS Radio, Side 2: Face the Nation, Lowell Weicker - Guest, CBS TV, 7/14/74</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.115">
+          <did>
+            <container type="Box" label="Box: ">11</container>
+            <container type="tape">113</container>
+            <unittitle>"Sunday "NBC TV, Woodward-Bernstein, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">7/14/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.116">
+          <did>
+            <container type="tape">114</container>
+            <unittitle>Woodward and Bernstein with William F. Buckley, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">7/14/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.117">
+          <did>
+            <container type="tape">115</container>
+            <unittitle>Side 1: JE, Side 2: "Tomorrow "Jarrell/Brocaw, Interviews on RN, </unittitle>
+            <unitdate calendar="gregorian" era="ce">7/15-16/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.118">
+          <did>
+            <container type="tape">116</container>
+            <unittitle>TV Capsules, RN/JE/St. Clair/Tape/etc., </unittitle>
+            <unitdate calendar="gregorian" era="ce">7/18/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.119">
+          <did>
+            <container type="tape">117</container>
+            <unittitle>Side 1: Ken Clawson "Tomorrow", 7/18/74; CBS TV Special "Impeachment", 7/18/74; Side 2: NET TV Special/Panel, 7/18/74; Korff "Today "and CBS TV a.m., 7/18/74</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.120">
+          <did>
+            <container type="tape">118</container>
+            <unittitle>Side 1: Track, 7/19/74; TV: CBS: Doar/RN/Cyprus:, ABC and NBC also., Side 2: "Washington Week Review", TV, 7/20/74; CBS: House/C/Doar/Z/Tapes, NBC: C/Doar/Tapes-RN/Ford/etc., </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.121">
+          <did>
+            <container type="tape">119</container>
+            <unittitle>Side 1: James McCord "Tomorrow "NBC TV, Side 2: TV News: Hogan-Burch/etc., </unittitle>
+            <unitdate calendar="gregorian" era="ce">7/23/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.122">
+          <did>
+            <container type="tape">120</container>
+            <unittitle>TV Capsules, Court Decision/St. Clair Statement, House/Comments 3 Nets at 7 p.m.:, and a.m. TV, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">7/24/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.123">
+          <did>
+            <container type="tape">121</container>
+            <unittitle>Side 1: TV; Theodore White/Latta interviews: News: NBC: House/ St. Clair/House/Miller/RN/Pro RN/ Tower-Brooke interviews; CBS: House/Ford/Hart comment/House/, Side 2: Reports on court decision. a.m. TV RN/Galbraith interview/House: NET-CBS comments on House hearings; Maraziti and Latta live talks, </unittitle>
+            <unitdate calendar="gregorian" era="ce">7/25/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.124">
+          <did>
+            <container type="tape">122</container>
+            <unittitle>TV capsules: Court/House/Jaworski/Sirica/ Impeach RN/L.A. Talk/comments, </unittitle>
+            <unitdate calendar="gregorian" era="ce">7/25/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.125">
+          <did>
+            <container type="tape">123</container>
+            <unittitle>Side 1: TV, 7/26/74; CBS: House/Sirica/RN/Poll/, Sevareid on RN, NBC: House/Poll/Ford/Sirica, ABC: House/Ford/Sirica/Smith-RN:, House Hearings Comments, 7/27/74; Side 2: NET/ABC TV Comments on Saturday, House Hearings:, Live Vote on Article 1:, CBS TV: Cronkite/Sevareid/Mudd, </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.126">
+          <did>
+            <container type="tape">124</container>
+            <unittitle>Side 1: Rep. Thornton-Butler, 7/28/74; On Face the Nation, "Meet Press "Chas. Black Prof. on Court-RN, Rep./Railsback Interview Today, 7/26/74; Charles Sandman Today, a.m. CBS TV: House/Baker/Court, Side 2: "Newsmaker "CBS TV, 7/28/74; Sen. Jacob Javits, "Issues "Sen. Robert Byrd, a.m. TV RN $/House, 7/26/74</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.127">
+          <did>
+            <container type="tape">125</container>
+            <unittitle>TV Capsules, Networks/a.m. TV/ABA Smith Interview/etc., 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">7/29/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.128">
+          <did>
+            <container type="tape">126</container>
+            <unittitle>Side 1: TV Capsules, CBS: House/Rhodes/Tapes/etc., ABC: House/RN-Tapes/HP/Reasoner Says, NBC: House/RN-Tapes/Dems. Brinkley Says, Interviews: Byrd/Sandman/Wiggins, Side 2: House Windup/NBC/NET Comments, a.m. TV: McClery/House/Ford/RN/JC/Ford/, Hart on Impeachment, PUX: House/Tapes/House, Metromedia: House/Abend on RN, </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.129">
+          <did>
+            <container type="tape">127</container>
+            <unittitle>TV Capsules, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">7/31/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.130">
+          <did>
+            <container type="tape">128</container>
+            <unittitle>Side 2: JE/House/RN/Tapes/Koroff/, Ford/Goldwater/House Interviews/Vox Pop RN, Side 1: TV Capsules, CBS: House/RN/Morton/Butterfield/S/C, ABC: RN/JC/Inflation/Smith, NBC: House/RN/Poll/Arends/Ford/JC/$, a.m. TV: House/RN/Pat B./ Burger/JE/JC/HJ, Dole Interviews on "Today"/RN, CBS: House/Montoya/Ford/Tapes/Senate/Burger, Javits Interview: BG/Wallace/Hogan/House/, Fish Jr./Rhodes, </unittitle>
+            <unitdate calendar="gregorian" era="ce">8/1/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.131">
+          <did>
+            <container type="Box" label="Box: ">12</container>
+            <container type="tape">129</container>
+            <unittitle>Side 1: TV Capsules, CBS: Dean/Tapes/RN/COL./C, NBC: Dean/Tapes/HHH/COL./Mideast, ABC: Dean/Tapes/RN/House/RN/Rhodes, COL/HHH/Railsback-Mezvinsky/R/, a.m. TV: House/Dean/RN/RN/Vox/, Russell Train Interview, CBS: Dean/House/Senate/RN, Side 2: "Washington Week in Review", Discuss: RN-House-Rhodes/Senate/Cyprus/Greece, a.m. TV: Detoledano-Braden on RN/$/Hart/RN/, Jordan/Dean/COL/Japan, ABX: RN/Metro: Dean/WPIX/Dean/RN/$/Meany/, Dean/Grant on RN/RN/HHH on RN, </unittitle>
+            <unitdate calendar="gregorian" era="ce">8/2/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.132">
+          <did>
+            <container type="tape">130</container>
+            <unittitle>TV/Radio, CBS: Ford/House/RN, NBC: RN/Ford/MM/Hogan, "Washington Week "CBS Radio, Reasoner: Impeachment Politics, WMCA phones/McCourt/Grant on RN, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">8/3/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.133">
+          <did>
+            <container type="tape">131</container>
+            <unittitle>TV Capsules, News on RN/von Hoffman-Kilpatrick, Washington Post-Bradlee, Grahm....World This Week/Rush on Kup's Show, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">8/4/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.134">
+          <did>
+            <container type="tape">132</container>
+            <unittitle>a.m. TV, Pest/RN/Tapes/Allen Interview/Paris on RN, RN/Rhodes/RN/Ford/Hart-Kempton on RN tapes/, Rules/Tokyo-London/Sandman, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">8/5/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.135">
+          <did>
+            <container type="tape">133</container>
+            <unittitle>RN Flash/Statement/Networks, Radio-TV-Interviews, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">8/5/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.136">
+          <did>
+            <container type="tape">134</container>
+            <unittitle>TV capsules, </unittitle>
+            <unitdate calendar="gregorian" era="ce">8/7/74</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.137">
+          <did>
+            <container type="tape">135</container>
+            <unittitle>TV capsules, Side 1: Networks on RN, Side 2: President Nixon's talks, </unittitle>
+            <unitdate calendar="gregorian" era="ce">8/8/74</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.138">
+          <did>
+            <container type="tape">136</container>
+            <unittitle>Side 1: TV news: RN/Ford/comments, Side 2: CBS TV special RN-Ford; "Washington Week in Review "NET RN-Ford, </unittitle>
+            <unitdate calendar="gregorian" era="ce">8/9/74</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.139">
+          <did>
+            <container type="tape">137</container>
+            <unittitle>TV capsules: JE/RN/Ford, 2 sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">8/12/74</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.140">
+          <did>
+            <container type="tape">138</container>
+            <unittitle>Side 1: Ford's press conference, Side 2: TV news, </unittitle>
+            <unitdate calendar="gregorian" era="ce">8/28/74</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.141">
+          <did>
+            <container type="tape">139</container>
+            <unittitle>TV Capsules, Ford/RN/JE, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">9/10/74</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.142">
+          <did>
+            <container type="tape">140</container>
+            <unittitle>JOHN EHRLICHMAN, ----Trial----, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">10/1-21/74</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.143">
+          <did>
+            <container type="tape">141</container>
+            <unittitle>J. E., -----Trial-----, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">10/18-11/8/74</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.144">
+          <did>
+            <container type="tape">142</container>
+            <unittitle>J. E., 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">11/11-26/74</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.145">
+          <did>
+            <container type="tape">143</container>
+            <unittitle>J. E., 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">11/27-12/6/74</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.146">
+          <did>
+            <container type="tape">144</container>
+            <unittitle> "Verdict" TV-Radio Capsules, 2 Sides,  (Box #1), </unittitle>
+            <unitdate calendar="gregorian" era="ce">12/1/74</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.147">
+
+          <did>
+            <container type="Box" label="Box: ">13</container>
+            <container type="tape">145</container>
+            <unittitle>J. E., -----Trial-----, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">12/9-27/74</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.148">
+          <did>
+            <container type="tape">146</container>
+            <unittitle> "Verdict" Side 1: JOHN EHRLICHMAN "Today", Interview,  (Box #2), </unittitle>
+            <unitdate calendar="gregorian" era="ce">1/1-2/75</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.149">
+          <did>
+            <container type="tape">147</container>
+            <unittitle> "Verdict," "Washington Week Review "NET, Agronsky and Company NET, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1/2-4/75</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.150">
+          <did>
+            <container type="tape">148</container>
+            <unittitle>Judge John J. Sirica, TV Capsules: "Release", </unittitle>
+            <unitdate calendar="gregorian" era="ce">1/8/75</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.151">
+          <did>
+            <container type="tape">149</container>
+            <unittitle> "Sirica" TV, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1/9/75</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.152">
+          <did>
+            <container type="tape">150</container>
+            <unittitle>Side 1: Sirica, 1/10-11/75; Side 2: Magruder "Face Nation", 1/12/75</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.153">
+          <did>
+            <container type="tape">151</container>
+            <unittitle>Side 1: "Roundtable "CIA, Side 2: Dean/Magruder....., </unittitle>
+            <unitdate calendar="gregorian" era="ce">1/15-16/75</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.154">
+          <did>
+            <container type="tape">152</container>
+            <unittitle>Javits, 1/19/75; CIA/FBI, 1/20/75</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.155">
+          <did>
+            <container type="tape">153</container>
+            <unittitle>Side 1: CIA/Agee "Tomorrow", 1/29/75; Jack Anderson/CIA, Side 2: Magruder's "Tomorrow", 1/28/75, etc. </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.156">
+          <did>
+            <container type="tape">154</container>
+            <unittitle>Side 1: Watergate Jury/Mike Douglas, CIA etc......, Roundtable "Jews in American Politics", Side 2: "CIA "Tomorrow NBC TV, </unittitle>
+            <unitdate calendar="gregorian" era="ce">2/6/75</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.157">
+          <did>
+            <container type="tape">155</container>
+            <unittitle>Charles Colson, TV Capsules, Ron Ziegler Interview, </unittitle>
+            <unitdate calendar="gregorian" era="ce">2/7/75</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.158">
+          <did>
+            <container type="tape">156</container>
+            <unittitle>Side 1: Jack Anderson/Gregory NET, Side 2: Magruder's/Mike Douglas, </unittitle>
+            <unitdate calendar="gregorian" era="ce">2/11/75</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.159">
+          <did>
+            <container type="tape">157</container>
+            <unittitle>Judge John J. Sirica, Watergate Sentencing, </unittitle>
+            <unitdate calendar="gregorian" era="ce">2/21/75</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.160">
+          <did>
+            <container type="tape">158</container>
+            <unittitle>JOHN EHRLICHMAN, TV Capsules, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">2/23-24/75</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.161">
+          <did>
+            <container type="tape">159</container>
+            <unittitle>Side 1: Jaworski on RN "Kup's", 3/7/75; Dick Gregory/Rivera, Side 2: William Safire NET TV, 3/6/75; Roundtable, Bella-CIA, Bill Safire on "Today", 2/28/75; CIA Reports, </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.162">
+          <did>
+            <container type="tape">160</container>
+            <unittitle>HRH, 3/23-30/75; With Mike Wallace, and "Behind the Lines "on JE HRH, 4/2/75; 2 Sides, </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.163">
+          <did>
+            <container type="Box" label="Box: ">14</container>
+            <container type="tape">161</container>
+            <unittitle>Side 1: Theodore White/Tom Snyder, 6/18/75 "Tomorrow "NBC TV 1 a.m., Kevin Phillips-Jeb Magruder a.m. TV, 6/17/75 Side 2: Jack Anderson Interview, a.m. America/ABC TV, 6/18/75 Watergate:, 6/17/75 Henry Kissinger Press Conference PBS:, NET TV, </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.164">
+          <did>
+            <container type="tape">162</container>
+            <unittitle>Interview with Leon Jaworski, </unittitle>
+            <unitdate calendar="gregorian" era="ce">ca. 1976</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.165">
+          <did>
+            <container type="tape">163</container>
+            <unittitle>Side 1: John Ehrlichman "Today "NBC TV;, 6/6-7/76 "Meet the Press; "Tom Snyder comment on JE/NBC &amp; Simon &amp; Shuster, 5/24/76 Side 2: John Ehrlichman ABC TV, 6/10/76</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.166">
+          <did>
+            <container type="tape">164</container>
+            <unittitle>John Ehrlichman, Side 1: WMCA radio, 6/8/76; Side 2: WOR TV "Straight Talk", 6/9/76</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.167">
+          <did>
+            <container type="tape">165</container>
+            <unittitle>John Ehrlichman, Side 1: Pia/NBC TV; Martin Gabel WOR radio, Side 2: Spiro Agnew with Buckley/Merv/Barbara Walters, </unittitle>
+            <unitdate calendar="gregorian" era="ce">6/14/76</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.168">
+          <did>
+            <container type="tape">166</container>
+            <unittitle>John Ehrlichman: WHBI radio, </unittitle>
+            <unitdate calendar="gregorian" era="ce">6/15/76</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.169">
+          <did>
+            <container type="tape">167</container>
+            <unittitle>John Ehrlichman, Side 1: "Kup's Show "  (pt. 1), 6/27/76; Side 2: "Kup's Show "  (pt. 2) Mike Douglas Show, 6/25/76</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.170">
+          <did>
+            <container type="tape">168</container>
+            <unittitle>Clark Mollenhoff ABC TV, </unittitle>
+            <unitdate calendar="gregorian" era="ce">6/30/76</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.171">
+          <did>
+            <container type="tape">169</container>
+            <unittitle>JOHN EHRLICHMAN, "a.m. America"</unittitle>
+            <unitdate calendar="gregorian" era="ce">7/6-7/76</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.172">
+          <did>
+            <container type="tape">170</container>
+            <unittitle>John Ehrlichman: TV news/ABC TV Good Morning America, </unittitle>
+            <unitdate calendar="gregorian" era="ce">7/27/76</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.173">
+          <did>
+            <container type="tape">171</container>
+            <unittitle>William F. Buckley/Galbraith NBC TV, </unittitle>
+            <unitdate calendar="gregorian" era="ce">7/16/76</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.174">
+          <did>
+            <container type="tape">172</container>
+            <unittitle>William Safire/WOR radio, </unittitle>
+            <unitdate calendar="gregorian" era="ce">8/30/76</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.175">
+          <did>
+            <container type="tape">173</container>
+            <unittitle>John Ehrlichman: Phil Donahue Show/WOR TV, </unittitle>
+            <unitdate calendar="gregorian" era="ce">9/2/76</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.176">
+          <did>
+            <container type="tape">174</container>
+            <unittitle>John Ehrlichman: TV capsules, </unittitle>
+            <unitdate calendar="gregorian" era="ce">9/7-8/76</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.177">
+          <did>
+            <container type="tape">175</container>
+            <unittitle>Leon Jaworski: CBS FM radio, 2 sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">10/3/76</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.178">
+          <did>
+            <container type="tape">176</container>
+            <unittitle>John Dean, 2 sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">10/13-15/76</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.179">
+          <did>
+            <container type="Box" label="Box: ">15</container>
+            <container type="tape">177</container>
+            <unittitle>Side 1: John Dean, 10/21/76; WOR TV "Straight Talk", Side 2: Dean/Butterfield, 10/20/76; Jaworski, a.m. TV, </unittitle>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.180">
+          <did>
+            <container type="tape">178</container>
+            <unittitle>John Dean  (etc.), 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">10/24/76</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.181">
+          <did>
+            <container type="tape">179</container>
+            <unittitle>Side 1: John Dean "Merv", 11/17/76; Side 2: "Tapes", 10/26/76; JOHN EHRLICHMAN, 11/10/76</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.182">
+          <did>
+            <container type="tape">180</container>
+            <unittitle>Leon Jaworski, Agronsky At Large/NET, David Frost spot, </unittitle>
+            <unitdate calendar="gregorian" era="ce">11/26/76</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.183">
+          <did>
+            <container type="tape">181</container>
+            <unittitle>Leon Jaworski, "Kup's Show"</unittitle>
+            <unitdate calendar="gregorian" era="ce">12/5/76</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.184">
+          <did>
+            <container type="tape">182</container>
+            <unittitle>Merv: Dean's/Sahl/Shana, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1/5/77</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.185">
+          <did>
+            <container type="tape">183</container>
+            <unittitle> "RICHARD NIXON", An Evening with Clay Felker, </unittitle>
+            <unitdate calendar="gregorian" era="ce">3/5/77</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.186">
+          <did>
+            <container type="tape">184</container>
+            <unittitle>John Dean, Jeanne Parr/CBS TV, </unittitle>
+            <unitdate calendar="gregorian" era="ce">3/18/77</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.187">
+          <did>
+            <container type="tape">185</container>
+            <unittitle>Richard Nixon, David Frost  (on) Watergate, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">5/4/77</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.188">
+          <did>
+            <container type="tape">186</container>
+            <unittitle> "RICHARD NIXON" TV Capsules:, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">5/5/77</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.189">
+          <did>
+            <container type="tape">187</container>
+            <unittitle>"Richard Nixon": TV capsules, </unittitle>
+            <unitdate calendar="gregorian" era="ce">5/6-7/77</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.190">
+          <did>
+            <container type="tape">188</container>
+            <unittitle> "RICHARD NIXON", Frost Interview #3,  (Comments) 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">5/19/77</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.191">
+          <did>
+            <container type="tape">189</container>
+            <unittitle> "RICHARD NIXON" William F. Buckley/, with Reeves-Buchanan, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">5/21/77</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.192">
+          <did>
+            <container type="tape">190</container>
+            <unittitle> "RICHARD NIXON" 5/25/77; David Frost Interview #4;, 2 Sides, and Jaworski Interview, 5/25/77</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.193">
+          <did>
+            <container type="Box" label="Box: ">16</container>
+            <container type="tape">191</container>
+            <unittitle>John Mitchell/HRH-Sirica, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">6/3-8/77</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.194">
+          <did>
+            <container type="tape">192</container>
+            <unittitle> "Watergate" TV Capsules, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">6/17/77</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.195">
+          <did>
+            <container type="tape">193</container>
+            <unittitle> "HRH-JM-Watergate" 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">6/21-22/77</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.196">
+          <did>
+            <container type="tape">194</container>
+            <unittitle> "BEHIND CLOSED DOORS", Program #1, 2 Sides - Edited, </unittitle>
+            <unitdate calendar="gregorian" era="ce">9/6/77</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.197">
+          <did>
+            <container type="tape">195</container>
+            <unittitle> "BEHIND CLOSED DOORS" Program #2, 2 Sides - Edited, </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.198">
+          <did>
+            <container type="tape">196</container>
+            <unittitle> "BEHIND CLOSED DOORS" Program #3, 2 Sides - Edited, </unittitle>
+            <unitdate calendar="gregorian" era="ce">9/8/77</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.199">
+          <did>
+            <container type="tape">197</container>
+            <unittitle> "BEHIND CLOSED DOORS" Program #4, 2 Sides - Edited, </unittitle>
+            <unitdate calendar="gregorian" era="ce">9/9/77</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.200">
+          <did>
+            <container type="tape">198</container>
+            <unittitle> "BEHIND CLOSED DOORS" Program #5, 2 Sides - Edited, </unittitle>
+            <unitdate calendar="gregorian" era="ce">9/10/77</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.201">
+          <did>
+            <container type="tape">199</container>
+            <unittitle> "BEHIND CLOSED DOORS" Final Program #6, 2 Sides - Edited, </unittitle>
+            <unitdate calendar="gregorian" era="ce">9/11/77</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.202">
+          <did>
+            <container type="tape">200</container>
+            <unittitle>John D. Sirica  (Judge), on John Ehrlichman/John Mitchell, H. R. Haldeman, </unittitle>
+            <unitdate calendar="gregorian" era="ce">10/4/77</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.203">
+          <did>
+            <container type="tape">201</container>
+            <unittitle>John Ehrlichman. Parole recommendation, 12/77; Ray Price interviews/Jack Anderson on JE, 12/9/77</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.204">
+          <did>
+            <container type="tape">202</container>
+            <unittitle>Ray Price, with Tom Snyder NBC TV, </unittitle>
+            <unitdate calendar="gregorian" era="ce">12/14/77</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.205">
+          <did>
+            <container type="tape">203</container>
+            <unittitle>News broadcasts relating to JE divorce, </unittitle>
+            <unitdate calendar="gregorian" era="ce">ca. 1978</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.206">
+          <did>
+            <container type="tape">204</container>
+            <unittitle> "Haldeman Book" TV Capsules, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">2/16-17/78</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.207">
+          <did>
+            <container type="Box" label="Box: ">17</container>
+            <container type="tape">205</container>
+            <unittitle>Charles Colson, Phil Donahue Show NBC TV, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">3/13/78</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.208">
+          <did>
+            <container type="tape">206</container>
+            <unittitle>J. E., 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">4/29/78-4/30/78</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.208b">
+          <did>
+            <unittitle>RN Book, </unittitle>
+            <unitdate calendar="gregorian" era="ce">5/1/78</unitdate>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.209">
+          <did>
+            <container type="tape">207</container>
+            <unittitle>....RN Book/John Ehrlichman, TV Capsules, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">5/1-4/78</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.210">
+          <did>
+            <container type="tape">208</container>
+            <unittitle> "RN-JE" TV Capsules, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">5/5-27/78</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.211">
+          <did>
+            <container type="tape">209</container>
+            <unittitle>RN Book/etc. and recent, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">5/13/78</unitdate>
+          </did>
+
+        </c02>
+        <c02 id="c02-1.7.6.3.212">
+          <did>
+            <container type="tape">210</container>
+            <unittitle>JE, 7/27/78; Watergate, 7/30/78</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.213">
+          <did>
+            <container type="tape">211</container>
+            <unittitle>John Ehrlichman, Watergate Hearings/, Part Two NET and Network, 2 Sides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">7/30/78</unitdate>
+          </did>
+
+	  </c02>
+        </c01>
+      <c01 level="series" id="c02-1.3">
+	<did>
+	 <container type="Box" label="Box: ">18-137 </container>
+	   <unittitle>Incremental Materials - CLOSED, </unittitle>
+	</did>
+        </c01>
+    </dsc>
+</archdesc>
+</ead>

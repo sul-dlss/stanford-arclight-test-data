@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Export-guide" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-CSt">m2013.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>MUD1/British Legends source code, 1999-2014
+                    <num>M2013</num>
+                </titleproper>
+                <titleproper type="filing">MUD1/British Legends source code</titleproper>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Dept. of Special Collections &amp; University Archives</publisher>
+                <address>
+                    <addressline>Stanford University Libraries.</addressline>
+                    <addressline>557 Escondido Mall</addressline>
+                    <addressline>Stanford, California, 94305</addressline>
+                    <addressline>Email: specialcollections@stanford.edu</addressline>
+                </address>
+                <date>2014-7-9</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2014-07-10T10:02-0700</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>MUD1/British Legends source code</unittitle>
+            <unitid>M2013</unitid>
+            <repository>
+                <corpname>Dept. of Special Collections &amp; University Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>50.0 computer file(s)</extent>
+                <extent>(50 files in 3 directories)</extent>
+            </physdesc>
+            <unitdate normal="1992/2014" type="inclusive">1992-2014</unitdate>
+        </did>
+        <arrangement id="ref2">
+            <head>Arrangement note</head>
+            <p>There are 50 files in 3 directories. Only the files in the DATABASE directory are listed in this guide.</p>
+        </arrangement>
+        <accessrestrict id="ref3">
+            <head>Access to Collection</head>
+            <p>Files are open for research but are only available through the media cart (dedicated offline computers) in the Special Collections' reading room.</p>
+        </accessrestrict>
+        <userestrict id="ref4">
+            <head>Publication Rights</head>
+            <p>All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Special Collections and University Archives, Stanford University Libraries, Stanford, California 94305-6064. Consent is given on behalf of Special Collections as the owner of the physical items and is not intended to include or imply permission from the copyright owner. Such permission must be obtained from the copyright owner, heir(s) or assigns. See: http://library.stanford.edu/spc/using-collections/permission-publish.</p>
+            <p>Restrictions also apply to digital representations of the original materials. Use of digital files is restricted to research and educational purposes.</p>
+        </userestrict>
+        <acqinfo id="ref5">
+            <head>Acquisition Information</head>
+            <p>This collection was given by Viktor Toth to Stanford University, Special Collections in 2014.</p>
+        </acqinfo>
+        <prefercite id="ref7">
+            <head>Preferred Citation</head>
+            <p>[identification of item], MUD1 / British Legends Source Code (M2013). Dept. of Special Collections and University Archvies, Stanford University Libraries, Stanford, Calif.</p>
+        </prefercite>
+        <relatedmaterial id="ref8">
+            <head>Related collection</head>
+            <p>Richard Bartle papers, 1979-1997</p>
+        </relatedmaterial>
+        <scopecontent id="ref33">
+            <head>Scope and Contents</head>
+            <p>This implementation of MUD (Multi-User Dungeon) was developed and is operated by Viktor T. Toth. MUD1 was originally developed circa 1978 at Essex University, England. This version runs on 32-bit platforms; the current server runs on Windows and Linux (2014).</p>
+        </scopecontent>
+        <controlaccess>
+            <persname rules="aacr" source="lcnaf" role="Owner (own)">Toth, Viktor (Viktor T.)</persname>
+            <subject source="LCSH">Computer files</subject>
+            <subject source="LCSH">Computer games--History.</subject>
+            <subject source="ingest">History of Science</subject>
+            <subject source="ingest">Software -- Application development</subject>
+        </controlaccess>
+        <dsc>
+            <c id="ref11" level="series">
+                <did>
+                    <unittitle>1. 05/29/2014 12:49 PM [directory]</unittitle>
+                </did>
+                <scopecontent id="ref32">
+                    <head>Scope and Contents</head>
+                    <p>21 files including the directory file (428,694 bytes).</p>
+                </scopecontent>
+                <c id="ref12" level="file">
+                    <did>
+                        <unittitle>10/02/2011 07:56 AM 68,676 game.cpp</unittitle>
+                    </did>
+                </c>
+                <c id="ref13" level="file">
+                    <did>
+                        <unittitle>10/16/2011 04:43 PM 17,877 game.h</unittitle>
+                    </did>
+                </c>
+                <c id="ref14" level="file">
+                    <did>
+                        <unittitle>05/23/2014 04:44 PM 2,152 main.cpp</unittitle>
+                    </did>
+                </c>
+                <c id="ref15" level="file">
+                    <did>
+                        <unittitle>10/27/2008 05:30 AM 542 Makefile</unittitle>
+                    </did>
+                </c>
+                <c id="ref16" level="file">
+                    <did>
+                        <unittitle>03/12/2010 05:21 PM 553 Makefile64</unittitle>
+                    </did>
+                </c>
+                <c id="ref17" level="file">
+                    <did>
+                        <unittitle>10/27/2008 05:36 AM 10,941 mud1.cpp</unittitle>
+                    </did>
+                </c>
+                <c id="ref18" level="file">
+                    <did>
+                        <unittitle>12/22/1999 12:03 AM 531 MUD1.DSW</unittitle>
+                    </did>
+                </c>
+                <c id="ref19" level="file">
+                    <did>
+                        <unittitle>10/16/2011 04:45 PM 5,386 mud1.h</unittitle>
+                    </did>
+                </c>
+                <c id="ref20" level="file">
+                    <did>
+                        <unittitle>11/09/2003 11:14 AM 9,799 MUD1.mak</unittitle>
+                    </did>
+                </c>
+                <c id="ref21" level="file">
+                    <did>
+                        <unittitle>11/07/2003 03:28 PM 2,667 MUD1.RC</unittitle>
+                    </did>
+                </c>
+                <c id="ref22" level="file">
+                    <did>
+                        <unittitle>09/26/2011 06:42 PM 13,330 persfile.cpp</unittitle>
+                    </did>
+                </c>
+                <c id="ref23" level="file">
+                    <did>
+                        <unittitle>10/16/2011 04:43 PM 3,662 persfile.h</unittitle>
+                    </did>
+                </c>
+                <c id="ref24" level="file">
+                    <did>
+                        <unittitle>10/16/2011 04:43 PM 393 resource.h</unittitle>
+                    </did>
+                </c>
+                <c id="ref25" level="file">
+                    <did>
+                        <unittitle>12/26/1999 10:38 PM 4,817 SERVICE.H</unittitle>
+                    </did>
+                </c>
+                <c id="ref26" level="file">
+                    <did>
+                        <unittitle>01/08/2013 06:10 AM 255,661 slot.cpp</unittitle>
+                    </did>
+                </c>
+                <c id="ref27" level="file">
+                    <did>
+                        <unittitle>10/16/2011 04:43 PM 15,638 slot.h</unittitle>
+                    </did>
+                </c>
+                <c id="ref28" level="file">
+                    <did>
+                        <unittitle>08/05/2001 10:58 AM 207 stdhdr.cpp</unittitle>
+                    </did>
+                </c>
+                <c id="ref29" level="file">
+                    <did>
+                        <unittitle>10/16/2011 04:43 PM 788 stdhdr.h</unittitle>
+                    </did>
+                </c>
+                <c id="ref30" level="file">
+                    <did>
+                        <unittitle>05/10/2009 04:07 AM 12,347 util.cpp</unittitle>
+                    </did>
+                </c>
+                <c id="ref31" level="file">
+                    <did>
+                        <unittitle>10/16/2011 04:43 PM 2,727 util.h</unittitle>
+                    </did>
+                </c>
+            </c>
+            <c id="ref9" level="series">
+                <did>
+                    <unittitle>2. 05/29/2014 12:49 PM [directory].</unittitle>
+                </did>
+            </c>
+            <c id="ref10" level="series">
+                <did>
+                    <unittitle>3. 05/29/2014 08:30 AM [directory] DATABASE</unittitle>
+                </did>
+                <scopecontent id="ref34">
+                    <head>Scope and Contents</head>
+                    <p>There are 30 files in this directory.</p>
+                </scopecontent>
+            </c>
+        </dsc>
+    </archdesc>
+</ead>

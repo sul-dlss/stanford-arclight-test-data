@@ -1,0 +1,2029 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[Rudolf Kompfner papers])//EN"
+             identifier="ark:/13030/c89p301s">sc0194.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Rudolf Kompfner Papers
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Kompfner (Rudolf) Papers</titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2010-10">October 2010</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date normal="2012-04">April 2012</date>
+            <item/>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC0194</unitid>
+         <origination label="Creator:">
+            <persname rules="aacr" source="naf">Kompfner, Rudolf, 1909-1977</persname>
+         </origination>
+         <unittitle label="Title:">Rudolf Kompfner papers</unittitle>
+         <unitdate normal="1937/1981"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1937-1981</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>10 Linear feet (21 boxes)</extent>
+         </physdesc>
+         <abstract label="Summary:">The Kompfner papers span the years 1937 to 1977 and concentrate primarily on his research interests while at Bell Laboratories, Stanford University and Oxford University. The collection includes general correspondence files, diaries (1937-41), notebooks and notes (1937-77), articles and reports (1937-80), awards and drawings. Additional material received 1985 and 1987 includes correspondence, research files, notebooks, patent records, and publications.</abstract>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <langmaterial label="Language(s):">The material is in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <descgrp type="provenance" id="prov">
+            <head>Provenance</head>
+            <acqinfo id="ref3">
+               <p>Gift of Peggy Kompfner 1978, 1980-85; loan from Bell Laboratories, 1979.</p>
+            </acqinfo>
+            <custodhist id="ref13">
+               <p>The Rudolf Kompfner papers, with the exception of his Bell Lab notebooks, were the gift of his wife, Peggy Kompfner to Stanford University in 1978; the materials were transferred from the Kompfner's Stanford University residence to the University Archives in that year with an addition later in the year.</p>
+               <p>In 1979, Bell Laboratories, at the request of Professor Calvin Quate, transferred 26 research notebooks regarding Kompfner's research to the Stanford University Archlves. The notebooks are on indefinite loan in accordance with the agreement dated 14 February 1979 and title to the notebooks, including literary rlghts, are retained by Bell Laboratories. No restrictions were placed on access to the notebooks, and they may be studied by researchers as part of the Rudolf Kompfner papers in the reading room of the University Archives.</p>
+            </custodhist>
+         </descgrp>
+         <accessrestrict id="ref4">
+            <head>Information about Access</head>
+            <p>This collection is open for research.</p>
+         </accessrestrict>
+         <userestrict id="ref5">
+            <head>Ownership &amp; Copyright</head>
+            <p>Requests for permission to publish materials from this collection should be discussed with the University Archivist. Legal ownership of Series IV (Bell Laboratory Notebooks) including the right to publish is retained by Bell Laboratories, New Jersey.</p>
+         </userestrict>
+         <prefercite id="ref6">
+            <head>Cite As</head>
+            <p>Rudolf Kompfner Papers (SC0194). Department of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+         <processinfo id="ref12">
+            <head>Processing Notes</head>
+            <p>The arrangement and description of the Rudolf Kompfner papers, including the following series description and inventory, was carried out as a special project funded by the Friends of Rudolf Kompfner in his honor. In addition to supporting the processing of the papers, this generous gift allowed the Univiversity Archives to experiment with several online data processing systems provided by Stanford University 's computer center and to produce our first online collection guide.</p>
+            <p>Preliminary processing was carried out by Kym Sommerville. Final arrangement, description and computer analysis was carried out by Barbara J. Begley.</p>
+         </processinfo>
+      </descgrp>
+      <bioghist id="ref7">
+         <head>Biographical/Historical Sketch</head>
+         <p>Professor of Applied Physics at Stanford University and world renowned communications scientist, Rudolf Kompfner came to Stanford in 1973 after a distinguished career at Bell Telephone Laboratories, Oxford University, and with British government research.</p>
+         <p>Professor Kompfner was born in Vienna in 1909 and received the degree of engineer from the Technische Hochschule in 1933. He emigrated to England in 1934 where he worked as an architect. Kompfner already had a strong interest in experimental physics, however, and began a self-guided study of the field. He was already an accomplished research physicist when he received his Ph. D. from Oxford University, having worked at Birmingham University (1941-44) and Oxford's Clarendon Laboratory (1944-51). His invention of the traveling wave tube during this time is credited with making future satellite communications practicable. In 1950, he developed the backward wave oscillator which made microwave oscillators electronically tunable.</p>
+         <p>Ultimately the holder of over 50 patents, Kompfner continued his research at the Bell Laboratories from 1952 to 1973. His last years, 1973 to 1977, were spent in research and teaching at both Stanford University and Oxford University, focusing prlmarily on integrated optics.</p>
+         <p>Professor Kompfner received numerous awards, including the National Medal of Science in 1975 for his invention of the traveling wave tube and for major contributions to communications satellites and optical communications. He was a member of the National Academy of Science and of the American Academy of Arts and Sciences.</p>
+      </bioghist>
+      <scopecontent id="ref8">
+         <head>Description of the Collection</head>
+         <p>The Kompfner papers span the years 1937 to 1977 and concentrate primarily on his research interests while at Bell Laboratories, Stanford University and Oxford University. The collection includes general correspondence files, diaries (1937-41), notebooks and notes (1937-77), articles and reports (1937-80), awards and drawings. Additional material received 1985 and 1987 includes correspondence, research files, notebooks, patent records, and publications.</p>
+         <p>Of particular note are the 26 research notebooks compiled by Kompfner regarding his research at Bell Laboratories, 1952 to 1973 (series IV) and his 1937 diary documenting his selfdirected readings and experiments in physics while still a practicing architect (series II).</p>
+      </scopecontent>
+      <arrangement id="ref9">
+         <head>Arrangement</head>
+         <p>The collection is arranged in seven series and two additions: 1. General Files, 1941-1978; 2. Diaries, 1937-1941; 3. Notebooks and Notes, 1937-1977; 4. Bell Laboratory Notebooks, 1952-1973; 5. Articles, Reports and Speeches, 1937-1980; 6. Awards, 7. Drawings.</p>
+      </arrangement>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <corpname rules="dacs" source="lcnaf">Bell Telephone Laboratories.</corpname>
+         <persname rules="aacr" source="ingest">Benham, W. E.</persname>
+         <corpname rules="dacs" source="ingest">English Electric Valve Co.</corpname>
+         <persname rules="aacr" source="ingest">Fuchs, Wolfgang.</persname>
+         <persname rules="aacr" source="naf">Kompfner, Rudolf, 1909-1977</persname>
+         <persname rules="aacr" source="ingest">Liebmann, Gerard.</persname>
+         <corpname rules="dacs" source="ingest">Massachusetts Institute of Technology.</corpname>
+         <corpname rules="dacs" source="ingest">Stanford University. Department of Applied Physics. Faculty.</corpname>
+         <genreform source="aat">Articles.</genreform>
+         <genreform source="aat">Awards.</genreform>
+         <subject source="LCSH">Backward-wave tubes.</subject>
+         <genreform source="aat">Diaries.</genreform>
+         <genreform source="aat">Drawings.</genreform>
+         <genreform source="aat">Notebooks.</genreform>
+         <subject source="lcsh">Physics--Research.</subject>
+         <genreform source="aat">Reports.</genreform>
+         <subject source="lcsh">Science--History.</subject>
+         <subject source="LCSH">Traveling-wave tubes.</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.7">
+         <head>Collection Contents</head>
+         <c01 id="ref10" level="series">
+            <did>
+               <unitid>Series I</unitid>
+               <unittitle>General files</unittitle>
+               <unitdate normal="1941/1978" type="inclusive">1941-1978</unitdate>
+            </did>
+            <scopecontent>
+               <p>This series is highlighted by Kompfner's correspondence with the British Admiralty, the Bell Telephone Laboratories and the English Electric Valve Company over the years 1944-1955. This correspondence mostly concerns Kompfner's research in physics. Associated with this correspondence are a number of unpublished handwritten and typed manuscripts written during the same time span. Also included are several patent applications bearing upon Kompfner's research interests in the late 30's and early 40's.</p>
+               <p>The series is arranged alphabetically by subject. The manuscripts are listed alphabetically by title under the category "Research Notes and Manuscripts."</p>
+            </scopecontent>
+            <c02 id="ref28" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Admiralty</unittitle>
+                  <unitdate>1944-1950</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref29" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Associated Universities Incorporated</unittitle>
+                  <unitdate>1977-1978</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref30" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Associated Universities Incorporated, financial statements</unittitle>
+                  <unitdate>1977 Sep-Oct</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref31" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Bell Telephone Laboratories</unittitle>
+                  <unitdate>1946 Apr-1951 Dec</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref32" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Benham, W. E., correspondence with</unittitle>
+                  <unitdate>1941 Jul-1942 Dec</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref33" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">6</container>
+                  <unittitle>The Codrington Club, membership list</unittitle>
+                  <unitdate>1977</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref34" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">7</container>
+                  <unittitle>English Electric Valve Co.</unittitle>
+                  <unitdate>1950 Aug 25-Dec 15</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref35" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">8</container>
+                  <unittitle>English Electric Valve Co.</unittitle>
+                  <unitdate>1951 Jan 2-1955 Aug 10</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref36" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Fuchs, Wolfgang, correspondence with</unittitle>
+                  <unitdate>1941 Feb-1942 Mar</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref37" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Ginzton Laboratory, memo</unittitle>
+                  <unitdate>1977 Nov 30</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref38" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Helical line tube patent</unittitle>
+                  <unitdate>1943-1946</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref39" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Helical line tube patent, includes mss.</unittitle>
+                  <unitdate>1947-1952</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref40" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Liebmann, Gerard, correspondence with</unittitle>
+                  <unitdate>1941 Feb-1942 Mar</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref41" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Loaded space tube, include mss.</unittitle>
+                  <unitdate>1949 Mar-Jun</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref42" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">15</container>
+                  <unittitle>Massachusetts Institute of Technology</unittitle>
+                  <unitdate>1951 May-Sep</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref43" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">16</container>
+                  <unittitle>National Academy of Engineering, Founders Award</unittitle>
+                  <unitdate>1977</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref44" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">17</container>
+                  <unittitle>National Academy of Engineering, nomination form</unittitle>
+                  <unitdate>1977</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref45" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">18</container>
+                  <unittitle>National Academy of Sciences, minutes of April 26, 1977 meeting</unittitle>
+                  <unitdate>1977 Nov 21</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref46" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Patent Application, "Device for the Conversion of an Image Formed by Lightrays into Electrical Impulses"</unittitle>
+                  <unitdate>1936</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref47" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Patent Application #14041, "Discharge Tubes Making Use of the Principle of Velocity Modulation"</unittitle>
+                  <unitdate>1940 Sep-Nov</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref48" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Patent Application #9360/41, "Generator of Electromagnetic Oscillations at Very High Frequencies"</unittitle>
+                  <unitdate>1941 Jul-Oct</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref49" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Patent Application, "A Graphical Analysis of the Planar Whole-Anode Magnetron"</unittitle>
+                  <unitdate>1941</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref50" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Personal correspondence, miscellaneous</unittitle>
+                  <unitdate>1937-1945</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref51" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Projects, miscellaneous progress reports, untitled mss. and notes</unittitle>
+                  <unitdate>1945-1947, Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref52" level="subseries">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Research notes and mss. (by title), A-El.</unittitle>
+                  <unitdate normal="1943/1951" type="inclusive">1943-1951, undated</unitdate>
+               </did>
+               <c03 id="ref53" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">7</container>
+                     <unittitle>"Absorbtion of Radiation by a Gas," 3 pp.</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref54" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">7</container>
+                     <unittitle>"Amplification of Plasmaoscillations by Means of D.C. Fields," 12 pp.</unittitle>
+                     <unitdate>1951 Mar 13</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref55" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">7</container>
+                     <unittitle>"Design of a Collector for V.M. Detector," 24 typed pp.</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref56" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">7</container>
+                     <unittitle>"Design of an Electron Gun for S-band Traveling Wave," 20 pp.</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref57" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">7</container>
+                     <unittitle>"Electron Beams in Wave Guides and Transmission Lines," 48 pp.</unittitle>
+                     <unitdate>1943 Aug</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref58" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">7</container>
+                     <unittitle>"Electron Multiplier as T.K. Cell," 4 typed pp.</unittitle>
+                     <unitdate>1948 Jun 5</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref59" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Research notes, mss. and correspondence: Electron microscopy</unittitle>
+                  <unitdate>1939 Dec-1940 Feb</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref60" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Research notes, mss. and correspondence: Image Converter</unittitle>
+                  <unitdate>1939 Oct-Dec</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref65" level="subseries">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Research notes and mss. (by title), Em-Z</unittitle>
+                  <unitdate normal="1941/1950" type="inclusive">1941-1950, undated</unitdate>
+               </did>
+               <c03 id="ref66" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">10</container>
+                     <unittitle>"Experiments with a Single Resonator Magnetron," 7 typed pp., 2 copies plus handwritten draft, 7 pp.</unittitle>
+                     <unitdate>1942 Jul</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref67" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">10</container>
+                     <unittitle>"Kurti's Pumping Speed Meter," 2 pp.</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref68" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">10</container>
+                     <unittitle>"Memorandum on Proposed System for Detecting Thermal Radiation Using Traveling Wave Tubes as R.F. Amplifiers," 3 pp.</unittitle>
+                     <unitdate>1946 Aug</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref69" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">10</container>
+                     <unittitle>"A Method of Detecting an Audio-Frequency Signal in the Presence of Noise by Means of Capillary Waves," 1 p.</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref70" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">10</container>
+                     <unittitle>"Methods of Using Valves at Very High Frequencies," 10 pp.</unittitle>
+                     <unitdate>1941 Sep</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref71" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">10</container>
+                     <unittitle>"A New Radar System," 15 pp.</unittitle>
+                     <unitdate>1949 Dec</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref72" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">10</container>
+                     <unittitle>"Noise Factor of Receiver," notes for Clarendon Lab talk, 4 pp.</unittitle>
+                     <unitdate>1944 Jun</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref73" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">10</container>
+                     <unittitle>"Note on 'Cooling' of Electron Beams," 4 typed pp.</unittitle>
+                     <unitdate>1950 Nov 21</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref74" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">10</container>
+                     <unittitle>"Search Receiver," 1 p.</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref75" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">10</container>
+                     <unittitle>"Shot-Noise Compensation at Very High Frequencies," 9 typed pp.</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref76" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">10</container>
+                     <unittitle>"Source of Noise at Cm-Wave Lengths," 7 pp.</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref77" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">10</container>
+                     <unittitle>"A Suggestion for a Large-Size Vacuum Chamber," 9 pp.</unittitle>
+                     <unitdate>1945 Sep</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref78" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">10</container>
+                     <unittitle>"Wave Detector Using the Kerr Effect," 3 typed pp.</unittitle>
+                     <unitdate>1945 Jan</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref61" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Satellites, misc. information re.</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref62" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Travel arrangements, misc.</unittitle>
+                  <unitdate>1969 Jan-Mar</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref63" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Traveling Wave Tubes, correspondence re. patent application and related litigation</unittitle>
+                  <unitdate>1952 Jul-1953 Sep</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref64" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Traveling Wave Tubes, Mss. and patent application</unittitle>
+                  <unitdate>1948, undated</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref14" level="series">
+            <did>
+               <unitid>Series II</unitid>
+               <unittitle>Diaries</unittitle>
+               <unitdate normal="1937/1941" type="inclusive">1937-1941</unitdate>
+            </did>
+            <scopecontent>
+               <p>This series contains one personal diary with many photos from 1937, and several pocket journals dated 1941 and undated.</p>
+            </scopecontent>
+            <c02 id="ref79" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Diary</unittitle>
+                  <unitdate>1937</unitdate>
+               </did>
+               <scopecontent>
+                  <p>Includes many photographs.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref81" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Three pocket journals</unittitle>
+                  <unitdate>1941, undated</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref15" level="series">
+            <did>
+               <unitid>Series III</unitid>
+               <unittitle>Notebooks and notes</unittitle>
+               <unitdate normal="1937/1941" type="inclusive">1937-1941</unitdate>
+            </did>
+            <scopecontent>
+               <p>This series contains notebooks and loose notes on a miscellaneous assortment of topics. Unlike the notes under the heading "Research Notes and Manuscripts" in Series I, or his Bell Telephone Laboratories notebooks in Series IV, these notebooks were l ess systematically kept.</p>
+            </scopecontent>
+            <c02 id="ref94" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Notebook</unittitle>
+                  <unitdate>1937 Sep-1940 Jan</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref95" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Notebook</unittitle>
+                  <unitdate>1941 Nov-1943 Jun</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref96" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Notebook</unittitle>
+                  <unitdate>1942 Aug-1943 Jun</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref97" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Notebook</unittitle>
+                  <unitdate>1943 Apr-1944 Apr</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref98" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Notebook</unittitle>
+                  <unitdate>1943 Jun-Dec</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref99" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Notebook</unittitle>
+                  <unitdate>1944 Feb-Aug</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref100" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Misc. notes</unittitle>
+                  <unitdate>1973-1974</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref101" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Misc. notes</unittitle>
+                  <unitdate>1975-1977</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref102" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Pocket notebooks</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref103" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Notebook</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref104" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Music notebook</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref105" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">5a</container>
+                  <unittitle>Reprint of Shockley's "Invention of the Transistor ... "</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref16" level="series">
+            <did>
+               <unitid>Series IV</unitid>
+               <unittitle>Bell Laboratory notebooks</unittitle>
+               <unitdate normal="1952/1973" type="inclusive">1952-1973</unitdate>
+            </did>
+            <scopecontent>
+               <p>These notebooks detail Kompfner's research work at the Bell Telephone Laboratories from 1952 through 1973. The numbers were assigned to the notebooks by Bell Labs.</p>
+            </scopecontent>
+            <c02 id="ref106" level="subseries">
+               <did>
+                  <unittitle>1952-1956</unittitle>
+                  <unitdate normal="1952/1956" type="inclusive">1952-1956</unitdate>
+               </did>
+               <c03 id="ref107" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">1</container>
+                     <unittitle>#23834</unittitle>
+                     <unitdate>1952 Jan 21-Nov 14</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref108" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">2</container>
+                     <unittitle>#24545</unittitle>
+                     <unitdate>1952 Nov 18-1953 Jun 27</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref109" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">3</container>
+                     <unittitle>#25075</unittitle>
+                     <unitdate>1953 Jun 30-1954 Jan 24</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref110" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">4</container>
+                     <unittitle>#25584</unittitle>
+                     <unitdate>1954 Jan 27-Dec 5</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref111" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">5</container>
+                     <unittitle>#264785</unittitle>
+                     <unitdate>1954 Dec 8-1956 Mar 4</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref112" level="subseries">
+               <did>
+                  <unittitle>1956-1961</unittitle>
+                  <unitdate normal="1956/1961" type="inclusive">1956-1961</unitdate>
+               </did>
+               <c03 id="ref113" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">1</container>
+                     <unittitle>#27735</unittitle>
+                     <unitdate>1956 Mar 5-1957 Apr 28</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref114" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">2</container>
+                     <unittitle>#29092</unittitle>
+                     <unitdate>1957 Apr 29-Dec 16</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref115" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">3</container>
+                     <unittitle>#29826</unittitle>
+                     <unitdate>1957 Dec 30-1959 Jan 17</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref116" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">4</container>
+                     <unittitle>#30196</unittitle>
+                     <unitdate>1959 Jan 25-1960 Mar 22</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref117" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">5</container>
+                     <unittitle>#32458</unittitle>
+                     <unitdate>1960 Mar 25-Dec 5</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref118" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">6</container>
+                     <unittitle>#33326</unittitle>
+                     <unitdate>1960 Dec 18-1961 May 15</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref119" level="file">
+               <did>
+                  <unittitle>1961-1966</unittitle>
+                  <unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate>
+               </did>
+               <c03 id="ref120" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">1</container>
+                     <unittitle>#32868</unittitle>
+                     <unitdate>1961 May 17-1962 Apr 1</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref121" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">2</container>
+                     <unittitle>#36755</unittitle>
+                     <unitdate>1962 Apr 17-1963 May 23</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref122" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">3</container>
+                     <unittitle>#38454</unittitle>
+                     <unitdate>1963 May 26-1964 Mar 18</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref123" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">4</container>
+                     <unittitle>#40359</unittitle>
+                     <unitdate>1964 Apr 21-Nov 9</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref124" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">5</container>
+                     <unittitle>#41167</unittitle>
+                     <unitdate>1964 Nov 13-1965 Jun 10</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref125" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">6</container>
+                     <unittitle>#42086</unittitle>
+                     <unitdate>1965 Jun 10-1966 Feb 2</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref126" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">7</container>
+                     <unittitle>#43243</unittitle>
+                     <unitdate>1966 Feb 2-May 29</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref127" level="subseries">
+               <did>
+                  <unittitle>1966-1973</unittitle>
+                  <unitdate normal="1966/1973" type="inclusive">1966-1973</unitdate>
+               </did>
+               <c03 id="ref128" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">1</container>
+                     <unittitle>#43889</unittitle>
+                     <unitdate>1966 May 31-Nov 4</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref129" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">2</container>
+                     <unittitle>#44401</unittitle>
+                     <unitdate>1966 Nov 4-1967 Jul 13</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref130" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">3</container>
+                     <unittitle>#45779</unittitle>
+                     <unitdate>1967 Jul 14-1968 Jul 23</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref131" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">4</container>
+                     <unittitle>#47582</unittitle>
+                     <unitdate>1968 Jul 25-1969 Jul 2</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref132" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">5</container>
+                     <unittitle>#48941</unittitle>
+                     <unitdate>1969 Jul 3-1970 Sep 9</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref133" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">6</container>
+                     <unittitle>#50921</unittitle>
+                     <unitdate>1970 Oct 4-1971 Oct 7</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref134" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">7</container>
+                     <unittitle>#52151</unittitle>
+                     <unitdate>1971 Oct 20-1973 May 9</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref135" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">8</container>
+                     <unittitle>#54233</unittitle>
+                     <unitdate>1973 May 10-Jun 7</unitdate>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="ref17" level="series">
+            <did>
+               <unitid>Series V</unitid>
+               <unittitle>Articles, reports and speeches</unittitle>
+               <unitdate normal="1937/1980" type="inclusive">1937-1980</unitdate>
+            </did>
+            <scopecontent>
+               <p>This series contains published articles and reports by Kompfner, published articles citing Kompfner and his work, articles autographed by Kompfner, but not written by him, and newsclippings. The series also includes classified reports written by Kompfner in the forties.</p>
+            </scopecontent>
+            <c02 id="ref136" level="subseries">
+               <did>
+                  <unittitle>Articles and reports by Kompfner</unittitle>
+                  <unitdate normal="1963/1976" type="inclusive">1963-1976</unitdate>
+               </did>
+               <c03 id="ref137" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">1</container>
+                     <unittitle>
+                        <title render="italic" linktype="simple">The Invention of theTraveling Wave Tube</title>, University of California, Berkeley</unittitle>
+                     <unitdate>1963</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref138" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">2</container>
+                     <unittitle>
+                        <title render="italic" linktype="simple">Beitrage zur Erforschung and Nutzbarmachung von Weltraumphanomenen</title>
+                     </unittitle>
+                     <unitdate>1966</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref139" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">3</container>
+                     <unittitle>
+                        <title render="italic" linktype="simple">Electron Devices in Science and Technology</title>
+                     </unittitle>
+                     <unitdate>1967</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref140" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">4</container>
+                     <unittitle>
+                        <title render="italic" linktype="simple">Optics at Bell Laboratories</title>
+                     </unittitle>
+                     <unitdate>1972</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref141" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">5</container>
+                     <unittitle>
+                        <title render="italic" linktype="simple">Responses to 'Optics at Bell Laboratories'</title>
+                     </unittitle>
+                     <unitdate>1973</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref142" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">6</container>
+                     <unittitle>
+                        <title render="italic" linktype="simple">Recent Advances in Acoustical Microscopy</title>
+                     </unittitle>
+                     <unitdate>1974</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref143" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">7</container>
+                     <unittitle>
+                        <title render="italic" linktype="simple">High-Resolution Heterodyne Coincidence Detection of Optical Pulse Streams</title>
+                     </unittitle>
+                     <unitdate>1976</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref144" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">8</container>
+                     <unittitle>
+                        <title render="italic" linktype="simple">The Invention of Traveling Wave Tubes</title>
+                     </unittitle>
+                     <unitdate>1976</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref145" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">9</container>
+                     <unittitle>
+                        <title render="italic" linktype="simple">Mechanical Optrical Fibre Switch</title>
+                     </unittitle>
+                     <unitdate>1976</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref146" level="subseries">
+               <did>
+                  <unittitle>Classified reports</unittitle>
+                  <unitdate normal="1942/1946" type="inclusive">1942-1946</unitdate>
+               </did>
+               <c03 id="ref147" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">10</container>
+                     <unittitle>
+                        <title render="italic" linktype="simple">Experiment related to the Detection of Moving Targets by Doppler Effect</title>
+                     </unittitle>
+                     <unitdate>1945 Jul-Aug</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref148" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">10</container>
+                     <unittitle>
+                        <title render="italic" linktype="simple">Notes on the Transmission-Line Noise-Diode</title>
+                     </unittitle>
+                     <unitdate>1946 Feb</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref149" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">10</container>
+                     <unittitle>
+                        <title render="italic" linktype="simple">Report on an Investigation of the Distribution of Axial Fields Inside a Helix Excited by Oscillations at Wavelengths comparable with the Diameter of the Helix</title>
+                     </unittitle>
+                     <unitdate>1944 Aug</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref150" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">10</container>
+                     <unittitle>
+                        <title render="italic" linktype="simple">Report on a Tube Based on the Traveling Wave Principle</title>
+                     </unittitle>
+                     <unitdate>1944 Jul</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref151" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">10</container>
+                     <unittitle>
+                        <title render="italic" linktype="simple">Transit-Line Correction Factor for Cylindrical Noise Diodes</title>
+                     </unittitle>
+                     <unitdate>1945 Sep</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref152" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">10</container>
+                     <unittitle>
+                        <title render="italic" linktype="simple">Velocity Modulating Grids</title>, excerpts and correspondence</unittitle>
+                     <unitdate>1942 Apr</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref153" level="subseries">
+               <did>
+                  <unittitle>Articles citing Kompfner</unittitle>
+                  <unitdate normal="1937/1973" type="inclusive">1937-1973</unitdate>
+               </did>
+               <c03 id="ref154" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Hauser, Susan G. 
+                                <title render="italic" linktype="simple">New Communications Technology</title>
+                     </unittitle>
+                     <unitdate>1973</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref155" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">12</container>
+                     <unittitle>Pierce, J.F. 
+                                <title render="italic" linktype="simple">The Beginnings of Satellite Communication</title>
+                     </unittitle>
+                     <unitdate>1968</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref156" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">13</container>
+                     <unittitle>Susskind, Charles, 
+                                <title render="italic" linktype="simple">Conference on Electron Device Research: a Pattern to be Copied?</title>
+                     </unittitle>
+                     <unitdate>1967</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref157" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">14</container>
+                     <unittitle>Wright, H. Myles, 
+                                <title render="italic" linktype="simple">Small Houses</title>
+                     </unittitle>
+                     <unitdate>1937</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref158" level="subseries">
+               <did>
+                  <unittitle>Autographed articles</unittitle>
+                  <unitdate normal="1962/1975" type="inclusive">1962-1975</unitdate>
+               </did>
+               <c03 id="ref159" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">15</container>
+                     <unittitle>Dix. C.H. 
+                                <title render="italic" linktype="simple">The Present Generation of Traveling Wave Tubes</title>
+                     </unittitle>
+                     <unitdate>1962</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref160" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">16</container>
+                     <unittitle>Friis, Harold T. 
+                                <title render="italic" linktype="simple">30 Years with Microwaves</title>
+                     </unittitle>
+                     <unitdate>1968</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref161" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">17</container>
+                     <unittitle>Gabor, D. 
+                                <title render="italic" linktype="simple">Laser Speckle and its Elimination</title>
+                     </unittitle>
+                     <unitdate>1970</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref162" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">18</container>
+                     <unittitle>Keller, Hans 
+                                <title render="italic" linktype="simple">Prague Day</title>
+                     </unittitle>
+                     <unitdate>1975</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref163" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">19</container>
+                     <unittitle>Marsen, Richard 
+                                <title render="italic" linktype="simple">Particle Dynamics on a Causal Basis</title>
+                     </unittitle>
+                     <unitdate>1964</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref164" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">20</container>
+                     <unittitle>Pfann, William G., 
+                                <title render="italic" linktype="simple">The Semiconductor Revolution</title>, in William G. Pfann -- 
+                                <title render="italic" linktype="simple">Solid State Science and Technology Award Medalist</title>, Journal of the Electrochemical Society, Vol. 121, #1</unittitle>
+                     <unitdate>1974 Jan</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref165" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">21</container>
+                     <unittitle>
+                        <title render="italic" linktype="simple">Science and Engineering</title>, Annual Review for the Industrial Affiliates of Stanford University, 14 pp.</unittitle>
+                     <unitdate>1964 Sep</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref166" level="subseries">
+               <did>
+                  <unittitle>Newsclippings</unittitle>
+                  <unitdate normal="1960/1980" type="inclusive">1960-1980</unitdate>
+               </did>
+               <c03 id="ref167" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">22</container>
+                     <unittitle>News reports about Kompfner's research</unittitle>
+                     <unitdate>1960-1980</unitdate>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="ref18" level="series">
+            <did>
+               <unitid>Series VI</unitid>
+               <unittitle>Awards</unittitle>
+               <unitdate normal="1962/1978" type="inclusive">1962-1978</unitdate>
+            </did>
+            <scopecontent>
+               <p>This series contains awards, certificates and honorary degrees bestowed upon Kompfner between 1962 and 1978.</p>
+            </scopecontent>
+            <c02 id="ref168" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Rotary Club of Ashbury, New Jersey, Rotary Award</unittitle>
+                  <unitdate>1962</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref169" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Rotary Club of Middletown, New Jersey, Certificate of Merit</unittitle>
+                  <unitdate>1963</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref170" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Honorary Degree (institution not named)</unittitle>
+                  <unitdate>1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref171" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Associated Universities Certificate in honor of Kompfner</unittitle>
+                  <unitdate>1978</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref19" level="series">
+            <did>
+               <unitid>Series VII</unitid>
+               <unittitle>Drawings</unittitle>
+               <unitdate>Undated</unitdate>
+            </did>
+            <scopecontent>
+               <p>This series consits of miscellaneous drawings connected with Kompfner's research.</p>
+            </scopecontent>
+            <c02 id="ref172" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">5</container>
+                  <unittitle>"Transoceanic Communication by Means of Satellite"</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref173" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Research drawings, misc.</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref174" level="series">
+            <did>
+               <unitid>Accession ARCH-1985-074</unitid>
+               <unittitle>Additional Material</unittitle>
+               <unitdate normal="1957/1981" type="inclusive">1957-1981</unitdate>
+            </did>
+            <c02 id="ref175" level="subseries">
+               <did>
+                  <unittitle>Research files</unittitle>
+                  <unitdate normal="1957/1976" type="inclusive">1957-1976, undated</unitdate>
+               </did>
+               <c03 id="ref176" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Allocation of research funds/1</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref177" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Allocation of research funds/2</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref178" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Allocation of research funds/3</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref179" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Allocation of research funds/4</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref180" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Acoustic microscope - general</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref181" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Acoustic (harmonic) microscope</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref182" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Bell Lab Memoranda</unittitle>
+                     <unitdate>1957-1959</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref183" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Bell Lab Memoranda</unittitle>
+                     <unitdate>1960-1963</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref184" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Bell Lab Memoranda</unittitle>
+                     <unitdate>1964-1967</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref185" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Bell Lab Memoranda</unittitle>
+                     <unitdate>1968-1969</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref186" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Bell Lab Memoranda</unittitle>
+                     <unitdate>1970-1972</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref187" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Bell Lab Memoranda</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref188" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">5</container>
+                     <unittitle>NAS (National Academy of Sciences) matters</unittitle>
+                     <unitdate>1974</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref189" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">6</container>
+                     <unittitle>NAS - engineering section/1</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref190" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">7</container>
+                     <unittitle>NAS - engineering section/2</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref191" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">8</container>
+                     <unittitle>NAS - engineering section/3</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref192" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">9</container>
+                     <unittitle>NSF ENG74-18437</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref193" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">10</container>
+                     <unittitle>NSF ENG74-18437 - financial records</unittitle>
+                     <unitdate>1975-1976</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref194" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Optical fibers research/1</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref195" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Optical fibers research/2</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref196" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Optical fibers research/3</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref197" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Opto-thermo-acoustic microscope</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref198" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Picosecond radar proposal/1</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref199" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Picosecond radar proposal/2</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref200" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Picosecond radar</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref201" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Range gate based on heterodyne detection</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref202" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Research notes</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref203" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">10</container>
+                     <unittitle>Scanning acoustic microscope</unittitle>
+                     <unitdate>1974-1976</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref204" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Schwarzschild II geometry - notes and figures</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref205" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Science policy/1</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref206" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Science policy/2</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref207" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Towards a domestic communication satellite system</unittitle>
+                     <unitdate>1969</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref208" level="subseries">
+               <did>
+                  <unittitle>Research notebooks</unittitle>
+                  <unitdate normal="1966/1973" type="inclusive">1966-1973</unitdate>
+               </did>
+               <c03 id="ref209" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Engineering lab, Oxford - notebook</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref210" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Lab notebook - photocopy</unittitle>
+                     <unitdate>1966-1967</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref211" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Lab notebook - photocopy</unittitle>
+                     <unitdate>1967-1970</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref212" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Lab notebook - photocopy</unittitle>
+                     <unitdate>1970-1973</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref213" level="subseries">
+               <did>
+                  <unittitle>Professional papers</unittitle>
+                  <unitdate normal="1952/1977" type="inclusive">1952-1977, undated</unitdate>
+               </did>
+               <c03 id="ref215" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Articles and talks/1</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref216" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Articles and talks/2</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref217" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Articles and notes</unittitle>
+                     <unitdate>1977</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref218" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Power Travelling-Wave Tubes by J.F. Gittins: book review</unittitle>
+                     <unitdate>1965</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref219" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Reguests for reprints</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref220" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Reprints</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref221" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Reprints</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref222" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Reprints and articles</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref223" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Stanford university memoranda and financial records</unittitle>
+                     <unitdate>1977</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref224" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Stanford university memoranda and financial records</unittitle>
+                     <unitdate>1977-1978</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref225" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">11</container>
+                     <unittitle>European trip</unittitle>
+                     <unitdate>1955</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref226" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">12</container>
+                     <unittitle>European trip</unittitle>
+                     <unitdate>1955</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref227" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>circa 1952-1955</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref228" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>circa 1954-1955</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref229" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1966-1975</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref230" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate>1977</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref231" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Epsztein interference case</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref232" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Epsztein interference case</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref233" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Patents (applications and correspondence)</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref234" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Patents (applications and correspondence)</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref235" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Patents (applications and correspondence)</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref236" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Patents (applications and correspondence)</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref237" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Patents (applications and correspondence)</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref238" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Patents</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref239" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Patents</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref214" level="subseries">
+               <did>
+                  <unittitle>Miscellaneous</unittitle>
+                  <unitdate normal="1941/1981" type="inclusive">1941-1981, undated</unitdate>
+               </did>
+               <c03 id="ref240" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Oxford University</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref241" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Toft, Louis, 
+                                <title render="italic" linktype="simple">Definitions and Formulae for Students</title>
+                     </unittitle>
+                     <unitdate>1941</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref242" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">8</container>
+                     <unittitle>R. Kompfner Memorial Lectures</unittitle>
+                     <unitdate>1978-1981</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref243" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">9</container>
+                     <unittitle>NOVUS 4510, operations guide</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref244" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>Publications (by others, collected by Kompfner): Ashkin to Cutler</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref245" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>Publications (by others, collected by Kompfner): Fox to Goell</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref246" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>Publications (by others, collected by Kompfner): Hargrove to Kogelnik</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref247" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Publications (by others, collected by Kompfner): Patel to Tynes</unittitle>
+                     <unitdate>Undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref248" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Slides from lectures</unittitle>
+                     <unitdate>1977</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref249" level="item">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Audio tapes</unittitle>
+                     <unitdate>Undated</unitdate>
+                     <physdesc>
+                        <extent>2 audiocassette(s)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="ref250" level="series">
+            <did>
+               <unitid>Accession ARCH-1986-125</unitid>
+               <unittitle>Additional Material</unittitle>
+               <unitdate normal="1973/1977" type="inclusive">1973-1977, undated</unitdate>
+            </did>
+            <c02 id="ref251" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Indexes of publications, awards, patents, biographies</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref252" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Indexes of publications, awards, patents, biographies</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref253" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Grant materials/patents lists</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref254" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">4</container>
+                  <unittitle>IEEE banquet</unittitle>
+                  <unitdate>1973</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref255" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">5</container>
+                  <unittitle>"Music" - personal reminiscences</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref256" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Photographs</unittitle>
+                  <unitdate>Undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref257" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Notebook</unittitle>
+                  <unitdate>1974</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref258" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Notebook</unittitle>
+                  <unitdate>1975</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref259" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Notebook</unittitle>
+                  <unitdate>1975</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref260" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Notebook</unittitle>
+                  <unitdate>1976</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref261" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Notebook</unittitle>
+                  <unitdate>1977</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref262" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Notebook</unittitle>
+                  <unitdate>1977</unitdate>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

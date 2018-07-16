@@ -1,0 +1,4252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[Paul Berg papers])//EN"
+             identifier="ark:/13030/tf1x0n98jp">sc0358.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Paul Berg Papers
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Berg (Paul) Papers</titleproper>
+            <author>Processed by Special Collections staff; machine-readable finding aid created by Patricia White</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="1998">1998</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date normal="2013-05">May 2013</date>
+            <item/>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC0358</unitid>
+         <origination label="Creator:">
+            <persname rules="aacr" source="naf">Berg, Paul, 1926-</persname>
+         </origination>
+         <unittitle label="Title:">Paul Berg papers</unittitle>
+         <unitdate normal="1953/1998"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1953-1998</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>87.5 Linear feet</extent>
+         </physdesc>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <descgrp type="provenance" id="prov">
+            <head>Provenance</head>
+            <custodhist id="ref4">
+               <p>Gift of Paul Berg, 1989, 1991, 2000, 2007, 2013.</p>
+            </custodhist>
+         </descgrp>
+         <accessrestrict id="ref2">
+            <head>Information about Access</head>
+            <p>Search files, student files, personnel files, letters of recommendation, and other confidential materials are restricted.</p>
+         </accessrestrict>
+         <userestrict id="ref3">
+            <head>Ownership &amp; Copyright</head>
+            <p>Property rights reside with the repository. Literary rights reside with the creators of the documents or their heirs. To obtain permission to publish or reproduce, please contact the Public Services Librarian of the Dept. of Special Collections and University Archives.</p>
+         </userestrict>
+         <prefercite id="ref5">
+            <head>Cite As</head>
+            <p>[Identification of item], Paul Berg Papers (SC0358). Dept. of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <bioghist id="ref6">
+         <head>Biography</head>
+         <p>Biochemistry Professor at Stanford University since 1960, Berg received the Nobel Prize for chemistry in 1980 for "fundamental studies of the biochemistry of nucleic acids with particular regard to recombinant DNA." He was appointed Director of Stanford's Center for Molecular and Genetic Medicine in 1984. In 1967, Berg, working at the Salk Institute, redirected his study of protein synthesis from bacterial cells to tumor viruses. By 1970, this research had led Berg and his associates to conclude their experiments could form the basis of "man-made living matter." Spurred by growing ethical questions, Berg chaired the National Academy of Sciences 1975 conference which focused on the potential hazards of recombinant DNA research and resulted in the policy and quidelines which form the framework for genetic research.</p>
+      </bioghist>
+      <bioghist id="ref7">
+         <head>Chronology</head>
+         <chronlist>
+            <chronitem>
+               <date>1952-1954:</date>
+               <eventgrp>
+                  <event>American Cancer Society fellow, Institute in Copenhagen and Washington University School of medicine. His work was concerned with clarifying how the master substances of heredity, DNA, transfers its genetic information to analogous molecules, known as RNA, which serve as templates for making proteins.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1954:</date>
+               <eventgrp>
+                  <event>Scholar in cancer research at University of Washington. His work on the genetic apparatus that directs the synthesis of protein earned Berg the Eli Lilly award in biochemistry in 1959.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1960:</date>
+               <eventgrp>
+                  <event>Stanford School of Medicine, associate professor of biochemistry and until 1967 continued work on protein synthesis. All this work was based on bacterial cells, but in 1967, he decided to do research on animal cells, taking a year's leave. He worked at the Salk Institute on tumor viruses.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1970:</date>
+               <eventgrp>
+                  <event>By about 1970, Berg and his associates began to think how they might use tumor viruses to bring new genes to animal cells - "man-made living matter" or "engineered a new genetic molecule." This raised the question of ethics, so, in 1973, they stopped experimentation.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1975:</date>
+               <eventgrp>
+                  <event>National Academy of Sciences sponsors meeting, chaired by Berg, whose purpose is to conduct a survey of potential hazards involved (Asilomar). This resulted in a set of recommendations to establish guidelines to put certain constraints on experiments; these were organized by the NIH and are used as guidelines today.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1980:</date>
+               <eventgrp>
+                  <event>Berg was awarded the Nobel Prize in chemistry for "fundamental studies of the biochemistry of nucleic acids with particular regard to recombinant DNA." Berg was also responsible for shaping "policy" for dealing with possible risks of recombinant DNA research.</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1984:</date>
+               <eventgrp>
+                  <event>Appointed director of Stanford University's Center for Molecular and Genetic Medicine.</event>
+               </eventgrp>
+            </chronitem>
+         </chronlist>
+      </bioghist>
+      <scopecontent id="ref9">
+         <head>Scope and Content</head>
+         <p>Collection focuses on Berg's work with recombinant DNA and includes professional correspondence, 1959-1985; research lab notebooks for the years 1953-1986 which document his work with protein synthesis in bacterial cells and tumor viruses; records concerning the National Academy of Sciences conference on recombinant DNA research guidelines; records from his Stanford positions including administrative files, grant files, departmental records, student files, lectures, and symposia; reprints and illustrations; and videotapes and audiotapes.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <corpname rules="dacs" source="local" role=" ">National Academy of Sciences (U.S.).</corpname>
+         <corpname rules="dacs" source="ingest" role=" ">Stanford University. Beckman Center for Molecular and Genetic Medicine.</corpname>
+         <corpname rules="dacs" source="ingest" role=" ">Stanford University. Department of Biochemistry. -- General subdivision--Faculty.; </corpname>
+         <subject source="lcsh">Molecular genetics.</subject>
+         <subject source="lcsh">Nobel Prizes.</subject>
+         <subject source="lcsh">Recombinant DNA--Research.</subject>
+         <subject source="lcsh">Science--Moral and ethical aspects.</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.7">
+         <head>Collection Contents</head>
+         <c01 id="ref10" level="series">
+            <did>
+               <unitid>Series 1</unitid>
+               <unittitle>Correspondence</unittitle>
+               <unitdate>1959-1985</unitdate>
+            </did>
+            <c02 id="ref11" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Correspondence A - J</unittitle>
+                  <unitdate>1959 - 1962</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref12" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Correspondence K - Z</unittitle>
+                  <unitdate>1959 - 1962</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref13" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Correspondence</unittitle>
+                  <unitdate>1962 - 1964</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref14" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Correspondence A - B</unittitle>
+                  <unitdate>1965 - 1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref15" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Correspondence C - D</unittitle>
+                  <unitdate>1965 - 1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref16" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Correspondence E - G</unittitle>
+                  <unitdate>1965 - 1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref17" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Correspondence H - K</unittitle>
+                  <unitdate>1965 - 1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref18" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Correspondence L - N</unittitle>
+                  <unitdate>1965 - 1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref19" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Correspondence O - R</unittitle>
+                  <unitdate>1965 - 1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref20" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Correspondence S</unittitle>
+                  <unitdate>1965 - 1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref21" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Correspondence T - Z</unittitle>
+                  <unitdate>1965 - 1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref22" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Correspondence on Positions</unittitle>
+                  <unitdate>1959 - 1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref23" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Comm. on Medical Education - Drafts and reports</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref24" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">14</container>
+                  <unittitle>NAS - letters of congratulations,</unittitle>
+                  <unitdate>1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref25" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">15</container>
+                  <unittitle>Gordan Conference (Nucleic Acids),</unittitle>
+                  <unitdate>1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref26" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">16</container>
+                  <unittitle>NIH Study Section - Physiological Chemistry, corresp.</unittitle>
+                  <unitdate>1964 - 1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref27" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">17</container>
+                  <unittitle>NIH Study Section, correspondence</unittitle>
+                  <unitdate>1964 - 1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref28" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">18</container>
+                  <unittitle>Comm. on Public Exercises &amp; Public Events</unittitle>
+                  <unitdate>1968 - 1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref29" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">19</container>
+                  <unittitle>University Public Health Committee corresp.,</unittitle>
+                  <unitdate>1968 - 1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref30" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">20</container>
+                  <unittitle>Comm. on Committees (Proposed Research) corresp.,</unittitle>
+                  <unitdate>1968 - 1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref31" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">21</container>
+                  <unittitle>NAS - National Research Council, correspondence,</unittitle>
+                  <unitdate>1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref32" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">22</container>
+                  <unittitle>NAS - Life Sciences panel, correspondence,</unittitle>
+                  <unitdate>1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref33" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">23</container>
+                  <unittitle>NAS, correspondence,</unittitle>
+                  <unitdate>1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref34" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Journal of Biological Chemistry, Publications Committee, correspondence,</unittitle>
+                  <unitdate>1965 - 1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref35" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Journal of Molecular Biology, correspondence,</unittitle>
+                  <unitdate>1967 - 1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref36" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Orbit correspondence,</unittitle>
+                  <unitdate>1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref37" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">4</container>
+                  <unittitle>NAS, correspondence,</unittitle>
+                  <unitdate>1967 - 1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref38" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Post-doctoral applications, rejected</unittitle>
+                  <unitdate>1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref39" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Correspondence A - H</unittitle>
+                  <unitdate>1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref40" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Correspondence I - O</unittitle>
+                  <unitdate>1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref41" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Correspondence P - Z</unittitle>
+                  <unitdate>1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref42" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Correspondence A - H</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref43" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Correspondence I - O</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref44" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Correspondence P -Z</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref45" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Correspondence, Chron file,</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref46" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Correspondence, Chron file,</unittitle>
+                  <unitdate>January - June 1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref47" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Correspondence, Chron file,</unittitle>
+                  <unitdate>July -November 1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref48" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Correspondence A - L</unittitle>
+                  <unitdate>1972</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref49" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Correspondence M - Z</unittitle>
+                  <unitdate>1972</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref50" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Correspondence, Chron file,</unittitle>
+                  <unitdate>1973</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref51" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Correspondence A - K</unittitle>
+                  <unitdate>1973</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref52" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Correspondence M - Z</unittitle>
+                  <unitdate>1973</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref53" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Correspondence, Faculty/Technical Positions,</unittitle>
+                  <unitdate>1973</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref54" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Correspondence post-doc rejects,</unittitle>
+                  <unitdate>1973</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref55" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Correspondence, Chron file,</unittitle>
+                  <unitdate>1974</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref56" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Correspondence A - N</unittitle>
+                  <unitdate>1974</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref57" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Correspondence N - Z</unittitle>
+                  <unitdate>1974</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref58" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Correspondence, Faculty positions,</unittitle>
+                  <unitdate>1974</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref59" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Correspondence A - Z</unittitle>
+                  <unitdate>1975</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref60" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Correspondence, post-doc rejects,</unittitle>
+                  <unitdate>1974</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref61" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Correspondence NSF Human Cell Program</unittitle>
+                  <unitdate>1971 - 1974</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref62" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Correspondence NSF Human Biology Steering Comm.</unittitle>
+                  <unitdate>1970 - 1976</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref63" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Correspondence "President's Biomedical Research Panel - Palade's Cluster"</unittitle>
+                  <unitdate>1975</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref64" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Correspondence Jane Coffin Childs Fund,</unittitle>
+                  <unitdate>1972</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref65" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Correspondence, University Comm. on Research Policy</unittitle>
+                  <unitdate>1972 -1976</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref66" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Correspondence with Rich [Med. School Dean]</unittitle>
+                  <unitdate>1973</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref67" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Correspondence Jane Coffin Childs</unittitle>
+                  <unitdate>April 1973</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref68" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Correspondence Jane Coffin Childs meeting,</unittitle>
+                  <unitdate>1974 Oct. 4</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref69" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Correspondence Jane C. Childs Spring Meeting</unittitle>
+                  <unitdate>1975</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref70" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Correspondence, Council on Analysis and Projection</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref71" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">15</container>
+                  <unittitle>Correspondence, Council on Analysis and Projection</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref72" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">16</container>
+                  <unittitle>Scientific American</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref73" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <container type="Folder">17</container>
+                  <unittitle>National Medal of Science, nomination A. Kornberg,</unittitle>
+                  <unitdate>1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref74" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Correspondence A - C</unittitle>
+                  <unitdate>1976 - 1978</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref75" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Correspondence D - G</unittitle>
+                  <unitdate>1976 - 1978</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref76" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Correspondence H - L</unittitle>
+                  <unitdate>1976 - 1978</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref77" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Correspondence M - Q</unittitle>
+                  <unitdate>1976 - 1978</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref78" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Correspondence R - T</unittitle>
+                  <unitdate>1976 - 1978</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref79" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Correspondence U - W</unittitle>
+                  <unitdate>1976 - 1978</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref80" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Correspondence A - C</unittitle>
+                  <unitdate>1978 - 1979</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref81" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Correspondence D - F</unittitle>
+                  <unitdate>1978 - 1979</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref82" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Correspondence G - I</unittitle>
+                  <unitdate>1978 - 1979</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref83" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Correspondence J - N</unittitle>
+                  <unitdate>1978 - 1979</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref84" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Correspondence R</unittitle>
+                  <unitdate>1978 - 1979</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref85" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Correspondence S - Z</unittitle>
+                  <unitdate>1978 - 1979</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref86" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Letters of Recommendation, A - D</unittitle>
+                  <unitdate>1973 - 1976</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref87" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Letters of Recommendation, E - H</unittitle>
+                  <unitdate>1973 - 1976</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref88" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">15</container>
+                  <unittitle>Letters of Recommendation, J - O</unittitle>
+                  <unitdate>1976 - 1977</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref89" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">16</container>
+                  <unittitle>Letters of Recommendation, R - Z</unittitle>
+                  <unitdate>1972 - 1978</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref90" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">17</container>
+                  <unittitle>Post-doc application rejects,</unittitle>
+                  <unitdate>Jan - June 1979</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref91" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <container type="Folder">18</container>
+                  <unittitle>Post-doc application rejects,</unittitle>
+                  <unitdate>July - December 1979</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref92" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">1-79</container>
+                  <unittitle>Travel Correspondence - lectures/symposia</unittitle>
+                  <unitdate>1982 - 1985</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref93" level="file">
+               <did>
+                  <container type="Box">7</container>
+                  <unittitle>Travel Correspondence - lectures/symposia</unittitle>
+                  <unitdate>1980 - 1981</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref94" level="series">
+            <did>
+               <unitid>Series 2</unitid>
+               <unittitle>Research lab notebooks</unittitle>
+               <unitdate>1953-1986</unitdate>
+            </did>
+            <c02 id="ref95" level="file">
+               <did>
+                  <unittitle>Paul Berg</unittitle>
+               </did>
+               <c03 id="ref96" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Methods (Salk Institute)</unittitle>
+                     <unitdate>1967/68</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref97" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Mut 51 - 78 (Salk Institute)</unittitle>
+                     <unitdate>1967</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref98" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">3</container>
+                     <unittitle>RNA - Isolation from Tissue Cultures</unittitle>
+                     <unitdate>1967</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref99" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">4</container>
+                     <unittitle>PY (P.B.) (La Jolla)</unittitle>
+                     <unitdate>1967</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref100" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Mut 79 - 141 (Salk Institute)</unittitle>
+                     <unitdate>1968</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref101" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Mut 142 - 225 (Salk Institute)</unittitle>
+                     <unitdate>1968/69</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref102" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">7</container>
+                     <unittitle>AA - Incorporation (Amino acids ?)</unittitle>
+                     <unitdate>1968</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref103" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">8</container>
+                     <unittitle>EM (Electron Microscopy) of TSA viral DNA's</unittitle>
+                     <unitdate>1968</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref104" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Nicking-Enzyme (F.C.)</unittitle>
+                     <unitdate>1969</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref105" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">10</container>
+                     <unittitle>Nicking-Enzyme II (F.C.)</unittitle>
+                     <unitdate>1969</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref106" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Virus I V-1 to V-57 (M.D.)</unittitle>
+                     <unitdate>1969/71</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref107" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">12</container>
+                     <unittitle>DNA-Synthesis in Nuclei (M. D.)</unittitle>
+                     <unitdate>1970</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref108" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">13</container>
+                     <unittitle>c-RNA-Synthesis in vitro (Py)</unittitle>
+                     <unitdate>1970/71</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref109" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">14</container>
+                     <unittitle>Cot 1</unittitle>
+                     <unitdate>1970/71</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref110" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">15</container>
+                     <unittitle>Hin Fragments (SV 40)</unittitle>
+                     <unitdate>1972</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref111" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">16</container>
+                     <unittitle>Cot 2</unittitle>
+                     <unitdate>1972</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref112" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Acetate III,</unittitle>
+                     <unitdate>1954-55</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref113" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Acetate IV, Part 1,</unittitle>
+                     <unitdate>1955-56</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref114" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Acetate IV, part 2,</unittitle>
+                     <unitdate>1955-56</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref115" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Synthesis of amino acyl adenylates,</unittitle>
+                     <unitdate>1956</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref116" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Synthesis and study of adenyl-amino acids</unittitle>
+                     <unitdate>1956 Sept. - 1957 May</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref117" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Amino acid incorporatio into RNA, I,</unittitle>
+                     <unitdate>1957 May - 1958 July</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref118" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Amino acid incorporatio into RNA, II,</unittitle>
+                     <unitdate>1958 July - 1959 April</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref119" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Purification of e. coli RNase</unittitle>
+                     <unitdate>1958-59</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref120" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Purification of RNA,</unittitle>
+                     <unitdate>1959 Jan. - May</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref121" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">10</container>
+                     <unittitle>Acetate incorporation</unittitle>
+                     <unitdate>1964 Mar. 18 - 1964 June 2</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref122" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Acetate incorporation</unittitle>
+                     <unitdate>1964 June 23- Sept. 22</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref123" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">12</container>
+                     <unittitle>Purification of amino acid activating enzymes</unittitle>
+                     <unitdate>1958 June - October</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref124" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">13</container>
+                     <unittitle>Methionyl Act-Enz (Yeast) I,</unittitle>
+                     <unitdate>1955-56</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref125" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">14</container>
+                     <unittitle>Unlabeled [Acetate II ?],</unittitle>
+                     <unitdate>1954</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref126" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <container type="Folder">15</container>
+                     <unittitle>Acetate I,</unittitle>
+                     <unitdate>1953-54</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref127" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <container type="Folder">1</container>
+                     <unittitle>GLy-RNA Synthetase I,</unittitle>
+                     <unitdate>1965 July 11 - 1966 Aug. 26</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref128" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <container type="Folder">2</container>
+                     <unittitle>GLy-RNA Synthetase II,</unittitle>
+                     <unitdate>1966 Aug. 25 -1967 Apr. 12</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref129" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <container type="Folder">3</container>
+                     <unittitle>GLy-RNA Synthetase III,</unittitle>
+                     <unitdate>1967 July 14 - Aug. 14</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref130" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Prep. &amp; triphosphates</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref131" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Growth curves</unittitle>
+                     <unitdate>1966 Sept. 19 - 1967 July 6</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref132" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Preparation of ARPP+P+,</unittitle>
+                     <unitdate>1964</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref133" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Vancouver</unittitle>
+                     <unitdate>1956</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref134" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Paris experiments,</unittitle>
+                     <unitdate>1961</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref135" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Polyama Cot Data</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref136" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Science article,</unittitle>
+                     <unitdate>1968</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref137" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <container type="Folder">6</container>
+                     <unittitle>General thoughts on suppression</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref138" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Notes for paper on level of suppression</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref139" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Mechanism of missense suppression</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref140" level="file">
+               <did>
+                  <unittitle>Dieckmann/Berg</unittitle>
+               </did>
+               <c03 id="ref141" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">1</container>
+                     <unittitle>COT II A</unittitle>
+                     <unitdate>1972</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref142" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">2</container>
+                     <unittitle>COTs for publication</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref143" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">3</container>
+                     <unittitle>SV Plaque Morphology Mutants</unittitle>
+                     <unitdate>1973</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref144" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Isolation of SV 40 Complex</unittitle>
+                     <unitdate>1973</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref145" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">5</container>
+                     <unittitle>SV 40 Mutants (Plaque Assays)</unittitle>
+                     <unitdate>1974/1975</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref146" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">6</container>
+                     <unittitle>SV 40 Mu, Dn'ase (Mutants M. D.)</unittitle>
+                     <unitdate>1975/1976</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref147" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">7</container>
+                     <unittitle>SV 40 Mu Late and Early (dl 861)</unittitle>
+                     <unitdate>1975/1976</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref148" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">8</container>
+                     <unittitle>SV 40 Mu, Complementation (Mutant Characterization Complementation)</unittitle>
+                     <unitdate>1976</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref149" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Replication Ori</unittitle>
+                     <unitdate>1976</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref150" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">10</container>
+                     <unittitle>SV 40 Mu, Hpall, Early and Late</unittitle>
+                     <unitdate>1976</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref151" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Lagerkrist</unittitle>
+                     <unitdate>1977</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref152" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">12</container>
+                     <unittitle>Plasminogen Activator</unittitle>
+                     <unitdate>1977/1978</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref153" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">13</container>
+                     <unittitle>Tag Function (Doefler), Dieckmann</unittitle>
+                     <unitdate>1978</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref154" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">14</container>
+                     <unittitle>Restriction Mapping of Yeast t-RNA Inserts</unittitle>
+                     <unitdate>1978</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref155" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">15</container>
+                     <unittitle>beta Globin, 2kb in SV</unittitle>
+                     <unitdate>1979</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref156" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">16</container>
+                     <unittitle>alpha- and beta-Globin in SV</unittitle>
+                     <unitdate>1979</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref157" level="file">
+               <did>
+                  <unittitle>Berg/Dieckmann/Hoshi</unittitle>
+               </did>
+               <c03 id="ref158" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Mouse Embryos</unittitle>
+                     <unitdate>1980</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref159" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">2</container>
+                     <unittitle>NIH Guidelines</unittitle>
+                     <unitdate>1980, 1982, 1986</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref160" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">3</container>
+                     <unittitle>TC June Hoshi</unittitle>
+                     <unitdate>1970</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref161" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">4</container>
+                     <unittitle>[Untitled]</unittitle>
+                     <unitdate>1974/75</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref162" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">5</container>
+                     <unittitle>[Untitled]</unittitle>
+                     <unitdate>1976/77</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref163" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">6</container>
+                     <unittitle>[Untitled]</unittitle>
+                     <unitdate>1978 to 1980</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref164" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">7</container>
+                     <unittitle>[Untitled]</unittitle>
+                     <unitdate>1980/81</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref165" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">8</container>
+                     <unittitle>[Untitled]</unittitle>
+                     <unitdate>1982 to 1986</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref166" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Plaque Assays</unittitle>
+                     <unitdate>1972 to 1979</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref167" level="file">
+               <did>
+                  <unittitle>Notebooks by others</unittitle>
+               </did>
+               <c03 id="ref168" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Peter Powell's paper and notes</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref169" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Jack Preiss: ACC - adding enzyme, Book 1,</unittitle>
+                     <unitdate>1959-60</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref170" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Jack Preiss: ACC - adding enzyme, Book 2,</unittitle>
+                     <unitdate>1959-60</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref171" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Jack Preiss: ACC - adding enzyme, Book 3,</unittitle>
+                     <unitdate>1959-60</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref172" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Jack Preiss: ACC-RNA end group identification</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref173" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <container type="Folder">10</container>
+                     <unittitle>Jack Preiss: E. Coli Lysates,</unittitle>
+                     <unitdate>1958 Sept. - 1959 May</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref174" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Fred Bergmann notebooks</unittitle>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="ref175" level="series">
+            <did>
+               <unitid>Series 3</unitid>
+               <unittitle>Recombinant DNA</unittitle>
+               <unitdate>1973-1977</unitdate>
+            </did>
+            <c02 id="ref176" level="file">
+               <did>
+                  <unittitle>History</unittitle>
+                  <unitdate>1973 - 1977</unitdate>
+               </did>
+               <c03 id="ref177" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <container type="Folder">10</container>
+                     <unittitle>Correspondence, A - H (pre Asilomar),</unittitle>
+                     <unitdate>1974 - 1975</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref178" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Correspondence, I - R (pre Asilomar),</unittitle>
+                     <unitdate>1974 - 1975</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref179" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <container type="Folder">12</container>
+                     <unittitle>Correspondence, S - Z (pre Asilomar),</unittitle>
+                     <unitdate>1974 - 1975</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref180" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <container type="Folder">13</container>
+                     <unittitle>Asilomar Administrative Materials (conference coordinator)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref181" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <container type="Folder">14</container>
+                     <unittitle>Asilomar Meeting Material</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref182" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <container type="Folder">15</container>
+                     <unittitle>Final Report (originals)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref183" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <container type="Folder">16</container>
+                     <unittitle>Asilomar statement documents</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref184" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <container type="Folder">17</container>
+                     <unittitle>NAS Final Report (Working Papers)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref185" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <container type="Folder">18</container>
+                     <unittitle>Correspondence (post Asilomar)</unittitle>
+                     <unitdate>1975</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref186" level="file">
+                  <did>
+                     <container type="Box">14</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Correspondence (post Asilomar)</unittitle>
+                     <unitdate>1976 - 1977</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref187" level="file">
+                  <did>
+                     <container type="Box">14</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Correspondence (pre Asilomar)</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref188" level="file">
+               <did>
+                  <unittitle>Papers</unittitle>
+                  <unitdate>1973 - 1977</unitdate>
+               </did>
+               <c03 id="ref189" level="file">
+                  <did>
+                     <container type="Box">14</container>
+                     <container type="Folder">3</container>
+                     <unittitle>News articles</unittitle>
+                     <unitdate>prior to 1974</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref190" level="file">
+                  <did>
+                     <container type="Box">14</container>
+                     <container type="Folder">4</container>
+                     <unittitle>News articles</unittitle>
+                     <unitdate>1974</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref191" level="file">
+                  <did>
+                     <container type="Box">14</container>
+                     <container type="Folder">5</container>
+                     <unittitle>News articles</unittitle>
+                     <unitdate>1975</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref192" level="file">
+                  <did>
+                     <container type="Box">14</container>
+                     <container type="Folder">6</container>
+                     <unittitle>News articles</unittitle>
+                     <unitdate>1977</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref193" level="file">
+                  <did>
+                     <container type="Box">14</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Recombinant DNA Controversy at Ann Arbor, Michigan</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref194" level="file">
+                  <did>
+                     <container type="Box">14</container>
+                     <container type="Folder">8</container>
+                     <unittitle>NIH Director's Advisory Committee Meeting,</unittitle>
+                     <unitdate>Feb. 9 -10, 1976</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref195" level="file">
+                  <did>
+                     <container type="Box">14</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Kennedy Hearings Cambridge Controversy</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref196" level="file">
+                  <did>
+                     <container type="Box">14</container>
+                     <container type="Folder">10</container>
+                     <unittitle>Non-NIH Guidelines (USA &amp; abroad)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref197" level="file">
+                  <did>
+                     <container type="Box">15</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Index, RDR Reference lists, RDR Master of selected articles</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref198" level="file">
+                  <did>
+                     <container type="Box">15</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Correspondence (MIT meeting)</unittitle>
+                     <unitdate>1974</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref199" level="file">
+                  <did>
+                     <container type="Box">15</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Manuscripts</unittitle>
+                     <unitdate>1974 - 1977</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref200" level="file">
+                  <did>
+                     <container type="Box">15</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Recombinant DNA Research Vol. 1, US Dept HEW, NIH</unittitle>
+                     <unitdate>August 1976:</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref201" level="file">
+                  <did>
+                     <container type="Box">15</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Draft: Environmental Impact Statement Guidelines for research involving Recombinant DNA Molecules</unittitle>
+                     <unitdate>1976 Aug. 19</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref202" level="file">
+                  <did>
+                     <container type="Box">15</container>
+                     <container type="Folder">6</container>
+                     <unittitle>NIH Recombinant DNA research minutes/meeting reports etc.,</unittitle>
+                     <unitdate>1976 - 1977</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref203" level="file">
+                  <did>
+                     <container type="Box">15</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Cambridge City Council Matters</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref204" level="file">
+                  <did>
+                     <container type="Box">15</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Published Reactions to NIH Guidelines on RD Research</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref205" level="file">
+                  <did>
+                     <container type="Box">15</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Reply to Chargaff letter</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref206" level="file">
+                  <did>
+                     <container type="Box">15</container>
+                     <container type="Folder">10</container>
+                     <unittitle>WHO on Recombinant DNA Molecules</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref207" level="file">
+                  <did>
+                     <container type="Box">15</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Germ warfare correspondence</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref208" level="file">
+                  <did>
+                     <container type="Box">15</container>
+                     <container type="Folder">12</container>
+                     <unittitle>"Genetic Scientists: Facing the Mutant Microbe," Rolling Stone,</unittitle>
+                     <unitdate>June 19, 1975</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref209" level="file">
+                  <did>
+                     <container type="Box">15</container>
+                     <container type="Folder">13</container>
+                     <unittitle>"Genetisk Manipulation," INGENIOREN,</unittitle>
+                     <unitdate>Sept. 22, 1977</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref210" level="file">
+                  <did>
+                     <container type="Box">22</container>
+                     <unittitle>DNA: meetings/hearings/publications</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref211" level="file">
+                  <did>
+                     <container type="Box">23</container>
+                     <unittitle>DNA: essays</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref212" level="file">
+                  <did>
+                     <container type="Box">25</container>
+                     <unittitle>Recombinant DNA articles/clippings,</unittitle>
+                     <unitdate>1976 - 1977</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref213" level="file">
+                  <did>
+                     <container type="Box">25</container>
+                     <unittitle>DNA: copies of Berg's Senate Testimony</unittitle>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="ref214" level="series">
+            <did>
+               <unitid>Series 4</unitid>
+               <unittitle>The Salk Institute</unittitle>
+               <unitdate>1972 - 1976</unitdate>
+            </did>
+            <c02 id="ref215" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <container type="Folder">14</container>
+                  <unittitle>CV of Personnel for Dr. Paul Berg</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref216" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <container type="Folder">15</container>
+                  <unittitle>Salk Institute: Correspondence, Holley's Lab, Salk Personnel listing</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref217" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <container type="Folder">16</container>
+                  <unittitle>Banbury Center - Cold Spring Harbor Lab, (Initial attempts at Berg et al II - corresp -, Bio-hazards of Viruses)</unittitle>
+                  <unitdate>circa 1977</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref218" level="series">
+            <did>
+               <unitid>Series 5</unitid>
+               <unittitle>Administrative files</unittitle>
+               <unitdate>1968-1984</unitdate>
+            </did>
+            <c02 id="ref219" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <container type="Folder">80</container>
+                  <unittitle>Manuscript - 
+                            <title render="italic" linktype="simple">Biofuture: Confronting the Genetic Era,</title>pp. 1 - 465, by Burke K. Zimmerman,</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref220" level="file">
+               <did>
+                  <container type="Box">16</container>
+                  <container type="Folder"/>
+                  <unittitle>Grant files ca.</unittitle>
+                  <unitdate>1974 - 1982</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref221" level="file">
+               <did>
+                  <container type="Box">16-17</container>
+                  <container type="Folder"/>
+                  <unittitle>Reprints</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref222" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Faculty applications, post-doc applications</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref223" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Staff Meeting Minutes</unittitle>
+                  <unitdate>1969 July 1</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref224" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Faculty Meetings - Agendas - Minutes,</unittitle>
+                  <unitdate>1968 - 1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref225" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Faculty Senate - Agenda - Minutes,</unittitle>
+                  <unitdate>Jan - Dec 1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref226" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Faculty Meeting,</unittitle>
+                  <unitdate>1971 - 1972</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref227" level="file">
+               <did>
+                  <container type="Box">17</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Faculty Meeting,</unittitle>
+                  <unitdate>1972 - 1973</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref228" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Faculty Minutes and Memos</unittitle>
+                  <unitdate>1979 Sept. - 1980 Aug.</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref229" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Faculty Minutes and Memos</unittitle>
+                  <unitdate>1979 Sept. - 1980 Aug.</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref230" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Faculty Minutes and Memos</unittitle>
+                  <unitdate>1980 Sept. - 1982 Aug.</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref231" level="file">
+               <did>
+                  <container type="Box">18</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Executive Committee</unittitle>
+                  <unitdate>Dec 1971 - March 1973</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref232" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Executive Committee</unittitle>
+                  <unitdate>April - Dec 1973</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref233" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Weekly-Minder</unittitle>
+                  <unitdate>1971 - 1972</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref234" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Weekly-Minder</unittitle>
+                  <unitdate>1972 - 1973</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref235" level="file">
+               <did>
+                  <container type="Box">19</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Hearings/Committees on Recombinant DNA (US Senate/State legislatures)</unittitle>
+                  <unitdate>1976 - 1977</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref236" level="file">
+               <did>
+                  <container type="Box">20</container>
+                  <unittitle>Misc. Grant files and Disk files</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref237" level="file">
+               <did>
+                  <container type="Box">20-21</container>
+                  <unittitle>Post doc files</unittitle>
+                  <unitdate>1981-1984</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref238" level="file">
+               <did>
+                  <container type="Box">21</container>
+                  <unittitle>Trip Files: lectures/symposia,</unittitle>
+                  <unitdate>1975 - 1980</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref239" level="file">
+               <did>
+                  <container type="Box">22</container>
+                  <unittitle>Trip files/lectures/symposia</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref240" level="file">
+               <did>
+                  <container type="Box">23</container>
+                  <unittitle>National Academy of Sciences Council Meeting</unittitle>
+                  <unitdate>1980 Oct. 26</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref241" level="file">
+               <did>
+                  <container type="Box">24</container>
+                  <container type="Folder">1</container>
+                  <unittitle>National Academy of Sciences</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref242" level="file">
+               <did>
+                  <container type="Box">24</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Congressional Hearing</unittitle>
+                  <unitdate>1981 May 6</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref243" level="file">
+               <did>
+                  <container type="Box">24</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Manuscript Reviews completed</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref244" level="file">
+               <did>
+                  <container type="Box">24</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Potential post-doctoral fellows</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref245" level="file">
+               <did>
+                  <container type="Box">24</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Seminar Invitations declined</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref246" level="file">
+               <did>
+                  <container type="Box">24</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Misc. check requests</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref247" level="file">
+               <did>
+                  <container type="Box">24</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Medical School Biohazards Committee</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref248" level="series">
+            <did>
+               <unitid>Series 6</unitid>
+               <unittitle>Audiovisual Materials</unittitle>
+            </did>
+            <c02 id="ref249" level="file">
+               <did>
+                  <container type="Box">26-27</container>
+                  <container type="Folder"/>
+                  <unittitle>Illustrations for publications</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref250" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <container type="Folder"/>
+                  <unittitle>Seminar, Part I and Part II,</unittitle>
+                  <unitdate>1987 Nov. 11</unitdate>
+                  <physdesc>
+                     <extent>2 videotape(s) (VHS)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref252" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>"Genetic Engineering: Challenge and Responsibility,"</unittitle>
+                  <unitdate>1975 Mar 7</unitdate>
+                  <physdesc>
+                     <extent>1 videotape(s) (U-matic)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref254" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>"Dissections and Reconstruction of the SV40 Genome," NIH Lecture</unittitle>
+                  <unitdate>1976 Nov 17</unitdate>
+                  <physdesc>
+                     <extent>1 audiotape(s) (reel-to-reel)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref256" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>William H. Stein, lecture at Rockefeller University</unittitle>
+                  <unitdate>1984 Mar 16</unitdate>
+                  <physdesc>
+                     <extent>1 audiocassette(s)</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref258" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>Untitled</unittitle>
+                  <physdesc>1 audio cassette</physdesc>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref260" level="series">
+            <did>
+               <unitid>Accession ARCH-1991-020</unitid>
+               <unittitle>Additional Material</unittitle>
+            </did>
+            <c02 id="ref261" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">1</container>
+                  <unittitle>News clippings on DNA research,</unittitle>
+                  <unitdate>1975 - 1976</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref262" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Business correspondence,</unittitle>
+                  <unitdate>1975 - 1976</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref263" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Personal correspondence, re: Asilomar,</unittitle>
+                  <unitdate>1975 - 1976</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref264" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Comments and revisions of Asilomar Report: drafts and letter,</unittitle>
+                  <unitdate>1975</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref265" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">5</container>
+                  <unittitle>News clippings on Ethics and Guidelines for Genetic Research,</unittitle>
+                  <unitdate>1975 - 1976</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref266" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Essays on the ethics of science/DNA research:</unittitle>
+               </did>
+               <c03 id="ref267" level="file">
+                  <did>
+                     <unittitle>The Benefits of Saying YES! by Paul Ehrlich</unittitle>
+                     <unitdate>(1975)</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref268" level="file">
+                  <did>
+                     <unittitle>Toward an International Ethic of Science by Sergent Shriver</unittitle>
+                     <unitdate>(1975)</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref269" level="file">
+                  <did>
+                     <unittitle>Untitled - final version of the bioethics story with letter to Berg from S. F. Moran</unittitle>
+                     <unitdate>(1975)</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref270" level="file">
+                  <did>
+                     <unittitle>Scientists with a Secret" by Spencer R. Weart</unittitle>
+                     <unitdate>(1976)</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref271" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Memos and info on conferences: Asilomar Conference - programs, roster, memo; Joint MRC/ARC/SRC Conference on Recombinant DNA,</unittitle>
+                  <unitdate>(1975)</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref272" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">8</container>
+                  <unittitle>International Conference on Recombinant DNA Molecules: memos, contract and budget</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref273" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">9</container>
+                  <unittitle>ASILOMAR Conference: "Summary Statement of the Asilomar Conference on Recombinant DNA Molecules" manuscript and "Report of the Organizing Committee of the Asilomar. . ." drafts</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref274" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">10</container>
+                  <unittitle>DNA Testimony to Senate Committee, incoming and outgoing correspondence, testimony by Berg for the Subcommittee on Science, Technology, and Space</unittitle>
+                  <unitdate>1977</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref275" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Recombinant DNA Correspondence,</unittitle>
+                  <unitdate>1979 - 1991</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref276" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Addresses/Conferees</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref277" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Recombinant DNA: correspondence and related matters,</unittitle>
+                  <unitdate>1976 - 1980</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref278" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Notebook: misc. letters and reports on recombinant DNA and conferences, NIH Advisory Committee, Environmental Impact Statement</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref279" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Notebook, Current Guidelines for Research in Recombinant DNA molecules, Members of the Recombinant DNA Program Advisory Committee - memos, letters, drafts, minutes</unittitle>
+                  <unitdate>1975</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref281" level="series">
+            <did>
+               <unitid>Accession ARCH-2001-092</unitid>
+               <unittitle>Additional Material</unittitle>
+            </did>
+            <c02 id="ref282" level="file">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>Office files</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref283" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Office files</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref284" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Binder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref285" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>David Singer</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref286" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>AMBO/AMBL</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref287" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Engelhardt Institute</unittitle>
+                  <unitdate>July 1999</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref288" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Tokyo Univ. Bio Inauguration</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref289" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Lasker Foundation</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref290" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Glenn Foundation</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref291" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>SKB proposals</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref292" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Genes &amp; Genomes: Correspondence</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref293" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Exploring: Early correspondence</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref294" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Dealing with Genes: Correspondence</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref295" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Beckman Center Newsletters</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref296" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Fellowship support</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref297" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Possible students</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref298" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Job applicants</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref299" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Research Students: Stanford policies</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref300" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Others' lab students: recs, nominations</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref301" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Postdocs: general</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref302" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Postdoc/grad student status</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref303" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Postdocs accepted</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref304" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Postdocs rejected</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref305" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Students accepted</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref306" level="file">
+               <did>
+                  <unittitle>NIH 13235:</unittitle>
+               </did>
+               <c03 id="ref307" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <unittitle>1996-7 NIH Renewal GM 13235</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref308" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <unittitle>1995-6 NIH Renewal GM 13235</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref309" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <unittitle>7/87-6/92 NIH Renewal GM 13235</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref310" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <unittitle>1989-9 NIH ROI 13235-22</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref311" level="file">
+               <did>
+                  <unittitle>Aging Grant:</unittitle>
+               </did>
+               <c03 id="ref312" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <unittitle>1995-6 Aging Grant renewal</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref313" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <unittitle>1994-5 Aging Grant renewal</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref314" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <unittitle>1993-4 Aging Grant renewal</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref315" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <unittitle>1992-3 Aging Grant renewal</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref316" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <unittitle>1990 Aging Grant</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref317" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <unittitle>1990 Aging Grant binder</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref318" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>NIH AIDS: Davis/Berg AIDS grant</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref319" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>CMB Grant</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref320" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Dzau Cardiovascular Training Grant</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref321" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Training Grant</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref322" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Bergfest</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref323" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>IOM Patent Study Group</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref324" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>cDNA Patent Letter</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref325" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Trip files, 1987-1990</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref326" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Trip files, 1990-1993</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref327" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Reprints 1951-79</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref328" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Reprints 1980-2000</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref329" level="file">
+               <did>
+                  <unittitle>Course materials:</unittitle>
+               </did>
+               <c03 id="ref330" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <unittitle>Path to Code</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref331" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <unittitle>Biochem 202 (1990-1997)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref332" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <unittitle>Human Bio 1993</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref333" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <unittitle>Hurlbut class</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref334" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <unittitle>DB229 Molec. &amp; Genetic Medicine</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref335" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <unittitle>Medicine 229</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref336" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <unittitle>Cell Sciences course</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref337" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>ASCB 1995</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref338" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>ASCB 1997</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref339" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>CASBS</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref340" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Chulabhorn Research Institute</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref341" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Rep. George Brown correspondence</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref342" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Human Genome Program Advisory Cte.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref343" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Gerontological Society of American</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref344" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>CA Academic Standards Commission</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref345" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>PB Personal</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref346" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>SF United School District Advis. Council</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref347" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>NFBR 194-5</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref348" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>NFBR 1996 (2 folders)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref349" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>NFBR 1997</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref350" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Mabel Beckman</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref351" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>Beckman F GAC 1990-1997</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref352" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>French Academy of Science</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref353" level="file">
+               <did>
+                  <container type="Box">8</container>
+                  <unittitle>5 binders Beckman design corrections</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref354" level="file">
+               <did>
+                  <unittitle>Beckman Fundraising 1980-1989:</unittitle>
+               </did>
+               <c03 id="ref355" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Fundraising correspondence 1980-1989</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref356" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Crocker proposal</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref357" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Genentech</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref358" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Communications with Kennedy 1984</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref359" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Communications with Crowley 1984</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref360" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Communications with Purpura 1984</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref361" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Discussions with Dean 1986</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref362" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>CMGM Fundraising correspondence</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref363" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Funding for CMGM Center</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref364" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Academic Plan for CMGM 8/84</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref365" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Original Program in Medical Genetics 1981</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref366" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>CMGM Search Committees</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref367" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Center for Molec. &amp; Genetic Med. Committee</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref368" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>HHMI Policies for Investigators</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref369" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Relations between HHMI and CMGM</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref370" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Hughes Institute materials</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref371" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Correspondence with Purnell Choppin</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref372" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>A. Beckman Matters 9/84</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref373" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Second Appeal to Beckman</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref374" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Fairchild Foundation</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref375" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Markey Foundation</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref376" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Markey Proposal II</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref377" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Mather Foundation matters</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref378" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Dealings with SKB</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref379" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>The SKB Agreement</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref380" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Correspondence with Wendt &amp; Dealings with SKB gifts</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref381" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>George &amp; Camilla Smith Foundation</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref382" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Zaffaroni file</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref383" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>MGM 5/10/85</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref384" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Scientific Symposium 20 Anniversary 3/27-28/80</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref385" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>PPG Discussions</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref386" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Sandoz</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref387" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Dupont file</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref388" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Steve Jobs</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref389" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Bob Swanson – Genentech</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref390" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Beckman Symposium 10/17/85</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref391" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>The Beckman Naming Occasion</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref392" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>General Fundraising</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref393" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Correspondence with Jack Whitehead</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref394" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Communications with Mrt. Li Ka-shing</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref395" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Gerson Bakar</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref396" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>David Blech</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref397" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Syntex – Rosenkranz and Allen</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref398" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Bob Noyce file</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref399" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Colton</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref400" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Brook Byers Foundation</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref401" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Ron Cape</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref402" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Weingart Foundation</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref403" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>[unlisted folders]</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref404" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>[NIH Grant - unlisted folders]</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref405" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Program in Molec. &amp; Genetic Medicine members</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref406" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>AAAS</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref407" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Beckman Symposium 10/12/85</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref408" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Erik Boye</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref409" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Karol Taylor</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref410" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Elman Walde</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref411" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Michael O'Donnell</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref412" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>David Bramhill</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref413" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Roger Kasken</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref414" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>James Flynn Jr.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref415" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Kazuhisa Sekimizu</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref416" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Fellowship Programs</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref417" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Hisaji Maki</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref418" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Kornberg Symposium 5/88 (2)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref419" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Beckman Management Group</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref420" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>1991 Markey Trust Proposal</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref421" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Industrial Affliliates</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref422" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Wm. Freeman &amp; Co.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref423" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>LSRF</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref424" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>NSF</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref425" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Nobel Committee (3)</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref426" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Franco-Amer Assn for Fetal Med</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref427" level="file">
+               <did>
+                  <container type="Box">11</container>
+                  <unittitle>Pre-'89 Correspondence F, G, M</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref428" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Pre-'89 Correspondence A-E, H-L, N-Z</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref429" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Rockefeller Board</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref430" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Trip files 1996</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref431" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Trip files 1996-97</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref432" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Videos of talks at The Welch Foundation Chemical Conference 1993</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref433" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Man's tie with A. Beckman image</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref434" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <unittitle>Course materials, 1996</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref435" level="file">
+               <did>
+                  <container type="Box">14</container>
+                  <unittitle>Trip files 1994</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref436" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <unittitle>Trip files 1995-97</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref437" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <unittitle>Videos</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref438" level="file">
+               <did>
+                  <container type="Box">16</container>
+                  <unittitle>Unlisted files</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref439" level="file">
+               <did>
+                  <container type="Box">16</container>
+                  <unittitle>Videos</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref440" level="series">
+            <did>
+               <unitid>Accession ARCH-2007-051</unitid>
+               <unittitle>Additional Material</unittitle>
+            </did>
+            <accessrestrict>
+               <p>Student records are restricted for 75 years from date of graduation.</p>
+            </accessrestrict>
+            <c02 id="ref442" level="file">
+               <did>
+                  <unittitle>Grad students</unittitle>
+               </did>
+               <c03 id="ref443" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <unittitle>Arndt- John, Donna</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref444" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <unittitle>Addresses of former group members</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref445" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <unittitle>Bretsdev, Mark</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref446" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <unittitle>Bnaerjee, Ronadip</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref447" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <unittitle>Mantevil-Brutlag, Simone</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref448" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <unittitle>Buchman, Andy</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref449" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <unittitle>Barsoum, James</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref450" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <unittitle>Baldwin, Anne Norris</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref451" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <unittitle>Clanedar, Rich</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref452" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <unittitle>Clark, Steve</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref453" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <unittitle>Carbon, John</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref454" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <unittitle>Canaani, Dan</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref455" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <unittitle>Chamberlin, Michael</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref456" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <unittitle>Chambers, Ian Paul</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref457" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <unittitle>Chu, Gilbert</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref458" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <unittitle>Cuzin, Francois</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref459" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <unittitle>Cruz, Myra</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref460" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <unittitle>Cole, Charles</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref461" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <unittitle>Dieckmann, Marianne</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref462" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <unittitle>Diaz, Elva</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref463" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <unittitle>DePamphilis, Mel</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref464" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <unittitle>Doerfler, Walter</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref465" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <unittitle>Donoho, Greg</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref466" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <unittitle>Dulbecco, Renato</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref467" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <unittitle>Arnanz, Montserrat</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref468" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <unittitle>Firmenich, Antoine</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref469" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <unittitle>Folk,</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref470" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <unittitle>Fromm, Mike</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref471" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <unittitle>Gassmann, Max</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref472" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <unittitle>Garren, Ron</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref473" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <unittitle>Geller, Al</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref474" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>Goff, Steve</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref475" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>Hacohen, Nir</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref476" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>Hayakawa, Dr. Hiroshi</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref477" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>Hays, Sharon, 2 folders</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref478" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>Higgins, Mark</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref479" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>Hofstetler, Hans</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref480" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>Hill, Charles</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref481" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>Holland, Eric</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref482" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>Hsu, Ming-ta</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref483" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>Howard, Bruce</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref484" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>Igarashi, Koiche</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref485" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>Iaccarino, M.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref486" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>Jessberger, Rolf</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref487" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>Kadesh, Tom</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref488" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>Unlabeled folder with photos</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref489" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>Jasin, Maria (no label on folder)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref490" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>Konner, Jason</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref491" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>Kirk-Felton, Libby</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref492" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>Kawakami, Christine</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref493" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>Kornberg, Roger</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref494" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>Kroeger, Chris</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref495" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>Krushelnycky, Bohdan</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref496" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>Lagerkvist</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref497" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>Lewis, Susanna (2 folders)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref498" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>Littauer, Uriel (2 folders)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref499" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Muenck, Karl</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref500" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Luria, Sylvie</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref501" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Magnusson, Govan</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref502" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Margolskee, Bob</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref503" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Mark, David</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref504" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>McPhail, Mike</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref505" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Mertz, Janet</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref506" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Morrow, John</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref507" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Morrison, Sherie</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref508" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Mulligan, Richard</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref509" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Mukherjee, Siddhartha</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref510" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Nichols, J. F.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref511" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Nordloh</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref512" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Ogunmola, Prof G. B.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref513" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Ofengand</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref514" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Peabody, Dave</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref515" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Ozawa, Clare</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref516" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Ostrem, Dennis</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref517" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Okayama, Hiroto</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref518" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Primakoff, Paul</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref519" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Pontius, Brian</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref520" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Reichardt, Jurgen</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref521" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Rathmell, Kim</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref522" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Remtulla, Ally</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref523" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Reichard, Peter</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref524" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Schreiber, Edgar</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref525" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Rigby, Peter</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref526" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Scott, Christopher (no folder)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref527" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Shenk, Tom</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref528" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Sklar, Jeff</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref529" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <unittitle>Shishido, Kazuo (2 folders)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref530" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <unittitle>Smith, Andrew – 2 folders</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref531" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <unittitle>Southern, Peter</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref532" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <unittitle>Soll, Larry</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref533" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <unittitle>Smith, Brad</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref534" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <unittitle>Strehlow, David</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref535" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <unittitle>Stuhlmann, Heidi</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref536" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <unittitle>Symans, R. H.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref537" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <unittitle>Suresh, Subramani</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref538" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <unittitle>Theland, Lars</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref539" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <unittitle>Yarus, M</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref540" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <unittitle>Tomasson, Mike</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref541" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <unittitle>Wilson, John</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref542" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <unittitle>Walberg, Mark</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref543" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <unittitle>Villareal, L.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref544" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <unittitle>Trager, Jacqueline</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref545" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <unittitle>Yamiu</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref546" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <unittitle>White, Ty</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref547" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <unittitle>Wood, B.W.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref548" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <unittitle>Wong, Brian</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref549" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <unittitle>You, Ji Chang</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref550" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <unittitle>Zierler, Helge (2 folders)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref551" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <unittitle>Zemelman, Boris</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref552" level="file">
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Strain notebooks – 4 volumes with sections labeled with individual (student?) names</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref553" level="file">
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Berg Reprints</unittitle>
+                  <unitdate>circa 1979-1996</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref554" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Berg Reprints</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref555" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>External Science Advisory Committee</unittitle>
+                  <unitdate>1992</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref556" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Univ Colorado Health Science Center</unittitle>
+                  <unitdate>1992</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref557" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Joklik Symposium</unittitle>
+                  <unitdate>1992</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref558" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Beckman Grants Advisory Committee</unittitle>
+                  <unitdate>1992</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref559" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Annenberg Symposium</unittitle>
+                  <unitdate>1992</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref560" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Rockefeller Board</unittitle>
+                  <unitdate>1992</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref561" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Stanford Alumni (2 folders)</unittitle>
+                  <unitdate>1992</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref562" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Juan March Foundation</unittitle>
+                  <unitdate>1992</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref563" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Mel Cohn Symposium</unittitle>
+                  <unitdate>1992</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref564" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Weizmann Dinner</unittitle>
+                  <unitdate>1992</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref565" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Yanofsky Award</unittitle>
+                  <unitdate>1992</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref566" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Cornell keynote, NYC n.d.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref567" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Personal correspondence</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref568" level="file">
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Biochem 202 extra handouts</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref569" level="file">
+               <did>
+                  <unittitle>CMGM Executive Committee</unittitle>
+               </did>
+               <c03 id="ref570" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <unittitle>minutes</unittitle>
+                     <unitdate>1982-1988 </unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref571" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <unittitle>minutes</unittitle>
+                     <unitdate>1982-87</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref572" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <unittitle>Directorate, minutes</unittitle>
+                     <unitdate>1982-84</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref573" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>PMGM Seminars</unittitle>
+                  <unitdate>1995/96</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref574" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Spectrum nametags – no folder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref575" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Biological Sciences</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref576" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Developmental Biology</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref577" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Cancer Biology</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref578" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Spectrum Photos- envelope no folder</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref579" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Spectrum</unittitle>
+                  <unitdate>1994</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref580" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Spectrum Expenses</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref581" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Spectrum Expenses – unfoldered material</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref582" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Spectrum program</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref583" level="file">
+               <did>
+                  <container type="Box">6</container>
+                  <unittitle>Binder – PMGM New Faculty Recruitment</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref584" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Biochem Department files—may not have listed every file</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref585" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Biochemisry Affiliate Program</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref586" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Biochem Faculty reports</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref587" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Bichem Founders Fund</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref588" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Biochem general</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref589" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Lab spaces</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref590" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Grad admission interviews</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref591" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Heller lecture</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref592" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Stanford Art Committee</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref593" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Stanford Center for Biomedical Ethics</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref594" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Biotechnology-Law Course</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref595" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Cahill Chair</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref596" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Stanford Clinical Cancer Center</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref597" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Consulting/Conflict of Interest matters</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref598" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Dean Funding</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref599" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Dean’s Task Force on PhD training</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref600" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Faculty Campaign Planning Committee</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref601" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Stanford Gene therapy Task Force</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref602" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Indirect Cost Debate</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref603" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>LCME Accrediation</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref604" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Lohrlein, Christine</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref605" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Millenial Forum</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref606" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <unittitle>Stanford –NIH</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref607" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <unittitle>Videos and books</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref608" level="file">
+               <did>
+                  <container type="Box">11-12</container>
+                  <unittitle>Affiliation files</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref609" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Service with non-Stanford organizations, foundations, etc.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref610" level="file">
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Genome testimony files</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref280" level="series">
+            <did>
+               <unitid>Accession ARCH-2009-127</unitid>
+               <unittitle>Profiles in Science site on Paul Berg [computer files]</unittitle>
+            </did>
+         </c01>
+         <c01 id="ref611" level="series">
+            <did>
+               <unittitle>Lecture notes and Nobel Prize files</unittitle>
+               <unitdate normal="1978/1998" type="inclusive">1978-1998</unitdate>
+            </did>
+            <c02 id="ref612" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">1-2</container>
+                  <unittitle>Nobel Prize trip</unittitle>
+                  <unitdate>1980</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref613" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Telegrams</unittitle>
+                  <unitdate>1980 Oct</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref614" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">4</container>
+                  <unittitle>News clippings</unittitle>
+                  <unitdate>1980 Oct</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref615" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Congratulatory letters</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref616" level="file">
+               <did>
+                  <container type="Box">2</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Letters</unittitle>
+                  <unitdate>1980 Oct</unitdate>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

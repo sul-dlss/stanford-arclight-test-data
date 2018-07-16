@@ -1,0 +1,2254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[Richard Earl Fikes papers])//EN"
+             identifier="ark:/13030/kt7b69s0pn">sc0881.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Richard Earl Fikes Papers
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Fikes (Richard Earl) Papers</titleproper>
+            <author>Peter Chan</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2008">2008</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date normal="2011-07">July 2011</date>
+            <item/>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC0881</unitid>
+         <origination label="Creator:">
+            <persname rules="aacr" source="lcnaf" role=" ">Fikes, Richard E.</persname>
+         </origination>
+         <origination label="Creator:">
+            <persname rules="aacr" source="lcnaf" role="Author (aut)">Fikes, Richard E.</persname>
+         </origination>
+         <unittitle label="Title:">Richard Earl Fikes papers</unittitle>
+         <unitdate normal="1965/2004"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1965-2004</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>20 Linear feet</extent>
+         </physdesc>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <bioghist id="ref371">
+         <head>Biographical/Historical note</head>
+         <p>Richard Earl Fikes is Professor (Research) Emeritus in the Computer Science department of Stanford University.</p>
+         <p>Richard has a long and distinguished record as an innovative leader in the development of techniques for effectively representing and using knowledge in computer systems. He is best known as co-developer of the STRIPS (Stanford Research Institute Problem Solver) automatic planning system, KIF (Knowledge Interchange Format), the Ontolingua ontology representation language and Web-based ontology development environment, the OKBC (Open Knowledge Base Connectivity) API for knowledge servers, and IntelliCorp's KEE (Knowledge Engineering Environment) system.</p>
+         <p>At Stanford, he leaded projects focused on developing large-scale distributed repositories of computer-interpretable knowledge, collaborative development of multi-use ontologies, enabling technology for the Semantic Web, reasoning methods applicable to large-scale knowledge bases, and knowledge-based technology for intelligence analysts.</p>
+         <p>He was principal investigator of major projects for DARPA in the High Performance Knowledge Base (HPKB) program, the Rapid Knowledge Formation (RKF) program, the DARPA (Defense Advanced Research Projects Agency) Agent Markup Language (DAML) program, the UltraLog program, and the Rapid Design Exploration and Optimization (RaDEO) program.</p>
+         <p>Richard was born on October 4, 1942 in San Antontio, Texas. He received his B.A. in Mathematics with honors from the University of Texas at Austin in 1963, his M.A. in Mathematics from the University of Texas at Austin in 1965, and his Ph.D. in Computer Science from Carnegie Mellon University in 1968.</p>
+         <p>Richard was a Research Associate in the Computer Science Department at the Carnegie-Mellon University from 1968 to 1969. He worked as a Senior Mathematician in SRI (Stanford Research Institute) from 1969-1976. He was a member of Research Staff in Xerox Palo Alto Research Center from 1976 to 1983. He joined IntelliCorp Inc. in 1986 as the Director of Research and Development in 1983 and was the Vice President of Research when he left the company in 1987. He started in Price Waterhouse Technology Center in 1987 as a Principal Scientist and was the Chief Scientist in 1991 when he left the company. He served as the Associate Director, Heuristic Programming Project, Knowledge Systems Laboratory, Stanford University in 1991. He was a Professor (Research), Computer Science Department from 1991 to 2006.</p>
+         <p>Richard was elected a Founding Fellow of the American Association for Artificial Intelligence (AAAI) in 1990. He also chaired, co-chaired, organized, or served on the program committee of numerous professional gatherings such as AAAI86 and IJCAI89.</p>
+      </bioghist>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <corpname rules="dacs" source="naf" role=" ">SRI International</corpname>
+         <corpname rules="dacs" source="naf" role=" ">Stanford University. Computer Science Department.</corpname>
+         <corpname rules="dacs" source="ingest" role=" ">Xerox Corporation. Palo Alto Research Center.</corpname>
+         <subject source="lcsh">Knowledge representation (Information theory)</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.4">
+         <head>Collection Contents</head>
+         <c01 id="ref1" level="series">
+            <did>
+               <unitid>Series 1</unitid>
+               <unittitle>Correspondence</unittitle>
+               <unitdate>1969-2005</unitdate>
+               <langmaterial>
+                  <language langcode="eng" scriptcode="Latn">English</language>
+               </langmaterial>
+            </did>
+            <c02 id="ref22" level="subseries">
+               <did>
+                  <container type="Box">27</container>
+                  <unittitle>Letters and memos dating from</unittitle>
+                  <unitdate>1969 to 1974, and 1981 to 2003</unitdate>
+                  <langmaterial>
+                     <language langcode="eng" scriptcode="Latn">English</language>
+                  </langmaterial>
+               </did>
+               <c03 id="ref40" level="file">
+                  <did>
+                     <container type="Box">27</container>
+                     <unittitle>Letters</unittitle>
+                     <unitdate normal="1969/1974" type="inclusive">1969-1974</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref41" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <unittitle>Letters</unittitle>
+                     <unitdate normal="1981/1983" type="inclusive">1981-1983</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref42" level="file">
+                  <did>
+                     <container type="Box">16</container>
+                     <unittitle>Letters</unittitle>
+                     <unitdate normal="1983/1987" type="inclusive">1983-1987</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref43" level="file">
+                  <did>
+                     <container type="Box">19</container>
+                     <unittitle>Letters</unittitle>
+                     <unitdate normal="1987/1989" type="inclusive">1987-1989</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref44" level="file">
+                  <did>
+                     <container type="Box">19</container>
+                     <unittitle>Letters</unittitle>
+                     <unitdate normal="1990/1991" type="inclusive">1990-1991</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref45" level="file">
+                  <did>
+                     <container type="Box">22</container>
+                     <unittitle>Letters</unittitle>
+                     <unitdate normal="1991/2003" type="inclusive">1991-2003</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref46" level="file">
+                  <did>
+                     <container type="Box">16</container>
+                     <unittitle>Memo</unittitle>
+                     <unitdate normal="1987/1991" type="inclusive">1987-1991</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref47" level="file">
+                  <did>
+                     <container type="Box">16</container>
+                     <unittitle>Memo</unittitle>
+                     <unitdate normal="1987/1991" type="inclusive">1987-1991</unitdate>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="ref2" level="series">
+            <did>
+               <unitid>Series 2</unitid>
+               <unittitle>Graduate Studies</unittitle>
+               <unitdate>1996</unitdate>
+            </did>
+            <c02 id="ref4" level="subseries">
+               <did>
+                  <container type="Box">1</container>
+                  <unittitle>University of Texas at Austin</unittitle>
+               </did>
+               <c03 id="ref178" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Master thesis by Richard Fikes at the University of Texas at Austin</unittitle>
+                     <unitdate normal="1965/1965">1965</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref179" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>SYCK – 63, A FORTRAN-63 SYNTAX CHECKER, 1965</unittitle>
+                     <unitdate normal="1965/1965">1965</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref180" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Misc. Projects at the University of Texas at Austin:</unittitle>
+                     <unitdate normal="1963/1965" type="inclusive">1963-1965</unitdate>
+                  </did>
+                  <scopecontent>
+                     <p>POLSOL: A Heuristic Program for Solving Polyominoe Problems, 1965 Storing Programs in a Processed Form, 1965 Student Program Evaluating Program, 1964 A Human Arithmetic Stimulation, 1963 Language Learning (Project AMOS), n.d. A Phase Structure Grammar for LIPL, 1964 SYCK : A System for Checking the Syntax of FORTRAN-63 Programs, 1965 Contingency Tables and Association Coefficients, 1965 Card-To-Tape (088 to 164), n.d. Paper Tape To Magnetic Tape, 1964</p>
+                  </scopecontent>
+               </c03>
+            </c02>
+            <c02 id="ref5" level="subseries">
+               <did>
+                  <unittitle>Carnegie-Mellon University</unittitle>
+               </did>
+               <c03 id="ref182" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Ph. D. Qualifying Examinations</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref183" level="file">
+                  <did>
+                     <container type="Box">1</container>
+                     <unittitle>Published papers at Carnegie-Mellon University</unittitle>
+                     <unitdate>1968, 1970</unitdate>
+                  </did>
+                  <scopecontent>
+                     <p>REF-ARF: A System for Solving Problems Stated as Procedures, 1970 Stating Problems as Procedures to a General Problem Solving Problem, 1968 Steps toward a general-purpose time-sharing system using large capacity core storage and TSS/360 – Proceedings: 1968 ACM National Conference, 1968 Steps toward a general-purpose time-sharing system using large capacity core storage and TSS/360 – Progress report, 1968</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="ref185" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <unittitle>A Heuristic Program for Solving Problems Stated as Nondeterministic Procedures, 1968 (1 of 2)</unittitle>
+                     <unitdate normal="1968/1968">1968</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref186" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <unittitle>A Heuristic Program for Solving Problems Stated as Nondeterministic Procedures, 1968 (2 of 2)</unittitle>
+                     <unitdate normal="1968/1968">1968</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref187" level="file">
+                  <did>
+                     <container type="Box">3</container>
+                     <unittitle>Computer program listings at the Carnegie-Mellon University (1 of 6):</unittitle>
+                  </did>
+                  <scopecontent>
+                     <p>MSCB, MSCB-2, SORT, MAGIC, CRYPT-1, 3 COINS, QUEE, HYPO, n.d.</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="ref189" level="file">
+                  <did>
+                     <container type="Box">4</container>
+                     <unittitle>Computer program listings at the Carnegie-Mellon University (2 of 6):</unittitle>
+                     <unitdate normal="1969/1969">1969</unitdate>
+                  </did>
+                  <scopecontent>
+                     <p>Hypothesis Formation, 1969 Monkey, 1969 Waterjng, 1969 John and Mike, 1969 Confusion of Patents, n.d. 8 Queens, 1969 Tennis, 1969 Instant Insanity, 1969 Picnic, 1969 Magic Square, 1969 SORT, 1968 Bill Mann’s Problem, 1969</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="ref191" level="file">
+                  <did>
+                     <container type="Box">5</container>
+                     <unittitle>Computer program listings at the Carnegie-Mellon University (3 of 6):</unittitle>
+                     <unitdate normal="1968/1969" type="inclusive">1968-1969</unitdate>
+                  </did>
+                  <scopecontent>
+                     <p>Magic, 1969 Loveland, 1968 Tower of Hunoi, 1968</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="ref193" level="file">
+                  <did>
+                     <container type="Box">6</container>
+                     <unittitle>Computer program listings at the Carnegie-Mellon University (4 of 6):</unittitle>
+                     <unitdate normal="1968/1969" type="inclusive">1968-1969</unitdate>
+                  </did>
+                  <scopecontent>
+                     <p>Peek, 1968 Htower I, II, III, IV, V, VI, VII, VIII, XI, X, 1969</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="ref195" level="file">
+                  <did>
+                     <container type="Box">7</container>
+                     <unittitle>Computer program listings at the Carnegie-Mellon University (5 of 6):</unittitle>
+                     <unitdate normal="1968/1969" type="inclusive">1968-1969</unitdate>
+                  </did>
+                  <scopecontent>
+                     <p>Cross Roads I, II, 1969 Tower of Hanoi (Heuristic sear formulation), 1969 Missionaries, 1969 Cross Roads, 1968 Escape, 1969</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="ref197" level="file">
+                  <did>
+                     <container type="Box">8</container>
+                     <unittitle>Computer program listings at the Carnegie-Mellon University (6 of 6):</unittitle>
+                  </did>
+                  <scopecontent>
+                     <p>Load source09 onto EXPREF, 1969 STRIPS.QA3 : TRANSLATED QA3 + STRQA3 MDLFNS.TRAB;4, MODEL.;2, LRNOPS.;5, U2STRIPS.;, OTSTRIPS.;6, Missionaries &amp; Cannibals, 1969 Program Writer, 1969 ADSTRIPS.;2, EHSTRIPS.;7, INSTRIPS.;, INVE, n.d. Monkey, n.d.</p>
+                  </scopecontent>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="ref6" level="series">
+            <did>
+               <unitid>Series 3</unitid>
+               <unittitle>Private Sector</unittitle>
+            </did>
+            <c02 id="ref7" level="subseries">
+               <did>
+                  <unittitle>SRI International</unittitle>
+               </did>
+               <c03 id="ref16" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Published papers at SRI (1 of 7):</unittitle>
+                     <unitdate normal="1971/1973" type="inclusive">1971-1973</unitdate>
+                  </did>
+                  <scopecontent>
+                     <p>Learning and Executing Generalized Robot Plans, 1972 Knowledge Representation in Automatic Planning Systems, 1977 STRIPS: A New Approach to the Application of Theorem Proving to Problem Solving, 1971 Some New Directions in Robot Problem Solving, 1972 Themes in Automatic Problem Solving, 1973 A Network-Based Knowledge Representation and its Natural Deduction System, n.d. Monitored Execution of Robot Plans Produced by STRIPS, 1972</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="ref166" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Published papers at SRI (2 of 7):</unittitle>
+                     <unitdate normal="1970/1971" type="inclusive">1970-1971</unitdate>
+                  </did>
+                  <scopecontent>
+                     <p>Augmentation Aids for Solving Constraint Problems Interactively , n.d. A LISP Implementation of BIP, 1970 STRIPS: A New Approach to the Application of Theorem Proving to Problem Solving, 1970 Failure Tests and Goals in Plans, 1971 Monitored Execution of Robot plans Produced by STRIPS, 1971 STRIPS: A New Approach to the Application of Theorem Proving to Problem Solving, 1971</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="ref168" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Published papers at SRI (3 of 7):</unittitle>
+                     <unitdate normal="1970/1971" type="inclusive">1970-1971</unitdate>
+                  </did>
+                  <scopecontent>
+                     <p>Research and Applications – Artificial Intelligence (Semiannual Progress Report: 1970-1971 Research and Applications – Artificial Intelligence (Final Report: 1970-1971)</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="ref170" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Published papers at SRI (4 of 7):</unittitle>
+                     <unitdate normal="1972/1972">1972</unitdate>
+                  </did>
+                  <scopecontent>
+                     <p>Learning and Executing Generalized Robot Plans, 1972 Some New Directions in Robot Problem Solving, 1972 A Set of Transportation Tasks for Factotem (Draft), 1972</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="ref172" level="file">
+                  <did>
+                     <container type="Box">9</container>
+                     <unittitle>Published papers at SRI (5 of 7):</unittitle>
+                     <unitdate normal="1973/1974" type="inclusive">1973-1974</unitdate>
+                  </did>
+                  <scopecontent>
+                     <p>Artificial Intelligence - Research and Applications – Progress Report: April 1973- April 1974</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="ref174" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <unittitle>Published papers at SRI (6 of 7):</unittitle>
+                     <unitdate normal="1973/1975" type="inclusive">1973-1975</unitdate>
+                  </did>
+                  <scopecontent>
+                     <p>Themes in Automatic Problem Solving, 1973 Plan for a Computer-Based Consultant System, 1974 Deductive Retrieval Mechanisms fro State Description Models, 1975 An Interactive Management Support System for Planning, Control, and Analysis, 1975</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="ref176" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <unittitle>Published papers at SRI (7 of 7):</unittitle>
+                     <unitdate normal="1976/1977" type="inclusive">1976-1977</unitdate>
+                  </did>
+                  <scopecontent>
+                     <p>Knowledge Representation in Automatic Planning Systems, 1976 Large File Management Information Systems, 1976 A Network-Based Knowledge Representation and its Natural Deduction System, 1977</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="ref24" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <unittitle>Expense reports (1970 – 1974) / Resume</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref8" level="subseries">
+               <did>
+                  <unittitle>Xerox Palo Alto Research Center</unittitle>
+               </did>
+               <c03 id="ref26" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <unittitle>Research Papers at Xerox Palo Alto Research Center:</unittitle>
+                  </did>
+                  <scopecontent>
+                     <p>A Commitment-Based Framework for Describing Informal Cooperative Work, 1982 A Commitment-Based Model of Office Work for Expert Office Systems [Slide], 1982 Automating the Problem Solving in Procedural Office Work, 1981 A Representation System User Interface for Knowledge Base Designers, 1982 Odyssey: A Knowledge-Based Assistant, 1981 On Supporting the Use of Procedures in Office Work, 1980 RABBIT: Cognitive Science in Interface Design, n.d. A Functionally-Specified Representation Systems, 1983 Functional Specification of a New Knowledge Representation Implementation [Draft], n.d.</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="ref27" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <unittitle>KRYPTON (1 of 3)</unittitle>
+                     <unitdate normal="1982/1983" type="inclusive">1982-1983</unitdate>
+                  </did>
+                  <scopecontent>
+                     <p>A Functional Approach to Knowledge Representation, 1983 / Integrating Terminology and Assertion, 1983 / Related materials, 1982-1983</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="ref28" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <unittitle>KRYPTON (2 of 3)</unittitle>
+                     <unitdate normal="1982/1983" type="inclusive">1982-1983</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref29" level="file">
+                  <did>
+                     <container type="Box">10</container>
+                     <unittitle>KRYPTON (3 of 3)</unittitle>
+                     <unitdate normal="1982/1983" type="inclusive">1982-1983</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref30" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <unittitle>Odyssey: A Knowledge-Based Assistant Screen Prints and Screen Shots</unittitle>
+                     <unitdate>1981</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref31" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <unittitle>Odyssey: A Knowledge-Based Assistant Drafts</unittitle>
+                     <unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref32" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <unittitle>Odyssey: A Knowledge-Based Assistant Related Materials (1 of 2)</unittitle>
+                     <unitdate normal="1978/1979" type="inclusive">1978-1979</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref33" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <unittitle>Odyssey: A Knowledge-Based Assistant Related Materials (2 of 2)</unittitle>
+                     <unitdate normal="1978/1979" type="inclusive">1978-1979</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref34" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <unittitle>Bluebonnet: 8200 Lisp Interface (1 of 2)</unittitle>
+                     <unitdate normal="1983/1983">1983</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref35" level="file">
+                  <did>
+                     <container type="Box">11</container>
+                     <unittitle>Bluebonnet: 8200 Lisp Interface (2 of 2)</unittitle>
+                     <unitdate normal="1983/1983">1983</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref36" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <unittitle>Enterprise (1 of 2)</unittitle>
+                     <unitdate normal="1981/1981">1981</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref37" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <unittitle>Enterprise (2 of 2)</unittitle>
+                     <unitdate normal="1981/1981">1981</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref38" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <unittitle>Some Preliminary Thoughts on Expert Office Systems, Forms, KRL1, etc.</unittitle>
+                     <unitdate normal="1976/1978" type="inclusive">1976-1978</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref48" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <unittitle>Personal Calendar System / Notes</unittitle>
+                     <unitdate normal="1977/1980" type="inclusive">1977-1980</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref49" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <unittitle>T-Box, Symbol Table, and Others</unittitle>
+                     <unitdate normal="1980/1982" type="inclusive">1980-1982</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref50" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <unittitle>Xerox Administrations</unittitle>
+                     <unitdate normal="1976/1983" type="inclusive">1976-1983</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref54" level="file">
+                  <did>
+                     <container type="Box">12</container>
+                     <unittitle>Miscellaneous Activity in Xerox:</unittitle>
+                  </did>
+                  <scopecontent>
+                     <p>Decision Support Systems Journal, 1984 / AAAI 83, 1983 / IEEE Computer Magazine Survey, n.d. / Xerox CSL AI Planning, 1978-1979 / Xerox Softball, 1981-1982</p>
+                  </scopecontent>
+               </c03>
+            </c02>
+            <c02 id="ref9" level="subseries">
+               <did>
+                  <unittitle>IntelliCorp Inc.</unittitle>
+               </did>
+               <c03 id="ref51" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <unittitle>Publications at IntelliCorp.</unittitle>
+                  </did>
+                  <scopecontent>
+                     <p>An Assertion and Retrieval Interface for a Frame-Based Representation system, 1985 / The Role of Frame-Based Representation in Reasoning, 1985 Market-like Task Scheduling in Distributed Computing Environments, 1986</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="ref53" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <unittitle>Tools for Building Knowledge Systems: Representation and Acquisition</unittitle>
+                     <unitdate normal="1985/1985">1985</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref56" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <unittitle>OPUS, 1987 / Semantically Sound Inheritance for a Formally Defined Language with Defaults, n.d.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref57" level="file">
+                  <did>
+                     <container type="Box">14</container>
+                     <unittitle>KEE [Knowledge Engineering Environment] transparencies (1 of 5)</unittitle>
+                     <unitdate normal="1986/1986">1986</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref58" level="file">
+                  <did>
+                     <container type="Box">14</container>
+                     <unittitle>KEE [Knowledge Engineering Environment] transparencies (2 of 5)</unittitle>
+                     <unitdate normal="1986/1986">1986</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref59" level="file">
+                  <did>
+                     <container type="Box">14</container>
+                     <unittitle>KEE [Knowledge Engineering Environment] transparencies (3 of 5)</unittitle>
+                     <unitdate normal="1986/1986">1986</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref60" level="file">
+                  <did>
+                     <container type="Box">14</container>
+                     <unittitle>KEE [Knowledge Engineering Environment] transparencies (4 of 5)</unittitle>
+                     <unitdate normal="1986/1986">1986</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref61" level="file">
+                  <did>
+                     <container type="Box">14</container>
+                     <unittitle>KEE [Knowledge Engineering Environment] transparencies (5 of 5)</unittitle>
+                     <unitdate normal="1986/1986">1986</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref62" level="file">
+                  <did>
+                     <container type="Box">15</container>
+                     <unittitle>Frame Based Representation (1 of 3)</unittitle>
+                     <unitdate normal="1985/1986" type="inclusive">1985-1986</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref63" level="file">
+                  <did>
+                     <container type="Box">15</container>
+                     <unittitle>Frame Based Representation (2 of 3)</unittitle>
+                     <unitdate normal="1985/1986" type="inclusive">1985-1986</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref64" level="file">
+                  <did>
+                     <container type="Box">15</container>
+                     <unittitle>Frame Based Representation (3 of 3)</unittitle>
+                     <unitdate normal="1985/1986" type="inclusive">1985-1986</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref65" level="file">
+                  <did>
+                     <container type="Box">15</container>
+                     <unittitle>DARPA [Defense Advanced Research Projects Agency] (1 of 2)</unittitle>
+                     <unitdate normal="1987/1987">1987</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref66" level="file">
+                  <did>
+                     <container type="Box">15</container>
+                     <unittitle>DARPA [Defense Advanced Research Projects Agency] (2 of 2)</unittitle>
+                     <unitdate normal="1987/1987">1987</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref67" level="file">
+                  <did>
+                     <container type="Box">15</container>
+                     <unittitle>Other Projects at IntelliCorp.</unittitle>
+                  </did>
+                  <scopecontent>
+                     <p>KSRD, 1985 / Truth Maintenance, n.d. / Recursive Unites, 1984 / Expert Systems, 1986 / The Framer’s Dilemma, n.d.</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="ref70" level="file">
+                  <did>
+                     <container type="Box">16</container>
+                     <unittitle>IntelliCorp. Corporate Presentations (1 of 2)</unittitle>
+                     <unitdate normal="1983/1987" type="inclusive">1983-1987</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref71" level="file">
+                  <did>
+                     <container type="Box">16</container>
+                     <unittitle>IntelliCorp. Corporate Presentations (2 of 2)</unittitle>
+                     <unitdate normal="1983/1987" type="inclusive">1983-1987</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref69" level="file">
+                  <did>
+                     <container type="Box">13</container>
+                     <unittitle>Note Books</unittitle>
+                     <unitdate normal="1983/1987" type="inclusive">1983-1987</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref72" level="file">
+                  <did>
+                     <container type="Box">16</container>
+                     <unittitle>IntelliCorp. Admin. / Design Notes</unittitle>
+                     <unitdate normal="1983/1987" type="inclusive">1983-1987</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref10" level="subseries">
+               <did>
+                  <unittitle>Price Waterhouse Technology Centre</unittitle>
+               </did>
+               <c03 id="ref73" level="file">
+                  <did>
+                     <container type="Box">17</container>
+                     <unittitle>Business Understander Project (1 of 2)</unittitle>
+                     <unitdate normal="1989/1989">1989</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref74" level="file">
+                  <did>
+                     <container type="Box">17</container>
+                     <unittitle>Business Understander Project (2 of 2)</unittitle>
+                     <unitdate normal="1989/1989">1989</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref75" level="file">
+                  <did>
+                     <container type="Box">17</container>
+                     <unittitle>Risk Assessment System (1 of 2)</unittitle>
+                     <unitdate normal="1990/1990">1990</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref76" level="file">
+                  <did>
+                     <container type="Box">17</container>
+                     <unittitle>Risk Assessment System (2 of 2)</unittitle>
+                     <unitdate normal="1990/1990">1990</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref77" level="file">
+                  <did>
+                     <container type="Box">17</container>
+                     <unittitle>Beyond the Current Plateau – Knowledge System Futures</unittitle>
+                     <unitdate normal="1988/1988">1988</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref78" level="file">
+                  <did>
+                     <container type="Box">18</container>
+                     <unittitle>Modeling and Analyzing Businesses: A High Payoff Challenge for AI</unittitle>
+                     <unitdate normal="1990/1990">1990</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref79" level="file">
+                  <did>
+                     <container type="Box">18</container>
+                     <unittitle>Knowledge-Based Systems Program, n.d.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref80" level="file">
+                  <did>
+                     <container type="Box">18</container>
+                     <unittitle>Using New technologies in Auditing</unittitle>
+                     <unitdate normal="1990/1990">1990</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref81" level="file">
+                  <did>
+                     <container type="Box">18</container>
+                     <unittitle>Estimating Project Cost</unittitle>
+                     <unitdate normal="1990/1990">1990</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref83" level="file">
+                  <did>
+                     <container type="Box">18</container>
+                     <unittitle>JOSIE, 1990 / AI &amp; Software Engineering, 1990 / International Funds Transfer, 1989</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref84" level="file">
+                  <did>
+                     <container type="Box">19</container>
+                     <unittitle>Other Projects at Price Waterhouse</unittitle>
+                  </did>
+                  <scopecontent>
+                     <p>International Tax Advisory System, 1990 / Prototyping Knowledge-Based Systems, 1990 / Saying More with Frames: Slots as Classes, 1992 / Information Systems Research Experimental Systems, n.d. / Straw Man Knowledge Representation Interlingua, n.d.</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="ref82" level="file">
+                  <did>
+                     <container type="Box">18</container>
+                     <unittitle>Diagnostic Reasoning Template - Coherent Thought</unittitle>
+                     <unitdate normal="1989/1989">1989</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref86" level="file">
+                  <did>
+                     <container type="Box">19</container>
+                     <unittitle>Overseas Trips (Price Waterhouse):</unittitle>
+                     <unitdate normal="1988/1989" type="inclusive">1988-1989</unitdate>
+                  </did>
+                  <scopecontent>
+                     <p>Australia Trip, 1989 / Japan AI Study, 1988 / Hong Kong Talk, 1988</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="ref90" level="file">
+                  <did>
+                     <container type="Box">19</container>
+                     <unittitle>Note Books, n.d.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref91" level="file">
+                  <did>
+                     <container type="Box">17</container>
+                     <unittitle>Expenses / Budgets / Timesheets / Hiring / Workstation Purchase Request</unittitle>
+                     <unitdate normal="1987/1991" type="inclusive">1987-1991</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref88" level="file">
+                  <did>
+                     <container type="Box">19</container>
+                     <unittitle>Miscellaneous activity at Price Waterhouse:</unittitle>
+                  </did>
+                  <scopecontent>
+                     <p>Tech Centre Talk, 1989 / Book Review, 1987 / New Science Associates Inc.’s 3rd Annual AI Forum, 1989</p>
+                  </scopecontent>
+               </c03>
+            </c02>
+            <c02 id="ref138" level="subseries">
+               <did>
+                  <container type="Box">27</container>
+                  <unittitle>YY Software Corp. Board of Advisors Meetings</unittitle>
+                  <unitdate normal="1998/1999" type="inclusive">1998-1999</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref12" level="series">
+            <did>
+               <unitid>Series 4</unitid>
+               <unittitle>Stanford University</unittitle>
+            </did>
+            <c02 id="ref13" level="subseries">
+               <did>
+                  <unittitle>Knowledge Systems Laboratory</unittitle>
+               </did>
+               <c03 id="ref103" level="file">
+                  <did>
+                     <container type="Box">22</container>
+                     <unittitle>KSL Overview Slides</unittitle>
+                     <unitdate normal="1991/1991">1991</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref104" level="file">
+                  <did>
+                     <container type="Box">23</container>
+                     <unittitle>Research papers (1 of 2)</unittitle>
+                  </did>
+                  <scopecontent>
+                     <p>Semantics of “Knowledge Sharing”, 1993 / A Declarative Formalization of Knowledge Translation, 1995 / The Role of Reversible Grammars in Translating Between Representation Languages, 1994 / Lifting in Propositional Theories of Context, 1996 / STRIPS, a retrospective, 1993 / Test, Generation, and Explanation of Control Procedures for Configurable Systems, 1993 / A proof markup language for Semantic Web services, 2005 / Automated model selection from simulation based on relevance reasoning, 1997</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="ref106" level="file">
+                  <did>
+                     <container type="Box">23</container>
+                     <unittitle>Research papers (2 of 2)</unittitle>
+                  </did>
+                  <scopecontent>
+                     <p>The Stanford KSL Knowledge Base Merging Critical Component Experiment, 1999 / An Axiomatic Semantics for RDF, RDF/S, and DAML+OIL, 2001 / Explaining Results from Information Retrieval and Integration, n.d. / Extracting Assumptions from Incomplete Data, n.d. / Semantics of Translation, n.d. / The DARPA Knowledge Sharing Effort: Progress Report, n.d. / JTP: A System Architecture and Component Library for Hybrid Reason, n.d.</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="ref108" level="file">
+                  <did>
+                     <container type="Box">23</container>
+                     <unittitle>US ARL Federated Laboratory Proposal “Red Team Review” (1 of 2)</unittitle>
+                     <unitdate normal="1995/1995">1995</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref109" level="file">
+                  <did>
+                     <container type="Box">23</container>
+                     <unittitle>US ARL Federated Laboratory Proposal “Red Team Review” (2 of 2)</unittitle>
+                     <unitdate normal="1995/1995">1995</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref110" level="file">
+                  <did>
+                     <container type="Box">23</container>
+                     <unittitle>DME [Device Modeling Environment], n.d.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref111" level="file">
+                  <did>
+                     <unittitle>KIF [Knowledge Interchange Format]</unittitle>
+                     <unitdate normal="1990/1992" type="inclusive">1990-1992</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref112" level="file">
+                  <did>
+                     <container type="Box">24</container>
+                     <unittitle>Model-Enabled Control of Reconfigurable Hybrid Systems</unittitle>
+                     <unitdate normal="1998/1998">1998</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref113" level="file">
+                  <did>
+                     <container type="Box">24</container>
+                     <unittitle>SIMNET Network and Protocols</unittitle>
+                     <unitdate normal="1991/1991">1991</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref114" level="file">
+                  <did>
+                     <container type="Box">24</container>
+                     <unittitle>SMART [System for Manufacturing Using Advanced Representation Technology], (1 of 4)</unittitle>
+                     <unitdate normal="1993/1994" type="inclusive">1993-1994</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref115" level="file">
+                  <did>
+                     <container type="Box">24</container>
+                     <unittitle>SMART [System for Manufacturing Using Advanced Representation Technology], (2 of 4)</unittitle>
+                     <unitdate normal="1993/1994" type="inclusive">1993-1994</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref116" level="file">
+                  <did>
+                     <container type="Box">24</container>
+                     <unittitle>SMART [System for Manufacturing Using Advanced Representation Technology], (3 of 4)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref117" level="file">
+                  <did>
+                     <container type="Box">24</container>
+                     <unittitle>SMART [System for Manufacturing Using Advanced Representation Technology], (4 of 4)</unittitle>
+                     <unitdate normal="1993/1994" type="inclusive">1993-1994</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref118" level="file">
+                  <did>
+                     <container type="Box">25</container>
+                     <unittitle>MADE [Manufacturing Automation and Design Engineering] (1 of 3)</unittitle>
+                     <unitdate normal="1993/1994" type="inclusive">1993-1994</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref119" level="file">
+                  <did>
+                     <container type="Box">25</container>
+                     <unittitle>MADE [Manufacturing Automation and Design Engineering] (2 of 3)</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref120" level="file">
+                  <did>
+                     <container type="Box">25</container>
+                     <unittitle>MADE [Manufacturing Automation and Design Engineering] (3 of 3)</unittitle>
+                     <unitdate normal="1993/1994" type="inclusive">1993-1994</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref121" level="file">
+                  <did>
+                     <container type="Box">25</container>
+                     <unittitle>“Knowledge-Assisted Software Engineering (KASE) and Development of a KASE Environment”</unittitle>
+                     <unitdate normal="1992/1992">1992</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref122" level="file">
+                  <did>
+                     <container type="Box">25</container>
+                     <unittitle>Novell Intelligence from Semi-Structured Knowledge</unittitle>
+                     <unitdate normal="2002/2006" type="inclusive">2002-2006</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref123" level="file">
+                  <did>
+                     <container type="Box">26</container>
+                     <unittitle>NIE [National-Scale Information Enterprises], n.d.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref134" level="file">
+                  <did>
+                     <container type="Box">27</container>
+                     <unittitle>How Things Work (project details, email correspondence, presentations, financials, supporting documents) (1 of 3)</unittitle>
+                     <unitdate normal="1993/1994" type="inclusive">1993-1994</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref135" level="file">
+                  <did>
+                     <container type="Box">27</container>
+                     <unittitle>How Things Work (project details, email correspondence, presentations, financials, supporting documents) (2 of 3)</unittitle>
+                     <unitdate normal="1991/1994" type="inclusive">1991-1994</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref136" level="file">
+                  <did>
+                     <container type="Box">27</container>
+                     <unittitle>How Things Work (project details, email correspondence, presentations, financials, supporting documents) (3 of 3)</unittitle>
+                     <unitdate normal="1991/1994" type="inclusive">1991-1994</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref137" level="file">
+                  <did>
+                     <container type="Box">27</container>
+                     <unittitle>HPKB (project information, presentations, papers)</unittitle>
+                     <unitdate normal="1994/1994">1994</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref151" level="file">
+                  <did>
+                     <container type="Box">31</container>
+                     <unittitle>KDI [Knowledge and Distribution Intelligence]</unittitle>
+                     <unitdate normal="1998/1998">1998</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref124" level="file">
+                  <did>
+                     <container type="Box">26</container>
+                     <unittitle>Other Projects in Stanford (1 of 8)</unittitle>
+                  </did>
+                  <scopecontent>
+                     <p>Explainable Knowledge Aggregation from Multiple Heterogeneous Information Sources, 2004 / Explainable Integrated Learning Proposal, n.d. / Ultra*long, 2000</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="ref126" level="file">
+                  <did>
+                     <container type="Box">26</container>
+                     <unittitle>Other Projects in Stanford (2 of 8)</unittitle>
+                  </did>
+                  <scopecontent>
+                     <p>Real-World Hybrid Reasoning with Large-Scale Heterogeneous Knowledge Bases, 2004 / Shared Knowledge Representation Language, 1992</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="ref128" level="file">
+                  <did>
+                     <container type="Box">26</container>
+                     <unittitle>Other Projects in Stanford (3 of 8)</unittitle>
+                  </did>
+                  <scopecontent>
+                     <p>KANI [Knowledge Associates for Novell Intelligence], 2004 / NIMD [Novel Intelligence for Massive Data], 2002 / Global Knowledge Network Project, 2002</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="ref130" level="file">
+                  <did>
+                     <container type="Box">26</container>
+                     <unittitle>Other Projects in Stanford (4 of 8)</unittitle>
+                  </did>
+                  <scopecontent>
+                     <p>Center for Information Technology, 1993 / Testing, Generating, and Explaining Control Procedures for Reactive Hybrid Systems, 1993 / Technology for Developing Network-based Information Brokers, 1997 / Flexible Item Identification to Support Advanced Logistics, 1997</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="ref132" level="file">
+                  <did>
+                     <container type="Box">26</container>
+                     <unittitle>Other Projects in Stanford (5 of 8)</unittitle>
+                  </did>
+                  <scopecontent>
+                     <p>Complex System Modeling, Analysis and Simulation Project, 1999 / Technology for DAML-Based Services, 2002 / Cognitive Information Processing Technology for the Enduring Personal Cognitive Assistant, 2003 / Mapping Allen-Expressions to Time-Slices in OWL, n.d. / KDD, n.d. / Global InfoBase, 1999</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="ref203" level="file">
+                  <did>
+                     <container type="Box">31</container>
+                     <unittitle>Other Projects in Stanford (6 of 8):</unittitle>
+                     <unitdate normal="1991/1992" type="inclusive">1991-1992</unitdate>
+                  </did>
+                  <scopecontent>
+                     <p>Research on Multi-Use Knowledge Bases, 1991 / Shared Knowledge Representation Language, 1991 / Shared Knowledge Base Technology for Re-Engineering Problem Program, 1991 / Research on Knowledge-Based Technology for Engineering Design, 1991 / Research on Knowledge-Based Technology for Engineering Applications, 1991 / Development of a Reusable Knowledge Base for Space Applications, 1992 /</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="ref205" level="file">
+                  <did>
+                     <container type="Box">31</container>
+                     <unittitle>Other Projects in Stanford (7 of 8):</unittitle>
+                     <unitdate normal="1999/2001" type="inclusive">1999-2001</unitdate>
+                  </did>
+                  <scopecontent>
+                     <p>Intelligent Systems Initiative, 1999 / Creating, Maintaining, and Integrating Understandable Knowledge Bases, 2000 / Research in Intelligent Systems, 2001</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="ref207" level="file">
+                  <did>
+                     <container type="Box">31</container>
+                     <unittitle>Other Projects in Stanford (8 of 8):</unittitle>
+                     <unitdate>1992, 1995</unitdate>
+                  </did>
+                  <scopecontent>
+                     <p>Research on Intelligent Systems for Science and Engineering Applications, 1992 / Computer Science Challenges – Opportunities in Support Multidisciplinary Research, 1995</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="ref139" level="file">
+                  <did>
+                     <container type="Box">27</container>
+                     <unittitle>Proposal of Collaboration with KSL, n.d.</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref14" level="subseries">
+               <did>
+                  <unittitle>Teaching and Administration</unittitle>
+               </did>
+               <c03 id="ref99" level="file">
+                  <did>
+                     <container type="Box">21</container>
+                     <unittitle>Stanford Teaching CS106, Examination, Problems, computer program listings</unittitle>
+                     <unitdate normal="1970/1970">1970</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref100" level="file">
+                  <did>
+                     <container type="Box">21</container>
+                     <unittitle>Stanford Teaching CS105.2, computer program listings, handouts</unittitle>
+                     <unitdate normal="1973/1973">1973</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref101" level="file">
+                  <did>
+                     <container type="Box">21</container>
+                     <unittitle>Stanford Teaching CS105, computer program listings</unittitle>
+                     <unitdate normal="1973/1973">1973</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref25" level="file">
+                  <did>
+                     <container type="Box">20</container>
+                     <unittitle>CS 222 Lecture Presentation Slides (1 of 2)</unittitle>
+                     <unitdate normal="1997/1997">1997</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref92" level="file">
+                  <did>
+                     <container type="Box">20</container>
+                     <unittitle>CS 222 Lecture Presentation Slides (2 of 2)</unittitle>
+                     <unitdate normal="1997/1997">1997</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref93" level="file">
+                  <did>
+                     <container type="Box">20</container>
+                     <unittitle>CS 222 Lecture Presentation Slides (1 of 4)</unittitle>
+                     <unitdate normal="1998/1998">1998</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref94" level="file">
+                  <did>
+                     <container type="Box">20</container>
+                     <unittitle>CS 222 Lecture Presentation Slides (2 of 4)</unittitle>
+                     <unitdate normal="1998/1998">1998</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref95" level="file">
+                  <did>
+                     <container type="Box">20</container>
+                     <unittitle>CS 222 Lecture Presentation Slides (3 of 4)</unittitle>
+                     <unitdate normal="1998/1998">1998</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref96" level="file">
+                  <did>
+                     <container type="Box">20</container>
+                     <unittitle>CS 222 Lecture Presentation Slides (4 of 4)</unittitle>
+                     <unitdate normal="1998/1998">1998</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref97" level="file">
+                  <did>
+                     <container type="Box">21</container>
+                     <unittitle>CS 222 World Fact Book Project</unittitle>
+                     <unitdate normal="1997/1997">1997</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref98" level="file">
+                  <did>
+                     <container type="Box">21</container>
+                     <unittitle>CS 222 Exams, 1997, 2004; Home Work, 1998</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref152" level="file">
+                  <did>
+                     <container type="Box">31</container>
+                     <unittitle>Teaching Evaluations</unittitle>
+                     <unitdate normal="1997/2004" type="inclusive">1997-2004</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref102" level="file">
+                  <did>
+                     <container type="Box">21</container>
+                     <unittitle>PhD Qualifying Examination</unittitle>
+                     <unitdate normal="1997/1997">1997</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref211" level="file">
+                  <did>
+                     <container type="Box">21</container>
+                     <unittitle>Stanford Administrations (1 of 3):</unittitle>
+                  </did>
+                  <scopecontent>
+                     <p>Meetings (agenda and minutes) / Research Administration Advisory Group report, 1994 / Consulting Faculty Activity report, 1990-1991 / A Vision of Computer Science in the Next Decade, 1994 / KSL Financials, 2006 / International WWW Consortium Participation Agreement, 2001</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="ref213" level="file">
+                  <did>
+                     <container type="Box">21</container>
+                     <unittitle>Stanford Administrations (2 of 3):</unittitle>
+                  </did>
+                  <scopecontent>
+                     <p>University Oral Examinations, 1991-2000 / French Students work for KSL, 1992-1993 / “HCI Graduate Research Traineeship” proposal, 1993 / “Diagrammatic Reasoning in Program Solving” proposal, 1992 / “Internet World Wide Web Based Variable Fidelity Simulator” proposal, 1995 / Copyright and Patent Agreement, 1991 / Consulting Agreement, 1998</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="ref153" level="file">
+                  <did>
+                     <container type="Box">31</container>
+                     <unittitle>Stanford Administrations (3 of 3):</unittitle>
+                  </did>
+                  <scopecontent>
+                     <p>Job Applications (1992, 2006) / Resignation Notices</p>
+                  </scopecontent>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="ref15" level="series">
+            <did>
+               <unitid>Series 5</unitid>
+               <unittitle>Professional Organization Activity</unittitle>
+            </did>
+            <c02 id="ref18" level="file">
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Conference on Office Information Systems, 1982</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref19" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>AAAI-86 Tutorial Materials [American Association for Artificial Intelligence] (1 of 3)</unittitle>
+                  <unitdate normal="1986/1986">1986</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref140" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>AAAI-86 Tutorial Materials [American Association for Artificial Intelligence] (2 of 3)</unittitle>
+                  <unitdate normal="1986/1986">1986</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref141" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>AAAI-86 Tutorial Materials [American Association for Artificial Intelligence] (3 of 3)</unittitle>
+                  <unitdate normal="1986/1986">1986</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref20" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>AAAI Spring Symposium Series, papers, correspondence, etc. (1 of 2)</unittitle>
+                  <unitdate normal="1989/1989">1989</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref142" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>AAAI Spring Symposium Series, papers, correspondence, etc. (2 of 2)</unittitle>
+                  <unitdate normal="1989/1989">1989</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref145" level="file">
+               <did>
+                  <container type="Box">29</container>
+                  <unittitle>IJCAI [International Joint Conferences on Artificial Intelligence], Conference papers (1 of 4)</unittitle>
+                  <unitdate normal="1989/1989">1989</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref146" level="file">
+               <did>
+                  <container type="Box">29</container>
+                  <unittitle>IJCAI [International Joint Conferences on Artificial Intelligence], Conference papers (2 of 4)</unittitle>
+                  <unitdate normal="1989/1989">1989</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref147" level="file">
+               <did>
+                  <unittitle>IJCAI [International Joint Conferences on Artificial Intelligence], Conference papers (3 of 4)</unittitle>
+                  <unitdate normal="1989/1989">1989</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref148" level="file">
+               <did>
+                  <container type="Box">29</container>
+                  <unittitle>IJCAI [International Joint Conferences on Artificial Intelligence], Conference papers (4 of 4)</unittitle>
+                  <unitdate normal="1989/1989">1989</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref149" level="file">
+               <did>
+                  <container type="Box">30</container>
+                  <unittitle>Second International Conference on Principles of Knowledge Representation KR ’91 (1 of 2) (correspondence, conference paper, paper reviews)</unittitle>
+                  <unitdate normal="1991/1991">1991</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref150" level="file">
+               <did>
+                  <container type="Box">30</container>
+                  <unittitle>Second International Conference on Principles of Knowledge Representation KR ’91 (2 of 2) (correspondence, conference paper, paper reviews)</unittitle>
+                  <unitdate normal="1991/1991">1991</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref155" level="file">
+               <did>
+                  <container type="Box">30</container>
+                  <unittitle>AAAI 1987 / DARPA Planning Workshop 1987 (presentations, draft presentations, etc.)</unittitle>
+                  <unitdate normal="1987/1987">1987</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref143" level="file">
+               <did>
+                  <container type="Box">28</container>
+                  <unittitle>Other Conferences, symposiums, forums and workshops (correspondence, programs, and presentations) (1 of 3):</unittitle>
+               </did>
+               <scopecontent>
+                  <p>Artificial Intelligence and Advanced Computer Technology Conference AI 1988 / The Second International Symposium on Expert Systems in Business, Finance and Accounting 1989 / Fifth Canadian Conference on Auditing and Computer Technology 1990 / National Conference on Artificial Intelligence 1990</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref156" level="file">
+               <did>
+                  <container type="Box">29</container>
+                  <unittitle>Other Conferences, symposiums, forums and workshops (correspondence, programs, and presentations) (2 of 3):</unittitle>
+               </did>
+               <scopecontent>
+                  <p>The Sixth IEEE Conference on Artificial Intelligence Applications, 1990 / Decision Making, Cognitive Science and Accounting, 1991 / Workshop on “Intelligent Information System Development Tools, Environments and Methodologies”, 1991 / AAAI 1991 Spring Symposium / AAAI 1999 Fall Symposium / IIS Workshop #1, n.d. / Rockwell Artificial Intelligence Technical Panel (1992) / Quintus Forum, n.d. / Artificial Intelligence and Advanced Computer Technology Conference AI 1986</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref158" level="file">
+               <did>
+                  <container type="Box">30</container>
+                  <unittitle>Other Conferences, symposiums, forums and workshops (correspondence, programs, and presentations) (3 of 3):</unittitle>
+               </did>
+               <scopecontent>
+                  <p>KL-ONE Workshop, 1981 / Knowledge Representation Workshop, 1983 / Expert System Tools Workshop, 1986</p>
+               </scopecontent>
+            </c02>
+         </c01>
+         <c01 id="ref160" level="series">
+            <did>
+               <unitid>Series 6</unitid>
+               <unittitle>Audio-Visual and Electronic Materials</unittitle>
+            </did>
+            <c02 id="ref161" level="file">
+               <did>
+                  <container type="Box">32</container>
+                  <unittitle>Slides</unittitle>
+               </did>
+               <scopecontent>
+                  <p/>
+               </scopecontent>
+            </c02>
+            <c02 id="ref369" level="file">
+               <did>
+                  <container type="Box">32</container>
+                  <unittitle>Photographs</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref368" level="file">
+               <did>
+                  <container type="Box">32</container>
+                  <unittitle>IBM Flowcharting Template</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref370" level="file">
+               <did>
+                  <container type="Box">32</container>
+                  <unittitle>Floppy disks (3 1/2")</unittitle>
+                  <physdesc>
+                     <extent>50 computer media</extent>
+                  </physdesc>
+               </did>
+            </c02>
+            <c02 id="ref364" level="file">
+               <did>
+                  <container type="Box">32</container>
+                  <unitid>32.1</unitid>
+                  <unittitle>Bluebonnet: An Expert Help System, CSDG talk</unittitle>
+                  <unitdate>1982 Nov 23</unitdate>
+                  <physdesc>
+                     <extent>1 audiocassette(s)</extent>
+                  </physdesc>
+                  <dao linktype="simple"
+                       actuate="onrequest"
+                       title="Bluebonnet: An Expert Help System, CSDG talk"
+                       role="Audio-Streaming"
+                       href="https://sul-streaming.stanford.edu/collections/sc0881/xf193pq5147_a_sl.html"
+                       show="new">
+                     <daodesc>
+                        <p>Bluebonnet: An Expert Help System, CSDG talk, 1982 Nov 23 </p>
+                     </daodesc>
+                  </dao>
+                  <dao linktype="simple"
+                       actuate="onrequest"
+                       title="Bluebonnet: An Expert Help System, CSDG talk"
+                       role="Audio-Streaming"
+                       href="https://sul-streaming.stanford.edu/collections/sc0881/xf193pq5147_b_sl.html"
+                       show="new">
+                     <daodesc>
+                        <p>Bluebonnet: An Expert Help System, CSDG talk, 1982 Nov 23 </p>
+                     </daodesc>
+                  </dao>
+               </did>
+            </c02>
+            <c02 id="ref365" level="file">
+               <did>
+                  <container type="Box">32</container>
+                  <unitid>32.2</unitid>
+                  <unittitle>Richard Fikes and Austin henderson, Klone/CSDG Talk</unittitle>
+                  <unitdate>1980 Jul 22</unitdate>
+                  <physdesc>
+                     <extent>1 audiocassette(s)</extent>
+                  </physdesc>
+                  <dao linktype="simple"
+                       actuate="onrequest"
+                       title="Richard Fikes and Austin henderson, Klone/CSDG Talk"
+                       role="Audio-Streaming"
+                       href="https://sul-streaming.stanford.edu/collections/sc0881/th081xt4389_a_sl.html"
+                       show="new">
+                     <daodesc>
+                        <p>Richard Fikes and Austin henderson, Klone/CSDG Talk, 1980 Jul 22 </p>
+                     </daodesc>
+                  </dao>
+                  <dao linktype="simple"
+                       actuate="onrequest"
+                       title="Richard Fikes and Austin henderson, Klone/CSDG Talk"
+                       role="Audio-Streaming"
+                       href="https://sul-streaming.stanford.edu/collections/sc0881/th081xt4389_b_sl.html"
+                       show="new">
+                     <daodesc>
+                        <p>Richard Fikes and Austin henderson, Klone/CSDG Talk, 1980 Jul 22 </p>
+                     </daodesc>
+                  </dao>
+               </did>
+            </c02>
+            <c02 id="ref366" level="file">
+               <did>
+                  <container type="Box">32</container>
+                  <unitid>32.3</unitid>
+                  <unittitle>Artificial Intelligence</unittitle>
+                  <unitdate>Undated</unitdate>
+                  <physdesc>
+                     <extent>1 audiocassette(s)</extent>
+                  </physdesc>
+                  <dao linktype="simple"
+                       actuate="onrequest"
+                       title="Artificial Intelligence"
+                       role="Audio-Streaming"
+                       href="https://sul-streaming.stanford.edu/collections/sc0881/jq759nm8484_a_sl.html"
+                       show="new">
+                     <daodesc>
+                        <p>Artificial Intelligence, Undated </p>
+                     </daodesc>
+                  </dao>
+                  <dao linktype="simple"
+                       actuate="onrequest"
+                       title="Artificial Intelligence"
+                       role="Audio-Streaming"
+                       href="https://sul-streaming.stanford.edu/collections/sc0881/jq759nm8484_b_sl.html"
+                       show="new">
+                     <daodesc>
+                        <p>Artificial Intelligence, Undated </p>
+                     </daodesc>
+                  </dao>
+               </did>
+            </c02>
+            <c02 id="ref367" level="file">
+               <did>
+                  <container type="Box">32</container>
+                  <unitid>32.4</unitid>
+                  <unittitle>Software Architecture</unittitle>
+                  <unitdate>Undated</unitdate>
+                  <physdesc>
+                     <extent>1 audiocassette(s)</extent>
+                  </physdesc>
+                  <dao linktype="simple"
+                       actuate="onrequest"
+                       title="Software Architecture"
+                       role="Audio-Streaming"
+                       href="https://sul-streaming.stanford.edu/collections/sc0881/yx897hf7504_a_sl.html"
+                       show="new">
+                     <daodesc>
+                        <p>Software Architecture, Undated </p>
+                     </daodesc>
+                  </dao>
+                  <dao linktype="simple"
+                       actuate="onrequest"
+                       title="Software Architecture"
+                       role="Audio-Streaming"
+                       href="https://sul-streaming.stanford.edu/collections/sc0881/yx897hf7504_b_sl.html"
+                       show="new">
+                     <daodesc>
+                        <p>Software Architecture, Undated </p>
+                     </daodesc>
+                  </dao>
+               </did>
+            </c02>
+            <c02 id="ref163" level="file">
+               <did>
+                  <container type="Box">33</container>
+                  <unittitle>Photographs and transparencies:</unittitle>
+               </did>
+               <scopecontent>
+                  <p>13 (12 inch. X 10 inch.) photographs (A Commitment-Based Model of Office Work for Expert Office System, 1982) 7 transparencies (Building Knowledge-Based Systems) 19 transparencies (The Monkey Problem, etc.)</p>
+               </scopecontent>
+            </c02>
+         </c01>
+         <c01 id="ref199" level="series">
+            <did>
+               <unitid>Series 7</unitid>
+               <unittitle>Miscellaneous material</unittitle>
+            </did>
+            <c02 id="ref200" level="file">
+               <did>
+                  <container type="Box">30</container>
+                  <unittitle>Name Cards</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref201" level="file">
+               <did>
+                  <container type="Box">34</container>
+                  <unittitle>Desktop diary</unittitle>
+                  <unitdate>1971-74, 1976-77, 1979, 1983</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref202" level="file">
+               <did>
+                  <container type="Box">31</container>
+                  <unittitle>Address &amp; Phone Directories / Pocket Day-Timer Notes</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref215" level="series">
+            <did>
+               <unitid>Series 8</unitid>
+               <unittitle>Computer files</unittitle>
+            </did>
+            <c02 id="ref216" level="series">
+               <did>
+                  <unittitle>Email</unittitle>
+                  <unitdate normal="1997/2007" type="inclusive">1997-2007</unitdate>
+               </did>
+               <c03 id="ref217" level="subseries">
+                  <did>
+                     <unittitle>1991 emails</unittitle>
+                     <unitdate normal="1991/1991">1991</unitdate>
+                     <langmaterial>
+                        <language langcode="eng" scriptcode="Latn">English</language>
+                     </langmaterial>
+                  </did>
+               </c03>
+               <c03 id="ref218" level="subseries">
+                  <did>
+                     <unittitle>1992 emails</unittitle>
+                     <unitdate normal="1992/1992">1992</unitdate>
+                     <langmaterial>
+                        <language langcode="eng" scriptcode="Latn">English</language>
+                     </langmaterial>
+                  </did>
+               </c03>
+               <c03 id="ref219" level="subseries">
+                  <did>
+                     <unittitle>1993 emails</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref220" level="subseries">
+                  <did>
+                     <unittitle>1994 emails</unittitle>
+                     <unitdate normal="1994/1994">1994</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref221" level="subseries">
+                  <did>
+                     <unittitle>1995 emails</unittitle>
+                     <unitdate normal="1995/1995">1995</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref222" level="subseries">
+                  <did>
+                     <unittitle>1996 emails</unittitle>
+                     <unitdate normal="1996/1996">1996</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref223" level="subseries">
+                  <did>
+                     <unittitle>1997 emails</unittitle>
+                     <unitdate normal="1997/1997">1997</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref224" level="subseries">
+                  <did>
+                     <unittitle>1998 emails</unittitle>
+                     <unitdate normal="1998/1998">1998</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref225" level="series">
+               <did>
+                  <unittitle>Private Sector</unittitle>
+               </did>
+               <c03 id="ref226" level="subseries">
+                  <did>
+                     <unittitle>Test</unittitle>
+                     <unitdate>1991</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref227" level="subseries">
+                  <did>
+                     <unittitle>Acuitus - Acuitus develops computer-based tutoring systems.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref228" level="subseries">
+                  <did>
+                     <unittitle>TomAndAndy</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref229" level="subseries">
+                  <did>
+                     <unittitle>AF Rome</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref230" level="subseries">
+                  <did>
+                     <unittitle>CelCorp</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref231" level="subseries">
+                  <did>
+                     <unittitle>IKRIS</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref232" level="subseries">
+                  <did>
+                     <unittitle>AdIn</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref233" level="subseries">
+                  <did>
+                     <unittitle>Bradshaw</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref234" level="subseries">
+                  <did>
+                     <unittitle>CNRI</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref235" level="subseries">
+                  <did>
+                     <unittitle>iSpring</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref236" level="subseries">
+                  <did>
+                     <unittitle>JonesDay</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref237" level="subseries">
+                  <did>
+                     <unittitle>HAR</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref238" level="subseries">
+                  <did>
+                     <unittitle>Meanings</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref239" level="subseries">
+                  <did>
+                     <unittitle>TPIN Number_files</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref240" level="subseries">
+                  <did>
+                     <unittitle>Woodside Labs</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref241" level="subseries">
+                  <did>
+                     <unittitle>Yahoo!</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref242" level="subseries">
+                  <did>
+                     <unittitle>YY Software</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref243" level="series">
+               <did>
+                  <unittitle>Stanford University</unittitle>
+               </did>
+               <c03 id="ref244" level="subseries">
+                  <did>
+                     <unittitle>Teaching and Administration</unittitle>
+                  </did>
+                  <c04 id="ref245" level="subseries">
+                     <did>
+                        <unittitle>CS222– Knowledge Representation. Lecture presentations, projects, examinations.</unittitle>
+                        <unitdate normal="1997/2004" type="inclusive">1997-2004</unitdate>
+                     </did>
+                     <scopecontent>
+                        <p>Folder: C:\Documents and Settings\pchan3\Desktop\Fikes\Series 3 Stanford University\Teaching and Administration\CS222\ FILE 216,118 airport.pdf 6/24/2008 15:25 FILE 162,008 airport.ps 6/27/2002 11:22</p>
+                     </scopecontent>
+                     <c05 id="ref247" level="file">
+                        <did>
+                           <unittitle>1997</unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref248" level="file">
+                        <did>
+                           <unittitle>1998</unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref249" level="file">
+                        <did>
+                           <unittitle>2000</unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref250" level="file">
+                        <did>
+                           <unittitle>2001</unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref251" level="file">
+                        <did>
+                           <unittitle>2002</unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref252" level="file">
+                        <did>
+                           <unittitle>2003</unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref253" level="file">
+                        <did>
+                           <unittitle>2004</unittitle>
+                        </did>
+                     </c05>
+                  </c04>
+                  <c04 id="ref254" level="file">
+                     <did>
+                        <unittitle>CS Department</unittitle>
+                     </did>
+                     <c05 id="ref255" level="file">
+                        <did>
+                           <unittitle>AI Qual</unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref256" level="file">
+                        <did>
+                           <unittitle>Gates - Office Space</unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref257" level="file">
+                        <did>
+                           <unittitle>ISYS - The Intelligent Systems Laboratory</unittitle>
+                        </did>
+                        <c06 id="ref258" level="file">
+                           <did>
+                              <unittitle>MSCS Advising</unittitle>
+                           </did>
+                        </c06>
+                     </c05>
+                     <c05 id="ref259" level="file">
+                        <did>
+                           <unittitle>MSCS Admissions</unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref260" level="file">
+                        <did>
+                           <unittitle>PhD Admissions</unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref261" level="file">
+                        <did>
+                           <unittitle>Ron Brachman</unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref262" level="file">
+                        <did>
+                           <unittitle>Seibel PhD Fellowship</unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref263" level="file">
+                        <did>
+                           <unittitle>Miscellaneous</unittitle>
+                        </did>
+                     </c05>
+                  </c04>
+                  <c04 id="ref264" level="file">
+                     <did>
+                        <unittitle>Annual Faculty Reports</unittitle>
+                        <unitdate normal="1998/2005" type="inclusive">1998-2005</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref265" level="file">
+                     <did>
+                        <unittitle>Professor (Research) Reappointment files</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref266" level="file">
+                     <did>
+                        <unittitle>Retirement - Files related to Fikes' retirement</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref267" level="subseries">
+                     <did>
+                        <unittitle>Students' CV, thesis, etc.</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref268" level="file">
+                     <did>
+                        <unittitle>Miscellaneous</unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref269" level="subseries">
+                  <did>
+                     <unittitle>Knowledge Systems Laboratory</unittitle>
+                  </did>
+                  <c04 id="ref270" level="file">
+                     <did>
+                        <unittitle>Finances - Lab Budgets, Financial Analysis, etc.</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref271" level="file">
+                     <did>
+                        <unittitle>KSL Seminar</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref272" level="file">
+                     <did>
+                        <unittitle>Management - Performance Appraisals, Recruitments, Personnel Matters, Work Distributions, etc.</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref273" level="file">
+                     <did>
+                        <unittitle>Projects</unittitle>
+                     </did>
+                     <c05 id="ref274" level="file">
+                        <did>
+                           <unittitle>How Things Work</unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref275" level="file">
+                        <did>
+                           <unittitle>KD-D</unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref276" level="file">
+                        <did>
+                           <unittitle>KnOWS</unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref277" level="file">
+                        <did>
+                           <unittitle>KSL with other Corporations and Agencies</unittitle>
+                        </did>
+                        <c06 id="ref278" level="file">
+                           <did>
+                              <unittitle>Agnosco</unittitle>
+                           </did>
+                        </c06>
+                        <c06 id="ref279" level="file">
+                           <did>
+                              <unittitle>Cisco</unittitle>
+                           </did>
+                        </c06>
+                        <c06 id="ref280" level="file">
+                           <did>
+                              <unittitle>CTC</unittitle>
+                           </did>
+                        </c06>
+                        <c06 id="ref281" level="file">
+                           <did>
+                              <unittitle>IBM</unittitle>
+                           </did>
+                        </c06>
+                        <c06 id="ref282" level="file">
+                           <did>
+                              <unittitle>NASA</unittitle>
+                           </did>
+                        </c06>
+                        <c06 id="ref283" level="file">
+                           <did>
+                              <unittitle>NSA</unittitle>
+                           </did>
+                        </c06>
+                        <c06 id="ref284" level="file">
+                           <did>
+                              <unittitle>PARC</unittitle>
+                           </did>
+                        </c06>
+                        <c06 id="ref285" level="file">
+                           <did>
+                              <unittitle>Sony</unittitle>
+                           </did>
+                        </c06>
+                        <c06 id="ref286" level="file">
+                           <did>
+                              <unittitle>VerticalNet</unittitle>
+                           </did>
+                        </c06>
+                     </c05>
+                     <c05 id="ref287" level="file">
+                        <did>
+                           <unittitle>Projects from Funding Agencies</unittitle>
+                        </did>
+                        <c06 id="ref288" level="file">
+                           <did>
+                              <unittitle>ARDA</unittitle>
+                           </did>
+                           <c07 id="ref289" level="file">
+                              <did>
+                                 <unittitle>AQUAINT</unittitle>
+                              </did>
+                           </c07>
+                           <c07 id="ref290" level="file">
+                              <did>
+                                 <unittitle>NIMD</unittitle>
+                              </did>
+                           </c07>
+                           <c07 id="ref291" level="file">
+                              <did>
+                                 <unittitle>IKRIS</unittitle>
+                              </did>
+                           </c07>
+                           <c07 id="ref292" level="file">
+                              <did>
+                                 <unittitle>CASE</unittitle>
+                              </did>
+                           </c07>
+                        </c06>
+                        <c06 id="ref293" level="file">
+                           <did>
+                              <unittitle>Darpa</unittitle>
+                           </did>
+                           <c07 id="ref294" level="file">
+                              <did>
+                                 <unittitle>Aggregation</unittitle>
+                              </did>
+                           </c07>
+                           <c07 id="ref295" level="file">
+                              <did>
+                                 <unittitle>Cognitive Systems</unittitle>
+                              </did>
+                           </c07>
+                           <c07 id="ref296" level="file">
+                              <did>
+                                 <unittitle>HTW</unittitle>
+                              </did>
+                           </c07>
+                           <c07 id="ref297" level="file">
+                              <did>
+                                 <unittitle>IAO</unittitle>
+                              </did>
+                           </c07>
+                           <c07 id="ref298" level="file">
+                              <did>
+                                 <unittitle>IPTO</unittitle>
+                              </did>
+                           </c07>
+                           <c07 id="ref299" level="file">
+                              <did>
+                                 <unittitle>ISAT</unittitle>
+                              </did>
+                           </c07>
+                           <c07 id="ref300" level="file">
+                              <did>
+                                 <unittitle>ISO_Panel</unittitle>
+                              </did>
+                           </c07>
+                           <c07 id="ref301" level="file">
+                              <did>
+                                 <unittitle>ISO_Simulation</unittitle>
+                              </did>
+                           </c07>
+                           <c07 id="ref302" level="file">
+                              <did>
+                                 <unittitle>ITE</unittitle>
+                              </did>
+                           </c07>
+                           <c07 id="ref303" level="file">
+                              <did>
+                                 <unittitle>Programs</unittitle>
+                              </did>
+                              <c08 id="ref304" level="file">
+                                 <did>
+                                    <unittitle>ASSIST</unittitle>
+                                 </did>
+                              </c08>
+                              <c08 id="ref305" level="file">
+                                 <did>
+                                    <unittitle>CALO</unittitle>
+                                 </did>
+                              </c08>
+                              <c08 id="ref306" level="file">
+                                 <did>
+                                    <unittitle>DAML</unittitle>
+                                 </did>
+                              </c08>
+                              <c08 id="ref307" level="file">
+                                 <did>
+                                    <unittitle>EELD</unittitle>
+                                 </did>
+                              </c08>
+                              <c08 id="ref308" level="file">
+                                 <did>
+                                    <unittitle>HPKB</unittitle>
+                                 </did>
+                              </c08>
+                              <c08 id="ref309" level="file">
+                                 <did>
+                                    <unittitle>I3</unittitle>
+                                 </did>
+                              </c08>
+                              <c08 id="ref310" level="file">
+                                 <did>
+                                    <unittitle>Info_Brokers_Project</unittitle>
+                                 </did>
+                              </c08>
+                              <c08 id="ref311" level="file">
+                                 <did>
+                                    <unittitle>REAL</unittitle>
+                                 </did>
+                              </c08>
+                              <c08 id="ref312" level="file">
+                                 <did>
+                                    <unittitle>RKF</unittitle>
+                                 </did>
+                              </c08>
+                              <c08 id="ref313" level="file">
+                                 <did>
+                                    <unittitle>UltraLog</unittitle>
+                                 </did>
+                              </c08>
+                           </c07>
+                           <c07 id="ref314" level="file">
+                              <did>
+                                 <unittitle>SBD</unittitle>
+                              </did>
+                           </c07>
+                           <c07 id="ref315" level="file">
+                              <did>
+                                 <unittitle>SEC</unittitle>
+                              </did>
+                           </c07>
+                           <c07 id="ref316" level="file">
+                              <did>
+                                 <unittitle>Strategic Knowledge Bank</unittitle>
+                              </did>
+                           </c07>
+                           <c07 id="ref317" level="file">
+                              <did>
+                                 <unittitle>Miscellaneous</unittitle>
+                              </did>
+                           </c07>
+                        </c06>
+                        <c06 id="ref318" level="file">
+                           <did>
+                              <unittitle>DHS</unittitle>
+                           </did>
+                        </c06>
+                        <c06 id="ref319" level="file">
+                           <did>
+                              <unittitle>ERC</unittitle>
+                           </did>
+                        </c06>
+                        <c06 id="ref320" level="file">
+                           <did>
+                              <unittitle>Livermore Labs</unittitle>
+                           </did>
+                        </c06>
+                        <c06 id="ref321" level="file">
+                           <did>
+                              <unittitle>NSF</unittitle>
+                           </did>
+                        </c06>
+                        <c06 id="ref322" level="file">
+                           <did>
+                              <unittitle>Vulcan</unittitle>
+                           </did>
+                        </c06>
+                     </c05>
+                     <c05 id="ref323" level="file">
+                        <did>
+                           <unittitle>Technologies</unittitle>
+                        </did>
+                        <c06 id="ref324" level="file">
+                           <did>
+                              <unittitle>Agents</unittitle>
+                           </did>
+                        </c06>
+                        <c06 id="ref325" level="file">
+                           <did>
+                              <unittitle>GlobalInfoBase</unittitle>
+                           </did>
+                        </c06>
+                        <c06 id="ref326" level="file">
+                           <did>
+                              <unittitle>Inference Web</unittitle>
+                           </did>
+                        </c06>
+                        <c06 id="ref327" level="file">
+                           <did>
+                              <unittitle>JTP</unittitle>
+                           </did>
+                        </c06>
+                        <c06 id="ref328" level="file">
+                           <did>
+                              <unittitle>Knowledge Sharing</unittitle>
+                           </did>
+                        </c06>
+                        <c06 id="ref329" level="file">
+                           <did>
+                              <unittitle>Ontologies</unittitle>
+                           </did>
+                        </c06>
+                        <c06 id="ref330" level="file">
+                           <did>
+                              <unittitle>TAP</unittitle>
+                           </did>
+                        </c06>
+                        <c06 id="ref331" level="file">
+                           <did>
+                              <unittitle>UIMA</unittitle>
+                           </did>
+                        </c06>
+                     </c05>
+                  </c04>
+                  <c04 id="ref332" level="file">
+                     <did>
+                        <unittitle>Talks</unittitle>
+                     </did>
+                     <c05 id="ref333" level="file">
+                        <did>
+                           <unittitle>Agnosco</unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref334" level="file">
+                        <did>
+                           <unittitle>AQUAINT</unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref335" level="file">
+                        <did>
+                           <unittitle>Brokers</unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref336" level="file">
+                        <did>
+                           <unittitle>DHS Text Analysis Workshop</unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref337" level="file">
+                        <did>
+                           <unittitle>HTW</unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref338" level="file">
+                        <did>
+                           <unittitle>I3</unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref339" level="file">
+                        <did>
+                           <unittitle>Integration</unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref340" level="file">
+                        <did>
+                           <unittitle>ISAT</unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref341" level="file">
+                        <did>
+                           <unittitle>KD-D</unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref342" level="file">
+                        <did>
+                           <unittitle>KnOW</unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref343" level="file">
+                        <did>
+                           <unittitle>KR&amp;R</unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref344" level="file">
+                        <did>
+                           <unittitle>KSL</unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref345" level="file">
+                        <did>
+                           <unittitle>MARS</unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref346" level="file">
+                        <did>
+                           <unittitle>NASA</unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref347" level="file">
+                        <did>
+                           <unittitle>OKBC</unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref348" level="file">
+                        <did>
+                           <unittitle>Pfizer_Visit</unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref349" level="file">
+                        <did>
+                           <unittitle>REAL</unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref350" level="file">
+                        <did>
+                           <unittitle>Semantic Web</unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref351" level="file">
+                        <did>
+                           <unittitle>SHADE</unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref352" level="file">
+                        <did>
+                           <unittitle>Spring Symposia</unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref353" level="file">
+                        <did>
+                           <unittitle>UltraLog</unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref354" level="file">
+                        <did>
+                           <unittitle>Miscellaneous</unittitle>
+                        </did>
+                     </c05>
+                  </c04>
+                  <c04 id="ref355" level="file">
+                     <did>
+                        <unittitle>Miscellaneous</unittitle>
+                     </did>
+                  </c04>
+               </c03>
+            </c02>
+            <c02 id="ref356" level="series">
+               <did>
+                  <unittitle>Professional Organization Activity</unittitle>
+               </did>
+               <c03 id="ref357" level="series">
+                  <did>
+                     <unittitle>AAAI Admin</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref358" level="file">
+                  <did>
+                     <unittitle>Professional Meetings</unittitle>
+                  </did>
+                  <c04 id="ref359" level="file">
+                     <did>
+                        <unittitle>ISWC</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref360" level="file">
+                     <did>
+                        <unittitle>KR</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref361" level="file">
+                     <did>
+                        <unittitle>OKBC</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref362" level="file">
+                     <did>
+                        <unittitle>QAS</unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref363" level="file">
+                  <did>
+                     <unittitle>DARPA IPTO REAL-Gambit Workshop</unittitle>
+                     <unitdate>2002 Nov 18-20</unitdate>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

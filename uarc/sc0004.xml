@@ -1,0 +1,1952 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[William Webster Hansen papers])//EN"
+             identifier="ark:/13030/c837798t">sc0004.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the William Webster Hansen Papers
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Hansen (William Webster) Papers</titleproper>
+            <author>Special Collections staff</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2008">2008</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with Stanford EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date normal="2013-03">March 2013</date>
+            <item/>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC0004</unitid>
+         <origination label="Creator:">
+            <persname rules="aacr" source="naf">Hansen, W. W. (William Webster), 1909-1949</persname>
+         </origination>
+         <unittitle label="Title:">William Webster Hansen papers</unittitle>
+         <unitdate normal="1925/1945"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1925-1945</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>7.5 Linear feet</extent>
+         </physdesc>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <descgrp type="provenance" id="prov">
+            <head>Provenance</head>
+            <acqinfo id="ref5">
+               <p>Gift of Olive Ross, 1955, and Robert Hofstadter, 1992.</p>
+            </acqinfo>
+         </descgrp>
+         <accessrestrict id="ref2">
+            <head>Information about Access</head>
+            <p>Collection is open for research; materials must be requested at least 24 hours in advance of intended use.</p>
+         </accessrestrict>
+         <userestrict id="ref3">
+            <head>Ownership &amp; Copyright</head>
+            <p>Property rights reside with the repository. Literary rights reside with the creators of the documents or their heirs. To obtain permission to publish or reproduce, please contact the Public Services Librarian of the Dept. of Special Collections.</p>
+         </userestrict>
+         <prefercite id="ref4">
+            <head>Cite As</head>
+            <p>[Identification of item], William Webster Hansen Papers (SC0004). Department of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <bioghist id="ref6">
+         <head>Biography</head>
+         <p>William Webster Hansen was Professor of Physics and Director of the Microwave Laboratory at Stanford University, 1929-1949.</p>
+      </bioghist>
+      <scopecontent id="ref7">
+         <head>Scope and Content of Collection</head>
+         <p>Hansen's professional and research papers include correspondence, manuscripts, research notebooks, lecture notes, unpublished studies and notes on various experiments and scientific developments such as radar, the rhumbatron, the klystron, radiation and microwave mechanics. Also included are Hansen's account of the development of the klystron tube, reports of the first linear accelerator at Stanford, his M.I.T. lectures on microwave physics, patents, scrapbooks, and photographs.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <persname rules="aacr" source="ingest" role=" ">Beckerley, James Gwavas.</persname>
+         <persname rules="aacr" source="naf" role=" ">Hansen, W. W. (William Webster), 1909-1949</persname>
+         <persname rules="aacr" source="ingest" role=" ">Kirkpatrick, Paul.</persname>
+         <corpname rules="dacs" source="ingest" role=" ">Massachusetts Institute of Technology.</corpname>
+         <persname rules="aacr" source="ingest" role=" ">Morse, Philip M.,  (Philip McCord), 1903-1985.</persname>
+         <persname rules="aacr" source="ingest" role=" ">Oppenheimer, J. Robert, 1904-1967.</persname>
+         <corpname rules="dacs" source="ingest" role=" ">Sperry Rand Corporation. Sperry Gyroscope Division.</corpname>
+         <corpname rules="dacs" source="naf" role=" ">Stanford University. Department of Physics. -- General subdivision--Faculty.; </corpname>
+         <persname rules="aacr" source="ingest" role=" ">Webster, David Locke, 1943-</persname>
+         <persname rules="aacr" source="ingest" role=" ">Woodyard, John R.</persname>
+         <subject source="lcsh">Cavity resonators.</subject>
+         <subject source="lcsh">Klystrons.</subject>
+         <subject source="lcsh">Physics--History.</subject>
+         <subject source="lcsh">Radar.</subject>
+         <subject source="lcsh">Spectrum analysis.</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.6">
+         <head>Collection Contents</head>
+         <c01 id="ref8" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">1</container>
+               <unittitle>ENGINEERING and MECHANICS NOTES</unittitle>
+               <unitdate normal="1930/1930">1930</unitdate>
+            </did>
+            <scopecontent>
+               <p>lecture notes, problems &amp; exams</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref10" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">2</container>
+               <unittitle>ANALYTICAL MECHANICS, W. W. HANSEN, PHYSICS DEPT.</unittitle>
+            </did>
+            <scopecontent>
+               <p>probably lecture notes</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref12" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">3</container>
+               <unittitle>PROBLEMS ON MATH, PHYSICS</unittitle>
+            </did>
+            <scopecontent>
+               <p>collection of problem sets</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref14" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">4</container>
+               <unittitle>"THE RELATION BETWEEN THE CONTINUOUS AND LINE SPECTRA OF X-RAYS FROM THIN TARGETS" By D.L. WEBSTER (DAVID LOCKE) and W.W. HANSEN</unittitle>
+            </did>
+            <scopecontent>
+               <p>abstract with outline drafted 
+                        <unitdate>Feb. 14, 1929, </unitdate>calculations, etc.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref16" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">5</container>
+               <unittitle>"A 10cm SIGNAL GENERATOR" by W. W. HANSEN, EDWARD LEONARD GINZTON, &amp; P. KINNEL</unittitle>
+            </did>
+            <scopecontent>
+               <p>article and handwritten draft, probably a lecture</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref18" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">6</container>
+               <unittitle>NOTES ON MATRIX THEORY -at M.I.T.</unittitle>
+            </did>
+         </c01>
+         <c01 id="ref19" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">7</container>
+               <unittitle>NOTES ON DIRAC'S THEORY -at M.I.T.</unittitle>
+            </did>
+         </c01>
+         <c01 id="ref20" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">8</container>
+               <unittitle>PROBLEMS IN WOOD'S ADVANCED CALCULUS</unittitle>
+            </did>
+         </c01>
+         <c01 id="ref21" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">9</container>
+               <unittitle>NOTES ON FERMI STATISTICS; also material on Maxwell statistics.</unittitle>
+            </did>
+         </c01>
+         <c01 id="ref22" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">10</container>
+               <unittitle>NOTES ON QUANTUM MECHANICS INCLUDING KRAMER'S ON SPINORS</unittitle>
+            </did>
+         </c01>
+         <c01 id="ref23" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">11</container>
+               <unittitle>NOTES ON MORSE</unittitle>
+            </did>
+         </c01>
+         <c01 id="ref24" level="file">
+            <did>
+               <container type="Box">1</container>
+               <container type="Folder">12</container>
+               <unittitle>VARIOUS PHYSICS COURSES</unittitle>
+            </did>
+            <scopecontent>
+               <p>lecture notes (?) and exams</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref26" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">13</container>
+               <unittitle>NOTES ON SPECTROSCOPY</unittitle>
+            </did>
+         </c01>
+         <c01 id="ref27" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">14</container>
+               <unittitle>NOTES ON RELATIVITY</unittitle>
+            </did>
+            <scopecontent>
+               <p>and problems from Physics 239, 
+                        <unitdate>Spring, 1936</unitdate>
+               </p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref29" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">15</container>
+               <unittitle>NOTES ON QUANTUM MECHANICS by WILLIAM VERMILLION HOUSTON</unittitle>
+            </did>
+            <scopecontent>
+               <p>includes notes, probably lecture, for Physics 206, Wave Mechanics, handwritten apparently by Hansen, various other Hansen material</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref31" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">16</container>
+               <unittitle>QUANTUM MECHANICS. NOTES FROM ROBERT OPPENHEIMER</unittitle>
+            </did>
+            <scopecontent>
+               <p>handwritten, title indicates source</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref33" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">17</container>
+               <unittitle>NOTES ON BLACK BODY RADIATION FROM EPSTEIN</unittitle>
+            </did>
+            <scopecontent>
+               <p>Handwritten notes, title indicative of source</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref35" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">18</container>
+               <unittitle>IONIZATION THEORY NOTES FROM WEBSTER</unittitle>
+            </did>
+         </c01>
+         <c01 id="ref36" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">19</container>
+               <unittitle>NOTES TAKEN AT MICHIGAN</unittitle>
+            </did>
+         </c01>
+         <c01 id="ref37" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">20</container>
+               <unittitle>HEAVISIDED CALCULUS</unittitle>
+            </did>
+            <scopecontent>
+               <p>includes notes entitled: "Solution of Oscillating Currents by the Use of Generalized Angular Velocity", and "Coupled Circuit by the Method of Generalized Angular Velocities."</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref39" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">21</container>
+               <unittitle>GRADUATE EXAMINATIONS</unittitle>
+            </did>
+            <scopecontent>
+               <p>handwritten, apparently taken by Hansen 
+                        <unitdate>ca. 1930</unitdate>
+               </p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref41" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">22</container>
+               <unittitle>ENGINEERING AND MECHANICS,</unittitle>
+               <unitdate>1931</unitdate>
+            </did>
+            <scopecontent>
+               <p>various Physics exams for 1931 and some of Hansen's (probably lecture) notes</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref43" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">23</container>
+               <unittitle>PHYSICAL CHEMISTRY NOTES</unittitle>
+            </did>
+            <scopecontent>
+               <p>notes on Physical Chem and some exam sheets for Chem 171 
+                        <unitdate>(1929)</unitdate> and Chem 173 
+                        <unitdate>(1930)</unitdate>
+               </p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref45" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">24</container>
+               <unittitle>BROWN'S HEAT LAB. MANUAL</unittitle>
+            </did>
+            <scopecontent>
+               <p>various notations by Hansen and problem or outline sheet for Physics 34, Heat Lab</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref47" level="file">
+            <did>
+               <container type="Box">2</container>
+               <container type="Folder">25</container>
+               <unittitle>STUDIES FOR GRADUATE EXAMINATION</unittitle>
+            </did>
+            <scopecontent>
+               <p>notes by Hansen on calculus and physics</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref49" level="file">
+            <did>
+               <container type="Box">3</container>
+               <container type="Folder">26</container>
+               <unittitle>NOTES ON MICROSCOPES FOR MEDICAL OPTICS</unittitle>
+            </did>
+         </c01>
+         <c01 id="ref50" level="file">
+            <did>
+               <container type="Box">3</container>
+               <container type="Folder">27</container>
+               <unittitle>COURSE IN ENGINEERING AND MECHANICS FROM WEBSTER</unittitle>
+            </did>
+            <scopecontent>
+               <p>some, perhaps all (?) material relates to Physics 215, 
+                        <unitdate>Spring 1925/26</unitdate>
+               </p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref52" level="file">
+            <did>
+               <container type="Box">3</container>
+               <container type="Folder">28</container>
+               <unittitle>COMPLEX VARIABIES</unittitle>
+            </did>
+            <scopecontent>
+               <p>handwritten and typed notes</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref54" level="file">
+            <did>
+               <container type="Box">3</container>
+               <container type="Folder">29</container>
+               <unittitle>NOTES ON THERMODYNAMICS AND KINETIC THEORY</unittitle>
+            </did>
+            <scopecontent>
+               <p>probably Hansen's on Physics 211, 
+                        <unitdate>1931</unitdate>
+               </p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref56" level="file">
+            <did>
+               <container type="Box">3</container>
+               <container type="Folder">30</container>
+               <unittitle>NOTES ON KINETIC THEORY FROM D.L. WEBSTER</unittitle>
+            </did>
+            <scopecontent>
+               <p>Hansen's on Physics 211</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref58" level="file">
+            <did>
+               <container type="Box">3</container>
+               <container type="Folder">31</container>
+               <unittitle>VARIOUS PATENTS</unittitle>
+            </did>
+            <scopecontent>
+               <p>German and American, none by Hansen</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref60" level="file">
+            <did>
+               <container type="Box">3</container>
+               <container type="Folder">32</container>
+               <unittitle>PATENTS</unittitle>
+            </did>
+            <scopecontent>
+               <p>American relating to electronics, copies probably used for reference</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref62" level="file">
+            <did>
+               <container type="Box">3</container>
+               <container type="Folder">33</container>
+               <unittitle>BLIND LANDING ARRAY</unittitle>
+            </did>
+            <scopecontent>
+               <p>reference to some device on which Hansen was working in connection with Sperry Rand Corp.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref64" level="file">
+            <did>
+               <container type="Box">3</container>
+               <container type="Folder">34</container>
+               <unittitle>APPLEGATE'S PATENTS</unittitle>
+            </did>
+            <scopecontent>
+               <p>various patents by L.M. Applegate</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref66" level="file">
+            <did>
+               <container type="Box">3</container>
+               <container type="Folder">35</container>
+               <unittitle>SOME IDEAS ABOUT BALL BEARINGS,</unittitle>
+               <unitdate>Sept. 13, 1944</unitdate>
+               <physdesc>photostatic copy of handwritten material</physdesc>
+            </did>
+         </c01>
+         <c01 id="ref68" level="file">
+            <did>
+               <container type="Box">3</container>
+               <container type="Folder">36</container>
+               <unittitle>PATENTS BY W.W. HANSEN, VARIAN, SLOAN, SNOW etc.</unittitle>
+            </did>
+         </c01>
+         <c01 id="ref69" level="file">
+            <did>
+               <container type="Box">3</container>
+               <container type="Folder">37</container>
+               <unittitle>REAMER THEORY</unittitle>
+            </did>
+            <scopecontent>
+               <p>front sheet dated 
+                        <unitdate>Mar. 18, 1937 </unitdate>is a statement of Hansen's reamer theory; includes various calculations, graphs, etc. all concerned with reamer theory</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref71" level="file">
+            <did>
+               <container type="Box">3</container>
+               <container type="Folder">38</container>
+               <unittitle>DIRECTOR, AIR, CALC.</unittitle>
+            </did>
+            <scopecontent>
+               <p>various calculations, some involved with ballistics</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref73" level="file">
+            <did>
+               <container type="Box">3</container>
+               <container type="Folder">39</container>
+               <unittitle>MISC. RADAR</unittitle>
+            </did>
+            <scopecontent>
+               <p>graphs, calculations, data sheets, etc.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref75" level="file">
+            <did>
+               <container type="Box">4</container>
+               <container type="Folder">40</container>
+               <unittitle>HALF-PLANE DIFFRACTION</unittitle>
+            </did>
+            <scopecontent>
+               <p>hand-written, entitled: "A New Treatment of the Half-Plane Diffraction Problem"</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref77" level="file">
+            <did>
+               <container type="Box">4</container>
+               <container type="Folder">41</container>
+               <unittitle>SEISMOGRAPH PROBLEM</unittitle>
+            </did>
+            <scopecontent>
+               <p>handwritten material including calculations, graphs, etc. folder dated 
+                        <unitdate>Sept., 1936</unitdate>
+               </p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref79" level="file">
+            <did>
+               <container type="Box">4</container>
+               <container type="Folder">42</container>
+               <unittitle>SPACE CHARGE IN THE ATMOSPHERE -</unittitle>
+               <unitdate>undated</unitdate>
+               <physdesc>handwritten</physdesc>
+            </did>
+         </c01>
+         <c01 id="ref81" level="file">
+            <did>
+               <container type="Box">4</container>
+               <container type="Folder">43</container>
+               <unittitle>APPROXIMATIONS TO BESSEL FUNCTIONS OF HIGH ORDER,</unittitle>
+               <unitdate>1936</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref82" level="file">
+            <did>
+               <container type="Box">4</container>
+               <container type="Folder">44</container>
+               <unittitle>BRAGG'S LAW</unittitle>
+            </did>
+            <scopecontent>
+               <p>handwritten, undated material</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref84" level="file">
+            <did>
+               <container type="Box">4</container>
+               <container type="Folder">45</container>
+               <unittitle>WORK ON HELIUM SPECTRUM</unittitle>
+            </did>
+            <scopecontent>
+               <p>at M.I.T., many graphs etc., handwritten material entitled: "Calculation of the Energy Levels of Helium"</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref86" level="file">
+            <did>
+               <container type="Box">4</container>
+               <container type="Folder">46</container>
+               <unittitle>ATOMIC ENERGY (?)</unittitle>
+            </did>
+            <scopecontent>
+               <p>various typed and handwritten sheets</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref88" level="file">
+            <did>
+               <container type="Box">4</container>
+               <container type="Folder">47</container>
+               <unittitle>PRELIMINARY WORK ON GREEN'S FUNCTIONS</unittitle>
+            </did>
+            <scopecontent>
+               <p>typed material entitled: "Abstract" (simple method of finding expansions for Green's Functions occurring in mathematical physics, several new Green's Functions illustrate method), and handwritten material</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref90" level="file">
+            <did>
+               <container type="Box">4</container>
+               <container type="Folder">48</container>
+               <unittitle>REENTRANT SPHERE RESONANCE &amp; ETC.</unittitle>
+               <physdesc>handwritten</physdesc>
+            </did>
+         </c01>
+         <c01 id="ref92" level="file">
+            <did>
+               <container type="Box">4</container>
+               <container type="Folder">49</container>
+               <unittitle>FEED-BACK AMPLIFIERS</unittitle>
+               <physdesc>handwritten</physdesc>
+            </did>
+         </c01>
+         <c01 id="ref94" level="file">
+            <did>
+               <container type="Box">4</container>
+               <container type="Folder">50</container>
+               <unittitle>LUMPED CONSTANT CALCULATIONS ON RHUMBATRONS</unittitle>
+            </did>
+            <scopecontent>
+               <p>handwritten, graphs, etc.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref96" level="file">
+            <did>
+               <container type="Box">4</container>
+               <container type="Folder">51</container>
+               <unittitle>TUNING BY BUMPS</unittitle>
+            </did>
+            <scopecontent>
+               <p>work done 
+                        <unitdate>Oct. 1938</unitdate> by Hansen and D.L. Webster</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref98" level="file">
+            <did>
+               <container type="Box">4</container>
+               <container type="Folder">52</container>
+               <unittitle>IMPEDANCE MATCHING ON RHUMBATRON</unittitle>
+               <physdesc>handwritten</physdesc>
+            </did>
+         </c01>
+         <c01 id="ref100" level="file">
+            <did>
+               <container type="Box">4</container>
+               <container type="Folder">53</container>
+               <unittitle>CALCULATIONS ON WAVE GUIDES,</unittitle>
+               <unitdate>April 9, 1939</unitdate>
+               <physdesc>handwritten</physdesc>
+            </did>
+         </c01>
+         <c01 id="ref102" level="file">
+            <did>
+               <container type="Box">4</container>
+               <container type="Folder">54</container>
+               <unittitle>CURRENT DISTRIBUTION PROBLEM -</unittitle>
+               <unitdate>undated</unitdate>
+               <physdesc>handwritten</physdesc>
+            </did>
+         </c01>
+         <c01 id="ref104" level="file">
+            <did>
+               <container type="Box">4</container>
+               <container type="Folder">55</container>
+               <unittitle>RADAR ANTENNA THEORY</unittitle>
+            </did>
+            <scopecontent>
+               <p>handwritten material entitled: "Design of Antennas to Give Prescribed Patterns, Sharp Beams, Focussing by a Cylindrical Lens"</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref106" level="file">
+            <did>
+               <container type="Box">4</container>
+               <container type="Folder">56</container>
+               <unittitle>RADAR: SIGNAL-TO-NOISE</unittitle>
+               <physdesc>handwritten</physdesc>
+            </did>
+         </c01>
+         <c01 id="ref108" level="file">
+            <did>
+               <container type="Box">4</container>
+               <container type="Folder">57</container>
+               <unittitle>MODIFIED SCHMIDT TELESCOPE</unittitle>
+               <physdesc>handwritten</physdesc>
+            </did>
+         </c01>
+         <c01 id="ref110" level="file">
+            <did>
+               <container type="Box">4</container>
+               <container type="Folder">58</container>
+               <unittitle>MOTION OF WEIGHT WITH ATTACHED ROPE</unittitle>
+            </did>
+            <scopecontent>
+               <p>"Sleater's Intergal" is the title (this may be Integral)</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref112" level="file">
+            <did>
+               <container type="Box">4</container>
+               <container type="Folder">59</container>
+               <unittitle>PRELIMINARY CALCULATIONS ON CYLINDRICAL As and CORRESPONDENCE WITH JAMES GWAVA BECKERLY</unittitle>
+               <unitdate>Summer, 1935</unitdate>
+               <physdesc>both handwritten and typed</physdesc>
+            </did>
+         </c01>
+         <c01 id="ref114" level="file">
+            <did>
+               <container type="Box">5</container>
+               <container type="Folder">60</container>
+               <unittitle>ANTENNA ARRAYS</unittitle>
+            </did>
+            <scopecontent>
+               <p>some personal correspondence with Dr. (? H.P.) Westman, 2 abstracts: "A New Principle in Directional Antenna Design" by W.W. Hansen and J.R. Woodyard, original handwritten and typed copy, various other papers and graphs</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref116" level="file">
+            <did>
+               <container type="Box">5</container>
+               <container type="Folder">61</container>
+               <unittitle>PRELIMINARY CALCULATIONS ON DIRECTIONAL EFFECTS AND MS</unittitle>
+            </did>
+            <scopecontent>
+               <p>handwritten material and a typed abstract entitled: "Radiation from an Antenna Over a Plane Earth of Arbitrary Characteristics" by W.W. Hansen and J.G. Beckerley</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref118" level="file">
+            <did>
+               <container type="Box">5</container>
+               <container type="Folder">62[R-2]</container>
+               <unittitle>ANTENNA DESIGN</unittitle>
+            </did>
+            <scopecontent>
+               <p>photostatic copy, letter between Hansen and Dr. Carl R. Spangenberg of Stanford University dated 
+                        <unitdate>1943</unitdate>
+               </p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref120" level="file">
+            <did>
+               <container type="Box">5</container>
+               <container type="Folder">63</container>
+               <unittitle>CALCULATIONS ON SPHERICAL-CYLINDRICAL TRANSFORMATIONS AND ON DIRECTIONAL EFFECTS</unittitle>
+               <physdesc>handwritten and typed</physdesc>
+            </did>
+         </c01>
+         <c01 id="ref122" level="file">
+            <did>
+               <container type="Box">5</container>
+               <container type="Folder">64</container>
+               <unittitle>ELECTROMETER REPRINTS</unittitle>
+            </did>
+            <scopecontent>
+               <p>correspondence between Hansen and W. Mansfield Clark of Johns Hopkins School of Medicine dated 
+                        <unitdate>1937, </unitdate>plus handwritten material</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref124" level="file">
+            <did>
+               <container type="Box">5</container>
+               <container type="Folder">65</container>
+               <unittitle>CALCULATIONS FOR GRAPHS</unittitle>
+            </did>
+            <scopecontent>
+               <p>various graphs and data sheets</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref126" level="file">
+            <did>
+               <container type="Box">5</container>
+               <container type="Folder">66</container>
+               <unittitle>ABERRATIONS IN ELECTRON LENSES</unittitle>
+            </did>
+            <scopecontent>
+               <p>handwritten and one graph</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref128" level="file">
+            <did>
+               <container type="Box">5</container>
+               <container type="Folder">67</container>
+               <unittitle>CALCULATION OF MONOTRON SHAPES</unittitle>
+            </did>
+            <scopecontent>
+               <p>various graphs, data sheets, etc.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref130" level="file">
+            <did>
+               <container type="Box">5</container>
+               <container type="Folder">68[R-8]</container>
+               <unittitle>NO TITLE</unittitle>
+            </did>
+            <scopecontent>
+               <p>unidentified handwritten materials, appears to be in connection with airplane landing control, radar or similar</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref132" level="file">
+            <did>
+               <container type="Box">5</container>
+               <container type="Folder">69</container>
+               <unittitle>EXPLORATORTY CALCULATIONS ON SPHERICAL EARTH PROBLEM</unittitle>
+            </did>
+            <scopecontent>
+               <p>handwritten material plus some graphs, some material on "Antenna Practice" etc., 
+                        <unitdate>1938</unitdate>
+               </p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref134" level="file">
+            <did>
+               <container type="Box">5</container>
+               <container type="Folder">70</container>
+               <unittitle>VECTOR EXPANSION OF e-ikr 12/r 12</unittitle>
+            </did>
+            <scopecontent>
+               <p>mostly at M.I.T. start of rhumbatron, 
+                        <unitdate>1933 </unitdate>(includes reject of Hansen article submitted for publication to 
+                        <title render="italic" linktype="simple">The Physical Review,</title>
+                  <title render="italic" linktype="simple"> Reviews of Modern Physics,</title> and 
+                        <title render="italic" linktype="simple">Physics </title>[all the same] entitled: "A New Type of Expansion", plus various handwritten material</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref136" level="file">
+            <did>
+               <container type="Box">5</container>
+               <container type="Folder">71</container>
+               <unittitle>RHUMBATRON CALCULATIONS</unittitle>
+            </did>
+            <scopecontent>
+               <p>various typed and handwritten material</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref138" level="file">
+            <did>
+               <container type="Box">5</container>
+               <container type="Folder">72</container>
+               <unittitle>MONOTRON MS</unittitle>
+            </did>
+            <scopecontent>
+               <p>typed abstract: "On A Simplified Short Wave Oscillator" by Hansen and Russell Harrison Varian &amp; original handwritten</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref140" level="file">
+            <did>
+               <container type="Box">6</container>
+               <container type="Folder">73[M-3]</container>
+               <unittitle>BEGINNING ON MONOTRON</unittitle>
+            </did>
+            <scopecontent>
+               <p>various handwritten material, graphs, dated 
+                        <unitdate>1937</unitdate>
+               </p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref142" level="file">
+            <did>
+               <container type="Box">6</container>
+               <container type="Folder">74[C-6]</container>
+               <unittitle>RHUMBATRON PAPER PRESENTED TO AMERICAN PHYSICAL SOCIETY</unittitle>
+               <unitdate>June, 1939</unitdate>
+            </did>
+            <scopecontent>
+               <p>typed and handwritten material and various graphs</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref144" level="file">
+            <did>
+               <container type="Box">6</container>
+               <container type="Folder">75[K-2]</container>
+               <unittitle>KLYSTRON EFFICIENCY</unittitle>
+            </did>
+            <scopecontent>
+               <p>graphs and handwritten material dated 
+                        <unitdate>1937</unitdate>
+               </p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref146" level="file">
+            <did>
+               <container type="Box">6</container>
+               <container type="Folder">76[C-12]</container>
+               <unittitle>RHUMBATRON PAPER WITH HOLLINGSWORTH</unittitle>
+            </did>
+            <scopecontent>
+               <p>typed preliminary draft, some graphs and drawings</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref148" level="file">
+            <did>
+               <container type="Box">6</container>
+               <container type="Folder">77[C-14]</container>
+               <unittitle>RHUMBATRON AS A RESONATOR, MS TO INSTITUTE OF RADIO ENGINEERS</unittitle>
+            </did>
+            <scopecontent>
+               <p>correspondence with I.R.E. about publication of article entitled: includes drawings, calculations and short biographical note for publisher</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref150" level="file">
+            <did>
+               <container type="Box">6</container>
+               <container type="Folder">78[K-6]</container>
+               <unittitle>"CURRENT-VOLTAGE-EFFICIENCY CHARACTERISTIC CURVES FOR KLYSTRON OSCILLATORS"</unittitle>
+               <physdesc>handwritten abstract and 3 typed copies</physdesc>
+            </did>
+         </c01>
+         <c01 id="ref152" level="file">
+            <did>
+               <container type="Box">6</container>
+               <container type="Folder">79[I-13]</container>
+               <unittitle>HANSEN-VARIAN AMPLIFIER</unittitle>
+            </did>
+            <scopecontent>
+               <p>research notes for Spring, 1930, article from 
+                        <title render="italic" linktype="simple">Radio News </title>
+                  <unitdate>February, 1930 </unitdate>entitled: "The Amplifier Steps Out"; various graphs; a letter of correspondence with Sangamo Electric Co. about a certain type of condensor</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref154" level="file">
+            <did>
+               <container type="Box">6</container>
+               <container type="Folder">80[K-8]</container>
+               <unittitle>RESONANCE FREQUENCY CLOSED LINE</unittitle>
+            </did>
+            <scopecontent>
+               <p>various handwritten material dated 
+                        <unitdate>1938, </unitdate>reply to Hansen's request for booklet on publishing form from American Institute of Physics</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref156" level="file">
+            <did>
+               <container type="Box">6</container>
+               <container type="Folder">81[K-7]</container>
+               <unittitle>"VERY ROUGH CALCULATIONS ON SELF BUNCHERS"</unittitle>
+               <physdesc>handwritten</physdesc>
+            </did>
+         </c01>
+         <c01 id="ref158" level="file">
+            <did>
+               <container type="Box">6</container>
+               <container type="Folder">82[E-1]</container>
+               <unittitle>SMOOTHING CIRCUITS</unittitle>
+            </did>
+            <scopecontent>
+               <p>handwritten material and graphs</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref160" level="file">
+            <did>
+               <container type="Box">6</container>
+               <container type="Folder">83[P-14]</container>
+               <unittitle>"DESIGN OF A SHAKER TRACK"</unittitle>
+            </did>
+            <scopecontent>
+               <p>handwritten material and many graphs</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref162" level="file">
+            <did>
+               <container type="Box">6</container>
+               <container type="Folder">84[C-16]</container>
+               <unittitle>QUARTER WAVE LINE</unittitle>
+            </did>
+            <scopecontent>
+               <p>"On the Resonant Frequency of Closed Concentric Lines", typewritten; "Numerical Example and Estimate of Errors", handwritten; several sheets of calculations</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref164" level="file">
+            <did>
+               <container type="Box">6</container>
+               <container type="Folder">85[K-3]</container>
+               <unittitle>"CAUSES OF FREQUENCY VARIATION IN KLYSTRON OSCILLATORS"</unittitle>
+               <physdesc>typed MS</physdesc>
+            </did>
+         </c01>
+         <c01 id="ref166" level="file">
+            <did>
+               <container type="Box">7</container>
+               <container type="Folder">86[C-15]</container>
+               <unittitle>RADIATION THROUGH HOLES</unittitle>
+            </did>
+            <scopecontent>
+               <p>handwritten, entitled: "Calculations for Rand Press Filter and Antenna"; other material dated 
+                        <unitdate>1937 and 1938</unitdate>
+               </p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref168" level="file">
+            <did>
+               <container type="Box">7</container>
+               <container type="Folder">87[K-5]</container>
+               <unittitle>CIRCULAR FLOATING ONE</unittitle>
+            </did>
+            <scopecontent>
+               <p>handwritten, graphs and calculations</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref170" level="file">
+            <did>
+               <container type="Box">7</container>
+               <container type="Folder">88[K-4]</container>
+               <unittitle>"ON THE ACCELERATION OF CHARGED PARTICLES BY OSCILLATING FIELDS BOUNDED BY GRIDS"</unittitle>
+            </did>
+            <scopecontent>
+               <p>handwritten abstract and typed copy, several graphs</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref172" level="file">
+            <did>
+               <container type="Box">7</container>
+               <container type="Folder">89[P-13]</container>
+               <unittitle>"ON THE ABSOLUTE DETERMINATION OF ELECTRICAL UNITS"</unittitle>
+            </did>
+            <scopecontent>
+               <p>abstract of article supposedly published in 
+                        <title render="italic" linktype="simple">American Journal of Physics </title>in late 1930s; "Measurement of Current", handwritten abstract and copy; graphs, drawings and etc.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref174" level="file">
+            <did>
+               <container type="Box">7</container>
+               <container type="Folder">90[I-10]</container>
+               <unittitle>MICROMANIPULATOR PAPER WITH SOME DRAWINGS</unittitle>
+            </did>
+            <scopecontent>
+               <p>typed paper, purchase orders for parts, folder on Zeiss Micromanipulators, some handwritten material</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref176" level="file">
+            <did>
+               <container type="Box">7</container>
+               <container type="Folder">91[C-13]</container>
+               <unittitle>"ON BAND PASS FILTERS USING RHUMBATRONS"</unittitle>
+               <physdesc>handwritten abstract with typed copy</physdesc>
+            </did>
+         </c01>
+         <c01 id="ref178" level="file">
+            <did>
+               <container type="Box">7</container>
+               <container type="Folder">92</container>
+               <unittitle>INSTITUTE OF RADIO ENGINEERS RADAR PAPER FIGURES</unittitle>
+            </did>
+            <scopecontent>
+               <p>various drawings, graphs, etc. presumably as indicated by title</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref180" level="file">
+            <did>
+               <container type="Box">7</container>
+               <container type="Folder">93[R-10]</container>
+               <unittitle>"CONCERNING NEW METHODS OF CALCULATION RADIATION RESISTANCE, EITHER WITH OR WITHOUT GROUND"</unittitle>
+            </did>
+            <scopecontent>
+               <p>typed paper and note that it formed the basis of a talk to joint meeting of I.R.E. and American section of U.R.S.I. in Washington D.C. 
+                        <unitdate>May, 1936; </unitdate>other material and letter to editor of proceedings of I.R.E., dated 
+                        <unitdate>1936</unitdate>
+               </p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref182" level="file">
+            <did>
+               <container type="Box">7</container>
+               <container type="Folder">94[R-11]</container>
+               <unittitle>RADIATION THEORY</unittitle>
+            </did>
+            <scopecontent>
+               <p>handwritten, graphs and drafts</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref184" level="file">
+            <did>
+               <container type="Box">7</container>
+               <container type="Folder">95[R-12]</container>
+               <unittitle>RADIATION THEORY</unittitle>
+            </did>
+            <scopecontent>
+               <p>notes taken to Washington (typed and handwritten) for U.R.S.I. program in 
+                        <unitdate>April and May, 1936</unitdate>
+               </p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref186" level="file">
+            <did>
+               <container type="Box">7</container>
+               <container type="Folder">96[R-13]</container>
+               <unittitle>"DESIGN OF FLAT SHOOTING ANTENNA ARRAYS" BY HANSEN AND HOLLINGSWORTH,</unittitle>
+               <unitdate>Spring 1938</unitdate>
+            </did>
+            <scopecontent>
+               <p>typed article and handwritten copy, much other material</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref188" level="file">
+            <did>
+               <container type="Box">7</container>
+               <container type="Folder">97[R-14]</container>
+               <unittitle>FIELD AT GROUND: CHASING OUT ERRORS</unittitle>
+            </did>
+            <scopecontent>
+               <p>also typed abstract entitled: "Directional Characteristics of Any Antenna Over a Plane Earth", and 2 copies; handwritten material; article by Hollingsworth entitled: "Report on Radiation Theory and Summerfield Theory"; translation of a German article</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref190" level="file">
+            <did>
+               <container type="Box">8</container>
+               <container type="Folder">98[R-15]</container>
+               <unittitle>NUMERICAL CALCULATIONS FOR FIRST I.R.E. PAPER</unittitle>
+            </did>
+            <scopecontent>
+               <p>with original copy of table three; handwritten and typed material, some of handwritten entitled: "Vertical Quarter Wave Antenna With Ground"; graphs, drawings and calculations</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref192" level="file">
+            <did>
+               <container type="Box">8</container>
+               <container type="Folder">99[R-16]</container>
+               <unittitle>"RADIATION FROM ARBITRARY ANTENNA OVER AN EARTH OF FINITE CONDUCTIVITY"</unittitle>
+            </did>
+            <scopecontent>
+               <p>typed and handwritten copies of MS for first paper in 
+                        <title render="italic" linktype="simple">Physics</title>
+               </p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref194" level="file">
+            <did>
+               <container type="Box">8</container>
+               <container type="Folder">100[P-9]</container>
+               <unittitle>"PROBABILITIES OF K-ELECTRON IONIZATION OF SILVER BY CATHODE RAYS"</unittitle>
+            </did>
+            <scopecontent>
+               <p>MS for paper with Stoddard on line and continuous radiation; also handwritten and typed material including a description of an experiment by Hansen and Stoddard</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref196" level="file">
+            <did>
+               <container type="Box">8</container>
+               <container type="Folder">101[P-10]</container>
+               <unittitle>TERMAN'S PROBLEM ON REFLECTIONS FROM THE IONOSPHERE</unittitle>
+            </did>
+            <scopecontent>
+               <p>typed and handwritten material; letter from H. . Westman, secretary of the I.R.E. re: publication of an article on this work</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref198" level="file">
+            <did>
+               <container type="Box">8</container>
+               <container type="Folder">102[P-11]</container>
+               <unittitle>KIRKPATRICK'S SHOTPUT CORRECTION</unittitle>
+            </did>
+            <scopecontent>
+               <p>handwritten material, calculations, etc.; typed reference attached and signed P K (possibly Paul Harmon Kirkpatrick)</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref200" level="file">
+            <did>
+               <container type="Box">8</container>
+               <container type="Folder">103[P-12]</container>
+               <unittitle>"J" PHENOMENON</unittitle>
+            </did>
+            <scopecontent>
+               <p>handwritten data sheets, several sheets entitled: "Superposition of X-rays" by Gerald L. Pearson and W.W. Hansen</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref202" level="file">
+            <did>
+               <container type="Box">8</container>
+               <container type="Folder">104[K-1]</container>
+               <unittitle>HADLEY REPORT -"Report on Klystron Amplifier Measurements" by Charles F. Hadley,</unittitle>
+               <unitdate>June 30, 1943</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref203" level="file">
+            <did>
+               <container type="Box">8</container>
+               <container type="Folder">105[P-8]</container>
+               <unittitle>"CALCULATIONS OF THE TOTAL RADIATION FROM ACCELERATED RAPIDLY MOVING ELECTRONS"</unittitle>
+               <physdesc>handwritten</physdesc>
+            </did>
+         </c01>
+         <c01 id="ref205" level="file">
+            <did>
+               <container type="Box">8</container>
+               <container type="Folder">106-107[I-9]</container>
+               <unittitle>MEASURE OF TRANSIENT RESPONSE OF AMPLIFIERS</unittitle>
+            </did>
+            <scopecontent>
+               <p>handwritten, partial title, c. 89 pp (?80); other handwritten material and graphs; originally one unidentified folder, divided into two because of volume</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref207" level="file">
+            <did>
+               <container type="Box">8</container>
+               <container type="Folder">108</container>
+               <unittitle>COMPUTATIONS FOR WOODYARD</unittitle>
+            </did>
+            <scopecontent>
+               <p>handwritten, graphs, data sheets, etc., undated</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref209" level="file">
+            <did>
+               <container type="Box">8</container>
+               <container type="Folder">l09[P-8]</container>
+               <unittitle>RADIATION THEORY</unittitle>
+            </did>
+            <scopecontent>
+               <p>mostly at M.I.T. and Michigan; handwritten, calculations, graphs, data sheets, etc.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref211" level="file">
+            <did>
+               <container type="Box">8</container>
+               <container type="Folder">110[C-10]</container>
+               <unittitle>"ON THE CHARACTERISTICS OF A CERTAIN SHAPE OF RESONATOR"</unittitle>
+            </did>
+            <scopecontent>
+               <p>handwritten with copy; data sheets, graphs, etc., some dated 
+                        <unitdate>1939</unitdate>
+               </p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref213" level="file">
+            <did>
+               <container type="Box">9</container>
+               <container type="Folder">111[C-9]</container>
+               <unittitle>FREQUENCY OF RESONANT CAVITIES</unittitle>
+            </did>
+            <scopecontent>
+               <p>handwritten entitled: "Magnetic Field with Cylindrical Symmetry"; data sheets, graphs, etc.; most dated 
+                        <unitdate>June, 1941</unitdate>
+               </p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref215" level="file">
+            <did>
+               <container type="Box">9</container>
+               <container type="Folder">112[C-8]</container>
+               <unittitle>DETAILED CALCULATIONS ON ENERGY LOSS ON REFLECTION -</unittitle>
+               <unitdate>undated</unitdate>
+               <physdesc>handwritten</physdesc>
+            </did>
+         </c01>
+         <c01 id="ref217" level="file">
+            <did>
+               <container type="Box">9</container>
+               <container type="Folder">113[C-7a,b,c,d]</container>
+               <unittitle>UNPUBLISHED PAPERS</unittitle>
+            </did>
+            <scopecontent>
+               <p>typed; abstract with drawings: "On Band Pass Filters Using Rhumbatrons"; abstract, 
+                        <unitdate>December, 1937: </unitdate>"On Radiative Rhumbatrons"; MS with graph: "Dielectric Rhumbatrons"; MS, 25 pp.,: "A Type of Electrical Resonator"</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref219" level="file">
+            <did>
+               <container type="Box">9</container>
+               <container type="Folder">114</container>
+               <unittitle>LIST OF PUBLISHED PAPERS -prepared by F. Black for National Academy of Science</unittitle>
+               <physdesc>handwritten</physdesc>
+            </did>
+         </c01>
+         <c01 id="ref221" level="file">
+            <did>
+               <container type="Box">9</container>
+               <container type="Folder">ll5</container>
+               <unittitle>CALCULATIONS &amp; MS FOR "PHYSICS" RHUMBATRON</unittitle>
+               <physdesc>handwritten</physdesc>
+            </did>
+         </c01>
+         <c01 id="ref223" level="file">
+            <did>
+               <container type="Box">9</container>
+               <container type="Folder">116</container>
+               <unittitle>KINEMATIC DESIGN DRAWINGS</unittitle>
+            </did>
+            <scopecontent>
+               <p>various drawings, some with notations by Hansen</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref225" level="file">
+            <did>
+               <container type="Box">9</container>
+               <container type="Folder">117</container>
+               <unittitle>ELECTROSTATIC FOCUSING AT RELATIVISTIC SPEEDS</unittitle>
+               <physdesc>typed, one copy in English, one in French</physdesc>
+            </did>
+         </c01>
+         <c01 id="ref227" level="file">
+            <did>
+               <container type="Box">9</container>
+               <container type="Folder">118</container>
+               <unittitle>"DIELECTRIC LOSSES OF VARIOUS CONCENTRIC CABLES AT 3000 Mc" by William W. Hansen and Charles H. Pope</unittitle>
+            </did>
+            <scopecontent>
+               <p>2 copies, typed or mimeographed, paper bears imprint of Sperry Gyroscope Co.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref229" level="file">
+            <did>
+               <container type="Box">9</container>
+               <container type="Folder">119</container>
+               <unittitle>TUBE OPERATING POINTS -</unittitle>
+               <unitdate>March 12, 1945</unitdate>
+            </did>
+            <scopecontent>
+               <p>interoffice memo by Hansen at Sperry Gyroscope Co., apparently a report with 2 graphs</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref231" level="file">
+            <did>
+               <container type="Box">9</container>
+               <container type="Folder">120</container>
+               <unittitle>MICROWAVE INTENSITY NOMOGRAPHS,</unittitle>
+               <unitdate>May 21, 1945</unitdate>
+            </did>
+            <scopecontent>
+               <p>inter-office memo (mimeographed copy) with graph-data sheets</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref233" level="file">
+            <did>
+               <container type="Box">9</container>
+               <container type="Folder">121</container>
+               <unittitle>REPORT ON KLYSTRON AMPLIFIER MEASUREMENTS. by Charles F. Hadley,</unittitle>
+               <unitdate>December 29, 1943</unitdate>
+            </did>
+            <scopecontent>
+               <p>mimeographed, 23 pp with several data sheets; submitted to Sperry Gyroscope Co.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref235" level="file">
+            <did>
+               <container type="Box">9</container>
+               <container type="Folder">122</container>
+               <unittitle>END-FIRE WAVE GUIDE RADIATORS</unittitle>
+               <unitdate>December 3, 1941</unitdate>
+            </did>
+            <scopecontent>
+               <p>inter-office memo from M.H. Johnson to R.L. Wathen and W.H. Ratliff (?); typed</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref237" level="file">
+            <did>
+               <container type="Box">9</container>
+               <container type="Folder">123</container>
+               <unittitle>RECTIFICATION TEST,</unittitle>
+               <unitdate>January 16, 1942</unitdate>
+            </did>
+            <scopecontent>
+               <p>Sperry Gyroscope Co. inter-office memo from M.H. Johnson and C.H. Pope to Hansen; typed.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref239" level="file">
+            <did>
+               <container type="Box">9</container>
+               <container type="Folder">124</container>
+               <unittitle>SPHERICAL-CYLINDRICAL TRANSFORMATIONS</unittitle>
+            </did>
+            <scopecontent>
+               <p>1 handwritten and 2 typed copies of abstract: "Transformations Useful in Certain Antenna Calculations"; correspondence relating to its publication in 
+                        <title render="italic" linktype="simple">Journal of Applied Physics </title>including galley proof and notification of intent to publish in April, 1937 issue.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref241" level="file">
+            <did>
+               <container type="Box">9</container>
+               <container type="Folder">125</container>
+               <unittitle>VALUES OF P FUNCTIONS</unittitle>
+               <physdesc>handwritten data sheets</physdesc>
+            </did>
+         </c01>
+         <c01 id="ref243" level="file">
+            <did>
+               <container type="Box">9</container>
+               <container type="Folder">126</container>
+               <unittitle>TABLE OF ei(x)</unittitle>
+            </did>
+            <scopecontent>
+               <p>mimeographed, notation, interpolated by Hansen from Glaisher's Tables; material relating to Physics 25, 
+                        <unitdate>Spring, 1930 and1931 </unitdate>entitled: "Comparison of Electrons and Light"</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref245" level="file">
+            <did>
+               <container type="Box">9</container>
+               <container type="Folder">127</container>
+               <unittitle>"ON THE RESONANT FREQUENCY OF CLOSED CONCENTRIC LINES"</unittitle>
+            </did>
+            <scopecontent>
+               <p>handwritten with 2 typed copies; correspondence relating to publication in 
+                        <title render="italic" linktype="simple">Journal of Applied Physics,</title>
+                  <unitdate>Aug. 5, 1938; </unitdate>graphs and one handwritten sheet of calculations (apparently corrections in the article).</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref247" level="file">
+            <did>
+               <unittitle>MATERIAL RELATING TO HANSEN'S STUDIES AT STANFORD AS A STUDENT</unittitle>
+            </did>
+            <c02 id="ref248" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <container type="Folder">128</container>
+                  <unittitle>NOTES ON WAVE MECHANICS AND ETC.</unittitle>
+               </did>
+               <scopecontent>
+                  <p>handwritten and undated (although could be 1930 or '31), cover diverse subjects such as and including Heisenberg matrix elements.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref250" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <container type="Folder">129</container>
+                  <unittitle>NOTES ON PHYSICS 183,</unittitle>
+                  <unitdate>Winter 1931-'32</unitdate>
+               </did>
+               <scopecontent>
+                  <p>most are carbons, author unknown, handwritten; some typed, author unknown; handwritten, problem sets, etc.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref252" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <container type="Folder">130</container>
+                  <unittitle>SUMMARY OF PHYSICS 123</unittitle>
+                  <physdesc>typed, notation on front cover: not to be removed from the LIBRARY</physdesc>
+               </did>
+            </c02>
+            <c02 id="ref254" level="file">
+               <did>
+                  <container type="Box">9</container>
+                  <container type="Folder">131</container>
+                  <unittitle>NOTES ON PHYSICS 123</unittitle>
+               </did>
+               <scopecontent>
+                  <p>appears to be a duplication of folder 129 except problem sets and leading page indicating they belong to Hansen</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref256" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">132</container>
+                  <unittitle>PROBLEMS FOR PHYSICS 125,</unittitle>
+                  <unitdate>Spring, 1934-35</unitdate>
+               </did>
+               <scopecontent>
+                  <p>also some handwritten material designated as problems [note: these are not solutions]; possibly material Hansen may have used an a teaching assistant; unidentified and undated.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="ref258" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">133</container>
+                  <unittitle>"BOUNDARY WAVE PROBLEMS"</unittitle>
+               </did>
+               <scopecontent>
+                  <p>handwritten, unidentified and undated, appears to be Hansen's handwriting</p>
+               </scopecontent>
+            </c02>
+         </c01>
+         <c01 id="ref260" level="file">
+            <did>
+               <unittitle>MISCELLANEOUS</unittitle>
+            </did>
+            <c02 id="ref261" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">134</container>
+                  <unittitle>Work done by L.H. Franklin (student) for Hansen, includes various loose sheets and diagrams</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref262" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">135</container>
+                  <unittitle>Various graphs, data sheets, etc., apparently done by Beckerley in</unittitle>
+                  <unitdate>1940</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref263" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">136</container>
+                  <unittitle>Various unrelated handwritten calculations, data sheets, etc., undated and unclassified</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref264" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">137</container>
+                  <unittitle>Graphs, most done in</unittitle>
+                  <unitdate>1941</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref265" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">138</container>
+                  <unittitle>Handwritten calculations etc.,</unittitle>
+                  <unitdate>1940-47</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref266" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">139</container>
+                  <unittitle>Various handwritten and typed sheets, one entitled: "Velocity of Light"</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref267" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">140</container>
+                  <unittitle>Calculations, graphs., etc.</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref268" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">141</container>
+                  <unittitle>Report for Hansen's Physics 250 by T.E. Veltfort (student), completed</unittitle>
+                  <unitdate>Dec. 13, 1946</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref269" level="file">
+               <did>
+                  <container type="Box">10</container>
+                  <container type="Folder">142</container>
+                  <unittitle>Various typed reports apparently by Hansen; includes "10 cm Signal Generator" &amp; "A New Type of Variable Stroke Pump", etc.</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref270" level="file">
+            <did>
+               <container type="Box">10</container>
+               <container type="Folder">143</container>
+               <unittitle>FORD "A" MOTOR</unittitle>
+            </did>
+            <scopecontent>
+               <p>various references to one of Hansen's cars and other things of automotive nature, dated early 
+                        <unitdate>1930s.</unitdate>
+               </p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref272" level="file">
+            <did>
+               <container type="Box">10</container>
+               <container type="Folder">144</container>
+               <unittitle>SPHERE DRAWINGS</unittitle>
+            </did>
+            <scopecontent>
+               <p>various drawings, calculations, etc.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref274" level="file">
+            <did>
+               <container type="Box">10</container>
+               <container type="Folder">145</container>
+               <unittitle>W.W. HANSEN MISCELLANEOUS UNSORTED MATERIAL</unittitle>
+            </did>
+            <scopecontent>
+               <p>includes personal correspondence and other unsorted material</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref276" level="file">
+            <did>
+               <container type="Box">11</container>
+               <container type="Folder">146[K-11]</container>
+               <unittitle>"AN INFORMAL REPORT ON KLYSTRON RESEARCH SINCE LAST SPRING"</unittitle>
+            </did>
+            <scopecontent>
+               <p>letter from Hansen to D.L. Webster, 16 typed pages and several photographs</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref278" level="file">
+            <did>
+               <container type="Box">11</container>
+               <container type="Folder">147[K-9A]</container>
+               <unittitle>KLYSTRONICS LECTURE NOTES</unittitle>
+               <unitdate>1940</unitdate>
+            </did>
+            <scopecontent>
+               <p>handwritten, graphs, etc.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref280" level="file">
+            <did>
+               <container type="Box">11</container>
+               <container type="Folder">148[K-9A]</container>
+               <unittitle>"KLYSTRON KLASS"</unittitle>
+               <unitdate>1940</unitdate>
+            </did>
+            <scopecontent>
+               <p>handwritten, dated for fall, 1940, property of Hansen</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref282" level="file">
+            <did>
+               <container type="Box">11</container>
+               <container type="Folder">149[K-9B]</container>
+               <unittitle>KLYSTRONICS, M.I.T.,</unittitle>
+               <unitdate>1941</unitdate>
+            </did>
+            <scopecontent>
+               <p>handwritten, graphs, etc.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref284" level="file">
+            <did>
+               <container type="Box">11</container>
+               <container type="Folder">150</container>
+               <unittitle>RHUMBATRONICS, M.I.T.</unittitle>
+               <unitdate>1941</unitdate>
+               <physdesc>handwritten, 6 pages</physdesc>
+            </did>
+         </c01>
+         <c01 id="ref286" level="file">
+            <did>
+               <container type="Box">11</container>
+               <container type="Folder">151</container>
+               <unittitle>DISPERSION OF GLASS</unittitle>
+            </did>
+            <scopecontent>
+               <p>mimeographed experiment sheet for Physics 152, Autumn, 1935-36; with 5 copies</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref288" level="file">
+            <did>
+               <container type="Box">11</container>
+               <container type="Folder">152</container>
+               <unittitle>OLD EXPERIMENTS</unittitle>
+            </did>
+            <scopecontent>
+               <p>for Physics 152 and 154, most for year 
+                        <unitdate>1935-36, </unitdate>some for 
+                        <unitdate>1941-42, </unitdate>all mimeographed or copied; and "Experiment IV. Wave-Length Measurement with the Michelson Interferometer" for Physics 152</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref290" level="file">
+            <did>
+               <container type="Box">11</container>
+               <container type="Folder">153</container>
+               <unittitle>PHYSICS 152, EXPERIMENTS l, 3, 4, 7, 8, AND 9</unittitle>
+               <unitdate>1946.</unitdate>
+               <physdesc>copies, some with notations</physdesc>
+            </did>
+         </c01>
+         <c01 id="ref292" level="file">
+            <did>
+               <container type="Box">11</container>
+               <container type="Folder">154</container>
+               <unittitle>PHYSICS 152, 153, and 154 EXPERIMENT SHEETS,</unittitle>
+               <unitdate>1947-48</unitdate>
+               <physdesc>all mimeographed, many with handwritten notations.</physdesc>
+            </did>
+         </c01>
+         <c01 id="ref294" level="file">
+            <did>
+               <container type="Box">11</container>
+               <container type="Folder">155</container>
+               <unittitle>MODERN PHYSICS LAB, AUTUMN,</unittitle>
+               <unitdate>1936-37</unitdate>
+            </did>
+            <scopecontent>
+               <p>copies of all experiments; rough draft of article "An Apparatus for the Determination of the Gravitation Constant", 
+                        <unitdate>Jan., 1936;</unitdate> personal correspondence with RCA Co. re: cathode ray tubes, 
+                        <unitdate>1937; </unitdate>data sheets etc.; reprint of article by Hansen and Lundstrom from 
+                        <title render="italic" linktype="simple">Proceedings of the I.R.E. </title>Vol. 33, No. 8, 
+                        <unitdate>August, 1945, </unitdate>entitled: "Experimental Determination of Impedance Functions by the Use . . . "; much handwritten material; copy of patent by Harry Nyquist (Patent Office No. 1,915,440; issued in 
+                        <unitdate>1933)</unitdate>
+               </p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref296" level="file">
+            <did>
+               <container type="Box">11</container>
+               <container type="Folder">156</container>
+               <unittitle>"AIR TRAFFIC CONTROL ANTENNA"</unittitle>
+            </did>
+            <scopecontent>
+               <p>handwritten, appears to be Hansen's, possibly experiment notes, 21 pages</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref298" level="file">
+            <did>
+               <container type="Box">11</container>
+               <container type="Folder">157[E-3]</container>
+               <unittitle>W.W. HANSEN, ELECTRICAL ENGINEERING DEPT., M.I.T. 0N SPERRYGYRO, GARDEN CITY</unittitle>
+            </did>
+            <scopecontent>
+               <p>handwritten notes, calculations, etc.</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref300" level="file">
+            <did>
+               <container type="Box">11</container>
+               <container type="Folder">158[E-6]</container>
+               <unittitle>W.W. HANSEN, RADIATION LAB, U.C.</unittitle>
+            </did>
+            <scopecontent>
+               <p>handwritten notes, calculations, 37 pages</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref302" level="file">
+            <did>
+               <container type="Box">11</container>
+               <container type="Folder">159</container>
+               <unittitle>"NUCLEAR DISPERSION"</unittitle>
+            </did>
+            <scopecontent>
+               <p>notebook and 2 loose sheets, handwritten notes, calculations, graphs, etc., title page dated 
+                        <unitdate>Aug. 29, 1945</unitdate>
+               </p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref304" level="file">
+            <did>
+               <container type="Box">11</container>
+               <container type="Folder">160[I-11]</container>
+               <unittitle>LAB BOOK, NO TITLE</unittitle>
+               <physdesc>handwritten, first 18 pages missing</physdesc>
+            </did>
+         </c01>
+         <c01 id="ref306" level="file">
+            <did>
+               <container type="Box">12</container>
+               <container type="Folder">161[E-2A,B,C]</container>
+               <unittitle>TRANSIENT RESPONSE OF WIDEBAND AMPLIFIERS</unittitle>
+               <physdesc>in three spiral notebooks</physdesc>
+            </did>
+         </c01>
+         <c01 id="ref308" level="file">
+            <did>
+               <container type="Box">12</container>
+               <container type="Folder">162[K-9B]</container>
+               <unittitle>KLYSTRONICS, M.I.T., 1941</unittitle>
+               <physdesc>handwritten</physdesc>
+            </did>
+         </c01>
+         <c01 id="ref310" level="file">
+            <did>
+               <container type="Box">12</container>
+               <container type="Folder">163[P-15]</container>
+               <unittitle>W.W. HANSEN, ELECTRICAL ENGINEERING DEPT., M.I.T. or SPERRY GYRO, GARDEN CITY, [Book 1]; W.W. HANSEN, RADIATION LAB, M.I.T. or SPERRY GYRO [Books 2-6]</unittitle>
+               <physdesc>handwritten</physdesc>
+            </did>
+         </c01>
+         <c01 id="ref312" level="file">
+            <did>
+               <container type="Box">12</container>
+               <container type="Folder">164[E4A,B]</container>
+               <unittitle>A.A. COMPUTER, VOLS. II and III</unittitle>
+            </did>
+            <scopecontent>
+               <p>handwritten, entitled: "Generalities Relative to Electronic Computers", also loose drawings and calculations</p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref314" level="file">
+            <did>
+               <container type="Box">13</container>
+               <container type="Folder">165[C-17]</container>
+               <unittitle>NO TITLE -handwritten, some sheets dated</unittitle>
+               <unitdate>1936</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref315" level="file">
+            <did>
+               <container type="Box">13</container>
+               <container type="Folder">166[P-15]</container>
+               <unittitle>W.W. HANSEN, RADIATION LAB, M.I.T. or SPERRY GYRO, GARDEN CITY [Book 8]</unittitle>
+               <physdesc>handwritten</physdesc>
+            </did>
+         </c01>
+         <c01 id="ref317" level="file">
+            <did>
+               <container type="Box">13</container>
+               <container type="Folder">167[K-10A,B,C]</container>
+               <unittitle>NO TITLE -three handwritten notebooks dated</unittitle>
+               <unitdate>1939</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref318" level="file">
+            <did>
+               <container type="Box">13</container>
+               <container type="Folder">168[E-7]</container>
+               <unittitle>NO TITLE -handwritten notebook,</unittitle>
+               <unitdate>undated</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref319" level="file">
+            <did>
+               <container type="Box">13</container>
+               <container type="Folder">169[?K-10E]</container>
+               <unittitle>NO TITLE -notebook dated</unittitle>
+               <unitdate>1939</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref320" level="file">
+            <did>
+               <container type="Box">13</container>
+               <container type="Folder">170[M-5]</container>
+               <unittitle>W.W. HANSEN, PHYSICS DEPT.</unittitle>
+            </did>
+            <scopecontent>
+               <p>notebooks, graphs, data sheets (?) dated 
+                        <unitdate>1939</unitdate>
+               </p>
+            </scopecontent>
+         </c01>
+         <c01 id="ref322" level="file">
+            <did>
+               <container type="Box">13</container>
+               <container type="Folder">171[I-12]</container>
+               <unittitle>NO TITLE -handwritten notebook</unittitle>
+            </did>
+         </c01>
+         <c01 id="ref323" level="file">
+            <did>
+               <container type="Box">13</container>
+               <container type="Folder">172[K-10D] </container>
+               <unittitle>W.W. HANSEN, PHYSICS DEPT. -handwritten notebook</unittitle>
+            </did>
+         </c01>
+         <c01 id="ref324" level="file">
+            <did>
+               <container type="Box">14</container>
+               <unittitle>Microwave Lecture Notes</unittitle>
+               <unitdate>1944</unitdate>
+               <physdesc>3 vols.</physdesc>
+               <dao linktype="simple"
+                    actuate="onrequest"
+                    title="Microwave Lecture Notes"
+                    role="Image-Service"
+                    href="http://purl.stanford.edu/xb513hm3222"
+                    show="new">
+                  <daodesc>
+                     <p>Microwave Lecture Notes, 1944 </p>
+                  </daodesc>
+               </dao>
+            </did>
+         </c01>
+         <c01 id="ref326" level="file">
+            <did>
+               <unittitle>NOTEBOOK FOR PHYSICS 105/106</unittitle>
+               <unitdate>(1945-1948)</unitdate>
+            </did>
+            <c02 id="ref327" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Preliminary notes</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref328" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Physics 106: experiment 3, Rydberg constant</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref329" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Physics 105: experiment 13, Boltzmann's constant</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref330" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <container type="Folder">4</container>
+                  <unittitle>Modern physics, fall</unittitle>
+                  <unitdate>1946-47</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref331" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <container type="Folder">5</container>
+                  <unittitle>Physics 105: oil drop experiment</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref332" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Physics 106: e/m experiment</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref333" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <container type="Folder">7</container>
+                  <unittitle>Physics 105/106: experiment 4 - gravitation constant</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref334" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Physics 106: thermionic emission</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref335" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Physics 106: velocity of light</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref336" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <container type="Folder">10</container>
+                  <unittitle>Physics 106: cloud chamber</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref337" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Miscellaneous notes and final exam</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref338" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Modern Physics, outlines</unittitle>
+                  <unitdate>1946 -</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref339" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <container type="Folder">13</container>
+                  <unittitle>syllabus, lab groups, and experiment/lecture notes</unittitle>
+                  <unitdate>Spring 1948:</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref340" level="file">
+            <did>
+               <unittitle>NOTEBOOK</unittitle>
+               <unitdate>(1940)</unitdate>
+            </did>
+            <c02 id="ref341" level="file">
+               <did>
+                  <container type="Box">15</container>
+                  <container type="Folder">14</container>
+                  <unittitle>Modern Physics</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref342" level="series">
+            <did>
+               <container type="Box">1</container>
+               <unitid>Accession ARCH-2009-059</unitid>
+               <unittitle>Scans of the 3 volumes located in Box 14 (Microwave lecture notes)</unittitle>
+               <physdesc>
+                  <extent>8 optical disc(s) (DVD)</extent>
+               </physdesc>
+            </did>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

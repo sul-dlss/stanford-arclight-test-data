@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="edited-full-draft"
+              repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/"
+             countrycode="US"
+             mainagencycode="US-CSt"
+             publicid="-//Stanford University::Department of Special Collections and University Archives//TEXT (US::CSt::::[Future Directions in Computing Education Summit white papers])//EN"
+             identifier="ark:/13030/c8rr2103">sc1186.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Future Directions in Computing Education Summit White Papers
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Future Directions in Computing Education Summit White Papers</titleproper>
+            <author>Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Stanford University. Libraries.</publisher>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <address>
+               <addressline>Stanford, California</addressline>
+            </address>
+            <date type="original" normal="2013-12">December 2013</date>
+            <p>Copyright © <date type="copyright" normal="2015">2015</date> The Board of Trustees of the Leland Stanford Junior University. All rights reserved.</p>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date normal="2014-01">January 2014</date>
+            <item/>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection"
+             relatedencoding="MARC21"
+             type="register"
+             id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CSt">SC1186</unitid>
+         <unittitle label="Title:">Future Directions in Computing Education Summit white papers</unittitle>
+         <unitdate normal="2013/2013"
+                   type="inclusive"
+                   label="Dates:"
+                   calendar="gregorian"
+                   era="ce"
+                   datechar="creation">2013</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>9.62 megabyte(s)  (45 computer files)</extent>
+         </physdesc>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Department of Special Collections and University Archives</corpname>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford, CA 94305-6064</addressline>
+               <addressline altrender="email">Email: specialcollections@stanford.edu</addressline>
+               <addressline altrender="phone">Phone: (650) 725-1022</addressline>
+               <addressline altrender="url">URL: http://library.stanford.edu/spc</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <accessrestrict id="ref2">
+            <head>Information about Access</head>
+            <p>The materials are open for research use.</p>
+         </accessrestrict>
+         <userestrict id="ref3">
+            <head>Ownership &amp; Copyright</head>
+            <p>All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Special Collections and University Archives, Stanford University Libraries, Stanford, California 94305-6064. Consent is given on behalf of Special Collections as the owner of the physical items and is not intended to include or imply permission from the copyright owner. Such permission must be obtained from the copyright owner, heir(s) or assigns. See: http://library.stanford.edu/spc/using-collections/permission-publish.</p>
+         </userestrict>
+         <prefercite id="ref4">
+            <head>Cite As</head>
+            <p>[identification of item], Future Directions in Computing Education Summit White Papers (SC1186). Dept. of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>
+         </prefercite>
+      </descgrp>
+      <scopecontent id="ref5">
+         <head>Scope and Contents</head>
+         <p>NSF funded a CS Education Research Summit with the goal of exploring future questions and directions in CS education research. The summit ran January 8-9, 2014 in Orlando, Florida, and was held immediately after the CE21 meeting.</p>
+      </scopecontent>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <persname rules="aacr" source="ingest">Ashcraft, Catherine</persname>
+         <persname rules="aacr" source="ingest">Bienkowski, Marie</persname>
+         <persname rules="aacr" source="ingest">Boyer, Kristy</persname>
+         <persname rules="aacr" source="ingest">Brennan, Karen</persname>
+         <persname rules="aacr" source="ingest">Brown, Quincy</persname>
+         <persname rules="aacr" source="ingest">Caspersen, Michael</persname>
+         <persname rules="aacr" source="ingest">Century, Jeanne</persname>
+         <persname rules="aacr" source="ingest">Cooper, Steve</persname>
+         <persname rules="aacr" source="local">Danielak, Brian.</persname>
+         <persname rules="aacr" source="ingest">Dann, Wanda</persname>
+         <persname rules="aacr" source="ingest">Denner, Jill</persname>
+         <persname rules="aacr" source="ingest">DiSalvo, Betsy</persname>
+         <persname rules="aacr" source="ingest">Doane, William</persname>
+         <persname rules="aacr" source="ingest">Edwards, Stephen</persname>
+         <persname rules="aacr" source="ingest">Eisenberg, Michael</persname>
+         <persname rules="aacr" source="ingest">Fenwick, James</persname>
+         <persname rules="aacr" source="ingest">Fincher, Sally</persname>
+         <persname rules="aacr" source="ingest">Fisler, Kathi</persname>
+         <persname rules="aacr" source="ingest">Gardner-McCune, Christina</persname>
+         <persname rules="aacr" source="ingest">Goode, Joanna</persname>
+         <persname rules="aacr" source="ingest">Grover, Shuchi</persname>
+         <persname rules="aacr" source="ingest">Guzdial, Mark</persname>
+         <persname rules="aacr" source="ingest">Hodari, Apriel</persname>
+         <persname rules="aacr" source="ingest">Hundhausen, Christopher</persname>
+         <persname rules="aacr" source="ingest">Kafai, Yasmin</persname>
+         <persname rules="aacr" source="ingest">Kolikant, Yifat Ben-David</persname>
+         <persname rules="aacr" source="local">Kurtz, Barry L.</persname>
+         <persname rules="aacr" source="ingest">Kurtz, Barry</persname>
+         <persname rules="aacr" source="ingest">Ladner, Richard</persname>
+         <persname rules="aacr" source="ingest">Lee, Cynthia</persname>
+         <persname rules="aacr" source="ingest">Lewis, Clayton</persname>
+         <persname rules="aacr" source="ingest">Lewis, Colleen</persname>
+         <persname rules="aacr" source="ingest">Margolis, Jane</persname>
+         <persname rules="aacr" source="ingest">McCartney, Robert</persname>
+         <corpname rules="dacs" source="ingest">National Science Foundation (U.S.)</corpname>
+         <persname rules="aacr" source="local">Nowack, Palle.</persname>
+         <persname rules="aacr" source="local">Orton, Kai.</persname>
+         <persname rules="aacr" source="ingest">Perez, Lance</persname>
+         <persname rules="aacr" source="ingest">Pontelli, Enrico</persname>
+         <persname rules="aacr" source="ingest">Repenning, Alex</persname>
+         <persname rules="aacr" source="ingest">Resnick, Mitchel</persname>
+         <persname rules="aacr" source="ingest">Roberts, Eric</persname>
+         <persname rules="aacr" source="ingest">Rodger, Susan</persname>
+         <persname rules="aacr" source="ingest">Sahami, Mehran</persname>
+         <persname rules="aacr" source="ingest">Simon, Beth</persname>
+         <persname rules="aacr" source="ingest">Soh, Leen-Kiat</persname>
+         <persname rules="aacr" source="ingest">Sorby, Sheryl</persname>
+         <persname rules="aacr" source="ingest">Stefik, Andreas</persname>
+         <persname rules="aacr" source="ingest">Strobel, Johannes</persname>
+         <persname rules="aacr" source="local">Tashakkori, Rahman.</persname>
+         <persname rules="aacr" source="ingest">Tenenberg, Josh</persname>
+         <persname rules="aacr" source="ingest">Wieman, Carl</persname>
+         <persname rules="aacr" source="ingest">Wilensky, Uri</persname>
+         <persname rules="aacr" source="ingest">Yadav, Aman</persname>
+         <subject source="lcsh">Computer science--Study and teaching</subject>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.5">
+         <head>Collection Contents</head>
+         <c01 id="ref6" level="series">
+            <did>
+               <unittitle>White papers</unittitle>
+               <unitdate normal="2013/2013">2013</unitdate>
+               <physdesc>
+                  <extent>43 computer file(s) (PDF)</extent>
+               </physdesc>
+               <dao linktype="simple"
+                    actuate="onrequest"
+                    title="White papers"
+                    role="Text-OCR-Unedited"
+                    href="http://purl.stanford.edu/mn485tg1952"
+                    show="new">
+                  <daodesc>
+                     <p>White papers, 2013 </p>
+                  </daodesc>
+               </dao>
+            </did>
+            <c02 id="ref8" level="subseries">
+               <did>
+                  <unittitle>Broadening Participation in Computing</unittitle>
+               </did>
+               <c03 id="ref9" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Ashcraft, Catherine</persname>, University of Colorado - Boulder, 
+                                <title render="italic" linktype="simple">Increasing the Participation of Women and Underrepresented Minorities in Computing: Missing Perspectives and New Directions</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref11" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Brown, Quincy</persname>, Bowie State, 
+                                <title render="italic" linktype="simple">MOTIVATE: An Opportunity to Impact African American High School Girls</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref13" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Denner, Jill</persname>, ETR Associates, 
+                                <title render="italic" linktype="simple">Community College Students and Computer Science: A Call for Research on Enrollment and Persistence among Underrepresented Groups</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref15" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>DiSalvo, Betsy</persname>, Georgia Tech, 
+                                <title render="italic" linktype="simple">Navigating Motivations to Not Learn Computer Science</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref17" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Guzdial, Mark</persname>, Georgia Tech, 
+                                <title render="italic" linktype="simple">Making Programming Meaningful to Induce Passion for Broadening Computing</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref19" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Hodari, Apriel</persname>, Council for Opportunity in Education, 
+                                <title render="italic" linktype="simple">Struggle, Strive and Surprise: How Womanist Perspectives Might Broaden Participation in Computer Science</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref21" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Ladner, Richard</persname>, University of Washington, 
+                                <title render="italic" linktype="simple">Including Students with Disabilities in Computing Education for the 21st Century</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref23" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Lewis, Clayton</persname>, University of Colorado - Boulder, 
+                                <title render="italic" linktype="simple">Nonvisual Access to Computation and Programming</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref25" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Margolis, Jane</persname>, UCLA, 
+                                <title render="italic" linktype="simple">That Classroom “Magic:” What are the characteristics of an effective pre-college teaching practice for broadening participation in computing …….and how do we know?</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref27" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Pontelli, Enrico</persname>, New Mexico State, 
+                                <title render="italic" linktype="simple">Exploring Non-Scientific Disciplines as a K-12 Vehicle to Carry Computational Thinking: An Agenda</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref29" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Stefik, Andreas</persname>, UNLV, 
+                                <title render="italic" linktype="simple">The Elephant in the Room</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref31" level="subseries">
+               <did>
+                  <unittitle>K-12</unittitle>
+               </did>
+               <c03 id="ref32" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Boyer, Kristy</persname>, North Carolina State, 
+                                <title render="italic" linktype="simple">Toward a Computer Science Learning Progression: Investigating the Role of Adaptive Learning Environments for K–12</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref34" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Brennan, Karen</persname>, Harvard University, 
+                                <title render="italic" linktype="simple">Social Dimensions of Computing Education</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref36" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Caspersen, Michael</persname>, and 
+                                <persname>Nowack, Palle</persname>, Aarhus University - Denmark, 
+                                <title render="italic" linktype="simple">Model Based Thinking &amp; Practice</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref38" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Fisler, Kathi</persname>, WPI, 
+                                <title render="italic" linktype="simple">Two Themes: Language Bias and Informal Education on Secure Coding</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref40" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Gardner-McCune, Christina</persname>, Clemson University, 
+                                <title render="italic" linktype="simple">A Case for Learning Research in Computer Science Education</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref42" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Goode, Joanna</persname>, University of Oregon, 
+                                <title render="italic" linktype="simple">That Classroom “Magic:” What are the characteristics of an effective pre-college teaching practice for broadening participation in computing …….and how do we know?</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref44" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Grover, Shuchi</persname>, Stanford University, 
+                                <title render="italic" linktype="simple">Research Imperatives for CS Education in K-12</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref46" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Kolikant, Yifat Ben-David</persname>, Hebrew University of Jerusalem, 
+                                <title render="italic" linktype="simple">Professional lives amidst instability with the help of a crowd</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref48" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Resnick, Mitchel</persname>, MIT, 
+                                <title render="italic" linktype="simple">How can we help a more diverse range of young people become fluent with computational technologies?</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref50" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Yadav, Aman</persname>, Purdue University, 
+                                <title render="italic" linktype="simple">Professional Development for CS Teachers: A Framework and its Implementation</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref52" level="subseries">
+               <did>
+                  <unittitle>STEM Education</unittitle>
+               </did>
+               <c03 id="ref53" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Dann, Wanda</persname>, Carnegie Mellon University, 
+                                <title render="italic" linktype="simple">Parallelism and Concurrency</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref55" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Lewis, Colleen</persname>, Harvey Mudd College, 
+                                <title render="italic" linktype="simple">Understanding the Connection between CS and Other Domains</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref102" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Orton, Kai</persname>, Northwestern University, Embedding Computational Thinking in Science, Technology, Engineering, and Math (CT-STEM)</unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref57" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Perez, Lance</persname>, University of Nebraska, 
+                                <title render="italic" linktype="simple">Abstract Thinking and Problem Solving in Undergraduate STEM Curricula</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref59" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Repenning, Alex</persname>, University of Colorado - Boulder, 
+                                <title render="italic" linktype="simple">Scalable Game Design: Broadening Participation by Integrating Game Design and Science Simulation Building into Middle School Curricula</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref61" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Sorby, Sheryl</persname>, Ohio State University, 
+                                <title render="italic" linktype="simple">The Case for Spatial Skills Instruction in Computer Science</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref63" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Strobel, Johannes</persname>, Texas A&amp;M, 
+                                <title render="italic" linktype="simple">CS Education and Engineering Education: Joint Research to Develop Students' Interest and Success</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref65" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Wilensky, Uri</persname>, Northwestern University, 
+                                <title render="italic" linktype="simple">Computational Thinking Through Modeling and Simulation</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref67" level="subseries">
+               <did>
+                  <unittitle>Structure/Policy</unittitle>
+               </did>
+               <c03 id="ref68" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Century, Jeanne</persname>, University of Chicago, 
+                                <title render="italic" linktype="simple">Developing Research-Informed Instructional Resources to Support Broad Scale Access to High Quality Computer Science Education: A Research Agenda</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref70" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Doane, William</persname>, IDA-STPI, 
+                                <title render="italic" linktype="simple">Computing Education Research</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref72" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Roberts, Eric</persname>, Stanford University, 
+                                <title render="italic" linktype="simple">Computer Science Education Research Priorities for the Next Five Years</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref74" level="subseries">
+               <did>
+                  <unittitle>Students and Learning</unittitle>
+               </did>
+               <c03 id="ref75" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Bienkowski, Marie</persname>, SRI, 
+                                <title render="italic" linktype="simple">Building Evidence and Building Practice in Computer Science Education</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref101" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Danielak, Brian</persname>, University of Wisconsin, Students as designers of programs: Why we should and how we can study the practices and artifacts that lead to students' final code</unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref77" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Edwards, Stephen</persname>, Virginia Tech, 
+                                <title render="italic" linktype="simple">Continuous Data-driven Learning Assessment</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref79" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Eisenberg, Michael</persname>, University of Colorado - Boulder, 
+                                <title render="italic" linktype="simple">Computer Science Education as an Aspect of the Maker Movement</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref81" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Fenwick, James B.</persname>, 
+                                <persname>Kurtz, Barry L.</persname>, and 
+                                <persname>Tashakkori, Rahman</persname>, Appalachian State University, 
+                                <title render="italic" linktype="simple">Using the Learning Cycle in Computer Science Education</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref83" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Fincher, Sally</persname>, University of Kent, 
+                                <title render="italic" linktype="simple">The Quantified Learner</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref85" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Hundhausen, Christopher</persname>, Washington State University, 
+                                <title render="italic" linktype="simple">Leveraging Analyses of Big Data on Computing Students’ Programming and Social Interaction Processes to Build More Effective Programming Environments and Pedagogical Interventions</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref87" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Kafai, Yasmin</persname>, University of Pennsylvania, 
+                                <title render="italic" linktype="simple">Rebooting Competitions: Reviewing, Recalibrating and Reimagining Public Events for Supporting Computing</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref89" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Lee, Cynthia</persname>, Stanford University, 
+                                <title render="italic" linktype="simple">Adapting to Pervasive Computing, and Making Great Pedagogy</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref91" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>McCartney, Robert</persname>, University of Connecticut, 
+                                <title render="italic" linktype="simple">How do computer scientists develop during their university studies?</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref93" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Rodger, Susan</persname>, Duke University, 
+                                <title render="italic" linktype="simple">Visualization and Interaction in Learning Computer Science Concepts</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref95" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Sahami, Mehran</persname>, Stanford University, 
+                                <title render="italic" linktype="simple">Expanding Computer Science Education by Developing Scalable Methods for Assessment</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref97" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Soh, Leen-Kiat</persname>, University of Nebraska, 
+                                <title render="italic" linktype="simple">Investigating and Understanding the Role and Impact of Creative Thinking and Competency on Improving CS Education</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+               <c03 id="ref99" level="file">
+                  <did>
+                     <unittitle>
+                        <persname>Tenenberg, Josh</persname>, University of Washington - Tacoma, 
+                                <title render="italic" linktype="simple">Reframing research questions in CS education: unpacking the suppositions about mind and activity</title>
+                     </unittitle>
+                     <unitdate>2013</unitdate>
+                     <physdesc>
+                        <extent>1 computer file(s) (PDF)</extent>
+                     </physdesc>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>
